@@ -1,3 +1,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@10_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@09_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@10.0.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@11_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@11_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@11.0.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.guava@11.0.1_1?classifier=sources

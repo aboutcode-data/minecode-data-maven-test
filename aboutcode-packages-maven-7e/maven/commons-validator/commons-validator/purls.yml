@@ -13,3 +13,5 @@
 - pkg:maven/commons-validator/commons-validator@1.0.2
 - pkg:maven/commons-validator/commons-validator@1.0.1
 - pkg:maven/commons-validator/commons-validator@1.0
+- pkg:maven/commons-validator/commons-validator@1.4.0
+- pkg:maven/commons-validator/commons-validator@1.4.0?classifier=sources
