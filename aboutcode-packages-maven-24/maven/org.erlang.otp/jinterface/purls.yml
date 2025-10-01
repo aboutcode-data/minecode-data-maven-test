@@ -8,3 +8,5 @@
 - pkg:maven/org.erlang.otp/jinterface@1.5.3?classifier=sources
 - pkg:maven/org.erlang.otp/jinterface@1.5.2
 - pkg:maven/org.erlang.otp/jinterface@1.5.2?classifier=sources
+- pkg:maven/org.erlang.otp/jinterface@1.5.5
+- pkg:maven/org.erlang.otp/jinterface@1.5.5?classifier=sources

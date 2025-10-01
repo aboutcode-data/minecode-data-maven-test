@@ -116,3 +116,5 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@8.1.0.RC2?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.0.RC2?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.0.RC2?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.0.RC3?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.0.RC3?classifier=sources

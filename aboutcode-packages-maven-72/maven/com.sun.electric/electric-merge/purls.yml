@@ -4,3 +4,5 @@
 - pkg:maven/com.sun.electric/electric-merge@9.00-q
 - pkg:maven/com.sun.electric/electric-merge@9.00-q?classifier=sources
 - pkg:maven/com.sun.electric/electric-merge@9.00
+- pkg:maven/com.sun.electric/electric-merge@9.02-a
+- pkg:maven/com.sun.electric/electric-merge@9.02-a?classifier=sources

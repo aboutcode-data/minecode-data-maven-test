@@ -56,3 +56,5 @@
 - pkg:maven/org.mortbay.jetty.testwars/dummy-java11-lib@8.1.0.RC2?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/dummy-java11-lib@7.6.0.RC2
 - pkg:maven/org.mortbay.jetty.testwars/dummy-java11-lib@7.6.0.RC2?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/dummy-java11-lib@7.6.0.RC3
+- pkg:maven/org.mortbay.jetty.testwars/dummy-java11-lib@7.6.0.RC3?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.synchronoss/cpo@3.11?classifier=sources
 - pkg:maven/org.synchronoss/cpo@3.10
 - pkg:maven/org.synchronoss/cpo@3.10?classifier=sources
+- pkg:maven/org.synchronoss/cpo@4.0.12
+- pkg:maven/org.synchronoss/cpo@4.0.12?classifier=sources
