@@ -1,0 +1,5 @@
+- pkg:maven/org.ow2.jonas/jjonas-itests-applications-jsf-1.x@5.3.0-M4?type=war
+- pkg:maven/org.ow2.jonas/jjonas-itests-applications-jsf-1.x@5.3.0-M3?type=war
+- pkg:maven/org.ow2.jonas/jjonas-itests-applications-jsf-1.x@5.3.0-M3?classifier=sources
+- pkg:maven/org.ow2.jonas/jjonas-itests-applications-jsf-1.x@5.3.0-M2?type=war
+- pkg:maven/org.ow2.jonas/jjonas-itests-applications-jsf-1.x@5.3.0-M2?classifier=sources
