@@ -3,3 +3,5 @@
 - pkg:maven/org.ow2.weblab.portlets/document-viewer-portlet@1.4?type=war
 - pkg:maven/org.ow2.weblab.portlets/document-viewer-portlet@1.4?classifier=sources
 - pkg:maven/org.ow2.weblab.portlets/document-viewer-portlet@1.3?type=war
+- pkg:maven/org.ow2.weblab.portlets/document-viewer-portlet@1.6-RC1?type=war
+- pkg:maven/org.ow2.weblab.portlets/document-viewer-portlet@1.6-RC1?classifier=sources

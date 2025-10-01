@@ -67,3 +67,5 @@
 - pkg:maven/org.slf4j/slf4j-nop@1.0-beta4
 - pkg:maven/org.slf4j/slf4j-nop@1.0
 - pkg:maven/org.slf4j/slf4j-nop@1.0?classifier=sources
+- pkg:maven/org.slf4j/slf4j-nop@1.6.3
+- pkg:maven/org.slf4j/slf4j-nop@1.6.3?classifier=sources

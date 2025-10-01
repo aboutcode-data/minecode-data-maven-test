@@ -120,3 +120,5 @@
 - pkg:maven/com.sun.jersey.contribs/wadl-resourcedoc-doclet@1.0.3?classifier=sources
 - pkg:maven/com.sun.jersey.contribs/wadl-resourcedoc-doclet@1.0.2
 - pkg:maven/com.sun.jersey.contribs/wadl-resourcedoc-doclet@1.0.2?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/wadl-resourcedoc-doclet@1.10-b03
+- pkg:maven/com.sun.jersey.contribs/wadl-resourcedoc-doclet@1.10-b03?classifier=sources

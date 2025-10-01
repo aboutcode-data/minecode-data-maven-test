@@ -57,3 +57,5 @@
 - pkg:maven/com.sun.jersey.samples/bookmark-em@1.1.5?type=war
 - pkg:maven/com.sun.jersey.samples/bookmark-em@1.1.4.1?type=war
 - pkg:maven/com.sun.jersey.samples/bookmark-em@1.1.4?type=war
+- pkg:maven/com.sun.jersey.samples/bookmark-em@1.10-b03?type=war
+- pkg:maven/com.sun.jersey.samples/bookmark-em@1.10-b03?classifier=sources

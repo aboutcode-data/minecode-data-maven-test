@@ -56,3 +56,5 @@
 - pkg:maven/org.cometd/cometd-demo@1.0.0rc0?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@1.0.0?type=war
 - pkg:maven/org.cometd/cometd-demo@1.0.0?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@2.4.0.RC1?type=war
+- pkg:maven/org.cometd/cometd-demo@2.4.0.RC1?classifier=sources

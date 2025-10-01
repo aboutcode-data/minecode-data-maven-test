@@ -1,2 +1,4 @@
 - pkg:maven/org.hibernate/hibernate-search-engine@4.0.0.Beta2
 - pkg:maven/org.hibernate/hibernate-search-engine@4.0.0.Beta2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-engine@4.0.0.CR1
+- pkg:maven/org.hibernate/hibernate-search-engine@4.0.0.CR1?classifier=sources

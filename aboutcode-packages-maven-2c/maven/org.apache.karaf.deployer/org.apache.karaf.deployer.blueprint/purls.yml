@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@2.1.0?classifier=sources
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@2.0.0
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@2.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@2.2.4
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@2.2.4?classifier=sources

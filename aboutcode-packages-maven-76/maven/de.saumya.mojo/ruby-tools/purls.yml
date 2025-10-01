@@ -28,3 +28,5 @@
 - pkg:maven/de.saumya.mojo/ruby-tools@0.2?classifier=sources
 - pkg:maven/de.saumya.mojo/ruby-tools@0.1
 - pkg:maven/de.saumya.mojo/ruby-tools@0.1?classifier=sources
+- pkg:maven/de.saumya.mojo/ruby-tools@0.28.5
+- pkg:maven/de.saumya.mojo/ruby-tools@0.28.5?classifier=sources

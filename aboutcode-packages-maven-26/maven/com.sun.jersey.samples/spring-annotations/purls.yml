@@ -66,3 +66,5 @@
 - pkg:maven/com.sun.jersey.samples/spring-annotations@1.0.2?type=war
 - pkg:maven/com.sun.jersey.samples/spring-annotations@1.0.1?type=war
 - pkg:maven/com.sun.jersey.samples/spring-annotations@1.0?type=war
+- pkg:maven/com.sun.jersey.samples/spring-annotations@1.10-b03?type=war
+- pkg:maven/com.sun.jersey.samples/spring-annotations@1.10-b03?classifier=sources

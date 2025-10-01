@@ -23,3 +23,5 @@
 - pkg:maven/org.codehaus.xsite/xsite-maven-plugin@1.0-beta-1
 - pkg:maven/org.codehaus.xsite/xsite-maven-plugin@1.0
 - pkg:maven/org.codehaus.xsite/xsite-maven-plugin@1.0?classifier=sources
+- pkg:maven/org.codehaus.xsite/xsite-maven-plugin@1.2.1
+- pkg:maven/org.codehaus.xsite/xsite-maven-plugin@1.2.1?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/com.sun.jersey/jersey-bundle@1.0?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-bundle@0.9-ea
 - pkg:maven/com.sun.jersey/jersey-bundle@0.9-ea?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-bundle@1.10-b03
+- pkg:maven/com.sun.jersey/jersey-bundle@1.10-b03?classifier=sources
