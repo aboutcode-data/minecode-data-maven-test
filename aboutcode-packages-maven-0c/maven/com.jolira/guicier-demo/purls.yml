@@ -18,3 +18,5 @@
 - pkg:maven/com.jolira/guicier-demo@1.0.18?classifier=sources
 - pkg:maven/com.jolira/guicier-demo@1.0.17?type=war
 - pkg:maven/com.jolira/guicier-demo@1.0.17?classifier=sources
+- pkg:maven/com.jolira/guicier-demo@2.0.4?type=war
+- pkg:maven/com.jolira/guicier-demo@2.0.4?classifier=sources

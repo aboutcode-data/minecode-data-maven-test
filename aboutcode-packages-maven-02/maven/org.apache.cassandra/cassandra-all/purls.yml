@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@0.7.0-rc4?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@0.7.0
 - pkg:maven/org.apache.cassandra/cassandra-all@0.7.0?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@1.0.0
+- pkg:maven/org.apache.cassandra/cassandra-all@1.0.0?classifier=sources

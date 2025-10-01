@@ -109,3 +109,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.0.0.1beta1?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.0.0.1beta0
 - pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.0.0.1beta0?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@8.0.4.v20111024
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@8.0.4.v20111024?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.5.4.v20111024
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.5.4.v20111024?classifier=sources

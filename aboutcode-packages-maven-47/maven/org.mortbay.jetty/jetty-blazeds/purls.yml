@@ -88,3 +88,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-blazeds@7.0.0.RC2?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-blazeds@7.0.0.1beta3
 - pkg:maven/org.mortbay.jetty/jetty-blazeds@7.0.0.1beta3?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-blazeds@8.0.4.v20111024
+- pkg:maven/org.mortbay.jetty/jetty-blazeds@8.0.4.v20111024?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-blazeds@7.5.4.v20111024
+- pkg:maven/org.mortbay.jetty/jetty-blazeds@7.5.4.v20111024?classifier=sources

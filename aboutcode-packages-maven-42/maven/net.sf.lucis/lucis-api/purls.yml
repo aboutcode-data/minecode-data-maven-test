@@ -68,3 +68,5 @@
 - pkg:maven/net.sf.lucis/lucis-api@0.0.10?classifier=sources
 - pkg:maven/net.sf.lucis/lucis-api@0.0.1
 - pkg:maven/net.sf.lucis/lucis-api@0.0.1?classifier=sources
+- pkg:maven/net.sf.lucis/lucis-api@2.4.34
+- pkg:maven/net.sf.lucis/lucis-api@2.4.34?classifier=sources

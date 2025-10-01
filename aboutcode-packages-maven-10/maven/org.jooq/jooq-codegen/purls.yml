@@ -22,3 +22,5 @@
 - pkg:maven/org.jooq/jooq-codegen@1.5.7.1?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@1.5.7
 - pkg:maven/org.jooq/jooq-codegen@1.5.7?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@1.6.8
+- pkg:maven/org.jooq/jooq-codegen@1.6.8?classifier=sources

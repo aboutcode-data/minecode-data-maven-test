@@ -10,3 +10,5 @@
 - pkg:maven/org.sqlproc/sql-processor-spring@1.4.1?classifier=sources
 - pkg:maven/org.sqlproc/sql-processor-spring@1.4.0
 - pkg:maven/org.sqlproc/sql-processor-spring@1.4.0?classifier=sources
+- pkg:maven/org.sqlproc/sql-processor-spring@1.6.2
+- pkg:maven/org.sqlproc/sql-processor-spring@1.6.2?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.cloudbees/cloudbees-api-client-nodeps@0.8.0
 - pkg:maven/com.cloudbees/cloudbees-api-client-nodeps@0.8.0?classifier=sources
+- pkg:maven/com.cloudbees/cloudbees-api-client-nodeps@1.1.0
+- pkg:maven/com.cloudbees/cloudbees-api-client-nodeps@1.1.0?classifier=sources
+- pkg:maven/com.cloudbees/cloudbees-api-client-nodeps@1.1.1
+- pkg:maven/com.cloudbees/cloudbees-api-client-nodeps@1.1.1?classifier=sources

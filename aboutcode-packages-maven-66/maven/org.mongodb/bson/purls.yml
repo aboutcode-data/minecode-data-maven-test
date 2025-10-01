@@ -12,3 +12,5 @@
 - pkg:maven/org.mongodb/bson@2.3?classifier=sources
 - pkg:maven/org.mongodb/bson@2.2
 - pkg:maven/org.mongodb/bson@2.2?classifier=sources
+- pkg:maven/org.mongodb/bson@2.7.0-rc1
+- pkg:maven/org.mongodb/bson@2.7.0-rc1?classifier=sources

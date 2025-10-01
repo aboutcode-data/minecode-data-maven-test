@@ -95,3 +95,5 @@
 - pkg:maven/com.vaadin/vaadin@6.1.0
 - pkg:maven/com.vaadin/vaadin@6.0.1
 - pkg:maven/com.vaadin/vaadin@6.0.0
+- pkg:maven/com.vaadin/vaadin@6.7.1
+- pkg:maven/com.vaadin/vaadin@6.7.1?classifier=sources

@@ -78,3 +78,6 @@
 - pkg:maven/org.openengsb.tooling.archetypes/openengsb-tooling-archetypes-connector@1.0.0.M7?classifier=sources
 - pkg:maven/org.openengsb.tooling.archetypes/openengsb-tooling-archetypes-connector@1.0.0.M6
 - pkg:maven/org.openengsb.tooling.archetypes/openengsb-tooling-archetypes-connector@1.0.0.M6?classifier=sources
+- pkg:maven/org.openengsb.tooling.archetypes/openengsb-tooling-archetypes-connector@2.0.4?classifier=sources
+- pkg:maven/org.openengsb.tooling.archetypes/openengsb-tooling-archetypes-connector@2.1.0?classifier=sources
+- pkg:maven/org.openengsb.tooling.archetypes/openengsb-tooling-archetypes-connector@2.1.1?classifier=sources
