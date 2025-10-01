@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.openejb/openejb-itests-interceptor-beans@3.0
 - pkg:maven/org.apache.openejb/openejb-itests-interceptor-beans@3.0?classifier=sources
 - pkg:maven/org.apache.openejb/openejb-itests-interceptor-beans@3.0.4?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-itests-interceptor-beans@4.0.0-beta-2
+- pkg:maven/org.apache.openejb/openejb-itests-interceptor-beans@4.0.0-beta-2?classifier=sources

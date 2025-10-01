@@ -74,3 +74,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-logback@7.6.0.RC4?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-logback@7.6.0.RC5
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-logback@7.6.0.RC5?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-logback@7.6.0.v20120127
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-logback@7.6.0.v20120127?classifier=sources

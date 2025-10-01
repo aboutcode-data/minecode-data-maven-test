@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.qpid/qpid-client@0.12?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-client@0.10
 - pkg:maven/org.apache.qpid/qpid-client@0.10?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-client@0.14
+- pkg:maven/org.apache.qpid/qpid-client@0.14?classifier=sources

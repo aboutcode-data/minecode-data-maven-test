@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.camel/camel-example-axis@2.8.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-axis@2.7.5?type=war
 - pkg:maven/org.apache.camel/camel-example-axis@2.7.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-axis@2.8.4?type=war
+- pkg:maven/org.apache.camel/camel-example-axis@2.8.4?classifier=sources

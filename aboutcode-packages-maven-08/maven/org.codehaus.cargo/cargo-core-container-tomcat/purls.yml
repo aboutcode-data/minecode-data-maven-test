@@ -51,3 +51,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@0.7
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.1.4
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.1.4?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.2.0
+- pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.2.0?classifier=sources

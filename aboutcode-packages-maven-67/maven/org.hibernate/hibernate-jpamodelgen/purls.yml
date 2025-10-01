@@ -14,3 +14,5 @@
 - pkg:maven/org.hibernate/hibernate-jpamodelgen@1.0.0-Beta-3?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jpamodelgen@1.0.0-Beta-2
 - pkg:maven/org.hibernate/hibernate-jpamodelgen@1.0.0-Beta-2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jpamodelgen@1.2.0.CR1
+- pkg:maven/org.hibernate/hibernate-jpamodelgen@1.2.0.CR1?classifier=sources

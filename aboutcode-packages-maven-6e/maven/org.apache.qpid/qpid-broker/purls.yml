@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.qpid/qpid-broker@0.14
+- pkg:maven/org.apache.qpid/qpid-broker@0.14?classifier=sources

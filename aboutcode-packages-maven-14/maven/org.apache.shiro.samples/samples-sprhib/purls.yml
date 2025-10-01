@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.shiro.samples/samples-sprhib@1.1.0?classifier=sources
 - pkg:maven/org.apache.shiro.samples/samples-sprhib@1.0.0-incubating?type=war
 - pkg:maven/org.apache.shiro.samples/samples-sprhib@1.0.0-incubating?classifier=sources
+- pkg:maven/org.apache.shiro.samples/samples-sprhib@1.2.0?type=war
+- pkg:maven/org.apache.shiro.samples/samples-sprhib@1.2.0?classifier=sources

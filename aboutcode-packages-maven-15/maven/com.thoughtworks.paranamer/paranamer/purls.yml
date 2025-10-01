@@ -51,3 +51,5 @@
 - pkg:maven/com.thoughtworks.paranamer/paranamer@2.4-debug?classifier=sources
 - pkg:maven/com.thoughtworks.paranamer/paranamer@2.4
 - pkg:maven/com.thoughtworks.paranamer/paranamer@2.4?classifier=sources
+- pkg:maven/com.thoughtworks.paranamer/paranamer@2.4.1
+- pkg:maven/com.thoughtworks.paranamer/paranamer@2.4.1?classifier=sources
