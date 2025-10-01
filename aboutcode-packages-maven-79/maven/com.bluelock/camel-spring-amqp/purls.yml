@@ -1,2 +1,4 @@
 - pkg:maven/com.bluelock/camel-spring-amqp@1.0
 - pkg:maven/com.bluelock/camel-spring-amqp@1.0?classifier=sources
+- pkg:maven/com.bluelock/camel-spring-amqp@1.1.0
+- pkg:maven/com.bluelock/camel-spring-amqp@1.1.0?classifier=sources

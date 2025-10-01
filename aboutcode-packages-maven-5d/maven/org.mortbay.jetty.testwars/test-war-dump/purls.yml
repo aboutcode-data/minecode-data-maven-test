@@ -68,3 +68,7 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-dump@8.1.0.v20120127?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.0.v20120127?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.0.v20120127?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@8.1.1.v20120215?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@8.1.1.v20120215?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.1.v20120215?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.1.v20120215?classifier=sources

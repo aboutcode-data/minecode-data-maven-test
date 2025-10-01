@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@0.13.0
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@0.12.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@0.14.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@0.14.0?classifier=sources

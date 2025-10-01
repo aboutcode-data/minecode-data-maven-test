@@ -42,3 +42,5 @@
 - pkg:maven/net.jangaroo/jangaroo-maven-plugin@0.9.9?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-maven-plugin@0.9.8
 - pkg:maven/net.jangaroo/jangaroo-maven-plugin@0.9.8?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-maven-plugin@0.9.10
+- pkg:maven/net.jangaroo/jangaroo-maven-plugin@0.9.10?classifier=sources
