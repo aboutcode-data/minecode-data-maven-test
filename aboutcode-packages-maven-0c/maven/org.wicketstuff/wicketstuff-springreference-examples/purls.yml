@@ -18,3 +18,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-springreference-examples@1.5-RC3?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-springreference-examples@1.5.2?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-springreference-examples@1.5.2?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-springreference-examples@1.5.3?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-springreference-examples@1.5.3?classifier=sources

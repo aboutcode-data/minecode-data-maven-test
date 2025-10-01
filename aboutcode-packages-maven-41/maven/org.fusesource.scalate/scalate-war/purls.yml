@@ -10,3 +10,5 @@
 - pkg:maven/org.fusesource.scalate/scalate-war@1.2?type=war
 - pkg:maven/org.fusesource.scalate/scalate-war@1.1?type=war
 - pkg:maven/org.fusesource.scalate/scalate-war@1.0?type=war
+- pkg:maven/org.fusesource.scalate/scalate-war@1.5.3-scala_2.8.2?type=war
+- pkg:maven/org.fusesource.scalate/scalate-war@1.5.3?type=war

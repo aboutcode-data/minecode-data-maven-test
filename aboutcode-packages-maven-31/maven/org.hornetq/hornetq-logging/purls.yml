@@ -104,3 +104,5 @@
 - pkg:maven/org.hornetq/hornetq-logging@2.0.0.CR3
 - pkg:maven/org.hornetq/hornetq-logging@2.0.0.CR2
 - pkg:maven/org.hornetq/hornetq-logging@2.0.0.BETA5
+- pkg:maven/org.hornetq/hornetq-logging@2.2.9.AS7.Final
+- pkg:maven/org.hornetq/hornetq-logging@2.2.9.AS7.Final?classifier=sources

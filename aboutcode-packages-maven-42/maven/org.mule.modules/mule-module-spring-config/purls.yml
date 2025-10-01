@@ -54,3 +54,5 @@
 - pkg:maven/org.mule.modules/mule-module-spring-config@2.0.0-RC2?classifier=sources
 - pkg:maven/org.mule.modules/mule-module-spring-config@2.0.0
 - pkg:maven/org.mule.modules/mule-module-spring-config@2.0.0?classifier=sources
+- pkg:maven/org.mule.modules/mule-module-spring-config@3.2.1
+- pkg:maven/org.mule.modules/mule-module-spring-config@3.2.1?classifier=sources

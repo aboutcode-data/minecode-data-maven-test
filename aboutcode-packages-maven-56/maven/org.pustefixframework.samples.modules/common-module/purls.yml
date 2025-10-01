@@ -24,3 +24,5 @@
 - pkg:maven/org.pustefixframework.samples.modules/common-module@0.16.5?classifier=sources
 - pkg:maven/org.pustefixframework.samples.modules/common-module@0.16.10
 - pkg:maven/org.pustefixframework.samples.modules/common-module@0.16.10?classifier=sources
+- pkg:maven/org.pustefixframework.samples.modules/common-module@0.18.2
+- pkg:maven/org.pustefixframework.samples.modules/common-module@0.18.2?classifier=sources

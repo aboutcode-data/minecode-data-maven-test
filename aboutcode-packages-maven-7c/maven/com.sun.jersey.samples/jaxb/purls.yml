@@ -74,3 +74,5 @@
 - pkg:maven/com.sun.jersey.samples/jaxb@1.10-b05?classifier=sources
 - pkg:maven/com.sun.jersey.samples/jaxb@1.10
 - pkg:maven/com.sun.jersey.samples/jaxb@1.10?classifier=sources
+- pkg:maven/com.sun.jersey.samples/jaxb@1.11-b01
+- pkg:maven/com.sun.jersey.samples/jaxb@1.11-b01?classifier=sources

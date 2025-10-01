@@ -64,3 +64,5 @@
 - pkg:maven/org.hornetq/hornetq-spring-integration@2.2.0.EAP-QA-10148?classifier=sources
 - pkg:maven/org.hornetq/hornetq-spring-integration@2.2.0.EAP-QA-10136
 - pkg:maven/org.hornetq/hornetq-spring-integration@2.2.0.EAP-QA-10136?classifier=sources
+- pkg:maven/org.hornetq/hornetq-spring-integration@2.2.9.AS7.Final
+- pkg:maven/org.hornetq/hornetq-spring-integration@2.2.9.AS7.Final?classifier=sources

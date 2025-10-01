@@ -28,3 +28,5 @@
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-xslt-plugin@0.16.3?classifier=sources
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-xslt-plugin@0.16.10
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-xslt-plugin@0.16.10?classifier=sources
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-xslt-plugin@0.18.2
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-xslt-plugin@0.18.2?classifier=sources
