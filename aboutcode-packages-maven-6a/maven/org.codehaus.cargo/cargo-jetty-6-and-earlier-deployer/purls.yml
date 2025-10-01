@@ -16,3 +16,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-jetty-6-and-earlier-deployer@1.0.3?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-jetty-6-and-earlier-deployer@1.0.2?type=war
 - pkg:maven/org.codehaus.cargo/cargo-jetty-6-and-earlier-deployer@1.0.2?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-6-and-earlier-deployer@1.1.4?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-6-and-earlier-deployer@1.1.4?classifier=sources

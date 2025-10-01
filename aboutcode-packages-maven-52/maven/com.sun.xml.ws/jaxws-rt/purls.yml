@@ -79,3 +79,7 @@
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b07?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b10
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b10?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b12
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b12?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b11
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-promoted-b11?classifier=sources

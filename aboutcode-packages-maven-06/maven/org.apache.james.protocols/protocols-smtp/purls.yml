@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.james.protocols/protocols-smtp@1.0?classifier=sources
 - pkg:maven/org.apache.james.protocols/protocols-smtp@1.6-beta2
 - pkg:maven/org.apache.james.protocols/protocols-smtp@1.6-beta2?classifier=sources
+- pkg:maven/org.apache.james.protocols/protocols-smtp@1.6-beta3
+- pkg:maven/org.apache.james.protocols/protocols-smtp@1.6-beta3?classifier=sources

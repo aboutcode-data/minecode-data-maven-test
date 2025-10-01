@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-taglib-extension@1.5.0-alpha-2?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-taglib-extension@1.5.0-beta-2
 - pkg:maven/org.apache.myfaces.tobago/tobago-taglib-extension@1.5.0-beta-2?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-taglib-extension@1.5.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-taglib-extension@1.5.0?classifier=sources

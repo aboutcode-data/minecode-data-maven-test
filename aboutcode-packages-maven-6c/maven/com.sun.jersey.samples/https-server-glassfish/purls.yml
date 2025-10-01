@@ -73,3 +73,7 @@
 - pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b01?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b02?type=war
 - pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b02?classifier=sources
+- pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b04?type=war
+- pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b04?classifier=sources
+- pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b03?type=war
+- pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.11-b03?classifier=sources
