@@ -79,3 +79,5 @@
 - pkg:maven/javax.xml.bind/jaxb-api-osgi@2.2-promoted-b12
 - pkg:maven/javax.xml.bind/jaxb-api-osgi@2.2
 - pkg:maven/javax.xml.bind/jaxb-api-osgi@2.2?classifier=sources
+- pkg:maven/javax.xml.bind/jaxb-api-osgi@2.2.5
+- pkg:maven/javax.xml.bind/jaxb-api-osgi@2.2.5?classifier=sources

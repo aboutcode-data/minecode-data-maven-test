@@ -52,3 +52,7 @@
 - pkg:maven/org.apache.camel/camel-http@1.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-http@1.0.0
 - pkg:maven/org.apache.camel/camel-http@1.0.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-http@2.8.2
+- pkg:maven/org.apache.camel/camel-http@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-http@2.7.4
+- pkg:maven/org.apache.camel/camel-http@2.7.4?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.archiva/archiva@1.1.1?classifier=src&type=zip
 - pkg:maven/org.apache.archiva/archiva@1.1?classifier=src&type=zip
 - pkg:maven/org.apache.archiva/archiva@1.1?classifier=src
+- pkg:maven/org.apache.archiva/archiva@1.4-M1?classifier=src&type=zip
+- pkg:maven/org.apache.archiva/archiva@1.4-M1?classifier=source-release&type=zip

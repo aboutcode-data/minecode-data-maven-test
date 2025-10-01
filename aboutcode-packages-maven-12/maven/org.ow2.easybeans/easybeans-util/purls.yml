@@ -58,3 +58,5 @@
 - pkg:maven/org.ow2.easybeans/easybeans-util@1.0.0?classifier=sources
 - pkg:maven/org.ow2.easybeans/easybeans-util@1.0-M6-JONAS
 - pkg:maven/org.ow2.easybeans/easybeans-util@1.0-M6-JONAS?classifier=sources
+- pkg:maven/org.ow2.easybeans/easybeans-util@1.2.3
+- pkg:maven/org.ow2.easybeans/easybeans-util@1.2.3?classifier=sources

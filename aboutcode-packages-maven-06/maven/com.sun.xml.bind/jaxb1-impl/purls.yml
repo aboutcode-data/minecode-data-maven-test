@@ -91,3 +91,7 @@
 - pkg:maven/com.sun.xml.bind/jaxb1-impl@2.0.2
 - pkg:maven/com.sun.xml.bind/jaxb1-impl@2.0.1
 - pkg:maven/com.sun.xml.bind/jaxb1-impl@2.0
+- pkg:maven/com.sun.xml.bind/jaxb1-impl@2.2.5-b01
+- pkg:maven/com.sun.xml.bind/jaxb1-impl@2.2.5-b01?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb1-impl@2.2.5-b02
+- pkg:maven/com.sun.xml.bind/jaxb1-impl@2.2.5-b02?classifier=sources

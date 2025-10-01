@@ -127,3 +127,7 @@
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@1.0.7
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@1.0.6
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@1.0.5
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@2.2.5-b01
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@2.2.5-b01?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@2.2.5-b02
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@2.2.5-b02?classifier=sources

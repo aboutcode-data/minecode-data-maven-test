@@ -44,3 +44,7 @@
 - pkg:maven/org.apache.camel/camel-scala@1.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-scala@1.4.0
 - pkg:maven/org.apache.camel/camel-scala@1.4.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-scala@2.8.2
+- pkg:maven/org.apache.camel/camel-scala@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-scala@2.7.4
+- pkg:maven/org.apache.camel/camel-scala@2.7.4?classifier=sources
