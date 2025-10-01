@@ -105,3 +105,5 @@
 - pkg:maven/org.hibernate/hibernate-c3p0@4.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-c3p0@3.6.10.Final
 - pkg:maven/org.hibernate/hibernate-c3p0@3.6.10.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-c3p0@4.1.1.Final
+- pkg:maven/org.hibernate/hibernate-c3p0@4.1.1.Final?classifier=sources

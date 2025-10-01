@@ -86,3 +86,5 @@
 - pkg:maven/com.sun.jersey.samples/jsonp@1.12-b01?classifier=sources
 - pkg:maven/com.sun.jersey.samples/jsonp@1.12
 - pkg:maven/com.sun.jersey.samples/jsonp@1.12?classifier=sources
+- pkg:maven/com.sun.jersey.samples/jsonp@1.13-b01
+- pkg:maven/com.sun.jersey.samples/jsonp@1.13-b01?classifier=sources

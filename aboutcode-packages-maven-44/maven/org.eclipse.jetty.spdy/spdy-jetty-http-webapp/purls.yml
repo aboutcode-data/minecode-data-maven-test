@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.2.v20120308?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.2.v20120308?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.2.v20120308?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.2.v20120308?classifier=sources

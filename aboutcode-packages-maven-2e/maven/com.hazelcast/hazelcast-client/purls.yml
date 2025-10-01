@@ -64,3 +64,5 @@
 - pkg:maven/com.hazelcast/hazelcast-client@2.0-RC2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-client@2.0
 - pkg:maven/com.hazelcast/hazelcast-client@2.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client@2.0.1
+- pkg:maven/com.hazelcast/hazelcast-client@2.0.1?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/org.datanucleus/datanucleus-rdbms@3.0.7?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-rdbms@3.0.8
 - pkg:maven/org.datanucleus/datanucleus-rdbms@3.0.8?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-rdbms@3.1.0-m1
+- pkg:maven/org.datanucleus/datanucleus-rdbms@3.1.0-m1?classifier=sources
