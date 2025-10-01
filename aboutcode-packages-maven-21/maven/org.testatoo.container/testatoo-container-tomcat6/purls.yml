@@ -6,3 +6,5 @@
 - pkg:maven/org.testatoo.container/testatoo-container-tomcat6@1.0-rc4?classifier=sources
 - pkg:maven/org.testatoo.container/testatoo-container-tomcat6@1.0-rc3
 - pkg:maven/org.testatoo.container/testatoo-container-tomcat6@1.0-rc3?classifier=sources
+- pkg:maven/org.testatoo.container/testatoo-container-tomcat6@1.1.ga
+- pkg:maven/org.testatoo.container/testatoo-container-tomcat6@1.1.ga?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli@7.0.0?classifier=sources
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli@7.0.23
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli@7.0.23?classifier=sources
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli@7.0.25
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli@7.0.25?classifier=sources

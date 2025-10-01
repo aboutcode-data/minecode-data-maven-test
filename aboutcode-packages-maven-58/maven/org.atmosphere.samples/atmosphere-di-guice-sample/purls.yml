@@ -18,3 +18,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.8.2?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.8.3?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.8.3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.8.4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.8.4?classifier=sources

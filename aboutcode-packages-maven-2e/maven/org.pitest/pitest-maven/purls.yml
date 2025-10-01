@@ -8,3 +8,5 @@
 - pkg:maven/org.pitest/pitest-maven@0.20?classifier=sources
 - pkg:maven/org.pitest/pitest-maven@0.24
 - pkg:maven/org.pitest/pitest-maven@0.24?classifier=sources
+- pkg:maven/org.pitest/pitest-maven@0.25
+- pkg:maven/org.pitest/pitest-maven@0.25?classifier=sources

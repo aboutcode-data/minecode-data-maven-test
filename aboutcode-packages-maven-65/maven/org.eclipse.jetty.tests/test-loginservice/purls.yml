@@ -16,3 +16,7 @@
 - pkg:maven/org.eclipse.jetty.tests/test-loginservice@8.1.0.RC4?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/test-loginservice@7.6.0.RC4
 - pkg:maven/org.eclipse.jetty.tests/test-loginservice@7.6.0.RC4?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-loginservice@8.1.0.RC5
+- pkg:maven/org.eclipse.jetty.tests/test-loginservice@8.1.0.RC5?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-loginservice@7.6.0.RC5
+- pkg:maven/org.eclipse.jetty.tests/test-loginservice@7.6.0.RC5?classifier=sources
