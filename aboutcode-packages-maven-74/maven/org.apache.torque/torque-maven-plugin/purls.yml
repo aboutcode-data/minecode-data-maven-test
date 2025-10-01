@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.torque/torque-maven-plugin@3.3-RC3
+- pkg:maven/org.apache.torque/torque-maven-plugin@3.3-RC3?classifier=sources
+- pkg:maven/org.apache.torque/torque-maven-plugin@3.3
+- pkg:maven/org.apache.torque/torque-maven-plugin@3.3?classifier=sources
