@@ -46,3 +46,5 @@
 - pkg:maven/org.slf4j/log4j-over-slf4j@1.1.0-RC0?classifier=sources
 - pkg:maven/org.slf4j/log4j-over-slf4j@1.6.3
 - pkg:maven/org.slf4j/log4j-over-slf4j@1.6.3?classifier=sources
+- pkg:maven/org.slf4j/log4j-over-slf4j@1.6.4
+- pkg:maven/org.slf4j/log4j-over-slf4j@1.6.4?classifier=sources

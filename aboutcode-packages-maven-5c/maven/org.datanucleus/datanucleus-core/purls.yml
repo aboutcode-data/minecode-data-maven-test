@@ -96,3 +96,5 @@
 - pkg:maven/org.datanucleus/datanucleus-core@1.0.3
 - pkg:maven/org.datanucleus/datanucleus-core@1.0.3?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-core@1.0.2
+- pkg:maven/org.datanucleus/datanucleus-core@3.0.3
+- pkg:maven/org.datanucleus/datanucleus-core@3.0.3?classifier=sources

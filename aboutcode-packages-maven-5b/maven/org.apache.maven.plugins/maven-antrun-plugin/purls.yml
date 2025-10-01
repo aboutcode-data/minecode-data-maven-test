@@ -19,3 +19,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-antrun-plugin@1.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-antrun-plugin@1.0
 - pkg:maven/org.apache.maven.plugins/maven-antrun-plugin@1.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-antrun-plugin@1.7
+- pkg:maven/org.apache.maven.plugins/maven-antrun-plugin@1.7?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-antrun-plugin@1.7?classifier=source-release&type=zip

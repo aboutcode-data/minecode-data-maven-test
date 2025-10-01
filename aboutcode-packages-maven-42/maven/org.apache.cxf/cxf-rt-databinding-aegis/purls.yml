@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-databinding-aegis@2.0.11?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-databinding-aegis@2.0.10
 - pkg:maven/org.apache.cxf/cxf-rt-databinding-aegis@2.0.10?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-databinding-aegis@2.5.0
+- pkg:maven/org.apache.cxf/cxf-rt-databinding-aegis@2.5.0?classifier=sources

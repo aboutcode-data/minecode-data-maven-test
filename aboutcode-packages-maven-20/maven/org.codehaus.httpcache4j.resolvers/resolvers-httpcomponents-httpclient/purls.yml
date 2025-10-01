@@ -16,3 +16,5 @@
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-httpcomponents-httpclient@2.0?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-httpcomponents-httpclient@1.7
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-httpcomponents-httpclient@1.7?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-httpcomponents-httpclient@3.4
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-httpcomponents-httpclient@3.4?classifier=sources

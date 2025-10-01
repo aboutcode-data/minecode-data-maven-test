@@ -46,3 +46,5 @@
 - pkg:maven/org.sonatype.flexmojos/flexmojos-generator-constraints@3.4.0?classifier=sources
 - pkg:maven/org.sonatype.flexmojos/flexmojos-generator-constraints@3.3.0
 - pkg:maven/org.sonatype.flexmojos/flexmojos-generator-constraints@3.3.0?classifier=sources
+- pkg:maven/org.sonatype.flexmojos/flexmojos-generator-constraints@4.1-beta
+- pkg:maven/org.sonatype.flexmojos/flexmojos-generator-constraints@4.1-beta?classifier=sources

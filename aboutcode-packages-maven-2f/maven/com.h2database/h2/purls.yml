@@ -124,3 +124,5 @@
 - pkg:maven/com.h2database/h2@1.0.20070429
 - pkg:maven/com.h2database/h2@1.0.20070304
 - pkg:maven/com.h2database/h2@1.0.20061217
+- pkg:maven/com.h2database/h2@1.3.161
+- pkg:maven/com.h2database/h2@1.3.161?classifier=sources

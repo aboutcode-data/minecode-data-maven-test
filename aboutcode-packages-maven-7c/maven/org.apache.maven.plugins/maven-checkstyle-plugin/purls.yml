@@ -23,3 +23,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@2.0-alpha-2?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@2.0
 - pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@2.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@2.8
+- pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@2.8?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@2.8?classifier=source-release&type=zip

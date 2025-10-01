@@ -12,3 +12,5 @@
 - pkg:maven/org.jclarion/clarion-sysruntime@1.11?classifier=sources
 - pkg:maven/org.jclarion/clarion-sysruntime@1.10
 - pkg:maven/org.jclarion/clarion-sysruntime@1.10?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.16
+- pkg:maven/org.jclarion/clarion-sysruntime@1.16?classifier=sources
