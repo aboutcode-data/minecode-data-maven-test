@@ -44,3 +44,5 @@
 - pkg:maven/net.jangaroo/jangaroo-compiler@0.9.8?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-compiler@0.9.10
 - pkg:maven/net.jangaroo/jangaroo-compiler@0.9.10?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-compiler@0.9.11
+- pkg:maven/net.jangaroo/jangaroo-compiler@0.9.11?classifier=sources

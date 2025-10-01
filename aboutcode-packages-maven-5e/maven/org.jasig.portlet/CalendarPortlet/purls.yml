@@ -12,3 +12,5 @@
 - pkg:maven/org.jasig.portlet/CalendarPortlet@1.0.0-M2?classifier=sources
 - pkg:maven/org.jasig.portlet/CalendarPortlet@1.0.0-GA?type=war
 - pkg:maven/org.jasig.portlet/CalendarPortlet@1.0.0-GA?classifier=sources
+- pkg:maven/org.jasig.portlet/CalendarPortlet@2.1.0-RC1?type=war
+- pkg:maven/org.jasig.portlet/CalendarPortlet@2.1.0-RC1?classifier=sources
