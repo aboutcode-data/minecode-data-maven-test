@@ -1,0 +1,5 @@
+- pkg:maven/org.tynamo/tapestry-model-web@0.1.0
+- pkg:maven/org.tynamo/tapestry-model-web@0.1.0?classifier=sources
+- pkg:maven/org.tynamo/tapestry-model-web@0.0.2?type=war
+- pkg:maven/org.tynamo/tapestry-model-web@0.0.1?type=war
+- pkg:maven/org.tynamo/tapestry-model-web@0.0.1?classifier=sources

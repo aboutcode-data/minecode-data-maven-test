@@ -1,0 +1,6 @@
+- pkg:maven/org.sonatype.p2.bridge/org.sonatype.p2.bridge.model@1.0.7
+- pkg:maven/org.sonatype.p2.bridge/org.sonatype.p2.bridge.model@1.0.7?classifier=sources
+- pkg:maven/org.sonatype.p2.bridge/org.sonatype.p2.bridge.model@1.0.5
+- pkg:maven/org.sonatype.p2.bridge/org.sonatype.p2.bridge.model@1.0.5?classifier=sources
+- pkg:maven/org.sonatype.p2.bridge/org.sonatype.p2.bridge.model@1.0.4
+- pkg:maven/org.sonatype.p2.bridge/org.sonatype.p2.bridge.model@1.0.4?classifier=sources
