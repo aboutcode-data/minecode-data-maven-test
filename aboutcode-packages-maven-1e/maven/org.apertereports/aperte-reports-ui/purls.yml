@@ -1,2 +1,4 @@
 - pkg:maven/org.apertereports/aperte-reports-ui@2.0?type=war
 - pkg:maven/org.apertereports/aperte-reports-ui@2.0?classifier=sources
+- pkg:maven/org.apertereports/aperte-reports-ui@2.1?type=war
+- pkg:maven/org.apertereports/aperte-reports-ui@2.1?classifier=sources

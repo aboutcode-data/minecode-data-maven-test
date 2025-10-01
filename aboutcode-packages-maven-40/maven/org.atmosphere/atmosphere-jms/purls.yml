@@ -47,3 +47,5 @@
 - pkg:maven/org.atmosphere/atmosphere-jms@0.8.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jms@0.8.2
 - pkg:maven/org.atmosphere/atmosphere-jms@0.8.2?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jms@0.8.3
+- pkg:maven/org.atmosphere/atmosphere-jms@0.8.3?classifier=sources

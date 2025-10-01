@@ -10,3 +10,5 @@
 - pkg:maven/net.redora/configuration@1.2?classifier=sources
 - pkg:maven/net.redora/configuration@1.7
 - pkg:maven/net.redora/configuration@1.7?classifier=sources
+- pkg:maven/net.redora/configuration@1.9.1
+- pkg:maven/net.redora/configuration@1.9.1?classifier=sources

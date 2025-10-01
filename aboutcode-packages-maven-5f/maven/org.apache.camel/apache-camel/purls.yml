@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.camel/apache-camel@2.9.0-RC1?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.8.3?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.9.0?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.7.5?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.7.5?classifier=src&type=tar.gz

@@ -61,3 +61,5 @@
 - pkg:maven/org.apache.camel/camel-xmpp@2.8.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-xmpp@2.9.0
 - pkg:maven/org.apache.camel/camel-xmpp@2.9.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-xmpp@2.7.5
+- pkg:maven/org.apache.camel/camel-xmpp@2.7.5?classifier=sources

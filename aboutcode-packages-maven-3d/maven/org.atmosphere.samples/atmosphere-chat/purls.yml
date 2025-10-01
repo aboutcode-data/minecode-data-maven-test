@@ -63,3 +63,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-chat@0.8.0?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-chat@0.8.2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-chat@0.8.2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat@0.8.3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-chat@0.8.3?classifier=sources
