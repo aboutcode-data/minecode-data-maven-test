@@ -1,2 +1,4 @@
 - pkg:maven/com.yammer.metrics/metrics-scala_2.9.1@2.0.0-BETA18
 - pkg:maven/com.yammer.metrics/metrics-scala_2.9.1@2.0.0-BETA18?classifier=sources
+- pkg:maven/com.yammer.metrics/metrics-scala_2.9.1@2.0.0-BETA19
+- pkg:maven/com.yammer.metrics/metrics-scala_2.9.1@2.0.0-BETA19?classifier=sources

@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.classloader@1.0.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.classloader@0.9.0
 - pkg:maven/org.apache.sling/org.apache.sling.commons.classloader@0.9.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.classloader@1.2.4
+- pkg:maven/org.apache.sling/org.apache.sling.commons.classloader@1.2.4?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.classloader@1.2.4?classifier=source-release&type=zip

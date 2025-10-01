@@ -104,3 +104,5 @@
 - pkg:maven/org.hornetq/hornetq-resources@2.0.0.BETA5
 - pkg:maven/org.hornetq/hornetq-resources@2.2.9.AS7.Final
 - pkg:maven/org.hornetq/hornetq-resources@2.2.9.AS7.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-resources@2.2.10.Final
+- pkg:maven/org.hornetq/hornetq-resources@2.2.10.Final?classifier=sources

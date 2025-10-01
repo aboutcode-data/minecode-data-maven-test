@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.struts/struts2-jboss-blank@2.2.1?classifier=sources
 - pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.1?type=war
 - pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.1?classifier=sources
+- pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.1.1?type=war
+- pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.1.1?classifier=sources

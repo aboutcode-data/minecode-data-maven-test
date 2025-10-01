@@ -22,3 +22,7 @@
 - pkg:maven/org.jclouds.api/cloudservers@1.3.0-rc-1?classifier=sources
 - pkg:maven/org.jclouds.api/cloudservers@1.2.2
 - pkg:maven/org.jclouds.api/cloudservers@1.2.2?classifier=sources
+- pkg:maven/org.jclouds.api/cloudservers@1.3.0-rc-2
+- pkg:maven/org.jclouds.api/cloudservers@1.3.0-rc-2?classifier=sources
+- pkg:maven/org.jclouds.api/cloudservers@1.3.0
+- pkg:maven/org.jclouds.api/cloudservers@1.3.0?classifier=sources
