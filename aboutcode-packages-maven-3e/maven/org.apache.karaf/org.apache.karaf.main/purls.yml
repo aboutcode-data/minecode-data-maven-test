@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.karaf/org.apache.karaf.main@2.0.0?classifier=sources
 - pkg:maven/org.apache.karaf/org.apache.karaf.main@2.2.4
 - pkg:maven/org.apache.karaf/org.apache.karaf.main@2.2.4?classifier=sources
+- pkg:maven/org.apache.karaf/org.apache.karaf.main@2.2.5
+- pkg:maven/org.apache.karaf/org.apache.karaf.main@2.2.5?classifier=sources

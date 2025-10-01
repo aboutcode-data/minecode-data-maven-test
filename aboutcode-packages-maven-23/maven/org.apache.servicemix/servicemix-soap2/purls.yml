@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.servicemix/servicemix-soap2@2009.01?classifier=sources
 - pkg:maven/org.apache.servicemix/servicemix-soap2@2008.01
 - pkg:maven/org.apache.servicemix/servicemix-soap2@2008.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-soap2@2011.02
+- pkg:maven/org.apache.servicemix/servicemix-soap2@2011.02?classifier=sources

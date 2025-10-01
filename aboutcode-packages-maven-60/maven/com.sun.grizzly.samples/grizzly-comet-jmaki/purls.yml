@@ -177,3 +177,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.18-p?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.42?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.42?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.43?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.43?classifier=sources

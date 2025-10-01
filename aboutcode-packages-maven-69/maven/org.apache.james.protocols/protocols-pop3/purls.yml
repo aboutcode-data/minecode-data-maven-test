@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.james.protocols/protocols-pop3@1.6-beta3
 - pkg:maven/org.apache.james.protocols/protocols-pop3@1.6-beta3?classifier=sources
+- pkg:maven/org.apache.james.protocols/protocols-pop3@1.6.0-RC1
+- pkg:maven/org.apache.james.protocols/protocols-pop3@1.6.0-RC1?classifier=sources

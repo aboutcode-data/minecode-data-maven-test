@@ -37,3 +37,5 @@
 - pkg:maven/org.apache.xbean/xbean-spring@2.3?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-spring@2.2
 - pkg:maven/org.apache.xbean/xbean-spring@2.2?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-spring@3.9
+- pkg:maven/org.apache.xbean/xbean-spring@3.9?classifier=sources

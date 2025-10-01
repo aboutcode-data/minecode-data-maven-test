@@ -27,3 +27,5 @@
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.0-alpha5
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.0
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.0?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.1.4
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.1.4?classifier=sources

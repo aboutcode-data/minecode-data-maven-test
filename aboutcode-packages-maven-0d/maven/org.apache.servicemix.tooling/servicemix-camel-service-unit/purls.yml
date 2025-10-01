@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.servicemix.tooling/servicemix-camel-service-unit@2010.02?classifier=sources
 - pkg:maven/org.apache.servicemix.tooling/servicemix-camel-service-unit@2010.01
 - pkg:maven/org.apache.servicemix.tooling/servicemix-camel-service-unit@2010.01?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-camel-service-unit@2011.02
+- pkg:maven/org.apache.servicemix.tooling/servicemix-camel-service-unit@2011.02?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.geronimo.ext.tomcat/jasper-el@6.0.26.0?classifier=sources
 - pkg:maven/org.apache.geronimo.ext.tomcat/jasper-el@6.0.20.0
 - pkg:maven/org.apache.geronimo.ext.tomcat/jasper-el@6.0.20.0?classifier=sources
+- pkg:maven/org.apache.geronimo.ext.tomcat/jasper-el@6.0.35.1
+- pkg:maven/org.apache.geronimo.ext.tomcat/jasper-el@6.0.35.1?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.httpcomponents/httpcore-osgi@4.0-beta3?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpcore-osgi@4.0
 - pkg:maven/org.apache.httpcomponents/httpcore-osgi@4.0?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpcore-osgi@4.1.4
+- pkg:maven/org.apache.httpcomponents/httpcore-osgi@4.1.4?classifier=sources

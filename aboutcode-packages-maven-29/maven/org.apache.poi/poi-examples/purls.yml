@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.poi/poi-examples@3.7?classifier=sources
 - pkg:maven/org.apache.poi/poi-examples@3.6
 - pkg:maven/org.apache.poi/poi-examples@3.6?classifier=sources
+- pkg:maven/org.apache.poi/poi-examples@3.8-beta5
+- pkg:maven/org.apache.poi/poi-examples@3.8-beta5?classifier=sources
