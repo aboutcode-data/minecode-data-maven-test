@@ -100,3 +100,5 @@
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.11-b03?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.11
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.11?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-server-linking@1.12-b01
+- pkg:maven/com.sun.jersey/jersey-server-linking@1.12-b01?classifier=sources
