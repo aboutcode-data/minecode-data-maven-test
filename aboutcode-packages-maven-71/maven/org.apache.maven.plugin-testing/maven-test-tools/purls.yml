@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.maven.plugin-testing/maven-test-tools@2.0-alpha-1
+- pkg:maven/org.apache.maven.plugin-testing/maven-test-tools@2.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.maven.plugin-testing/maven-test-tools@1.2
+- pkg:maven/org.apache.maven.plugin-testing/maven-test-tools@1.2?classifier=sources

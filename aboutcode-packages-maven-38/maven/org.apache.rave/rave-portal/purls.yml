@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.rave/rave-portal@0.4-incubating?type=war
+- pkg:maven/org.apache.rave/rave-portal@0.4-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-portal@0.3-incubating?type=war
+- pkg:maven/org.apache.rave/rave-portal@0.3-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-portal@0.1-incubating?type=war
+- pkg:maven/org.apache.rave/rave-portal@0.1-incubating?classifier=sources

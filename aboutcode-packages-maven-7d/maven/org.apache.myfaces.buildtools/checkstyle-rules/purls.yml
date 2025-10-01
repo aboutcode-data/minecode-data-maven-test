@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@2
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@2?classifier=sources
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@1
