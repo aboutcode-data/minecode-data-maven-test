@@ -1,0 +1,4 @@
+- pkg:maven/com.qulice/qulice-tk@0.1.1
+- pkg:maven/com.qulice/qulice-tk@0.1.1?classifier=sources
+- pkg:maven/com.qulice/qulice-tk@0.1
+- pkg:maven/com.qulice/qulice-tk@0.1?classifier=sources
