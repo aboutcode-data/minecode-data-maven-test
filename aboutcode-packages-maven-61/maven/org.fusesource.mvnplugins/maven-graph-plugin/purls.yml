@@ -30,3 +30,5 @@
 - pkg:maven/org.fusesource.mvnplugins/maven-graph-plugin@1.11?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/maven-graph-plugin@1.10
 - pkg:maven/org.fusesource.mvnplugins/maven-graph-plugin@1.10?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/maven-graph-plugin@1.21
+- pkg:maven/org.fusesource.mvnplugins/maven-graph-plugin@1.21?classifier=sources

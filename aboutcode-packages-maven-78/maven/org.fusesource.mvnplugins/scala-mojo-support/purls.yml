@@ -20,3 +20,5 @@
 - pkg:maven/org.fusesource.mvnplugins/scala-mojo-support@1.11?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/scala-mojo-support@1.10
 - pkg:maven/org.fusesource.mvnplugins/scala-mojo-support@1.10?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/scala-mojo-support@1.21
+- pkg:maven/org.fusesource.mvnplugins/scala-mojo-support@1.21?classifier=sources

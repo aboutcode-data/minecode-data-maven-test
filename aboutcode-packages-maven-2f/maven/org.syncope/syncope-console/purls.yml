@@ -28,3 +28,4 @@
 - pkg:maven/org.syncope/syncope-console@0.1.4?classifier=sources
 - pkg:maven/org.syncope/syncope-console@0.6.1?type=war
 - pkg:maven/org.syncope/syncope-console@0.6.1?classifier=sources
+- pkg:maven/org.syncope/syncope-console@0.7RC1?type=war

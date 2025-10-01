@@ -175,3 +175,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.41?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-p?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-p?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.42?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.42?classifier=sources

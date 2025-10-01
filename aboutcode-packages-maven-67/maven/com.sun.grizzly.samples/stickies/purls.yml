@@ -42,3 +42,5 @@
 - pkg:maven/com.sun.grizzly.samples/stickies@1.9.40?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/stickies@1.9.41?type=war
 - pkg:maven/com.sun.grizzly.samples/stickies@1.9.41?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/stickies@1.9.42?type=war
+- pkg:maven/com.sun.grizzly.samples/stickies@1.9.42?classifier=sources

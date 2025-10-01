@@ -1,0 +1,4 @@
+- pkg:maven/net.nisgits.gradle/gradle-executable-jar-plugin@master-REL-2
+- pkg:maven/net.nisgits.gradle/gradle-executable-jar-plugin@master-REL-2?classifier=sources
+- pkg:maven/net.nisgits.gradle/gradle-executable-jar-plugin@master-REL-1
+- pkg:maven/net.nisgits.gradle/gradle-executable-jar-plugin@master-REL-1?classifier=sources

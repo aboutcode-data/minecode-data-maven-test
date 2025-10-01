@@ -14,3 +14,5 @@
 - pkg:maven/org.fusesource.mvnplugins/maven-updatesite-plugin@1.14?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/maven-updatesite-plugin@1.13
 - pkg:maven/org.fusesource.mvnplugins/maven-updatesite-plugin@1.13?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/maven-updatesite-plugin@1.21
+- pkg:maven/org.fusesource.mvnplugins/maven-updatesite-plugin@1.21?classifier=sources
