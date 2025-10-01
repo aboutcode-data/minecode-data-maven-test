@@ -27,3 +27,5 @@
 - pkg:maven/org.apache.directory.server/apacheds-protocol-shared@1.0-RC3
 - pkg:maven/org.apache.directory.server/apacheds-protocol-shared@1.0-RC2
 - pkg:maven/org.apache.directory.server/apacheds-protocol-shared@1.0-RC1
+- pkg:maven/org.apache.directory.server/apacheds-protocol-shared@2.0.0-M4
+- pkg:maven/org.apache.directory.server/apacheds-protocol-shared@2.0.0-M4?classifier=sources

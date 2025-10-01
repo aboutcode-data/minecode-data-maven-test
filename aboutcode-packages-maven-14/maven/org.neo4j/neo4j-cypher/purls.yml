@@ -22,3 +22,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher@1.6.M02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher@1.6.M03
 - pkg:maven/org.neo4j/neo4j-cypher@1.6.M03?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher@1.6
+- pkg:maven/org.neo4j/neo4j-cypher@1.6?classifier=sources

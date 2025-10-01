@@ -10,3 +10,5 @@
 - pkg:maven/se.vgregion.cs-iframe/cs-iframe-core-module-portlet@1.2?classifier=sources
 - pkg:maven/se.vgregion.cs-iframe/cs-iframe-core-module-portlet@2.1?type=war
 - pkg:maven/se.vgregion.cs-iframe/cs-iframe-core-module-portlet@2.1?classifier=sources
+- pkg:maven/se.vgregion.cs-iframe/cs-iframe-core-module-portlet@2.2?type=war
+- pkg:maven/se.vgregion.cs-iframe/cs-iframe-core-module-portlet@2.2?classifier=sources

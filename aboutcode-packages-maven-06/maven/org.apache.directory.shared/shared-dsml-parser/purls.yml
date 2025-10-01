@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.directory.shared/shared-dsml-parser@0.9.16?classifier=sources
 - pkg:maven/org.apache.directory.shared/shared-dsml-parser@0.9.15
 - pkg:maven/org.apache.directory.shared/shared-dsml-parser@0.9.15?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-dsml-parser@1.0.0-M9
+- pkg:maven/org.apache.directory.shared/shared-dsml-parser@1.0.0-M9?classifier=sources

@@ -19,3 +19,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.0.10
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.0.10?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.0.20
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.0.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.0.20?classifier=source-release&type=zip

@@ -8,3 +8,5 @@
 - pkg:maven/gov.loc/bagit@3.6?classifier=sources
 - pkg:maven/gov.loc/bagit@3.13
 - pkg:maven/gov.loc/bagit@3.13?classifier=sources
+- pkg:maven/gov.loc/bagit@4.0
+- pkg:maven/gov.loc/bagit@4.0?classifier=sources

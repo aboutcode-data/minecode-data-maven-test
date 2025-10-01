@@ -4,3 +4,11 @@
 - pkg:maven/info.cukes/cucumber-core@1.0.0-RC3?classifier=sources
 - pkg:maven/info.cukes/cucumber-core@%24%257Bcucumber-jvm.version%257D
 - pkg:maven/info.cukes/cucumber-core@%24%257Bcucumber-jvm.version%257D?classifier=sources
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC6
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC6?classifier=sources
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC5
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC5?classifier=sources
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC11
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC11?classifier=sources
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC10
+- pkg:maven/info.cukes/cucumber-core@1.0.0.RC10?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.scalatest/scalatest_2.8.1@1.5?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.8.1@1.7.RC1
 - pkg:maven/org.scalatest/scalatest_2.8.1@1.7.RC1?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.8.1@1.7.RC2
+- pkg:maven/org.scalatest/scalatest_2.8.1@1.7.RC2?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.4-incubating?classifier=sources
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.5-incubating?type=war
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.5-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-demo-gadgets@0.6-incubating?type=war
+- pkg:maven/org.apache.rave/rave-demo-gadgets@0.6-incubating?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/io.netty/netty-build@1
 - pkg:maven/io.netty/netty-build@1?classifier=sources
+- pkg:maven/io.netty/netty-build@4
+- pkg:maven/io.netty/netty-build@4?classifier=sources
+- pkg:maven/io.netty/netty-build@3
+- pkg:maven/io.netty/netty-build@3?classifier=sources
+- pkg:maven/io.netty/netty-build@2
+- pkg:maven/io.netty/netty-build@2?classifier=sources

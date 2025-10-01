@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@1
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@1?classifier=sources
