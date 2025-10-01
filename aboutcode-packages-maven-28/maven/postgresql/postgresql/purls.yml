@@ -27,3 +27,7 @@
 - pkg:maven/postgresql/postgresql@8.0-312.jdbc3
 - pkg:maven/postgresql/postgresql@7.4.1-jdbc3
 - pkg:maven/postgresql/postgresql@7.2
+- pkg:maven/postgresql/postgresql@9.1-901.jdbc4
+- pkg:maven/postgresql/postgresql@9.1-901.jdbc4?classifier=sources
+- pkg:maven/postgresql/postgresql@9.1-901.jdbc3
+- pkg:maven/postgresql/postgresql@9.1-901.jdbc3?classifier=sources

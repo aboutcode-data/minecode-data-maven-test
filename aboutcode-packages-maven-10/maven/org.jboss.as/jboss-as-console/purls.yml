@@ -48,3 +48,5 @@
 - pkg:maven/org.jboss.as/jboss-as-console@1.0.0.Beta24?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@1.0.0.Beta23?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@1.0.0.Beta23?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@1.0.0.Beta25?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@1.0.0.Beta25?classifier=sources

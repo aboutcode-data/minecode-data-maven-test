@@ -34,3 +34,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-oauth@1.2.GA?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-oauth@1.2.1.GA
 - pkg:maven/org.jboss.resteasy/resteasy-oauth@1.2.1.GA?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-oauth@2.3-RC1
+- pkg:maven/org.jboss.resteasy/resteasy-oauth@2.3-RC1?classifier=sources

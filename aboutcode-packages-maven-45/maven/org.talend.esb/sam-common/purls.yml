@@ -4,3 +4,5 @@
 - pkg:maven/org.talend.esb/sam-common@4.2?classifier=sources
 - pkg:maven/org.talend.esb/sam-common@4.0
 - pkg:maven/org.talend.esb/sam-common@4.0?classifier=sources
+- pkg:maven/org.talend.esb/sam-common@5.0.0
+- pkg:maven/org.talend.esb/sam-common@5.0.0?classifier=sources

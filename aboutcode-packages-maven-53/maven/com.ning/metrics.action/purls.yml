@@ -42,3 +42,9 @@
 - pkg:maven/com.ning/metrics.action@0.2.9?classifier=sources
 - pkg:maven/com.ning/metrics.action@0.2.8?type=war
 - pkg:maven/com.ning/metrics.action@0.2.8?classifier=sources
+- pkg:maven/com.ning/metrics.action@0.2.12?type=war
+- pkg:maven/com.ning/metrics.action@0.2.12?classifier=sources
+- pkg:maven/com.ning/metrics.action@0.2.11?type=war
+- pkg:maven/com.ning/metrics.action@0.2.11?classifier=sources
+- pkg:maven/com.ning/metrics.action@0.2.10?type=war
+- pkg:maven/com.ning/metrics.action@0.2.10?classifier=sources

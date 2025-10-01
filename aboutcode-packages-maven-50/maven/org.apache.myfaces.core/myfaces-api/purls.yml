@@ -68,3 +68,9 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-api@1.1.4?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-api@1.1.2
 - pkg:maven/org.apache.myfaces.core/myfaces-api@1.1.2?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-api@2.1.4
+- pkg:maven/org.apache.myfaces.core/myfaces-api@2.1.4?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-api@2.0.10
+- pkg:maven/org.apache.myfaces.core/myfaces-api@2.0.10?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-api@1.2.11
+- pkg:maven/org.apache.myfaces.core/myfaces-api@1.2.11?classifier=sources

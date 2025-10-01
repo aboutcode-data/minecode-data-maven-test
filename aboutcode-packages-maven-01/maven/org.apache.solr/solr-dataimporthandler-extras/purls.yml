@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.solr/solr-dataimporthandler-extras@1.4.1?classifier=sources
 - pkg:maven/org.apache.solr/solr-dataimporthandler-extras@1.4.0
 - pkg:maven/org.apache.solr/solr-dataimporthandler-extras@1.4.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-dataimporthandler-extras@3.5.0
+- pkg:maven/org.apache.solr/solr-dataimporthandler-extras@3.5.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.sun.jersey/jersey-grizzly2-servlet@1.10-b05?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-grizzly2-servlet@1.10
 - pkg:maven/com.sun.jersey/jersey-grizzly2-servlet@1.10?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-grizzly2-servlet@1.11-b01
+- pkg:maven/com.sun.jersey/jersey-grizzly2-servlet@1.11-b01?classifier=sources
