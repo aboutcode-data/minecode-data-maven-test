@@ -1,0 +1,13 @@
+- pkg:maven/org.apache.camel/camel@2.8.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.7.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.7.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.7.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.0.0?classifier=source-release&type=zip
