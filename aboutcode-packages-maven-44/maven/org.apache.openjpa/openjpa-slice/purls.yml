@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.openjpa/openjpa-slice@1.2.0
 - pkg:maven/org.apache.openjpa/openjpa-slice@1.2.0?classifier=sources
 - pkg:maven/org.apache.openjpa/openjpa-slice@1.1.0
+- pkg:maven/org.apache.openjpa/openjpa-slice@2.2.0
+- pkg:maven/org.apache.openjpa/openjpa-slice@2.2.0?classifier=sources

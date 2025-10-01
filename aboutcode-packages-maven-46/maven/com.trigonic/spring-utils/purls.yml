@@ -8,3 +8,5 @@
 - pkg:maven/com.trigonic/spring-utils@0.3?classifier=sources
 - pkg:maven/com.trigonic/spring-utils@0.2
 - pkg:maven/com.trigonic/spring-utils@0.2?classifier=sources
+- pkg:maven/com.trigonic/spring-utils@0.7
+- pkg:maven/com.trigonic/spring-utils@0.7?classifier=sources

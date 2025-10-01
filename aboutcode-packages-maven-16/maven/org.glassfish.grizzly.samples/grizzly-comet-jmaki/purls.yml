@@ -30,3 +30,5 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.2?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.2.1?type=war
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.2.1?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.1.9?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.1.9?classifier=sources
