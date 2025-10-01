@@ -21,3 +21,5 @@
 - pkg:maven/org.codehaus.openxma/dsl-core@3.5.1.1
 - pkg:maven/org.codehaus.openxma/dsl-core@4.1.0
 - pkg:maven/org.codehaus.openxma/dsl-core@4.1.0?classifier=sources
+- pkg:maven/org.codehaus.openxma/dsl-core@4.1.1
+- pkg:maven/org.codehaus.openxma/dsl-core@4.1.1?classifier=sources

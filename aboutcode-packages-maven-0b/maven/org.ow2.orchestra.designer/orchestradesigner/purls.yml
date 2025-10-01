@@ -8,3 +8,5 @@
 - pkg:maven/org.ow2.orchestra.designer/orchestradesigner@4.8.0?classifier=sources
 - pkg:maven/org.ow2.orchestra.designer/orchestradesigner@4.9.0-M4?type=war
 - pkg:maven/org.ow2.orchestra.designer/orchestradesigner@4.9.0-M4?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/orchestradesigner@4.9.0-M5?type=war
+- pkg:maven/org.ow2.orchestra.designer/orchestradesigner@4.9.0-M5?classifier=sources

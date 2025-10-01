@@ -28,3 +28,5 @@
 - pkg:maven/org.clojure/clojure@1.0.0?classifier=sources
 - pkg:maven/org.clojure/clojure@1.4.0-alpha2?type=zip
 - pkg:maven/org.clojure/clojure@1.4.0-alpha2?classifier=sources
+- pkg:maven/org.clojure/clojure@1.4.0-alpha3?type=zip
+- pkg:maven/org.clojure/clojure@1.4.0-alpha3?classifier=sources

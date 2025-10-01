@@ -1,2 +1,4 @@
 - pkg:maven/org.databene/databene-script@0.7.3
 - pkg:maven/org.databene/databene-script@0.7.3?classifier=sources
+- pkg:maven/org.databene/databene-script@0.7.4
+- pkg:maven/org.databene/databene-script@0.7.4?classifier=sources
