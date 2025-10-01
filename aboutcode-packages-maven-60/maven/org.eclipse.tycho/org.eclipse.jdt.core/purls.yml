@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.7.0.v_B61?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.6.2.v_A76_R36x
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.6.2.v_A76_R36x?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.1.v20111205-1355
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.1.v20111205-1355?classifier=sources

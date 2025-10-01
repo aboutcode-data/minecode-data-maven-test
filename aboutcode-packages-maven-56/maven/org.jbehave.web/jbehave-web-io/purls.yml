@@ -94,3 +94,5 @@
 - pkg:maven/org.jbehave.web/jbehave-web-io@3.4.2?classifier=sources
 - pkg:maven/org.jbehave.web/jbehave-web-io@3.4.3
 - pkg:maven/org.jbehave.web/jbehave-web-io@3.4.3?classifier=sources
+- pkg:maven/org.jbehave.web/jbehave-web-io@3.5-beta-1
+- pkg:maven/org.jbehave.web/jbehave-web-io@3.5-beta-1?classifier=sources

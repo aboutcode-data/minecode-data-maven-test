@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.geronimo.buildsupport/geronimo-archetype-testsuite@2.1.2
 - pkg:maven/org.apache.geronimo.buildsupport/geronimo-archetype-testsuite@2.1.1
 - pkg:maven/org.apache.geronimo.buildsupport/geronimo-archetype-testsuite@2.1
+- pkg:maven/org.apache.geronimo.buildsupport/geronimo-archetype-testsuite@2.1.8
+- pkg:maven/org.apache.geronimo.buildsupport/geronimo-archetype-testsuite@2.1.8?classifier=sources

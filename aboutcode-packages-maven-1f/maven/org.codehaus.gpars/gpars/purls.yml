@@ -11,3 +11,5 @@
 - pkg:maven/org.codehaus.gpars/gpars@0.11
 - pkg:maven/org.codehaus.gpars/gpars@0.10-beta-1
 - pkg:maven/org.codehaus.gpars/gpars@0.10
+- pkg:maven/org.codehaus.gpars/gpars@1.0-beta-1
+- pkg:maven/org.codehaus.gpars/gpars@1.0-beta-1?classifier=sources

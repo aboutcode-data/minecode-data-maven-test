@@ -26,3 +26,7 @@
 - pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.21?classifier=sources
 - pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.22
 - pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.22?classifier=sources
+- pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.24
+- pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.24?classifier=sources
+- pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.23
+- pkg:maven/com.googlecode.metridoc/metridoc-schema-plugin@0.23?classifier=sources

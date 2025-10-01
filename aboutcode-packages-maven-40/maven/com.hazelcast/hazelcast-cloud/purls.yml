@@ -12,3 +12,5 @@
 - pkg:maven/com.hazelcast/hazelcast-cloud@1.9.4-RC?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-cloud@1.9.4
 - pkg:maven/com.hazelcast/hazelcast-cloud@1.9.4?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-cloud@1.9.4.5
+- pkg:maven/com.hazelcast/hazelcast-cloud@1.9.4.5?classifier=sources
