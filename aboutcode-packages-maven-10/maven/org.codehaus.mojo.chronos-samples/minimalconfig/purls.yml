@@ -1,1 +1,2 @@
 - pkg:maven/org.codehaus.mojo.chronos-samples/minimalconfig@1.0-beta-1
+- pkg:maven/org.codehaus.mojo.chronos-samples/minimalconfig@1.0-beta-1?classifier=sources

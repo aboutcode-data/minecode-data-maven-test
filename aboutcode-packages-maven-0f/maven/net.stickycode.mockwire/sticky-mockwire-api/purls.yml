@@ -1,2 +1,4 @@
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-api@5.4
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-api@5.4?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-api@5.5
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-api@5.5?classifier=sources

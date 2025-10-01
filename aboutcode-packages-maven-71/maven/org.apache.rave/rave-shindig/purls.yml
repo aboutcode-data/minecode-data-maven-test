@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.rave/rave-shindig@0.3-incubating?classifier=sources
 - pkg:maven/org.apache.rave/rave-shindig@0.1-incubating?type=war
 - pkg:maven/org.apache.rave/rave-shindig@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-shindig@0.5-incubating?type=war
+- pkg:maven/org.apache.rave/rave-shindig@0.5-incubating?classifier=sources

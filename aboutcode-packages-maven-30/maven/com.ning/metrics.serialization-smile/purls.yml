@@ -38,3 +38,5 @@
 - pkg:maven/com.ning/metrics.serialization-smile@1.0.4?classifier=sources
 - pkg:maven/com.ning/metrics.serialization-smile@1.0.3
 - pkg:maven/com.ning/metrics.serialization-smile@1.0.3?classifier=sources
+- pkg:maven/com.ning/metrics.serialization-smile@2.0.3
+- pkg:maven/com.ning/metrics.serialization-smile@2.0.3?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.redhat.rhevm.api/rhevm-api-mock-webapp@0.9-milestone-4.1?type=war
 - pkg:maven/com.redhat.rhevm.api/rhevm-api-mock-webapp@0.9-milestone-4?type=war
 - pkg:maven/com.redhat.rhevm.api/rhevm-api-mock-webapp@0.1-milestone?type=war
+- pkg:maven/com.redhat.rhevm.api/rhevm-api-mock-webapp@1.0-rc1.17?type=war
+- pkg:maven/com.redhat.rhevm.api/rhevm-api-mock-webapp@1.0-rc1.16?type=war

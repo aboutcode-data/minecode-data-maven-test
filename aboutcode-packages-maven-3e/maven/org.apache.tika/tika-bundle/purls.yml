@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.tika/tika-bundle@0.6?classifier=sources
 - pkg:maven/org.apache.tika/tika-bundle@0.10
 - pkg:maven/org.apache.tika/tika-bundle@0.10?classifier=sources
+- pkg:maven/org.apache.tika/tika-bundle@1.0
+- pkg:maven/org.apache.tika/tika-bundle@1.0?classifier=sources

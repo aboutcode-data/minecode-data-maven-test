@@ -2,3 +2,5 @@
 - pkg:maven/net.lshift.diffa/participant-support@1.0RC3?classifier=sources
 - pkg:maven/net.lshift.diffa/participant-support@1.0RC2
 - pkg:maven/net.lshift.diffa/participant-support@1.0RC2?classifier=sources
+- pkg:maven/net.lshift.diffa/participant-support@1.0
+- pkg:maven/net.lshift.diffa/participant-support@1.0?classifier=sources

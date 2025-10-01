@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.aries/org.apache.aries.util@0.1-incubating
 - pkg:maven/org.apache.aries/org.apache.aries.util@0.1-incubating?classifier=sources
 - pkg:maven/org.apache.aries/org.apache.aries.util@0.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries/org.apache.aries.util@0.4
+- pkg:maven/org.apache.aries/org.apache.aries.util@0.4?classifier=sources
+- pkg:maven/org.apache.aries/org.apache.aries.util@0.4?classifier=source-release&type=zip

@@ -122,3 +122,7 @@
 - pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@0.9-milestone-4?classifier=sources
 - pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@0.1-milestone
 - pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@0.1-milestone?classifier=sources
+- pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@1.0-rc1.17
+- pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@1.0-rc1.17?classifier=sources
+- pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@1.0-rc1.16
+- pkg:maven/com.redhat.rhevm.api/rhevm-api-common-jaxrs@1.0-rc1.16?classifier=sources

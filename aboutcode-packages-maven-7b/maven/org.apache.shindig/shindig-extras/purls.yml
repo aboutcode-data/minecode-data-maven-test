@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.shindig/shindig-extras@2.0.2?classifier=sources
 - pkg:maven/org.apache.shindig/shindig-extras@2.0.0
 - pkg:maven/org.apache.shindig/shindig-extras@2.0.0?classifier=sources
+- pkg:maven/org.apache.shindig/shindig-extras@3.0.0-beta3
+- pkg:maven/org.apache.shindig/shindig-extras@3.0.0-beta3?classifier=sources
