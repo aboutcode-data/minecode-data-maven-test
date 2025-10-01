@@ -1,0 +1,14 @@
+- pkg:maven/com.google.javascript/closure-compiler@r946
+- pkg:maven/com.google.javascript/closure-compiler@r946?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@r916
+- pkg:maven/com.google.javascript/closure-compiler@r916?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@r706
+- pkg:maven/com.google.javascript/closure-compiler@r706?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@r606
+- pkg:maven/com.google.javascript/closure-compiler@r606?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@r1459
+- pkg:maven/com.google.javascript/closure-compiler@r1459?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@r1352
+- pkg:maven/com.google.javascript/closure-compiler@r1352?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@r1043
+- pkg:maven/com.google.javascript/closure-compiler@r1043?classifier=sources
