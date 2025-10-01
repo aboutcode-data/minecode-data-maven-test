@@ -12,3 +12,7 @@
 - pkg:maven/org.jruby.extras/bytelist@1.0.2
 - pkg:maven/org.jruby.extras/bytelist@1.0.1
 - pkg:maven/org.jruby.extras/bytelist@0.1
+- pkg:maven/org.jruby.extras/bytelist@1.0.9
+- pkg:maven/org.jruby.extras/bytelist@1.0.9?classifier=sources
+- pkg:maven/org.jruby.extras/bytelist@1.0.10
+- pkg:maven/org.jruby.extras/bytelist@1.0.10?classifier=sources

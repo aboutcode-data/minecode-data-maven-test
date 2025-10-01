@@ -28,3 +28,5 @@
 - pkg:maven/org.sonatype.plugins/nexus-maven-plugin@1.3.2?classifier=sources
 - pkg:maven/org.sonatype.plugins/nexus-maven-plugin@1.9.2.3
 - pkg:maven/org.sonatype.plugins/nexus-maven-plugin@1.9.2.3?classifier=sources
+- pkg:maven/org.sonatype.plugins/nexus-maven-plugin@1.9.2.4
+- pkg:maven/org.sonatype.plugins/nexus-maven-plugin@1.9.2.4?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.ovea/jetty-session-redis@2.1.ga?classifier=sources
 - pkg:maven/com.ovea/jetty-session-redis@2.0.ga
 - pkg:maven/com.ovea/jetty-session-redis@2.0.ga?classifier=sources
+- pkg:maven/com.ovea/jetty-session-redis@2.2.ga
+- pkg:maven/com.ovea/jetty-session-redis@2.2.ga?classifier=sources

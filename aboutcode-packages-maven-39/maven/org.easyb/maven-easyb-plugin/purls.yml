@@ -25,3 +25,5 @@
 - pkg:maven/org.easyb/maven-easyb-plugin@0.8?classifier=sources
 - pkg:maven/org.easyb/maven-easyb-plugin@0.7
 - pkg:maven/org.easyb/maven-easyb-plugin@0.7?classifier=sources
+- pkg:maven/org.easyb/maven-easyb-plugin@1.4
+- pkg:maven/org.easyb/maven-easyb-plugin@1.4?classifier=sources

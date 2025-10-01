@@ -17,3 +17,4 @@
 - pkg:maven/tomcat/tomcat-coyote@4.0.6
 - pkg:maven/tomcat/tomcat-coyote@4.0.4
 - pkg:maven/tomcat/tomcat-coyote@3.3.2
+- pkg:maven/tomcat/tomcat-coyote@5.5.4?classifier=sources

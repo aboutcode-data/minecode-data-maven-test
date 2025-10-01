@@ -20,3 +20,7 @@
 - pkg:maven/com.google.guava/guava@10.0-rc1?classifier=sources
 - pkg:maven/com.google.guava/guava@10.0
 - pkg:maven/com.google.guava/guava@10.0?classifier=sources
+- pkg:maven/com.google.guava/guava@11.0-rc1
+- pkg:maven/com.google.guava/guava@11.0-rc1?classifier=sources
+- pkg:maven/com.google.guava/guava@11.0
+- pkg:maven/com.google.guava/guava@11.0?classifier=sources

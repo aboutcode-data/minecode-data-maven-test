@@ -20,3 +20,5 @@
 - pkg:maven/org.mortbay.jetty/test-fragment@8.1.0.RC0?classifier=sources
 - pkg:maven/org.mortbay.jetty/test-fragment@8.1.0.RC1
 - pkg:maven/org.mortbay.jetty/test-fragment@8.1.0.RC1?classifier=sources
+- pkg:maven/org.mortbay.jetty/test-fragment@8.1.0.RC2
+- pkg:maven/org.mortbay.jetty/test-fragment@8.1.0.RC2?classifier=sources

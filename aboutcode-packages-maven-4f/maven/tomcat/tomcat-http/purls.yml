@@ -7,3 +7,4 @@
 - pkg:maven/tomcat/tomcat-http@5.5.23
 - pkg:maven/tomcat/tomcat-http@5.5.15
 - pkg:maven/tomcat/tomcat-http@5.5.12
+- pkg:maven/tomcat/tomcat-http@5.5.4?classifier=sources

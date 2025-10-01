@@ -4,3 +4,5 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-api@0.8?classifier=sources
 - pkg:maven/org.grouplens.lenskit/lenskit-api@0.7
 - pkg:maven/org.grouplens.lenskit/lenskit-api@0.7?classifier=sources
+- pkg:maven/org.grouplens.lenskit/lenskit-api@0.9
+- pkg:maven/org.grouplens.lenskit/lenskit-api@0.9?classifier=sources
