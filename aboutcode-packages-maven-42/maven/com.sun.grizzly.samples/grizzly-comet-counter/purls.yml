@@ -200,3 +200,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-counter@2.1.7?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-counter@1.9.41?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-counter@1.9.41?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-counter@1.9.18-p?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-counter@1.9.18-p?classifier=sources

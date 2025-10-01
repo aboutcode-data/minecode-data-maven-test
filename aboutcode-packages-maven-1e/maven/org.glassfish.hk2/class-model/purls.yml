@@ -208,3 +208,5 @@
 - pkg:maven/org.glassfish.hk2/class-model@1.1.11?classifier=sources
 - pkg:maven/org.glassfish.hk2/class-model@1.1.10
 - pkg:maven/org.glassfish.hk2/class-model@1.1.10?classifier=sources
+- pkg:maven/org.glassfish.hk2/class-model@1.6.25
+- pkg:maven/org.glassfish.hk2/class-model@1.6.25?classifier=sources

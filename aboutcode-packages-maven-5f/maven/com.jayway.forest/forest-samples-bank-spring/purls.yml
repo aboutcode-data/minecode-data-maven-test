@@ -12,3 +12,5 @@
 - pkg:maven/com.jayway.forest/forest-samples-bank-spring@0.2.2.RELEASE?classifier=sources
 - pkg:maven/com.jayway.forest/forest-samples-bank-spring@0.2.1.RELEASE?type=war
 - pkg:maven/com.jayway.forest/forest-samples-bank-spring@0.2.1.RELEASE?classifier=sources
+- pkg:maven/com.jayway.forest/forest-samples-bank-spring@0.2.3.RELEASE?type=war
+- pkg:maven/com.jayway.forest/forest-samples-bank-spring@0.2.3.RELEASE?classifier=sources

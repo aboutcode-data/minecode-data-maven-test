@@ -92,3 +92,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-pkcs12@8.0.4.v20111024?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-pkcs12@7.5.4.v20111024
 - pkg:maven/org.mortbay.jetty/jetty-pkcs12@7.5.4.v20111024?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-pkcs12@8.1.0.RC0
+- pkg:maven/org.mortbay.jetty/jetty-pkcs12@8.1.0.RC0?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-pkcs12@7.6.0.RC0
+- pkg:maven/org.mortbay.jetty/jetty-pkcs12@7.6.0.RC0?classifier=sources

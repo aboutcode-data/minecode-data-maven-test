@@ -1,2 +1,4 @@
 - pkg:maven/net.stickycode.configured/sticky-configured-tck@2.4
 - pkg:maven/net.stickycode.configured/sticky-configured-tck@2.4?classifier=sources
+- pkg:maven/net.stickycode.configured/sticky-configured-tck@3.4
+- pkg:maven/net.stickycode.configured/sticky-configured-tck@3.4?classifier=sources
