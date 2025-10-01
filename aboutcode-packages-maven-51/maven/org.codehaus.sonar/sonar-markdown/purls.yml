@@ -36,3 +36,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-markdown@2.13?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-markdown@2.13.1
 - pkg:maven/org.codehaus.sonar/sonar-markdown@2.13.1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-markdown@2.14-RC1
+- pkg:maven/org.codehaus.sonar/sonar-markdown@2.14-RC1?classifier=sources

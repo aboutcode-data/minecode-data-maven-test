@@ -1,2 +1,4 @@
 - pkg:maven/com.j2bugzilla/j2bugzilla@1.0
 - pkg:maven/com.j2bugzilla/j2bugzilla@1.0?classifier=sources
+- pkg:maven/com.j2bugzilla/j2bugzilla@1.1
+- pkg:maven/com.j2bugzilla/j2bugzilla@1.1?classifier=sources

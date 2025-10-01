@@ -18,3 +18,5 @@
 - pkg:maven/org.jboss.resteasy/examples-jsapi@2.3.0.GA?classifier=sources
 - pkg:maven/org.jboss.resteasy/examples-jsapi@2.3.1.GA?type=war
 - pkg:maven/org.jboss.resteasy/examples-jsapi@2.3.1.GA?classifier=sources
+- pkg:maven/org.jboss.resteasy/examples-jsapi@2.3.2.Final?type=war
+- pkg:maven/org.jboss.resteasy/examples-jsapi@2.3.2.Final?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.1
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.1?classifier=src&type=zip
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.1?classifier=src&type=tar.gz
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.1?classifier=sources
