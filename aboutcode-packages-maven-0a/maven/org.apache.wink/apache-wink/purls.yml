@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.wink/apache-wink@1.1.2-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.wink/apache-wink@1.1.2-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.wink/apache-wink@1.1.1-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.wink/apache-wink@1.1.1-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.wink/apache-wink@1.1-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.wink/apache-wink@1.1-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.wink/apache-wink@1.0-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.wink/apache-wink@1.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.wink/apache-wink@0.1-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.wink/apache-wink@0.1-incubating?classifier=src&type=tar.gz
