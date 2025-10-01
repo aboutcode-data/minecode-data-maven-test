@@ -12,3 +12,5 @@
 - pkg:maven/org.grails/grails-maven-plugin@1.0-RC1
 - pkg:maven/org.grails/grails-maven-plugin@1.0
 - pkg:maven/org.grails/grails-maven-plugin@0.4
+- pkg:maven/org.grails/grails-maven-plugin@2.0.1
+- pkg:maven/org.grails/grails-maven-plugin@2.0.1?classifier=sources

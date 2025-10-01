@@ -88,3 +88,7 @@
 - pkg:maven/org.jgroups/jgroups@3.0.6.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@3.1.0.Alpha3
 - pkg:maven/org.jgroups/jgroups@3.1.0.Alpha3?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.0.7.Final
+- pkg:maven/org.jgroups/jgroups@3.0.7.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.0.8.Final
+- pkg:maven/org.jgroups/jgroups@3.0.8.Final?classifier=sources

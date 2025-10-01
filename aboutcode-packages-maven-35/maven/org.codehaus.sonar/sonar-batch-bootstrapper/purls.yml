@@ -52,3 +52,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-batch-bootstrapper@2.14-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-batch-bootstrapper@2.14-RC3
 - pkg:maven/org.codehaus.sonar/sonar-batch-bootstrapper@2.14-RC3?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-batch-bootstrapper@2.14-RC4
+- pkg:maven/org.codehaus.sonar/sonar-batch-bootstrapper@2.14-RC4?classifier=sources
