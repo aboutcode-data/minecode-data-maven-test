@@ -1,0 +1,4 @@
+- pkg:maven/org.dspace.modules/solr@1.7.2?type=war
+- pkg:maven/org.dspace.modules/solr@1.7.1?type=war
+- pkg:maven/org.dspace.modules/solr@1.7.0-rc2?type=war
+- pkg:maven/org.dspace.modules/solr@1.7.0?type=war
