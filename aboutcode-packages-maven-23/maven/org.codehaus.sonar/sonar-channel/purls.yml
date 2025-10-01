@@ -74,3 +74,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-channel@2.1.1?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-channel@2.1
 - pkg:maven/org.codehaus.sonar/sonar-channel@2.1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-channel@2.12-RC1
+- pkg:maven/org.codehaus.sonar/sonar-channel@2.12-RC1?classifier=sources

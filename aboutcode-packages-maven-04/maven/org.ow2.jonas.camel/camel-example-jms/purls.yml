@@ -56,3 +56,5 @@
 - pkg:maven/org.ow2.jonas.camel/camel-example-jms@1.0.3?classifier=sources
 - pkg:maven/org.ow2.jonas.camel/camel-example-jms@1.0.2
 - pkg:maven/org.ow2.jonas.camel/camel-example-jms@1.0.2?classifier=sources
+- pkg:maven/org.ow2.jonas.camel/camel-example-jms@1.6.2
+- pkg:maven/org.ow2.jonas.camel/camel-example-jms@1.6.2?classifier=sources

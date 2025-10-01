@@ -40,3 +40,7 @@
 - pkg:maven/com.sun.jersey.samples/moxy@1.10-b03?classifier=sources
 - pkg:maven/com.sun.jersey.samples/moxy@1.10-b04?type=war
 - pkg:maven/com.sun.jersey.samples/moxy@1.10-b04?classifier=sources
+- pkg:maven/com.sun.jersey.samples/moxy@1.10-b05?type=war
+- pkg:maven/com.sun.jersey.samples/moxy@1.10-b05?classifier=sources
+- pkg:maven/com.sun.jersey.samples/moxy@1.10?type=war
+- pkg:maven/com.sun.jersey.samples/moxy@1.10?classifier=sources

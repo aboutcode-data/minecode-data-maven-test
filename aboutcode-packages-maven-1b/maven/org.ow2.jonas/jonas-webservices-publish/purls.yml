@@ -53,3 +53,5 @@
 - pkg:maven/org.ow2.jonas/jonas-webservices-publish@5.1.0-M3?classifier=sources
 - pkg:maven/org.ow2.jonas/jonas-webservices-publish@5.1.0
 - pkg:maven/org.ow2.jonas/jonas-webservices-publish@5.1.0?classifier=sources
+- pkg:maven/org.ow2.jonas/jonas-webservices-publish@5.2.2
+- pkg:maven/org.ow2.jonas/jonas-webservices-publish@5.2.2?classifier=sources
