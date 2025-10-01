@@ -12,3 +12,7 @@
 - pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@1.0?classifier=sources
 - pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@2.2?type=war
 - pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@2.2?classifier=sources
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@2.3?type=war
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@2.3?classifier=sources
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@2.4?type=war
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-module-portlet@2.4?classifier=sources

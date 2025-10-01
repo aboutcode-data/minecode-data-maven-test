@@ -2,3 +2,5 @@
 - pkg:maven/nl.javadude.scannit/scannit@0.13?classifier=sources
 - pkg:maven/nl.javadude.scannit/scannit@0.14
 - pkg:maven/nl.javadude.scannit/scannit@0.14?classifier=sources
+- pkg:maven/nl.javadude.scannit/scannit@1.0.0
+- pkg:maven/nl.javadude.scannit/scannit@1.0.0?classifier=sources
