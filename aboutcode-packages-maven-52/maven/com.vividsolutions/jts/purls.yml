@@ -1,0 +1,5 @@
+- pkg:maven/com.vividsolutions/jts@1.8
+- pkg:maven/com.vividsolutions/jts@1.12
+- pkg:maven/com.vividsolutions/jts@1.12?classifier=sources
+- pkg:maven/com.vividsolutions/jts@1.11
+- pkg:maven/com.vividsolutions/jts@1.11?classifier=sources
