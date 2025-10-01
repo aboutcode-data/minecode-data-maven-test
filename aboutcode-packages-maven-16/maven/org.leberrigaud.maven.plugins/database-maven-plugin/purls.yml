@@ -24,3 +24,5 @@
 - pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.8?classifier=sources
 - pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.9
 - pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.9?classifier=sources
+- pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.9.1
+- pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.9.1?classifier=sources

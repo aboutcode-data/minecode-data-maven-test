@@ -34,3 +34,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-spi@1.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-spi@2.3.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-spi@2.3.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-spi@2.4.0.RC1
+- pkg:maven/org.ops4j.pax.exam/pax-exam-spi@2.4.0.RC1?classifier=sources

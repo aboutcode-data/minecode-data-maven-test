@@ -20,3 +20,5 @@
 - pkg:maven/com.cedarsoft.serialization/jackson@4.0.6?classifier=sources
 - pkg:maven/com.cedarsoft.serialization/jackson@4.0.7
 - pkg:maven/com.cedarsoft.serialization/jackson@4.0.7?classifier=sources
+- pkg:maven/com.cedarsoft.serialization/jackson@4.1.0
+- pkg:maven/com.cedarsoft.serialization/jackson@4.1.0?classifier=sources

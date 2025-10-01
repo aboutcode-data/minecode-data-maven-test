@@ -40,3 +40,5 @@
 - pkg:maven/org.cometd.java/bayeux-api@2.4.0.RC2?classifier=sources
 - pkg:maven/org.cometd.java/bayeux-api@2.4.0.RC3
 - pkg:maven/org.cometd.java/bayeux-api@2.4.0.RC3?classifier=sources
+- pkg:maven/org.cometd.java/bayeux-api@2.4.0
+- pkg:maven/org.cometd.java/bayeux-api@2.4.0?classifier=sources

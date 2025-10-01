@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.8.1_4
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.8.1_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.8.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.8.1_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.8.1_6?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.10.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.snmp4j@1.10.1_1?classifier=sources

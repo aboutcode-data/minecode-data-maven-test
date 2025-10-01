@@ -44,3 +44,5 @@
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@1.0.0.CR1
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@1.2.1.GA
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@1.2.1.GA?classifier=sources
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@1.2.2.GA
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@1.2.2.GA?classifier=sources
