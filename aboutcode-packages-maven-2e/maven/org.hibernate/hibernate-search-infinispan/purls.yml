@@ -32,3 +32,5 @@
 - pkg:maven/org.hibernate/hibernate-search-infinispan@4.1.0.CR1?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-infinispan@3.4.2.Final
 - pkg:maven/org.hibernate/hibernate-search-infinispan@3.4.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-infinispan@4.1.0.CR2
+- pkg:maven/org.hibernate/hibernate-search-infinispan@4.1.0.CR2?classifier=sources

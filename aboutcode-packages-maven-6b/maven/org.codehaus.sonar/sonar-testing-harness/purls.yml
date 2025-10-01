@@ -89,3 +89,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-testing-harness@2.14-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-testing-harness@2.14-RC4
 - pkg:maven/org.codehaus.sonar/sonar-testing-harness@2.14-RC4?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-testing-harness@2.14
+- pkg:maven/org.codehaus.sonar/sonar-testing-harness@2.14?classifier=sources
