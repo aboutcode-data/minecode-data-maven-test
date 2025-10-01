@@ -56,3 +56,7 @@
 - pkg:maven/org.neo4j/neo4j-shell@1.6.M03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-shell@1.6
 - pkg:maven/org.neo4j/neo4j-shell@1.6?classifier=sources
+- pkg:maven/org.neo4j/neo4j-shell@1.5.2
+- pkg:maven/org.neo4j/neo4j-shell@1.5.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-shell@1.5.1
+- pkg:maven/org.neo4j/neo4j-shell@1.5.1?classifier=sources

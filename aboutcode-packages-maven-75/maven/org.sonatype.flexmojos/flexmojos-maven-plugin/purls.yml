@@ -56,3 +56,5 @@
 - pkg:maven/org.sonatype.flexmojos/flexmojos-maven-plugin@3.0.0?classifier=sources
 - pkg:maven/org.sonatype.flexmojos/flexmojos-maven-plugin@4.1-beta
 - pkg:maven/org.sonatype.flexmojos/flexmojos-maven-plugin@4.1-beta?classifier=sources
+- pkg:maven/org.sonatype.flexmojos/flexmojos-maven-plugin@4.2-beta
+- pkg:maven/org.sonatype.flexmojos/flexmojos-maven-plugin@4.2-beta?classifier=sources

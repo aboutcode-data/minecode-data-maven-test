@@ -4,3 +4,5 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat7@1.1.5.Final?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat7@2.0.0.Alpha1
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat7@2.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat7@1.1.5.AS71.Final
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat7@1.1.5.AS71.Final?classifier=sources
