@@ -24,3 +24,5 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha8?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha9
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha9?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha10
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha10?classifier=sources

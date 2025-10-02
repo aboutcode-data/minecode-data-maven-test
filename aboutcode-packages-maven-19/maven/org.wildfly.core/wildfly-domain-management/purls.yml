@@ -168,3 +168,7 @@
 - pkg:maven/org.wildfly.core/wildfly-domain-management@2.2.0.CR4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-domain-management@2.2.0.CR3
 - pkg:maven/org.wildfly.core/wildfly-domain-management@2.2.0.CR3?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-domain-management@3.0.0.Alpha3
+- pkg:maven/org.wildfly.core/wildfly-domain-management@3.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-domain-management@2.2.0.CR5
+- pkg:maven/org.wildfly.core/wildfly-domain-management@2.2.0.CR5?classifier=sources

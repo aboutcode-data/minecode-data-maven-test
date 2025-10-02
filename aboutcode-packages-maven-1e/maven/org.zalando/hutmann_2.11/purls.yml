@@ -1,0 +1,4 @@
+- pkg:maven/org.zalando/hutmann_2.11@2.4.0
+- pkg:maven/org.zalando/hutmann_2.11@2.4.0?classifier=sources
+- pkg:maven/org.zalando/hutmann_2.11@0.1
+- pkg:maven/org.zalando/hutmann_2.11@0.1?classifier=sources
