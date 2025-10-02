@@ -30,3 +30,5 @@
 - pkg:maven/com.netflix.archaius/archaius-core@0.5.11?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius-core@0.5.10
 - pkg:maven/com.netflix.archaius/archaius-core@0.5.10?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius-core@0.5.12
+- pkg:maven/com.netflix.archaius/archaius-core@0.5.12?classifier=sources

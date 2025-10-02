@@ -1,2 +1,4 @@
 - pkg:maven/com.proofpoint.platform/reporting-client@0.79
 - pkg:maven/com.proofpoint.platform/reporting-client@0.79?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-client@0.80
+- pkg:maven/com.proofpoint.platform/reporting-client@0.80?classifier=sources
