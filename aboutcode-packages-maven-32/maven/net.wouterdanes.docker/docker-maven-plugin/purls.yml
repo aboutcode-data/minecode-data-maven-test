@@ -20,3 +20,5 @@
 - pkg:maven/net.wouterdanes.docker/docker-maven-plugin@2.1.1?classifier=sources
 - pkg:maven/net.wouterdanes.docker/docker-maven-plugin@2.2
 - pkg:maven/net.wouterdanes.docker/docker-maven-plugin@2.2?classifier=sources
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@2.3
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@2.3?classifier=sources

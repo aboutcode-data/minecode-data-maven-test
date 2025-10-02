@@ -12,3 +12,5 @@
 - pkg:maven/com.netflix.zuul/zuul-simple-webapp@1.0.17?classifier=sources
 - pkg:maven/com.netflix.zuul/zuul-simple-webapp@1.0.24?type=war
 - pkg:maven/com.netflix.zuul/zuul-simple-webapp@1.0.24?classifier=sources
+- pkg:maven/com.netflix.zuul/zuul-simple-webapp@1.0.28?type=war
+- pkg:maven/com.netflix.zuul/zuul-simple-webapp@1.0.28?classifier=sources

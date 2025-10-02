@@ -38,3 +38,5 @@
 - pkg:maven/com.newrelic.agent.android/class-rewriter@4.87.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/class-rewriter@4.83.0
 - pkg:maven/com.newrelic.agent.android/class-rewriter@4.83.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@4.95.0
+- pkg:maven/com.newrelic.agent.android/class-rewriter@4.95.0?classifier=sources
