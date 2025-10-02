@@ -20,3 +20,5 @@
 - pkg:maven/io.github.jhipster/jhipster@0.0.11?classifier=sources
 - pkg:maven/io.github.jhipster/jhipster@0.0.10
 - pkg:maven/io.github.jhipster/jhipster@0.0.10?classifier=sources
+- pkg:maven/io.github.jhipster/jhipster@1.0.0
+- pkg:maven/io.github.jhipster/jhipster@1.0.0?classifier=sources

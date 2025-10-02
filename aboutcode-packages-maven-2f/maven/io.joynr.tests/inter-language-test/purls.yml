@@ -56,3 +56,5 @@
 - pkg:maven/io.joynr.tests/inter-language-test@0.22.4?classifier=sources
 - pkg:maven/io.joynr.tests/inter-language-test@0.23.0
 - pkg:maven/io.joynr.tests/inter-language-test@0.23.0?classifier=sources
+- pkg:maven/io.joynr.tests/inter-language-test@0.23.1
+- pkg:maven/io.joynr.tests/inter-language-test@0.23.1?classifier=sources

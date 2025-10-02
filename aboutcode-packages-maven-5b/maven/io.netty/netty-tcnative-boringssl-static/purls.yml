@@ -26,3 +26,5 @@
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork25?classifier=sources
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork26
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork26?classifier=sources
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.0.Beta1
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.0.Beta1?classifier=sources

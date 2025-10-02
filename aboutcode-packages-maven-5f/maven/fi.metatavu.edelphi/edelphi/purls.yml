@@ -52,3 +52,5 @@
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.29?classifier=sources
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.28?type=war
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.28?classifier=sources
+- pkg:maven/fi.metatavu.edelphi/edelphi@1.1.32?type=war
+- pkg:maven/fi.metatavu.edelphi/edelphi@1.1.32?classifier=sources

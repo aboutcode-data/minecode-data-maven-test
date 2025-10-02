@@ -92,3 +92,5 @@
 - pkg:maven/io.protostuff/protostuff-maven-plugin@2.0.0-alpha27?classifier=sources
 - pkg:maven/io.protostuff/protostuff-maven-plugin@2.0.0-alpha32
 - pkg:maven/io.protostuff/protostuff-maven-plugin@2.0.0-alpha32?classifier=sources
+- pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.3
+- pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.3?classifier=sources
