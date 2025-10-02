@@ -42,3 +42,5 @@
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.8.8?classifier=sources
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.8.9
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.8.9?classifier=sources
+- pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.8.10
+- pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.8.10?classifier=sources

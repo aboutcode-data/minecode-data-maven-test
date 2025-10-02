@@ -96,3 +96,5 @@
 - pkg:maven/org.nhind/agent@2.0.19?classifier=sources
 - pkg:maven/org.nhind/agent@2.2
 - pkg:maven/org.nhind/agent@2.2?classifier=sources
+- pkg:maven/org.nhind/agent@2.2.1
+- pkg:maven/org.nhind/agent@2.2.1?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift-integration@0.19.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift-integration@0.19.1.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift-integration@0.19.1.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift-integration@0.19.3.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift-integration@0.19.3.Final?classifier=sources
