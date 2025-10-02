@@ -1,2 +1,4 @@
 - pkg:maven/com.impetus.client/kundera-oracle-nosql@2.5
 - pkg:maven/com.impetus.client/kundera-oracle-nosql@2.5?classifier=sources
+- pkg:maven/com.impetus.client/kundera-oracle-nosql@2.5.1
+- pkg:maven/com.impetus.client/kundera-oracle-nosql@2.5.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.foursquare/rogue-lift_2.9.2@2.0.0-RC3?classifier=sources
 - pkg:maven/com.foursquare/rogue-lift_2.9.2@2.0.0-RC4
 - pkg:maven/com.foursquare/rogue-lift_2.9.2@2.0.0-RC4?classifier=sources
+- pkg:maven/com.foursquare/rogue-lift_2.9.2@2.0.0
+- pkg:maven/com.foursquare/rogue-lift_2.9.2@2.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.bluetrainsoftware.maven/karma-runner-plugin@1.4
 - pkg:maven/com.bluetrainsoftware.maven/karma-runner-plugin@1.4?classifier=sources
+- pkg:maven/com.bluetrainsoftware.maven/karma-runner-plugin@1.5
+- pkg:maven/com.bluetrainsoftware.maven/karma-runner-plugin@1.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.archiva/archiva-maven2-metadata@1.4-M3
 - pkg:maven/org.apache.archiva/archiva-maven2-metadata@1.4-M3?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-maven2-metadata@1.4-M4
+- pkg:maven/org.apache.archiva/archiva-maven2-metadata@1.4-M4?classifier=sources
