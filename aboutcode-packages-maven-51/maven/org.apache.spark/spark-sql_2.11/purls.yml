@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.spark/spark-sql_2.11@2.0.0-preview?classifier=sources
 - pkg:maven/org.apache.spark/spark-sql_2.11@1.6.2
 - pkg:maven/org.apache.spark/spark-sql_2.11@1.6.2?classifier=sources
+- pkg:maven/org.apache.spark/spark-sql_2.11@2.0.0
+- pkg:maven/org.apache.spark/spark-sql_2.11@2.0.0?classifier=sources

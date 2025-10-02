@@ -224,3 +224,5 @@
 - pkg:maven/org.apache.wicket/wicket-ioc@7.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@6.24.0
 - pkg:maven/org.apache.wicket/wicket-ioc@6.24.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-ioc@1.5.16
+- pkg:maven/org.apache.wicket/wicket-ioc@1.5.16?classifier=sources

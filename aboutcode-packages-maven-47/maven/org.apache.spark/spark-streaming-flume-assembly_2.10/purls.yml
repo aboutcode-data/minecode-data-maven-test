@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.spark/spark-streaming-flume-assembly_2.10@2.0.0-preview?classifier=sources
 - pkg:maven/org.apache.spark/spark-streaming-flume-assembly_2.10@1.6.2
 - pkg:maven/org.apache.spark/spark-streaming-flume-assembly_2.10@1.6.2?classifier=sources
+- pkg:maven/org.apache.spark/spark-streaming-flume-assembly_2.10@2.0.0
+- pkg:maven/org.apache.spark/spark-streaming-flume-assembly_2.10@2.0.0?classifier=sources
