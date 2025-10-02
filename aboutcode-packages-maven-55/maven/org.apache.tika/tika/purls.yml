@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.tika/tika@0.2
 - pkg:maven/org.apache.tika/tika@1.6?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.7?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@1.8?classifier=src&type=zip

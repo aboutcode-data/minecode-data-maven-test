@@ -8,3 +8,5 @@
 - pkg:maven/org.juzu/juzu-plugins-shiro@1.0.0-cr1?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-shiro@1.0.0-cr2
 - pkg:maven/org.juzu/juzu-plugins-shiro@1.0.0-cr2?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-shiro@1.0.0
+- pkg:maven/org.juzu/juzu-plugins-shiro@1.0.0?classifier=sources

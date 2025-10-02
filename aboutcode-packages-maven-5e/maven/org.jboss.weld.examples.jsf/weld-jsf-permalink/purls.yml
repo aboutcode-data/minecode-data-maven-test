@@ -176,3 +176,7 @@
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@3.0.0.Alpha7?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@2.2.10.SP1?type=war
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@2.2.10.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@3.0.0.Alpha8?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@3.0.0.Alpha8?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@2.2.11.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-permalink@2.2.11.Final?classifier=sources

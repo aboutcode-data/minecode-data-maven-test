@@ -12,3 +12,6 @@
 - pkg:maven/org.jboss.arquillian.extension/arquillian-jacoco@1.0.0.Alpha7
 - pkg:maven/org.jboss.arquillian.extension/arquillian-jacoco@1.0.0.Alpha7?classifier=sources
 - pkg:maven/org.jboss.arquillian.extension/arquillian-jacoco@1.0.0.Alpha7?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.extension/arquillian-jacoco@1.0.0.Alpha8
+- pkg:maven/org.jboss.arquillian.extension/arquillian-jacoco@1.0.0.Alpha8?classifier=sources
+- pkg:maven/org.jboss.arquillian.extension/arquillian-jacoco@1.0.0.Alpha8?classifier=source-release&type=zip
