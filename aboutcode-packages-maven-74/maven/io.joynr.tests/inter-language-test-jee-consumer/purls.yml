@@ -36,3 +36,5 @@
 - pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@0.26.0?classifier=sources
 - pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@0.27.0?type=war
 - pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@0.27.0?classifier=sources
+- pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@0.27.1?type=war
+- pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@0.27.1?classifier=sources
