@@ -90,3 +90,5 @@
 - pkg:maven/com.groupbyinc/common-test@65?classifier=sources
 - pkg:maven/com.groupbyinc/common-test@64
 - pkg:maven/com.groupbyinc/common-test@64?classifier=sources
+- pkg:maven/com.groupbyinc/common-test@67
+- pkg:maven/com.groupbyinc/common-test@67?classifier=sources

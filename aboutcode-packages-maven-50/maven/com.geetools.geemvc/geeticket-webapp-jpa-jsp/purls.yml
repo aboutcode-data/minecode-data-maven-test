@@ -6,3 +6,5 @@
 - pkg:maven/com.geetools.geemvc/geeticket-webapp-jpa-jsp@0.9.1-beta4?classifier=sources
 - pkg:maven/com.geetools.geemvc/geeticket-webapp-jpa-jsp@0.9.1-beta3?type=war
 - pkg:maven/com.geetools.geemvc/geeticket-webapp-jpa-jsp@0.9.1-beta3?classifier=sources
+- pkg:maven/com.geetools.geemvc/geeticket-webapp-jpa-jsp@0.9.1-rc1?type=war
+- pkg:maven/com.geetools.geemvc/geeticket-webapp-jpa-jsp@0.9.1-rc1?classifier=sources
