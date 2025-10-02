@@ -94,3 +94,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-api@0.29?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-api@0.28
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-api@0.28?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-api@0.30
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-api@0.30?classifier=sources

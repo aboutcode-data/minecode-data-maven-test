@@ -140,3 +140,7 @@
 - pkg:maven/org.infinispan.server/infinispan-server-infinispan@8.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan.server/infinispan-server-infinispan@8.1.5.Final
 - pkg:maven/org.infinispan.server/infinispan-server-infinispan@8.1.5.Final?classifier=sources
+- pkg:maven/org.infinispan.server/infinispan-server-infinispan@9.0.0.Alpha3
+- pkg:maven/org.infinispan.server/infinispan-server-infinispan@9.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan.server/infinispan-server-infinispan@8.2.3.Final
+- pkg:maven/org.infinispan.server/infinispan-server-infinispan@8.2.3.Final?classifier=sources

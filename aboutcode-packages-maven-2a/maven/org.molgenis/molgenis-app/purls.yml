@@ -68,3 +68,5 @@
 - pkg:maven/org.molgenis/molgenis-app@1.17.1?classifier=sources
 - pkg:maven/org.molgenis/molgenis-app@1.21.2?type=war
 - pkg:maven/org.molgenis/molgenis-app@1.21.2?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app@1.21.3?type=war
+- pkg:maven/org.molgenis/molgenis-app@1.21.3?classifier=sources

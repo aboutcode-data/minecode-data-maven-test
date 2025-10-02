@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc/rest@0.9?type=war
+- pkg:maven/org.jboss.pnc/rest@0.9?classifier=sources

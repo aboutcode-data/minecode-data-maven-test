@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.9?type=war
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.9?classifier=sources
