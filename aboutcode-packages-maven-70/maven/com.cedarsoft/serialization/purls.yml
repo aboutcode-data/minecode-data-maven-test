@@ -52,3 +52,5 @@
 - pkg:maven/com.cedarsoft/serialization@5.0.0?classifier=sources
 - pkg:maven/com.cedarsoft/serialization@6.0.0
 - pkg:maven/com.cedarsoft/serialization@6.0.0?classifier=sources
+- pkg:maven/com.cedarsoft/serialization@6.1.0
+- pkg:maven/com.cedarsoft/serialization@6.1.0?classifier=sources
