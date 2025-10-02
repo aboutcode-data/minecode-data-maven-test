@@ -82,3 +82,5 @@
 - pkg:maven/com.codeborne/selenide@2.17?classifier=sources
 - pkg:maven/com.codeborne/selenide@2.18
 - pkg:maven/com.codeborne/selenide@2.18?classifier=sources
+- pkg:maven/com.codeborne/selenide@2.18.1
+- pkg:maven/com.codeborne/selenide@2.18.1?classifier=sources

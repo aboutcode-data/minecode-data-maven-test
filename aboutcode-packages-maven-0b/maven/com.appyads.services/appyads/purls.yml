@@ -1,0 +1,4 @@
+- pkg:maven/com.appyads.services/appyads@1.0.20?type=aar
+- pkg:maven/com.appyads.services/appyads@1.0.20?classifier=sources
+- pkg:maven/com.appyads.services/appyads@1.0.0?type=aar
+- pkg:maven/com.appyads.services/appyads@1.0.0?classifier=sources
