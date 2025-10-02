@@ -6,3 +6,5 @@
 - pkg:maven/io.smartcat/cassandra-diagnostics-reporter-kafka@1.3.3?classifier=sources
 - pkg:maven/io.smartcat/cassandra-diagnostics-reporter-kafka@1.3.2
 - pkg:maven/io.smartcat/cassandra-diagnostics-reporter-kafka@1.3.2?classifier=sources
+- pkg:maven/io.smartcat/cassandra-diagnostics-reporter-kafka@1.3.5
+- pkg:maven/io.smartcat/cassandra-diagnostics-reporter-kafka@1.3.5?classifier=sources
