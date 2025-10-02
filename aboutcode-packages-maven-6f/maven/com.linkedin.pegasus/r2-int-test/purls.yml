@@ -34,3 +34,5 @@
 - pkg:maven/com.linkedin.pegasus/r2-int-test@2.2.5?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-int-test@2.1.0
 - pkg:maven/com.linkedin.pegasus/r2-int-test@2.1.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-int-test@2.6.0
+- pkg:maven/com.linkedin.pegasus/r2-int-test@2.6.0?classifier=sources
