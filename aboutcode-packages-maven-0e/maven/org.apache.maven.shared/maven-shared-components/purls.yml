@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.maven.shared/maven-shared-components@12?classifier=src&type=tar.gz
 - pkg:maven/org.apache.maven.shared/maven-shared-components@18?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.shared/maven-shared-components@19?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@20?classifier=source-release&type=zip
