@@ -12,3 +12,5 @@
 - pkg:maven/com.nedap.retail.services/messages@1.40?classifier=sources
 - pkg:maven/com.nedap.retail.services/messages@1.41
 - pkg:maven/com.nedap.retail.services/messages@1.41?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.43
+- pkg:maven/com.nedap.retail.services/messages@1.43?classifier=sources
