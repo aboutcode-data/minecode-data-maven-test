@@ -16,3 +16,5 @@
 - pkg:maven/com.arangodb/arangodb-java-driver@2.5.1?classifier=sources
 - pkg:maven/com.arangodb/arangodb-java-driver@2.4.4
 - pkg:maven/com.arangodb/arangodb-java-driver@2.4.4?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@2.5.2
+- pkg:maven/com.arangodb/arangodb-java-driver@2.5.2?classifier=sources

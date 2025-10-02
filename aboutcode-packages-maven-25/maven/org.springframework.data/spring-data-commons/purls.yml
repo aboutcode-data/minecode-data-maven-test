@@ -42,3 +42,5 @@
 - pkg:maven/org.springframework.data/spring-data-commons@1.9.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@1.8.5.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@1.8.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@1.10.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@1.10.0.RELEASE?classifier=sources

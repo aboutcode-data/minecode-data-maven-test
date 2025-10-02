@@ -1,2 +1,4 @@
 - pkg:maven/com.aol.microservices/microserver-boot@0.5
 - pkg:maven/com.aol.microservices/microserver-boot@0.5?classifier=sources
+- pkg:maven/com.aol.microservices/microserver-boot@0.51
+- pkg:maven/com.aol.microservices/microserver-boot@0.51?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.aerospike/aerospike-client@3.0.34?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client@3.0.35
 - pkg:maven/com.aerospike/aerospike-client@3.0.35?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client@3.1.0
+- pkg:maven/com.aerospike/aerospike-client@3.1.0?classifier=sources
