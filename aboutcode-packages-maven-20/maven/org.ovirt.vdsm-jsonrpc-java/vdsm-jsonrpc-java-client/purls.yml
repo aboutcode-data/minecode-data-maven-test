@@ -46,3 +46,7 @@
 - pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.1.11?classifier=sources
 - pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.2.3
 - pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.2.3?classifier=sources
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.2.5
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.2.5?classifier=sources
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.2.4
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.2.4?classifier=sources
