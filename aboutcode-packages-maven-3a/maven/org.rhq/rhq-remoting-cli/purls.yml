@@ -1,0 +1,6 @@
+- pkg:maven/org.rhq/rhq-remoting-cli@4.4.0?classifier=sources
+- pkg:maven/org.rhq/rhq-remoting-cli@4.3.0?classifier=sources
+- pkg:maven/org.rhq/rhq-remoting-cli@4.2.0?classifier=sources
+- pkg:maven/org.rhq/rhq-remoting-cli@4.0.1?classifier=sources
+- pkg:maven/org.rhq/rhq-remoting-cli@3.0.0.EmbJopr5?classifier=sources
+- pkg:maven/org.rhq/rhq-remoting-cli@3.0.0.EmbJopr4?classifier=sources

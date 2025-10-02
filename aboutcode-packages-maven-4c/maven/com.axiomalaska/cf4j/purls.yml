@@ -1,2 +1,6 @@
 - pkg:maven/com.axiomalaska/cf4j@19.0
 - pkg:maven/com.axiomalaska/cf4j@19.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@20.0
+- pkg:maven/com.axiomalaska/cf4j@20.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@19.1
+- pkg:maven/com.axiomalaska/cf4j@19.1?classifier=sources

@@ -203,3 +203,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-chat@1.9.50?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-chat@1.9.51?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-chat@1.9.51?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-chat@1.9.52?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-chat@1.9.52?classifier=sources
