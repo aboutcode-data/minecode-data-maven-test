@@ -55,3 +55,5 @@
 - pkg:maven/org.apache.camel/camel-example-jmx@2.11.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-jmx@2.9.7
 - pkg:maven/org.apache.camel/camel-example-jmx@2.9.7?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-jmx@2.10.5
+- pkg:maven/org.apache.camel/camel-example-jmx@2.10.5?classifier=sources

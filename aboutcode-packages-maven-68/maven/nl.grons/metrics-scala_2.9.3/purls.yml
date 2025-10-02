@@ -1,2 +1,4 @@
 - pkg:maven/nl.grons/metrics-scala_2.9.3@2.2.0
 - pkg:maven/nl.grons/metrics-scala_2.9.3@2.2.0?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.9.3@3.0.0
+- pkg:maven/nl.grons/metrics-scala_2.9.3@3.0.0?classifier=sources
