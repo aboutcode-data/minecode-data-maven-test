@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.swarm/spi-api@1.0.0.Beta11?classifier=sources
 - pkg:maven/org.wildfly.swarm/spi-api@1.0.0.Beta10
 - pkg:maven/org.wildfly.swarm/spi-api@1.0.0.Beta10?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi-api@1.0.0.Beta13
+- pkg:maven/org.wildfly.swarm/spi-api@1.0.0.Beta13?classifier=sources

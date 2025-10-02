@@ -38,3 +38,5 @@
 - pkg:maven/se.redmind/rmtest-cucumber-standalone@2.0.18?classifier=sources
 - pkg:maven/se.redmind/rmtest-cucumber-standalone@2.0.19
 - pkg:maven/se.redmind/rmtest-cucumber-standalone@2.0.19?classifier=sources
+- pkg:maven/se.redmind/rmtest-cucumber-standalone@2.4.0
+- pkg:maven/se.redmind/rmtest-cucumber-standalone@2.4.0?classifier=sources
