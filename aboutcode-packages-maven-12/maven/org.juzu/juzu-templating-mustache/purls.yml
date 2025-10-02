@@ -126,3 +126,5 @@
 - pkg:maven/org.juzu/juzu-templating-mustache@0.8.0-beta7?classifier=sources
 - pkg:maven/org.juzu/juzu-templating-mustache@0.8.0
 - pkg:maven/org.juzu/juzu-templating-mustache@0.8.0?classifier=sources
+- pkg:maven/org.juzu/juzu-templating-mustache@1.0.0-beta1
+- pkg:maven/org.juzu/juzu-templating-mustache@1.0.0-beta1?classifier=sources

@@ -132,3 +132,5 @@
 - pkg:maven/org.juzu/juzu-booking@0.8.0-beta7?classifier=sources
 - pkg:maven/org.juzu/juzu-booking@0.8.0?type=war
 - pkg:maven/org.juzu/juzu-booking@0.8.0?classifier=sources
+- pkg:maven/org.juzu/juzu-booking@1.0.0-beta1?type=war
+- pkg:maven/org.juzu/juzu-booking@1.0.0-beta1?classifier=sources

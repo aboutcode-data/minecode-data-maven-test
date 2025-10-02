@@ -77,3 +77,5 @@
 - pkg:maven/org.infinispan/integrationtests-lucenedirectory-query@7.0.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/integrationtests-lucenedirectory-query@7.0.0.Alpha3
 - pkg:maven/org.infinispan/integrationtests-lucenedirectory-query@7.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/integrationtests-lucenedirectory-query@5.2.9.Final
+- pkg:maven/org.infinispan/integrationtests-lucenedirectory-query@5.2.9.Final?classifier=sources
