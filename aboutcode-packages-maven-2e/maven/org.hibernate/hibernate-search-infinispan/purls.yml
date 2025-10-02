@@ -96,3 +96,5 @@
 - pkg:maven/org.hibernate/hibernate-search-infinispan@5.0.0.Alpha6?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-infinispan@4.4.4.Final
 - pkg:maven/org.hibernate/hibernate-search-infinispan@4.4.4.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-infinispan@5.0.0.Alpha7
+- pkg:maven/org.hibernate/hibernate-search-infinispan@5.0.0.Alpha7?classifier=sources

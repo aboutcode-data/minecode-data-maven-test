@@ -41,3 +41,5 @@
 - pkg:maven/org.databene/databene-commons@0.5.15?classifier=sources
 - pkg:maven/org.databene/databene-commons@0.5.16
 - pkg:maven/org.databene/databene-commons@0.5.16?classifier=sources
+- pkg:maven/org.databene/databene-commons@1.0.0
+- pkg:maven/org.databene/databene-commons@1.0.0?classifier=sources
