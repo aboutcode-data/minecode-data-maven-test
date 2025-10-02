@@ -14,3 +14,5 @@
 - pkg:maven/com.alibaba/arouter-api@1.0.7?classifier=sources
 - pkg:maven/com.alibaba/arouter-api@1.0.8?type=aar
 - pkg:maven/com.alibaba/arouter-api@1.0.8?classifier=sources
+- pkg:maven/com.alibaba/arouter-api@1.1.0?type=aar
+- pkg:maven/com.alibaba/arouter-api@1.1.0?classifier=sources

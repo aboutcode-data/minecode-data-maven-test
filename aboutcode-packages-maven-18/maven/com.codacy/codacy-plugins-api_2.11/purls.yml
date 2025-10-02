@@ -12,3 +12,5 @@
 - pkg:maven/com.codacy/codacy-plugins-api_2.11@1.0.8?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.11@1.0.7
 - pkg:maven/com.codacy/codacy-plugins-api_2.11@1.0.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.11@1.0.10
+- pkg:maven/com.codacy/codacy-plugins-api_2.11@1.0.10?classifier=sources
