@@ -134,3 +134,7 @@
 - pkg:maven/com.google.apis/google-api-services-freebase@v1-rev42-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-freebase@v1-rev42-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-freebase@v1-rev42-1.13.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-freebase@v1sandbox-rev37-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-freebase@v1sandbox-rev37-1.17.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-freebase@v1-rev42-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-freebase@v1-rev42-1.17.0-rc?classifier=sources

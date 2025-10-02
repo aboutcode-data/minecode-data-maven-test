@@ -2,3 +2,5 @@
 - pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.1.12?classifier=sources
 - pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.0.12
 - pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.0.12?classifier=sources
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.2.5
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.2.5?classifier=sources

@@ -102,3 +102,7 @@
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev22-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev22-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev22-1.13.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev17-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev17-1.17.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev22-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev22-1.17.0-rc?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.stackmob/newman_2.10@0.20.0?classifier=sources
 - pkg:maven/com.stackmob/newman_2.10@0.23.0
 - pkg:maven/com.stackmob/newman_2.10@0.23.0?classifier=sources
+- pkg:maven/com.stackmob/newman_2.10@1.0.0
+- pkg:maven/com.stackmob/newman_2.10@1.0.0?classifier=sources

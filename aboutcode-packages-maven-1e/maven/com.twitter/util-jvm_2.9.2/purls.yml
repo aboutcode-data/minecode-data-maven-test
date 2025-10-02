@@ -22,3 +22,5 @@
 - pkg:maven/com.twitter/util-jvm_2.9.2@6.3.8?classifier=sources
 - pkg:maven/com.twitter/util-jvm_2.9.2@6.4.0
 - pkg:maven/com.twitter/util-jvm_2.9.2@6.4.0?classifier=sources
+- pkg:maven/com.twitter/util-jvm_2.9.2@6.5.0
+- pkg:maven/com.twitter/util-jvm_2.9.2@6.5.0?classifier=sources

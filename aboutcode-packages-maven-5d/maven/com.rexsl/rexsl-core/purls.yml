@@ -72,3 +72,5 @@
 - pkg:maven/com.rexsl/rexsl-core@0.4.14?classifier=sources
 - pkg:maven/com.rexsl/rexsl-core@0.4.15
 - pkg:maven/com.rexsl/rexsl-core@0.4.15?classifier=sources
+- pkg:maven/com.rexsl/rexsl-core@0.5
+- pkg:maven/com.rexsl/rexsl-core@0.5?classifier=sources
