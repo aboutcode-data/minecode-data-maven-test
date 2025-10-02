@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tooling.testing@2.2.8?classifier=sources
 - pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tooling.testing@2.2.9
 - pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tooling.testing@2.2.9?classifier=sources
+- pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tooling.testing@2.2.10
+- pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tooling.testing@2.2.10?classifier=sources

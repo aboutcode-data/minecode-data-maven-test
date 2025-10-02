@@ -18,3 +18,5 @@
 - pkg:maven/com.googlecode.jmockit/jmockit@0.999.18?classifier=sources
 - pkg:maven/com.googlecode.jmockit/jmockit@0.999.19
 - pkg:maven/com.googlecode.jmockit/jmockit@0.999.19?classifier=sources
+- pkg:maven/com.googlecode.jmockit/jmockit@1.0
+- pkg:maven/com.googlecode.jmockit/jmockit@1.0?classifier=sources

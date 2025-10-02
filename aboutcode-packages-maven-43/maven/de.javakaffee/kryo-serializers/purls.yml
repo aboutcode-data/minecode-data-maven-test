@@ -4,3 +4,5 @@
 - pkg:maven/de.javakaffee/kryo-serializers@0.10?classifier=sources
 - pkg:maven/de.javakaffee/kryo-serializers@0.20
 - pkg:maven/de.javakaffee/kryo-serializers@0.20?classifier=sources
+- pkg:maven/de.javakaffee/kryo-serializers@0.21
+- pkg:maven/de.javakaffee/kryo-serializers@0.21?classifier=sources
