@@ -6,3 +6,5 @@
 - pkg:maven/org.robolectric/shadows-play-services@3.0-rc3?classifier=sources
 - pkg:maven/org.robolectric/shadows-play-services@3.0
 - pkg:maven/org.robolectric/shadows-play-services@3.0?classifier=sources
+- pkg:maven/org.robolectric/shadows-play-services@3.1-rc1
+- pkg:maven/org.robolectric/shadows-play-services@3.1-rc1?classifier=sources
