@@ -16,3 +16,5 @@
 - pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.0.3.Final
 - pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.1.0.CR1
+- pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.1.0.CR1?classifier=sources

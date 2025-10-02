@@ -74,3 +74,7 @@
 - pkg:maven/org.gweninterpreter/gwen-web@2.5.2?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@2.6.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.6.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.7.1?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.7.1?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.7.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.7.0?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/org.jmockit/jmockit@1.31?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.32
 - pkg:maven/org.jmockit/jmockit@1.32?classifier=sources
+- pkg:maven/org.jmockit/jmockit@1.33
+- pkg:maven/org.jmockit/jmockit@1.33?classifier=sources
