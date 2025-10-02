@@ -16,3 +16,5 @@
 - pkg:maven/com.aol.microservices/micro-tomcat@0.80?classifier=sources
 - pkg:maven/com.aol.microservices/micro-tomcat@0.81
 - pkg:maven/com.aol.microservices/micro-tomcat@0.81?classifier=sources
+- pkg:maven/com.aol.microservices/micro-tomcat@0.82
+- pkg:maven/com.aol.microservices/micro-tomcat@0.82?classifier=sources
