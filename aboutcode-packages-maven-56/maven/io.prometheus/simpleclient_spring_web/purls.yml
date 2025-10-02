@@ -1,2 +1,4 @@
 - pkg:maven/io.prometheus/simpleclient_spring_web@0.0.22
 - pkg:maven/io.prometheus/simpleclient_spring_web@0.0.22?classifier=sources
+- pkg:maven/io.prometheus/simpleclient_spring_web@0.0.23
+- pkg:maven/io.prometheus/simpleclient_spring_web@0.0.23?classifier=sources
