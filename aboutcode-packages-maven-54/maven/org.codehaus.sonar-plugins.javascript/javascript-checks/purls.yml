@@ -10,3 +10,5 @@
 - pkg:maven/org.codehaus.sonar-plugins.javascript/javascript-checks@1.4?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.javascript/javascript-checks@1.5
 - pkg:maven/org.codehaus.sonar-plugins.javascript/javascript-checks@1.5?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.javascript/javascript-checks@1.6-RC1
+- pkg:maven/org.codehaus.sonar-plugins.javascript/javascript-checks@1.6-RC1?classifier=sources

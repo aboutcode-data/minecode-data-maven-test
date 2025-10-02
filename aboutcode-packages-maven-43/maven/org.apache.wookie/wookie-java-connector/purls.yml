@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.wookie/wookie-java-connector@0.14?classifier=sources
 - pkg:maven/org.apache.wookie/wookie-java-connector@0.15.0
 - pkg:maven/org.apache.wookie/wookie-java-connector@0.15.0?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@1.0.0
+- pkg:maven/org.apache.wookie/wookie-java-connector@1.0.0?classifier=sources

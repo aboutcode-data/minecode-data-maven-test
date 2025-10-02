@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-mk-api@0.15?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-mk-api@0.16
 - pkg:maven/org.apache.jackrabbit/oak-mk-api@0.16?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-mk-api@0.17.1
+- pkg:maven/org.apache.jackrabbit/oak-mk-api@0.17.1?classifier=sources
