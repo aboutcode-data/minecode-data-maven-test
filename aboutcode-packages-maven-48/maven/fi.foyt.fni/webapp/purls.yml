@@ -10,3 +10,7 @@
 - pkg:maven/fi.foyt.fni/webapp@3.2.22?classifier=sources
 - pkg:maven/fi.foyt.fni/webapp@3.2.21?type=war
 - pkg:maven/fi.foyt.fni/webapp@3.2.21?classifier=sources
+- pkg:maven/fi.foyt.fni/webapp@3.2.24?type=war
+- pkg:maven/fi.foyt.fni/webapp@3.2.24?classifier=sources
+- pkg:maven/fi.foyt.fni/webapp@3.2.23?type=war
+- pkg:maven/fi.foyt.fni/webapp@3.2.23?classifier=sources

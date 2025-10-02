@@ -16,3 +16,7 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.0.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.1.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.1.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.2.Preview2?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.2.Preview2?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.2.Preview1?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-api@1.1.2.Preview1?classifier=sources
