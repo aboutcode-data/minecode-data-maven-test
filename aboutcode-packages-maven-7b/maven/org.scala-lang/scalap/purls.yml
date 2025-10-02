@@ -202,3 +202,5 @@
 - pkg:maven/org.scala-lang/scalap@2.10.6?classifier=sources
 - pkg:maven/org.scala-lang/scalap@2.12.0-M3
 - pkg:maven/org.scala-lang/scalap@2.12.0-M3?classifier=sources
+- pkg:maven/org.scala-lang/scalap@2.11.8
+- pkg:maven/org.scala-lang/scalap@2.11.8?classifier=sources

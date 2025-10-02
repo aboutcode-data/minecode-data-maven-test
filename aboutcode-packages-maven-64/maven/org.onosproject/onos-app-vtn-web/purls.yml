@@ -1,2 +1,4 @@
 - pkg:maven/org.onosproject/onos-app-vtn-web@1.4.0
 - pkg:maven/org.onosproject/onos-app-vtn-web@1.4.0?classifier=sources
+- pkg:maven/org.onosproject/onos-app-vtn-web@1.5.0
+- pkg:maven/org.onosproject/onos-app-vtn-web@1.5.0?classifier=sources

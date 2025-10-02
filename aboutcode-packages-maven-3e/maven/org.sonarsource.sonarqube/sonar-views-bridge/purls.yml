@@ -6,3 +6,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-views-bridge@5.4-RC4?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-views-bridge@5.4-RC3
 - pkg:maven/org.sonarsource.sonarqube/sonar-views-bridge@5.4-RC3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-views-bridge@5.4
+- pkg:maven/org.sonarsource.sonarqube/sonar-views-bridge@5.4?classifier=sources

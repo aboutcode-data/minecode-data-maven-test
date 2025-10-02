@@ -36,3 +36,5 @@
 - pkg:maven/org.trustedanalytics/hadoop-utils@0.5.11?classifier=sources
 - pkg:maven/org.trustedanalytics/hadoop-utils@0.5.10
 - pkg:maven/org.trustedanalytics/hadoop-utils@0.5.10?classifier=sources
+- pkg:maven/org.trustedanalytics/hadoop-utils@0.5.13
+- pkg:maven/org.trustedanalytics/hadoop-utils@0.5.13?classifier=sources
