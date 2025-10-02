@@ -4,3 +4,5 @@
 - pkg:maven/dk.nodes.gutenberg/gutenberg@0.2?classifier=sources
 - pkg:maven/dk.nodes.gutenberg/gutenberg@0.3?type=aar
 - pkg:maven/dk.nodes.gutenberg/gutenberg@0.3?classifier=sources
+- pkg:maven/dk.nodes.gutenberg/gutenberg@0.4?type=aar
+- pkg:maven/dk.nodes.gutenberg/gutenberg@0.4?classifier=sources

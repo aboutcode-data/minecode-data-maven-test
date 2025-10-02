@@ -28,3 +28,5 @@
 - pkg:maven/io.keen/keen-client-api-java@2.2.0?classifier=sources
 - pkg:maven/io.keen/keen-client-api-java@3.0.0
 - pkg:maven/io.keen/keen-client-api-java@3.0.0?classifier=sources
+- pkg:maven/io.keen/keen-client-api-java@4.0.0
+- pkg:maven/io.keen/keen-client-api-java@4.0.0?classifier=sources
