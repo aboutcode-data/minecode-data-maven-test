@@ -56,3 +56,7 @@
 - pkg:maven/org.onosproject/onos-core-dist@1.8.4?classifier=sources
 - pkg:maven/org.onosproject/onos-core-dist@1.8.3
 - pkg:maven/org.onosproject/onos-core-dist@1.8.3?classifier=sources
+- pkg:maven/org.onosproject/onos-core-dist@1.8.5-rc2
+- pkg:maven/org.onosproject/onos-core-dist@1.8.5-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-core-dist@1.10.0-rc1
+- pkg:maven/org.onosproject/onos-core-dist@1.10.0-rc1?classifier=sources

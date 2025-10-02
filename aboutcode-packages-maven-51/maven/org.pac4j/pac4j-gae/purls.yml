@@ -50,3 +50,5 @@
 - pkg:maven/org.pac4j/pac4j-gae@2.0.0-RC2?classifier=sources
 - pkg:maven/org.pac4j/pac4j-gae@1.9.7
 - pkg:maven/org.pac4j/pac4j-gae@1.9.7?classifier=sources
+- pkg:maven/org.pac4j/pac4j-gae@2.0.0
+- pkg:maven/org.pac4j/pac4j-gae@2.0.0?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/org.mock-server/mockserver-maven-plugin@3.10.3?classifier=sources
 - pkg:maven/org.mock-server/mockserver-maven-plugin@3.10.4
 - pkg:maven/org.mock-server/mockserver-maven-plugin@3.10.4?classifier=sources
+- pkg:maven/org.mock-server/mockserver-maven-plugin@3.10.7
+- pkg:maven/org.mock-server/mockserver-maven-plugin@3.10.7?classifier=sources
