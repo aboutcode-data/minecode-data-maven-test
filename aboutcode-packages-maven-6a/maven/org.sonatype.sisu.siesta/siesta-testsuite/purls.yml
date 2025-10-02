@@ -2,3 +2,5 @@
 - pkg:maven/org.sonatype.sisu.siesta/siesta-testsuite@1.4.1?classifier=sources
 - pkg:maven/org.sonatype.sisu.siesta/siesta-testsuite@1.5
 - pkg:maven/org.sonatype.sisu.siesta/siesta-testsuite@1.5?classifier=sources
+- pkg:maven/org.sonatype.sisu.siesta/siesta-testsuite@1.5.1
+- pkg:maven/org.sonatype.sisu.siesta/siesta-testsuite@1.5.1?classifier=sources

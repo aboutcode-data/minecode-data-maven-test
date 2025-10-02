@@ -1,2 +1,4 @@
 - pkg:maven/org.sonatype.sisu.goodies/goodies-validation@1.6.1
 - pkg:maven/org.sonatype.sisu.goodies/goodies-validation@1.6.1?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-validation@1.7
+- pkg:maven/org.sonatype.sisu.goodies/goodies-validation@1.7?classifier=sources

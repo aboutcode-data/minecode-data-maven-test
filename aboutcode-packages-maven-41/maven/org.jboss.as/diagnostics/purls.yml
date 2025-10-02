@@ -30,3 +30,5 @@
 - pkg:maven/org.jboss.as/diagnostics@1.5.6.Final?classifier=sources
 - pkg:maven/org.jboss.as/diagnostics@2.0.0.Beta4
 - pkg:maven/org.jboss.as/diagnostics@2.0.0.Beta4?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.0.0.Final
+- pkg:maven/org.jboss.as/diagnostics@2.0.0.Final?classifier=sources
