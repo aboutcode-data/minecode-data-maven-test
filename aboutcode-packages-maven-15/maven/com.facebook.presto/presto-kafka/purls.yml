@@ -40,3 +40,4 @@
 - pkg:maven/com.facebook.presto/presto-kafka@0.115?classifier=sources
 - pkg:maven/com.facebook.presto/presto-kafka@0.117?classifier=sources
 - pkg:maven/com.facebook.presto/presto-kafka@0.116?classifier=sources
+- pkg:maven/com.facebook.presto/presto-kafka@0.118?classifier=sources

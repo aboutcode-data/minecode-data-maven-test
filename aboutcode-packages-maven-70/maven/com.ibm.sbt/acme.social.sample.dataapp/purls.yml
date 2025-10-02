@@ -18,3 +18,7 @@
 - pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.5.20150520-1200?classifier=sources
 - pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.6.20150817-1200?type=war
 - pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.6.20150817-1200?classifier=sources
+- pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.8.20150911-1400?type=war
+- pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.8.20150911-1400?classifier=sources
+- pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.7.20150908-1400?type=war
+- pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.1.7.20150908-1400?classifier=sources
