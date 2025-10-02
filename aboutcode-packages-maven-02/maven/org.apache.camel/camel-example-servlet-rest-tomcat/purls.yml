@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.14.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.15.3?type=war
 - pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.15.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.15.4?type=war
+- pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.15.4?classifier=sources

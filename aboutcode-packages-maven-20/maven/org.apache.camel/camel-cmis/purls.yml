@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.camel/camel-cmis@2.15.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-cmis@2.16.0
 - pkg:maven/org.apache.camel/camel-cmis@2.16.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-cmis@2.15.4
+- pkg:maven/org.apache.camel/camel-cmis@2.15.4?classifier=sources

@@ -33,3 +33,5 @@
 - pkg:maven/info.archinnov/integration-test@3.2.2
 - pkg:maven/info.archinnov/integration-test@3.0.22
 - pkg:maven/info.archinnov/integration-test@3.0.21
+- pkg:maven/info.archinnov/integration-test@4.0.0
+- pkg:maven/info.archinnov/integration-test@4.0.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/io.probedock.client/probedock-junit@0.3.0?classifier=sources
 - pkg:maven/io.probedock.client/probedock-junit@0.2.3
 - pkg:maven/io.probedock.client/probedock-junit@0.2.3?classifier=sources
+- pkg:maven/io.probedock.client/probedock-junit@0.4.0
+- pkg:maven/io.probedock.client/probedock-junit@0.4.0?classifier=sources
