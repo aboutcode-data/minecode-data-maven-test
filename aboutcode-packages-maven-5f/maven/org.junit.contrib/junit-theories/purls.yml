@@ -8,3 +8,5 @@
 - pkg:maven/org.junit.contrib/junit-theories@4.12-beta-3?classifier=sources
 - pkg:maven/org.junit.contrib/junit-theories@4.12
 - pkg:maven/org.junit.contrib/junit-theories@4.12?classifier=sources
+- pkg:maven/org.junit.contrib/junit-theories@5.0-alpha-1
+- pkg:maven/org.junit.contrib/junit-theories@5.0-alpha-1?classifier=sources

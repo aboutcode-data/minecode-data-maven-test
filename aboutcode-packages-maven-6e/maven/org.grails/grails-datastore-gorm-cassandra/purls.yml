@@ -1,2 +1,4 @@
 - pkg:maven/org.grails/grails-datastore-gorm-cassandra@1.0.0-M01
 - pkg:maven/org.grails/grails-datastore-gorm-cassandra@1.0.0-M01?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.M1
+- pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.M1?classifier=sources
