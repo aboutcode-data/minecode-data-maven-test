@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.5.2?classifier=sources
 - pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.6.0
 - pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.6.0?classifier=sources
+- pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.6.0.1
+- pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.6.0.1?classifier=sources
