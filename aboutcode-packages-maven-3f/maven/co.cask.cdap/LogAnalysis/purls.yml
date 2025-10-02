@@ -40,3 +40,5 @@
 - pkg:maven/co.cask.cdap/LogAnalysis@3.5.1?classifier=sources
 - pkg:maven/co.cask.cdap/LogAnalysis@3.6.0
 - pkg:maven/co.cask.cdap/LogAnalysis@3.6.0?classifier=sources
+- pkg:maven/co.cask.cdap/LogAnalysis@4.0.0
+- pkg:maven/co.cask.cdap/LogAnalysis@4.0.0?classifier=sources
