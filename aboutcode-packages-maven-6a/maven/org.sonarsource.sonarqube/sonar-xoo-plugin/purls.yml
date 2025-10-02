@@ -25,3 +25,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@5.6.3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@5.6.2?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@6.1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@6.2-RC1?classifier=sources

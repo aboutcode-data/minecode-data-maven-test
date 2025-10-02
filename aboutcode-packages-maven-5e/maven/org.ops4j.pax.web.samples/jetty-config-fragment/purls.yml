@@ -190,3 +190,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@3.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@4.4.0
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@4.4.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.1.18
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.1.18?classifier=sources
