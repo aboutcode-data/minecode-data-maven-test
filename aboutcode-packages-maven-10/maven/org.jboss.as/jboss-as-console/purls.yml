@@ -92,3 +92,7 @@
 - pkg:maven/org.jboss.as/jboss-as-console@1.6.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.0.0.Beta1?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.0.0.Beta2?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.0.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@1.5.5.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@1.5.5.Final?classifier=sources

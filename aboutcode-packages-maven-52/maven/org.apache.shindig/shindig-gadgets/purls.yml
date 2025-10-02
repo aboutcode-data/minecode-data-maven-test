@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.shindig/shindig-gadgets@2.5.0-beta5?classifier=sources
 - pkg:maven/org.apache.shindig/shindig-gadgets@2.5.0-beta6
 - pkg:maven/org.apache.shindig/shindig-gadgets@2.5.0-beta6?classifier=sources
+- pkg:maven/org.apache.shindig/shindig-gadgets@2.5.0
+- pkg:maven/org.apache.shindig/shindig-gadgets@2.5.0?classifier=sources

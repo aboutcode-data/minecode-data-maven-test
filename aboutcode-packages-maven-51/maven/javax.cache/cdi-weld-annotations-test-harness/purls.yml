@@ -10,3 +10,5 @@
 - pkg:maven/javax.cache/cdi-weld-annotations-test-harness@0.61?classifier=sources
 - pkg:maven/javax.cache/cdi-weld-annotations-test-harness@0.8
 - pkg:maven/javax.cache/cdi-weld-annotations-test-harness@0.8?classifier=sources
+- pkg:maven/javax.cache/cdi-weld-annotations-test-harness@0.9
+- pkg:maven/javax.cache/cdi-weld-annotations-test-harness@0.9?classifier=sources

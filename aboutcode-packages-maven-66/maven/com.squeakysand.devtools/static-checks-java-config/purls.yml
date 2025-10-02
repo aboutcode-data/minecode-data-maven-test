@@ -6,3 +6,5 @@
 - pkg:maven/com.squeakysand.devtools/static-checks-java-config@3?classifier=sources
 - pkg:maven/com.squeakysand.devtools/static-checks-java-config@4
 - pkg:maven/com.squeakysand.devtools/static-checks-java-config@4?classifier=sources
+- pkg:maven/com.squeakysand.devtools/static-checks-java-config@5
+- pkg:maven/com.squeakysand.devtools/static-checks-java-config@5?classifier=sources

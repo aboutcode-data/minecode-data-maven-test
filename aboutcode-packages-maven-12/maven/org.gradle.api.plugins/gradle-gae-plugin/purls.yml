@@ -16,3 +16,5 @@
 - pkg:maven/org.gradle.api.plugins/gradle-gae-plugin@0.7.6?classifier=sources
 - pkg:maven/org.gradle.api.plugins/gradle-gae-plugin@0.8
 - pkg:maven/org.gradle.api.plugins/gradle-gae-plugin@0.8?classifier=sources
+- pkg:maven/org.gradle.api.plugins/gradle-gae-plugin@0.8.1
+- pkg:maven/org.gradle.api.plugins/gradle-gae-plugin@0.8.1?classifier=sources

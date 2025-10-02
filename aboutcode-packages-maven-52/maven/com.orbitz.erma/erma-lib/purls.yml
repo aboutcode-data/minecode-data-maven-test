@@ -1,2 +1,6 @@
 - pkg:maven/com.orbitz.erma/erma-lib@4.6
 - pkg:maven/com.orbitz.erma/erma-lib@4.6?classifier=sources
+- pkg:maven/com.orbitz.erma/erma-lib@4.8
+- pkg:maven/com.orbitz.erma/erma-lib@4.8?classifier=sources
+- pkg:maven/com.orbitz.erma/erma-lib@4.7
+- pkg:maven/com.orbitz.erma/erma-lib@4.7?classifier=sources
