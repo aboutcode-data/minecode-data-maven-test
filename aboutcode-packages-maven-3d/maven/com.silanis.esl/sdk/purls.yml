@@ -32,3 +32,5 @@
 - pkg:maven/com.silanis.esl/sdk@10.10.1?classifier=sources
 - pkg:maven/com.silanis.esl/sdk@10.13
 - pkg:maven/com.silanis.esl/sdk@10.13?classifier=sources
+- pkg:maven/com.silanis.esl/sdk@11.0
+- pkg:maven/com.silanis.esl/sdk@11.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.pfabulist/nonnullbydefault@1.0
 - pkg:maven/de.pfabulist/nonnullbydefault@1.0?classifier=sources
+- pkg:maven/de.pfabulist/nonnullbydefault@2.0
+- pkg:maven/de.pfabulist/nonnullbydefault@2.0?classifier=sources

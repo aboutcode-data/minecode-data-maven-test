@@ -64,3 +64,7 @@
 - pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.0-rc.39?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.0
 - pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.0?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.2
+- pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.2?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.1
+- pkg:maven/com.netflix.archaius/archaius2-typesafe@2.0.1?classifier=sources
