@@ -16,3 +16,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.14.0.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.13.7.Final?type=war
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.13.7.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.15.0.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.15.0.Final?classifier=sources
