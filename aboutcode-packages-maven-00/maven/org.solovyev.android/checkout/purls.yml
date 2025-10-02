@@ -30,3 +30,5 @@
 - pkg:maven/org.solovyev.android/checkout@0.9.4?type=aar
 - pkg:maven/org.solovyev.android/checkout@0.9.4?classifier=sources
 - pkg:maven/org.solovyev.android/checkout@0.9.3?classifier=sources
+- pkg:maven/org.solovyev.android/checkout@1.0.0?type=aar
+- pkg:maven/org.solovyev.android/checkout@1.0.0?classifier=sources
