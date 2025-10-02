@@ -1,0 +1,4 @@
+- pkg:maven/net.kencochrane.raven/sentry-stub@4.0?type=war
+- pkg:maven/net.kencochrane.raven/sentry-stub@4.0?classifier=sources
+- pkg:maven/net.kencochrane.raven/sentry-stub@3.0?type=war
+- pkg:maven/net.kencochrane.raven/sentry-stub@3.0?classifier=sources

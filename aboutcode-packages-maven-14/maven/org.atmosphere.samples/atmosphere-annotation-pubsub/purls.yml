@@ -58,3 +58,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-annotation-pubsub@1.1.0.RC2?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-annotation-pubsub@1.0.13?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-annotation-pubsub@1.0.13?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-annotation-pubsub@1.1.0.RC3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-annotation-pubsub@1.1.0.RC3?classifier=sources

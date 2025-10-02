@@ -1,2 +1,6 @@
 - pkg:maven/net.kencochrane.raven/raven-logback@2.0
 - pkg:maven/net.kencochrane.raven/raven-logback@2.0?classifier=sources
+- pkg:maven/net.kencochrane.raven/raven-logback@4.0
+- pkg:maven/net.kencochrane.raven/raven-logback@4.0?classifier=sources
+- pkg:maven/net.kencochrane.raven/raven-logback@3.0
+- pkg:maven/net.kencochrane.raven/raven-logback@3.0?classifier=sources
