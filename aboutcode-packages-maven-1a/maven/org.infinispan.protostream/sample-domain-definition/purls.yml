@@ -22,3 +22,5 @@
 - pkg:maven/org.infinispan.protostream/sample-domain-definition@1.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/sample-domain-definition@2.0.0.Alpha1
 - pkg:maven/org.infinispan.protostream/sample-domain-definition@2.0.0.Alpha1?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-definition@2.0.0.Alpha2
+- pkg:maven/org.infinispan.protostream/sample-domain-definition@2.0.0.Alpha2?classifier=sources

@@ -260,3 +260,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.0.v20140526?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.1.v20140609
 - pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.1.v20140609?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.2.v20140723
+- pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.2.v20140723?classifier=sources
