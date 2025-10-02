@@ -11,3 +11,5 @@
 - pkg:maven/org.apache.wink.example/HelloWorld@0.1-incubating?classifier=sources
 - pkg:maven/org.apache.wink.example/HelloWorld@1.2.0-incubating?type=war
 - pkg:maven/org.apache.wink.example/HelloWorld@1.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.wink.example/HelloWorld@1.2.1-incubating?type=war
+- pkg:maven/org.apache.wink.example/HelloWorld@1.2.1-incubating?classifier=sources

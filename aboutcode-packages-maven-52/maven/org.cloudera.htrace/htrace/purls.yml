@@ -14,3 +14,7 @@
 - pkg:maven/org.cloudera.htrace/htrace@1.47?classifier=sources
 - pkg:maven/org.cloudera.htrace/htrace@1.46
 - pkg:maven/org.cloudera.htrace/htrace@1.46?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace@1.49
+- pkg:maven/org.cloudera.htrace/htrace@1.49?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace@1.48
+- pkg:maven/org.cloudera.htrace/htrace@1.48?classifier=sources
