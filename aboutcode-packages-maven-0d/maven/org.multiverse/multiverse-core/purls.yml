@@ -14,3 +14,5 @@
 - pkg:maven/org.multiverse/multiverse-core@0.4?classifier=sources
 - pkg:maven/org.multiverse/multiverse-core@0.3
 - pkg:maven/org.multiverse/multiverse-core@0.3?classifier=sources
+- pkg:maven/org.multiverse/multiverse-core@0.7.0
+- pkg:maven/org.multiverse/multiverse-core@0.7.0?classifier=sources

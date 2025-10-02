@@ -11,3 +11,5 @@
 - pkg:maven/org.apache.felix/org.apache.felix.ipojo.ant@0.8.1
 - pkg:maven/org.apache.felix/org.apache.felix.ipojo.ant@1.8.2
 - pkg:maven/org.apache.felix/org.apache.felix.ipojo.ant@1.8.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.ant@1.8.4
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.ant@1.8.4?classifier=sources

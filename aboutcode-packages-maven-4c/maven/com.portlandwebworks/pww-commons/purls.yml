@@ -6,3 +6,5 @@
 - pkg:maven/com.portlandwebworks/pww-commons@0.5.8?classifier=sources
 - pkg:maven/com.portlandwebworks/pww-commons@0.5.7
 - pkg:maven/com.portlandwebworks/pww-commons@0.5.7?classifier=sources
+- pkg:maven/com.portlandwebworks/pww-commons@1.0
+- pkg:maven/com.portlandwebworks/pww-commons@1.0?classifier=sources
