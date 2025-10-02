@@ -76,3 +76,7 @@
 - pkg:maven/com.android.tools.build/builder-model@0.12.2?classifier=sources
 - pkg:maven/com.android.tools.build/builder-model@0.13.0
 - pkg:maven/com.android.tools.build/builder-model@0.13.0?classifier=sources
+- pkg:maven/com.android.tools.build/builder-model@0.13.2
+- pkg:maven/com.android.tools.build/builder-model@0.13.2?classifier=sources
+- pkg:maven/com.android.tools.build/builder-model@0.13.1
+- pkg:maven/com.android.tools.build/builder-model@0.13.1?classifier=sources

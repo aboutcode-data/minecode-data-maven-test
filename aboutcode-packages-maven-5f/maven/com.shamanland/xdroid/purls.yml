@@ -18,3 +18,5 @@
 - pkg:maven/com.shamanland/xdroid@0.0.9?classifier=sources
 - pkg:maven/com.shamanland/xdroid@0.0.10?type=aar
 - pkg:maven/com.shamanland/xdroid@0.0.10?classifier=sources
+- pkg:maven/com.shamanland/xdroid@0.0.11?type=aar
+- pkg:maven/com.shamanland/xdroid@0.0.11?classifier=sources

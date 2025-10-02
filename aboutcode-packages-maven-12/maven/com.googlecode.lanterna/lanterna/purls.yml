@@ -34,3 +34,5 @@
 - pkg:maven/com.googlecode.lanterna/lanterna@3.0.0-alpha2?classifier=sources
 - pkg:maven/com.googlecode.lanterna/lanterna@3.0.0-alpha3
 - pkg:maven/com.googlecode.lanterna/lanterna@3.0.0-alpha3?classifier=sources
+- pkg:maven/com.googlecode.lanterna/lanterna@2.1.9
+- pkg:maven/com.googlecode.lanterna/lanterna@2.1.9?classifier=sources

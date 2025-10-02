@@ -12,3 +12,5 @@
 - pkg:maven/com.openshift/openshift-java-client@2.5.0.Final?classifier=sources
 - pkg:maven/com.openshift/openshift-java-client@2.6.0.Final
 - pkg:maven/com.openshift/openshift-java-client@2.6.0.Final?classifier=sources
+- pkg:maven/com.openshift/openshift-java-client@2.6.1.Final
+- pkg:maven/com.openshift/openshift-java-client@2.6.1.Final?classifier=sources
