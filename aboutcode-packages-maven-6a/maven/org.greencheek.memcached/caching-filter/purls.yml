@@ -14,3 +14,7 @@
 - pkg:maven/org.greencheek.memcached/caching-filter@0.0.9?classifier=sources
 - pkg:maven/org.greencheek.memcached/caching-filter@0.0.10
 - pkg:maven/org.greencheek.memcached/caching-filter@0.0.10?classifier=sources
+- pkg:maven/org.greencheek.memcached/caching-filter@0.0.12
+- pkg:maven/org.greencheek.memcached/caching-filter@0.0.12?classifier=sources
+- pkg:maven/org.greencheek.memcached/caching-filter@0.0.11
+- pkg:maven/org.greencheek.memcached/caching-filter@0.0.11?classifier=sources

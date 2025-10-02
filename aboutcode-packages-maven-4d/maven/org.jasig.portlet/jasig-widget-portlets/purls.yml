@@ -24,3 +24,5 @@
 - pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.0.1?classifier=sources
 - pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.0.2?type=war
 - pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.0.2?classifier=sources
+- pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.0.3-M1?type=war
+- pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.0.3-M1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-alpn@9.2.0.M1?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-alpn@9.2.0.RC0
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-alpn@9.2.0.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-alpn@9.2.0.v20140526
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-alpn@9.2.0.v20140526?classifier=sources
