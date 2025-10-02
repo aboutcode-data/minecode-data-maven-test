@@ -18,3 +18,5 @@
 - pkg:maven/com.citrix/sharefile-api@3.0.8?classifier=sources
 - pkg:maven/com.citrix/sharefile-api@3.0.7
 - pkg:maven/com.citrix/sharefile-api@3.0.7?classifier=sources
+- pkg:maven/com.citrix/sharefile-api@3.1.0
+- pkg:maven/com.citrix/sharefile-api@3.1.0?classifier=sources
