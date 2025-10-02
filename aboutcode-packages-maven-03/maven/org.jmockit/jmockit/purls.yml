@@ -22,3 +22,5 @@
 - pkg:maven/org.jmockit/jmockit@1.16-beta3?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.16
 - pkg:maven/org.jmockit/jmockit@1.16?classifier=sources
+- pkg:maven/org.jmockit/jmockit@1.17-beta1
+- pkg:maven/org.jmockit/jmockit@1.17-beta1?classifier=sources

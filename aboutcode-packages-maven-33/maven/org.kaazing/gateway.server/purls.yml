@@ -2,3 +2,5 @@
 - pkg:maven/org.kaazing/gateway.server@5.0.0.88?classifier=sources
 - pkg:maven/org.kaazing/gateway.server@5.0.0.89
 - pkg:maven/org.kaazing/gateway.server@5.0.0.89?classifier=sources
+- pkg:maven/org.kaazing/gateway.server@5.0.1.20
+- pkg:maven/org.kaazing/gateway.server@5.0.1.20?classifier=sources

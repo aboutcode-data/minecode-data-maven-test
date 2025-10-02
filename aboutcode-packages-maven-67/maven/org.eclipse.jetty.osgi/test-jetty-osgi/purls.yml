@@ -232,3 +232,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.0.M2?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.10.v20150310
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.10.v20150310?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.11.M0
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.11.M0?classifier=sources
