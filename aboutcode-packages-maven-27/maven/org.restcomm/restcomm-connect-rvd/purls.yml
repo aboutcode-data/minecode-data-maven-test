@@ -462,3 +462,7 @@
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.10?type=war
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.24?type=war
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.25?type=war
+- pkg:maven/org.restcomm/restcomm-connect-rvd@8.1.0.Issue1945_UpdateTadhackEnvironment.56?type=war
+- pkg:maven/org.restcomm/restcomm-connect-rvd@8.1.0.Issue1945_UpdateTadhackEnvironment.56?classifier=sources
+- pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.28?type=war
+- pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.27?type=war

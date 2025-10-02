@@ -74,3 +74,5 @@
 - pkg:maven/org.webjars.npm/angular__platform-browser@4.0.0-rc.1?classifier=sources
 - pkg:maven/org.webjars.npm/angular__platform-browser@2.4.9
 - pkg:maven/org.webjars.npm/angular__platform-browser@2.4.9?classifier=sources
+- pkg:maven/org.webjars.npm/angular__platform-browser@4.0.0
+- pkg:maven/org.webjars.npm/angular__platform-browser@4.0.0?classifier=sources

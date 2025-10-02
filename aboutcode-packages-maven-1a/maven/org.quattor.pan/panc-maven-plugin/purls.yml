@@ -24,3 +24,5 @@
 - pkg:maven/org.quattor.pan/panc-maven-plugin@10.2?classifier=sources
 - pkg:maven/org.quattor.pan/panc-maven-plugin@10.3
 - pkg:maven/org.quattor.pan/panc-maven-plugin@10.3?classifier=sources
+- pkg:maven/org.quattor.pan/panc-maven-plugin@10.4-rc1
+- pkg:maven/org.quattor.pan/panc-maven-plugin@10.4-rc1?classifier=sources
