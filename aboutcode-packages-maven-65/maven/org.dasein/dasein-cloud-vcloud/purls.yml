@@ -53,3 +53,8 @@
 - pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.2
 - pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.2?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.5
+- pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.5?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.4
+- pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.4?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.3
+- pkg:maven/org.dasein/dasein-cloud-vcloud@2014.05.3?classifier=sources

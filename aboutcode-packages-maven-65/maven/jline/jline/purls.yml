@@ -26,3 +26,5 @@
 - pkg:maven/jline/jline@2.10?classifier=sources
 - pkg:maven/jline/jline@2.11
 - pkg:maven/jline/jline@2.11?classifier=sources
+- pkg:maven/jline/jline@2.12
+- pkg:maven/jline/jline@2.12?classifier=sources

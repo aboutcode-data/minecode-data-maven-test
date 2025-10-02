@@ -14,3 +14,7 @@
 - pkg:maven/net.kencochrane.raven/sentry-stub@4.1.2?classifier=sources
 - pkg:maven/net.kencochrane.raven/sentry-stub@3.1.2?type=war
 - pkg:maven/net.kencochrane.raven/sentry-stub@3.1.2?classifier=sources
+- pkg:maven/net.kencochrane.raven/sentry-stub@5.0?type=war
+- pkg:maven/net.kencochrane.raven/sentry-stub@5.0?classifier=sources
+- pkg:maven/net.kencochrane.raven/sentry-stub@4.2?type=war
+- pkg:maven/net.kencochrane.raven/sentry-stub@4.2?classifier=sources
