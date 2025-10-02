@@ -36,3 +36,5 @@
 - pkg:maven/com.cloudbees/groovy-cps@1.8?classifier=sources
 - pkg:maven/com.cloudbees/groovy-cps@1.9
 - pkg:maven/com.cloudbees/groovy-cps@1.9?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps@1.10
+- pkg:maven/com.cloudbees/groovy-cps@1.10?classifier=sources
