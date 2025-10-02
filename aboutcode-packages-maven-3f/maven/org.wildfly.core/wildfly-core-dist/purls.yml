@@ -361,3 +361,6 @@
 - pkg:maven/org.wildfly.core/wildfly-core-dist@3.0.0.Beta12?type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-dist@3.0.0.Beta12?classifier=src&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-dist@3.0.0.Beta12?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly.core/wildfly-core-dist@3.0.0.Beta16?type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-dist@3.0.0.Beta16?classifier=src&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-dist@3.0.0.Beta16?classifier=src&type=tar.gz

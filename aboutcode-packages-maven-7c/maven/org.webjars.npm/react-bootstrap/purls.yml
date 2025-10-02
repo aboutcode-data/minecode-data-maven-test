@@ -58,3 +58,7 @@
 - pkg:maven/org.webjars.npm/react-bootstrap@0.30.8?classifier=sources
 - pkg:maven/org.webjars.npm/react-bootstrap@0.30.9
 - pkg:maven/org.webjars.npm/react-bootstrap@0.30.9?classifier=sources
+- pkg:maven/org.webjars.npm/react-bootstrap@0.31.0
+- pkg:maven/org.webjars.npm/react-bootstrap@0.31.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-bootstrap@0.30.10
+- pkg:maven/org.webjars.npm/react-bootstrap@0.30.10?classifier=sources

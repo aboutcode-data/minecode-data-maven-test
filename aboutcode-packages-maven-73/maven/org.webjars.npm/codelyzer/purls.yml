@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/codelyzer@2.0.0-beta.2?classifier=sources
 - pkg:maven/org.webjars.npm/codelyzer@2.0.0
 - pkg:maven/org.webjars.npm/codelyzer@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/codelyzer@3.0.0
+- pkg:maven/org.webjars.npm/codelyzer@3.0.0?classifier=sources

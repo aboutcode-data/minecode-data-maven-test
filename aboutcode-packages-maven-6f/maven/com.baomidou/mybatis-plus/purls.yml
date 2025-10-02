@@ -102,3 +102,7 @@
 - pkg:maven/com.baomidou/mybatis-plus@2.0.3?classifier=sources
 - pkg:maven/com.baomidou/mybatis-plus@2.0.6-jdk8
 - pkg:maven/com.baomidou/mybatis-plus@2.0.6-jdk8?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus@2.0.7
+- pkg:maven/com.baomidou/mybatis-plus@2.0.7?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus@2.0.6
+- pkg:maven/com.baomidou/mybatis-plus@2.0.6?classifier=sources
