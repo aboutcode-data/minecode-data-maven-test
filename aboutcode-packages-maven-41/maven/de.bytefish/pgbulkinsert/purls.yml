@@ -16,3 +16,5 @@
 - pkg:maven/de.bytefish/pgbulkinsert@0.8?classifier=sources
 - pkg:maven/de.bytefish/pgbulkinsert@0.7
 - pkg:maven/de.bytefish/pgbulkinsert@0.7?classifier=sources
+- pkg:maven/de.bytefish/pgbulkinsert@1.0
+- pkg:maven/de.bytefish/pgbulkinsert@1.0?classifier=sources

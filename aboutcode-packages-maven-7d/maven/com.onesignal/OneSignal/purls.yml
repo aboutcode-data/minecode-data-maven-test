@@ -66,3 +66,7 @@
 - pkg:maven/com.onesignal/OneSignal@2.6.0?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@2.5.2?type=aar
 - pkg:maven/com.onesignal/OneSignal@2.5.2?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@2.6.2?type=aar
+- pkg:maven/com.onesignal/OneSignal@2.6.2?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@2.6.1?type=aar
+- pkg:maven/com.onesignal/OneSignal@2.6.1?classifier=sources

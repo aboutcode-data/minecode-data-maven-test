@@ -12,3 +12,5 @@
 - pkg:maven/com.pszymczyk.consul/embedded-consul@0.1.4?classifier=sources
 - pkg:maven/com.pszymczyk.consul/embedded-consul@0.1.8
 - pkg:maven/com.pszymczyk.consul/embedded-consul@0.1.8?classifier=sources
+- pkg:maven/com.pszymczyk.consul/embedded-consul@0.1.9
+- pkg:maven/com.pszymczyk.consul/embedded-consul@0.1.9?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.nhl.bootique.linkmove/bootique-linkmove@0.8?classifier=sources
 - pkg:maven/com.nhl.bootique.linkmove/bootique-linkmove@0.9
 - pkg:maven/com.nhl.bootique.linkmove/bootique-linkmove@0.9?classifier=sources
+- pkg:maven/com.nhl.bootique.linkmove/bootique-linkmove@0.10
+- pkg:maven/com.nhl.bootique.linkmove/bootique-linkmove@0.10?classifier=sources

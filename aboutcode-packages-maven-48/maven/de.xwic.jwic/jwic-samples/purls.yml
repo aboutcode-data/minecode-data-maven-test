@@ -48,3 +48,5 @@
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.13?classifier=sources
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.12?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.12?classifier=sources
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.14?type=war
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.14?classifier=sources
