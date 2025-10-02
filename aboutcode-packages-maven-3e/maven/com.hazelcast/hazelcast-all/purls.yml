@@ -233,3 +233,5 @@
 - pkg:maven/com.hazelcast/hazelcast-all@3.6.4?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-all@3.7
 - pkg:maven/com.hazelcast/hazelcast-all@3.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-all@3.6.5
+- pkg:maven/com.hazelcast/hazelcast-all@3.6.5?classifier=sources

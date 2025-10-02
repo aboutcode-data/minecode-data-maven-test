@@ -14,3 +14,7 @@
 - pkg:maven/com.novartis.opensource/yada-war@7.1.4?classifier=sources
 - pkg:maven/com.novartis.opensource/yada-war@7.1.3?type=war
 - pkg:maven/com.novartis.opensource/yada-war@7.1.3?classifier=sources
+- pkg:maven/com.novartis.opensource/yada-war@8.1.0?type=war
+- pkg:maven/com.novartis.opensource/yada-war@8.1.0?classifier=sources
+- pkg:maven/com.novartis.opensource/yada-war@8.0.0?type=war
+- pkg:maven/com.novartis.opensource/yada-war@8.0.0?classifier=sources
