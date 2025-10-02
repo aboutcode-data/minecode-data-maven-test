@@ -22,3 +22,7 @@
 - pkg:maven/org.webjars.npm/react@0.14.4?classifier=sources
 - pkg:maven/org.webjars.npm/react@0.14.7
 - pkg:maven/org.webjars.npm/react@0.14.7?classifier=sources
+- pkg:maven/org.webjars.npm/react@15.0.0-rc.2
+- pkg:maven/org.webjars.npm/react@15.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/react@15.0.0-rc.1
+- pkg:maven/org.webjars.npm/react@15.0.0-rc.1?classifier=sources

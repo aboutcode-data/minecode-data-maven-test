@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/requirejs@2.1.22?classifier=sources
 - pkg:maven/org.webjars.npm/requirejs@2.1.21
 - pkg:maven/org.webjars.npm/requirejs@2.1.21?classifier=sources
+- pkg:maven/org.webjars.npm/requirejs@2.2.0
+- pkg:maven/org.webjars.npm/requirejs@2.2.0?classifier=sources
