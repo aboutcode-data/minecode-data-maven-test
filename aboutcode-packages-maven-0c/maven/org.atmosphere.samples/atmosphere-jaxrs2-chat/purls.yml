@@ -2,3 +2,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-jaxrs2-chat@0.9?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-jaxrs2-chat@0.9.1?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-jaxrs2-chat@0.9.1?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-jaxrs2-chat@0.9.2?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-jaxrs2-chat@0.9.2?classifier=sources

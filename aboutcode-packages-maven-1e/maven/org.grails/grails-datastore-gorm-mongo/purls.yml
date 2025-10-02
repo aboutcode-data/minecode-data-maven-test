@@ -1,3 +1,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-mongo@1.0.0.M3
 - pkg:maven/org.grails/grails-datastore-gorm-mongo@1.0.0.RC5
 - pkg:maven/org.grails/grails-datastore-gorm-mongo@1.0.0.RC5?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-mongo@1.0.0.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-mongo@1.0.0.RELEASE?classifier=sources
