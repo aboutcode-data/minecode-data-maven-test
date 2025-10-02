@@ -62,3 +62,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.10.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.10.0-01
 - pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.10.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.11.0-02
+- pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.11.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.11.0-01
+- pkg:maven/org.sonatype.nexus/nexus-test-environment-maven-plugin@2.11.0-01?classifier=sources

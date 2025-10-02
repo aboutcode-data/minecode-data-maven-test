@@ -50,3 +50,5 @@
 - pkg:maven/org.modeshape/modeshape-web-jcr-webdav-war@4.0.0.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-web-jcr-webdav-war@3.8.1.Final?type=war
 - pkg:maven/org.modeshape/modeshape-web-jcr-webdav-war@3.8.1.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-web-jcr-webdav-war@4.1.0.Final?type=war
+- pkg:maven/org.modeshape/modeshape-web-jcr-webdav-war@4.1.0.Final?classifier=sources
