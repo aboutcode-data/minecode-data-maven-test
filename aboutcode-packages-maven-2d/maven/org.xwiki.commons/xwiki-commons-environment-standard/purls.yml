@@ -280,3 +280,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-standard@8.1-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-standard@8.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-standard@8.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-environment-standard@8.2-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-environment-standard@8.2-milestone-1?classifier=sources

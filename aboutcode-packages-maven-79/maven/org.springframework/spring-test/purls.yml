@@ -134,3 +134,5 @@
 - pkg:maven/org.springframework/spring-test@4.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-test@3.2.17.RELEASE
 - pkg:maven/org.springframework/spring-test@3.2.17.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-test@4.3.0.RELEASE
+- pkg:maven/org.springframework/spring-test@4.3.0.RELEASE?classifier=sources
