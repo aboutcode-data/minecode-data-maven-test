@@ -12,3 +12,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.6.RELEASE?type=war
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.7.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.7.RELEASE?classifier=sources

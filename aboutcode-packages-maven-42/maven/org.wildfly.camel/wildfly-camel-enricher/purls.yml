@@ -18,3 +18,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-enricher@2.2.0.redhat-620133?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-enricher@3.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-enricher@3.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-enricher@3.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-enricher@3.1.0?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-M8?classifier=sources
 - pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-M9
 - pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-M9?classifier=sources
+- pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-SNAP6
+- pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-SNAP6?classifier=sources
+- pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-M10
+- pkg:maven/org.scalatest/scalatest-all_2.11@3.0.0-M10?classifier=sources

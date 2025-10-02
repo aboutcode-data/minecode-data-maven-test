@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-db@5.2-RC2
+- pkg:maven/org.sonarsource.sonarqube/sonar-db@5.2-RC2?classifier=sources
