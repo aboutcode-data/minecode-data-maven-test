@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/nvd3@1.8.1
 - pkg:maven/org.webjars.bower/nvd3@1.8.1?classifier=sources
+- pkg:maven/org.webjars.bower/nvd3@1.1.15-beta
+- pkg:maven/org.webjars.bower/nvd3@1.1.15-beta?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.aol.microservices/micro-hibernate@0.74?classifier=sources
 - pkg:maven/com.aol.microservices/micro-hibernate@0.73
 - pkg:maven/com.aol.microservices/micro-hibernate@0.73?classifier=sources
+- pkg:maven/com.aol.microservices/micro-hibernate@0.76
+- pkg:maven/com.aol.microservices/micro-hibernate@0.76?classifier=sources

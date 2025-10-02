@@ -85,3 +85,5 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.6.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.6.3
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.6.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.7.0-rc1
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.7.0-rc1?classifier=sources
