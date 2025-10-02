@@ -8,3 +8,6 @@
 - pkg:maven/org.ow2.petals/petals-microkernel@3.4.3
 - pkg:maven/org.ow2.petals/petals-microkernel@3.4.3?classifier=sources
 - pkg:maven/org.ow2.petals/petals-microkernel@3.4.3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-microkernel@4.0.0
+- pkg:maven/org.ow2.petals/petals-microkernel@4.0.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-microkernel@4.0.0?classifier=source-release&type=zip

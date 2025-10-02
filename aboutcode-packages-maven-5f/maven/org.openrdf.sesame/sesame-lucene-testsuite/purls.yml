@@ -1,2 +1,4 @@
 - pkg:maven/org.openrdf.sesame/sesame-lucene-testsuite@2.8.6
 - pkg:maven/org.openrdf.sesame/sesame-lucene-testsuite@2.8.6?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-lucene-testsuite@4.0.0-RC1
+- pkg:maven/org.openrdf.sesame/sesame-lucene-testsuite@4.0.0-RC1?classifier=sources

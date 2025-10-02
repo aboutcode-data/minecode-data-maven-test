@@ -1,2 +1,6 @@
 - pkg:maven/org.leibnizcenter/rechtspraak@0.9.0
 - pkg:maven/org.leibnizcenter/rechtspraak@0.9.0?classifier=sources
+- pkg:maven/org.leibnizcenter/rechtspraak@1.0.0
+- pkg:maven/org.leibnizcenter/rechtspraak@1.0.0?classifier=sources
+- pkg:maven/org.leibnizcenter/rechtspraak@0.10.0
+- pkg:maven/org.leibnizcenter/rechtspraak@0.10.0?classifier=sources
