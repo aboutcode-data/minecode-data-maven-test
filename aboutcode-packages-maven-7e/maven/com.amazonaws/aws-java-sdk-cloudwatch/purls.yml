@@ -46,3 +46,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.9.20?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.9.22
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.9.22?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.9.23
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.9.23?classifier=sources
