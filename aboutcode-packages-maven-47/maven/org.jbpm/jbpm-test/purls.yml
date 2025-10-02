@@ -118,3 +118,5 @@
 - pkg:maven/org.jbpm/jbpm-test@6.5.0.CR2?classifier=sources
 - pkg:maven/org.jbpm/jbpm-test@7.0.0.Beta2
 - pkg:maven/org.jbpm/jbpm-test@7.0.0.Beta2?classifier=sources
+- pkg:maven/org.jbpm/jbpm-test@6.5.0.Final
+- pkg:maven/org.jbpm/jbpm-test@6.5.0.Final?classifier=sources
