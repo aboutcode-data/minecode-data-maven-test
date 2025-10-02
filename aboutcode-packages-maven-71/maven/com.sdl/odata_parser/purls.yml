@@ -2,3 +2,5 @@
 - pkg:maven/com.sdl/odata_parser@2.0.4?classifier=sources
 - pkg:maven/com.sdl/odata_parser@2.0.5-1002
 - pkg:maven/com.sdl/odata_parser@2.0.5-1002?classifier=sources
+- pkg:maven/com.sdl/odata_parser@2.0.5
+- pkg:maven/com.sdl/odata_parser@2.0.5?classifier=sources
