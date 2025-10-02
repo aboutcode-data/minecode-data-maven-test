@@ -54,3 +54,5 @@
 - pkg:maven/org.axonframework/axon-distributed-commandbus@2.4.3?classifier=sources
 - pkg:maven/org.axonframework/axon-distributed-commandbus@2.4.4
 - pkg:maven/org.axonframework/axon-distributed-commandbus@2.4.4?classifier=sources
+- pkg:maven/org.axonframework/axon-distributed-commandbus@3.0-M1
+- pkg:maven/org.axonframework/axon-distributed-commandbus@3.0-M1?classifier=sources

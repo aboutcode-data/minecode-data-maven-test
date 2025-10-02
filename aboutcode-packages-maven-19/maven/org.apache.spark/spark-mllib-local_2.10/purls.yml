@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.spark/spark-mllib-local_2.10@2.0.0-preview
+- pkg:maven/org.apache.spark/spark-mllib-local_2.10@2.0.0-preview?classifier=sources
