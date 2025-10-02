@@ -60,3 +60,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.28.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.28
 - pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.28?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.30
+- pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.30?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.29
+- pkg:maven/com.amazonaws/aws-java-sdk-support@1.9.29?classifier=sources
