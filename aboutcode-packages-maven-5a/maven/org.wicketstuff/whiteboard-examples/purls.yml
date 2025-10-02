@@ -1,2 +1,4 @@
 - pkg:maven/org.wicketstuff/whiteboard-examples@6.11.0?type=war
 - pkg:maven/org.wicketstuff/whiteboard-examples@6.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/whiteboard-examples@6.11.1?type=war
+- pkg:maven/org.wicketstuff/whiteboard-examples@6.11.1?classifier=sources
