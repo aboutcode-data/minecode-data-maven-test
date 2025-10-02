@@ -1,2 +1,4 @@
 - pkg:maven/org.gvnix/org.gvnix.service.roo.addon.annotations@1.4.1.RELEASE
 - pkg:maven/org.gvnix/org.gvnix.service.roo.addon.annotations@1.4.1.RELEASE?classifier=sources
+- pkg:maven/org.gvnix/org.gvnix.service.roo.addon.annotations@2.0.0.M1
+- pkg:maven/org.gvnix/org.gvnix.service.roo.addon.annotations@2.0.0.M1?classifier=sources

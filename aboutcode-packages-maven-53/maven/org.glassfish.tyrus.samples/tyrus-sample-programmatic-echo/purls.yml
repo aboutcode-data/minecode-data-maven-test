@@ -80,3 +80,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-programmatic-echo@1.10?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-programmatic-echo@1.10?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-programmatic-echo@1.10?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-programmatic-echo@1.11?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-programmatic-echo@1.11?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-programmatic-echo@1.11?classifier=project-src&type=zip

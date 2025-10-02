@@ -48,3 +48,5 @@
 - pkg:maven/org.jboss.errai/errai-html5@3.2.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.errai/errai-html5@3.0.5.Final
 - pkg:maven/org.jboss.errai/errai-html5@3.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-html5@3.2.0.CR1
+- pkg:maven/org.jboss.errai/errai-html5@3.2.0.CR1?classifier=sources

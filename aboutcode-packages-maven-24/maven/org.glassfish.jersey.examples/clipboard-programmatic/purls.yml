@@ -134,3 +134,6 @@
 - pkg:maven/org.glassfish.jersey.examples/clipboard-programmatic@2.18
 - pkg:maven/org.glassfish.jersey.examples/clipboard-programmatic@2.18?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/clipboard-programmatic@2.18?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/clipboard-programmatic@2.19
+- pkg:maven/org.glassfish.jersey.examples/clipboard-programmatic@2.19?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/clipboard-programmatic@2.19?classifier=project-src&type=zip

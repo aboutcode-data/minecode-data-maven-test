@@ -48,3 +48,5 @@
 - pkg:maven/org.mapdb/mapdb@2.0-alpha2?classifier=sources
 - pkg:maven/org.mapdb/mapdb@2.0-alpha3
 - pkg:maven/org.mapdb/mapdb@2.0-alpha3?classifier=sources
+- pkg:maven/org.mapdb/mapdb@2.0-beta1
+- pkg:maven/org.mapdb/mapdb@2.0-beta1?classifier=sources
