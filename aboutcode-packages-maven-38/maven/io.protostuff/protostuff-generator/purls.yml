@@ -66,3 +66,7 @@
 - pkg:maven/io.protostuff/protostuff-generator@2.0.0-alpha37?classifier=sources
 - pkg:maven/io.protostuff/protostuff-generator@2.0.0-alpha36
 - pkg:maven/io.protostuff/protostuff-generator@2.0.0-alpha36?classifier=sources
+- pkg:maven/io.protostuff/protostuff-generator@2.1.9
+- pkg:maven/io.protostuff/protostuff-generator@2.1.9?classifier=sources
+- pkg:maven/io.protostuff/protostuff-generator@2.0.0-alpha39
+- pkg:maven/io.protostuff/protostuff-generator@2.0.0-alpha39?classifier=sources

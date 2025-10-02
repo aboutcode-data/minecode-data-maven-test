@@ -364,3 +364,5 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.0.6?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@2.30.8
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@2.30.8?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-dsl@feature-514-kotlin-ce531dd
+- pkg:maven/net.nemerosa.ontrack/ontrack-dsl@feature-514-kotlin-ce531dd?classifier=sources

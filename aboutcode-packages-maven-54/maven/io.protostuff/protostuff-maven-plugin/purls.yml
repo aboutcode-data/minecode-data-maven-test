@@ -110,3 +110,7 @@
 - pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.4?classifier=sources
 - pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.5
 - pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.5?classifier=sources
+- pkg:maven/io.protostuff/protostuff-maven-plugin@2.1.9
+- pkg:maven/io.protostuff/protostuff-maven-plugin@2.1.9?classifier=sources
+- pkg:maven/io.protostuff/protostuff-maven-plugin@2.0.0-alpha39
+- pkg:maven/io.protostuff/protostuff-maven-plugin@2.0.0-alpha39?classifier=sources

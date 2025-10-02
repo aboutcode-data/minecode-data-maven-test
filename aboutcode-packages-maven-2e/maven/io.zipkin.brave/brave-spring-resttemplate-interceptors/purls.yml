@@ -60,3 +60,5 @@
 - pkg:maven/io.zipkin.brave/brave-spring-resttemplate-interceptors@4.3.3?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-spring-resttemplate-interceptors@4.3.2
 - pkg:maven/io.zipkin.brave/brave-spring-resttemplate-interceptors@4.3.2?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-spring-resttemplate-interceptors@4.3.4
+- pkg:maven/io.zipkin.brave/brave-spring-resttemplate-interceptors@4.3.4?classifier=sources

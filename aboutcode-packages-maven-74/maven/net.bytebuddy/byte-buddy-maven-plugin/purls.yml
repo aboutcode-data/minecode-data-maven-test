@@ -84,3 +84,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.6.14?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.7.0
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.7.0?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.7.1
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.7.1?classifier=sources
