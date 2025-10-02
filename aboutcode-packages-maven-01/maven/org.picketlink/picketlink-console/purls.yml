@@ -12,3 +12,5 @@
 - pkg:maven/org.picketlink/picketlink-console@2.0.1.Final?classifier=sources
 - pkg:maven/org.picketlink/picketlink-console@2.0.2.Final?type=war
 - pkg:maven/org.picketlink/picketlink-console@2.0.2.Final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-console@2.0.3.Final?type=war
+- pkg:maven/org.picketlink/picketlink-console@2.0.3.Final?classifier=sources

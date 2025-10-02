@@ -32,3 +32,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-catalog@0.11.12?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-catalog@0.11.13
 - pkg:maven/org.kill-bill.billing/killbill-catalog@0.11.13?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-catalog@0.12.0
+- pkg:maven/org.kill-bill.billing/killbill-catalog@0.12.0?classifier=sources

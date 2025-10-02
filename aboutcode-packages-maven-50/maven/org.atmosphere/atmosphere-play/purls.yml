@@ -12,3 +12,5 @@
 - pkg:maven/org.atmosphere/atmosphere-play@1.2.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-play@2.0.0
 - pkg:maven/org.atmosphere/atmosphere-play@2.0.0?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-play@2.1.0
+- pkg:maven/org.atmosphere/atmosphere-play@2.1.0?classifier=sources

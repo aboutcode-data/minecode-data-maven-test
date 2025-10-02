@@ -71,3 +71,5 @@
 - pkg:maven/org.apache.mina/mina-core@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.mina/mina-core@2.0.8
 - pkg:maven/org.apache.mina/mina-core@2.0.8?classifier=sources
+- pkg:maven/org.apache.mina/mina-core@2.0.9
+- pkg:maven/org.apache.mina/mina-core@2.0.9?classifier=sources

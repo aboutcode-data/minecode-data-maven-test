@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.xbean/xbean-blueprint@3.18?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-blueprint@4.0
 - pkg:maven/org.apache.xbean/xbean-blueprint@4.0?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-blueprint@4.1
+- pkg:maven/org.apache.xbean/xbean-blueprint@4.1?classifier=sources
