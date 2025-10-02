@@ -150,3 +150,5 @@
 - pkg:maven/com.netflix.servo/servo-graphite@0.12.15?classifier=sources
 - pkg:maven/com.netflix.servo/servo-graphite@0.12.16
 - pkg:maven/com.netflix.servo/servo-graphite@0.12.16?classifier=sources
+- pkg:maven/com.netflix.servo/servo-graphite@0.12.17
+- pkg:maven/com.netflix.servo/servo-graphite@0.12.17?classifier=sources

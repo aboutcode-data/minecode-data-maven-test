@@ -20,3 +20,7 @@
 - pkg:maven/com.netflix.evcache/evcache-core@5.0.8-rc.1?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-core@5.0.7-rc.1
 - pkg:maven/com.netflix.evcache/evcache-core@5.0.7-rc.1?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-core@5.0.13-rc.1
+- pkg:maven/com.netflix.evcache/evcache-core@5.0.13-rc.1?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-core@5.0.12-rc.1
+- pkg:maven/com.netflix.evcache/evcache-core@5.0.12-rc.1?classifier=sources

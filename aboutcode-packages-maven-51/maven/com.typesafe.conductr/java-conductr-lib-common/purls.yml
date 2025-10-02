@@ -42,3 +42,5 @@
 - pkg:maven/com.typesafe.conductr/java-conductr-lib-common@1.9.3?classifier=sources
 - pkg:maven/com.typesafe.conductr/java-conductr-lib-common@1.9.2
 - pkg:maven/com.typesafe.conductr/java-conductr-lib-common@1.9.2?classifier=sources
+- pkg:maven/com.typesafe.conductr/java-conductr-lib-common@2.0.0
+- pkg:maven/com.typesafe.conductr/java-conductr-lib-common@2.0.0?classifier=sources

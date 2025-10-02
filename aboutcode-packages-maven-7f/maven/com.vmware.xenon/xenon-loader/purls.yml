@@ -102,3 +102,7 @@
 - pkg:maven/com.vmware.xenon/xenon-loader@1.5.1?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader@1.4.2-CR3
 - pkg:maven/com.vmware.xenon/xenon-loader@1.4.2-CR3?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader@1.5.1-CR2
+- pkg:maven/com.vmware.xenon/xenon-loader@1.5.1-CR2?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader@1.5.1-CR1
+- pkg:maven/com.vmware.xenon/xenon-loader@1.5.1-CR1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.squareup.keywhiz/keywhiz-client@0.7.10?classifier=sources
 - pkg:maven/com.squareup.keywhiz/keywhiz-client@0.7.10-mysql
 - pkg:maven/com.squareup.keywhiz/keywhiz-client@0.7.10-mysql?classifier=sources
+- pkg:maven/com.squareup.keywhiz/keywhiz-client@0.8.0
+- pkg:maven/com.squareup.keywhiz/keywhiz-client@0.8.0?classifier=sources
