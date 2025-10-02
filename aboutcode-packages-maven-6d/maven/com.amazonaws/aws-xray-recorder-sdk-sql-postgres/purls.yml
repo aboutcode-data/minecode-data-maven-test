@@ -1,2 +1,4 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@1.0.0-beta
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@1.0.0-beta?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@1.0.1-beta
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@1.0.1-beta?classifier=sources
