@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.sprockets/sprockets@0.0.0
 - pkg:maven/net.sf.sprockets/sprockets@0.0.0?classifier=sources
+- pkg:maven/net.sf.sprockets/sprockets@1.0.0
+- pkg:maven/net.sf.sprockets/sprockets@1.0.0?classifier=sources
