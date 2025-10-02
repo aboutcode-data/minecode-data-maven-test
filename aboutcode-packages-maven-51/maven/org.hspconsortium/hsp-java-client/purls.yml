@@ -2,3 +2,5 @@
 - pkg:maven/org.hspconsortium/hsp-java-client@0.8?classifier=sources
 - pkg:maven/org.hspconsortium/hsp-java-client@0.9
 - pkg:maven/org.hspconsortium/hsp-java-client@0.9?classifier=sources
+- pkg:maven/org.hspconsortium/hsp-java-client@0.10.2
+- pkg:maven/org.hspconsortium/hsp-java-client@0.10.2?classifier=sources

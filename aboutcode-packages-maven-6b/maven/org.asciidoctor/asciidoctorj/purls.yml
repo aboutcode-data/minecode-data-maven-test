@@ -12,3 +12,5 @@
 - pkg:maven/org.asciidoctor/asciidoctorj@1.5.3?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj@1.5.4
 - pkg:maven/org.asciidoctor/asciidoctorj@1.5.4?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj@1.6.0-alpha.1
+- pkg:maven/org.asciidoctor/asciidoctorj@1.6.0-alpha.1?classifier=sources
