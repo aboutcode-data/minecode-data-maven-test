@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.maven.release/maven-release-manager@2.2.2?classifier=sources
 - pkg:maven/org.apache.maven.release/maven-release-manager@2.3
 - pkg:maven/org.apache.maven.release/maven-release-manager@2.3?classifier=sources
+- pkg:maven/org.apache.maven.release/maven-release-manager@2.3.1
+- pkg:maven/org.apache.maven.release/maven-release-manager@2.3.1?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/org.kuali.rice/rice-dist@2.1.0-M2?classifier=src&type=tar.gz
 - pkg:maven/org.kuali.rice/rice-dist@2.1.0-rc1?classifier=src&type=zip
 - pkg:maven/org.kuali.rice/rice-dist@2.1.0-rc1?classifier=src&type=tar.gz
+- pkg:maven/org.kuali.rice/rice-dist@2.1.0?classifier=src&type=zip
+- pkg:maven/org.kuali.rice/rice-dist@2.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.kuali.rice/rice-dist@2.0.2?classifier=src&type=zip
+- pkg:maven/org.kuali.rice/rice-dist@2.0.2?classifier=src&type=tar.gz

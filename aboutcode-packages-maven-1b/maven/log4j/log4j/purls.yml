@@ -16,3 +16,4 @@
 - pkg:maven/log4j/log4j@1.2.12
 - pkg:maven/log4j/log4j@1.2.11
 - pkg:maven/log4j/log4j@1.1.3
+- pkg:maven/log4j/log4j@1.2.17?classifier=sources

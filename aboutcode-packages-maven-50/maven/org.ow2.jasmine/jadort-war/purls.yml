@@ -40,3 +40,5 @@
 - pkg:maven/org.ow2.jasmine/jadort-war@1.2.1?classifier=sources
 - pkg:maven/org.ow2.jasmine/jadort-war@1.2.0?type=war
 - pkg:maven/org.ow2.jasmine/jadort-war@1.2.0?classifier=sources
+- pkg:maven/org.ow2.jasmine/jadort-war@1.6.3?type=war
+- pkg:maven/org.ow2.jasmine/jadort-war@1.6.3?classifier=sources

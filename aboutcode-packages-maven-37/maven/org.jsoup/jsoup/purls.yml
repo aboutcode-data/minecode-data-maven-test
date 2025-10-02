@@ -30,3 +30,5 @@
 - pkg:maven/org.jsoup/jsoup@0.2.1b?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.6.2
 - pkg:maven/org.jsoup/jsoup@1.6.2?classifier=sources
+- pkg:maven/org.jsoup/jsoup@1.6.3
+- pkg:maven/org.jsoup/jsoup@1.6.3?classifier=sources

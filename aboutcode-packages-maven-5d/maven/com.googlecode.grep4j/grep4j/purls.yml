@@ -1,2 +1,4 @@
 - pkg:maven/com.googlecode.grep4j/grep4j@1.0
 - pkg:maven/com.googlecode.grep4j/grep4j@1.0?classifier=sources
+- pkg:maven/com.googlecode.grep4j/grep4j@1.1
+- pkg:maven/com.googlecode.grep4j/grep4j@1.1?classifier=sources
