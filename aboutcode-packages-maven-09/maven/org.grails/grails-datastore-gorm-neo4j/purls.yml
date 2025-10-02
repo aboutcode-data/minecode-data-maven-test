@@ -90,3 +90,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@5.0.12.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@6.0.2.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@6.0.2.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@6.0.3.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@6.0.3.RELEASE?classifier=sources

@@ -118,3 +118,9 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.23.2?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.23.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.23.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.24?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.24?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.24?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.22.3?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.22.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-beans-webapp@2.22.3?classifier=project-src&type=zip
