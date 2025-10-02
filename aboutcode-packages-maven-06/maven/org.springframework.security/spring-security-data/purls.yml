@@ -24,3 +24,5 @@
 - pkg:maven/org.springframework.security/spring-security-data@4.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-data@4.2.2.RELEASE
 - pkg:maven/org.springframework.security/spring-security-data@4.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-data@4.2.3.RELEASE
+- pkg:maven/org.springframework.security/spring-security-data@4.2.3.RELEASE?classifier=sources
