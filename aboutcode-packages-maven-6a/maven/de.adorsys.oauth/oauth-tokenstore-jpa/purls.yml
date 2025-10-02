@@ -36,3 +36,5 @@
 - pkg:maven/de.adorsys.oauth/oauth-tokenstore-jpa@0.28?classifier=sources
 - pkg:maven/de.adorsys.oauth/oauth-tokenstore-jpa@0.30
 - pkg:maven/de.adorsys.oauth/oauth-tokenstore-jpa@0.30?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-tokenstore-jpa@0.31
+- pkg:maven/de.adorsys.oauth/oauth-tokenstore-jpa@0.31?classifier=sources
