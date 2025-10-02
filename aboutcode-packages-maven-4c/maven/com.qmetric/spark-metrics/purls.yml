@@ -18,3 +18,5 @@
 - pkg:maven/com.qmetric/spark-metrics@1.18?classifier=sources
 - pkg:maven/com.qmetric/spark-metrics@1.17
 - pkg:maven/com.qmetric/spark-metrics@1.17?classifier=sources
+- pkg:maven/com.qmetric/spark-metrics@1.19
+- pkg:maven/com.qmetric/spark-metrics@1.19?classifier=sources

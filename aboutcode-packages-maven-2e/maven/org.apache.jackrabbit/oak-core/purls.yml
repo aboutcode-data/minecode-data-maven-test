@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-core@1.0.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.0.8
 - pkg:maven/org.apache.jackrabbit/oak-core@1.0.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-core@1.1.2
+- pkg:maven/org.apache.jackrabbit/oak-core@1.1.2?classifier=sources

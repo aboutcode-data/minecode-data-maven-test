@@ -17,3 +17,5 @@
 - pkg:maven/commons-codec/commons-codec@1.9?classifier=src&type=zip
 - pkg:maven/commons-codec/commons-codec@1.9?classifier=src&type=tar.gz
 - pkg:maven/commons-codec/commons-codec@1.9?classifier=sources
+- pkg:maven/commons-codec/commons-codec@1.10
+- pkg:maven/commons-codec/commons-codec@1.10?classifier=sources
