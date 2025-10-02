@@ -51,3 +51,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.7?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.8?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.8?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.9?type=war
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.9?classifier=sources

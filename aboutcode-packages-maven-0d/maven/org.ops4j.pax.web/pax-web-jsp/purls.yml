@@ -168,3 +168,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-jsp@3.2.5?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jsp@3.2.6
 - pkg:maven/org.ops4j.pax.web/pax-web-jsp@3.2.6?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jsp@4.2.2
+- pkg:maven/org.ops4j.pax.web/pax-web-jsp@4.2.2?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jsp@3.1.6
+- pkg:maven/org.ops4j.pax.web/pax-web-jsp@3.1.6?classifier=sources

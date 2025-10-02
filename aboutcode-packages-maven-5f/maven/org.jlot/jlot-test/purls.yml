@@ -6,3 +6,7 @@
 - pkg:maven/org.jlot/jlot-test@0.87?classifier=sources
 - pkg:maven/org.jlot/jlot-test@0.93
 - pkg:maven/org.jlot/jlot-test@0.93?classifier=sources
+- pkg:maven/org.jlot/jlot-test@0.95
+- pkg:maven/org.jlot/jlot-test@0.95?classifier=sources
+- pkg:maven/org.jlot/jlot-test@0.94
+- pkg:maven/org.jlot/jlot-test@0.94?classifier=sources

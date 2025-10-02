@@ -16,3 +16,5 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@1.0.2?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@1.0.3
 - pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@1.0.3?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@2.0.0
+- pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@2.0.0?classifier=sources
