@@ -4,3 +4,5 @@
 - pkg:maven/com.github.erizet.signala/signala@0.15?classifier=sources
 - pkg:maven/com.github.erizet.signala/signala@0.16?type=aar
 - pkg:maven/com.github.erizet.signala/signala@0.16?classifier=sources
+- pkg:maven/com.github.erizet.signala/signala@0.20?type=aar
+- pkg:maven/com.github.erizet.signala/signala@0.20?classifier=sources

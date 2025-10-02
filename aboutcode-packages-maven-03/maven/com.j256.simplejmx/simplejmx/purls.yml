@@ -18,3 +18,5 @@
 - pkg:maven/com.j256.simplejmx/simplejmx@1.6?classifier=sources
 - pkg:maven/com.j256.simplejmx/simplejmx@1.5
 - pkg:maven/com.j256.simplejmx/simplejmx@1.5?classifier=sources
+- pkg:maven/com.j256.simplejmx/simplejmx@1.8
+- pkg:maven/com.j256.simplejmx/simplejmx@1.8?classifier=sources

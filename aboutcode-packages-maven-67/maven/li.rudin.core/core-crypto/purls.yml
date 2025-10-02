@@ -18,3 +18,5 @@
 - pkg:maven/li.rudin.core/core-crypto@1.7?classifier=sources
 - pkg:maven/li.rudin.core/core-crypto@1.8
 - pkg:maven/li.rudin.core/core-crypto@1.8?classifier=sources
+- pkg:maven/li.rudin.core/core-crypto@1.9
+- pkg:maven/li.rudin.core/core-crypto@1.9?classifier=sources
