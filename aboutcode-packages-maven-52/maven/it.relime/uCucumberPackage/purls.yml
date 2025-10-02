@@ -12,3 +12,5 @@
 - pkg:maven/it.relime/uCucumberPackage@1.35?classifier=sources
 - pkg:maven/it.relime/uCucumberPackage@1.4
 - pkg:maven/it.relime/uCucumberPackage@1.4?classifier=sources
+- pkg:maven/it.relime/uCucumberPackage@1.41
+- pkg:maven/it.relime/uCucumberPackage@1.41?classifier=sources

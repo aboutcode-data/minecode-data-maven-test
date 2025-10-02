@@ -211,3 +211,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-juli@9.0.0.M18?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-juli@8.5.12
 - pkg:maven/org.apache.tomcat/tomcat-juli@8.5.12?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-juli@8.0.42
+- pkg:maven/org.apache.tomcat/tomcat-juli@8.0.42?classifier=sources

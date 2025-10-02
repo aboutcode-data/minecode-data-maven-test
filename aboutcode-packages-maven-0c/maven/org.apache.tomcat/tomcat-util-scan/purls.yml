@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@9.0.0.M18?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.12
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.12?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.42
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.42?classifier=sources
