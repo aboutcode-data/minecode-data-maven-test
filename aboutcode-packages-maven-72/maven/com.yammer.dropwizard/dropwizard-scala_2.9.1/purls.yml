@@ -32,3 +32,5 @@
 - pkg:maven/com.yammer.dropwizard/dropwizard-scala_2.9.1@0.6.1?classifier=sources
 - pkg:maven/com.yammer.dropwizard/dropwizard-scala_2.9.1@0.6.0
 - pkg:maven/com.yammer.dropwizard/dropwizard-scala_2.9.1@0.6.0?classifier=sources
+- pkg:maven/com.yammer.dropwizard/dropwizard-scala_2.9.1@0.6.2
+- pkg:maven/com.yammer.dropwizard/dropwizard-scala_2.9.1@0.6.2?classifier=sources
