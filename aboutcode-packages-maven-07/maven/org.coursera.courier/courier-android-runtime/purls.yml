@@ -8,3 +8,7 @@
 - pkg:maven/org.coursera.courier/courier-android-runtime@0.14.0?classifier=sources
 - pkg:maven/org.coursera.courier/courier-android-runtime@0.16.8
 - pkg:maven/org.coursera.courier/courier-android-runtime@0.16.8?classifier=sources
+- pkg:maven/org.coursera.courier/courier-android-runtime@1.0.0
+- pkg:maven/org.coursera.courier/courier-android-runtime@1.0.0?classifier=sources
+- pkg:maven/org.coursera.courier/courier-android-runtime@0.21.2
+- pkg:maven/org.coursera.courier/courier-android-runtime@0.21.2?classifier=sources

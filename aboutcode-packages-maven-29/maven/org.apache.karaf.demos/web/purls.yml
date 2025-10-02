@@ -100,3 +100,7 @@
 - pkg:maven/org.apache.karaf.demos/web@4.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.demos/web@4.0.4?type=war
 - pkg:maven/org.apache.karaf.demos/web@4.0.4?classifier=sources
+- pkg:maven/org.apache.karaf.demos/web@2.4.4?type=war
+- pkg:maven/org.apache.karaf.demos/web@2.4.4?classifier=sources
+- pkg:maven/org.apache.karaf.demos/web@2.3.12?type=war
+- pkg:maven/org.apache.karaf.demos/web@2.3.12?classifier=sources

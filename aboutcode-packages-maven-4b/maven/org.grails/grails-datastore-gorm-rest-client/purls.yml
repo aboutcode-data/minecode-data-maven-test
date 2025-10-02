@@ -38,3 +38,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-rest-client@5.0.0.RC3?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-rest-client@5.0.0.RC4
 - pkg:maven/org.grails/grails-datastore-gorm-rest-client@5.0.0.RC4?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-rest-client@5.0.0.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-rest-client@5.0.0.RELEASE?classifier=sources

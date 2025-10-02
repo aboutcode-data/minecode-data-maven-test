@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.karaf.archetypes/karaf-feature-archetype@4.0.2?classifier=sources
 - pkg:maven/org.apache.karaf.archetypes/karaf-feature-archetype@4.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.archetypes/karaf-feature-archetype@4.0.4?classifier=sources
+- pkg:maven/org.apache.karaf.archetypes/karaf-feature-archetype@2.4.4?classifier=sources
+- pkg:maven/org.apache.karaf.archetypes/karaf-feature-archetype@2.3.12?classifier=sources
