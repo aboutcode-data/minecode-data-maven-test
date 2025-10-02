@@ -44,3 +44,5 @@
 - pkg:maven/org.metawidget.modules.faces/metawidget-faces@3.8?classifier=sources
 - pkg:maven/org.metawidget.modules.faces/metawidget-faces@3.9
 - pkg:maven/org.metawidget.modules.faces/metawidget-faces@3.9?classifier=sources
+- pkg:maven/org.metawidget.modules.faces/metawidget-faces@4.0
+- pkg:maven/org.metawidget.modules.faces/metawidget-faces@4.0?classifier=sources

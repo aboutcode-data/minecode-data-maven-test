@@ -24,3 +24,5 @@
 - pkg:maven/org.keycloak/keycloak-timer-api@1.0.4.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-timer-api@1.0.3.Final
 - pkg:maven/org.keycloak/keycloak-timer-api@1.0.3.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-timer-api@1.1.0.Beta1
+- pkg:maven/org.keycloak/keycloak-timer-api@1.1.0.Beta1?classifier=sources
