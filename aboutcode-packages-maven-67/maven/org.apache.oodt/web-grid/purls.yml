@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.oodt/web-grid@0.11?classifier=sources
 - pkg:maven/org.apache.oodt/web-grid@0.12?type=war
 - pkg:maven/org.apache.oodt/web-grid@0.12?classifier=sources
+- pkg:maven/org.apache.oodt/web-grid@1.0?type=war
+- pkg:maven/org.apache.oodt/web-grid@1.0?classifier=sources

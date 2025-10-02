@@ -10,3 +10,5 @@
 - pkg:maven/org.duracloud/ama@2.2.2?classifier=sources
 - pkg:maven/org.duracloud/ama@2.2.3?type=war
 - pkg:maven/org.duracloud/ama@2.2.3?classifier=sources
+- pkg:maven/org.duracloud/ama@3.0.0?type=war
+- pkg:maven/org.duracloud/ama@3.0.0?classifier=sources

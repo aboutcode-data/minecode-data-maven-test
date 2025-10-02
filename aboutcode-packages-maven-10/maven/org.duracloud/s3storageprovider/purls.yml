@@ -28,3 +28,5 @@
 - pkg:maven/org.duracloud/s3storageprovider@3.7.3?classifier=sources
 - pkg:maven/org.duracloud/s3storageprovider@3.7.4
 - pkg:maven/org.duracloud/s3storageprovider@3.7.4?classifier=sources
+- pkg:maven/org.duracloud/s3storageprovider@4.0.0
+- pkg:maven/org.duracloud/s3storageprovider@4.0.0?classifier=sources
