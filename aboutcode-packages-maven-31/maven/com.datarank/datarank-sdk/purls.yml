@@ -1,0 +1,4 @@
+- pkg:maven/com.datarank/datarank-sdk@1.1
+- pkg:maven/com.datarank/datarank-sdk@1.1?classifier=sources
+- pkg:maven/com.datarank/datarank-sdk@1.0
+- pkg:maven/com.datarank/datarank-sdk@1.0?classifier=sources

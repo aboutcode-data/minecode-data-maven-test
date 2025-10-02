@@ -28,3 +28,5 @@
 - pkg:maven/com.google.openrtb/openrtb-core@0.8.0-beta4?classifier=sources
 - pkg:maven/com.google.openrtb/openrtb-core@0.8.0-beta3
 - pkg:maven/com.google.openrtb/openrtb-core@0.8.0-beta3?classifier=sources
+- pkg:maven/com.google.openrtb/openrtb-core@0.8.0
+- pkg:maven/com.google.openrtb/openrtb-core@0.8.0?classifier=sources

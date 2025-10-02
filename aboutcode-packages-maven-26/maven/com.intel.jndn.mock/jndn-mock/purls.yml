@@ -10,3 +10,5 @@
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.5?classifier=sources
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.7
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.7?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@0.10.0
+- pkg:maven/com.intel.jndn.mock/jndn-mock@0.10.0?classifier=sources
