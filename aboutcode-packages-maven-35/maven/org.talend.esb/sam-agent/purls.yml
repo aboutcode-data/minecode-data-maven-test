@@ -32,3 +32,5 @@
 - pkg:maven/org.talend.esb/sam-agent@5.2.3?classifier=sources
 - pkg:maven/org.talend.esb/sam-agent@5.4.0
 - pkg:maven/org.talend.esb/sam-agent@5.4.0?classifier=sources
+- pkg:maven/org.talend.esb/sam-agent@5.4.1
+- pkg:maven/org.talend.esb/sam-agent@5.4.1?classifier=sources
