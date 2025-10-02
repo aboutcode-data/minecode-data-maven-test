@@ -76,3 +76,5 @@
 - pkg:maven/org.igniterealtime.smack/smack-resolver-dnsjava@4.1.9?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-dnsjava@4.2.0-beta3
 - pkg:maven/org.igniterealtime.smack/smack-resolver-dnsjava@4.2.0-beta3?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-resolver-dnsjava@4.2.0-rc1
+- pkg:maven/org.igniterealtime.smack/smack-resolver-dnsjava@4.2.0-rc1?classifier=sources
