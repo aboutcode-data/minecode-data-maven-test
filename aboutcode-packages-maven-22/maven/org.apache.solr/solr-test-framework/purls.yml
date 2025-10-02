@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.solr/solr-test-framework@4.0.0-BETA?classifier=sources
 - pkg:maven/org.apache.solr/solr-test-framework@4.0.0
 - pkg:maven/org.apache.solr/solr-test-framework@4.0.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-test-framework@3.6.2
+- pkg:maven/org.apache.solr/solr-test-framework@3.6.2?classifier=sources

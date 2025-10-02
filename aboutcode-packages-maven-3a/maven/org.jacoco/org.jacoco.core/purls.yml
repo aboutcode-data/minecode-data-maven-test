@@ -7,3 +7,5 @@
 - pkg:maven/org.jacoco/org.jacoco.core@0.5.9.201207300726?classifier=sources
 - pkg:maven/org.jacoco/org.jacoco.core@0.5.10.201208310627?classifier=sources
 - pkg:maven/org.jacoco/org.jacoco.core@0.6.0.201210061924?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.core@0.6.1.201212231917
+- pkg:maven/org.jacoco/org.jacoco.core@0.6.1.201212231917?classifier=sources

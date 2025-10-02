@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.maven.surefire/maven-surefire-common@2.12.3?classifier=sources
 - pkg:maven/org.apache.maven.surefire/maven-surefire-common@2.12.4
 - pkg:maven/org.apache.maven.surefire/maven-surefire-common@2.12.4?classifier=sources
+- pkg:maven/org.apache.maven.surefire/maven-surefire-common@2.13
+- pkg:maven/org.apache.maven.surefire/maven-surefire-common@2.13?classifier=sources

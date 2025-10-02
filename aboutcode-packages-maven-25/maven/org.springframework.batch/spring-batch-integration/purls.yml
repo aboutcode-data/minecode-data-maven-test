@@ -20,3 +20,5 @@
 - pkg:maven/org.springframework.batch/spring-batch-integration@1.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-integration@1.0.0.FINAL
 - pkg:maven/org.springframework.batch/spring-batch-integration@1.0.0.FINAL?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-integration@1.2.2.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-integration@1.2.2.RELEASE?classifier=sources

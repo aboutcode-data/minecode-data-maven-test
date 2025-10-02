@@ -1,0 +1,4 @@
+- pkg:maven/cz.wicketstuff.boss/boss-flow@0.4
+- pkg:maven/cz.wicketstuff.boss/boss-flow@0.4?classifier=sources
+- pkg:maven/cz.wicketstuff.boss/boss-flow@0.3
+- pkg:maven/cz.wicketstuff.boss/boss-flow@0.3?classifier=sources

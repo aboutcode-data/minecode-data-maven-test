@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.solr/solr-cell@4.0.0-BETA?classifier=sources
 - pkg:maven/org.apache.solr/solr-cell@4.0.0
 - pkg:maven/org.apache.solr/solr-cell@4.0.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-cell@3.6.2
+- pkg:maven/org.apache.solr/solr-cell@3.6.2?classifier=sources
