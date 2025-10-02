@@ -90,3 +90,7 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.5.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.4.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.4.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.24.1.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.24.1.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.6.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.6.Final?classifier=sources

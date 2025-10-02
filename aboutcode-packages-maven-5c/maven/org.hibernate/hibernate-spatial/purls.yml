@@ -60,3 +60,5 @@
 - pkg:maven/org.hibernate/hibernate-spatial@5.1.4.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-spatial@5.0.12.Final
 - pkg:maven/org.hibernate/hibernate-spatial@5.0.12.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-spatial@5.2.8.Final
+- pkg:maven/org.hibernate/hibernate-spatial@5.2.8.Final?classifier=sources
