@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.lens/checkstyle@2.3.0-beta
 - pkg:maven/org.apache.lens/checkstyle@2.3.0-beta?classifier=sources
 - pkg:maven/org.apache.lens/checkstyle@2.4.0-beta
+- pkg:maven/org.apache.lens/checkstyle@2.4.0-beta?classifier=sources
