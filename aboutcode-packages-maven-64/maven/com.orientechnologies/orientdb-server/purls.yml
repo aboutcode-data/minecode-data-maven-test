@@ -142,3 +142,5 @@
 - pkg:maven/com.orientechnologies/orientdb-server@2.1.10?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-server@2.0.18
 - pkg:maven/com.orientechnologies/orientdb-server@2.0.18?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-server@2.1.11
+- pkg:maven/com.orientechnologies/orientdb-server@2.1.11?classifier=sources
