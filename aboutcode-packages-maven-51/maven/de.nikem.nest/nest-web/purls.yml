@@ -8,3 +8,5 @@
 - pkg:maven/de.nikem.nest/nest-web@1.4?classifier=sources
 - pkg:maven/de.nikem.nest/nest-web@1.3?type=war
 - pkg:maven/de.nikem.nest/nest-web@1.3?classifier=sources
+- pkg:maven/de.nikem.nest/nest-web@1.5?type=war
+- pkg:maven/de.nikem.nest/nest-web@1.5?classifier=sources

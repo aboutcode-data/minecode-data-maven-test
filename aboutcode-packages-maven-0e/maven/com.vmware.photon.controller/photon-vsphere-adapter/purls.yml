@@ -55,3 +55,5 @@
 - pkg:maven/com.vmware.photon.controller/photon-vsphere-adapter@0.5.9?classifier=sources
 - pkg:maven/com.vmware.photon.controller/photon-vsphere-adapter@0.5.8
 - pkg:maven/com.vmware.photon.controller/photon-vsphere-adapter@0.5.8?classifier=sources
+- pkg:maven/com.vmware.photon.controller/photon-vsphere-adapter@0.6.1
+- pkg:maven/com.vmware.photon.controller/photon-vsphere-adapter@0.6.1?classifier=sources

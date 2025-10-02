@@ -14,3 +14,5 @@
 - pkg:maven/com.tapstream.sdk/tapstream-android@3.1.0?classifier=sources
 - pkg:maven/com.tapstream.sdk/tapstream-android@3.2.0?type=aar
 - pkg:maven/com.tapstream.sdk/tapstream-android@3.2.0?classifier=sources
+- pkg:maven/com.tapstream.sdk/tapstream-android@3.3.0?type=aar
+- pkg:maven/com.tapstream.sdk/tapstream-android@3.3.0?classifier=sources
