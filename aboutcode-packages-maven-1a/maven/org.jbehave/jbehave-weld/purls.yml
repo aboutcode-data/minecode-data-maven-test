@@ -68,3 +68,5 @@
 - pkg:maven/org.jbehave/jbehave-weld@3.6.7?classifier=sources
 - pkg:maven/org.jbehave/jbehave-weld@3.6.8
 - pkg:maven/org.jbehave/jbehave-weld@3.6.8?classifier=sources
+- pkg:maven/org.jbehave/jbehave-weld@4.0-beta-1
+- pkg:maven/org.jbehave/jbehave-weld@4.0-beta-1?classifier=sources

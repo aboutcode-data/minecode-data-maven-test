@@ -15,3 +15,4 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory@1.9.2.4?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory@2.0?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory@2.0.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory@2.1?classifier=sources

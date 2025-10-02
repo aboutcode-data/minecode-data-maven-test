@@ -1,2 +1,4 @@
 - pkg:maven/com.github.scala-incubator.io/scala-io-core_2.9.2@0.4.0
 - pkg:maven/com.github.scala-incubator.io/scala-io-core_2.9.2@0.4.0?classifier=sources
+- pkg:maven/com.github.scala-incubator.io/scala-io-core_2.9.2@0.4.0-seq
+- pkg:maven/com.github.scala-incubator.io/scala-io-core_2.9.2@0.4.0-seq?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-configuration@2.0?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-configuration@2.0.1
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-configuration@2.0.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-configuration@2.1
+- pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-configuration@2.1?classifier=sources

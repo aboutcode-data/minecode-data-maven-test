@@ -24,3 +24,7 @@
 - pkg:maven/com.mycila/mycila-guice@2.7.ga?classifier=sources
 - pkg:maven/com.mycila/mycila-guice@2.8.ga
 - pkg:maven/com.mycila/mycila-guice@2.8.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-guice@2.9.ga
+- pkg:maven/com.mycila/mycila-guice@2.9.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-guice@2.10.ga
+- pkg:maven/com.mycila/mycila-guice@2.10.ga?classifier=sources

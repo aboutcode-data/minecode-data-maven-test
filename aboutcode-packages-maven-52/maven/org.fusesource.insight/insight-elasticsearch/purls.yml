@@ -2,3 +2,5 @@
 - pkg:maven/org.fusesource.insight/insight-elasticsearch@1.1?classifier=sources
 - pkg:maven/org.fusesource.insight/insight-elasticsearch@7.0.0.fuse-061
 - pkg:maven/org.fusesource.insight/insight-elasticsearch@7.0.0.fuse-061?classifier=sources
+- pkg:maven/org.fusesource.insight/insight-elasticsearch@7.0.1.fuse-084
+- pkg:maven/org.fusesource.insight/insight-elasticsearch@7.0.1.fuse-084?classifier=sources
