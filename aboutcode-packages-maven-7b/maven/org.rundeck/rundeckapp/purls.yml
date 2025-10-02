@@ -66,3 +66,5 @@
 - pkg:maven/org.rundeck/rundeckapp@2.6.8?classifier=sources
 - pkg:maven/org.rundeck/rundeckapp@2.6.9?type=war
 - pkg:maven/org.rundeck/rundeckapp@2.6.9?classifier=sources
+- pkg:maven/org.rundeck/rundeckapp@2.6.10?type=war
+- pkg:maven/org.rundeck/rundeckapp@2.6.10?classifier=sources
