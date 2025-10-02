@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.genie/genie-war@3.0.0-rc.31?type=war
 - pkg:maven/com.netflix.genie/genie-war@3.0.0-rc.31?classifier=sources
+- pkg:maven/com.netflix.genie/genie-war@3.0.0-rc.32?type=war
+- pkg:maven/com.netflix.genie/genie-war@3.0.0-rc.32?classifier=sources

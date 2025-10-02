@@ -22,3 +22,5 @@
 - pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/push@2.0.8?classifier=sources
 - pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/push@2.0.7?type=aar
 - pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/push@2.0.7?classifier=sources
+- pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/push@2.0.9?type=aar
+- pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/push@2.0.9?classifier=sources
