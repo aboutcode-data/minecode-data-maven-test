@@ -2,3 +2,5 @@
 - pkg:maven/com.boundary.dropwizard.consul/registration@0.16?classifier=sources
 - pkg:maven/com.boundary.dropwizard.consul/registration@0.17
 - pkg:maven/com.boundary.dropwizard.consul/registration@0.17?classifier=sources
+- pkg:maven/com.boundary.dropwizard.consul/registration@0.18
+- pkg:maven/com.boundary.dropwizard.consul/registration@0.18?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ws.ament.hammock/web-undertow@0.0.3
 - pkg:maven/ws.ament.hammock/web-undertow@0.0.3?classifier=sources
+- pkg:maven/ws.ament.hammock/web-undertow@0.1.0
+- pkg:maven/ws.ament.hammock/web-undertow@0.1.0?classifier=sources
