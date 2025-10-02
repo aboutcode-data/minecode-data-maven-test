@@ -66,3 +66,5 @@
 - pkg:maven/com.fasterxml.storemate/storemate-backend-bdb-je@0.9.18?classifier=sources
 - pkg:maven/com.fasterxml.storemate/storemate-backend-bdb-je@0.9.17
 - pkg:maven/com.fasterxml.storemate/storemate-backend-bdb-je@0.9.17?classifier=sources
+- pkg:maven/com.fasterxml.storemate/storemate-backend-bdb-je@0.9.20
+- pkg:maven/com.fasterxml.storemate/storemate-backend-bdb-je@0.9.20?classifier=sources
