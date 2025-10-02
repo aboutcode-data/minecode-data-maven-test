@@ -16,3 +16,5 @@
 - pkg:maven/org.codehaus.mojo/truezip-maven-plugin@1.0-beta-7
 - pkg:maven/org.codehaus.mojo/truezip-maven-plugin@1.0-beta-7?classifier=sources
 - pkg:maven/org.codehaus.mojo/truezip-maven-plugin@1.0-beta-7?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/truezip-maven-plugin@1.0
+- pkg:maven/org.codehaus.mojo/truezip-maven-plugin@1.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.proofpoint.platform/configuration@0.62?classifier=sources
 - pkg:maven/com.proofpoint.platform/configuration@0.63
 - pkg:maven/com.proofpoint.platform/configuration@0.63?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@0.64
+- pkg:maven/com.proofpoint.platform/configuration@0.64?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.grails/grails-test-suite-base@2.0.3
 - pkg:maven/org.grails/grails-test-suite-base@2.0.3?classifier=sources
 - pkg:maven/org.grails/grails-test-suite-base@2.1.0.RC1
+- pkg:maven/org.grails/grails-test-suite-base@2.1.0.RC1?classifier=sources
