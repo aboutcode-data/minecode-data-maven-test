@@ -129,3 +129,5 @@
 - pkg:maven/org.jdbi/jdbi@2.44?classifier=sources
 - pkg:maven/org.jdbi/jdbi@2.43.1
 - pkg:maven/org.jdbi/jdbi@2.43.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi@2.47
+- pkg:maven/org.jdbi/jdbi@2.47?classifier=sources

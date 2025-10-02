@@ -32,3 +32,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-gwt-connection-sharing@1.0.8?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-gwt-connection-sharing@1.0.9?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-gwt-connection-sharing@1.0.9?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-gwt-connection-sharing@1.0.10?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-gwt-connection-sharing@1.0.10?classifier=sources

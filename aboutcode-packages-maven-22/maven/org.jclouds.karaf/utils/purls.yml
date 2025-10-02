@@ -60,3 +60,7 @@
 - pkg:maven/org.jclouds.karaf/utils@1.5.4?classifier=sources
 - pkg:maven/org.jclouds.karaf/utils@1.5.5
 - pkg:maven/org.jclouds.karaf/utils@1.5.5?classifier=sources
+- pkg:maven/org.jclouds.karaf/utils@1.5.7_1
+- pkg:maven/org.jclouds.karaf/utils@1.5.7_1?classifier=sources
+- pkg:maven/org.jclouds.karaf/utils@1.5.7
+- pkg:maven/org.jclouds.karaf/utils@1.5.7?classifier=sources

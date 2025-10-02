@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.wookie/wookie-java-connector@0.10.0-incubating?classifier=sources
 - pkg:maven/org.apache.wookie/wookie-java-connector@0.11.0-incubating
 - pkg:maven/org.apache.wookie/wookie-java-connector@0.11.0-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.13.1
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.13.1?classifier=sources
