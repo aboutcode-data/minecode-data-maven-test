@@ -32,3 +32,5 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.10.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.13
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.13?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.14
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.14?classifier=sources

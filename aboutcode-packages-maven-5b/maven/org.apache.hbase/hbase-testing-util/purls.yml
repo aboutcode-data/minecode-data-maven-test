@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.hbase/hbase-testing-util@0.98.8-hadoop1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-testing-util@0.99.1
 - pkg:maven/org.apache.hbase/hbase-testing-util@0.99.1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-testing-util@0.99.2
+- pkg:maven/org.apache.hbase/hbase-testing-util@0.99.2?classifier=sources
