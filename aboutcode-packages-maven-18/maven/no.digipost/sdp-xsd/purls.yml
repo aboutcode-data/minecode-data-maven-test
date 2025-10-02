@@ -1,2 +1,4 @@
 - pkg:maven/no.digipost/sdp-xsd@0.9
 - pkg:maven/no.digipost/sdp-xsd@0.9?classifier=sources
+- pkg:maven/no.digipost/sdp-xsd@1.0
+- pkg:maven/no.digipost/sdp-xsd@1.0?classifier=sources

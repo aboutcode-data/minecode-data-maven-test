@@ -30,3 +30,7 @@
 - pkg:maven/nz.net.osnz.common/common-javascript@3.7?classifier=sources
 - pkg:maven/nz.net.osnz.common/common-javascript@3.9
 - pkg:maven/nz.net.osnz.common/common-javascript@3.9?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-javascript@3.11
+- pkg:maven/nz.net.osnz.common/common-javascript@3.11?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-javascript@3.10
+- pkg:maven/nz.net.osnz.common/common-javascript@3.10?classifier=sources
