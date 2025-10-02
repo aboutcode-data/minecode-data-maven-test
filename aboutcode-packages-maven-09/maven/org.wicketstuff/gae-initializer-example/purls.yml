@@ -70,3 +70,5 @@
 - pkg:maven/org.wicketstuff/gae-initializer-example@6.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/gae-initializer-example@6.11.1?type=war
 - pkg:maven/org.wicketstuff/gae-initializer-example@6.11.1?classifier=sources
+- pkg:maven/org.wicketstuff/gae-initializer-example@6.12.0?type=war
+- pkg:maven/org.wicketstuff/gae-initializer-example@6.12.0?classifier=sources

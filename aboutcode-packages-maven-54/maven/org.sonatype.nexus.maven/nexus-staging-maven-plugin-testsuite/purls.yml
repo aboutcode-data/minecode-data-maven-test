@@ -18,3 +18,5 @@
 - pkg:maven/org.sonatype.nexus.maven/nexus-staging-maven-plugin-testsuite@1.4.7?classifier=sources
 - pkg:maven/org.sonatype.nexus.maven/nexus-staging-maven-plugin-testsuite@1.4.8
 - pkg:maven/org.sonatype.nexus.maven/nexus-staging-maven-plugin-testsuite@1.4.8?classifier=sources
+- pkg:maven/org.sonatype.nexus.maven/nexus-staging-maven-plugin-testsuite@1.5.1
+- pkg:maven/org.sonatype.nexus.maven/nexus-staging-maven-plugin-testsuite@1.5.1?classifier=sources

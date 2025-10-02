@@ -2,3 +2,5 @@
 - pkg:maven/org.semantictools/semantictools-jsonld@1.17?classifier=sources
 - pkg:maven/org.semantictools/semantictools-jsonld@1.22
 - pkg:maven/org.semantictools/semantictools-jsonld@1.22?classifier=sources
+- pkg:maven/org.semantictools/semantictools-jsonld@1.24
+- pkg:maven/org.semantictools/semantictools-jsonld@1.24?classifier=sources
