@@ -12,3 +12,5 @@
 - pkg:maven/org.picketlink/picketlink-wildfly-common@2.7.1.Final?classifier=sources
 - pkg:maven/org.picketlink/picketlink-wildfly-common@2.5.5.SP2
 - pkg:maven/org.picketlink/picketlink-wildfly-common@2.5.5.SP2?classifier=sources
+- pkg:maven/org.picketlink/picketlink-wildfly-common@2.5.5.SP3
+- pkg:maven/org.picketlink/picketlink-wildfly-common@2.5.5.SP3?classifier=sources

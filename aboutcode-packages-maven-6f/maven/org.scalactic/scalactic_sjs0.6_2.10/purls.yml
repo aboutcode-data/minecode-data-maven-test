@@ -60,3 +60,5 @@
 - pkg:maven/org.scalactic/scalactic_sjs0.6_2.10@3.0.0-RC3?classifier=sources
 - pkg:maven/org.scalactic/scalactic_sjs0.6_2.10@3.0.0-RC4
 - pkg:maven/org.scalactic/scalactic_sjs0.6_2.10@3.0.0-RC4?classifier=sources
+- pkg:maven/org.scalactic/scalactic_sjs0.6_2.10@3.0.0
+- pkg:maven/org.scalactic/scalactic_sjs0.6_2.10@3.0.0?classifier=sources
