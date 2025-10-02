@@ -42,3 +42,5 @@
 - pkg:maven/com.qulice/qulice-codenarc@0.8.1?classifier=sources
 - pkg:maven/com.qulice/qulice-codenarc@0.8.2
 - pkg:maven/com.qulice/qulice-codenarc@0.8.2?classifier=sources
+- pkg:maven/com.qulice/qulice-codenarc@0.9
+- pkg:maven/com.qulice/qulice-codenarc@0.9?classifier=sources

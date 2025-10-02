@@ -261,3 +261,5 @@
 - pkg:maven/com.sun.faces/jsf-impl@2.1.29?classifier=sources
 - pkg:maven/com.sun.faces/jsf-impl@2.1.5-03
 - pkg:maven/com.sun.faces/jsf-impl@2.1.5-03?classifier=sources
+- pkg:maven/com.sun.faces/jsf-impl@2.2.8
+- pkg:maven/com.sun.faces/jsf-impl@2.2.8?classifier=sources

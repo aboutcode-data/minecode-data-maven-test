@@ -48,3 +48,5 @@
 - pkg:maven/com.proofpoint.platform/reporting@1.02?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting@1.03
 - pkg:maven/com.proofpoint.platform/reporting@1.03?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting@1.04
+- pkg:maven/com.proofpoint.platform/reporting@1.04?classifier=sources
