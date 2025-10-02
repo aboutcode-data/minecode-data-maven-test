@@ -14,3 +14,5 @@
 - pkg:maven/me.legrange/mikrotik@2.2?classifier=sources
 - pkg:maven/me.legrange/mikrotik@3.0
 - pkg:maven/me.legrange/mikrotik@3.0?classifier=sources
+- pkg:maven/me.legrange/mikrotik@3.0.1
+- pkg:maven/me.legrange/mikrotik@3.0.1?classifier=sources

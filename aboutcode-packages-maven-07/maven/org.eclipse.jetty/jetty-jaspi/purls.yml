@@ -326,3 +326,9 @@
 - pkg:maven/org.eclipse.jetty/jetty-jaspi@9.3.7.RC1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jaspi@9.1.6.v20160112
 - pkg:maven/org.eclipse.jetty/jetty-jaspi@9.1.6.v20160112?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jaspi@9.2.15.v20160210
+- pkg:maven/org.eclipse.jetty/jetty-jaspi@9.2.15.v20160210?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jaspi@8.1.19.v20160209
+- pkg:maven/org.eclipse.jetty/jetty-jaspi@8.1.19.v20160209?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jaspi@7.6.19.v20160209
+- pkg:maven/org.eclipse.jetty/jetty-jaspi@7.6.19.v20160209?classifier=sources

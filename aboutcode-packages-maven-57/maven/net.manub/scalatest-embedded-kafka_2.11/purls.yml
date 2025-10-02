@@ -14,3 +14,7 @@
 - pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.2-kafka09?classifier=sources
 - pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.2
 - pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.2?classifier=sources
+- pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.3-kafka09
+- pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.3-kafka09?classifier=sources
+- pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.3
+- pkg:maven/net.manub/scalatest-embedded-kafka_2.11@0.4.3?classifier=sources

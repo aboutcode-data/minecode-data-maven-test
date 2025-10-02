@@ -282,3 +282,9 @@
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-all@9.2.14.v20151106?classifier=sources
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-all@9.1.6.v20160112
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-all@9.1.6.v20160112?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-all@9.2.15.v20160210
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-all@9.2.15.v20160210?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-all@8.1.19.v20160209
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-all@8.1.19.v20160209?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-all@7.6.19.v20160209
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-all@7.6.19.v20160209?classifier=sources

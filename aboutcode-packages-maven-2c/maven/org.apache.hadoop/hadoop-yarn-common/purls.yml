@@ -63,3 +63,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-common@2.6.3?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-common@2.7.2
 - pkg:maven/org.apache.hadoop/hadoop-yarn-common@2.7.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-common@2.6.4
+- pkg:maven/org.apache.hadoop/hadoop-yarn-common@2.6.4?classifier=sources

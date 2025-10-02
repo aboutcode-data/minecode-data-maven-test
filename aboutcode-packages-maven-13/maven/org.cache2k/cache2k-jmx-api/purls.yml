@@ -10,3 +10,5 @@
 - pkg:maven/org.cache2k/cache2k-jmx-api@0.22?classifier=sources
 - pkg:maven/org.cache2k/cache2k-jmx-api@0.22.1
 - pkg:maven/org.cache2k/cache2k-jmx-api@0.22.1?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx-api@0.23
+- pkg:maven/org.cache2k/cache2k-jmx-api@0.23?classifier=sources

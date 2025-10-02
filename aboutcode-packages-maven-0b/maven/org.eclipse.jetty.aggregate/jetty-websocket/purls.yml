@@ -88,3 +88,7 @@
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@8.1.18.v20150929?classifier=sources
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@7.6.18.v20150929
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@7.6.18.v20150929?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@8.1.19.v20160209
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@8.1.19.v20160209?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@7.6.19.v20160209
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-websocket@7.6.19.v20160209?classifier=sources
