@@ -14,3 +14,5 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha4
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha5
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha5?classifier=sources

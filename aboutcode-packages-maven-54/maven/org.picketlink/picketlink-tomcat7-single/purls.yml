@@ -122,3 +122,5 @@
 - pkg:maven/org.picketlink/picketlink-tomcat7-single@2.5.5.Final?classifier=sources
 - pkg:maven/org.picketlink/picketlink-tomcat7-single@2.5.5.SP1
 - pkg:maven/org.picketlink/picketlink-tomcat7-single@2.5.5.SP1?classifier=sources
+- pkg:maven/org.picketlink/picketlink-tomcat7-single@2.7.1.Final
+- pkg:maven/org.picketlink/picketlink-tomcat7-single@2.7.1.Final?classifier=sources

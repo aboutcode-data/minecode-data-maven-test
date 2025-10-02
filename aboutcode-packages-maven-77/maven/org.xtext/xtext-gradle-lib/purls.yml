@@ -70,3 +70,5 @@
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.26?classifier=sources
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.27
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.27?classifier=sources
+- pkg:maven/org.xtext/xtext-gradle-lib@1.0.0-RC4
+- pkg:maven/org.xtext/xtext-gradle-lib@1.0.0-RC4?classifier=sources
