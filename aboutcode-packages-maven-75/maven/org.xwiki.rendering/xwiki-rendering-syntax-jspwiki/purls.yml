@@ -180,3 +180,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-jspwiki@6.4.2?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-jspwiki@6.2.7
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-jspwiki@6.2.7?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-jspwiki@7.0-milestone-2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-jspwiki@7.0-milestone-2?classifier=sources
