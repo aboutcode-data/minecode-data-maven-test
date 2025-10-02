@@ -1,2 +1,4 @@
 - pkg:maven/com.google.gerrit/gwtjsonrpc@1.8
 - pkg:maven/com.google.gerrit/gwtjsonrpc@1.8?classifier=sources
+- pkg:maven/com.google.gerrit/gwtjsonrpc@1.9
+- pkg:maven/com.google.gerrit/gwtjsonrpc@1.9?classifier=sources

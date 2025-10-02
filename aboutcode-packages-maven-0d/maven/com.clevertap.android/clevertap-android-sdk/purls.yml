@@ -16,3 +16,5 @@
 - pkg:maven/com.clevertap.android/clevertap-android-sdk@2.1.3?classifier=sources
 - pkg:maven/com.clevertap.android/clevertap-android-sdk@2.2.0?type=aar
 - pkg:maven/com.clevertap.android/clevertap-android-sdk@2.2.0?classifier=sources
+- pkg:maven/com.clevertap.android/clevertap-android-sdk@3.0.0?type=aar
+- pkg:maven/com.clevertap.android/clevertap-android-sdk@3.0.0?classifier=sources
