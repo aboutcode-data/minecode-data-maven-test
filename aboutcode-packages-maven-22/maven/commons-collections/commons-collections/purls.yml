@@ -20,3 +20,5 @@
 - pkg:maven/commons-collections/commons-collections@2.0.20020914.015953
 - pkg:maven/commons-collections/commons-collections@2.0
 - pkg:maven/commons-collections/commons-collections@1.0
+- pkg:maven/commons-collections/commons-collections@3.2.2
+- pkg:maven/commons-collections/commons-collections@3.2.2?classifier=sources

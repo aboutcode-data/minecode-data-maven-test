@@ -120,3 +120,5 @@
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.16.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.15.4?type=war
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.15.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-spring-security@2.14.4?type=war
+- pkg:maven/org.apache.camel/camel-example-spring-security@2.14.4?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@0.7-rc4?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@0.7-rc6
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@0.7-rc6?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@0.7
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@0.7?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.camel/camel-spring-batch@2.16.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-batch@2.15.4
 - pkg:maven/org.apache.camel/camel-spring-batch@2.15.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-batch@2.14.4
+- pkg:maven/org.apache.camel/camel-spring-batch@2.14.4?classifier=sources
