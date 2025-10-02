@@ -58,3 +58,5 @@
 - pkg:maven/com.alpinenow/plugin-model@1.7?classifier=sources
 - pkg:maven/com.alpinenow/plugin-model@1.8-alpha
 - pkg:maven/com.alpinenow/plugin-model@1.8-alpha?classifier=sources
+- pkg:maven/com.alpinenow/plugin-model@1.8
+- pkg:maven/com.alpinenow/plugin-model@1.8?classifier=sources
