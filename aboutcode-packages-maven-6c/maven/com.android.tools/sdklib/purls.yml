@@ -44,3 +44,7 @@
 - pkg:maven/com.android.tools/sdklib@22.8.0?classifier=sources
 - pkg:maven/com.android.tools/sdklib@22.8.2
 - pkg:maven/com.android.tools/sdklib@22.8.2?classifier=sources
+- pkg:maven/com.android.tools/sdklib@22.8.4
+- pkg:maven/com.android.tools/sdklib@22.8.4?classifier=sources
+- pkg:maven/com.android.tools/sdklib@22.8.3
+- pkg:maven/com.android.tools/sdklib@22.8.3?classifier=sources
