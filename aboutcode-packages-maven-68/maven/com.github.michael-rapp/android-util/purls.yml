@@ -86,3 +86,5 @@
 - pkg:maven/com.github.michael-rapp/android-util@1.15.4?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-util@1.15.3?type=aar
 - pkg:maven/com.github.michael-rapp/android-util@1.15.3?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-util@1.16.0?type=aar
+- pkg:maven/com.github.michael-rapp/android-util@1.16.0?classifier=sources

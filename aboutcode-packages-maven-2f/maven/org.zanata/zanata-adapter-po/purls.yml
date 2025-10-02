@@ -59,3 +59,5 @@
 - pkg:maven/org.zanata/zanata-adapter-po@4.1.1?classifier=sources
 - pkg:maven/org.zanata/zanata-adapter-po@4.2.0-rc-3?classifier=sources
 - pkg:maven/org.zanata/zanata-adapter-po@4.2.0-rc-4?classifier=sources
+- pkg:maven/org.zanata/zanata-adapter-po@4.2.0-rc-5?classifier=sources
+- pkg:maven/org.zanata/zanata-adapter-po@4.2.0?classifier=sources

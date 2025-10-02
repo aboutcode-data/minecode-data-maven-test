@@ -236,3 +236,5 @@
 - pkg:maven/org.wildfly.core/wildfly-embedded@3.0.0.Beta18?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-embedded@3.0.0.Beta22
 - pkg:maven/org.wildfly.core/wildfly-embedded@3.0.0.Beta22?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-embedded@3.0.0.Beta23
+- pkg:maven/org.wildfly.core/wildfly-embedded@3.0.0.Beta23?classifier=sources
