@@ -78,3 +78,5 @@
 - pkg:maven/org.molgenis/molgenis-data-import@1.21.4?classifier=sources
 - pkg:maven/org.molgenis/molgenis-data-import@1.21.5
 - pkg:maven/org.molgenis/molgenis-data-import@1.21.5?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-import@2.0.0
+- pkg:maven/org.molgenis/molgenis-data-import@2.0.0?classifier=sources
