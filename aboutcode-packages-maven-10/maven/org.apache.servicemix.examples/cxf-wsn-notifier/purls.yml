@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-notifier@5.3.2?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-notifier@5.2.1
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-notifier@5.2.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-notifier@6.0.0.M2
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-notifier@6.0.0.M2?classifier=sources

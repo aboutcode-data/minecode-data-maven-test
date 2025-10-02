@@ -36,3 +36,5 @@
 - pkg:maven/eu.limetri.ygg/ygg-client@0.17?classifier=sources
 - pkg:maven/eu.limetri.ygg/ygg-client@0.18
 - pkg:maven/eu.limetri.ygg/ygg-client@0.18?classifier=sources
+- pkg:maven/eu.limetri.ygg/ygg-client@0.20
+- pkg:maven/eu.limetri.ygg/ygg-client@0.20?classifier=sources

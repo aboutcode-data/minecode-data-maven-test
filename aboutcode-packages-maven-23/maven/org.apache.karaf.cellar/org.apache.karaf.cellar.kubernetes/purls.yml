@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.kubernetes@3.0.1?classifier=sources
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.kubernetes@3.0.2
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.kubernetes@3.0.2?classifier=sources
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.kubernetes@3.0.3

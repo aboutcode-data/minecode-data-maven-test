@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.20?classifier=sources
 - pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.20.1?type=war
 - pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.20.1?classifier=sources
+- pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.24?type=war
+- pkg:maven/org.apache.struts/struts2-jboss-blank@2.3.24?classifier=sources

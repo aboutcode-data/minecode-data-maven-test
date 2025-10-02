@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@5.3.2?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@5.2.1
 - pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@5.2.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@6.0.0.M2
+- pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@6.0.0.M2?classifier=sources
