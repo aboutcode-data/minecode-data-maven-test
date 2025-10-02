@@ -1,2 +1,4 @@
 - pkg:maven/org.fluentlenium/fluentlenium-assertj@0.10.0
 - pkg:maven/org.fluentlenium/fluentlenium-assertj@0.10.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@0.10.2
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@0.10.2?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/jetty-auth-config-fragment@1.1.17?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-auth-config-fragment@3.1.0
 - pkg:maven/org.ops4j.pax.web.samples/jetty-auth-config-fragment@3.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jetty-auth-config-fragment@3.1.1
+- pkg:maven/org.ops4j.pax.web.samples/jetty-auth-config-fragment@3.1.1?classifier=sources

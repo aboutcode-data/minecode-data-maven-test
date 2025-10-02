@@ -8,3 +8,5 @@
 - pkg:maven/org.keycloak/keycloak-jboss-adapter-core@1.0-alpha-4?classifier=sources
 - pkg:maven/org.keycloak/keycloak-jboss-adapter-core@1.0-alpha-3
 - pkg:maven/org.keycloak/keycloak-jboss-adapter-core@1.0-alpha-3?classifier=sources
+- pkg:maven/org.keycloak/keycloak-jboss-adapter-core@1.0-beta-2
+- pkg:maven/org.keycloak/keycloak-jboss-adapter-core@1.0-beta-2?classifier=sources
