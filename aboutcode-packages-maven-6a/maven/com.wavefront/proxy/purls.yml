@@ -26,3 +26,9 @@
 - pkg:maven/com.wavefront/proxy@3.14?classifier=sources
 - pkg:maven/com.wavefront/proxy@3.16
 - pkg:maven/com.wavefront/proxy@3.16?classifier=sources
+- pkg:maven/com.wavefront/proxy@3.19
+- pkg:maven/com.wavefront/proxy@3.19?classifier=sources
+- pkg:maven/com.wavefront/proxy@3.18
+- pkg:maven/com.wavefront/proxy@3.18?classifier=sources
+- pkg:maven/com.wavefront/proxy@3.17
+- pkg:maven/com.wavefront/proxy@3.17?classifier=sources

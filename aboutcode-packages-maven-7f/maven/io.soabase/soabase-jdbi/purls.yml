@@ -34,3 +34,5 @@
 - pkg:maven/io.soabase/soabase-jdbi@0.10.0?classifier=sources
 - pkg:maven/io.soabase/soabase-jdbi@0.10.2
 - pkg:maven/io.soabase/soabase-jdbi@0.10.2?classifier=sources
+- pkg:maven/io.soabase/soabase-jdbi@0.10.3
+- pkg:maven/io.soabase/soabase-jdbi@0.10.3?classifier=sources
