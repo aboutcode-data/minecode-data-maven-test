@@ -6,3 +6,5 @@
 - pkg:maven/org.joda/joda-beans@0.6.2?classifier=sources
 - pkg:maven/org.joda/joda-beans@0.7
 - pkg:maven/org.joda/joda-beans@0.7?classifier=sources
+- pkg:maven/org.joda/joda-beans@0.7.1
+- pkg:maven/org.joda/joda-beans@0.7.1?classifier=sources

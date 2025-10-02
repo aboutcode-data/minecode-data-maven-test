@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.tycho/sisu-equinox-launching@0.17.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/sisu-equinox-launching@0.18.0
 - pkg:maven/org.eclipse.tycho/sisu-equinox-launching@0.18.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/sisu-equinox-launching@0.18.1
+- pkg:maven/org.eclipse.tycho/sisu-equinox-launching@0.18.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.jogamp.gluegen/gluegen-rt-main@2.0-rc11?classifier=sources
 - pkg:maven/org.jogamp.gluegen/gluegen-rt-main@2.0.2-rc12
 - pkg:maven/org.jogamp.gluegen/gluegen-rt-main@2.0.2-rc12?classifier=sources
+- pkg:maven/org.jogamp.gluegen/gluegen-rt-main@2.0.2
+- pkg:maven/org.jogamp.gluegen/gluegen-rt-main@2.0.2?classifier=sources
