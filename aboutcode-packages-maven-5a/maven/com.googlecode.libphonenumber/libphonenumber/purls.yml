@@ -40,3 +40,5 @@
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@4.9?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.0
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.0?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.1
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.1?classifier=sources

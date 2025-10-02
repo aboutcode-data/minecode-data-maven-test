@@ -3,3 +3,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.2-dev1_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.2-dev1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.3_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.3_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hamcrest@1.3_1?classifier=sources

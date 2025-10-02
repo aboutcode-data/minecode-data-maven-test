@@ -92,3 +92,7 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-dump@8.1.6.v20120903?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.6.v20120903?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.6.v20120903?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@8.1.7.v20120910?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@8.1.7.v20120910?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.7.v20120910?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-dump@7.6.7.v20120910?classifier=sources
