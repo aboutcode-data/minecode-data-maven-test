@@ -28,3 +28,5 @@
 - pkg:maven/com.orientechnologies/orientdb-server@1.6.3?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-server@1.6.4
 - pkg:maven/com.orientechnologies/orientdb-server@1.6.4?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-server@1.7-rc1
+- pkg:maven/com.orientechnologies/orientdb-server@1.7-rc1?classifier=sources

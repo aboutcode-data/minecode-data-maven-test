@@ -138,3 +138,5 @@
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-http@1.11.2?classifier=sources
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-http@1.18
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-http@1.18?classifier=sources
+- pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-http@1.18.1
+- pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-http@1.18.1?classifier=sources

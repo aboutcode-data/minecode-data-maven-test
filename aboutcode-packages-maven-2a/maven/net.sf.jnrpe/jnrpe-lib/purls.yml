@@ -28,3 +28,5 @@
 - pkg:maven/net.sf.jnrpe/jnrpe-lib@1.0.1-RC3?classifier=sources
 - pkg:maven/net.sf.jnrpe/jnrpe-lib@1.0.1-RC5
 - pkg:maven/net.sf.jnrpe/jnrpe-lib@1.0.1-RC5?classifier=sources
+- pkg:maven/net.sf.jnrpe/jnrpe-lib@2.0.3
+- pkg:maven/net.sf.jnrpe/jnrpe-lib@2.0.3?classifier=sources
