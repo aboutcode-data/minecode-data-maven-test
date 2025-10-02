@@ -40,3 +40,5 @@
 - pkg:maven/org.finra.herd/herd-downloader@0.45.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-downloader@0.47.0
 - pkg:maven/org.finra.herd/herd-downloader@0.47.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-downloader@0.48.0
+- pkg:maven/org.finra.herd/herd-downloader@0.48.0?classifier=sources
