@@ -90,3 +90,5 @@
 - pkg:maven/org.threadly/threadly@4.6.1?classifier=sources
 - pkg:maven/org.threadly/threadly@4.6.0
 - pkg:maven/org.threadly/threadly@4.6.0?classifier=sources
+- pkg:maven/org.threadly/threadly@4.6.2
+- pkg:maven/org.threadly/threadly@4.6.2?classifier=sources

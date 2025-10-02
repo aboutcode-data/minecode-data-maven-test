@@ -174,3 +174,5 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@7.6.19.v20160209?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.16.v20160414
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.16.v20160414?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.17.v20160517
+- pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.17.v20160517?classifier=sources

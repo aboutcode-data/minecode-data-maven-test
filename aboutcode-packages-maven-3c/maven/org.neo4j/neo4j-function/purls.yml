@@ -18,3 +18,5 @@
 - pkg:maven/org.neo4j/neo4j-function@3.0.0-M03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-function@2.3.3
 - pkg:maven/org.neo4j/neo4j-function@2.3.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-function@2.3.4
+- pkg:maven/org.neo4j/neo4j-function@2.3.4?classifier=sources

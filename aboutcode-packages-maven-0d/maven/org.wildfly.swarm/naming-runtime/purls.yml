@@ -18,3 +18,5 @@
 - pkg:maven/org.wildfly.swarm/naming-runtime@1.0.0.Beta6?classifier=sources
 - pkg:maven/org.wildfly.swarm/naming-runtime@1.0.0.Beta7
 - pkg:maven/org.wildfly.swarm/naming-runtime@1.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly.swarm/naming-runtime@1.0.0.CR1
+- pkg:maven/org.wildfly.swarm/naming-runtime@1.0.0.CR1?classifier=sources
