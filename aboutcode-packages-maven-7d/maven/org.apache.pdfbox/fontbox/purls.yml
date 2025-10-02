@@ -43,3 +43,5 @@
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.10?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.0-RC1
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.pdfbox/fontbox@2.0.0-RC2
+- pkg:maven/org.apache.pdfbox/fontbox@2.0.0-RC2?classifier=sources
