@@ -38,3 +38,5 @@
 - pkg:maven/org.datanucleus/datanucleus-spatial@1.0.2
 - pkg:maven/org.datanucleus/datanucleus-spatial@1.0.2?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-spatial@1.0.1
+- pkg:maven/org.datanucleus/datanucleus-spatial@3.1.0-m1
+- pkg:maven/org.datanucleus/datanucleus-spatial@3.1.0-m1?classifier=sources

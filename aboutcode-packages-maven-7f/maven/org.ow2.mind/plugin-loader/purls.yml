@@ -20,3 +20,5 @@
 - pkg:maven/org.ow2.mind/plugin-loader@0.2?classifier=sources
 - pkg:maven/org.ow2.mind/plugin-loader@1.0
 - pkg:maven/org.ow2.mind/plugin-loader@1.0?classifier=sources
+- pkg:maven/org.ow2.mind/plugin-loader@1.0.1
+- pkg:maven/org.ow2.mind/plugin-loader@1.0.1?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.0.5?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.0.6
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.0.6?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.1-RC1
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.1-RC1?classifier=sources

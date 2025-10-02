@@ -52,3 +52,7 @@
 - pkg:maven/org.jclouds.driver/jclouds-slf4j@1.4.1?classifier=sources
 - pkg:maven/org.jclouds.driver/jclouds-slf4j@1.5.0-beta.5
 - pkg:maven/org.jclouds.driver/jclouds-slf4j@1.5.0-beta.5?classifier=sources
+- pkg:maven/org.jclouds.driver/jclouds-slf4j@1.5.0-beta.6
+- pkg:maven/org.jclouds.driver/jclouds-slf4j@1.5.0-beta.6?classifier=sources
+- pkg:maven/org.jclouds.driver/jclouds-slf4j@1.4.2
+- pkg:maven/org.jclouds.driver/jclouds-slf4j@1.4.2?classifier=sources

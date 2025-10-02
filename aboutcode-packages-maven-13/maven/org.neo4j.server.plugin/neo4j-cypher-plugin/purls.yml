@@ -10,3 +10,5 @@
 - pkg:maven/org.neo4j.server.plugin/neo4j-cypher-plugin@1.7.2?classifier=sources
 - pkg:maven/org.neo4j.server.plugin/neo4j-cypher-plugin@1.8.M05
 - pkg:maven/org.neo4j.server.plugin/neo4j-cypher-plugin@1.8.M05?classifier=sources
+- pkg:maven/org.neo4j.server.plugin/neo4j-cypher-plugin@1.8.M06
+- pkg:maven/org.neo4j.server.plugin/neo4j-cypher-plugin@1.8.M06?classifier=sources
