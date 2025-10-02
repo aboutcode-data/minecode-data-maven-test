@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hdfs@0.3.0-incubating?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hdfs@0.4.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hdfs@0.4.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hdfs@0.5.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hdfs@0.5.0?classifier=sources

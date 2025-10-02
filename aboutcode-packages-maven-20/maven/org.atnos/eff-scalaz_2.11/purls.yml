@@ -38,3 +38,7 @@
 - pkg:maven/org.atnos/eff-scalaz_2.11@2.2.0?classifier=sources
 - pkg:maven/org.atnos/eff-scalaz_2.11@2.1.0
 - pkg:maven/org.atnos/eff-scalaz_2.11@2.1.0?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_2.11@3.0.0
+- pkg:maven/org.atnos/eff-scalaz_2.11@3.0.0?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_2.11@2.3.0-20170202163110-06044f4
+- pkg:maven/org.atnos/eff-scalaz_2.11@2.3.0-20170202163110-06044f4?classifier=sources

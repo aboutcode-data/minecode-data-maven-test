@@ -30,3 +30,5 @@
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-dmn@7.6.0-alpha6?classifier=sources
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-dmn@7.6.0
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-dmn@7.6.0?classifier=sources
+- pkg:maven/org.camunda.bpm.dmn/camunda-engine-dmn@7.7.0-alpha1
+- pkg:maven/org.camunda.bpm.dmn/camunda-engine-dmn@7.7.0-alpha1?classifier=sources
