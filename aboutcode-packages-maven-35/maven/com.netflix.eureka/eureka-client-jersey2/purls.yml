@@ -60,3 +60,5 @@
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.4.7?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.4.8
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.4.8?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.4.9-rc.1
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.4.9-rc.1?classifier=sources

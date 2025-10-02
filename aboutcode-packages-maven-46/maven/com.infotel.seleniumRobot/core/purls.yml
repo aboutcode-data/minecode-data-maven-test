@@ -1,2 +1,4 @@
 - pkg:maven/com.infotel.seleniumRobot/core@1.2.0?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@1.2.0?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@2.0.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@2.0.0?classifier=sources
