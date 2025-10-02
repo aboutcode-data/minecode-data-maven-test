@@ -6,3 +6,5 @@
 - pkg:maven/org.codehaus.sonar-plugins.css/css-checks-testkit@2.3?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.css/css-checks-testkit@2.4
 - pkg:maven/org.codehaus.sonar-plugins.css/css-checks-testkit@2.4?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks-testkit@3.0
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks-testkit@3.0?classifier=sources

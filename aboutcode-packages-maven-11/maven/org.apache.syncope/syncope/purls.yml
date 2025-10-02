@@ -25,3 +25,5 @@
 - pkg:maven/org.apache.syncope/syncope@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@1.2.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope@1.2.10?classifier=source-release&type=zip

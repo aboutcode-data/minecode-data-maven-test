@@ -45,3 +45,5 @@
 - pkg:maven/org.apache.maven.wagon/wagon-ssh@2.9?classifier=sources
 - pkg:maven/org.apache.maven.wagon/wagon-ssh@2.10
 - pkg:maven/org.apache.maven.wagon/wagon-ssh@2.10?classifier=sources
+- pkg:maven/org.apache.maven.wagon/wagon-ssh@2.12
+- pkg:maven/org.apache.maven.wagon/wagon-ssh@2.12?classifier=sources

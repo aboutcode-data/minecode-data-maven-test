@@ -34,3 +34,5 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@2.0.0.M10?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@2.0.0.M1
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@2.0.0.M1?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@2.3.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@2.3.0.RELEASE?classifier=sources

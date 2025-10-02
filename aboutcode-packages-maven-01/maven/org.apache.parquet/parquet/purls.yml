@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.parquet/parquet@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.parquet/parquet@1.8.2?classifier=source-release&type=zip
