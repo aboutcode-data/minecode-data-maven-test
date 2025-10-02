@@ -10,3 +10,5 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-compat-tomcat@1.0.14.vaadin2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-compat-tomcat@1.0.14.vaadin4
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-compat-tomcat@1.0.14.vaadin4?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-compat-tomcat@2.0.1-vaadin1
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-compat-tomcat@2.0.1-vaadin1?classifier=sources

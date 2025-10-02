@@ -7,3 +7,5 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-package@0.2
 - pkg:maven/org.grouplens.lenskit/lenskit-package@0.1
 - pkg:maven/org.grouplens.lenskit/lenskit-package@0.0.3
+- pkg:maven/org.grouplens.lenskit/lenskit-package@2.0.3
+- pkg:maven/org.grouplens.lenskit/lenskit-package@2.0.3?classifier=sources

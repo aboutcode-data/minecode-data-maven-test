@@ -166,3 +166,5 @@
 - pkg:maven/org.hornetq/hornetq-bootstrap@2.3.6.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-bootstrap@2.4.0.Beta2
 - pkg:maven/org.hornetq/hornetq-bootstrap@2.4.0.Beta2?classifier=sources
+- pkg:maven/org.hornetq/hornetq-bootstrap@2.3.9.Final
+- pkg:maven/org.hornetq/hornetq-bootstrap@2.3.9.Final?classifier=sources
