@@ -122,3 +122,7 @@
 - pkg:maven/org.infinispan/infinispan-embedded-query@9.0.0.CR2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-embedded-query@9.0.0.CR3
 - pkg:maven/org.infinispan/infinispan-embedded-query@9.0.0.CR3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-embedded-query@9.0.0.CR4
+- pkg:maven/org.infinispan/infinispan-embedded-query@9.0.0.CR4?classifier=sources
+- pkg:maven/org.infinispan/infinispan-embedded-query@8.1.8.Final
+- pkg:maven/org.infinispan/infinispan-embedded-query@8.1.8.Final?classifier=sources
