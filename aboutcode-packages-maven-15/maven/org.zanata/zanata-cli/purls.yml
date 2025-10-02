@@ -40,3 +40,5 @@
 - pkg:maven/org.zanata/zanata-cli@3.7.4?classifier=sources
 - pkg:maven/org.zanata/zanata-cli@3.8.0
 - pkg:maven/org.zanata/zanata-cli@3.8.0?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@3.8.1
+- pkg:maven/org.zanata/zanata-cli@3.8.1?classifier=sources

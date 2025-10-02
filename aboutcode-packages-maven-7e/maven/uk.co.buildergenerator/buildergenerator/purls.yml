@@ -38,3 +38,7 @@
 - pkg:maven/uk.co.buildergenerator/buildergenerator@0.0.20?classifier=sources
 - pkg:maven/uk.co.buildergenerator/buildergenerator@0.0.21
 - pkg:maven/uk.co.buildergenerator/buildergenerator@0.0.21?classifier=sources
+- pkg:maven/uk.co.buildergenerator/buildergenerator@1.0.0
+- pkg:maven/uk.co.buildergenerator/buildergenerator@1.0.0?classifier=sources
+- pkg:maven/uk.co.buildergenerator/buildergenerator@0.0.22
+- pkg:maven/uk.co.buildergenerator/buildergenerator@0.0.22?classifier=sources
