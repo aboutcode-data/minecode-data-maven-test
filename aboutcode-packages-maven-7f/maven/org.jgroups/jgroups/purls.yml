@@ -260,3 +260,5 @@
 - pkg:maven/org.jgroups/jgroups@3.6.9.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@3.2.16.Final
 - pkg:maven/org.jgroups/jgroups@3.2.16.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.6.10.Final
+- pkg:maven/org.jgroups/jgroups@3.6.10.Final?classifier=sources
