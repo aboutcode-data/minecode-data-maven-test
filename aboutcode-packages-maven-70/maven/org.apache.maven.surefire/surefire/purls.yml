@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.maven.surefire/surefire@2.12.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.surefire/surefire@2.12.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.surefire/surefire@2.13?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.surefire/surefire@2.14?classifier=source-release&type=zip
