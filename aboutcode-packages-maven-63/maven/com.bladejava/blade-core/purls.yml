@@ -10,3 +10,7 @@
 - pkg:maven/com.bladejava/blade-core@1.2.2?classifier=sources
 - pkg:maven/com.bladejava/blade-core@1.2.4
 - pkg:maven/com.bladejava/blade-core@1.2.4?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.2.5-beta
+- pkg:maven/com.bladejava/blade-core@1.2.5-beta?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.2.5-alpha
+- pkg:maven/com.bladejava/blade-core@1.2.5-alpha?classifier=sources
