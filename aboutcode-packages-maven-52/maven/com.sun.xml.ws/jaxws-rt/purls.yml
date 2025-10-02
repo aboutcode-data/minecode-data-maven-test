@@ -151,3 +151,5 @@
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-1?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-2
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-2?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.7-promoted-b73
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.7-promoted-b73?classifier=sources

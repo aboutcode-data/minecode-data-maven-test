@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.wookie/wookie@0.9.1-incubating?classifier=sources
 - pkg:maven/org.apache.wookie/wookie@0.9.2-incubating?type=war
 - pkg:maven/org.apache.wookie/wookie@0.9.2-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie@0.10.0-incubating?type=war
+- pkg:maven/org.apache.wookie/wookie@0.10.0-incubating?classifier=sources

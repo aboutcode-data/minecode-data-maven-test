@@ -1,2 +1,4 @@
 - pkg:maven/com.tinkerpop.rexster/rexster-server@0.8
 - pkg:maven/com.tinkerpop.rexster/rexster-server@0.8?classifier=sources
+- pkg:maven/com.tinkerpop.rexster/rexster-server@2.0.0
+- pkg:maven/com.tinkerpop.rexster/rexster-server@2.0.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.openengsb.labs.paxexam.karaf/paxexam-karaf-container@0.5.2?classifier=sources
 - pkg:maven/org.openengsb.labs.paxexam.karaf/paxexam-karaf-container@0.5.3
 - pkg:maven/org.openengsb.labs.paxexam.karaf/paxexam-karaf-container@0.5.3?classifier=sources
+- pkg:maven/org.openengsb.labs.paxexam.karaf/paxexam-karaf-container@1.0.0
+- pkg:maven/org.openengsb.labs.paxexam.karaf/paxexam-karaf-container@1.0.0?classifier=sources

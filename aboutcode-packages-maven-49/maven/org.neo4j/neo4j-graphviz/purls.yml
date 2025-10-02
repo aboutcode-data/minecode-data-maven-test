@@ -34,3 +34,5 @@
 - pkg:maven/org.neo4j/neo4j-graphviz@1.8.M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graphviz@1.8.M02
 - pkg:maven/org.neo4j/neo4j-graphviz@1.8.M02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graphviz@1.5.3
+- pkg:maven/org.neo4j/neo4j-graphviz@1.5.3?classifier=sources
