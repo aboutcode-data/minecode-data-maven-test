@@ -1,0 +1,4 @@
+- pkg:maven/org.sosy-lab/java-smt@0.4
+- pkg:maven/org.sosy-lab/java-smt@0.4?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@0.3-121-g8371696
+- pkg:maven/org.sosy-lab/java-smt@0.3-121-g8371696?classifier=sources

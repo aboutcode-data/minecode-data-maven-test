@@ -42,3 +42,5 @@
 - pkg:maven/org.tobarsegais/tobar-segais-webapp@1.11?classifier=sources
 - pkg:maven/org.tobarsegais/tobar-segais-webapp@1.10?type=war
 - pkg:maven/org.tobarsegais/tobar-segais-webapp@1.10?classifier=sources
+- pkg:maven/org.tobarsegais/tobar-segais-webapp@1.16?type=war
+- pkg:maven/org.tobarsegais/tobar-segais-webapp@1.16?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.10
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.10?classifier=sources
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.11-RC1
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.11-RC1?classifier=sources

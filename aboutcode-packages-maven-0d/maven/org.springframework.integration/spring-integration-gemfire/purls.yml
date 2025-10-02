@@ -92,3 +92,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-gemfire@4.1.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-gemfire@2.2.7.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-gemfire@2.2.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-gemfire@4.2.5.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-gemfire@4.2.5.RELEASE?classifier=sources

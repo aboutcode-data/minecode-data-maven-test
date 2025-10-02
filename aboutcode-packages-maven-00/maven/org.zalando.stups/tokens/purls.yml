@@ -38,3 +38,11 @@
 - pkg:maven/org.zalando.stups/tokens@0.9.8?classifier=sources
 - pkg:maven/org.zalando.stups/tokens@0.9.7
 - pkg:maven/org.zalando.stups/tokens@0.9.7?classifier=sources
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC4
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC4?classifier=sources
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC3
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC3?classifier=sources
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC2
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC2?classifier=sources
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC1
+- pkg:maven/org.zalando.stups/tokens@0.9.9-RC1?classifier=sources
