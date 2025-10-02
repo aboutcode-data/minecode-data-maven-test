@@ -8,3 +8,5 @@
 - pkg:maven/org.cloudera.htrace/htrace-core@2.02?classifier=sources
 - pkg:maven/org.cloudera.htrace/htrace-core@2.04
 - pkg:maven/org.cloudera.htrace/htrace-core@2.04?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-core@2.05
+- pkg:maven/org.cloudera.htrace/htrace-core@2.05?classifier=sources

@@ -230,3 +230,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-batch@3.7.4?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-batch@4.1-RC4
 - pkg:maven/org.codehaus.sonar/sonar-batch@4.1-RC4?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-batch@4.1
+- pkg:maven/org.codehaus.sonar/sonar-batch@4.1?classifier=sources
