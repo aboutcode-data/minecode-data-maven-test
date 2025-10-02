@@ -66,3 +66,7 @@
 - pkg:maven/org.hibernate/hibernate-search-engine@5.0.0.Alpha2?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.0.0.Alpha3
 - pkg:maven/org.hibernate/hibernate-search-engine@5.0.0.Alpha3?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-engine@4.5.1.Final
+- pkg:maven/org.hibernate/hibernate-search-engine@4.5.1.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-engine@4.4.3.Final
+- pkg:maven/org.hibernate/hibernate-search-engine@4.4.3.Final?classifier=sources
