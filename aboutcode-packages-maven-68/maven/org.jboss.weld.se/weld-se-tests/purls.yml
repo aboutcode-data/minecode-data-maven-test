@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.weld.se/weld-se-tests@2.3.3.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-tests@2.3.4.Final
 - pkg:maven/org.jboss.weld.se/weld-se-tests@2.3.4.Final?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-tests@3.0.0.Alpha16
+- pkg:maven/org.jboss.weld.se/weld-se-tests@3.0.0.Alpha16?classifier=sources

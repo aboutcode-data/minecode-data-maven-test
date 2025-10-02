@@ -38,3 +38,5 @@
 - pkg:maven/org.jmockit/jmockit-coverage@1.21?classifier=sources
 - pkg:maven/org.jmockit/jmockit-coverage@1.22
 - pkg:maven/org.jmockit/jmockit-coverage@1.22?classifier=sources
+- pkg:maven/org.jmockit/jmockit-coverage@1.23
+- pkg:maven/org.jmockit/jmockit-coverage@1.23?classifier=sources

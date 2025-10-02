@@ -1,2 +1,4 @@
 - pkg:maven/org.objectstyle.graphql.bootique/graphql-bootique@0.1
 - pkg:maven/org.objectstyle.graphql.bootique/graphql-bootique@0.1?classifier=sources
+- pkg:maven/org.objectstyle.graphql.bootique/graphql-bootique@0.2
+- pkg:maven/org.objectstyle.graphql.bootique/graphql-bootique@0.2?classifier=sources
