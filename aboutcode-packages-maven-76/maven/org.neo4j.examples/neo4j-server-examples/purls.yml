@@ -72,3 +72,7 @@
 - pkg:maven/org.neo4j.examples/neo4j-server-examples@1.9.7?classifier=sources
 - pkg:maven/org.neo4j.examples/neo4j-server-examples@2.0.2
 - pkg:maven/org.neo4j.examples/neo4j-server-examples@2.0.2?classifier=sources
+- pkg:maven/org.neo4j.examples/neo4j-server-examples@2.1.0-M02
+- pkg:maven/org.neo4j.examples/neo4j-server-examples@2.1.0-M02?classifier=sources
+- pkg:maven/org.neo4j.examples/neo4j-server-examples@2.0.3
+- pkg:maven/org.neo4j.examples/neo4j-server-examples@2.0.3?classifier=sources

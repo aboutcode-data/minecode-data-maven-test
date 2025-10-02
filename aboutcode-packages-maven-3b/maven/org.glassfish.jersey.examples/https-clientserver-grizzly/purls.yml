@@ -77,3 +77,6 @@
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.7
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.7?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.8
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.8?classifier=project-src&type=zip
