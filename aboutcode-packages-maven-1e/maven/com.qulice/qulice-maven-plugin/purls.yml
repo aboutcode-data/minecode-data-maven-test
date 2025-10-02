@@ -24,3 +24,5 @@
 - pkg:maven/com.qulice/qulice-maven-plugin@0.2.1?classifier=sources
 - pkg:maven/com.qulice/qulice-maven-plugin@0.2
 - pkg:maven/com.qulice/qulice-maven-plugin@0.2?classifier=sources
+- pkg:maven/com.qulice/qulice-maven-plugin@0.2.2
+- pkg:maven/com.qulice/qulice-maven-plugin@0.2.2?classifier=sources

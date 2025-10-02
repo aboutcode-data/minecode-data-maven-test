@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.wicket/wicket-request@6.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@1.5.9
 - pkg:maven/org.apache.wicket/wicket-request@1.5.9?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@6.3.0
+- pkg:maven/org.apache.wicket/wicket-request@6.3.0?classifier=sources

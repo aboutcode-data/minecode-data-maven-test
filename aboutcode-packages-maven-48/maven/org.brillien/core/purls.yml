@@ -6,3 +6,5 @@
 - pkg:maven/org.brillien/core@12.01?classifier=sources
 - pkg:maven/org.brillien/core@12.05
 - pkg:maven/org.brillien/core@12.05?classifier=sources
+- pkg:maven/org.brillien/core@12.10
+- pkg:maven/org.brillien/core@12.10?classifier=sources
