@@ -12,3 +12,5 @@
 - pkg:maven/com.dorkbox/Network@1.13?classifier=sources
 - pkg:maven/com.dorkbox/Network@1.12
 - pkg:maven/com.dorkbox/Network@1.12?classifier=sources
+- pkg:maven/com.dorkbox/Network@1.17
+- pkg:maven/com.dorkbox/Network@1.17?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.couchbase.client/kafka-connector@1.2.0?classifier=sources
 - pkg:maven/com.couchbase.client/kafka-connector@1.2.1
 - pkg:maven/com.couchbase.client/kafka-connector@1.2.1?classifier=sources
+- pkg:maven/com.couchbase.client/kafka-connector@2.0.0
+- pkg:maven/com.couchbase.client/kafka-connector@2.0.0?classifier=sources

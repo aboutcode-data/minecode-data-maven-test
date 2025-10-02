@@ -118,3 +118,5 @@
 - pkg:maven/com.codeborne/selenide@3.4?classifier=sources
 - pkg:maven/com.codeborne/selenide@1.7.3
 - pkg:maven/com.codeborne/selenide@1.7.3?classifier=sources
+- pkg:maven/com.codeborne/selenide@3.5
+- pkg:maven/com.codeborne/selenide@3.5?classifier=sources

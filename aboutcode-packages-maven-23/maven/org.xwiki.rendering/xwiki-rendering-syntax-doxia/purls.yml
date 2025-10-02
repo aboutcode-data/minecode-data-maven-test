@@ -292,3 +292,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@6.4.8?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@8.0
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@8.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@8.1-milestone-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@8.1-milestone-1?classifier=sources
