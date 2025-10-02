@@ -16,3 +16,5 @@
 - pkg:maven/com.imojiapp/imoji-sdk@0.7.1?classifier=sources
 - pkg:maven/com.imojiapp/imoji-sdk@0.7.0?type=aar
 - pkg:maven/com.imojiapp/imoji-sdk@0.7.0?classifier=sources
+- pkg:maven/com.imojiapp/imoji-sdk@0.7.3?type=aar
+- pkg:maven/com.imojiapp/imoji-sdk@0.7.3?classifier=sources

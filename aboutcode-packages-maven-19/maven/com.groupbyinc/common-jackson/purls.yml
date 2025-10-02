@@ -20,3 +20,5 @@
 - pkg:maven/com.groupbyinc/common-jackson@29?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@28
 - pkg:maven/com.groupbyinc/common-jackson@28?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@30
+- pkg:maven/com.groupbyinc/common-jackson@30?classifier=sources

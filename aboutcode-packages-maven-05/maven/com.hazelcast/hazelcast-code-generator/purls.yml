@@ -8,3 +8,5 @@
 - pkg:maven/com.hazelcast/hazelcast-code-generator@3.5.2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-code-generator@3.5.3
 - pkg:maven/com.hazelcast/hazelcast-code-generator@3.5.3?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-code-generator@3.6-EA
+- pkg:maven/com.hazelcast/hazelcast-code-generator@3.6-EA?classifier=sources

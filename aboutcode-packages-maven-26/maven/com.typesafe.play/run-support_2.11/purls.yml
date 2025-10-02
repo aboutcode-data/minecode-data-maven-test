@@ -24,3 +24,5 @@
 - pkg:maven/com.typesafe.play/run-support_2.11@2.3.10?classifier=sources
 - pkg:maven/com.typesafe.play/run-support_2.11@2.4.3
 - pkg:maven/com.typesafe.play/run-support_2.11@2.4.3?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.11@2.5.0-M1
+- pkg:maven/com.typesafe.play/run-support_2.11@2.5.0-M1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.streethawk/core@1.7.0?classifier=sources
 - pkg:maven/com.streethawk/core@1.7.3?type=aar
 - pkg:maven/com.streethawk/core@1.7.3?classifier=sources
+- pkg:maven/com.streethawk/core@1.7.5?type=aar
+- pkg:maven/com.streethawk/core@1.7.5?classifier=sources
