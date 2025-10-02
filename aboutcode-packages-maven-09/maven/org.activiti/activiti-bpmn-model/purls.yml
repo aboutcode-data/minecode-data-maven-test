@@ -18,3 +18,5 @@
 - pkg:maven/org.activiti/activiti-bpmn-model@5.17.0?classifier=sources
 - pkg:maven/org.activiti/activiti-bpmn-model@5.18.0
 - pkg:maven/org.activiti/activiti-bpmn-model@5.18.0?classifier=sources
+- pkg:maven/org.activiti/activiti-bpmn-model@6.0.0.Beta1
+- pkg:maven/org.activiti/activiti-bpmn-model@6.0.0.Beta1?classifier=sources
