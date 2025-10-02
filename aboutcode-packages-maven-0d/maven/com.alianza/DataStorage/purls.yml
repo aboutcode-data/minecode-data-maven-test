@@ -20,3 +20,5 @@
 - pkg:maven/com.alianza/DataStorage@1.11?classifier=sources
 - pkg:maven/com.alianza/DataStorage@1.10
 - pkg:maven/com.alianza/DataStorage@1.10?classifier=sources
+- pkg:maven/com.alianza/DataStorage@1.12
+- pkg:maven/com.alianza/DataStorage@1.12?classifier=sources
