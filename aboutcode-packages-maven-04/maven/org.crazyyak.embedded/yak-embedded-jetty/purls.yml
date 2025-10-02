@@ -16,3 +16,5 @@
 - pkg:maven/org.crazyyak.embedded/yak-embedded-jetty@1.5.4?classifier=sources
 - pkg:maven/org.crazyyak.embedded/yak-embedded-jetty@1.5.8
 - pkg:maven/org.crazyyak.embedded/yak-embedded-jetty@1.5.8?classifier=sources
+- pkg:maven/org.crazyyak.embedded/yak-embedded-jetty@2.0.0
+- pkg:maven/org.crazyyak.embedded/yak-embedded-jetty@2.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.sakaiproject.basiclti/imsblis@2.1.1?classifier=sources
 - pkg:maven/org.sakaiproject.basiclti/imsblis@2.1.2?type=war
 - pkg:maven/org.sakaiproject.basiclti/imsblis@2.1.2?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/imsblis@10.3?type=war
+- pkg:maven/org.sakaiproject.basiclti/imsblis@10.3?classifier=sources

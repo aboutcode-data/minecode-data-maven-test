@@ -72,3 +72,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules@5.13.2?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules@5.12.1.2?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.12.1.2?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.11.4?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.11.4?classifier=sources

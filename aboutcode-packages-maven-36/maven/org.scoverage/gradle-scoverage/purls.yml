@@ -1,0 +1,4 @@
+- pkg:maven/org.scoverage/gradle-scoverage@1.0-5-g9c68988
+- pkg:maven/org.scoverage/gradle-scoverage@1.0-5-g9c68988?classifier=sources
+- pkg:maven/org.scoverage/gradle-scoverage@1.0
+- pkg:maven/org.scoverage/gradle-scoverage@1.0?classifier=sources

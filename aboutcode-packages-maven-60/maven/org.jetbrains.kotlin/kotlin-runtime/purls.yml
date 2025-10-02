@@ -94,3 +94,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.9.976?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.10.4
 - pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.10.4?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.10.195
+- pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.10.195?classifier=sources
