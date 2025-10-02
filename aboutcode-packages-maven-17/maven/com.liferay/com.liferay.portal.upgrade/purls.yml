@@ -34,3 +34,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.upgrade@2.5.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.upgrade@2.4.8
 - pkg:maven/com.liferay/com.liferay.portal.upgrade@2.4.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.upgrade@2.5.2
+- pkg:maven/com.liferay/com.liferay.portal.upgrade@2.5.2?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.google.cloud/google-cloud-trace@0.11.2-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@0.11.1-alpha
 - pkg:maven/com.google.cloud/google-cloud-trace@0.11.1-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@0.13.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-trace@0.13.0-alpha?classifier=sources

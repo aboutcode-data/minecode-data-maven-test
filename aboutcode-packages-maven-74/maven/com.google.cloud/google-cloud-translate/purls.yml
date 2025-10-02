@@ -38,3 +38,5 @@
 - pkg:maven/com.google.cloud/google-cloud-translate@0.11.2-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-translate@0.11.1-beta
 - pkg:maven/com.google.cloud/google-cloud-translate@0.11.1-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@0.13.0-beta
+- pkg:maven/com.google.cloud/google-cloud-translate@0.13.0-beta?classifier=sources
