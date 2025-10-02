@@ -158,3 +158,7 @@
 - pkg:maven/org.datanucleus/datanucleus-api-jdo@5.0.8?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-api-jdo@4.2.5
 - pkg:maven/org.datanucleus/datanucleus-api-jdo@4.2.5?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-api-jdo@5.1.0-m3
+- pkg:maven/org.datanucleus/datanucleus-api-jdo@5.1.0-m3?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-api-jdo@5.0.9
+- pkg:maven/org.datanucleus/datanucleus-api-jdo@5.0.9?classifier=sources
