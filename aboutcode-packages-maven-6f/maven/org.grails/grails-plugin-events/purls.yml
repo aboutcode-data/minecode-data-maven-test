@@ -56,3 +56,5 @@
 - pkg:maven/org.grails/grails-plugin-events@3.0.17?classifier=sources
 - pkg:maven/org.grails/grails-plugin-events@3.1.7
 - pkg:maven/org.grails/grails-plugin-events@3.1.7?classifier=sources
+- pkg:maven/org.grails/grails-plugin-events@3.2.0.M1
+- pkg:maven/org.grails/grails-plugin-events@3.2.0.M1?classifier=sources

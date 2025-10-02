@@ -1,2 +1,4 @@
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@0.9
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@0.9?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@0.10
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@0.10?classifier=sources
