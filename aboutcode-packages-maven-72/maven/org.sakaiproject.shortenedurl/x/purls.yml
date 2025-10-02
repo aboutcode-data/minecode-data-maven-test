@@ -16,3 +16,5 @@
 - pkg:maven/org.sakaiproject.shortenedurl/x@1.1.0-rc03?classifier=sources
 - pkg:maven/org.sakaiproject.shortenedurl/x@1.1.0?type=war
 - pkg:maven/org.sakaiproject.shortenedurl/x@1.1.0?classifier=sources
+- pkg:maven/org.sakaiproject.shortenedurl/x@1.1.1?type=war
+- pkg:maven/org.sakaiproject.shortenedurl/x@1.1.1?classifier=sources
