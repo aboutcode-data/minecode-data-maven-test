@@ -130,3 +130,5 @@
 - pkg:maven/org.cometd/cometd-demo@3.0.7?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@3.0.8?type=war
 - pkg:maven/org.cometd/cometd-demo@3.0.8?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@3.0.9?type=war
+- pkg:maven/org.cometd/cometd-demo@3.0.9?classifier=sources
