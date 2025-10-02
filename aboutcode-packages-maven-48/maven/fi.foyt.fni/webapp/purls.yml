@@ -204,3 +204,5 @@
 - pkg:maven/fi.foyt.fni/webapp@3.3.3?classifier=sources
 - pkg:maven/fi.foyt.fni/webapp@3.3.2?type=war
 - pkg:maven/fi.foyt.fni/webapp@3.3.2?classifier=sources
+- pkg:maven/fi.foyt.fni/webapp@3.3.4?type=war
+- pkg:maven/fi.foyt.fni/webapp@3.3.4?classifier=sources
