@@ -170,3 +170,5 @@
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.7?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.8
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.8?classifier=sources
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.8.1
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.8.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.mycila/license-maven-plugin-svn@2.11
 - pkg:maven/com.mycila/license-maven-plugin-svn@2.11?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin-svn@3.0.rc1
+- pkg:maven/com.mycila/license-maven-plugin-svn@3.0.rc1?classifier=sources
