@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.0-m13?type=war
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.0-m13?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.0-m13-1?type=war
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.0-m13-1?classifier=sources

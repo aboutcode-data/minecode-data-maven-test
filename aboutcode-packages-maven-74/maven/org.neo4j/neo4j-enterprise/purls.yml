@@ -86,3 +86,5 @@
 - pkg:maven/org.neo4j/neo4j-enterprise@1.9.M04?classifier=sources
 - pkg:maven/org.neo4j/neo4j-enterprise@1.8.2
 - pkg:maven/org.neo4j/neo4j-enterprise@1.8.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-enterprise@1.9.M05
+- pkg:maven/org.neo4j/neo4j-enterprise@1.9.M05?classifier=sources

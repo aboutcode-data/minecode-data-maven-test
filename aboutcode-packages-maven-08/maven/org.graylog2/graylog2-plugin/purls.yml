@@ -42,3 +42,5 @@
 - pkg:maven/org.graylog2/graylog2-plugin@0.10.12?classifier=sources
 - pkg:maven/org.graylog2/graylog2-plugin@0.10.13
 - pkg:maven/org.graylog2/graylog2-plugin@0.10.13?classifier=sources
+- pkg:maven/org.graylog2/graylog2-plugin@0.10.14
+- pkg:maven/org.graylog2/graylog2-plugin@0.10.14?classifier=sources
