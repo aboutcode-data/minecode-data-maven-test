@@ -178,3 +178,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@2.29.7?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@2.29.6
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@2.29.6?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@feature-496-docker-extensions-a60bb31
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@feature-496-docker-extensions-a60bb31?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@2.29.9
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-general@2.29.9?classifier=sources

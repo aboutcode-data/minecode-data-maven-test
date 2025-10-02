@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.activemq/activemq-all@5.14.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-all@5.13.5
 - pkg:maven/org.apache.activemq/activemq-all@5.13.5?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-all@5.14.4
+- pkg:maven/org.apache.activemq/activemq-all@5.14.4?classifier=sources

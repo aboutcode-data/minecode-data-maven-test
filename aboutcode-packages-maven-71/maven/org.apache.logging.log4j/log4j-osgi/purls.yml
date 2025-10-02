@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8.1
+- pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8.1?classifier=sources
