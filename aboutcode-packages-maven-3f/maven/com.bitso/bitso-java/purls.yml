@@ -24,3 +24,5 @@
 - pkg:maven/com.bitso/bitso-java@0.0.19?classifier=sources
 - pkg:maven/com.bitso/bitso-java@0.0.17
 - pkg:maven/com.bitso/bitso-java@0.0.17?classifier=sources
+- pkg:maven/com.bitso/bitso-java@0.0.24
+- pkg:maven/com.bitso/bitso-java@0.0.24?classifier=sources

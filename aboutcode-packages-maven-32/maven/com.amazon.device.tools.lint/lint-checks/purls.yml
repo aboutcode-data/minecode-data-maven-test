@@ -50,3 +50,5 @@
 - pkg:maven/com.amazon.device.tools.lint/lint-checks@24.1.3?classifier=sources
 - pkg:maven/com.amazon.device.tools.lint/lint-checks@24.1.2
 - pkg:maven/com.amazon.device.tools.lint/lint-checks@24.1.2?classifier=sources
+- pkg:maven/com.amazon.device.tools.lint/lint-checks@24.3.1
+- pkg:maven/com.amazon.device.tools.lint/lint-checks@24.3.1?classifier=sources
