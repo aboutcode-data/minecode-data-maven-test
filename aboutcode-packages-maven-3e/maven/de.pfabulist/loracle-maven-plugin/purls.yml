@@ -28,3 +28,5 @@
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.11?classifier=sources
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.11.2
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.11.2?classifier=sources
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.13
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.13?classifier=sources
