@@ -142,3 +142,5 @@
 - pkg:maven/org.atmosphere/atmosphere-redis@1.0.19?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-redis@2.3.0-RC3
 - pkg:maven/org.atmosphere/atmosphere-redis@2.3.0-RC3?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-redis@2.3.0-RC4
+- pkg:maven/org.atmosphere/atmosphere-redis@2.3.0-RC4?classifier=sources

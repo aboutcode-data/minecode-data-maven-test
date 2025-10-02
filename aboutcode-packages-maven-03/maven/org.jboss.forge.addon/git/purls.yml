@@ -48,3 +48,5 @@
 - pkg:maven/org.jboss.forge.addon/git@2.14.0.Final?classifier=sources
 - pkg:maven/org.jboss.forge.addon/git@2.15.0.Final
 - pkg:maven/org.jboss.forge.addon/git@2.15.0.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/git@2.15.1.Final
+- pkg:maven/org.jboss.forge.addon/git@2.15.1.Final?classifier=sources
