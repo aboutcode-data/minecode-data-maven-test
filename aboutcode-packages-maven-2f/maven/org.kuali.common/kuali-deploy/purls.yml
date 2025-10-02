@@ -206,3 +206,5 @@
 - pkg:maven/org.kuali.common/kuali-deploy@2.3.1?classifier=sources
 - pkg:maven/org.kuali.common/kuali-deploy@2.3.0
 - pkg:maven/org.kuali.common/kuali-deploy@2.3.0?classifier=sources
+- pkg:maven/org.kuali.common/kuali-deploy@3.0.0
+- pkg:maven/org.kuali.common/kuali-deploy@3.0.0?classifier=sources

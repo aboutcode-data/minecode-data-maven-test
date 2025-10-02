@@ -4,3 +4,5 @@
 - pkg:maven/com.github.davidcarboni/webulizor@0.6.4?classifier=sources
 - pkg:maven/com.github.davidcarboni/webulizor@0.6.6?type=war
 - pkg:maven/com.github.davidcarboni/webulizor@0.6.6?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.1?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.1?classifier=sources
