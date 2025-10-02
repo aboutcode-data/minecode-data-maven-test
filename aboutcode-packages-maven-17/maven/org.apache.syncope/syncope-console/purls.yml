@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.syncope/syncope-console@1.0.0-RC1-incubating?classifier=sources
 - pkg:maven/org.apache.syncope/syncope-console@1.0.0-RC2-incubating?type=war
 - pkg:maven/org.apache.syncope/syncope-console@1.0.0-RC2-incubating?classifier=sources
+- pkg:maven/org.apache.syncope/syncope-console@1.0.0-RC3-incubating?type=war
+- pkg:maven/org.apache.syncope/syncope-console@1.0.0-RC3-incubating?classifier=sources

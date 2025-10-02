@@ -66,3 +66,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-wicket-clock@1.0.0.beta3?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-wicket-clock@1.0.0.beta4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-wicket-clock@1.0.0.beta4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-wicket-clock@1.0.0.beta5?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-wicket-clock@1.0.0.beta5?classifier=sources

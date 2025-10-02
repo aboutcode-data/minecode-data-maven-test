@@ -102,3 +102,5 @@
 - pkg:maven/org.glassfish.metro/wsmc-impl@2.2.1-b144?classifier=sources
 - pkg:maven/org.glassfish.metro/wsmc-impl@2.2.0-1
 - pkg:maven/org.glassfish.metro/wsmc-impl@2.2.0-1?classifier=sources
+- pkg:maven/org.glassfish.metro/wsmc-impl@2.3-b24
+- pkg:maven/org.glassfish.metro/wsmc-impl@2.3-b24?classifier=sources

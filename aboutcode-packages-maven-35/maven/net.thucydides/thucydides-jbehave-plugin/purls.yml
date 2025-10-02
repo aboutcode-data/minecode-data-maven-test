@@ -20,3 +20,5 @@
 - pkg:maven/net.thucydides/thucydides-jbehave-plugin@0.9.0-RC1?classifier=sources
 - pkg:maven/net.thucydides/thucydides-jbehave-plugin@0.9.0-RC4
 - pkg:maven/net.thucydides/thucydides-jbehave-plugin@0.9.0-RC4?classifier=sources
+- pkg:maven/net.thucydides/thucydides-jbehave-plugin@0.9.0
+- pkg:maven/net.thucydides/thucydides-jbehave-plugin@0.9.0?classifier=sources
