@@ -53,3 +53,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@2.5.4
 - pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@2.5.4?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@2.5.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@2.5.5
+- pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@2.5.5?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@2.5.5?classifier=source-release&type=zip

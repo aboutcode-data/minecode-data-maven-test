@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.lucene/lucene-memory@4.10.4?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-memory@5.1.0
 - pkg:maven/org.apache.lucene/lucene-memory@5.1.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-memory@5.2.0
+- pkg:maven/org.apache.lucene/lucene-memory@5.2.0?classifier=sources
