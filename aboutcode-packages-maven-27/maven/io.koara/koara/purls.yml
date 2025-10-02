@@ -22,3 +22,5 @@
 - pkg:maven/io.koara/koara@0.9.1?classifier=sources
 - pkg:maven/io.koara/koara@0.10
 - pkg:maven/io.koara/koara@0.10?classifier=sources
+- pkg:maven/io.koara/koara@0.11.0
+- pkg:maven/io.koara/koara@0.11.0?classifier=sources

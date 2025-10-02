@@ -20,3 +20,5 @@
 - pkg:maven/io.fabric8.ipaas.apps/message-broker@2.2.112?classifier=sources
 - pkg:maven/io.fabric8.ipaas.apps/message-broker@2.2.110
 - pkg:maven/io.fabric8.ipaas.apps/message-broker@2.2.110?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/message-broker@2.2.115
+- pkg:maven/io.fabric8.ipaas.apps/message-broker@2.2.115?classifier=sources

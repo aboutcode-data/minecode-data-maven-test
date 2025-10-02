@@ -30,3 +30,5 @@
 - pkg:maven/com.vectorprint/ConfigurableReports@8.9?classifier=sources
 - pkg:maven/com.vectorprint/ConfigurableReports@8.10
 - pkg:maven/com.vectorprint/ConfigurableReports@8.10?classifier=sources
+- pkg:maven/com.vectorprint/ConfigurableReports@9.1
+- pkg:maven/com.vectorprint/ConfigurableReports@9.1?classifier=sources

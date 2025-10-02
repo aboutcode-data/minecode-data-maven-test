@@ -12,3 +12,5 @@
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.15?classifier=sources
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.14?type=war
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.14?classifier=sources
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.16
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.16?classifier=sources

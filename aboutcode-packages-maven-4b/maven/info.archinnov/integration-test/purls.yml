@@ -40,3 +40,5 @@
 - pkg:maven/info.archinnov/integration-test@3.2.4-Zeppelin
 - pkg:maven/info.archinnov/integration-test@4.1.0
 - pkg:maven/info.archinnov/integration-test@4.1.0?classifier=sources
+- pkg:maven/info.archinnov/integration-test@4.2.0
+- pkg:maven/info.archinnov/integration-test@4.2.0?classifier=sources
