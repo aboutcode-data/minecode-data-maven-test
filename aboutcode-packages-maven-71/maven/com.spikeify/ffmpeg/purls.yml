@@ -6,3 +6,5 @@
 - pkg:maven/com.spikeify/ffmpeg@0.3?classifier=sources
 - pkg:maven/com.spikeify/ffmpeg@0.2
 - pkg:maven/com.spikeify/ffmpeg@0.2?classifier=sources
+- pkg:maven/com.spikeify/ffmpeg@0.5
+- pkg:maven/com.spikeify/ffmpeg@0.5?classifier=sources

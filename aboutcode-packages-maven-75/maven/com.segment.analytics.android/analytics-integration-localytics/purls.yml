@@ -30,3 +30,7 @@
 - pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.1.9?classifier=sources
 - pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.3.0?type=aar
 - pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.3.0?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.3.3?type=aar
+- pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.3.3?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.3.1?type=aar
+- pkg:maven/com.segment.analytics.android/analytics-integration-localytics@3.3.1?classifier=sources
