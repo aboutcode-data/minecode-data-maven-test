@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.solr/solr-morphlines-cell@6.4.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-morphlines-cell@6.4.1
 - pkg:maven/org.apache.solr/solr-morphlines-cell@6.4.1?classifier=sources
+- pkg:maven/org.apache.solr/solr-morphlines-cell@5.5.4
+- pkg:maven/org.apache.solr/solr-morphlines-cell@5.5.4?classifier=sources

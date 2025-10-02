@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.leshan/leshan-core@0.1.11-M13?classifier=sources
 - pkg:maven/org.eclipse.leshan/leshan-core@0.1.11-M14
 - pkg:maven/org.eclipse.leshan/leshan-core@0.1.11-M14?classifier=sources
+- pkg:maven/org.eclipse.leshan/leshan-core@1.0.0-M1
+- pkg:maven/org.eclipse.leshan/leshan-core@1.0.0-M1?classifier=sources

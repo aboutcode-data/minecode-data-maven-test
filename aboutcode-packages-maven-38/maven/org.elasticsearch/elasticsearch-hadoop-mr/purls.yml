@@ -82,3 +82,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-mr@2.4.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-mr@5.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-mr@5.2.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-mr@5.2.1
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-mr@5.2.1?classifier=sources
