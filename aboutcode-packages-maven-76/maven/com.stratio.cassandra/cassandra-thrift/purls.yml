@@ -24,3 +24,5 @@
 - pkg:maven/com.stratio.cassandra/cassandra-thrift@2.1.05?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-thrift@2.1.07
 - pkg:maven/com.stratio.cassandra/cassandra-thrift@2.1.07?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-thrift@2.1.2.1
+- pkg:maven/com.stratio.cassandra/cassandra-thrift@2.1.2.1?classifier=sources

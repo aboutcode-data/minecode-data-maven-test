@@ -64,3 +64,5 @@
 - pkg:maven/com.orientechnologies/orientdb-enterprise@2.0-M3?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-enterprise@1.7.10
 - pkg:maven/com.orientechnologies/orientdb-enterprise@1.7.10?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-enterprise@2.0-rc1
+- pkg:maven/com.orientechnologies/orientdb-enterprise@2.0-rc1?classifier=sources

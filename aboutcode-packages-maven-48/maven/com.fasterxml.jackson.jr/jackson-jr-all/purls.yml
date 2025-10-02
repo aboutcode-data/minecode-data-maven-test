@@ -10,3 +10,5 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.4
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.5.0-rc1
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.5.0-rc1?classifier=sources

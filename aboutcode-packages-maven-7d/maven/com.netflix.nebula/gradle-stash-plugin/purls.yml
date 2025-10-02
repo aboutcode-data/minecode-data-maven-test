@@ -16,3 +16,5 @@
 - pkg:maven/com.netflix.nebula/gradle-stash-plugin@1.12.11?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-stash-plugin@1.12.10
 - pkg:maven/com.netflix.nebula/gradle-stash-plugin@1.12.10?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-stash-plugin@1.12.12
+- pkg:maven/com.netflix.nebula/gradle-stash-plugin@1.12.12?classifier=sources
