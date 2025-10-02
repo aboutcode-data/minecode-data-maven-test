@@ -38,3 +38,7 @@
 - pkg:maven/org.grails/grails-datastore-web@2.0.0.M2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-web@1.1.8.RELEASE
 - pkg:maven/org.grails/grails-datastore-web@1.1.8.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-web@2.0.0.M4
+- pkg:maven/org.grails/grails-datastore-web@2.0.0.M4?classifier=sources
+- pkg:maven/org.grails/grails-datastore-web@1.1.9.RELEASE
+- pkg:maven/org.grails/grails-datastore-web@1.1.9.RELEASE?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.neo4j/neo4j-cluster@1.9?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cluster@2.0.0-M03
 - pkg:maven/org.neo4j/neo4j-cluster@2.0.0-M03?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cluster@1.9.1
+- pkg:maven/org.neo4j/neo4j-cluster@1.9.1?classifier=sources
