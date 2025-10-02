@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/jquery@1.11.3
 - pkg:maven/org.webjars.npm/jquery@1.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/jquery@2.1.4
+- pkg:maven/org.webjars.npm/jquery@2.1.4?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.walkmod/walkmod-cmd@1.0.3
 - pkg:maven/org.walkmod/walkmod-cmd@1.0.5
 - pkg:maven/org.walkmod/walkmod-cmd@1.0.6
+- pkg:maven/org.walkmod/walkmod-cmd@1.1.2
+- pkg:maven/org.walkmod/walkmod-cmd@1.1.2?classifier=sources
+- pkg:maven/org.walkmod/walkmod-cmd@1.1.1
+- pkg:maven/org.walkmod/walkmod-cmd@1.1.1?classifier=sources

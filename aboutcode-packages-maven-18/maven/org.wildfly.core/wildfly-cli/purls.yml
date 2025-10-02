@@ -68,3 +68,5 @@
 - pkg:maven/org.wildfly.core/wildfly-cli@2.0.0.Alpha4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-cli@1.0.0.CR6
 - pkg:maven/org.wildfly.core/wildfly-cli@1.0.0.CR6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-cli@1.0.0.CR7
+- pkg:maven/org.wildfly.core/wildfly-cli@1.0.0.CR7?classifier=sources
