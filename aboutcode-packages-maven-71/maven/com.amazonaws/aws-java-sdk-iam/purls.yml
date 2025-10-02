@@ -458,3 +458,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.101?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.100
 - pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.100?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.105
+- pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.105?classifier=sources

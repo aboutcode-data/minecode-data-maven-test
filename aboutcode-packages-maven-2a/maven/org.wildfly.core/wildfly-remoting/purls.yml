@@ -242,3 +242,7 @@
 - pkg:maven/org.wildfly.core/wildfly-remoting@3.0.0.Beta6?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-remoting@2.2.1.CR2
 - pkg:maven/org.wildfly.core/wildfly-remoting@2.2.1.CR2?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-remoting@3.0.0.Beta9
+- pkg:maven/org.wildfly.core/wildfly-remoting@3.0.0.Beta9?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-remoting@3.0.0.Beta8
+- pkg:maven/org.wildfly.core/wildfly-remoting@3.0.0.Beta8?classifier=sources
