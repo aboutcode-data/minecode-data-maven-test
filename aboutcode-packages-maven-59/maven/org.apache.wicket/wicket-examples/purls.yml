@@ -168,3 +168,5 @@
 - pkg:maven/org.apache.wicket/wicket-examples@6.13.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples@1.5.11?type=war
 - pkg:maven/org.apache.wicket/wicket-examples@1.5.11?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples@1.4.23?type=war
+- pkg:maven/org.apache.wicket/wicket-examples@1.4.23?classifier=sources

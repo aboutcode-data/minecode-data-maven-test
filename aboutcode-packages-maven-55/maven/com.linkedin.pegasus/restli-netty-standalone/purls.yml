@@ -8,3 +8,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.40?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.10.6
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.10.6?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.13.4
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.13.4?classifier=sources

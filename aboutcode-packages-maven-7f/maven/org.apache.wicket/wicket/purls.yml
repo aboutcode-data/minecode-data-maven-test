@@ -96,3 +96,5 @@
 - pkg:maven/org.apache.wicket/wicket@1.4.21?classifier=sources
 - pkg:maven/org.apache.wicket/wicket@1.4.22
 - pkg:maven/org.apache.wicket/wicket@1.4.22?classifier=sources
+- pkg:maven/org.apache.wicket/wicket@1.4.23
+- pkg:maven/org.apache.wicket/wicket@1.4.23?classifier=sources
