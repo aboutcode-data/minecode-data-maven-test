@@ -54,3 +54,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@2.0.11.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@2.0.12.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@2.0.12.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@3.0.0.Alpha2
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@3.0.0.Alpha2?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@3.0.0.Alpha1
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@3.0.0.Alpha1?classifier=sources

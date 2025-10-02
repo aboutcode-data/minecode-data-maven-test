@@ -1,2 +1,6 @@
 - pkg:maven/org.kevoree.library.java/org.kevoree.library.java.mqttServer@3.6.7
 - pkg:maven/org.kevoree.library.java/org.kevoree.library.java.mqttServer@3.6.7?classifier=sources
+- pkg:maven/org.kevoree.library.java/org.kevoree.library.java.mqttServer@3.7.2
+- pkg:maven/org.kevoree.library.java/org.kevoree.library.java.mqttServer@3.7.2?classifier=sources
+- pkg:maven/org.kevoree.library.java/org.kevoree.library.java.mqttServer@3.7.0
+- pkg:maven/org.kevoree.library.java/org.kevoree.library.java.mqttServer@3.7.0?classifier=sources
