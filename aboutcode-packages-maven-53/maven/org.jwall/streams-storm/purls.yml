@@ -2,3 +2,5 @@
 - pkg:maven/org.jwall/streams-storm@0.9.11?classifier=sources
 - pkg:maven/org.jwall/streams-storm@0.9.12
 - pkg:maven/org.jwall/streams-storm@0.9.12?classifier=sources
+- pkg:maven/org.jwall/streams-storm@0.9.13
+- pkg:maven/org.jwall/streams-storm@0.9.13?classifier=sources
