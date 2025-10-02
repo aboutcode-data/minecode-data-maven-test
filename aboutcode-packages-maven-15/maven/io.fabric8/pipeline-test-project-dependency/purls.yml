@@ -1,0 +1,6 @@
+- pkg:maven/io.fabric8/pipeline-test-project-dependency@1.0.2
+- pkg:maven/io.fabric8/pipeline-test-project-dependency@1.0.2?classifier=sources
+- pkg:maven/io.fabric8/pipeline-test-project-dependency@0.0.59
+- pkg:maven/io.fabric8/pipeline-test-project-dependency@0.0.59?classifier=sources
+- pkg:maven/io.fabric8/pipeline-test-project-dependency@0.0.58
+- pkg:maven/io.fabric8/pipeline-test-project-dependency@0.0.58?classifier=sources

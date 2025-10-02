@@ -74,3 +74,7 @@
 - pkg:maven/net.time4j/time4j-range@3.16?classifier=sources
 - pkg:maven/net.time4j/time4j-range@3.17
 - pkg:maven/net.time4j/time4j-range@3.17?classifier=sources
+- pkg:maven/net.time4j/time4j-range@4.14
+- pkg:maven/net.time4j/time4j-range@4.14?classifier=sources
+- pkg:maven/net.time4j/time4j-range@3.18
+- pkg:maven/net.time4j/time4j-range@3.18?classifier=sources

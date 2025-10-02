@@ -16,3 +16,5 @@
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-test-config@3.0.0-beta9?classifier=sources
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-test-config@3.0.0-beta10
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-test-config@3.0.0-beta10?classifier=sources
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-test-config@3.0.0
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-test-config@3.0.0?classifier=sources

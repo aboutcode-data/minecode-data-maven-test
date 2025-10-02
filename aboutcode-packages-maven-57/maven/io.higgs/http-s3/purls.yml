@@ -40,3 +40,5 @@
 - pkg:maven/io.higgs/http-s3@0.0.21?classifier=sources
 - pkg:maven/io.higgs/http-s3@0.0.22
 - pkg:maven/io.higgs/http-s3@0.0.22?classifier=sources
+- pkg:maven/io.higgs/http-s3@0.0.20
+- pkg:maven/io.higgs/http-s3@0.0.20?classifier=sources
