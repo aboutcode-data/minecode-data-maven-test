@@ -1,2 +1,4 @@
 - pkg:maven/org.revapi/revapi-build-support@1
 - pkg:maven/org.revapi/revapi-build-support@1?classifier=sources
+- pkg:maven/org.revapi/revapi-build-support@2
+- pkg:maven/org.revapi/revapi-build-support@2?classifier=sources

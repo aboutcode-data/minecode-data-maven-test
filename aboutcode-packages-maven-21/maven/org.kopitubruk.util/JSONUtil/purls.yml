@@ -48,3 +48,11 @@
 - pkg:maven/org.kopitubruk.util/JSONUtil@1.4-java5?classifier=sources
 - pkg:maven/org.kopitubruk.util/JSONUtil@1.4
 - pkg:maven/org.kopitubruk.util/JSONUtil@1.4?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5-java7
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5-java7?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5-java6
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5-java6?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5-java5
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5-java5?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.5?classifier=sources

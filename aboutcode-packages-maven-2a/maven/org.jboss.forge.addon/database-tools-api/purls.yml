@@ -102,3 +102,5 @@
 - pkg:maven/org.jboss.forge.addon/database-tools-api@2.20.2.Final?classifier=sources
 - pkg:maven/org.jboss.forge.addon/database-tools-api@3.0.0.Beta5
 - pkg:maven/org.jboss.forge.addon/database-tools-api@3.0.0.Beta5?classifier=sources
+- pkg:maven/org.jboss.forge.addon/database-tools-api@3.0.0.CR1
+- pkg:maven/org.jboss.forge.addon/database-tools-api@3.0.0.CR1?classifier=sources
