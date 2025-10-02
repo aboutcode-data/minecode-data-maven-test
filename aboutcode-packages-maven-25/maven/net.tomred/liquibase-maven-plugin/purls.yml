@@ -4,3 +4,5 @@
 - pkg:maven/net.tomred/liquibase-maven-plugin@1.1?classifier=sources
 - pkg:maven/net.tomred/liquibase-maven-plugin@1.0.1
 - pkg:maven/net.tomred/liquibase-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/net.tomred/liquibase-maven-plugin@1.2.0
+- pkg:maven/net.tomred/liquibase-maven-plugin@1.2.0?classifier=sources
