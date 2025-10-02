@@ -36,3 +36,5 @@
 - pkg:maven/org.dspace.modules/additions@4.3?classifier=sources
 - pkg:maven/org.dspace.modules/additions@3.4
 - pkg:maven/org.dspace.modules/additions@3.4?classifier=sources
+- pkg:maven/org.dspace.modules/additions@5.2
+- pkg:maven/org.dspace.modules/additions@5.2?classifier=sources

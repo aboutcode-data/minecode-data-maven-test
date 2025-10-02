@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-acls@0.6.0
 - pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-acls@0.6.0?classifier=sources
+- pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-acls@0.7.0
+- pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-acls@0.7.0?classifier=sources
+- pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-acls@0.6.1
+- pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-acls@0.6.1?classifier=sources

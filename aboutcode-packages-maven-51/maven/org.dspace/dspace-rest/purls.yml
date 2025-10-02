@@ -22,3 +22,5 @@
 - pkg:maven/org.dspace/dspace-rest@5.1?classifier=sources
 - pkg:maven/org.dspace/dspace-rest@4.3?type=war
 - pkg:maven/org.dspace/dspace-rest@4.3?classifier=sources
+- pkg:maven/org.dspace/dspace-rest@5.2?type=war
+- pkg:maven/org.dspace/dspace-rest@5.2?classifier=sources

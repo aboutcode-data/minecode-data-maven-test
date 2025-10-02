@@ -122,3 +122,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote@7.0.62
 - pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote@7.0.62?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote@6.0.44
+- pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote@8.0.23
+- pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote@8.0.23?classifier=sources

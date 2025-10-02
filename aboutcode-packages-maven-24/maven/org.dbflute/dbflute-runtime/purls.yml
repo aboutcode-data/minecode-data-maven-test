@@ -44,3 +44,7 @@
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3-RC3?classifier=sources
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3-RC5
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3-RC5?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3-RC6
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3-RC6?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.0-sp3?classifier=sources
