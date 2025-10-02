@@ -290,3 +290,7 @@
 - pkg:maven/io.fabric8/kubernetes-client@2.2.9?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@2.2.8
 - pkg:maven/io.fabric8/kubernetes-client@2.2.8?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@2.2.13
+- pkg:maven/io.fabric8/kubernetes-client@2.2.13?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@2.2.12
+- pkg:maven/io.fabric8/kubernetes-client@2.2.12?classifier=sources
