@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.phoenix/phoenix-flume@3.2.1?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-flume@4.2.2
 - pkg:maven/org.apache.phoenix/phoenix-flume@4.2.2?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-flume@4.3.0
+- pkg:maven/org.apache.phoenix/phoenix-flume@4.3.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-flume@3.3.0
+- pkg:maven/org.apache.phoenix/phoenix-flume@3.3.0?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@4.0-RC3?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@4.0-RC4?type=war
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@4.0-RC4?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@4.0-RC5?type=war
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@4.0-RC5?classifier=sources
