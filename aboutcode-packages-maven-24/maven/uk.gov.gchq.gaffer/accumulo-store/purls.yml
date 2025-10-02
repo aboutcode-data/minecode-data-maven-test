@@ -16,3 +16,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/accumulo-store@0.6.5?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/accumulo-store@0.6.4
 - pkg:maven/uk.gov.gchq.gaffer/accumulo-store@0.6.4?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/accumulo-store@0.7.0
+- pkg:maven/uk.gov.gchq.gaffer/accumulo-store@0.7.0?classifier=sources
