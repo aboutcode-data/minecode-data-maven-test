@@ -256,3 +256,5 @@
 - pkg:maven/org.infinispan/infinispan-client-hotrod@9.0.0.Alpha3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@8.2.3.Final
 - pkg:maven/org.infinispan/infinispan-client-hotrod@8.2.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod@9.0.0.Alpha4
+- pkg:maven/org.infinispan/infinispan-client-hotrod@9.0.0.Alpha4?classifier=sources

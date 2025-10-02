@@ -256,3 +256,7 @@
 - pkg:maven/org.hibernate/hibernate-entitymanager@5.0.9.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-entitymanager@5.2.1.Final
 - pkg:maven/org.hibernate/hibernate-entitymanager@5.2.1.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-entitymanager@5.2.2.Final
+- pkg:maven/org.hibernate/hibernate-entitymanager@5.2.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-entitymanager@5.0.10.Final
+- pkg:maven/org.hibernate/hibernate-entitymanager@5.0.10.Final?classifier=sources

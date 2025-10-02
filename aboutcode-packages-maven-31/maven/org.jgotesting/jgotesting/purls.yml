@@ -6,3 +6,5 @@
 - pkg:maven/org.jgotesting/jgotesting@0.3?classifier=sources
 - pkg:maven/org.jgotesting/jgotesting@0.4
 - pkg:maven/org.jgotesting/jgotesting@0.4?classifier=sources
+- pkg:maven/org.jgotesting/jgotesting@0.7
+- pkg:maven/org.jgotesting/jgotesting@0.7?classifier=sources
