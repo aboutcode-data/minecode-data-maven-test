@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.johnzon/johnzon@0.7-incubating?classifier=src&type=tar.gz
 - pkg:maven/org.apache.johnzon/johnzon@0.8-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@0.9-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@0.9.1-incubating?classifier=source-release&type=zip

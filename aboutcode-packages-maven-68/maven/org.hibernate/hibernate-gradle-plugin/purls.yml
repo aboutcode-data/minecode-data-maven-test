@@ -70,3 +70,5 @@
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@4.3.11.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.0.0.Final
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.0.0.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-gradle-plugin@5.0.1.Final
+- pkg:maven/org.hibernate/hibernate-gradle-plugin@5.0.1.Final?classifier=sources

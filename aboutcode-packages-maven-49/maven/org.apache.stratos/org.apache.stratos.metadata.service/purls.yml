@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.stratos/org.apache.stratos.metadata.service@4.1.0?classifier=sources
 - pkg:maven/org.apache.stratos/org.apache.stratos.metadata.service@4.1.1?type=war
 - pkg:maven/org.apache.stratos/org.apache.stratos.metadata.service@4.1.1?classifier=sources
+- pkg:maven/org.apache.stratos/org.apache.stratos.metadata.service@4.1.2?type=war
+- pkg:maven/org.apache.stratos/org.apache.stratos.metadata.service@4.1.2?classifier=sources
