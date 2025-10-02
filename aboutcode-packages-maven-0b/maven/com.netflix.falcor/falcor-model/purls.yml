@@ -176,3 +176,11 @@
 - pkg:maven/com.netflix.falcor/falcor-model@0.82.0?classifier=sources
 - pkg:maven/com.netflix.falcor/falcor-model@0.81.0
 - pkg:maven/com.netflix.falcor/falcor-model@0.81.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-model@0.93.0
+- pkg:maven/com.netflix.falcor/falcor-model@0.93.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-model@0.91.0
+- pkg:maven/com.netflix.falcor/falcor-model@0.91.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-model@0.90.0
+- pkg:maven/com.netflix.falcor/falcor-model@0.90.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-model@0.89.0
+- pkg:maven/com.netflix.falcor/falcor-model@0.89.0?classifier=sources

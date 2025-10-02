@@ -1,2 +1,4 @@
 - pkg:maven/com.speedment.example/basic-example@3.0.7
 - pkg:maven/com.speedment.example/basic-example@3.0.7?classifier=sources
+- pkg:maven/com.speedment.example/basic-example@3.0.9
+- pkg:maven/com.speedment.example/basic-example@3.0.9?classifier=sources
