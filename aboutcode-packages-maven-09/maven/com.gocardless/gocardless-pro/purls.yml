@@ -26,3 +26,5 @@
 - pkg:maven/com.gocardless/gocardless-pro@0.5.1?classifier=sources
 - pkg:maven/com.gocardless/gocardless-pro@0.5.0
 - pkg:maven/com.gocardless/gocardless-pro@0.5.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@1.1.0
+- pkg:maven/com.gocardless/gocardless-pro@1.1.0?classifier=sources

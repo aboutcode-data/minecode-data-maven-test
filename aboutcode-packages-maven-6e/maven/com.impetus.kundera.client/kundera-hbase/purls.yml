@@ -24,3 +24,5 @@
 - pkg:maven/com.impetus.kundera.client/kundera-hbase@2.16?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-hbase@2.17
 - pkg:maven/com.impetus.kundera.client/kundera-hbase@2.17?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-hbase@3.0
+- pkg:maven/com.impetus.kundera.client/kundera-hbase@3.0?classifier=sources

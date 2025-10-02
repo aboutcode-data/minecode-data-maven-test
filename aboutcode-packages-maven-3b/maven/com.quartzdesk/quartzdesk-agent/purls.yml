@@ -16,3 +16,5 @@
 - pkg:maven/com.quartzdesk/quartzdesk-agent@1.7.8?classifier=sources
 - pkg:maven/com.quartzdesk/quartzdesk-agent@2.0.0
 - pkg:maven/com.quartzdesk/quartzdesk-agent@2.0.0?classifier=sources
+- pkg:maven/com.quartzdesk/quartzdesk-agent@2.0.1
+- pkg:maven/com.quartzdesk/quartzdesk-agent@2.0.1?classifier=sources
