@@ -1,2 +1,4 @@
 - pkg:maven/org.cometd.tutorials/cometd-tutorials-skeleton@1.0.0?type=war
 - pkg:maven/org.cometd.tutorials/cometd-tutorials-skeleton@1.0.0?classifier=sources
+- pkg:maven/org.cometd.tutorials/cometd-tutorials-skeleton@2.8.0?type=war
+- pkg:maven/org.cometd.tutorials/cometd-tutorials-skeleton@2.8.0?classifier=sources

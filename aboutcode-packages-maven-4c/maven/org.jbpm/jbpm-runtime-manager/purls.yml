@@ -25,3 +25,4 @@
 - pkg:maven/org.jbpm/jbpm-runtime-manager@6.0.1.Final
 - pkg:maven/org.jbpm/jbpm-runtime-manager@6.0.1.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-runtime-manager@6.1.0.Beta1
+- pkg:maven/org.jbpm/jbpm-runtime-manager@6.1.0.Beta1?classifier=sources

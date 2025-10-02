@@ -24,3 +24,5 @@
 - pkg:maven/org.atmosphere.samples/gwt20-json@2.0.7?classifier=sources
 - pkg:maven/org.atmosphere.samples/gwt20-json@2.1.0?type=war
 - pkg:maven/org.atmosphere.samples/gwt20-json@2.1.0?classifier=sources
+- pkg:maven/org.atmosphere.samples/gwt20-json@2.1.1?type=war
+- pkg:maven/org.atmosphere.samples/gwt20-json@2.1.1?classifier=sources

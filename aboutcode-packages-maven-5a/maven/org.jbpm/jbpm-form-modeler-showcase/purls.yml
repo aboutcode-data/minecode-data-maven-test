@@ -4,3 +4,5 @@
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.0.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.0.1.Final?type=war
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.0.1.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.1.0.Beta1?type=war
+- pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.1.0.Beta1?classifier=sources

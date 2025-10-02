@@ -44,3 +44,6 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.6
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.6?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.6?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/managed-client@2.7
+- pkg:maven/org.glassfish.jersey.examples/managed-client@2.7?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client@2.7?classifier=project-src&type=zip
