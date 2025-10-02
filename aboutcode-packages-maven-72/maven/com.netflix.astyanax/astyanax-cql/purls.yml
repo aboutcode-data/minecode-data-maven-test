@@ -36,3 +36,5 @@
 - pkg:maven/com.netflix.astyanax/astyanax-cql@3.4.0?classifier=sources
 - pkg:maven/com.netflix.astyanax/astyanax-cql@3.6.0
 - pkg:maven/com.netflix.astyanax/astyanax-cql@3.6.0?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-cql@3.8.0-rc.1
+- pkg:maven/com.netflix.astyanax/astyanax-cql@3.8.0-rc.1?classifier=sources

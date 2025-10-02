@@ -10,3 +10,5 @@
 - pkg:maven/io.tracee.binding/tracee-springhttpclient@0.11.0?classifier=sources
 - pkg:maven/io.tracee.binding/tracee-springhttpclient@0.12.0
 - pkg:maven/io.tracee.binding/tracee-springhttpclient@0.12.0?classifier=sources
+- pkg:maven/io.tracee.binding/tracee-springhttpclient@1.0.0-rc1
+- pkg:maven/io.tracee.binding/tracee-springhttpclient@1.0.0-rc1?classifier=sources

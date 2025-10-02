@@ -19,3 +19,4 @@
 - pkg:maven/io.tracee/tracee-api@0.12.0
 - pkg:maven/io.tracee/tracee-api@0.12.0?classifier=sources
 - pkg:maven/io.tracee/tracee-api@1.0.0-rc1
+- pkg:maven/io.tracee/tracee-api@1.0.0-rc1?classifier=sources
