@@ -10,3 +10,5 @@
 - pkg:maven/org.kevoree.mwg.plugins/leveldb@4?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/leveldb@6
 - pkg:maven/org.kevoree.mwg.plugins/leveldb@6?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/leveldb@7
+- pkg:maven/org.kevoree.mwg.plugins/leveldb@7?classifier=sources

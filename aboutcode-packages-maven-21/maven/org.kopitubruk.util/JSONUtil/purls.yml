@@ -136,3 +136,11 @@
 - pkg:maven/org.kopitubruk.util/JSONUtil@1.10.1-java5?classifier=sources
 - pkg:maven/org.kopitubruk.util/JSONUtil@1.10.1
 - pkg:maven/org.kopitubruk.util/JSONUtil@1.10.1?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2-java7
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2-java7?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2-java6
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2-java6?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2-java5
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2-java5?classifier=sources
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2
+- pkg:maven/org.kopitubruk.util/JSONUtil@1.10.2?classifier=sources
