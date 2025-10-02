@@ -67,3 +67,6 @@
 - pkg:maven/org.jbpm/jbpm-distribution@7.0.0.Beta7?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.0.0.Beta8?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.0.0.CR1?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.1.0.Beta1?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.0.0.CR3?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.0.0.CR2?classifier=src&type=zip

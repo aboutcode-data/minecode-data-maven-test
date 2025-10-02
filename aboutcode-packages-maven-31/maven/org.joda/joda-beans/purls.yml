@@ -76,3 +76,5 @@
 - pkg:maven/org.joda/joda-beans@1.11?classifier=sources
 - pkg:maven/org.joda/joda-beans@1.12
 - pkg:maven/org.joda/joda-beans@1.12?classifier=sources
+- pkg:maven/org.joda/joda-beans@1.13
+- pkg:maven/org.joda/joda-beans@1.13?classifier=sources

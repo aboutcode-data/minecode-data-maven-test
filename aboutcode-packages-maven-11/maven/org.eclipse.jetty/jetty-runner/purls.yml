@@ -192,3 +192,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.3.18.v20170406?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.4.4.v20170414
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.4.4.v20170414?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-runner@9.4.5.v20170502
+- pkg:maven/org.eclipse.jetty/jetty-runner@9.4.5.v20170502?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-runner@9.3.19.v20170502
+- pkg:maven/org.eclipse.jetty/jetty-runner@9.3.19.v20170502?classifier=sources
