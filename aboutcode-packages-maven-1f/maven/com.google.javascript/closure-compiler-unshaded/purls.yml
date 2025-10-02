@@ -1,2 +1,4 @@
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20160315
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20160315?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20160517
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20160517?classifier=sources

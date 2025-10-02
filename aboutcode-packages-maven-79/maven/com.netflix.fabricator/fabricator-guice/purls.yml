@@ -26,3 +26,5 @@
 - pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.21?classifier=sources
 - pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.20
 - pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.20?classifier=sources
+- pkg:maven/com.netflix.fabricator/fabricator-guice@0.25.0
+- pkg:maven/com.netflix.fabricator/fabricator-guice@0.25.0?classifier=sources
