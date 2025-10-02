@@ -21,3 +21,6 @@
 - pkg:maven/org.apache.santuario/xmlsec@1.4.8
 - pkg:maven/org.apache.santuario/xmlsec@1.4.8?classifier=sources
 - pkg:maven/org.apache.santuario/xmlsec@1.4.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.santuario/xmlsec@2.0.0-beta
+- pkg:maven/org.apache.santuario/xmlsec@2.0.0-beta?classifier=sources
+- pkg:maven/org.apache.santuario/xmlsec@2.0.0-beta?classifier=source-release&type=zip

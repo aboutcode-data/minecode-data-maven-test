@@ -180,3 +180,7 @@
 - pkg:maven/org.codehaus.sonar/sonar-deprecated@3.7.2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-deprecated@3.7.1
 - pkg:maven/org.codehaus.sonar/sonar-deprecated@3.7.1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-deprecated@4.0-RC1
+- pkg:maven/org.codehaus.sonar/sonar-deprecated@4.0-RC1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-deprecated@3.7.3
+- pkg:maven/org.codehaus.sonar/sonar-deprecated@3.7.3?classifier=sources

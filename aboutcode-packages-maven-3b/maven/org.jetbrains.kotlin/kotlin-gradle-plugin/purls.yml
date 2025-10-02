@@ -26,3 +26,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.786?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.800
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.800?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.912
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.912?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.1070
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@0.6.1070?classifier=sources
