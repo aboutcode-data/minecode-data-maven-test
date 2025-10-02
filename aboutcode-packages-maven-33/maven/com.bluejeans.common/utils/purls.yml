@@ -120,3 +120,5 @@
 - pkg:maven/com.bluejeans.common/utils@3.15?classifier=sources
 - pkg:maven/com.bluejeans.common/utils@3.14
 - pkg:maven/com.bluejeans.common/utils@3.14?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@3.20
+- pkg:maven/com.bluejeans.common/utils@3.20?classifier=sources

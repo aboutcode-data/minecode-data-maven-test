@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/vue@0.12.6?classifier=sources
 - pkg:maven/org.webjars.npm/vue@1.0.8
 - pkg:maven/org.webjars.npm/vue@1.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/vue@1.0.21
+- pkg:maven/org.webjars.npm/vue@1.0.21?classifier=sources

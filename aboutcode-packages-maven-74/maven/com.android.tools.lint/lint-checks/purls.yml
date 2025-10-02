@@ -116,3 +116,5 @@
 - pkg:maven/com.android.tools.lint/lint-checks@24.5.0?classifier=sources
 - pkg:maven/com.android.tools.lint/lint-checks@25.0.0
 - pkg:maven/com.android.tools.lint/lint-checks@25.0.0?classifier=sources
+- pkg:maven/com.android.tools.lint/lint-checks@25.1.0
+- pkg:maven/com.android.tools.lint/lint-checks@25.1.0?classifier=sources
