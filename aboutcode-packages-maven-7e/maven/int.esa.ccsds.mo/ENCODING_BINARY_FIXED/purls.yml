@@ -1,2 +1,4 @@
 - pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY_FIXED@1.0
 - pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY_FIXED@1.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY_FIXED@1.0-FC
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY_FIXED@1.0-FC?classifier=sources

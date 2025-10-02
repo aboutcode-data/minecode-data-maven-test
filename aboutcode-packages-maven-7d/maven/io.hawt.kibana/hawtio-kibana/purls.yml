@@ -4,3 +4,5 @@
 - pkg:maven/io.hawt.kibana/hawtio-kibana@3.1.0?classifier=sources
 - pkg:maven/io.hawt.kibana/hawtio-kibana@3.1.0_2?type=war
 - pkg:maven/io.hawt.kibana/hawtio-kibana@3.1.0_2?classifier=sources
+- pkg:maven/io.hawt.kibana/hawtio-kibana@3.1.0_4?type=war
+- pkg:maven/io.hawt.kibana/hawtio-kibana@3.1.0_4?classifier=sources

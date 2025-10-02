@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-web-ui@0.0.1-incubating?type=war
+- pkg:maven/org.apache.nifi/nifi-web-ui@0.0.1-incubating?classifier=sources

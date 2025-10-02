@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.servicemix.examples/camel-drools@5.4.0?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-drools@5.3.1
 - pkg:maven/org.apache.servicemix.examples/camel-drools@5.3.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-drools@6.0.0.M1
+- pkg:maven/org.apache.servicemix.examples/camel-drools@6.0.0.M1?classifier=sources

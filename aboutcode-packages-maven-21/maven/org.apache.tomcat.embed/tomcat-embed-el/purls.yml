@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.57?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.17
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.17?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.18
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.18?classifier=sources
