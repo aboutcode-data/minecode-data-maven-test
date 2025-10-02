@@ -10,3 +10,5 @@
 - pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-model@2.3?classifier=sources
 - pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-model@2.2.1
 - pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-model@2.2.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-model@2.4
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-model@2.4?classifier=sources

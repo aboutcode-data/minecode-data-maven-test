@@ -35,3 +35,5 @@
 - pkg:maven/org.sonatype.sisu/sisu-inject-bean@2.3.3?classifier=sources
 - pkg:maven/org.sonatype.sisu/sisu-inject-bean@2.3.4
 - pkg:maven/org.sonatype.sisu/sisu-inject-bean@2.3.4?classifier=sources
+- pkg:maven/org.sonatype.sisu/sisu-inject-bean@2.4.0
+- pkg:maven/org.sonatype.sisu/sisu-inject-bean@2.4.0?classifier=sources

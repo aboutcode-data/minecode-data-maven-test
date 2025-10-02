@@ -42,3 +42,5 @@
 - pkg:maven/org.jbpm/jbpm-bpmn2@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.jbpm/jbpm-bpmn2@6.0.0.Beta2
 - pkg:maven/org.jbpm/jbpm-bpmn2@6.0.0.Beta2?classifier=sources
+- pkg:maven/org.jbpm/jbpm-bpmn2@6.0.0.Beta3
+- pkg:maven/org.jbpm/jbpm-bpmn2@6.0.0.Beta3?classifier=sources
