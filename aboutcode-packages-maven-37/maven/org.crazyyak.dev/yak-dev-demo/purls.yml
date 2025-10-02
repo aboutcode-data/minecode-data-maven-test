@@ -24,3 +24,7 @@
 - pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.1?classifier=sources
 - pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.3?type=war
 - pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.3?classifier=sources
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.8?type=war
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.8?classifier=sources
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.7?type=war
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.4.7?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-eval@2.1-M3?classifier=sources
 - pkg:maven/org.grouplens.lenskit/lenskit-eval@2.1-M4
 - pkg:maven/org.grouplens.lenskit/lenskit-eval@2.1-M4?classifier=sources
+- pkg:maven/org.grouplens.lenskit/lenskit-eval@2.1
+- pkg:maven/org.grouplens.lenskit/lenskit-eval@2.1?classifier=sources
