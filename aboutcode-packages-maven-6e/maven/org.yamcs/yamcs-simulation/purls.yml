@@ -2,3 +2,5 @@
 - pkg:maven/org.yamcs/yamcs-simulation@0.29.3?classifier=sources
 - pkg:maven/org.yamcs/yamcs-simulation@0.30.0
 - pkg:maven/org.yamcs/yamcs-simulation@0.30.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-simulation@3.0.0
+- pkg:maven/org.yamcs/yamcs-simulation@3.0.0?classifier=sources
