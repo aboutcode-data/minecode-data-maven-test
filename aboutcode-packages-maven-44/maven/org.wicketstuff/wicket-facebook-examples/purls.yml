@@ -22,3 +22,5 @@
 - pkg:maven/org.wicketstuff/wicket-facebook-examples@6.2.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook-examples@1.5.8.1?type=war
 - pkg:maven/org.wicketstuff/wicket-facebook-examples@1.5.8.1?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook-examples@1.5.9?type=war
+- pkg:maven/org.wicketstuff/wicket-facebook-examples@1.5.9?classifier=sources
