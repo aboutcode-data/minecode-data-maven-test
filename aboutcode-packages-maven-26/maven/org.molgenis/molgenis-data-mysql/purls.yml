@@ -74,3 +74,5 @@
 - pkg:maven/org.molgenis/molgenis-data-mysql@1.21.0?classifier=sources
 - pkg:maven/org.molgenis/molgenis-data-mysql@1.21
 - pkg:maven/org.molgenis/molgenis-data-mysql@1.21?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-mysql@1.21.1
+- pkg:maven/org.molgenis/molgenis-data-mysql@1.21.1?classifier=sources

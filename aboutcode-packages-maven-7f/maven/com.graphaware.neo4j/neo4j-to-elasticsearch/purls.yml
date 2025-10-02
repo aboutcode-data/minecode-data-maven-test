@@ -1,2 +1,4 @@
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.2
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.2?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.3
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.3?classifier=sources

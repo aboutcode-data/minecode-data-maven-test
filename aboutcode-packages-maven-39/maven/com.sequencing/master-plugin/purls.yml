@@ -32,3 +32,5 @@
 - pkg:maven/com.sequencing/master-plugin@1.0.15?classifier=sources
 - pkg:maven/com.sequencing/master-plugin@1.0.14?type=aar
 - pkg:maven/com.sequencing/master-plugin@1.0.14?classifier=sources
+- pkg:maven/com.sequencing/master-plugin@1.0.17?type=aar
+- pkg:maven/com.sequencing/master-plugin@1.0.17?classifier=sources
