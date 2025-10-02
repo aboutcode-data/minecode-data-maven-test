@@ -9,3 +9,4 @@
 - pkg:maven/com.linecorp.armeria/armeria-grpc-shaded@0.44.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-grpc-shaded@0.46.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-grpc-shaded@0.47.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-grpc-shaded@0.46.1?classifier=sources

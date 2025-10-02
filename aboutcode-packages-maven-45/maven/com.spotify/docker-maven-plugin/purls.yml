@@ -596,3 +596,5 @@
 - pkg:maven/com.spotify/docker-maven-plugin@0.4.13?classifier=sources
 - pkg:maven/com.spotify/docker-maven-plugin@0.4.14
 - pkg:maven/com.spotify/docker-maven-plugin@0.4.14?classifier=sources
+- pkg:maven/com.spotify/docker-maven-plugin@1.0.0
+- pkg:maven/com.spotify/docker-maven-plugin@1.0.0?classifier=sources
