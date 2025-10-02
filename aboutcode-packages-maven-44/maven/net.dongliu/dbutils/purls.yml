@@ -86,3 +86,7 @@
 - pkg:maven/net.dongliu/dbutils@2.4.9?classifier=sources
 - pkg:maven/net.dongliu/dbutils@2.4.11
 - pkg:maven/net.dongliu/dbutils@2.4.11?classifier=sources
+- pkg:maven/net.dongliu/dbutils@3.0.0
+- pkg:maven/net.dongliu/dbutils@3.0.0?classifier=sources
+- pkg:maven/net.dongliu/dbutils@2.5.0
+- pkg:maven/net.dongliu/dbutils@2.5.0?classifier=sources

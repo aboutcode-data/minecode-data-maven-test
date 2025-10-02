@@ -32,3 +32,5 @@
 - pkg:maven/io.projectreactor/reactor-core@3.0.2.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.0.1.RELEASE
 - pkg:maven/io.projectreactor/reactor-core@3.0.1.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.0.3.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.0.3.RELEASE?classifier=sources

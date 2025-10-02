@@ -1,2 +1,4 @@
 - pkg:maven/hu.advancedweb/scott@1.0.0
 - pkg:maven/hu.advancedweb/scott@1.0.0?classifier=sources
+- pkg:maven/hu.advancedweb/scott@2.0.0
+- pkg:maven/hu.advancedweb/scott@2.0.0?classifier=sources

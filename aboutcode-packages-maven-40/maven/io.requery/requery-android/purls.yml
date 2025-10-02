@@ -13,3 +13,5 @@
 - pkg:maven/io.requery/requery-android@1.0.0-beta16?classifier=sources
 - pkg:maven/io.requery/requery-android@1.0.0-beta15?type=aar
 - pkg:maven/io.requery/requery-android@1.0.0-beta15?classifier=sources
+- pkg:maven/io.requery/requery-android@1.0.0?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0?classifier=sources
