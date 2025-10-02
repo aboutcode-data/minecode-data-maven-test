@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.airavata/test-suite@0.10?classifier=sources
 - pkg:maven/org.apache.airavata/test-suite@0.11
 - pkg:maven/org.apache.airavata/test-suite@0.11?classifier=sources
+- pkg:maven/org.apache.airavata/test-suite@0.12
+- pkg:maven/org.apache.airavata/test-suite@0.12?classifier=sources

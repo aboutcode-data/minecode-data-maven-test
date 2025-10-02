@@ -60,3 +60,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-test-tools@3.6?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-test-tools@3.6.1-RC1
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-test-tools@3.6.1-RC1?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-test-tools@3.6.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-test-tools@3.6.1?classifier=sources
