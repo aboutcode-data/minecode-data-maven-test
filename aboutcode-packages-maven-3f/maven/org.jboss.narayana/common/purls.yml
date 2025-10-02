@@ -40,3 +40,7 @@
 - pkg:maven/org.jboss.narayana/common@5.2.1.Final?classifier=sources
 - pkg:maven/org.jboss.narayana/common@5.2.2.Final
 - pkg:maven/org.jboss.narayana/common@5.2.2.Final?classifier=sources
+- pkg:maven/org.jboss.narayana/common@foo2
+- pkg:maven/org.jboss.narayana/common@foo2?classifier=sources
+- pkg:maven/org.jboss.narayana/common@foo1
+- pkg:maven/org.jboss.narayana/common@foo1?classifier=sources

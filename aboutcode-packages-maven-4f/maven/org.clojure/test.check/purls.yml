@@ -26,3 +26,5 @@
 - pkg:maven/org.clojure/test.check@0.8.0-RC2?classifier=sources
 - pkg:maven/org.clojure/test.check@0.8.0
 - pkg:maven/org.clojure/test.check@0.8.0?classifier=sources
+- pkg:maven/org.clojure/test.check@0.8.1
+- pkg:maven/org.clojure/test.check@0.8.1?classifier=sources

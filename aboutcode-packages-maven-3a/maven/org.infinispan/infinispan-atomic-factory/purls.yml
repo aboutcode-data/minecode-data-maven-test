@@ -26,3 +26,5 @@
 - pkg:maven/org.infinispan/infinispan-atomic-factory@8.0.0.Beta3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-atomic-factory@7.2.4.Final
 - pkg:maven/org.infinispan/infinispan-atomic-factory@7.2.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-atomic-factory@8.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-atomic-factory@8.0.0.CR1?classifier=sources
