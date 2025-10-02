@@ -22,3 +22,9 @@
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.1.12?classifier=sources
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.0.18
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.0.18?classifier=sources
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.2.0-beta
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.2.0-beta?classifier=sources
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.1.13
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.1.13?classifier=sources
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.0.19
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-shared-public@2.0.19?classifier=sources

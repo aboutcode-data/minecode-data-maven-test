@@ -20,3 +20,5 @@
 - pkg:maven/com.qmetric/hal-feed-consumer@1.12?classifier=sources
 - pkg:maven/com.qmetric/hal-feed-consumer@1.13
 - pkg:maven/com.qmetric/hal-feed-consumer@1.13?classifier=sources
+- pkg:maven/com.qmetric/hal-feed-consumer@2.0
+- pkg:maven/com.qmetric/hal-feed-consumer@2.0?classifier=sources

@@ -320,3 +320,5 @@
 - pkg:maven/net.thucydides/thucydides-junit@0.9.220-RC2?classifier=sources
 - pkg:maven/net.thucydides/thucydides-junit@0.9.220-RC1
 - pkg:maven/net.thucydides/thucydides-junit@0.9.220-RC1?classifier=sources
+- pkg:maven/net.thucydides/thucydides-junit@0.9.220
+- pkg:maven/net.thucydides/thucydides-junit@0.9.220?classifier=sources
