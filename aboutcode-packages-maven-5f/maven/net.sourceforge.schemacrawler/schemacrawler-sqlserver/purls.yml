@@ -30,3 +30,5 @@
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-sqlserver@8.17?classifier=sources
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-sqlserver@9.0
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-sqlserver@9.0?classifier=sources
+- pkg:maven/net.sourceforge.schemacrawler/schemacrawler-sqlserver@9.1
+- pkg:maven/net.sourceforge.schemacrawler/schemacrawler-sqlserver@9.1?classifier=sources

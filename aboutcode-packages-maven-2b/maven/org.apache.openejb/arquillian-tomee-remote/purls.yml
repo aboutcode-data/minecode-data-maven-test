@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.0.0
 - pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.0.0?classifier=sources
+- pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.5.0
+- pkg:maven/org.apache.openejb/arquillian-tomee-remote@1.5.0?classifier=sources

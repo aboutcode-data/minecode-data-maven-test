@@ -1,2 +1,4 @@
 - pkg:maven/com.linkedin.bobo/cardemo@3.0.9?type=war
 - pkg:maven/com.linkedin.bobo/cardemo@3.0.9?classifier=sources
+- pkg:maven/com.linkedin.bobo/cardemo@3.1.1?type=war
+- pkg:maven/com.linkedin.bobo/cardemo@3.1.1?classifier=sources

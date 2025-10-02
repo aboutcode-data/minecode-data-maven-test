@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.wicket/wicket-examples-jar@0.2
 - pkg:maven/org.apache.wicket/wicket-examples-jar@0.2?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples-jar@0.3
+- pkg:maven/org.apache.wicket/wicket-examples-jar@0.3?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.springframework.security/spring-security-core-tiger@2.0.1?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-core-tiger@2.0.0
 - pkg:maven/org.springframework.security/spring-security-core-tiger@2.0.0?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-core-tiger@2.0.8.RELEASE
+- pkg:maven/org.springframework.security/spring-security-core-tiger@2.0.8.RELEASE?classifier=sources

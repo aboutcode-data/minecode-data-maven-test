@@ -22,3 +22,5 @@
 - pkg:maven/com.getperka.flatpack/flatpack-core@2.15-android-2.2?classifier=sources
 - pkg:maven/com.getperka.flatpack/flatpack-core@2.15
 - pkg:maven/com.getperka.flatpack/flatpack-core@2.15?classifier=sources
+- pkg:maven/com.getperka.flatpack/flatpack-core@2.15.1
+- pkg:maven/com.getperka.flatpack/flatpack-core@2.15.1?classifier=sources

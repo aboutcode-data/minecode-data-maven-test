@@ -103,3 +103,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.4.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.5.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.5.2?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.2.13
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.2.13?classifier=sources
