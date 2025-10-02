@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.hbase/hbase-rest@0.98.8-hadoop2
+- pkg:maven/org.apache.hbase/hbase-rest@0.98.8-hadoop2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rest@0.98.8-hadoop1
+- pkg:maven/org.apache.hbase/hbase-rest@0.98.8-hadoop1?classifier=sources

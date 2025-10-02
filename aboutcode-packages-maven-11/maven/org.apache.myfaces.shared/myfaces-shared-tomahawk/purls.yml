@@ -138,3 +138,5 @@
 - pkg:maven/org.apache.myfaces.shared/myfaces-shared-tomahawk@4.1.13?classifier=sources
 - pkg:maven/org.apache.myfaces.shared/myfaces-shared-tomahawk@4.0.21
 - pkg:maven/org.apache.myfaces.shared/myfaces-shared-tomahawk@4.0.21?classifier=sources
+- pkg:maven/org.apache.myfaces.shared/myfaces-shared-tomahawk@4.2.5
+- pkg:maven/org.apache.myfaces.shared/myfaces-shared-tomahawk@4.2.5?classifier=sources
