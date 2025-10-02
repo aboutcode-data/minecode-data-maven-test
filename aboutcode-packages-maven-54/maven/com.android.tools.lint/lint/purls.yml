@@ -1,2 +1,4 @@
 - pkg:maven/com.android.tools.lint/lint@r16
 - pkg:maven/com.android.tools.lint/lint@r16?classifier=sources
+- pkg:maven/com.android.tools.lint/lint@22.1.0
+- pkg:maven/com.android.tools.lint/lint@22.1.0?classifier=sources
