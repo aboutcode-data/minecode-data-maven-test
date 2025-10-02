@@ -82,3 +82,6 @@
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.23.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.24.Final
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.24.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@2.0.0.Beta4
+- pkg:maven/org.jboss/jboss-ejb-client@2.0.0.Beta4?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@2.0.0.Beta4?classifier=source-release&type=zip

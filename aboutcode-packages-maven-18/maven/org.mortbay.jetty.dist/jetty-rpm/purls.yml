@@ -50,3 +50,4 @@
 - pkg:maven/org.mortbay.jetty.dist/jetty-rpm@8.1.12.v20130726?classifier=sources
 - pkg:maven/org.mortbay.jetty.dist/jetty-rpm@7.6.12.v20130726?classifier=sources
 - pkg:maven/org.mortbay.jetty.dist/jetty-rpm@8.1.13.v20130916?classifier=sources
+- pkg:maven/org.mortbay.jetty.dist/jetty-rpm@8.1.14.v20131031?classifier=sources

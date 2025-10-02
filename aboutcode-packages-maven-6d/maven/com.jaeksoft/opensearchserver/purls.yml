@@ -1,2 +1,4 @@
 - pkg:maven/com.jaeksoft/opensearchserver@1.5-BETA2?type=war
 - pkg:maven/com.jaeksoft/opensearchserver@1.5-BETA2?classifier=sources
+- pkg:maven/com.jaeksoft/opensearchserver@1.5-beta3?type=war
+- pkg:maven/com.jaeksoft/opensearchserver@1.5-beta3?classifier=sources

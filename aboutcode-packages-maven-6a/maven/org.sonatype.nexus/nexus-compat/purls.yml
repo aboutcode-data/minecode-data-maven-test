@@ -56,3 +56,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-compat@2.6.4-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-compat@2.7.0-m3
 - pkg:maven/org.sonatype.nexus/nexus-compat@2.7.0-m3?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-compat@2.7.0-m4
+- pkg:maven/org.sonatype.nexus/nexus-compat@2.7.0-m4?classifier=sources

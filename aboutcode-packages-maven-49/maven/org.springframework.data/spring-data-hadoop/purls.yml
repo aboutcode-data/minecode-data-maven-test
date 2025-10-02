@@ -6,3 +6,7 @@
 - pkg:maven/org.springframework.data/spring-data-hadoop@1.0.1.RELEASE-hadoop21?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-hadoop@1.0.1.RELEASE
 - pkg:maven/org.springframework.data/spring-data-hadoop@1.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.0.2.RELEASE-hadoop22
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.0.2.RELEASE-hadoop22?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.0.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.0.2.RELEASE?classifier=sources

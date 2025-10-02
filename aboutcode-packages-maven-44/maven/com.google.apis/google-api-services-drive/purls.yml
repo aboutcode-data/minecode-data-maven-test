@@ -362,3 +362,7 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v1-rev76-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v1-rev76-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-drive@v1-rev76-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev105-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev105-1.17.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v1-rev78-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-drive@v1-rev78-1.17.0-rc?classifier=sources
