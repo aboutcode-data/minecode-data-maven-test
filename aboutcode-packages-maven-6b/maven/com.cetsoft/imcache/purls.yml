@@ -1,2 +1,4 @@
 - pkg:maven/com.cetsoft/imcache@0.0.5
 - pkg:maven/com.cetsoft/imcache@0.0.5?classifier=sources
+- pkg:maven/com.cetsoft/imcache@0.1.2
+- pkg:maven/com.cetsoft/imcache@0.1.2?classifier=sources

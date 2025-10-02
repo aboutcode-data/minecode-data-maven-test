@@ -8,3 +8,5 @@
 - pkg:maven/com.connectsdk/connect-sdk-android-lite@1.4.3?classifier=sources
 - pkg:maven/com.connectsdk/connect-sdk-android-lite@1.4.4?type=aar
 - pkg:maven/com.connectsdk/connect-sdk-android-lite@1.4.4?classifier=sources
+- pkg:maven/com.connectsdk/connect-sdk-android-lite@1.5.0?type=aar
+- pkg:maven/com.connectsdk/connect-sdk-android-lite@1.5.0?classifier=sources
