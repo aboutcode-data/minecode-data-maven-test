@@ -4,3 +4,7 @@
 - pkg:maven/com.impetus.kundera.core/fallback-impl@2.10?classifier=sources
 - pkg:maven/com.impetus.kundera.core/fallback-impl@2.11
 - pkg:maven/com.impetus.kundera.core/fallback-impl@2.11?classifier=sources
+- pkg:maven/com.impetus.kundera.core/fallback-impl@2.11.1-1.x
+- pkg:maven/com.impetus.kundera.core/fallback-impl@2.11.1-1.x?classifier=sources
+- pkg:maven/com.impetus.kundera.core/fallback-impl@2.11.1
+- pkg:maven/com.impetus.kundera.core/fallback-impl@2.11.1?classifier=sources

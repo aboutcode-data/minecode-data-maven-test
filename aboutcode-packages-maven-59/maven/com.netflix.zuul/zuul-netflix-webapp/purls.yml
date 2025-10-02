@@ -4,3 +4,5 @@
 - pkg:maven/com.netflix.zuul/zuul-netflix-webapp@1.0.0?classifier=sources
 - pkg:maven/com.netflix.zuul/zuul-netflix-webapp@0.5.2?type=war
 - pkg:maven/com.netflix.zuul/zuul-netflix-webapp@0.5.2?classifier=sources
+- pkg:maven/com.netflix.zuul/zuul-netflix-webapp@1.0.18?type=war
+- pkg:maven/com.netflix.zuul/zuul-netflix-webapp@1.0.18?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.19?classifier=sources
 - pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.18
 - pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.18?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.21
+- pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.21?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.20
+- pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.20?classifier=sources

@@ -38,3 +38,7 @@
 - pkg:maven/com.sun.istack/istack-commons-runtime@2.19?classifier=sources
 - pkg:maven/com.sun.istack/istack-commons-runtime@2.18
 - pkg:maven/com.sun.istack/istack-commons-runtime@2.18?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-runtime@2.21
+- pkg:maven/com.sun.istack/istack-commons-runtime@2.21?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-runtime@2.20
+- pkg:maven/com.sun.istack/istack-commons-runtime@2.20?classifier=sources
