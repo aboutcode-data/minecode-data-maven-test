@@ -16,3 +16,5 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@6.5.0.CR1?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@6.5.0.CR2
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@6.5.0.CR2?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@7.0.0.Beta2
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@7.0.0.Beta2?classifier=sources

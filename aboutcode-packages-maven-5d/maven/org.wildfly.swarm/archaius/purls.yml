@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.swarm/archaius@2016.8?classifier=sources
 - pkg:maven/org.wildfly.swarm/archaius@2016.9
 - pkg:maven/org.wildfly.swarm/archaius@2016.9?classifier=sources
+- pkg:maven/org.wildfly.swarm/archaius@2016.10.0
+- pkg:maven/org.wildfly.swarm/archaius@2016.10.0?classifier=sources

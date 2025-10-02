@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__node@4.0.29
 - pkg:maven/org.webjars.npm/types__node@4.0.29?classifier=sources
+- pkg:maven/org.webjars.npm/types__node@6.0.45
+- pkg:maven/org.webjars.npm/types__node@6.0.45?classifier=sources
