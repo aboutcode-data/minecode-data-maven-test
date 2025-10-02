@@ -72,3 +72,5 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jdk-http@2.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jdk-http@2.8
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jdk-http@2.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-jdk-http@2.9
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-jdk-http@2.9?classifier=sources

@@ -7,3 +7,6 @@
 - pkg:maven/org.glassfish.jersey.examples/sparklines@2.8
 - pkg:maven/org.glassfish.jersey.examples/sparklines@2.8?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sparklines@2.8?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/sparklines@2.9
+- pkg:maven/org.glassfish.jersey.examples/sparklines@2.9?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sparklines@2.9?classifier=project-src&type=zip

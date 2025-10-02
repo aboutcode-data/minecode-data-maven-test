@@ -108,3 +108,6 @@
 - pkg:maven/org.picketbox/identity-spi@4.0.19.SP6
 - pkg:maven/org.picketbox/identity-spi@4.0.19.SP6?classifier=sources
 - pkg:maven/org.picketbox/identity-spi@4.0.21.Beta3
+- pkg:maven/org.picketbox/identity-spi@4.0.21.Beta3?classifier=sources
+- pkg:maven/org.picketbox/identity-spi@4.0.19.SP7
+- pkg:maven/org.picketbox/identity-spi@4.0.19.SP7?classifier=sources
