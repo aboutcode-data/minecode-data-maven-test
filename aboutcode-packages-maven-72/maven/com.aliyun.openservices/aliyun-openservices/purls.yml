@@ -14,3 +14,5 @@
 - pkg:maven/com.aliyun.openservices/aliyun-openservices@1.2.0?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-openservices@1.2.2
 - pkg:maven/com.aliyun.openservices/aliyun-openservices@1.2.2?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-openservices@2.0.0-OTS
+- pkg:maven/com.aliyun.openservices/aliyun-openservices@2.0.0-OTS?classifier=sources
