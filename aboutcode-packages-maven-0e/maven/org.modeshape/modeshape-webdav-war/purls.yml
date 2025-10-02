@@ -34,3 +34,7 @@
 - pkg:maven/org.modeshape/modeshape-webdav-war@4.0.0.Alpha2?classifier=sources
 - pkg:maven/org.modeshape/modeshape-webdav-war@3.7.3.Final?type=war
 - pkg:maven/org.modeshape/modeshape-webdav-war@3.7.3.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-webdav-war@4.0.0.Alpha3?type=war
+- pkg:maven/org.modeshape/modeshape-webdav-war@4.0.0.Alpha3?classifier=sources
+- pkg:maven/org.modeshape/modeshape-webdav-war@3.7.4.Final?type=war
+- pkg:maven/org.modeshape/modeshape-webdav-war@3.7.4.Final?classifier=sources

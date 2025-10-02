@@ -44,3 +44,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-lucene@3.5.9?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-lucene@3.5.10
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-lucene@3.5.10?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-lucene@3.6
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-lucene@3.6?classifier=sources
