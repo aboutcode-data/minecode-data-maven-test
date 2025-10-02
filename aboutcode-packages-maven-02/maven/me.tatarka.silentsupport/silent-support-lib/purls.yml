@@ -1,0 +1,4 @@
+- pkg:maven/me.tatarka.silentsupport/silent-support-lib@0.2?type=aar
+- pkg:maven/me.tatarka.silentsupport/silent-support-lib@0.2?classifier=sources
+- pkg:maven/me.tatarka.silentsupport/silent-support-lib@0.1?type=aar
+- pkg:maven/me.tatarka.silentsupport/silent-support-lib@0.1?classifier=sources

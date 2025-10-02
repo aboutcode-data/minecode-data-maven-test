@@ -70,3 +70,6 @@
 - pkg:maven/org.carrot2/elasticsearch-carrot2@2.3.3?type=zip
 - pkg:maven/org.carrot2/elasticsearch-carrot2@2.3.3?classifier=sources
 - pkg:maven/org.carrot2/elasticsearch-carrot2@5.1.1?classifier=sources
+- pkg:maven/org.carrot2/elasticsearch-carrot2@5.4.0?classifier=sources
+- pkg:maven/org.carrot2/elasticsearch-carrot2@5.3.0?classifier=sources
+- pkg:maven/org.carrot2/elasticsearch-carrot2@5.2.0?classifier=sources
