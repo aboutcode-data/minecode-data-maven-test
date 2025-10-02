@@ -8,3 +8,5 @@
 - pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.4.0?classifier=sources
 - pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.5.0
 - pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.5.0?classifier=sources
+- pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.6.0
+- pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.6.0?classifier=sources

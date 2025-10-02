@@ -106,3 +106,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.7.5?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.6.7
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.6.7?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.8.0.rc2
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.8.0.rc2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.agapsys.libs/agreste-test@2.0.0?classifier=sources
 - pkg:maven/com.agapsys.libs/agreste-test@1.0.0
 - pkg:maven/com.agapsys.libs/agreste-test@1.0.0?classifier=sources
+- pkg:maven/com.agapsys.libs/agreste-test@5.0.0
+- pkg:maven/com.agapsys.libs/agreste-test@5.0.0?classifier=sources
