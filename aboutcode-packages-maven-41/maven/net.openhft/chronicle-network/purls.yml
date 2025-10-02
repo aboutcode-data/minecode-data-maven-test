@@ -62,3 +62,5 @@
 - pkg:maven/net.openhft/chronicle-network@1.0.35-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@1.0.36
 - pkg:maven/net.openhft/chronicle-network@1.0.36?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@1.0.38
+- pkg:maven/net.openhft/chronicle-network@1.0.38?classifier=sources

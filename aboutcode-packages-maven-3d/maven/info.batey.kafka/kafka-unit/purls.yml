@@ -6,3 +6,5 @@
 - pkg:maven/info.batey.kafka/kafka-unit@0.1.3?classifier=sources
 - pkg:maven/info.batey.kafka/kafka-unit@0.2
 - pkg:maven/info.batey.kafka/kafka-unit@0.2?classifier=sources
+- pkg:maven/info.batey.kafka/kafka-unit@0.3
+- pkg:maven/info.batey.kafka/kafka-unit@0.3?classifier=sources

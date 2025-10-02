@@ -32,3 +32,7 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-tools@4.1.0-RC2?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-tools@3.5.3
 - pkg:maven/net.sourceforge.owlapi/owlapi-tools@3.5.3?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-tools@4.1.0
+- pkg:maven/net.sourceforge.owlapi/owlapi-tools@4.1.0?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-tools@3.5.4
+- pkg:maven/net.sourceforge.owlapi/owlapi-tools@3.5.4?classifier=sources
