@@ -66,3 +66,5 @@
 - pkg:maven/org.smallmind/scribe-slf4j@2.4.7?classifier=sources
 - pkg:maven/org.smallmind/scribe-slf4j@2.4.8
 - pkg:maven/org.smallmind/scribe-slf4j@2.4.8?classifier=sources
+- pkg:maven/org.smallmind/scribe-slf4j@2.4.10
+- pkg:maven/org.smallmind/scribe-slf4j@2.4.10?classifier=sources

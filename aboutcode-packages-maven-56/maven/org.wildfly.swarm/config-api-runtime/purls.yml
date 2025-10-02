@@ -58,3 +58,5 @@
 - pkg:maven/org.wildfly.swarm/config-api-runtime@0.4.8?classifier=sources
 - pkg:maven/org.wildfly.swarm/config-api-runtime@0.4.7
 - pkg:maven/org.wildfly.swarm/config-api-runtime@0.4.7?classifier=sources
+- pkg:maven/org.wildfly.swarm/config-api-runtime@0.4.9
+- pkg:maven/org.wildfly.swarm/config-api-runtime@0.4.9?classifier=sources
