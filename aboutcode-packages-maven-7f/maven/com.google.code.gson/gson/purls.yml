@@ -36,3 +36,7 @@
 - pkg:maven/com.google.code.gson/gson@2.6?classifier=sources
 - pkg:maven/com.google.code.gson/gson@2.6.2
 - pkg:maven/com.google.code.gson/gson@2.6.2?classifier=sources
+- pkg:maven/com.google.code.gson/gson@1.4
+- pkg:maven/com.google.code.gson/gson@1.4?classifier=sources
+- pkg:maven/com.google.code.gson/gson@1.1
+- pkg:maven/com.google.code.gson/gson@1.1?classifier=sources

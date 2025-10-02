@@ -104,3 +104,5 @@
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.43?classifier=sources
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.42?type=war
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.42?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.45?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.45?classifier=sources
