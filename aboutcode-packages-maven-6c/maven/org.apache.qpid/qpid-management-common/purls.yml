@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.qpid/qpid-management-common@6.0.4?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-management-common@6.0.5
 - pkg:maven/org.apache.qpid/qpid-management-common@6.0.5?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@6.0.6
+- pkg:maven/org.apache.qpid/qpid-management-common@6.0.6?classifier=sources
