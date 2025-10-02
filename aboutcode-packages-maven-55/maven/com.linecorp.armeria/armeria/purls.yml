@@ -16,3 +16,5 @@
 - pkg:maven/com.linecorp.armeria/armeria@0.6.4.Final?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria@0.7.0.Final
 - pkg:maven/com.linecorp.armeria/armeria@0.7.0.Final?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria@0.8.0.Final
+- pkg:maven/com.linecorp.armeria/armeria@0.8.0.Final?classifier=sources

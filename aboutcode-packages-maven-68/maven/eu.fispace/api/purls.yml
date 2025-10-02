@@ -104,3 +104,5 @@
 - pkg:maven/eu.fispace/api@0.16.5?classifier=sources
 - pkg:maven/eu.fispace/api@0.16.7
 - pkg:maven/eu.fispace/api@0.16.7?classifier=sources
+- pkg:maven/eu.fispace/api@0.17.0
+- pkg:maven/eu.fispace/api@0.17.0?classifier=sources
