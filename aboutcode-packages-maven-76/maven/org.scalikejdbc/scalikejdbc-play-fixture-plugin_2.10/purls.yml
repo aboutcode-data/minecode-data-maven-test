@@ -28,3 +28,5 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-fixture-plugin_2.10@1.8.1?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-fixture-plugin_2.10@1.8.2
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-fixture-plugin_2.10@1.8.2?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-fixture-plugin_2.10@2.3.1
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-fixture-plugin_2.10@2.3.1?classifier=sources

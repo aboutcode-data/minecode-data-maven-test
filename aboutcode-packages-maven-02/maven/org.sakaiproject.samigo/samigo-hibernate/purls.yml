@@ -26,3 +26,5 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-hibernate@2.9.4?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-hibernate@10.0
 - pkg:maven/org.sakaiproject.samigo/samigo-hibernate@10.0?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-hibernate@10.1
+- pkg:maven/org.sakaiproject.samigo/samigo-hibernate@10.1?classifier=sources

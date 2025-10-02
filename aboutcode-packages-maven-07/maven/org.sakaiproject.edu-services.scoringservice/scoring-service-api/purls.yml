@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@10.0
 - pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@10.0?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@10.1
+- pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@10.1?classifier=sources
