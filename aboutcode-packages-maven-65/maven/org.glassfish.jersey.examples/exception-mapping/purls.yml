@@ -179,3 +179,6 @@
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.25
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.25?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.25?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.26-b01
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.26-b01?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.26-b01?classifier=project-src&type=zip

@@ -94,3 +94,5 @@
 - pkg:maven/org.eurekaclinical/eureka-protempa-etl@2.3?classifier=sources
 - pkg:maven/org.eurekaclinical/eureka-protempa-etl@2.4?type=war
 - pkg:maven/org.eurekaclinical/eureka-protempa-etl@2.4?classifier=sources
+- pkg:maven/org.eurekaclinical/eureka-protempa-etl@3.0-Alpha-1?type=war
+- pkg:maven/org.eurekaclinical/eureka-protempa-etl@3.0-Alpha-1?classifier=sources

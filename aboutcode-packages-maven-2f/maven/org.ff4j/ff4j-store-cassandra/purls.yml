@@ -1,2 +1,4 @@
 - pkg:maven/org.ff4j/ff4j-store-cassandra@1.6
 - pkg:maven/org.ff4j/ff4j-store-cassandra@1.6?classifier=sources
+- pkg:maven/org.ff4j/ff4j-store-cassandra@1.6.1
+- pkg:maven/org.ff4j/ff4j-store-cassandra@1.6.1?classifier=sources
