@@ -122,3 +122,7 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@2.6.12?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@3.0.0-milestone2?type=war
 - pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@3.0.0-milestone2?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@2.7.11?type=war
+- pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@2.7.11?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@2.6.14?type=war
+- pkg:maven/org.apache.cxf.systests/cxf-systests-ci-webapp@2.6.14?classifier=sources

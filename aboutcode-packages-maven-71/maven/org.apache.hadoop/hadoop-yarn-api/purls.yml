@@ -37,3 +37,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-api@0.23.10?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-api@2.3.0
 - pkg:maven/org.apache.hadoop/hadoop-yarn-api@2.3.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-api@2.4.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-api@2.4.0?classifier=sources

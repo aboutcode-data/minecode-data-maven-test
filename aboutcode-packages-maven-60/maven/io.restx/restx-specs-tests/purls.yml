@@ -20,3 +20,5 @@
 - pkg:maven/io.restx/restx-specs-tests@0.31?classifier=sources
 - pkg:maven/io.restx/restx-specs-tests@0.31.1
 - pkg:maven/io.restx/restx-specs-tests@0.31.1?classifier=sources
+- pkg:maven/io.restx/restx-specs-tests@0.32
+- pkg:maven/io.restx/restx-specs-tests@0.32?classifier=sources

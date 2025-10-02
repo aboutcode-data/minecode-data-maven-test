@@ -40,3 +40,5 @@
 - pkg:maven/net.sf.jrtps/jrtps@0.7.1?classifier=sources
 - pkg:maven/net.sf.jrtps/jrtps@0.7.0
 - pkg:maven/net.sf.jrtps/jrtps@0.7.0?classifier=sources
+- pkg:maven/net.sf.jrtps/jrtps@0.8.0
+- pkg:maven/net.sf.jrtps/jrtps@0.8.0?classifier=sources

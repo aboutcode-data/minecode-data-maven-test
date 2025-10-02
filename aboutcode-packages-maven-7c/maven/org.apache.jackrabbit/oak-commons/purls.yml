@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-commons@0.18?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-commons@0.19
 - pkg:maven/org.apache.jackrabbit/oak-commons@0.19?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-commons@0.20.0
+- pkg:maven/org.apache.jackrabbit/oak-commons@0.20.0?classifier=sources
