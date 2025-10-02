@@ -62,3 +62,5 @@
 - pkg:maven/org.chorusbdd/chorus-spring@2.0.0.rc5?classifier=sources
 - pkg:maven/org.chorusbdd/chorus-spring@2.0.0
 - pkg:maven/org.chorusbdd/chorus-spring@2.0.0?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-spring@2.0.1
+- pkg:maven/org.chorusbdd/chorus-spring@2.0.1?classifier=sources

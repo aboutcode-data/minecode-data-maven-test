@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.lucene/lucene-codecs@4.10.3?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-codecs@5.0.0
 - pkg:maven/org.apache.lucene/lucene-codecs@5.0.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-codecs@4.10.4
+- pkg:maven/org.apache.lucene/lucene-codecs@4.10.4?classifier=sources

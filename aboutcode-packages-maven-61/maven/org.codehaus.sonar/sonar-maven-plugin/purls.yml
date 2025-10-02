@@ -311,3 +311,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-maven-plugin@4.5.4?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-maven-plugin@4.5.3
 - pkg:maven/org.codehaus.sonar/sonar-maven-plugin@4.5.3?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-maven-plugin@5.1-RC1
+- pkg:maven/org.codehaus.sonar/sonar-maven-plugin@5.1-RC1?classifier=sources

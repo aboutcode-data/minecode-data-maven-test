@@ -50,3 +50,5 @@
 - pkg:maven/org.craftercms/crafter-search-server@v2.5.0-Beta6?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-server@2.3.7?type=war
 - pkg:maven/org.craftercms/crafter-search-server@2.3.7?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-server@v2.5.0-Beta9?type=war
+- pkg:maven/org.craftercms/crafter-search-server@v2.5.0-Beta9?classifier=sources

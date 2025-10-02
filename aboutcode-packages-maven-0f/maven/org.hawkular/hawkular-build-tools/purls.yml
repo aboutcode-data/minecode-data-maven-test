@@ -4,3 +4,5 @@
 - pkg:maven/org.hawkular/hawkular-build-tools@4?classifier=sources
 - pkg:maven/org.hawkular/hawkular-build-tools@6
 - pkg:maven/org.hawkular/hawkular-build-tools@6?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@7
+- pkg:maven/org.hawkular/hawkular-build-tools@7?classifier=sources
