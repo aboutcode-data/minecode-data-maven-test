@@ -364,3 +364,7 @@
 - pkg:maven/io.fabric8/kubernetes-api@2.2.135?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-api@2.2.134
 - pkg:maven/io.fabric8/kubernetes-api@2.2.134?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-api@2.2.139
+- pkg:maven/io.fabric8/kubernetes-api@2.2.139?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-api@2.2.138
+- pkg:maven/io.fabric8/kubernetes-api@2.2.138?classifier=sources

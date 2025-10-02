@@ -6,3 +6,7 @@
 - pkg:maven/io.fruitful.navigator/navigator@0.4?classifier=sources
 - pkg:maven/io.fruitful.navigator/navigator@0.3?type=aar
 - pkg:maven/io.fruitful.navigator/navigator@0.3?classifier=sources
+- pkg:maven/io.fruitful.navigator/navigator@0.5.2?type=aar
+- pkg:maven/io.fruitful.navigator/navigator@0.5.2?classifier=sources
+- pkg:maven/io.fruitful.navigator/navigator@0.5.1?type=aar
+- pkg:maven/io.fruitful.navigator/navigator@0.5.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/javax.measure/unit-api@0.8-RC3?classifier=sources
 - pkg:maven/javax.measure/unit-api@0.8
 - pkg:maven/javax.measure/unit-api@0.8?classifier=sources
+- pkg:maven/javax.measure/unit-api@0.9
+- pkg:maven/javax.measure/unit-api@0.9?classifier=sources

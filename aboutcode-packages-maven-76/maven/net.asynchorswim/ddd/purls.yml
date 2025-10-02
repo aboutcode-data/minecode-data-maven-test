@@ -24,3 +24,5 @@
 - pkg:maven/net.asynchorswim/ddd@0.2.3?classifier=sources
 - pkg:maven/net.asynchorswim/ddd@0.2.2
 - pkg:maven/net.asynchorswim/ddd@0.2.2?classifier=sources
+- pkg:maven/net.asynchorswim/ddd@0.2%2C4
+- pkg:maven/net.asynchorswim/ddd@0.2%2C4?classifier=sources
