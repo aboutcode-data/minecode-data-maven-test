@@ -4,3 +4,5 @@
 - pkg:maven/io.v/vanadium-natives-macosx@0.2?classifier=sources
 - pkg:maven/io.v/vanadium-natives-macosx@0.4
 - pkg:maven/io.v/vanadium-natives-macosx@0.4?classifier=sources
+- pkg:maven/io.v/vanadium-natives-macosx@0.9
+- pkg:maven/io.v/vanadium-natives-macosx@0.9?classifier=sources

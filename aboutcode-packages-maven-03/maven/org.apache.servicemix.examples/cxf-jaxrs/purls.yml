@@ -76,3 +76,7 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@6.1.0?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@5.4.2
 - pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@5.4.2?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@6.0.2
+- pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@6.0.2?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@5.5.2
+- pkg:maven/org.apache.servicemix.examples/cxf-jaxrs@5.5.2?classifier=sources

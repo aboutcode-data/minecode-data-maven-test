@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.qpid/proton-tests@0.10?classifier=sources
 - pkg:maven/org.apache.qpid/proton-tests@0.11.0
 - pkg:maven/org.apache.qpid/proton-tests@0.11.0?classifier=sources
+- pkg:maven/org.apache.qpid/proton-tests@0.11.1
+- pkg:maven/org.apache.qpid/proton-tests@0.11.1?classifier=sources
