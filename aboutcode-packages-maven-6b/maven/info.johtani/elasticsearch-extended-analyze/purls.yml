@@ -8,3 +8,5 @@
 - pkg:maven/info.johtani/elasticsearch-extended-analyze@1.0.0?classifier=sources
 - pkg:maven/info.johtani/elasticsearch-extended-analyze@1.1.0?type=zip
 - pkg:maven/info.johtani/elasticsearch-extended-analyze@1.1.0?classifier=sources
+- pkg:maven/info.johtani/elasticsearch-extended-analyze@1.2.0?type=zip
+- pkg:maven/info.johtani/elasticsearch-extended-analyze@1.2.0?classifier=sources

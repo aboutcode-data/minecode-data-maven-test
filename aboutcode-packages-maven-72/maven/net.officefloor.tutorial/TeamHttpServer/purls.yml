@@ -36,3 +36,5 @@
 - pkg:maven/net.officefloor.tutorial/TeamHttpServer@2.13.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TeamHttpServer@2.14.0?type=war
 - pkg:maven/net.officefloor.tutorial/TeamHttpServer@2.14.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TeamHttpServer@2.15.0?type=war
+- pkg:maven/net.officefloor.tutorial/TeamHttpServer@2.15.0?classifier=sources

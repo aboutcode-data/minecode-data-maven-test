@@ -70,3 +70,7 @@
 - pkg:maven/org.cddcore/root_2.10@1.8.5.14?classifier=sources
 - pkg:maven/org.cddcore/root_2.10@1.8.5.17
 - pkg:maven/org.cddcore/root_2.10@1.8.5.17?classifier=sources
+- pkg:maven/org.cddcore/root_2.10@2.0.1
+- pkg:maven/org.cddcore/root_2.10@2.0.1?classifier=sources
+- pkg:maven/org.cddcore/root_2.10@2.0.0
+- pkg:maven/org.cddcore/root_2.10@2.0.0?classifier=sources

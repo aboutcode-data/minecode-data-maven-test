@@ -22,3 +22,9 @@
 - pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.0.RC3?classifier=sources
 - pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.0?type=war
 - pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.0?classifier=sources
+- pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.3?type=war
+- pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.3?classifier=sources
+- pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.2?type=war
+- pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.2?classifier=sources
+- pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.1?type=war
+- pkg:maven/org.dihedron.strutlets/strutlets-demo-portlet@1.0.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/io.vertx/vertx-platform@2.1RC2?classifier=sources
 - pkg:maven/io.vertx/vertx-platform@2.1RC3
 - pkg:maven/io.vertx/vertx-platform@2.1RC3?classifier=sources
+- pkg:maven/io.vertx/vertx-platform@2.1
+- pkg:maven/io.vertx/vertx-platform@2.1?classifier=sources

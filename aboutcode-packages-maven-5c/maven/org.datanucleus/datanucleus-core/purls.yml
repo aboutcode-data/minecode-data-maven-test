@@ -180,3 +180,7 @@
 - pkg:maven/org.datanucleus/datanucleus-core@4.0.0-m3?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-core@3.2.14
 - pkg:maven/org.datanucleus/datanucleus-core@3.2.14?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-core@4.0.0-m4
+- pkg:maven/org.datanucleus/datanucleus-core@4.0.0-m4?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-core@3.2.15
+- pkg:maven/org.datanucleus/datanucleus-core@3.2.15?classifier=sources
