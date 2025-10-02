@@ -44,3 +44,5 @@
 - pkg:maven/org.vertexium/vertexium-accumulo@2.2.11?classifier=sources
 - pkg:maven/org.vertexium/vertexium-accumulo@2.2.12
 - pkg:maven/org.vertexium/vertexium-accumulo@2.2.12?classifier=sources
+- pkg:maven/org.vertexium/vertexium-accumulo@2.3.0
+- pkg:maven/org.vertexium/vertexium-accumulo@2.3.0?classifier=sources
