@@ -1,2 +1,4 @@
 - pkg:maven/org.open-dolphin/dolphin-combined@0.7
 - pkg:maven/org.open-dolphin/dolphin-combined@0.7?classifier=sources
+- pkg:maven/org.open-dolphin/dolphin-combined@0.8
+- pkg:maven/org.open-dolphin/dolphin-combined@0.8?classifier=sources
