@@ -25,3 +25,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.0.18
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.0.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.0.18?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.0.20
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.0.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.0.20?classifier=source-release&type=zip

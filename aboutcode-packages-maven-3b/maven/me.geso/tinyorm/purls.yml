@@ -50,3 +50,5 @@
 - pkg:maven/me.geso/tinyorm@1.11.0.rc3?classifier=sources
 - pkg:maven/me.geso/tinyorm@1.11.0.rc2
 - pkg:maven/me.geso/tinyorm@1.11.0.rc2?classifier=sources
+- pkg:maven/me.geso/tinyorm@1.11.0
+- pkg:maven/me.geso/tinyorm@1.11.0?classifier=sources

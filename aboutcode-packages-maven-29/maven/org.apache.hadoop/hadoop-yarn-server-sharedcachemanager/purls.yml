@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-sharedcachemanager@2.7.2?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-sharedcachemanager@2.7.3
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-sharedcachemanager@2.7.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-sharedcachemanager@3.0.0-alpha1

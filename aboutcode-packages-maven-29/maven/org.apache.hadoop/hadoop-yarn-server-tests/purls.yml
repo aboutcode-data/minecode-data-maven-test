@@ -42,3 +42,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.7.3
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.7.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@3.0.0-alpha1

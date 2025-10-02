@@ -158,3 +158,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-run@1.2.18?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run@1.0.33
 - pkg:maven/org.apache.jackrabbit/oak-run@1.0.33?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-run@1.5.9
+- pkg:maven/org.apache.jackrabbit/oak-run@1.5.9?classifier=sources
