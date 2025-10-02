@@ -280,3 +280,5 @@
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.22?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.23?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.23?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.20.24?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.20.24?classifier=sources

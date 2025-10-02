@@ -24,3 +24,5 @@
 - pkg:maven/org.neo4j/neo4j-ogm-test@2.1.0-M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-test@2.1.0
 - pkg:maven/org.neo4j/neo4j-ogm-test@2.1.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-test@2.0.6
+- pkg:maven/org.neo4j/neo4j-ogm-test@2.0.6?classifier=sources
