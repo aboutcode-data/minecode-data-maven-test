@@ -26,3 +26,17 @@
 - pkg:maven/io.fabric8/generator-backend@1.0.11?classifier=sources
 - pkg:maven/io.fabric8/generator-backend@1.0.10?type=war
 - pkg:maven/io.fabric8/generator-backend@1.0.10?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.23?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.23?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.22?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.22?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.21?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.21?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.20?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.20?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.19?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.19?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.18?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.18?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.17?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.17?classifier=sources

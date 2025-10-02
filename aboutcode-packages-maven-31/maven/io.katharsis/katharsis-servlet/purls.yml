@@ -48,3 +48,5 @@
 - pkg:maven/io.katharsis/katharsis-servlet@2.8.2?classifier=sources
 - pkg:maven/io.katharsis/katharsis-servlet@3.0.0
 - pkg:maven/io.katharsis/katharsis-servlet@3.0.0?classifier=sources
+- pkg:maven/io.katharsis/katharsis-servlet@3.0.1
+- pkg:maven/io.katharsis/katharsis-servlet@3.0.1?classifier=sources
