@@ -46,3 +46,7 @@
 - pkg:maven/com.netflix.conductor/conductor-server@1.7.2-rc7?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@1.7.2-rc6?type=war
 - pkg:maven/com.netflix.conductor/conductor-server@1.7.2-rc6?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@1.7.3?type=war
+- pkg:maven/com.netflix.conductor/conductor-server@1.7.3?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@1.7.2?type=war
+- pkg:maven/com.netflix.conductor/conductor-server@1.7.2?classifier=sources

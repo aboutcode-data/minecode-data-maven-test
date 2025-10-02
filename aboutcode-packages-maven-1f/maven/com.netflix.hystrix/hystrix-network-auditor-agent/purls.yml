@@ -158,3 +158,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-network-auditor-agent@1.5.10?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-network-auditor-agent@1.5.11
 - pkg:maven/com.netflix.hystrix/hystrix-network-auditor-agent@1.5.11?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-network-auditor-agent@1.5.12
+- pkg:maven/com.netflix.hystrix/hystrix-network-auditor-agent@1.5.12?classifier=sources
