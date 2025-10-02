@@ -1,3 +1,6 @@
 - pkg:maven/org.apache.directory.fortress/fortress-web@1.0-RC42?type=war
 - pkg:maven/org.apache.directory.fortress/fortress-web@1.0-RC42?classifier=sources
 - pkg:maven/org.apache.directory.fortress/fortress-web@1.0-RC42?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.fortress/fortress-web@1.0.0?type=war
+- pkg:maven/org.apache.directory.fortress/fortress-web@1.0.0?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-web@1.0.0?classifier=source-release&type=zip

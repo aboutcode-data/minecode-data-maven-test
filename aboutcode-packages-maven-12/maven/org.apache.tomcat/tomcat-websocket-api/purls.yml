@@ -92,3 +92,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.5.0?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.0.33
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.0.33?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-api@7.0.69
+- pkg:maven/org.apache.tomcat/tomcat-websocket-api@7.0.69?classifier=sources

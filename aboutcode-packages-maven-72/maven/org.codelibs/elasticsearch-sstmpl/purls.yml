@@ -14,3 +14,7 @@
 - pkg:maven/org.codelibs/elasticsearch-sstmpl@1.6.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-sstmpl@2.1.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-sstmpl@2.1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-sstmpl@2.3.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-sstmpl@2.3.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-sstmpl@2.2.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-sstmpl@2.2.0?classifier=sources

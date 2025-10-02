@@ -23,3 +23,7 @@
 - pkg:maven/org.brutusin/rpc-demo-war@1.6.0?classifier=sources
 - pkg:maven/org.brutusin/rpc-demo-war@1.5.2?type=war
 - pkg:maven/org.brutusin/rpc-demo-war@1.5.2?classifier=sources
+- pkg:maven/org.brutusin/rpc-demo-war@1.6.4?type=war
+- pkg:maven/org.brutusin/rpc-demo-war@1.6.4?classifier=sources
+- pkg:maven/org.brutusin/rpc-demo-war@1.6.3?type=war
+- pkg:maven/org.brutusin/rpc-demo-war@1.6.3?classifier=sources

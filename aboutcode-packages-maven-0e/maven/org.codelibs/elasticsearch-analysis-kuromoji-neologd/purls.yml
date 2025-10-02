@@ -18,3 +18,5 @@
 - pkg:maven/org.codelibs/elasticsearch-analysis-kuromoji-neologd@2.1.1?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analysis-kuromoji-neologd@2.2.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analysis-kuromoji-neologd@2.2.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-kuromoji-neologd@2.3.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-kuromoji-neologd@2.3.0?classifier=sources

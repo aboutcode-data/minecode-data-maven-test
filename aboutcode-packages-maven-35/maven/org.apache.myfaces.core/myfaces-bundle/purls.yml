@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-bundle@2.1.18?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-bundle@2.0.24
 - pkg:maven/org.apache.myfaces.core/myfaces-bundle@2.0.24?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-bundle@2.2.10
+- pkg:maven/org.apache.myfaces.core/myfaces-bundle@2.2.10?classifier=sources
