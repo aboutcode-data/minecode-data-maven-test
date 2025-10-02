@@ -162,3 +162,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.48?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.50
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.50?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.52
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.52?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.51
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.51?classifier=sources

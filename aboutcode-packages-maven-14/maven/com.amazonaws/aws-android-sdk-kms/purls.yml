@@ -1,2 +1,4 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.2.11
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.2.11?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.2.12
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.2.12?classifier=sources

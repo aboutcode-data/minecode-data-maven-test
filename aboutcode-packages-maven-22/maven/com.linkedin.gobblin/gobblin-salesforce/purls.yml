@@ -10,3 +10,5 @@
 - pkg:maven/com.linkedin.gobblin/gobblin-salesforce@0.6.2-hadoop1?classifier=sources
 - pkg:maven/com.linkedin.gobblin/gobblin-salesforce@0.6.0-279-g116c79b
 - pkg:maven/com.linkedin.gobblin/gobblin-salesforce@0.6.0-279-g116c79b?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-salesforce@0.6.2
+- pkg:maven/com.linkedin.gobblin/gobblin-salesforce@0.6.2?classifier=sources
