@@ -10,3 +10,5 @@
 - pkg:maven/org.glassfish.main.admingui/war@4.0?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@4.0-b90?type=war
 - pkg:maven/org.glassfish.main.admingui/war@4.0-b90?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@4.1?type=war
+- pkg:maven/org.glassfish.main.admingui/war@4.1?classifier=sources

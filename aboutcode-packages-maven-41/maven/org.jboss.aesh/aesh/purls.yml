@@ -98,3 +98,5 @@
 - pkg:maven/org.jboss.aesh/aesh@0.33.13?classifier=sources
 - pkg:maven/org.jboss.aesh/aesh@0.56
 - pkg:maven/org.jboss.aesh/aesh@0.56?classifier=sources
+- pkg:maven/org.jboss.aesh/aesh@0.56.1
+- pkg:maven/org.jboss.aesh/aesh@0.56.1?classifier=sources

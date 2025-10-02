@@ -6,3 +6,7 @@
 - pkg:maven/org.immutables/generate@0.14?classifier=sources
 - pkg:maven/org.immutables/generate@0.16
 - pkg:maven/org.immutables/generate@0.16?classifier=sources
+- pkg:maven/org.immutables/generate@0.18
+- pkg:maven/org.immutables/generate@0.18?classifier=sources
+- pkg:maven/org.immutables/generate@0.17
+- pkg:maven/org.immutables/generate@0.17?classifier=sources
