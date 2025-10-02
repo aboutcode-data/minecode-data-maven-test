@@ -136,3 +136,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-visualization@5.2.0-RC2?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-visualization@6.0.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-visualization@6.0.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-visualization@5.2.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-visualization@5.2.0?classifier=sources

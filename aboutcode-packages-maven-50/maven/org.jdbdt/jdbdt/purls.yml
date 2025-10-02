@@ -24,3 +24,5 @@
 - pkg:maven/org.jdbdt/jdbdt@0.10?classifier=sources
 - pkg:maven/org.jdbdt/jdbdt@0.12
 - pkg:maven/org.jdbdt/jdbdt@0.12?classifier=sources
+- pkg:maven/org.jdbdt/jdbdt@1.0.0
+- pkg:maven/org.jdbdt/jdbdt@1.0.0?classifier=sources

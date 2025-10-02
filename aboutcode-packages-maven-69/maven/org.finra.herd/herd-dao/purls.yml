@@ -38,3 +38,5 @@
 - pkg:maven/org.finra.herd/herd-dao@0.44.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-dao@0.45.0
 - pkg:maven/org.finra.herd/herd-dao@0.45.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-dao@0.47.0
+- pkg:maven/org.finra.herd/herd-dao@0.47.0?classifier=sources

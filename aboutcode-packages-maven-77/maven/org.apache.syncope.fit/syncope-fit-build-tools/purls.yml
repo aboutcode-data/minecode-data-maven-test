@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@2.0.2?classifier=sources
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@2.0.3?type=war
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@2.0.3?classifier=sources
+- pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@2.0.4?type=war
+- pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@2.0.4?classifier=sources
