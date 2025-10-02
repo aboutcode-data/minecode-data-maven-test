@@ -2,3 +2,5 @@
 - pkg:maven/com.vectorprint/VectorPrintConfig@7.2?classifier=sources
 - pkg:maven/com.vectorprint/VectorPrintConfig@7.3
 - pkg:maven/com.vectorprint/VectorPrintConfig@7.3?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintConfig@7.5
+- pkg:maven/com.vectorprint/VectorPrintConfig@7.5?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.netbout/netbout-web@2.8?classifier=sources
 - pkg:maven/com.netbout/netbout-web@2.10?type=war
 - pkg:maven/com.netbout/netbout-web@2.10?classifier=sources
+- pkg:maven/com.netbout/netbout-web@2.11?type=war
+- pkg:maven/com.netbout/netbout-web@2.11?classifier=sources

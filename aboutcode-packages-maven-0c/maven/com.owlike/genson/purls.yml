@@ -18,3 +18,7 @@
 - pkg:maven/com.owlike/genson@0.98?classifier=sources
 - pkg:maven/com.owlike/genson@0.99
 - pkg:maven/com.owlike/genson@0.99?classifier=sources
+- pkg:maven/com.owlike/genson@1.0-RC
+- pkg:maven/com.owlike/genson@1.0-RC?classifier=sources
+- pkg:maven/com.owlike/genson@1.0
+- pkg:maven/com.owlike/genson@1.0?classifier=sources
