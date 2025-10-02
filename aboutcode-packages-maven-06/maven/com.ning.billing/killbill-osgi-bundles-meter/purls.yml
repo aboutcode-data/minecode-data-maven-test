@@ -58,3 +58,5 @@
 - pkg:maven/com.ning.billing/killbill-osgi-bundles-meter@0.3.0?classifier=sources
 - pkg:maven/com.ning.billing/killbill-osgi-bundles-meter@0.3.2
 - pkg:maven/com.ning.billing/killbill-osgi-bundles-meter@0.3.2?classifier=sources
+- pkg:maven/com.ning.billing/killbill-osgi-bundles-meter@0.4.0
+- pkg:maven/com.ning.billing/killbill-osgi-bundles-meter@0.4.0?classifier=sources

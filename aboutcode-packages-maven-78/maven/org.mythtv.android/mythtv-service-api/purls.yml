@@ -34,3 +34,5 @@
 - pkg:maven/org.mythtv.android/mythtv-service-api@0.0.31?classifier=sources
 - pkg:maven/org.mythtv.android/mythtv-service-api@0.0.32
 - pkg:maven/org.mythtv.android/mythtv-service-api@0.0.32?classifier=sources
+- pkg:maven/org.mythtv.android/mythtv-service-api@1.0
+- pkg:maven/org.mythtv.android/mythtv-service-api@1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.5.998
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.5.998?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.5.1131
+- pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.5.1131?classifier=sources

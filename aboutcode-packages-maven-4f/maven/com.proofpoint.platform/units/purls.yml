@@ -64,3 +64,5 @@
 - pkg:maven/com.proofpoint.platform/units@0.76?classifier=sources
 - pkg:maven/com.proofpoint.platform/units@0.77
 - pkg:maven/com.proofpoint.platform/units@0.77?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@0.78
+- pkg:maven/com.proofpoint.platform/units@0.78?classifier=sources

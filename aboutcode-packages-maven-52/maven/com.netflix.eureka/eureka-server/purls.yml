@@ -16,3 +16,11 @@
 - pkg:maven/com.netflix.eureka/eureka-server@1.1.97?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server@1.1.103?type=war
 - pkg:maven/com.netflix.eureka/eureka-server@1.1.103?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.107?type=war
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.107?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.106?type=war
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.106?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.105?type=war
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.105?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.104?type=war
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.104?classifier=sources

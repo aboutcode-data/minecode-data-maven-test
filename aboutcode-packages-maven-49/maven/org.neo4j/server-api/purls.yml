@@ -112,3 +112,5 @@
 - pkg:maven/org.neo4j/server-api@1.8.3?classifier=sources
 - pkg:maven/org.neo4j/server-api@1.9.2
 - pkg:maven/org.neo4j/server-api@1.9.2?classifier=sources
+- pkg:maven/org.neo4j/server-api@2.0.0-M04
+- pkg:maven/org.neo4j/server-api@2.0.0-M04?classifier=sources

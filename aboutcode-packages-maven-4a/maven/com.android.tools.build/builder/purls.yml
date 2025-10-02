@@ -22,3 +22,5 @@
 - pkg:maven/com.android.tools.build/builder@0.5.3?classifier=sources
 - pkg:maven/com.android.tools.build/builder@0.5.2
 - pkg:maven/com.android.tools.build/builder@0.5.2?classifier=sources
+- pkg:maven/com.android.tools.build/builder@0.5.5
+- pkg:maven/com.android.tools.build/builder@0.5.5?classifier=sources
