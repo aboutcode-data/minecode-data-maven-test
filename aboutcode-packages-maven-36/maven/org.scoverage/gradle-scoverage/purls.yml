@@ -12,3 +12,7 @@
 - pkg:maven/org.scoverage/gradle-scoverage@1.0.9?classifier=sources
 - pkg:maven/org.scoverage/gradle-scoverage@1.1.0
 - pkg:maven/org.scoverage/gradle-scoverage@1.1.0?classifier=sources
+- pkg:maven/org.scoverage/gradle-scoverage@2.0.0
+- pkg:maven/org.scoverage/gradle-scoverage@2.0.0?classifier=sources
+- pkg:maven/org.scoverage/gradle-scoverage@1.2.0
+- pkg:maven/org.scoverage/gradle-scoverage@1.2.0?classifier=sources

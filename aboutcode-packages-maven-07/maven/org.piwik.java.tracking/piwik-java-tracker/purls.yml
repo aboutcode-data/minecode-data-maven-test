@@ -1,2 +1,4 @@
 - pkg:maven/org.piwik.java.tracking/piwik-java-tracker@1.0
 - pkg:maven/org.piwik.java.tracking/piwik-java-tracker@1.0?classifier=sources
+- pkg:maven/org.piwik.java.tracking/piwik-java-tracker@1.0.1
+- pkg:maven/org.piwik.java.tracking/piwik-java-tracker@1.0.1?classifier=sources

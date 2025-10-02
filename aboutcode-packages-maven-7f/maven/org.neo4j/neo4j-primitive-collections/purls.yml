@@ -64,3 +64,5 @@
 - pkg:maven/org.neo4j/neo4j-primitive-collections@3.0.0-M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-primitive-collections@3.0.0-M02
 - pkg:maven/org.neo4j/neo4j-primitive-collections@3.0.0-M02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-primitive-collections@2.2.8
+- pkg:maven/org.neo4j/neo4j-primitive-collections@2.2.8?classifier=sources

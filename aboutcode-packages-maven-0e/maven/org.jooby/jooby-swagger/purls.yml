@@ -28,3 +28,5 @@
 - pkg:maven/org.jooby/jooby-swagger@0.11.2?classifier=sources
 - pkg:maven/org.jooby/jooby-swagger@0.12.0
 - pkg:maven/org.jooby/jooby-swagger@0.12.0?classifier=sources
+- pkg:maven/org.jooby/jooby-swagger@0.13.0
+- pkg:maven/org.jooby/jooby-swagger@0.13.0?classifier=sources
