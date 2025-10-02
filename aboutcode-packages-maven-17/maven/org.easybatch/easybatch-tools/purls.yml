@@ -22,3 +22,5 @@
 - pkg:maven/org.easybatch/easybatch-tools@5.0.0-RC2?classifier=sources
 - pkg:maven/org.easybatch/easybatch-tools@5.0.0
 - pkg:maven/org.easybatch/easybatch-tools@5.0.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-tools@4.2.1
+- pkg:maven/org.easybatch/easybatch-tools@4.2.1?classifier=sources

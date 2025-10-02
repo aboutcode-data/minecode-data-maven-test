@@ -32,3 +32,5 @@
 - pkg:maven/com.metamx/java-util@0.27.12-mmx-druid?classifier=sources
 - pkg:maven/com.metamx/java-util@0.27.12
 - pkg:maven/com.metamx/java-util@0.27.12?classifier=sources
+- pkg:maven/com.metamx/java-util@0.28.0
+- pkg:maven/com.metamx/java-util@0.28.0?classifier=sources
