@@ -30,3 +30,5 @@
 - pkg:maven/org.mitre/openid-connect-server-webapp@1.1.14?classifier=sources
 - pkg:maven/org.mitre/openid-connect-server-webapp@1.1.15?type=war
 - pkg:maven/org.mitre/openid-connect-server-webapp@1.1.15?classifier=sources
+- pkg:maven/org.mitre/openid-connect-server-webapp@1.1.16?type=war
+- pkg:maven/org.mitre/openid-connect-server-webapp@1.1.16?classifier=sources

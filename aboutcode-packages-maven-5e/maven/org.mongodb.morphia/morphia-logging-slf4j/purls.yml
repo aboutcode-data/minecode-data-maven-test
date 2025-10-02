@@ -14,3 +14,5 @@
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.111?classifier=sources
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@1.0.0-rc0
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@1.0.0-rc0?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@1.0.0-rc1
+- pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@1.0.0-rc1?classifier=sources

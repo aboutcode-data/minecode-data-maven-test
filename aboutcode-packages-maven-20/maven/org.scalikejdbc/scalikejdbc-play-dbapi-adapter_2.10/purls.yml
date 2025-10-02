@@ -1,2 +1,4 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.10@2.4.0-M2-20141215
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.10@2.4.0-M2-20141215?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.10@2.4.0.RC1
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.10@2.4.0.RC1?classifier=sources
