@@ -36,3 +36,5 @@
 - pkg:maven/me.tfeng.toolbox/spring@0.8.8?classifier=sources
 - pkg:maven/me.tfeng.toolbox/spring@0.8.7
 - pkg:maven/me.tfeng.toolbox/spring@0.8.7?classifier=sources
+- pkg:maven/me.tfeng.toolbox/spring@0.9.2
+- pkg:maven/me.tfeng.toolbox/spring@0.9.2?classifier=sources

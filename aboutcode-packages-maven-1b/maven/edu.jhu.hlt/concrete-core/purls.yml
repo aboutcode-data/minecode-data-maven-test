@@ -22,3 +22,5 @@
 - pkg:maven/edu.jhu.hlt/concrete-core@4.9?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-core@4.10
 - pkg:maven/edu.jhu.hlt/concrete-core@4.10?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-core@4.10-rework
+- pkg:maven/edu.jhu.hlt/concrete-core@4.10-rework?classifier=sources
