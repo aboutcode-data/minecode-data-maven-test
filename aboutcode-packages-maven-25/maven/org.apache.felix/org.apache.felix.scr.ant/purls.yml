@@ -34,3 +34,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.scr.ant@1.11.0
 - pkg:maven/org.apache.felix/org.apache.felix.scr.ant@1.11.0?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.scr.ant@1.11.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.scr.ant@1.13.0
+- pkg:maven/org.apache.felix/org.apache.felix.scr.ant@1.13.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.scr.ant@1.13.0?classifier=source-release&type=zip
