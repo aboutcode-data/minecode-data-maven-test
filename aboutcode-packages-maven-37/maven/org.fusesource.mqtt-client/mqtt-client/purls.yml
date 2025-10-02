@@ -24,3 +24,5 @@
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client@1.11?classifier=sources
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client@1.12
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client@1.12?classifier=sources
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client@1.13
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client@1.13?classifier=sources

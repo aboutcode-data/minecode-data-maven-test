@@ -214,3 +214,7 @@
 - pkg:maven/org.apache.wicket/wicket-extensions@6.22.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-extensions@1.5.15
 - pkg:maven/org.apache.wicket/wicket-extensions@1.5.15?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-extensions@7.3.0
+- pkg:maven/org.apache.wicket/wicket-extensions@7.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-extensions@6.23.0
+- pkg:maven/org.apache.wicket/wicket-extensions@6.23.0?classifier=sources

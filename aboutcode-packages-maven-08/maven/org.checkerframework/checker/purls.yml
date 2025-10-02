@@ -50,3 +50,5 @@
 - pkg:maven/org.checkerframework/checker@1.9.12?classifier=sources
 - pkg:maven/org.checkerframework/checker@1.9.13
 - pkg:maven/org.checkerframework/checker@1.9.13?classifier=sources
+- pkg:maven/org.checkerframework/checker@2.0.0
+- pkg:maven/org.checkerframework/checker@2.0.0?classifier=sources

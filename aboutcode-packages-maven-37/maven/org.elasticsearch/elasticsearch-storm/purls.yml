@@ -26,3 +26,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-storm@2.3.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-storm@2.2.1
 - pkg:maven/org.elasticsearch/elasticsearch-storm@2.2.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.0.0-alpha2
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.0.0-alpha2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-storm@2.3.1
+- pkg:maven/org.elasticsearch/elasticsearch-storm@2.3.1?classifier=sources
