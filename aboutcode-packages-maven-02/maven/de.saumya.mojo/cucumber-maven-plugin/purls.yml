@@ -66,3 +66,5 @@
 - pkg:maven/de.saumya.mojo/cucumber-maven-plugin@1.0.8?classifier=sources
 - pkg:maven/de.saumya.mojo/cucumber-maven-plugin@1.0.9
 - pkg:maven/de.saumya.mojo/cucumber-maven-plugin@1.0.9?classifier=sources
+- pkg:maven/de.saumya.mojo/cucumber-maven-plugin@1.0.10
+- pkg:maven/de.saumya.mojo/cucumber-maven-plugin@1.0.10?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-vertx@1.0.1.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-vertx@1.1.2.Preview2
 - pkg:maven/io.apiman/apiman-gateway-platforms-vertx@1.1.2.Preview2?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-vertx@1.1.2.Final
+- pkg:maven/io.apiman/apiman-gateway-platforms-vertx@1.1.2.Final?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/net.bytebuddy/byte-buddy-android@0.6.1?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@0.6.3
 - pkg:maven/net.bytebuddy/byte-buddy-android@0.6.3?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-android@0.6.5
+- pkg:maven/net.bytebuddy/byte-buddy-android@0.6.5?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-android@0.6.4
+- pkg:maven/net.bytebuddy/byte-buddy-android@0.6.4?classifier=sources
