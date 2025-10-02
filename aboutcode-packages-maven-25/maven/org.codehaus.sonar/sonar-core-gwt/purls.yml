@@ -102,3 +102,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-core-gwt@3.3-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-core-gwt@3.3
 - pkg:maven/org.codehaus.sonar/sonar-core-gwt@3.3?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-core-gwt@3.3.1
+- pkg:maven/org.codehaus.sonar/sonar-core-gwt@3.3.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.codeartisans.asadmin/asadmin-maven-plugin@0.7?classifier=sources
 - pkg:maven/org.codeartisans.asadmin/asadmin-maven-plugin@0.9
 - pkg:maven/org.codeartisans.asadmin/asadmin-maven-plugin@0.9?classifier=sources
+- pkg:maven/org.codeartisans.asadmin/asadmin-maven-plugin@0.10
+- pkg:maven/org.codeartisans.asadmin/asadmin-maven-plugin@0.10?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.23?classifier=sources
 - pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.22
 - pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.22?classifier=sources
+- pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.24
+- pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.24?classifier=sources

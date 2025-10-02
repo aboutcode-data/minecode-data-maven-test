@@ -1,0 +1,2 @@
+- pkg:maven/org.eviline/eviline-tomcat@1.0.10?type=war
+- pkg:maven/org.eviline/eviline-tomcat@1.0.10?classifier=sources
