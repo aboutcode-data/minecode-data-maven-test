@@ -18,3 +18,5 @@
 - pkg:maven/com.geeoz.atom/atom-web@1.0d18?classifier=sources
 - pkg:maven/com.geeoz.atom/atom-web@1.0d19?type=war
 - pkg:maven/com.geeoz.atom/atom-web@1.0d19?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-web@1.0d20?type=war
+- pkg:maven/com.geeoz.atom/atom-web@1.0d20?classifier=sources

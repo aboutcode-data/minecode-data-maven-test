@@ -4,3 +4,5 @@
 - pkg:maven/com.cloudbees/extensibility@1.2?classifier=sources
 - pkg:maven/com.cloudbees/extensibility@1.4
 - pkg:maven/com.cloudbees/extensibility@1.4?classifier=sources
+- pkg:maven/com.cloudbees/extensibility@1.5
+- pkg:maven/com.cloudbees/extensibility@1.5?classifier=sources
