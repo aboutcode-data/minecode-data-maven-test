@@ -102,3 +102,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@1.0.0.CR3?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@1.0.0.CR2
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@1.0.0.CR2?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@1.0.0.CR4
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@1.0.0.CR4?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.9.4.Final?classifier=sources
 - pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.9.5.Final?type=war
 - pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.9.5.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.9.6.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.9.6.Final?classifier=sources

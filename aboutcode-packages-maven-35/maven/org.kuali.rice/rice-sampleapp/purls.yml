@@ -150,3 +150,5 @@
 - pkg:maven/org.kuali.rice/rice-sampleapp@2.3.14?classifier=sources
 - pkg:maven/org.kuali.rice/rice-sampleapp@2.5.19?type=war
 - pkg:maven/org.kuali.rice/rice-sampleapp@2.5.19?classifier=sources
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.6.0?type=war
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.6.0?classifier=sources
