@@ -4,3 +4,5 @@
 - pkg:maven/net.roboconf/roboconf-plugin-script@0.4?classifier=sources
 - pkg:maven/net.roboconf/roboconf-plugin-script@0.5
 - pkg:maven/net.roboconf/roboconf-plugin-script@0.5?classifier=sources
+- pkg:maven/net.roboconf/roboconf-plugin-script@0.6
+- pkg:maven/net.roboconf/roboconf-plugin-script@0.6?classifier=sources

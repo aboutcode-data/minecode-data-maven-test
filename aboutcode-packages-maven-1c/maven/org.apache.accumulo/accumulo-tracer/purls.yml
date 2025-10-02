@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.accumulo/accumulo-tracer@1.6.4?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-tracer@1.6.5
 - pkg:maven/org.apache.accumulo/accumulo-tracer@1.6.5?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-tracer@1.7.1
+- pkg:maven/org.apache.accumulo/accumulo-tracer@1.7.1?classifier=sources

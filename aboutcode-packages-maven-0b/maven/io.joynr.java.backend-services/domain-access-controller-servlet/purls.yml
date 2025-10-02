@@ -34,3 +34,5 @@
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.15.0?classifier=sources
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.14.3?type=war
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.14.3?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.15.1?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.15.1?classifier=sources

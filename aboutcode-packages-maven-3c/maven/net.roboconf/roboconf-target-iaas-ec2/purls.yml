@@ -6,3 +6,5 @@
 - pkg:maven/net.roboconf/roboconf-target-iaas-ec2@0.4?classifier=sources
 - pkg:maven/net.roboconf/roboconf-target-iaas-ec2@0.5
 - pkg:maven/net.roboconf/roboconf-target-iaas-ec2@0.5?classifier=sources
+- pkg:maven/net.roboconf/roboconf-target-iaas-ec2@0.6
+- pkg:maven/net.roboconf/roboconf-target-iaas-ec2@0.6?classifier=sources
