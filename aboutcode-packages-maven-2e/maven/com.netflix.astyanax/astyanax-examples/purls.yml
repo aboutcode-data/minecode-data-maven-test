@@ -46,3 +46,5 @@
 - pkg:maven/com.netflix.astyanax/astyanax-examples@3.4.0-rc.1?classifier=sources
 - pkg:maven/com.netflix.astyanax/astyanax-examples@3.4.0
 - pkg:maven/com.netflix.astyanax/astyanax-examples@3.4.0?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-examples@3.6.0
+- pkg:maven/com.netflix.astyanax/astyanax-examples@3.6.0?classifier=sources
