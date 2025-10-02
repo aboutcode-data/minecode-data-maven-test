@@ -12,3 +12,5 @@
 - pkg:maven/nl.42/spring-boot-docker-postgres@0.4.0?classifier=sources
 - pkg:maven/nl.42/spring-boot-docker-postgres@0.6.0
 - pkg:maven/nl.42/spring-boot-docker-postgres@0.6.0?classifier=sources
+- pkg:maven/nl.42/spring-boot-docker-postgres@0.7.0
+- pkg:maven/nl.42/spring-boot-docker-postgres@0.7.0?classifier=sources

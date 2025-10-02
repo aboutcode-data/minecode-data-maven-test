@@ -51,3 +51,4 @@
 - pkg:maven/org.apache.activemq/activemq-openwire-legacy@5.14.4
 - pkg:maven/org.apache.activemq/activemq-openwire-legacy@5.14.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-openwire-legacy@5.14.5
+- pkg:maven/org.apache.activemq/activemq-openwire-legacy@5.14.5?classifier=sources
