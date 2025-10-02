@@ -16,3 +16,5 @@
 - pkg:maven/com.twitter/scalding-args_2.11@0.16.0-RC2?classifier=sources
 - pkg:maven/com.twitter/scalding-args_2.11@0.16.0-RC1
 - pkg:maven/com.twitter/scalding-args_2.11@0.16.0-RC1?classifier=sources
+- pkg:maven/com.twitter/scalding-args_2.11@0.16.0-RC4
+- pkg:maven/com.twitter/scalding-args_2.11@0.16.0-RC4?classifier=sources

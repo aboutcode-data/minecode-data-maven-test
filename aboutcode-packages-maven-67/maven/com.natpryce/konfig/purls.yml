@@ -32,3 +32,5 @@
 - pkg:maven/com.natpryce/konfig@0.0.16.0?classifier=sources
 - pkg:maven/com.natpryce/konfig@0.0.18.0
 - pkg:maven/com.natpryce/konfig@0.0.18.0?classifier=sources
+- pkg:maven/com.natpryce/konfig@1.1.0.0_patched
+- pkg:maven/com.natpryce/konfig@1.1.0.0_patched?classifier=sources

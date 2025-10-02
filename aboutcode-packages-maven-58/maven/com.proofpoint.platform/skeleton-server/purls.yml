@@ -85,3 +85,5 @@
 - pkg:maven/com.proofpoint.platform/skeleton-server@1.29?classifier=sources
 - pkg:maven/com.proofpoint.platform/skeleton-server@1.30?classifier=sources
 - pkg:maven/com.proofpoint.platform/skeleton-server@1.31?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server@1.33?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server@1.32?classifier=sources

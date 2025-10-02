@@ -136,3 +136,7 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-agent@3.24.1?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-agent@3.25.0
 - pkg:maven/com.newrelic.agent.java/newrelic-agent@3.25.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-agent@3.26.1
+- pkg:maven/com.newrelic.agent.java/newrelic-agent@3.26.1?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-agent@3.26.0
+- pkg:maven/com.newrelic.agent.java/newrelic-agent@3.26.0?classifier=sources
