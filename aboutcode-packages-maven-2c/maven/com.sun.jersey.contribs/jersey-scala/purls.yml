@@ -119,3 +119,5 @@
 - pkg:maven/com.sun.jersey.contribs/jersey-scala@1.18?classifier=sources
 - pkg:maven/com.sun.jersey.contribs/jersey-scala@1.18.1
 - pkg:maven/com.sun.jersey.contribs/jersey-scala@1.18.1?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-scala@1.18.2
+- pkg:maven/com.sun.jersey.contribs/jersey-scala@1.18.2?classifier=sources
