@@ -60,3 +60,7 @@
 - pkg:maven/org.ow2.mind/mindc@2.0-alpha1?classifier=src&type=zip
 - pkg:maven/org.ow2.mind/mindc@2.0-alpha1?classifier=src&type=tar.gz
 - pkg:maven/org.ow2.mind/mindc@2.0-alpha1?classifier=sources
+- pkg:maven/org.ow2.mind/mindc@2.0
+- pkg:maven/org.ow2.mind/mindc@2.0?classifier=src&type=zip
+- pkg:maven/org.ow2.mind/mindc@2.0?classifier=src&type=tar.gz
+- pkg:maven/org.ow2.mind/mindc@2.0?classifier=sources

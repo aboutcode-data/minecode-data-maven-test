@@ -74,3 +74,5 @@
 - pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.0.Beta6?classifier=sources
 - pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.0.CR1
 - pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.0.CR2
+- pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.0.CR2?classifier=sources
