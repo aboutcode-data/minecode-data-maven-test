@@ -12,3 +12,5 @@
 - pkg:maven/com.stratio.datasource/spark-mongodb_2.10@0.10.2?classifier=sources
 - pkg:maven/com.stratio.datasource/spark-mongodb_2.10@0.10.3
 - pkg:maven/com.stratio.datasource/spark-mongodb_2.10@0.10.3?classifier=sources
+- pkg:maven/com.stratio.datasource/spark-mongodb_2.10@0.11.0
+- pkg:maven/com.stratio.datasource/spark-mongodb_2.10@0.11.0?classifier=sources

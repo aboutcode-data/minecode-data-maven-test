@@ -14,3 +14,7 @@
 - pkg:maven/in.mtap.iincube/mongorest@0.2.2?classifier=sources
 - pkg:maven/in.mtap.iincube/mongorest@0.2.4
 - pkg:maven/in.mtap.iincube/mongorest@0.2.4?classifier=sources
+- pkg:maven/in.mtap.iincube/mongorest@0.2.6-rc
+- pkg:maven/in.mtap.iincube/mongorest@0.2.6-rc?classifier=sources
+- pkg:maven/in.mtap.iincube/mongorest@0.2.5-rc
+- pkg:maven/in.mtap.iincube/mongorest@0.2.5-rc?classifier=sources
