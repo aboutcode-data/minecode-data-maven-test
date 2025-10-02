@@ -158,3 +158,5 @@
 - pkg:maven/com.vaadin/vaadin-server@7.4.0.beta3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-server@7.3.10
 - pkg:maven/com.vaadin/vaadin-server@7.3.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-server@7.4.0.rc1
+- pkg:maven/com.vaadin/vaadin-server@7.4.0.rc1?classifier=sources

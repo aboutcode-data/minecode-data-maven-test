@@ -22,3 +22,5 @@
 - pkg:maven/com.twitter/twitter-text@1.10.2?classifier=sources
 - pkg:maven/com.twitter/twitter-text@1.11.0
 - pkg:maven/com.twitter/twitter-text@1.11.0?classifier=sources
+- pkg:maven/com.twitter/twitter-text@1.11.1
+- pkg:maven/com.twitter/twitter-text@1.11.1?classifier=sources

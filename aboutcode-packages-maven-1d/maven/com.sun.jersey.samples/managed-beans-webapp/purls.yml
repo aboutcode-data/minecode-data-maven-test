@@ -107,3 +107,5 @@
 - pkg:maven/com.sun.jersey.samples/managed-beans-webapp@1.18.2?classifier=sources
 - pkg:maven/com.sun.jersey.samples/managed-beans-webapp@1.18.3?type=war
 - pkg:maven/com.sun.jersey.samples/managed-beans-webapp@1.18.3?classifier=sources
+- pkg:maven/com.sun.jersey.samples/managed-beans-webapp@1.19?type=war
+- pkg:maven/com.sun.jersey.samples/managed-beans-webapp@1.19?classifier=sources
