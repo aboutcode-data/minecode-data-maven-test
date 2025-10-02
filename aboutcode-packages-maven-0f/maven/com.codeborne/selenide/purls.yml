@@ -160,3 +160,5 @@
 - pkg:maven/com.codeborne/selenide@4.4?classifier=sources
 - pkg:maven/com.codeborne/selenide@4.4.3
 - pkg:maven/com.codeborne/selenide@4.4.3?classifier=sources
+- pkg:maven/com.codeborne/selenide@4.5
+- pkg:maven/com.codeborne/selenide@4.5?classifier=sources
