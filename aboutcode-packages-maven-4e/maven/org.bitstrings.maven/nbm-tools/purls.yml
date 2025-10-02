@@ -1,2 +1,4 @@
 - pkg:maven/org.bitstrings.maven/nbm-tools@3.11-beta-2
 - pkg:maven/org.bitstrings.maven/nbm-tools@3.11-beta-2?classifier=sources
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.11
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.11?classifier=sources

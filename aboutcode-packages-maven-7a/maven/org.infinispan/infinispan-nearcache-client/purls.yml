@@ -102,3 +102,5 @@
 - pkg:maven/org.infinispan/infinispan-nearcache-client@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@6.0.0.Beta2?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@6.0.0.Beta2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-client@6.0.0.CR1?type=war
+- pkg:maven/org.infinispan/infinispan-nearcache-client@6.0.0.CR1?classifier=sources
