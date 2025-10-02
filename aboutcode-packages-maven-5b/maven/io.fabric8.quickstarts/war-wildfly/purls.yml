@@ -20,3 +20,5 @@
 - pkg:maven/io.fabric8.quickstarts/war-wildfly@2.2.106?classifier=sources
 - pkg:maven/io.fabric8.quickstarts/war-wildfly@2.2.114?type=war
 - pkg:maven/io.fabric8.quickstarts/war-wildfly@2.2.114?classifier=sources
+- pkg:maven/io.fabric8.quickstarts/war-wildfly@2.2.123?type=war
+- pkg:maven/io.fabric8.quickstarts/war-wildfly@2.2.123?classifier=sources

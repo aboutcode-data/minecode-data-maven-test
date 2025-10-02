@@ -1,2 +1,4 @@
 - pkg:maven/io.bigdime/bigdime-management-console@0.0.9?type=war
 - pkg:maven/io.bigdime/bigdime-management-console@0.0.9?classifier=sources
+- pkg:maven/io.bigdime/bigdime-management-console@0.9.1?type=war
+- pkg:maven/io.bigdime/bigdime-management-console@0.9.1?classifier=sources

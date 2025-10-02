@@ -60,3 +60,7 @@
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.33.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.35.0
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.35.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.37.0
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.37.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.36.0
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.36.0?classifier=sources

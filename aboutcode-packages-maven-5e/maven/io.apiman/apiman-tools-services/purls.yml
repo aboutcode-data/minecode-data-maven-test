@@ -54,3 +54,5 @@
 - pkg:maven/io.apiman/apiman-tools-services@1.2.5.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-tools-services@1.2.6.Beta1?type=war
 - pkg:maven/io.apiman/apiman-tools-services@1.2.6.Beta1?classifier=sources
+- pkg:maven/io.apiman/apiman-tools-services@1.2.6.Final?type=war
+- pkg:maven/io.apiman/apiman-tools-services@1.2.6.Final?classifier=sources
