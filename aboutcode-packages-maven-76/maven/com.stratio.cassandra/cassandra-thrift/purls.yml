@@ -2,3 +2,5 @@
 - pkg:maven/com.stratio.cassandra/cassandra-thrift@2.0.72?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-thrift@2.0.71
 - pkg:maven/com.stratio.cassandra/cassandra-thrift@2.0.71?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-thrift@2.0.81
+- pkg:maven/com.stratio.cassandra/cassandra-thrift@2.0.81?classifier=sources

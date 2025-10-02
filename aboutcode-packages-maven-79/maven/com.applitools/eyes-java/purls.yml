@@ -28,3 +28,5 @@
 - pkg:maven/com.applitools/eyes-java@2.15?classifier=sources
 - pkg:maven/com.applitools/eyes-java@2.16
 - pkg:maven/com.applitools/eyes-java@2.16?classifier=sources
+- pkg:maven/com.applitools/eyes-java@2.17
+- pkg:maven/com.applitools/eyes-java@2.17?classifier=sources

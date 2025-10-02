@@ -4,3 +4,5 @@
 - pkg:maven/com.hazelcast/hazelcast-jca@3.3-EA?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-jca@3.2.2
 - pkg:maven/com.hazelcast/hazelcast-jca@3.2.2?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-jca@3.3-EA2
+- pkg:maven/com.hazelcast/hazelcast-jca@3.3-EA2?classifier=sources

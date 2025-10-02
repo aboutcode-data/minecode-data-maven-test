@@ -28,3 +28,5 @@
 - pkg:maven/com.squareup.okhttp.sample/simple-client@2.0.0-RC1?classifier=sources
 - pkg:maven/com.squareup.okhttp.sample/simple-client@1.6.0
 - pkg:maven/com.squareup.okhttp.sample/simple-client@1.6.0?classifier=sources
+- pkg:maven/com.squareup.okhttp.sample/simple-client@2.0.0-RC2
+- pkg:maven/com.squareup.okhttp.sample/simple-client@2.0.0-RC2?classifier=sources

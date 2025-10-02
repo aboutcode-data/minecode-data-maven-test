@@ -424,3 +424,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-apt@3.3.3?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-apt@3.3.4
 - pkg:maven/com.mysema.querydsl/querydsl-apt@3.3.4?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-apt@3.4.0
+- pkg:maven/com.mysema.querydsl/querydsl-apt@3.4.0?classifier=sources

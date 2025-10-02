@@ -24,3 +24,5 @@
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.4.0-rc3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.4.0
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.4.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.2.4
+- pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.2.4?classifier=sources
