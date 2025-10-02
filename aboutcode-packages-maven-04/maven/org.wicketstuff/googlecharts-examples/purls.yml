@@ -136,3 +136,7 @@
 - pkg:maven/org.wicketstuff/googlecharts-examples@6.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/googlecharts-examples@6.16.0?type=war
 - pkg:maven/org.wicketstuff/googlecharts-examples@6.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/googlecharts-examples@7.0.0-M3?type=war
+- pkg:maven/org.wicketstuff/googlecharts-examples@7.0.0-M3?classifier=sources
+- pkg:maven/org.wicketstuff/googlecharts-examples@6.17.0?type=war
+- pkg:maven/org.wicketstuff/googlecharts-examples@6.17.0?classifier=sources

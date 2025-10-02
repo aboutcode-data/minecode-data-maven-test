@@ -22,3 +22,5 @@
 - pkg:maven/org.sonatype.sisu.goodies/goodies-inject@1.8?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-inject@1.9
 - pkg:maven/org.sonatype.sisu.goodies/goodies-inject@1.9?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-inject@1.10
+- pkg:maven/org.sonatype.sisu.goodies/goodies-inject@1.10?classifier=sources

@@ -18,3 +18,6 @@
 - pkg:maven/org.wildfly/wildfly-dist@8.1.0.CR2?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly/wildfly-dist@8.1.0.Final?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-dist@8.1.0.Final?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-dist@9.0.0.Alpha1?type=zip
+- pkg:maven/org.wildfly/wildfly-dist@9.0.0.Alpha1?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-dist@9.0.0.Alpha1?classifier=src&type=tar.gz
