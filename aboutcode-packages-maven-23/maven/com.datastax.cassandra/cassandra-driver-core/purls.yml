@@ -140,3 +140,5 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-core@2.1.10.2?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-core@2.0.12.2
 - pkg:maven/com.datastax.cassandra/cassandra-driver-core@2.0.12.2?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-core@3.0.3
+- pkg:maven/com.datastax.cassandra/cassandra-driver-core@3.0.3?classifier=sources
