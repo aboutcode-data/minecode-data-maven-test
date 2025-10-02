@@ -76,3 +76,7 @@
 - pkg:maven/org.http4s/http4s-jetty_2.10@0.12.2?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty_2.10@0.12.4
 - pkg:maven/org.http4s/http4s-jetty_2.10@0.12.4?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty_2.10@0.13.0a
+- pkg:maven/org.http4s/http4s-jetty_2.10@0.13.0a?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty_2.10@0.13.0
+- pkg:maven/org.http4s/http4s-jetty_2.10@0.13.0?classifier=sources

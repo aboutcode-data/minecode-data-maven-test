@@ -106,3 +106,5 @@
 - pkg:maven/org.hidetake/gradle-ssh-plugin@1.5.0?classifier=sources
 - pkg:maven/org.hidetake/gradle-ssh-plugin@1.6.0
 - pkg:maven/org.hidetake/gradle-ssh-plugin@1.6.0?classifier=sources
+- pkg:maven/org.hidetake/gradle-ssh-plugin@2.0.0
+- pkg:maven/org.hidetake/gradle-ssh-plugin@2.0.0?classifier=sources
