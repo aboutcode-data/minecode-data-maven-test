@@ -42,3 +42,5 @@
 - pkg:maven/org.kantega.reststop/reststop-cxf-plugin@2.7?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-cxf-plugin@3.0
 - pkg:maven/org.kantega.reststop/reststop-cxf-plugin@3.0?classifier=sources
+- pkg:maven/org.kantega.reststop/reststop-cxf-plugin@3.1
+- pkg:maven/org.kantega.reststop/reststop-cxf-plugin@3.1?classifier=sources

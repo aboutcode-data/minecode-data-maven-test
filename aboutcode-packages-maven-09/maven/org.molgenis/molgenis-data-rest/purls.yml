@@ -94,3 +94,5 @@
 - pkg:maven/org.molgenis/molgenis-data-rest@2.1.0?classifier=sources
 - pkg:maven/org.molgenis/molgenis-data-rest@3.0.0
 - pkg:maven/org.molgenis/molgenis-data-rest@3.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-rest@3.0.1
+- pkg:maven/org.molgenis/molgenis-data-rest@3.0.1?classifier=sources

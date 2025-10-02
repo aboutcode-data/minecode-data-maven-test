@@ -28,3 +28,5 @@
 - pkg:maven/org.neo4j/neo4j-consistency-check-legacy@2.3.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check-legacy@2.3.9
 - pkg:maven/org.neo4j/neo4j-consistency-check-legacy@2.3.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check-legacy@2.3.10
+- pkg:maven/org.neo4j/neo4j-consistency-check-legacy@2.3.10?classifier=sources
