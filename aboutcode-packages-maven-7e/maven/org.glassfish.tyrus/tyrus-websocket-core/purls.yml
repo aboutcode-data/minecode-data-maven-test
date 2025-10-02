@@ -10,3 +10,7 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-b13?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-b14
 - pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-b14?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-rc2
+- pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-rc2?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-rc1
+- pkg:maven/org.glassfish.tyrus/tyrus-websocket-core@1.0-rc1?classifier=sources

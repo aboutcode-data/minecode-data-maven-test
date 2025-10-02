@@ -38,3 +38,5 @@
 - pkg:maven/javax.enterprise/cdi-api@1.1-PFD?classifier=sources
 - pkg:maven/javax.enterprise/cdi-api@1.1-20130305
 - pkg:maven/javax.enterprise/cdi-api@1.1-20130305?classifier=sources
+- pkg:maven/javax.enterprise/cdi-api@1.1-20130403
+- pkg:maven/javax.enterprise/cdi-api@1.1-20130403?classifier=sources

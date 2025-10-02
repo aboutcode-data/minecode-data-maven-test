@@ -27,3 +27,9 @@
 - pkg:maven/org.dojotoolkit/dojo-war@1.8.0?classifier=sources
 - pkg:maven/org.dojotoolkit/dojo-war@1.8.1?type=war
 - pkg:maven/org.dojotoolkit/dojo-war@1.8.1?classifier=sources
+- pkg:maven/org.dojotoolkit/dojo-war@1.9.0b2?type=war
+- pkg:maven/org.dojotoolkit/dojo-war@1.9.0b2?classifier=sources
+- pkg:maven/org.dojotoolkit/dojo-war@1.8.3?type=war
+- pkg:maven/org.dojotoolkit/dojo-war@1.8.3?classifier=sources
+- pkg:maven/org.dojotoolkit/dojo-war@1.8.2?type=war
+- pkg:maven/org.dojotoolkit/dojo-war@1.8.2?classifier=sources
