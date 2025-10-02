@@ -164,3 +164,5 @@
 - pkg:maven/org.grails/grails-datastore-web@6.0.4.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-web@6.0.5.RELEASE
 - pkg:maven/org.grails/grails-datastore-web@6.0.5.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-web@6.1.0.M1
+- pkg:maven/org.grails/grails-datastore-web@6.1.0.M1?classifier=sources

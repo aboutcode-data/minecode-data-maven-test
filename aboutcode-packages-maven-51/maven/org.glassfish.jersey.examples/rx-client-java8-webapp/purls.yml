@@ -55,3 +55,6 @@
 - pkg:maven/org.glassfish.jersey.examples/rx-client-java8-webapp@2.25?type=war
 - pkg:maven/org.glassfish.jersey.examples/rx-client-java8-webapp@2.25?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/rx-client-java8-webapp@2.25?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/rx-client-java8-webapp@2.25.1?type=war
+- pkg:maven/org.glassfish.jersey.examples/rx-client-java8-webapp@2.25.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/rx-client-java8-webapp@2.25.1?classifier=project-src&type=zip
