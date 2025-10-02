@@ -28,3 +28,5 @@
 - pkg:maven/de.adorsys.oauth/oauth-test@0.24?classifier=sources
 - pkg:maven/de.adorsys.oauth/oauth-test@0.25?type=war
 - pkg:maven/de.adorsys.oauth/oauth-test@0.25?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test@0.26?type=war
+- pkg:maven/de.adorsys.oauth/oauth-test@0.26?classifier=sources

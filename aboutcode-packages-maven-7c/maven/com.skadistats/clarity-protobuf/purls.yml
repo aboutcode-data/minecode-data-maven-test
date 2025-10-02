@@ -4,3 +4,5 @@
 - pkg:maven/com.skadistats/clarity-protobuf@2?classifier=sources
 - pkg:maven/com.skadistats/clarity-protobuf@4.0
 - pkg:maven/com.skadistats/clarity-protobuf@4.0?classifier=sources
+- pkg:maven/com.skadistats/clarity-protobuf@4.1
+- pkg:maven/com.skadistats/clarity-protobuf@4.1?classifier=sources

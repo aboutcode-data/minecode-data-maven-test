@@ -42,3 +42,7 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4.9-RC1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4.9
 - pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4.9?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4.10
+- pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4.10?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4-ARTERY-M4
+- pkg:maven/com.typesafe.akka/akka-persistence-query-experimental_2.11@2.4-ARTERY-M4?classifier=sources

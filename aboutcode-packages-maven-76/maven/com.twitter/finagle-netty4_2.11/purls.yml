@@ -10,3 +10,5 @@
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.36.0?classifier=sources
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.37.0
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.37.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.11@6.38.0
+- pkg:maven/com.twitter/finagle-netty4_2.11@6.38.0?classifier=sources
