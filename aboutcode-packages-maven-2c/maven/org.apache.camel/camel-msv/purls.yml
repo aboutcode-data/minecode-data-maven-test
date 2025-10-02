@@ -117,3 +117,5 @@
 - pkg:maven/org.apache.camel/camel-msv@2.11.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-msv@2.12.3
 - pkg:maven/org.apache.camel/camel-msv@2.12.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-msv@2.13.0
+- pkg:maven/org.apache.camel/camel-msv@2.13.0?classifier=sources

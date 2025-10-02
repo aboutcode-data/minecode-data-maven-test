@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.camel/camel-example-gauth@2.11.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-gauth@2.12.3?type=war
 - pkg:maven/org.apache.camel/camel-example-gauth@2.12.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-gauth@2.13.0?type=war
+- pkg:maven/org.apache.camel/camel-example-gauth@2.13.0?classifier=sources

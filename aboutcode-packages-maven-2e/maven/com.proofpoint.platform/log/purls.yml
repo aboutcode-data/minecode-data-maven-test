@@ -92,3 +92,5 @@
 - pkg:maven/com.proofpoint.platform/log@0.90?classifier=sources
 - pkg:maven/com.proofpoint.platform/log@0.91
 - pkg:maven/com.proofpoint.platform/log@0.91?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@0.92
+- pkg:maven/com.proofpoint.platform/log@0.92?classifier=sources

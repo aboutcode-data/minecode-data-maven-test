@@ -10,3 +10,5 @@
 - pkg:maven/com.google.inject/guice@1.0
 - pkg:maven/com.google.inject/guice@4.0-beta
 - pkg:maven/com.google.inject/guice@4.0-beta?classifier=sources
+- pkg:maven/com.google.inject/guice@4.0-beta4
+- pkg:maven/com.google.inject/guice@4.0-beta4?classifier=sources
