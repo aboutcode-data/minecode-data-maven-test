@@ -146,3 +146,5 @@
 - pkg:maven/org.codehaus.jackson/jackson-mapper-lgpl@1.9.7?classifier=sources
 - pkg:maven/org.codehaus.jackson/jackson-mapper-lgpl@1.9.8
 - pkg:maven/org.codehaus.jackson/jackson-mapper-lgpl@1.9.8?classifier=sources
+- pkg:maven/org.codehaus.jackson/jackson-mapper-lgpl@1.8.10
+- pkg:maven/org.codehaus.jackson/jackson-mapper-lgpl@1.8.10?classifier=sources

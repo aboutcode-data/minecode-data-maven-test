@@ -11,3 +11,6 @@
 - pkg:maven/org.apache.maven.enforcer/enforcer-api@1.1
 - pkg:maven/org.apache.maven.enforcer/enforcer-api@1.1?classifier=sources
 - pkg:maven/org.apache.maven.enforcer/enforcer-api@1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.enforcer/enforcer-api@1.1.1
+- pkg:maven/org.apache.maven.enforcer/enforcer-api@1.1.1?classifier=sources
+- pkg:maven/org.apache.maven.enforcer/enforcer-api@1.1.1?classifier=source-release&type=zip

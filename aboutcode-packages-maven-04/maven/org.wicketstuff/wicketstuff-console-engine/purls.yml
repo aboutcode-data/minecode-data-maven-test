@@ -18,3 +18,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-console-engine@1.5.5?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-console-engine@1.5.7
 - pkg:maven/org.wicketstuff/wicketstuff-console-engine@1.5.7?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-console-engine@6.0.0-beta3
+- pkg:maven/org.wicketstuff/wicketstuff-console-engine@6.0.0-beta3?classifier=sources

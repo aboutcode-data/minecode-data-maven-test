@@ -6,3 +6,5 @@
 - pkg:maven/de.devbliss.apitester/apitester@0.3?classifier=sources
 - pkg:maven/de.devbliss.apitester/apitester@0.2
 - pkg:maven/de.devbliss.apitester/apitester@0.2?classifier=sources
+- pkg:maven/de.devbliss.apitester/apitester@0.5
+- pkg:maven/de.devbliss.apitester/apitester@0.5?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@1.5.5?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@1.5.7?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@1.5.7?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.0.0-beta3?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.0.0-beta3?classifier=sources

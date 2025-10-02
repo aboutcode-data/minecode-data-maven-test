@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.lucene/lucene-test-framework@3.6.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-test-framework@4.0.0-ALPHA
 - pkg:maven/org.apache.lucene/lucene-test-framework@4.0.0-ALPHA?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-test-framework@3.6.1
+- pkg:maven/org.apache.lucene/lucene-test-framework@3.6.1?classifier=sources

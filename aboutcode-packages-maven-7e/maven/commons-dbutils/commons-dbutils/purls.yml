@@ -11,3 +11,7 @@
 - pkg:maven/commons-dbutils/commons-dbutils@1.0
 - pkg:maven/commons-dbutils/commons-dbutils@1.4
 - pkg:maven/commons-dbutils/commons-dbutils@1.4?classifier=sources
+- pkg:maven/commons-dbutils/commons-dbutils@1.5
+- pkg:maven/commons-dbutils/commons-dbutils@1.5?classifier=src&type=zip
+- pkg:maven/commons-dbutils/commons-dbutils@1.5?classifier=src&type=tar.gz
+- pkg:maven/commons-dbutils/commons-dbutils@1.5?classifier=sources

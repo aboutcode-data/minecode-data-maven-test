@@ -24,3 +24,5 @@
 - pkg:maven/org.semver/enforcer-rule@0.9.12?classifier=sources
 - pkg:maven/org.semver/enforcer-rule@0.9.13
 - pkg:maven/org.semver/enforcer-rule@0.9.13?classifier=sources
+- pkg:maven/org.semver/enforcer-rule@0.9.14
+- pkg:maven/org.semver/enforcer-rule@0.9.14?classifier=sources

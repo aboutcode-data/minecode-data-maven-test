@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.solr/solr@3.5.0?type=war
 - pkg:maven/org.apache.solr/solr@3.6.0?type=war
 - pkg:maven/org.apache.solr/solr@4.0.0-ALPHA?type=war
+- pkg:maven/org.apache.solr/solr@3.6.1?type=war

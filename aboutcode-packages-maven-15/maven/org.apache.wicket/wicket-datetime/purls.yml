@@ -122,3 +122,5 @@
 - pkg:maven/org.apache.wicket/wicket-datetime@6.0.0-beta2?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@1.5.7
 - pkg:maven/org.apache.wicket/wicket-datetime@1.5.7?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-datetime@6.0.0-beta3
+- pkg:maven/org.apache.wicket/wicket-datetime@6.0.0-beta3?classifier=sources
