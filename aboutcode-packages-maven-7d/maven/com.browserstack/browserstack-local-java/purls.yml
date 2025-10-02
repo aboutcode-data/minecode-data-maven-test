@@ -1,2 +1,4 @@
 - pkg:maven/com.browserstack/browserstack-local-java@0.1.0
 - pkg:maven/com.browserstack/browserstack-local-java@0.1.0?classifier=sources
+- pkg:maven/com.browserstack/browserstack-local-java@0.2.0
+- pkg:maven/com.browserstack/browserstack-local-java@0.2.0?classifier=sources
