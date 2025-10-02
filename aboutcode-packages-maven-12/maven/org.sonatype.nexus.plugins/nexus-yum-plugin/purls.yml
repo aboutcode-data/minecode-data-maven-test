@@ -1,1 +1,2 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-plugin@3.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-yum-plugin@3.0.1?classifier=sources

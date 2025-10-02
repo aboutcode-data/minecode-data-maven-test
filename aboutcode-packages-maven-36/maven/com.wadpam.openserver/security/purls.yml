@@ -2,3 +2,5 @@
 - pkg:maven/com.wadpam.openserver/security@20?classifier=sources
 - pkg:maven/com.wadpam.openserver/security@21
 - pkg:maven/com.wadpam.openserver/security@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@22
+- pkg:maven/com.wadpam.openserver/security@22?classifier=sources

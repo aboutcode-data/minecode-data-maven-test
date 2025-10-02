@@ -6,3 +6,5 @@
 - pkg:maven/cglib/cglib-nodep@2.1_3?classifier=sources
 - pkg:maven/cglib/cglib-nodep@2.1_2
 - pkg:maven/cglib/cglib-nodep@2.1
+- pkg:maven/cglib/cglib-nodep@3.0
+- pkg:maven/cglib/cglib-nodep@3.0?classifier=sources

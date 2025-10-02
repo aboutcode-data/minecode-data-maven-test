@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/transactions@21
 - pkg:maven/com.wadpam.openserver/transactions@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@22
+- pkg:maven/com.wadpam.openserver/transactions@22?classifier=sources
