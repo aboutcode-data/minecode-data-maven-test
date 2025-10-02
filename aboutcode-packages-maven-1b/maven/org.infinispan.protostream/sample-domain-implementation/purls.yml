@@ -74,3 +74,5 @@
 - pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.6.Final
 - pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.6.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@4.0.0.Alpha3
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@4.0.0.Alpha3?classifier=sources

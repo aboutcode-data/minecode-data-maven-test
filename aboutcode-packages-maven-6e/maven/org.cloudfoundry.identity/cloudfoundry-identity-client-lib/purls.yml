@@ -51,3 +51,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@2.7.4.9
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.8.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.8.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.9.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.9.0?classifier=sources
