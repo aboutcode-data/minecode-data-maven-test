@@ -26,3 +26,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-jpa@4.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jpa@3.0.3.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-jpa@3.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jpa@4.0.3.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jpa@4.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jpa@3.0.4.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jpa@3.0.4.RELEASE?classifier=sources

@@ -126,3 +126,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@6.1-milestone-2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@6.1-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@6.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@6.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@6.1?classifier=sources

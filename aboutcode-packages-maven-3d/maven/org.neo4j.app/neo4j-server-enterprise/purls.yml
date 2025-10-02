@@ -90,3 +90,5 @@
 - pkg:maven/org.neo4j.app/neo4j-server-enterprise@2.1.2?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server-enterprise@1.9.8
 - pkg:maven/org.neo4j.app/neo4j-server-enterprise@1.9.8?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server-enterprise@2.0.4
+- pkg:maven/org.neo4j.app/neo4j-server-enterprise@2.0.4?classifier=sources

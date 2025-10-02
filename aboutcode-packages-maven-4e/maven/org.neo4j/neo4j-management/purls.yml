@@ -168,3 +168,5 @@
 - pkg:maven/org.neo4j/neo4j-management@2.1.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-management@1.9.8
 - pkg:maven/org.neo4j/neo4j-management@1.9.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-management@2.0.4
+- pkg:maven/org.neo4j/neo4j-management@2.0.4?classifier=sources
