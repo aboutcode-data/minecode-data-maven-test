@@ -1,0 +1,4 @@
+- pkg:maven/at.rocklogic.kafka/object-support@1.0
+- pkg:maven/at.rocklogic.kafka/object-support@1.0?classifier=sources
+- pkg:maven/at.rocklogic.kafka/object-support@0.2
+- pkg:maven/at.rocklogic.kafka/object-support@0.2?classifier=sources
