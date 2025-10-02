@@ -10,3 +10,5 @@
 - pkg:maven/com.twitter/cassovary-core_2.11@5.1.4?classifier=sources
 - pkg:maven/com.twitter/cassovary-core_2.11@6.1.0
 - pkg:maven/com.twitter/cassovary-core_2.11@6.1.0?classifier=sources
+- pkg:maven/com.twitter/cassovary-core_2.11@6.3.0
+- pkg:maven/com.twitter/cassovary-core_2.11@6.3.0?classifier=sources

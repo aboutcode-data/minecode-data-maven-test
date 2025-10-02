@@ -32,3 +32,7 @@
 - pkg:maven/com.lithium/dev-ldn-starql@2.7?classifier=sources
 - pkg:maven/com.lithium/dev-ldn-starql@2.8
 - pkg:maven/com.lithium/dev-ldn-starql@2.8?classifier=sources
+- pkg:maven/com.lithium/dev-ldn-starql@2.11
+- pkg:maven/com.lithium/dev-ldn-starql@2.11?classifier=sources
+- pkg:maven/com.lithium/dev-ldn-starql@2.10
+- pkg:maven/com.lithium/dev-ldn-starql@2.10?classifier=sources
