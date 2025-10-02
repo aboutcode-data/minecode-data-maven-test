@@ -1,2 +1,4 @@
 - pkg:maven/net.java.msrp/msrp@1.0.1.BETA
 - pkg:maven/net.java.msrp/msrp@1.0.1.BETA?classifier=sources
+- pkg:maven/net.java.msrp/msrp@1.0.3.FINAL
+- pkg:maven/net.java.msrp/msrp@1.0.3.FINAL?classifier=sources

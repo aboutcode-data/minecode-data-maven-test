@@ -20,3 +20,7 @@
 - pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.0.0?classifier=sources
 - pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.1.0
 - pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.1.0?classifier=sources
+- pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.2.0-2.9.2
+- pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.2.0-2.9.2?classifier=sources
+- pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.2.0-2.10.0-M7
+- pkg:maven/com.googlecode.scalascriptengine/scalascriptengine@1.2.0-2.10.0-M7?classifier=sources

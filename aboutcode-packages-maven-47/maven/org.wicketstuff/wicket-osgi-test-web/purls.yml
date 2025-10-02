@@ -26,3 +26,5 @@
 - pkg:maven/org.wicketstuff/wicket-osgi-test-web@1.5.8?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-osgi-test-web@6.0.0
 - pkg:maven/org.wicketstuff/wicket-osgi-test-web@6.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-osgi-test-web@6.2.0
+- pkg:maven/org.wicketstuff/wicket-osgi-test-web@6.2.0?classifier=sources

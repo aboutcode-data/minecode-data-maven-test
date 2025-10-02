@@ -32,3 +32,5 @@
 - pkg:maven/junit/junit@3.8.1?classifier=sources
 - pkg:maven/junit/junit@3.8
 - pkg:maven/junit/junit@3.7
+- pkg:maven/junit/junit@4.11-beta-1
+- pkg:maven/junit/junit@4.11-beta-1?classifier=sources
