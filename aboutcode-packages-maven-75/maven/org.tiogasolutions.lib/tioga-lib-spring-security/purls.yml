@@ -24,3 +24,5 @@
 - pkg:maven/org.tiogasolutions.lib/tioga-lib-spring-security@4.2.6?classifier=sources
 - pkg:maven/org.tiogasolutions.lib/tioga-lib-spring-security@5.0.0
 - pkg:maven/org.tiogasolutions.lib/tioga-lib-spring-security@5.0.0?classifier=sources
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-spring-security@5.0.1.DEPRECATED
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-spring-security@5.0.1.DEPRECATED?classifier=sources

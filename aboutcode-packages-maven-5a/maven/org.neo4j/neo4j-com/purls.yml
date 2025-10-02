@@ -320,3 +320,5 @@
 - pkg:maven/org.neo4j/neo4j-com@2.3.10?classifier=sources
 - pkg:maven/org.neo4j/neo4j-com@3.2.0-alpha08
 - pkg:maven/org.neo4j/neo4j-com@3.2.0-alpha08?classifier=sources
+- pkg:maven/org.neo4j/neo4j-com@3.2.0-rc1
+- pkg:maven/org.neo4j/neo4j-com@3.2.0-rc1?classifier=sources
