@@ -121,3 +121,7 @@
 - pkg:maven/by.stub/stubby4j@2.0.21?classifier=sources
 - pkg:maven/by.stub/stubby4j@2.0.20?classifier=sources
 - pkg:maven/by.stub/stubby4j@2.0.19?classifier=sources
+- pkg:maven/by.stub/stubby4j@3.0.0
+- pkg:maven/by.stub/stubby4j@3.0.0?classifier=sources
+- pkg:maven/by.stub/stubby4j@2.0.22
+- pkg:maven/by.stub/stubby4j@2.0.22?classifier=sources

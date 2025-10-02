@@ -88,3 +88,5 @@
 - pkg:maven/com.facebook.presto/presto-hive@0.94?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive@0.96
 - pkg:maven/com.facebook.presto/presto-hive@0.96?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive@0.97
+- pkg:maven/com.facebook.presto/presto-hive@0.97?classifier=sources

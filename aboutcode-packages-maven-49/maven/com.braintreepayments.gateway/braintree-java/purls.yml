@@ -50,3 +50,5 @@
 - pkg:maven/com.braintreepayments.gateway/braintree-java@2.39.2?classifier=sources
 - pkg:maven/com.braintreepayments.gateway/braintree-java@2.40.0
 - pkg:maven/com.braintreepayments.gateway/braintree-java@2.40.0?classifier=sources
+- pkg:maven/com.braintreepayments.gateway/braintree-java@2.41.1
+- pkg:maven/com.braintreepayments.gateway/braintree-java@2.41.1?classifier=sources

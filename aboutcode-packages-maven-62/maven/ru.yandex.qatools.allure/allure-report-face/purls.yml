@@ -65,3 +65,5 @@
 - pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.4.9?classifier=sources
 - pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.4.10?type=war
 - pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.4.10?classifier=sources
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.4.11?type=war
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.4.11?classifier=sources
