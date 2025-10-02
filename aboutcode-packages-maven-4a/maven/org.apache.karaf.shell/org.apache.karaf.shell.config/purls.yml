@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.config@2.3.8?classifier=sources
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.config@2.3.9
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.config@2.3.9?classifier=sources
+- pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.config@2.4.1
+- pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.config@2.4.1?classifier=sources

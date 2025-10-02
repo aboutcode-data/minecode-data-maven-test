@@ -36,3 +36,5 @@
 - pkg:maven/org.gradlefx/gradlefx@0.8.3?classifier=sources
 - pkg:maven/org.gradlefx/gradlefx@1.0
 - pkg:maven/org.gradlefx/gradlefx@1.0?classifier=sources
+- pkg:maven/org.gradlefx/gradlefx@1.1
+- pkg:maven/org.gradlefx/gradlefx@1.1?classifier=sources
