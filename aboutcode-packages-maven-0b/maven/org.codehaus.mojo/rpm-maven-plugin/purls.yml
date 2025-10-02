@@ -23,3 +23,6 @@
 - pkg:maven/org.codehaus.mojo/rpm-maven-plugin@2.1-alpha-3
 - pkg:maven/org.codehaus.mojo/rpm-maven-plugin@2.1-alpha-3?classifier=sources
 - pkg:maven/org.codehaus.mojo/rpm-maven-plugin@2.1-alpha-3?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/rpm-maven-plugin@2.1-alpha-4
+- pkg:maven/org.codehaus.mojo/rpm-maven-plugin@2.1-alpha-4?classifier=sources
+- pkg:maven/org.codehaus.mojo/rpm-maven-plugin@2.1-alpha-4?classifier=source-release&type=zip
