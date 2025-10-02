@@ -1,2 +1,4 @@
 - pkg:maven/com.github.play2war/play2-war-core-common_2.10@0.9-RC2
 - pkg:maven/com.github.play2war/play2-war-core-common_2.10@0.9-RC2?classifier=sources
+- pkg:maven/com.github.play2war/play2-war-core-common_2.10@0.9
+- pkg:maven/com.github.play2war/play2-war-core-common_2.10@0.9?classifier=sources

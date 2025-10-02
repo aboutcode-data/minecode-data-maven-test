@@ -64,3 +64,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-api@4.5.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-api@4.5.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-api@4.5.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-api@5.0-milestone-2
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-api@5.0-milestone-2?classifier=sources

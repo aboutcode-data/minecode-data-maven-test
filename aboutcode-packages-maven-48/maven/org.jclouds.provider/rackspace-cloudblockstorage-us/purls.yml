@@ -24,3 +24,5 @@
 - pkg:maven/org.jclouds.provider/rackspace-cloudblockstorage-us@1.5.9?classifier=sources
 - pkg:maven/org.jclouds.provider/rackspace-cloudblockstorage-us@1.6.0-rc.2
 - pkg:maven/org.jclouds.provider/rackspace-cloudblockstorage-us@1.6.0-rc.2?classifier=sources
+- pkg:maven/org.jclouds.provider/rackspace-cloudblockstorage-us@1.6.0-rc.3
+- pkg:maven/org.jclouds.provider/rackspace-cloudblockstorage-us@1.6.0-rc.3?classifier=sources
