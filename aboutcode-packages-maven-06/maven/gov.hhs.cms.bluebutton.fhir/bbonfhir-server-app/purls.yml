@@ -27,3 +27,6 @@
 - pkg:maven/gov.hhs.cms.bluebutton.fhir/bbonfhir-server-app@0.1.0-cbbf-31-switch-to-wildfly-1?type=war
 - pkg:maven/gov.hhs.cms.bluebutton.fhir/bbonfhir-server-app@0.1.0-47?type=war
 - pkg:maven/gov.hhs.cms.bluebutton.fhir/bbonfhir-server-app@0.1.0-46?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bbonfhir-server-app@0.1.0-cbbd-141-wildfly-connect-timeouts-1?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bbonfhir-server-app@0.1.0-cbbd-119-tweaks-needed-by-benchmarks-1?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bbonfhir-server-app@0.1.0-48?type=war
