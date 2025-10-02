@@ -12,3 +12,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.12.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.13.0
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.13.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.14.0
+- pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.14.0?classifier=sources

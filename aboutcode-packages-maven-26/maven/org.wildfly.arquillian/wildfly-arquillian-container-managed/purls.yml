@@ -8,3 +8,5 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-managed@1.0.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-managed@1.0.0.Alpha5
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-managed@1.0.0.Alpha5?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-managed@1.0.0.CR1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-managed@1.0.0.CR1?classifier=sources

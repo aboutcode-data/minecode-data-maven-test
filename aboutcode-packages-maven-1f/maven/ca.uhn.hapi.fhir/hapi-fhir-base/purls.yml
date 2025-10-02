@@ -16,3 +16,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@0.8?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@0.9
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@0.9?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@1.0?classifier=sources
