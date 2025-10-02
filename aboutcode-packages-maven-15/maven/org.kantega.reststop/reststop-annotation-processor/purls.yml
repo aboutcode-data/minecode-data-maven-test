@@ -6,3 +6,5 @@
 - pkg:maven/org.kantega.reststop/reststop-annotation-processor@2.0?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-annotation-processor@1.13
 - pkg:maven/org.kantega.reststop/reststop-annotation-processor@1.13?classifier=sources
+- pkg:maven/org.kantega.reststop/reststop-annotation-processor@2.1
+- pkg:maven/org.kantega.reststop/reststop-annotation-processor@2.1?classifier=sources

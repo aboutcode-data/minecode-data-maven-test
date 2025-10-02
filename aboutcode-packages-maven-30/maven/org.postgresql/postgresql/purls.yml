@@ -64,3 +64,9 @@
 - pkg:maven/org.postgresql/postgresql@9.3-1104-jdbc41?classifier=sources
 - pkg:maven/org.postgresql/postgresql@9.3-1104-jdbc4
 - pkg:maven/org.postgresql/postgresql@9.3-1104-jdbc4?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4-1205-jdbc42
+- pkg:maven/org.postgresql/postgresql@9.4-1205-jdbc42?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4-1205-jdbc41
+- pkg:maven/org.postgresql/postgresql@9.4-1205-jdbc41?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4-1205-jdbc4
+- pkg:maven/org.postgresql/postgresql@9.4-1205-jdbc4?classifier=sources

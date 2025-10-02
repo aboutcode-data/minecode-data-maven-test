@@ -22,3 +22,5 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-proxy@3.0.0.Alpha8-jboss?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-proxy@3.0.0.Alpha9-jboss
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-proxy@3.0.0.Alpha9-jboss?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-proxy@3.0.0.Alpha10
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-proxy@3.0.0.Alpha10?classifier=sources

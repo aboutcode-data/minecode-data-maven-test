@@ -68,3 +68,5 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-data-structures@2.2?classifier=sources
 - pkg:maven/org.grouplens.lenskit/lenskit-data-structures@3.0-T1
 - pkg:maven/org.grouplens.lenskit/lenskit-data-structures@3.0-T1?classifier=sources
+- pkg:maven/org.grouplens.lenskit/lenskit-data-structures@3.0-T2
+- pkg:maven/org.grouplens.lenskit/lenskit-data-structures@3.0-T2?classifier=sources
