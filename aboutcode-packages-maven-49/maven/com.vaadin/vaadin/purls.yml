@@ -123,3 +123,5 @@
 - pkg:maven/com.vaadin/vaadin@6.7.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin@6.8.0
 - pkg:maven/com.vaadin/vaadin@6.8.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin@7.0.0.alpha3
+- pkg:maven/com.vaadin/vaadin@7.0.0.alpha3?classifier=sources

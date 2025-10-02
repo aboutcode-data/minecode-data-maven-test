@@ -124,3 +124,5 @@
 - pkg:maven/org.codehaus.jackson/jackson-xc@1.8.9?classifier=sources
 - pkg:maven/org.codehaus.jackson/jackson-xc@1.9.7
 - pkg:maven/org.codehaus.jackson/jackson-xc@1.9.7?classifier=sources
+- pkg:maven/org.codehaus.jackson/jackson-xc@1.9.8
+- pkg:maven/org.codehaus.jackson/jackson-xc@1.9.8?classifier=sources

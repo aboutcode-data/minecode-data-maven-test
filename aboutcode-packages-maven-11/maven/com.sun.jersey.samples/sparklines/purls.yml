@@ -94,3 +94,5 @@
 - pkg:maven/com.sun.jersey.samples/sparklines@1.11.1?classifier=sources
 - pkg:maven/com.sun.jersey.samples/sparklines@1.1.5.2
 - pkg:maven/com.sun.jersey.samples/sparklines@1.1.5.2?classifier=sources
+- pkg:maven/com.sun.jersey.samples/sparklines@1.13
+- pkg:maven/com.sun.jersey.samples/sparklines@1.13?classifier=sources
