@@ -38,3 +38,5 @@
 - pkg:maven/redis.clients/jedis@2.5.0?classifier=sources
 - pkg:maven/redis.clients/jedis@2.5.2
 - pkg:maven/redis.clients/jedis@2.5.2?classifier=sources
+- pkg:maven/redis.clients/jedis@2.6.0
+- pkg:maven/redis.clients/jedis@2.6.0?classifier=sources
