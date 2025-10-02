@@ -1,0 +1,4 @@
+- pkg:maven/org.keycloak/keycloak-events-api@1.0-rc-2
+- pkg:maven/org.keycloak/keycloak-events-api@1.0-rc-2?classifier=sources
+- pkg:maven/org.keycloak/keycloak-events-api@1.0-final
+- pkg:maven/org.keycloak/keycloak-events-api@1.0-final?classifier=sources

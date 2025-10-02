@@ -130,3 +130,7 @@
 - pkg:maven/org.mortbay.jetty/reverse-http-connector@8.1.15.v20140411?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-connector@7.6.15.v20140411
 - pkg:maven/org.mortbay.jetty/reverse-http-connector@7.6.15.v20140411?classifier=sources
+- pkg:maven/org.mortbay.jetty/reverse-http-connector@8.1.16.v20140903
+- pkg:maven/org.mortbay.jetty/reverse-http-connector@8.1.16.v20140903?classifier=sources
+- pkg:maven/org.mortbay.jetty/reverse-http-connector@7.6.16.v20140903
+- pkg:maven/org.mortbay.jetty/reverse-http-connector@7.6.16.v20140903?classifier=sources
