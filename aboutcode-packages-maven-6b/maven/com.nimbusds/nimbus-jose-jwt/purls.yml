@@ -1,0 +1,6 @@
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.9
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.9?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.10.1
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.10.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.10
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.10?classifier=sources

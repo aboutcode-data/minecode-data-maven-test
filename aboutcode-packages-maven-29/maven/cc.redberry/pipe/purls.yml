@@ -1,2 +1,4 @@
 - pkg:maven/cc.redberry/pipe@0.9
 - pkg:maven/cc.redberry/pipe@0.9?classifier=sources
+- pkg:maven/cc.redberry/pipe@0.9.1
+- pkg:maven/cc.redberry/pipe@0.9.1?classifier=sources

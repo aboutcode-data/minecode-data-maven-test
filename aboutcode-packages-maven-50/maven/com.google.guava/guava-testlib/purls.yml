@@ -36,3 +36,5 @@
 - pkg:maven/com.google.guava/guava-testlib@13.0.1?classifier=sources
 - pkg:maven/com.google.guava/guava-testlib@14.0-rc1
 - pkg:maven/com.google.guava/guava-testlib@14.0-rc1?classifier=sources
+- pkg:maven/com.google.guava/guava-testlib@14.0-rc2
+- pkg:maven/com.google.guava/guava-testlib@14.0-rc2?classifier=sources

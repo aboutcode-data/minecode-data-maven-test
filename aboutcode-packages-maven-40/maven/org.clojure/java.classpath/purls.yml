@@ -7,3 +7,4 @@
 - pkg:maven/org.clojure/java.classpath@0.1.0
 - pkg:maven/org.clojure/java.classpath@0.1.0?classifier=sources
 - pkg:maven/org.clojure/java.classpath@0.2.1
+- pkg:maven/org.clojure/java.classpath@0.2.1?classifier=sources

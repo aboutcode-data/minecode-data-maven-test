@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.rave/rave-shindig@0.16?classifier=sources
 - pkg:maven/org.apache.rave/rave-shindig@0.18?type=war
 - pkg:maven/org.apache.rave/rave-shindig@0.18?classifier=sources
+- pkg:maven/org.apache.rave/rave-shindig@0.19?type=war
+- pkg:maven/org.apache.rave/rave-shindig@0.19?classifier=sources

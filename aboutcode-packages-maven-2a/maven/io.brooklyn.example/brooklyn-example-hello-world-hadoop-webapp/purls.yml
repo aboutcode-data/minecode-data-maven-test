@@ -1,0 +1,2 @@
+- pkg:maven/io.brooklyn.example/brooklyn-example-hello-world-hadoop-webapp@0.4.0?type=war
+- pkg:maven/io.brooklyn.example/brooklyn-example-hello-world-hadoop-webapp@0.4.0?classifier=sources

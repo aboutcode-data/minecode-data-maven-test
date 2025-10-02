@@ -130,3 +130,5 @@
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-embedded-glassfish@1.15?classifier=sources
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-embedded-glassfish@1.16
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-embedded-glassfish@1.16?classifier=sources
+- pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-embedded-glassfish@1.17
+- pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-embedded-glassfish@1.17?classifier=sources

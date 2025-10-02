@@ -22,3 +22,5 @@
 - pkg:maven/com.googlecode.grep4j/grep4j@1.6.4?classifier=sources
 - pkg:maven/com.googlecode.grep4j/grep4j@1.6.5
 - pkg:maven/com.googlecode.grep4j/grep4j@1.6.5?classifier=sources
+- pkg:maven/com.googlecode.grep4j/grep4j@1.7.0
+- pkg:maven/com.googlecode.grep4j/grep4j@1.7.0?classifier=sources
