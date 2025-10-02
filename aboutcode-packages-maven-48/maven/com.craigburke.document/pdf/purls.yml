@@ -40,3 +40,5 @@
 - pkg:maven/com.craigburke.document/pdf@0.4.4?classifier=sources
 - pkg:maven/com.craigburke.document/pdf@0.4.3
 - pkg:maven/com.craigburke.document/pdf@0.4.3?classifier=sources
+- pkg:maven/com.craigburke.document/pdf@0.4.7
+- pkg:maven/com.craigburke.document/pdf@0.4.7?classifier=sources

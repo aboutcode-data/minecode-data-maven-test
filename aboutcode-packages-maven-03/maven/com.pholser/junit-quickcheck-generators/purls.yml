@@ -18,3 +18,5 @@
 - pkg:maven/com.pholser/junit-quickcheck-generators@0.5-alpha-3?classifier=sources
 - pkg:maven/com.pholser/junit-quickcheck-generators@0.5-alpha-4
 - pkg:maven/com.pholser/junit-quickcheck-generators@0.5-alpha-4?classifier=sources
+- pkg:maven/com.pholser/junit-quickcheck-generators@0.5-beta-1
+- pkg:maven/com.pholser/junit-quickcheck-generators@0.5-beta-1?classifier=sources

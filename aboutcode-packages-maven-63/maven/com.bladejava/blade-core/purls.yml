@@ -34,3 +34,7 @@
 - pkg:maven/com.bladejava/blade-core@1.2.7-beta?classifier=sources
 - pkg:maven/com.bladejava/blade-core@1.2.7
 - pkg:maven/com.bladejava/blade-core@1.2.7?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.2.9-beta
+- pkg:maven/com.bladejava/blade-core@1.2.9-beta?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.2.9-alpha
+- pkg:maven/com.bladejava/blade-core@1.2.9-alpha?classifier=sources

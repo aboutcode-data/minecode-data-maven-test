@@ -90,3 +90,4 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.14?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.13
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.13?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.10.16
