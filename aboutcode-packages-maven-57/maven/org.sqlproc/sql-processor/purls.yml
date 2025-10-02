@@ -90,3 +90,5 @@
 - pkg:maven/org.sqlproc/sql-processor@2.8.0?classifier=sources
 - pkg:maven/org.sqlproc/sql-processor@2.9.0
 - pkg:maven/org.sqlproc/sql-processor@2.9.0?classifier=sources
+- pkg:maven/org.sqlproc/sql-processor@3.0.0
+- pkg:maven/org.sqlproc/sql-processor@3.0.0?classifier=sources

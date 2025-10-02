@@ -130,3 +130,5 @@
 - pkg:maven/org.qatools/qatools@2.13?classifier=sources
 - pkg:maven/org.qatools/qatools@2.14
 - pkg:maven/org.qatools/qatools@2.14?classifier=sources
+- pkg:maven/org.qatools/qatools@2.15
+- pkg:maven/org.qatools/qatools@2.15?classifier=sources
