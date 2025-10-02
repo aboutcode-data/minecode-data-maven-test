@@ -32,3 +32,5 @@
 - pkg:maven/org.codehaus.mojo.archetypes/nbm-archetype@1.12.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.archetypes/nbm-archetype@1.13?classifier=sources
 - pkg:maven/org.codehaus.mojo.archetypes/nbm-archetype@1.13?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.archetypes/nbm-archetype@1.13.1?classifier=sources
+- pkg:maven/org.codehaus.mojo.archetypes/nbm-archetype@1.13.1?classifier=source-release&type=zip

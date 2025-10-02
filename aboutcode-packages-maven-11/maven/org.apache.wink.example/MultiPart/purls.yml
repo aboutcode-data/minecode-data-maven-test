@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.wink.example/MultiPart@1.2.1-incubating?classifier=sources
 - pkg:maven/org.apache.wink.example/MultiPart@1.3.0?type=war
 - pkg:maven/org.apache.wink.example/MultiPart@1.3.0?classifier=sources
+- pkg:maven/org.apache.wink.example/MultiPart@1.4?type=war
+- pkg:maven/org.apache.wink.example/MultiPart@1.4?classifier=sources

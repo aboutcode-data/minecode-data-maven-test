@@ -214,3 +214,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-colorizer@3.6.3?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-colorizer@3.7.1-RC1
 - pkg:maven/org.codehaus.sonar/sonar-colorizer@3.7.1-RC1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-colorizer@3.7.1-RC2
+- pkg:maven/org.codehaus.sonar/sonar-colorizer@3.7.1-RC2?classifier=sources
