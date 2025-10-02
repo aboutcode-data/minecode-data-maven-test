@@ -78,3 +78,7 @@
 - pkg:maven/com.factual/factual-java-driver@1.7.6-android?classifier=sources
 - pkg:maven/com.factual/factual-java-driver@1.7.6
 - pkg:maven/com.factual/factual-java-driver@1.7.6?classifier=sources
+- pkg:maven/com.factual/factual-java-driver@1.7.7-android
+- pkg:maven/com.factual/factual-java-driver@1.7.7-android?classifier=sources
+- pkg:maven/com.factual/factual-java-driver@1.7.7
+- pkg:maven/com.factual/factual-java-driver@1.7.7?classifier=sources

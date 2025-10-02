@@ -18,3 +18,5 @@
 - pkg:maven/com.github.raphc/selenese4j-maven-plugin@1.8?classifier=sources
 - pkg:maven/com.github.raphc/selenese4j-maven-plugin@1.9
 - pkg:maven/com.github.raphc/selenese4j-maven-plugin@1.9?classifier=sources
+- pkg:maven/com.github.raphc/selenese4j-maven-plugin@2.0
+- pkg:maven/com.github.raphc/selenese4j-maven-plugin@2.0?classifier=sources

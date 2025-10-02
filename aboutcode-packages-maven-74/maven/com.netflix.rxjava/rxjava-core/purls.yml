@@ -22,3 +22,5 @@
 - pkg:maven/com.netflix.rxjava/rxjava-core@0.6.2?classifier=sources
 - pkg:maven/com.netflix.rxjava/rxjava-core@0.8.0
 - pkg:maven/com.netflix.rxjava/rxjava-core@0.8.0?classifier=sources
+- pkg:maven/com.netflix.rxjava/rxjava-core@0.8.1
+- pkg:maven/com.netflix.rxjava/rxjava-core@0.8.1?classifier=sources
