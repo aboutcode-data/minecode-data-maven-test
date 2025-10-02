@@ -31,3 +31,5 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-core-module@2.2.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-module@2.2.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-module@2.2.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-module@2.1.18?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-module@2.0.24?classifier=source-release&type=zip

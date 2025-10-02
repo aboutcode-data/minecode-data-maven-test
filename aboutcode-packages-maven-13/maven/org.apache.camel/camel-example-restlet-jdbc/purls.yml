@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.16.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.17.0?type=war
 - pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.17.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.15.6?type=war
+- pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.15.6?classifier=sources

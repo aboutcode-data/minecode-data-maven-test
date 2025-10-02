@@ -133,3 +133,5 @@
 - pkg:maven/org.apache.camel/camel-snmp@2.16.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-snmp@2.17.0
 - pkg:maven/org.apache.camel/camel-snmp@2.17.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-snmp@2.15.6
+- pkg:maven/org.apache.camel/camel-snmp@2.15.6?classifier=sources
