@@ -1,2 +1,4 @@
 - pkg:maven/eu.eu-emi/emir-client@1.1.0
 - pkg:maven/eu.eu-emi/emir-client@1.1.0?classifier=sources
+- pkg:maven/eu.eu-emi/emir-client@1.1.1-rc1
+- pkg:maven/eu.eu-emi/emir-client@1.1.1-rc1?classifier=sources

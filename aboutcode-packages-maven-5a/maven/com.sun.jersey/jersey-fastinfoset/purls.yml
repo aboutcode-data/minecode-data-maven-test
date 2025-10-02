@@ -146,3 +146,5 @@
 - pkg:maven/com.sun.jersey/jersey-fastinfoset@1.12?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-fastinfoset@1.13-b01
 - pkg:maven/com.sun.jersey/jersey-fastinfoset@1.13-b01?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-fastinfoset@1.11.1
+- pkg:maven/com.sun.jersey/jersey-fastinfoset@1.11.1?classifier=sources

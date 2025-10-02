@@ -129,3 +129,7 @@
 - pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.46?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.47
 - pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.47?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.46u1
+- pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.46u1?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.48
+- pkg:maven/com.sun.grizzly/grizzly-servlet-deployer@1.9.48?classifier=sources

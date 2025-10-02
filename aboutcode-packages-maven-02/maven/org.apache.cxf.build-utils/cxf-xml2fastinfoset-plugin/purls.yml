@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@2.3.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@2.3.0
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@2.3.0?classifier=sources
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@2.4.1
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@2.4.1?classifier=sources
