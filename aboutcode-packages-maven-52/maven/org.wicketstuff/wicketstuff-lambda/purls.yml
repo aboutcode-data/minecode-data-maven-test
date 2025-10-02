@@ -12,3 +12,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-lambda@8.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-lambda@7.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-lambda@7.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-lambda@8.0.0-M3
+- pkg:maven/org.wicketstuff/wicketstuff-lambda@8.0.0-M3?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-lambda@7.6.0
+- pkg:maven/org.wicketstuff/wicketstuff-lambda@7.6.0?classifier=sources

@@ -16,3 +16,6 @@
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta6
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta6?classifier=sources
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta6?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta7
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta7?classifier=source-release&type=zip

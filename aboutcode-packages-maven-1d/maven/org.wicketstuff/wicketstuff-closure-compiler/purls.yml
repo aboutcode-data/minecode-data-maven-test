@@ -106,3 +106,9 @@
 - pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@7.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.25.0
 - pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.25.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@8.0.0-M3
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@8.0.0-M3?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@7.6.0
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@7.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.26.0
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.26.0?classifier=sources
