@@ -1,2 +1,4 @@
 - pkg:maven/org.xowl.infra/xowl-commons@1.0-beta2
 - pkg:maven/org.xowl.infra/xowl-commons@1.0-beta2?classifier=sources
+- pkg:maven/org.xowl.infra/xowl-commons@1.0-beta3
+- pkg:maven/org.xowl.infra/xowl-commons@1.0-beta3?classifier=sources
