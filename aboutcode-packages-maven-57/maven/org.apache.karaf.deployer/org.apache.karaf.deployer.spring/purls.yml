@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.spring@4.0.0.M3?classifier=sources
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.spring@4.0.0
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.spring@4.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.spring@3.0.4
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.spring@3.0.4?classifier=sources

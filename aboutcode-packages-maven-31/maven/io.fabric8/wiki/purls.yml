@@ -130,3 +130,5 @@
 - pkg:maven/io.fabric8/wiki@2.2.3?classifier=sources
 - pkg:maven/io.fabric8/wiki@2.2.2?type=zip
 - pkg:maven/io.fabric8/wiki@2.2.2?classifier=sources
+- pkg:maven/io.fabric8/wiki@2.2.5?type=zip
+- pkg:maven/io.fabric8/wiki@2.2.5?classifier=sources
