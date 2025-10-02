@@ -40,3 +40,5 @@
 - pkg:maven/org.wildfly/wildfly-webservices-server-integration@10.0.0.Alpha4?classifier=sources
 - pkg:maven/org.wildfly/wildfly-webservices-server-integration@9.0.0.Final
 - pkg:maven/org.wildfly/wildfly-webservices-server-integration@9.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-webservices-server-integration@10.0.0.Alpha5
+- pkg:maven/org.wildfly/wildfly-webservices-server-integration@10.0.0.Alpha5?classifier=sources

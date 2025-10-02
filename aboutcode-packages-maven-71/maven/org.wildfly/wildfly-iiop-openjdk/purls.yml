@@ -16,3 +16,5 @@
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@10.0.0.Alpha4?classifier=sources
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@9.0.0.Final
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@9.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-iiop-openjdk@10.0.0.Alpha5
+- pkg:maven/org.wildfly/wildfly-iiop-openjdk@10.0.0.Alpha5?classifier=sources

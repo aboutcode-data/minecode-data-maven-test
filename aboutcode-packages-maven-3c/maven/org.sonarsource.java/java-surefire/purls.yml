@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.java/java-surefire@3.4
+- pkg:maven/org.sonarsource.java/java-surefire@3.4?classifier=sources

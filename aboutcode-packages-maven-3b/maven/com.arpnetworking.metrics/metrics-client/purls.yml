@@ -1,2 +1,4 @@
 - pkg:maven/com.arpnetworking.metrics/metrics-client@0.3.4
 - pkg:maven/com.arpnetworking.metrics/metrics-client@0.3.4?classifier=sources
+- pkg:maven/com.arpnetworking.metrics/metrics-client@0.3.5
+- pkg:maven/com.arpnetworking.metrics/metrics-client@0.3.5?classifier=sources
