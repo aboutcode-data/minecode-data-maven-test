@@ -18,3 +18,7 @@
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev80-1.14.1-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev80-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev80-1.13.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev81-1.14.2-beta
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev81-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev81-1.13.2-beta
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev81-1.13.2-beta?classifier=sources
