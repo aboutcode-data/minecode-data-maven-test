@@ -1,3 +1,5 @@
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.3
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.4
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.4?classifier=sources
+- pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.14
+- pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.14?classifier=sources

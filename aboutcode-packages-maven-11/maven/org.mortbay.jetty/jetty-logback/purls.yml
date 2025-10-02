@@ -102,3 +102,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-logback@8.1.8.v20121106?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-logback@7.6.8.v20121106
 - pkg:maven/org.mortbay.jetty/jetty-logback@7.6.8.v20121106?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-logback@8.1.9.v20130131
+- pkg:maven/org.mortbay.jetty/jetty-logback@8.1.9.v20130131?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-logback@7.6.9.v20130131
+- pkg:maven/org.mortbay.jetty/jetty-logback@7.6.9.v20130131?classifier=sources

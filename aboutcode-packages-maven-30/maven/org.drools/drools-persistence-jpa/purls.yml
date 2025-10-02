@@ -42,3 +42,5 @@
 - pkg:maven/org.drools/drools-persistence-jpa@5.3.5.Final?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@6.0.0.Alpha6
 - pkg:maven/org.drools/drools-persistence-jpa@6.0.0.Alpha6?classifier=sources
+- pkg:maven/org.drools/drools-persistence-jpa@6.0.0.Alpha7
+- pkg:maven/org.drools/drools-persistence-jpa@6.0.0.Alpha7?classifier=sources

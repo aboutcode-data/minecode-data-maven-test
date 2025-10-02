@@ -22,3 +22,5 @@
 - pkg:maven/org.clojure/test.generative@0.2.0?classifier=sources
 - pkg:maven/org.clojure/test.generative@0.3.0
 - pkg:maven/org.clojure/test.generative@0.3.0?classifier=sources
+- pkg:maven/org.clojure/test.generative@0.4.0
+- pkg:maven/org.clojure/test.generative@0.4.0?classifier=sources

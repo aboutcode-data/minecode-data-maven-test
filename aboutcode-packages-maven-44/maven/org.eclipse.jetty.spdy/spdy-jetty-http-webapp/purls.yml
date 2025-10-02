@@ -26,3 +26,7 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.8.v20121106?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.8.v20121106?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.8.v20121106?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.9.v20130131?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.9.v20130131?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.9.v20130131?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.9.v20130131?classifier=sources
