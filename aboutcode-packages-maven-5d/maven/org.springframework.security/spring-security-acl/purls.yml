@@ -32,3 +32,5 @@
 - pkg:maven/org.springframework.security/spring-security-acl@2.0.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-acl@3.1.0.RELEASE
 - pkg:maven/org.springframework.security/spring-security-acl@3.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-acl@3.1.1.RELEASE
+- pkg:maven/org.springframework.security/spring-security-acl@3.1.1.RELEASE?classifier=sources

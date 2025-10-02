@@ -32,3 +32,5 @@
 - pkg:maven/org.springframework/spring-struts@3.0.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-struts@3.1.1.RELEASE
 - pkg:maven/org.springframework/spring-struts@3.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-struts@3.1.2.RELEASE
+- pkg:maven/org.springframework/spring-struts@3.1.2.RELEASE?classifier=sources

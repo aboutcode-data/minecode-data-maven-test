@@ -33,3 +33,5 @@
 - pkg:maven/org.grails/grails-docs@2.0.4?classifier=sources
 - pkg:maven/org.grails/grails-docs@2.1.0.RC3
 - pkg:maven/org.grails/grails-docs@2.1.0.RC3?classifier=sources
+- pkg:maven/org.grails/grails-docs@2.1.0
+- pkg:maven/org.grails/grails-docs@2.1.0?classifier=sources

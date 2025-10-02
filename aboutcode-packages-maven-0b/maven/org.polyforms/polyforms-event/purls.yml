@@ -10,3 +10,5 @@
 - pkg:maven/org.polyforms/polyforms-event@0.7?classifier=sources
 - pkg:maven/org.polyforms/polyforms-event@0.8
 - pkg:maven/org.polyforms/polyforms-event@0.8?classifier=sources
+- pkg:maven/org.polyforms/polyforms-event@0.8.1
+- pkg:maven/org.polyforms/polyforms-event@0.8.1?classifier=sources

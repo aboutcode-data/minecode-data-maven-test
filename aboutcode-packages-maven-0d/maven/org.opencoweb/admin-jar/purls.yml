@@ -8,3 +8,5 @@
 - pkg:maven/org.opencoweb/admin-jar@0.7?classifier=sources
 - pkg:maven/org.opencoweb/admin-jar@0.8
 - pkg:maven/org.opencoweb/admin-jar@0.8?classifier=sources
+- pkg:maven/org.opencoweb/admin-jar@0.8.3
+- pkg:maven/org.opencoweb/admin-jar@0.8.3?classifier=sources

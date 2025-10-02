@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-ant@2.4?classifier=sources
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-ant@3.0
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-ant@3.0?classifier=sources
+- pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-ant@3.1
+- pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-ant@3.1?classifier=sources

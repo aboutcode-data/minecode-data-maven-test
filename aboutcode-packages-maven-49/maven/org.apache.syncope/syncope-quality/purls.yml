@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.syncope/syncope-quality@1.0.0-RC1-incubating
 - pkg:maven/org.apache.syncope/syncope-quality@1.0.0-RC1-incubating?classifier=sources
+- pkg:maven/org.apache.syncope/syncope-quality@1.0.0-RC2-incubating
+- pkg:maven/org.apache.syncope/syncope-quality@1.0.0-RC2-incubating?classifier=sources
