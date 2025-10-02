@@ -12,3 +12,5 @@
 - pkg:maven/io.kickflip/sdk@1.0?classifier=sources
 - pkg:maven/io.kickflip/sdk@0.9.12?type=aar
 - pkg:maven/io.kickflip/sdk@0.9.12?classifier=sources
+- pkg:maven/io.kickflip/sdk@1.1.1?type=aar
+- pkg:maven/io.kickflip/sdk@1.1.1?classifier=sources

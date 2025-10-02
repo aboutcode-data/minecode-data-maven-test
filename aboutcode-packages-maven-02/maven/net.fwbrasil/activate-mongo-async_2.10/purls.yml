@@ -32,3 +32,5 @@
 - pkg:maven/net.fwbrasil/activate-mongo-async_2.10@1.5-RC2?classifier=sources
 - pkg:maven/net.fwbrasil/activate-mongo-async_2.10@1.5-RC1
 - pkg:maven/net.fwbrasil/activate-mongo-async_2.10@1.5-RC1?classifier=sources
+- pkg:maven/net.fwbrasil/activate-mongo-async_2.10@1.5
+- pkg:maven/net.fwbrasil/activate-mongo-async_2.10@1.5?classifier=sources

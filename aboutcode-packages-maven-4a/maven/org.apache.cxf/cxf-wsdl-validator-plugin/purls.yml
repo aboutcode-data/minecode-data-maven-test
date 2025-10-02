@@ -172,3 +172,5 @@
 - pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@2.7.11?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@2.6.14
 - pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@2.6.14?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.0.0
+- pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.0.0?classifier=sources
