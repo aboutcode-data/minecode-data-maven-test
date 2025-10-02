@@ -34,3 +34,5 @@
 - pkg:maven/com.github.terma.gigaspace-web-console/server@1.0.12?classifier=sources
 - pkg:maven/com.github.terma.gigaspace-web-console/server@1.0.13?type=war
 - pkg:maven/com.github.terma.gigaspace-web-console/server@1.0.13?classifier=sources
+- pkg:maven/com.github.terma.gigaspace-web-console/server@1.0.14?type=war
+- pkg:maven/com.github.terma.gigaspace-web-console/server@1.0.14?classifier=sources

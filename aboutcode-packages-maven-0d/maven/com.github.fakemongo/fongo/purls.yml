@@ -66,3 +66,7 @@
 - pkg:maven/com.github.fakemongo/fongo@2.0.3?classifier=sources
 - pkg:maven/com.github.fakemongo/fongo@1.6.4
 - pkg:maven/com.github.fakemongo/fongo@1.6.4?classifier=sources
+- pkg:maven/com.github.fakemongo/fongo@2.0.4
+- pkg:maven/com.github.fakemongo/fongo@2.0.4?classifier=sources
+- pkg:maven/com.github.fakemongo/fongo@1.6.5
+- pkg:maven/com.github.fakemongo/fongo@1.6.5?classifier=sources

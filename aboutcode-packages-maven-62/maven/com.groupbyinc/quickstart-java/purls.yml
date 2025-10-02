@@ -1,2 +1,6 @@
 - pkg:maven/com.groupbyinc/quickstart-java@2.0.251?type=war
 - pkg:maven/com.groupbyinc/quickstart-java@2.0.251?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.0.253?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.0.253?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.0.252?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.0.252?classifier=sources

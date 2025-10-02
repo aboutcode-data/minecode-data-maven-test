@@ -246,3 +246,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@7.1.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@6.4.7
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@6.4.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@7.4-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@7.4-rc-1?classifier=sources

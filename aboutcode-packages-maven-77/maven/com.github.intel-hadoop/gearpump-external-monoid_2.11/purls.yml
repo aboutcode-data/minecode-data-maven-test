@@ -1,2 +1,4 @@
 - pkg:maven/com.github.intel-hadoop/gearpump-external-monoid_2.11@0.6.1.4
 - pkg:maven/com.github.intel-hadoop/gearpump-external-monoid_2.11@0.6.1.4?classifier=sources
+- pkg:maven/com.github.intel-hadoop/gearpump-external-monoid_2.11@0.7.0
+- pkg:maven/com.github.intel-hadoop/gearpump-external-monoid_2.11@0.7.0?classifier=sources
