@@ -1,2 +1,4 @@
 - pkg:maven/com.legsem.legstar/legstar.avro.distrib@0.3.0?type=zip
 - pkg:maven/com.legsem.legstar/legstar.avro.distrib@0.3.0?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar.avro.distrib@0.4.1?type=zip
+- pkg:maven/com.legsem.legstar/legstar.avro.distrib@0.4.1?classifier=sources

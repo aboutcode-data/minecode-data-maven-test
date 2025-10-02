@@ -42,3 +42,5 @@
 - pkg:maven/com.netflix.archaius/archaius-aws@0.6.2?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius-aws@0.6.3
 - pkg:maven/com.netflix.archaius/archaius-aws@0.6.3?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius-aws@0.6.5
+- pkg:maven/com.netflix.archaius/archaius-aws@0.6.5?classifier=sources
