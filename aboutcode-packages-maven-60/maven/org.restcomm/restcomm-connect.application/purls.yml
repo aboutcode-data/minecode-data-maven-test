@@ -444,3 +444,5 @@
 - pkg:maven/org.restcomm/restcomm-connect.application@8.1.0.1168?classifier=sources
 - pkg:maven/org.restcomm/restcomm-connect.application@8.1.0.1167?type=war
 - pkg:maven/org.restcomm/restcomm-connect.application@8.1.0.1167?classifier=sources
+- pkg:maven/org.restcomm/restcomm-connect.application@8.1.0.1171?type=war
+- pkg:maven/org.restcomm/restcomm-connect.application@8.1.0.1171?classifier=sources
