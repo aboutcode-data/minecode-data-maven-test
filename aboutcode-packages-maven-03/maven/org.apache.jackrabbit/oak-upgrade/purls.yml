@@ -220,3 +220,9 @@
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.2.19?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.5.10
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.5.10?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.5.11
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.5.11?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.4.8
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.4.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.0.34
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.0.34?classifier=sources

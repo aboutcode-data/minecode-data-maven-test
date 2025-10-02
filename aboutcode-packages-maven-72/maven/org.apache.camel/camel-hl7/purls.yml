@@ -165,3 +165,5 @@
 - pkg:maven/org.apache.camel/camel-hl7@2.17.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-hl7@2.16.4
 - pkg:maven/org.apache.camel/camel-hl7@2.16.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-hl7@2.18.0
+- pkg:maven/org.apache.camel/camel-hl7@2.18.0?classifier=sources
