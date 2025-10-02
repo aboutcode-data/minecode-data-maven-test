@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.oodt/wmonitor@0.7?classifier=sources
 - pkg:maven/org.apache.oodt/wmonitor@0.8?type=war
 - pkg:maven/org.apache.oodt/wmonitor@0.8?classifier=sources
+- pkg:maven/org.apache.oodt/wmonitor@0.8.1?type=war
+- pkg:maven/org.apache.oodt/wmonitor@0.8.1?classifier=sources

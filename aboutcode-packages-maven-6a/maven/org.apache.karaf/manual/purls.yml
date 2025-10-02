@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.karaf/manual@3.0.3?classifier=sources
 - pkg:maven/org.apache.karaf/manual@2.3.10?type=war
 - pkg:maven/org.apache.karaf/manual@2.3.10?classifier=sources
+- pkg:maven/org.apache.karaf/manual@4.0.0.M2?type=war
+- pkg:maven/org.apache.karaf/manual@4.0.0.M2?classifier=sources

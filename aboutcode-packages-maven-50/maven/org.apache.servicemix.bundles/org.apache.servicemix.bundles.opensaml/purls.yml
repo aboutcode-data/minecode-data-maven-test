@@ -91,3 +91,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.5.1_7?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.5.1_7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.5.1_7?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.6.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.6.4_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.6.4_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@2.6.4_1?classifier=sources

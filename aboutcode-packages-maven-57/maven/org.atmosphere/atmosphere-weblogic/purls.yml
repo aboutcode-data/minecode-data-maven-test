@@ -104,3 +104,5 @@
 - pkg:maven/org.atmosphere/atmosphere-weblogic@1.0.19?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-weblogic@2.2.1
 - pkg:maven/org.atmosphere/atmosphere-weblogic@2.2.1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-weblogic@2.3.0-RC3
+- pkg:maven/org.atmosphere/atmosphere-weblogic@2.3.0-RC3?classifier=sources

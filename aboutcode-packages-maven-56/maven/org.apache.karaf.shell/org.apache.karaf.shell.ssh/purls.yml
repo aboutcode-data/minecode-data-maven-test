@@ -76,3 +76,5 @@
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.ssh@3.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.ssh@2.3.10
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.ssh@2.3.10?classifier=sources
+- pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.ssh@4.0.0.M2
+- pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.ssh@4.0.0.M2?classifier=sources
