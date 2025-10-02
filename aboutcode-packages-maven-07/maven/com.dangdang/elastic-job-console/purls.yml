@@ -12,3 +12,5 @@
 - pkg:maven/com.dangdang/elastic-job-console@1.0.8?classifier=sources
 - pkg:maven/com.dangdang/elastic-job-console@1.1.0?type=war
 - pkg:maven/com.dangdang/elastic-job-console@1.1.0?classifier=sources
+- pkg:maven/com.dangdang/elastic-job-console@1.1.1?type=war
+- pkg:maven/com.dangdang/elastic-job-console@1.1.1?classifier=sources

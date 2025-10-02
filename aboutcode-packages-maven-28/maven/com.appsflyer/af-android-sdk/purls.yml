@@ -10,3 +10,7 @@
 - pkg:maven/com.appsflyer/af-android-sdk@4.3.8?classifier=sources
 - pkg:maven/com.appsflyer/af-android-sdk@4.4.0?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk@4.4.0?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk@4.5.0?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk@4.5.0?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk@4.4.1?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk@4.4.1?classifier=sources

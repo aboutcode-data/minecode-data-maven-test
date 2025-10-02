@@ -67,3 +67,13 @@
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@19?classifier=sources
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@20
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@20?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@25
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@25?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@24
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@24?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@23
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@23?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@22
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@22?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@21
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@21?classifier=sources

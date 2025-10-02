@@ -8,3 +8,5 @@
 - pkg:maven/com.axonivy.ivy.ci/project-build-plugin@6.0.3?classifier=sources
 - pkg:maven/com.axonivy.ivy.ci/project-build-plugin@6.1.0
 - pkg:maven/com.axonivy.ivy.ci/project-build-plugin@6.1.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.ci/project-build-plugin@6.2.0
+- pkg:maven/com.axonivy.ivy.ci/project-build-plugin@6.2.0?classifier=sources
