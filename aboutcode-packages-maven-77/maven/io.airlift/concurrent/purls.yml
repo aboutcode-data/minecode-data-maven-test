@@ -12,3 +12,5 @@
 - pkg:maven/io.airlift/concurrent@0.84?classifier=sources
 - pkg:maven/io.airlift/concurrent@0.85
 - pkg:maven/io.airlift/concurrent@0.85?classifier=sources
+- pkg:maven/io.airlift/concurrent@0.86
+- pkg:maven/io.airlift/concurrent@0.86?classifier=sources

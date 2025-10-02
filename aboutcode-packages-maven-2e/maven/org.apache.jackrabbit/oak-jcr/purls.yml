@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-jcr@0.16?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-jcr@0.17.1
 - pkg:maven/org.apache.jackrabbit/oak-jcr@0.17.1?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-jcr@0.18
+- pkg:maven/org.apache.jackrabbit/oak-jcr@0.18?classifier=sources
