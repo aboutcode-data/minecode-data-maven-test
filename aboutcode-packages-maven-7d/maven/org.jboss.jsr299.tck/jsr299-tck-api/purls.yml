@@ -54,3 +54,5 @@
 - pkg:maven/org.jboss.jsr299.tck/jsr299-tck-api@1.0.0.BETA1?classifier=sources
 - pkg:maven/org.jboss.jsr299.tck/jsr299-tck-api@1.0.0.ALPHA2
 - pkg:maven/org.jboss.jsr299.tck/jsr299-tck-api@1.0.0.ALPHA2?classifier=sources
+- pkg:maven/org.jboss.jsr299.tck/jsr299-tck-api@1.0.5.Final
+- pkg:maven/org.jboss.jsr299.tck/jsr299-tck-api@1.0.5.Final?classifier=sources

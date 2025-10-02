@@ -107,3 +107,6 @@
 - pkg:maven/org.jboss/jboss-vfs@3.2.0.Beta2
 - pkg:maven/org.jboss/jboss-vfs@3.2.0.Beta2?classifier=sources
 - pkg:maven/org.jboss/jboss-vfs@3.2.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-vfs@3.2.1.Final
+- pkg:maven/org.jboss/jboss-vfs@3.2.1.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-vfs@3.2.1.Final?classifier=source-release&type=zip

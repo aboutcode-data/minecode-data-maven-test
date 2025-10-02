@@ -1,2 +1,4 @@
 - pkg:maven/com.github.kristofa/brave-interfaces@1.0
 - pkg:maven/com.github.kristofa/brave-interfaces@1.0?classifier=sources
+- pkg:maven/com.github.kristofa/brave-interfaces@2.0
+- pkg:maven/com.github.kristofa/brave-interfaces@2.0?classifier=sources
