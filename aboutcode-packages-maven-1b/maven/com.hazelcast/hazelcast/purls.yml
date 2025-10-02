@@ -280,3 +280,5 @@
 - pkg:maven/com.hazelcast/hazelcast@3.7.4?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@3.6.7
 - pkg:maven/com.hazelcast/hazelcast@3.6.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@3.8-EA
+- pkg:maven/com.hazelcast/hazelcast@3.8-EA?classifier=sources
