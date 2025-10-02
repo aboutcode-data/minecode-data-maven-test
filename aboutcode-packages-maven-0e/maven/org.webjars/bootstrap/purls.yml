@@ -56,3 +56,5 @@
 - pkg:maven/org.webjars/bootstrap@4.0.0-alpha?classifier=sources
 - pkg:maven/org.webjars/bootstrap@3.3.6
 - pkg:maven/org.webjars/bootstrap@3.3.6?classifier=sources
+- pkg:maven/org.webjars/bootstrap@4.0.0-alpha.2
+- pkg:maven/org.webjars/bootstrap@4.0.0-alpha.2?classifier=sources

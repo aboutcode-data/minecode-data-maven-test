@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/zone.js@0.5.8
 - pkg:maven/org.webjars.npm/zone.js@0.5.8?classifier=sources
+- pkg:maven/org.webjars.npm/zone.js@0.5.10
+- pkg:maven/org.webjars.npm/zone.js@0.5.10?classifier=sources
