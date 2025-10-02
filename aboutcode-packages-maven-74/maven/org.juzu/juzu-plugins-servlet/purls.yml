@@ -1,2 +1,6 @@
 - pkg:maven/org.juzu/juzu-plugins-servlet@0.6.0-beta16
 - pkg:maven/org.juzu/juzu-plugins-servlet@0.6.0-beta16?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-servlet@0.6.0-beta18
+- pkg:maven/org.juzu/juzu-plugins-servlet@0.6.0-beta18?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-servlet@0.6.0-beta17
+- pkg:maven/org.juzu/juzu-plugins-servlet@0.6.0-beta17?classifier=sources

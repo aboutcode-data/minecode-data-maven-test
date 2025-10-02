@@ -20,3 +20,5 @@
 - pkg:maven/org.rhq/rhq-ant-bundle-common@3.0.0?type=zip
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.5.1?type=zip
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.5.1?classifier=sources
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.6.0?type=zip
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.6.0?classifier=sources

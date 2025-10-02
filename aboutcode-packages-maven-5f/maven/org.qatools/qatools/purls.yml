@@ -88,3 +88,7 @@
 - pkg:maven/org.qatools/qatools@1.55?classifier=sources
 - pkg:maven/org.qatools/qatools@1.56
 - pkg:maven/org.qatools/qatools@1.56?classifier=sources
+- pkg:maven/org.qatools/qatools@1.58
+- pkg:maven/org.qatools/qatools@1.58?classifier=sources
+- pkg:maven/org.qatools/qatools@1.57
+- pkg:maven/org.qatools/qatools@1.57?classifier=sources
