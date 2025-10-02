@@ -22,3 +22,7 @@
 - pkg:maven/com.datamountaineer/kafka-connect-common@0.3.7?classifier=sources
 - pkg:maven/com.datamountaineer/kafka-connect-common@0.3.8
 - pkg:maven/com.datamountaineer/kafka-connect-common@0.3.8?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-connect-common@0.4.1
+- pkg:maven/com.datamountaineer/kafka-connect-common@0.4.1?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-connect-common@0.4
+- pkg:maven/com.datamountaineer/kafka-connect-common@0.4?classifier=sources

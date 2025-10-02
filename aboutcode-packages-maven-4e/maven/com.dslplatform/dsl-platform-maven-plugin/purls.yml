@@ -10,3 +10,5 @@
 - pkg:maven/com.dslplatform/dsl-platform-maven-plugin@0.9?classifier=sources
 - pkg:maven/com.dslplatform/dsl-platform-maven-plugin@1.0
 - pkg:maven/com.dslplatform/dsl-platform-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.dslplatform/dsl-platform-maven-plugin@1.0.1
+- pkg:maven/com.dslplatform/dsl-platform-maven-plugin@1.0.1?classifier=sources

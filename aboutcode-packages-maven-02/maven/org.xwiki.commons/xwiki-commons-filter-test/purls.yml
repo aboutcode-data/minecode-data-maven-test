@@ -140,3 +140,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-filter-test@8.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-filter-test@8.3-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-filter-test@8.3-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-filter-test@7.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-filter-test@7.4.5?classifier=sources

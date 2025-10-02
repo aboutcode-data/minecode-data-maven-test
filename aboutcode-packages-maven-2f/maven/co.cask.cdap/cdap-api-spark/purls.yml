@@ -8,3 +8,5 @@
 - pkg:maven/co.cask.cdap/cdap-api-spark@3.4.3?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-api-spark@3.5.0
 - pkg:maven/co.cask.cdap/cdap-api-spark@3.5.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-api-spark@3.5.1
+- pkg:maven/co.cask.cdap/cdap-api-spark@3.5.1?classifier=sources

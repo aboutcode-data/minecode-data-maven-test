@@ -22,3 +22,5 @@
 - pkg:maven/org.elasticsearch/rest-api-spec@2.3.5
 - pkg:maven/org.elasticsearch/rest-api-spec@5.0.0-alpha5
 - pkg:maven/org.elasticsearch/rest-api-spec@2.4.0
+- pkg:maven/org.elasticsearch/rest-api-spec@5.0.0-beta1
+- pkg:maven/org.elasticsearch/rest-api-spec@5.0.0-beta1?classifier=sources
