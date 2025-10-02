@@ -264,3 +264,5 @@
 - pkg:maven/org.neo4j/neo4j@2.2.10?classifier=sources
 - pkg:maven/org.neo4j/neo4j@3.1.0-M04
 - pkg:maven/org.neo4j/neo4j@3.1.0-M04?classifier=sources
+- pkg:maven/org.neo4j/neo4j@2.3.6
+- pkg:maven/org.neo4j/neo4j@2.3.6?classifier=sources
