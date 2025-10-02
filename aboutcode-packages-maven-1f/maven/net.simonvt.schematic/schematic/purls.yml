@@ -4,3 +4,5 @@
 - pkg:maven/net.simonvt.schematic/schematic@0.5.0?classifier=sources
 - pkg:maven/net.simonvt.schematic/schematic@0.5.3?type=aar
 - pkg:maven/net.simonvt.schematic/schematic@0.5.3?classifier=sources
+- pkg:maven/net.simonvt.schematic/schematic@0.6.0?type=aar
+- pkg:maven/net.simonvt.schematic/schematic@0.6.0?classifier=sources

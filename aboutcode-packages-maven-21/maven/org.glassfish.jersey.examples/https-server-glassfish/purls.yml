@@ -75,3 +75,6 @@
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.14?type=war
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.14?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.14?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.15?type=war
+- pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.15?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.15?classifier=project-src&type=zip

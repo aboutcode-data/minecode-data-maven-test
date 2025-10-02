@@ -30,3 +30,5 @@
 - pkg:maven/org.dspace/dspace-services@5.0-rc2?classifier=sources
 - pkg:maven/org.dspace/dspace-services@5.0-rc3
 - pkg:maven/org.dspace/dspace-services@5.0-rc3?classifier=sources
+- pkg:maven/org.dspace/dspace-services@5.0
+- pkg:maven/org.dspace/dspace-services@5.0?classifier=sources

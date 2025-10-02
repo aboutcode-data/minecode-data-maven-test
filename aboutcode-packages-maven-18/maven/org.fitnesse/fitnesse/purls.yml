@@ -28,3 +28,5 @@
 - pkg:maven/org.fitnesse/fitnesse@20140630?classifier=sources
 - pkg:maven/org.fitnesse/fitnesse@20140901
 - pkg:maven/org.fitnesse/fitnesse@20140901?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20150114
+- pkg:maven/org.fitnesse/fitnesse@20150114?classifier=sources

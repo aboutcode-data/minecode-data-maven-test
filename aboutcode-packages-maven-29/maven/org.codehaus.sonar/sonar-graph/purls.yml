@@ -288,3 +288,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-graph@5.0-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-graph@4.5.2
 - pkg:maven/org.codehaus.sonar/sonar-graph@4.5.2?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-graph@5.0
+- pkg:maven/org.codehaus.sonar/sonar-graph@5.0?classifier=sources

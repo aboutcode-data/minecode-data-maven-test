@@ -80,3 +80,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@8.0.15?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.57
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.57?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@8.0.17
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@8.0.17?classifier=sources

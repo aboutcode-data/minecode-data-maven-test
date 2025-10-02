@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.johnzon/johnzon-jaxrs@0.1-incubating?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-jaxrs@0.2-incubating
 - pkg:maven/org.apache.johnzon/johnzon-jaxrs@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-jaxrs@0.5-incubating
+- pkg:maven/org.apache.johnzon/johnzon-jaxrs@0.5-incubating?classifier=sources
