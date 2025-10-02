@@ -16,3 +16,5 @@
 - pkg:maven/javax.cache/cache-tests@0.8?classifier=sources
 - pkg:maven/javax.cache/cache-tests@0.9
 - pkg:maven/javax.cache/cache-tests@0.9?classifier=sources
+- pkg:maven/javax.cache/cache-tests@0.10
+- pkg:maven/javax.cache/cache-tests@0.10?classifier=sources

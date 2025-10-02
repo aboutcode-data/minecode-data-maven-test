@@ -3,3 +3,7 @@
 - pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.3?classifier=sources
 - pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.5?classifier=sources
 - pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.6?classifier=sources
+- pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.7.1?type=aar
+- pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.7.1?classifier=sources
+- pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.7?type=aar
+- pkg:maven/com.github.chrisbanes.actionbarpulltorefresh/extra-abs@0.7?classifier=sources

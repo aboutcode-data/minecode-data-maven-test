@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.accumulo/accumulo@1.4.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.accumulo/accumulo@1.4.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.accumulo/accumulo@1.5.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.4.4?classifier=source-release&type=zip

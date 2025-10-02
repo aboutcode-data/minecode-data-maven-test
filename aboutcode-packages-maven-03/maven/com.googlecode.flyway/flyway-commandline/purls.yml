@@ -32,3 +32,5 @@
 - pkg:maven/com.googlecode.flyway/flyway-commandline@2.1.1?classifier=sources
 - pkg:maven/com.googlecode.flyway/flyway-commandline@2.2?type=zip
 - pkg:maven/com.googlecode.flyway/flyway-commandline@2.2?classifier=sources
+- pkg:maven/com.googlecode.flyway/flyway-commandline@2.2.1?type=zip
+- pkg:maven/com.googlecode.flyway/flyway-commandline@2.2.1?classifier=sources

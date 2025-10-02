@@ -14,3 +14,5 @@
 - pkg:maven/javax.cache/spring-annotations-test-harness@0.8?classifier=sources
 - pkg:maven/javax.cache/spring-annotations-test-harness@0.9
 - pkg:maven/javax.cache/spring-annotations-test-harness@0.9?classifier=sources
+- pkg:maven/javax.cache/spring-annotations-test-harness@0.10
+- pkg:maven/javax.cache/spring-annotations-test-harness@0.10?classifier=sources
