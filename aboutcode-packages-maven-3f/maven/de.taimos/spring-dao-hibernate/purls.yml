@@ -34,3 +34,5 @@
 - pkg:maven/de.taimos/spring-dao-hibernate@1.13?classifier=sources
 - pkg:maven/de.taimos/spring-dao-hibernate@1.15
 - pkg:maven/de.taimos/spring-dao-hibernate@1.15?classifier=sources
+- pkg:maven/de.taimos/spring-dao-hibernate@1.16
+- pkg:maven/de.taimos/spring-dao-hibernate@1.16?classifier=sources

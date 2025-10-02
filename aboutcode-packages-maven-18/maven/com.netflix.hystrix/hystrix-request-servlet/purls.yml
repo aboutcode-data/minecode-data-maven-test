@@ -152,3 +152,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-request-servlet@1.4.18?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-request-servlet@1.4.20
 - pkg:maven/com.netflix.hystrix/hystrix-request-servlet@1.4.20?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-request-servlet@1.4.21
+- pkg:maven/com.netflix.hystrix/hystrix-request-servlet@1.4.21?classifier=sources

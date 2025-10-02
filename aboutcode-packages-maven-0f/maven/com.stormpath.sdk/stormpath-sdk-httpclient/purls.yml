@@ -58,3 +58,5 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.RC5.3?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.RC5.2
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.RC5.2?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.RC6
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.RC6?classifier=sources

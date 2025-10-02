@@ -8,3 +8,5 @@
 - pkg:maven/com.netflix.falcor/falcor-generators@0.22.0?classifier=sources
 - pkg:maven/com.netflix.falcor/falcor-generators@0.25.0
 - pkg:maven/com.netflix.falcor/falcor-generators@0.25.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-generators@0.26.0
+- pkg:maven/com.netflix.falcor/falcor-generators@0.26.0?classifier=sources

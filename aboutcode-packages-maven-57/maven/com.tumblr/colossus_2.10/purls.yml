@@ -64,3 +64,5 @@
 - pkg:maven/com.tumblr/colossus_2.10@0.6.7?classifier=sources
 - pkg:maven/com.tumblr/colossus_2.10@0.6.8-M2
 - pkg:maven/com.tumblr/colossus_2.10@0.6.8-M2?classifier=sources
+- pkg:maven/com.tumblr/colossus_2.10@0.6.8-RC1
+- pkg:maven/com.tumblr/colossus_2.10@0.6.8-RC1?classifier=sources

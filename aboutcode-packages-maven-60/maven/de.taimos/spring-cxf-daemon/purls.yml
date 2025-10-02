@@ -50,3 +50,5 @@
 - pkg:maven/de.taimos/spring-cxf-daemon@2.8?classifier=sources
 - pkg:maven/de.taimos/spring-cxf-daemon@2.9
 - pkg:maven/de.taimos/spring-cxf-daemon@2.9?classifier=sources
+- pkg:maven/de.taimos/spring-cxf-daemon@2.10
+- pkg:maven/de.taimos/spring-cxf-daemon@2.10?classifier=sources

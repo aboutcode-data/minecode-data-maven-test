@@ -80,3 +80,5 @@
 - pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.10@0.5.14?classifier=sources
 - pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.10@0.4.20
 - pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.10@0.4.20?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.10@0.5.15
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.10@0.5.15?classifier=sources
