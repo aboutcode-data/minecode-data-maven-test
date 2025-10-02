@@ -44,3 +44,5 @@
 - pkg:maven/org.red5/red5-io@1.0.8-M13?classifier=sources
 - pkg:maven/org.red5/red5-io@1.0.8-RELEASE
 - pkg:maven/org.red5/red5-io@1.0.8-RELEASE?classifier=sources
+- pkg:maven/org.red5/red5-io@1.0.9-M1
+- pkg:maven/org.red5/red5-io@1.0.9-M1?classifier=sources

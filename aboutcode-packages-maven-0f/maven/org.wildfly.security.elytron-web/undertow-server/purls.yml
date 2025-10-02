@@ -26,3 +26,5 @@
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.0.0.Beta7?classifier=sources
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.0.0.Beta8
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.0.0.Beta8?classifier=sources
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.0.0.Beta9
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.0.0.Beta9?classifier=sources
