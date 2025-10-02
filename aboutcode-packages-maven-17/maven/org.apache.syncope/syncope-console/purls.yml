@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.syncope/syncope-console@1.0.3-incubating?classifier=sources
 - pkg:maven/org.apache.syncope/syncope-console@1.0.4?type=war
 - pkg:maven/org.apache.syncope/syncope-console@1.0.4?classifier=sources
+- pkg:maven/org.apache.syncope/syncope-console@1.0.5?type=war
+- pkg:maven/org.apache.syncope/syncope-console@1.0.5?classifier=sources

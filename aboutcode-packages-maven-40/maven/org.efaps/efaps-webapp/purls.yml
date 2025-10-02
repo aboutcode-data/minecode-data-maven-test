@@ -140,3 +140,5 @@
 - pkg:maven/org.efaps/efaps-webapp@2.1.9?classifier=sources
 - pkg:maven/org.efaps/efaps-webapp@2.1.10
 - pkg:maven/org.efaps/efaps-webapp@2.1.10?classifier=sources
+- pkg:maven/org.efaps/efaps-webapp@2.2.0
+- pkg:maven/org.efaps/efaps-webapp@2.2.0?classifier=sources

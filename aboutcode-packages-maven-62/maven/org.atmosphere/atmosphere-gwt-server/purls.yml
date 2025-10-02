@@ -88,3 +88,5 @@
 - pkg:maven/org.atmosphere/atmosphere-gwt-server@1.0.8?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-gwt-server@1.0.9
 - pkg:maven/org.atmosphere/atmosphere-gwt-server@1.0.9?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-gwt-server@1.1.0.beta3
+- pkg:maven/org.atmosphere/atmosphere-gwt-server@1.1.0.beta3?classifier=sources

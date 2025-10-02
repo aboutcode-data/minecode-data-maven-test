@@ -115,3 +115,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.0.8?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.0.9?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.0.9?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.1.0.beta3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.1.0.beta3?classifier=sources
