@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel-runtime@5.8.19
 - pkg:maven/org.webjars.npm/babel-runtime@5.8.19?classifier=sources
+- pkg:maven/org.webjars.npm/babel-runtime@5.8.20
+- pkg:maven/org.webjars.npm/babel-runtime@5.8.20?classifier=sources

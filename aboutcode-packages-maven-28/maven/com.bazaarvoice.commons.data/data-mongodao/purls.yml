@@ -12,3 +12,5 @@
 - pkg:maven/com.bazaarvoice.commons.data/data-mongodao@1.12?classifier=sources
 - pkg:maven/com.bazaarvoice.commons.data/data-mongodao@1.13
 - pkg:maven/com.bazaarvoice.commons.data/data-mongodao@1.13?classifier=sources
+- pkg:maven/com.bazaarvoice.commons.data/data-mongodao@4.0
+- pkg:maven/com.bazaarvoice.commons.data/data-mongodao@4.0?classifier=sources
