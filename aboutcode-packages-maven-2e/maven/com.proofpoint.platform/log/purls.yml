@@ -120,3 +120,5 @@
 - pkg:maven/com.proofpoint.platform/log@1.04?classifier=sources
 - pkg:maven/com.proofpoint.platform/log@1.05
 - pkg:maven/com.proofpoint.platform/log@1.05?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@1.06
+- pkg:maven/com.proofpoint.platform/log@1.06?classifier=sources

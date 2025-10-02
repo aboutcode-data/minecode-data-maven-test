@@ -24,3 +24,5 @@
 - pkg:maven/com.espertech/esperio-http@4.11.0?classifier=sources
 - pkg:maven/com.espertech/esperio-http@5.0.0
 - pkg:maven/com.espertech/esperio-http@5.0.0?classifier=sources
+- pkg:maven/com.espertech/esperio-http@5.1.0
+- pkg:maven/com.espertech/esperio-http@5.1.0?classifier=sources

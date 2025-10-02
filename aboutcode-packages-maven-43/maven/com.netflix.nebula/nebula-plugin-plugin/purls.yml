@@ -24,3 +24,7 @@
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@1.12.5?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@1.12.10
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@1.12.10?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@2.0.1
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@2.0.1?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@1.12.12
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@1.12.12?classifier=sources

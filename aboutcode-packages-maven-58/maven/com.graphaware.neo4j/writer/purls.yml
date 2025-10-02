@@ -1,2 +1,4 @@
 - pkg:maven/com.graphaware.neo4j/writer@2.1.5.20
 - pkg:maven/com.graphaware.neo4j/writer@2.1.5.20?classifier=sources
+- pkg:maven/com.graphaware.neo4j/writer@2.1.5.21
+- pkg:maven/com.graphaware.neo4j/writer@2.1.5.21?classifier=sources
