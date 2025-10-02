@@ -206,3 +206,5 @@
 - pkg:maven/com.ning.billing/killbill-server@0.8.9?classifier=sources
 - pkg:maven/com.ning.billing/killbill-server@0.8.10?type=war
 - pkg:maven/com.ning.billing/killbill-server@0.8.10?classifier=sources
+- pkg:maven/com.ning.billing/killbill-server@0.8.11?type=war
+- pkg:maven/com.ning.billing/killbill-server@0.8.11?classifier=sources

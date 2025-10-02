@@ -108,3 +108,7 @@
 - pkg:maven/io.undertow/undertow-core@1.0.0.Beta33?classifier=sources
 - pkg:maven/io.undertow/undertow-core@1.0.0.Beta32
 - pkg:maven/io.undertow/undertow-core@1.0.0.Beta32?classifier=sources
+- pkg:maven/io.undertow/undertow-core@1.0.0.CR2
+- pkg:maven/io.undertow/undertow-core@1.0.0.CR2?classifier=sources
+- pkg:maven/io.undertow/undertow-core@1.0.0.CR1
+- pkg:maven/io.undertow/undertow-core@1.0.0.CR1?classifier=sources
