@@ -252,3 +252,12 @@
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta27
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta27?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta27?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta30
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta30?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta30?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta29
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta29?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta29?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta28
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta28?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.0.Beta28?classifier=source-release&type=zip

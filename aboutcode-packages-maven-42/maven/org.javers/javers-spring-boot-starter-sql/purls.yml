@@ -126,3 +126,5 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@3.2.0-RC1?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@3.2.0-RC4
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@3.2.0-RC4?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@3.2.0
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@3.2.0?classifier=sources

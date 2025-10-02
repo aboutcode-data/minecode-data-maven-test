@@ -16,3 +16,5 @@
 - pkg:maven/org.javers/javers-persistence-dynamodb@3.2.0-RC1?classifier=sources
 - pkg:maven/org.javers/javers-persistence-dynamodb@3.2.0-RC4
 - pkg:maven/org.javers/javers-persistence-dynamodb@3.2.0-RC4?classifier=sources
+- pkg:maven/org.javers/javers-persistence-dynamodb@3.2.0
+- pkg:maven/org.javers/javers-persistence-dynamodb@3.2.0?classifier=sources
