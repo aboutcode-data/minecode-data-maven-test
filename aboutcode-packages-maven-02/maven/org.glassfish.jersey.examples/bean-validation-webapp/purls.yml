@@ -17,3 +17,5 @@
 - pkg:maven/org.glassfish.jersey.examples/bean-validation-webapp@2.0?type=war
 - pkg:maven/org.glassfish.jersey.examples/bean-validation-webapp@2.0?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bean-validation-webapp@2.0?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/bean-validation-webapp@2.1?type=war
+- pkg:maven/org.glassfish.jersey.examples/bean-validation-webapp@2.1?classifier=sources
