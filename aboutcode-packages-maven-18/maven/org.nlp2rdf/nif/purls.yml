@@ -16,3 +16,5 @@
 - pkg:maven/org.nlp2rdf/nif@0.3.7?classifier=sources
 - pkg:maven/org.nlp2rdf/nif@0.3.6
 - pkg:maven/org.nlp2rdf/nif@0.3.6?classifier=sources
+- pkg:maven/org.nlp2rdf/nif@0.3.7-spotlight
+- pkg:maven/org.nlp2rdf/nif@0.3.7-spotlight?classifier=sources

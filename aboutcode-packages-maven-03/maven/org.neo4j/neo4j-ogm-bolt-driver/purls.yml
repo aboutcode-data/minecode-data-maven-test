@@ -22,3 +22,5 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@2.1.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@2.0.6
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@2.0.6?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@2.1.1
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@2.1.1?classifier=sources
