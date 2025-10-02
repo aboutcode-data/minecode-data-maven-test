@@ -21,3 +21,4 @@
 - pkg:maven/org.elasticsearch.plugin/analysis-phonetic@2.3.4?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/analysis-phonetic@2.3.5?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/analysis-phonetic@5.0.0-alpha5?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/analysis-phonetic@2.4.0?classifier=sources

@@ -28,3 +28,9 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.4.3?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.3.0.4
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.3.0.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.7.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.7.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.4.4
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.4.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.3.0.5
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@3.3.0.5?classifier=sources
