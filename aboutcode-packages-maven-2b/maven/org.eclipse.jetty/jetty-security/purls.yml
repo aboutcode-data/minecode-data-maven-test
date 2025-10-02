@@ -200,3 +200,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-security@9.0.1.v20130408?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-security@9.0.2.v20130417
 - pkg:maven/org.eclipse.jetty/jetty-security@9.0.2.v20130417?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-security@9.0.3.v20130506
+- pkg:maven/org.eclipse.jetty/jetty-security@9.0.3.v20130506?classifier=sources

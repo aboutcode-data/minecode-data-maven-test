@@ -12,3 +12,5 @@
 - pkg:maven/net.sf.squirrel-sql.plugins/oracle@3.3.0?classifier=sources
 - pkg:maven/net.sf.squirrel-sql.plugins/oracle@3.4.0
 - pkg:maven/net.sf.squirrel-sql.plugins/oracle@3.4.0?classifier=sources
+- pkg:maven/net.sf.squirrel-sql.plugins/oracle@3.5.0
+- pkg:maven/net.sf.squirrel-sql.plugins/oracle@3.5.0?classifier=sources
