@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-commons-impl@0.1.0-incubating?classifier=sources
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-commons-impl@0.6.0
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-commons-impl@0.6.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-commons-impl@0.7.0
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-commons-impl@0.7.0?classifier=sources

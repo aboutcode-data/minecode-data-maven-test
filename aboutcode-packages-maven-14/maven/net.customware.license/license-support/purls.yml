@@ -1,2 +1,4 @@
 - pkg:maven/net.customware.license/license-support@2.0.0
 - pkg:maven/net.customware.license/license-support@2.0.0?classifier=sources
+- pkg:maven/net.customware.license/license-support@3.0.0
+- pkg:maven/net.customware.license/license-support@3.0.0?classifier=sources

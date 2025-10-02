@@ -20,3 +20,5 @@
 - pkg:maven/org.roboguice/roboguice@2.0-RC2?classifier=sources
 - pkg:maven/org.roboguice/roboguice@2.0-RC2b
 - pkg:maven/org.roboguice/roboguice@2.0-RC2b?classifier=sources
+- pkg:maven/org.roboguice/roboguice@2.0
+- pkg:maven/org.roboguice/roboguice@2.0?classifier=sources

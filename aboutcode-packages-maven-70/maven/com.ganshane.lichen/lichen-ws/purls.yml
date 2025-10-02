@@ -1,2 +1,4 @@
 - pkg:maven/com.ganshane.lichen/lichen-ws@0.3
 - pkg:maven/com.ganshane.lichen/lichen-ws@0.3?classifier=sources
+- pkg:maven/com.ganshane.lichen/lichen-ws@0.4.0
+- pkg:maven/com.ganshane.lichen/lichen-ws@0.4.0?classifier=sources

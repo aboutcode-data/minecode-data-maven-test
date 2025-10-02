@@ -11,3 +11,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@0.1.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@0.6.0
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@0.6.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@0.7.0
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@0.7.0?classifier=sources

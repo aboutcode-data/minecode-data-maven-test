@@ -40,3 +40,5 @@
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.0.1.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.0.0.FINAL?type=war
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.0.0.FINAL?classifier=sources
+- pkg:maven/org.infinispan/infinispan-ec2-demoui@5.1.4.FINAL?type=war
+- pkg:maven/org.infinispan/infinispan-ec2-demoui@5.1.4.FINAL?classifier=sources
