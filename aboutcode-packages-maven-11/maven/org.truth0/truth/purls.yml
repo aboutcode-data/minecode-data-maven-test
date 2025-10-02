@@ -12,3 +12,5 @@
 - pkg:maven/org.truth0/truth@0.12?classifier=sources
 - pkg:maven/org.truth0/truth@0.14
 - pkg:maven/org.truth0/truth@0.14?classifier=sources
+- pkg:maven/org.truth0/truth@0.15
+- pkg:maven/org.truth0/truth@0.15?classifier=sources
