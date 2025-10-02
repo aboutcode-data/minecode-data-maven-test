@@ -50,3 +50,5 @@
 - pkg:maven/org.modeshape/modeshape-web-cmis-war@4.1.0.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-web-cmis-war@4.2.0.Final?type=war
 - pkg:maven/org.modeshape/modeshape-web-cmis-war@4.2.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-web-cmis-war@4.3.0.Final?type=war
+- pkg:maven/org.modeshape/modeshape-web-cmis-war@4.3.0.Final?classifier=sources

@@ -88,3 +88,7 @@
 - pkg:maven/org.kuali.rice/rice-dist@2.5.1?classifier=src&type=tar.gz
 - pkg:maven/org.kuali.rice/rice-dist@2.5.2?classifier=src&type=zip
 - pkg:maven/org.kuali.rice/rice-dist@2.5.2?classifier=src&type=tar.gz
+- pkg:maven/org.kuali.rice/rice-dist@2.5.3?classifier=src&type=zip
+- pkg:maven/org.kuali.rice/rice-dist@2.5.3?classifier=src&type=tar.gz
+- pkg:maven/org.kuali.rice/rice-dist@2.1.10?classifier=src&type=zip
+- pkg:maven/org.kuali.rice/rice-dist@2.1.10?classifier=src&type=tar.gz

@@ -8,3 +8,5 @@
 - pkg:maven/org.ow2.petals/petals-se-jsr181@1.4.1?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-se-jsr181@1.4.2?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-jsr181@1.4.2?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-se-jsr181@1.4.3?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-jsr181@1.4.3?classifier=source-release&type=zip
