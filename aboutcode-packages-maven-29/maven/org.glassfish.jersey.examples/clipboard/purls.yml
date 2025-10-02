@@ -59,3 +59,4 @@
 - pkg:maven/org.glassfish.jersey.examples/clipboard@2.3
 - pkg:maven/org.glassfish.jersey.examples/clipboard@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/clipboard@2.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/clipboard@2.3.1

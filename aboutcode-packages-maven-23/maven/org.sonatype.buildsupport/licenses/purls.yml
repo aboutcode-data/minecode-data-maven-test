@@ -4,3 +4,5 @@
 - pkg:maven/org.sonatype.buildsupport/licenses@1?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@4
 - pkg:maven/org.sonatype.buildsupport/licenses@4?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@5
+- pkg:maven/org.sonatype.buildsupport/licenses@5?classifier=sources

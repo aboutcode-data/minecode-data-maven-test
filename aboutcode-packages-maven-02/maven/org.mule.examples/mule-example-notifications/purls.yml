@@ -36,3 +36,5 @@
 - pkg:maven/org.mule.examples/mule-example-notifications@3.3.1?classifier=sources
 - pkg:maven/org.mule.examples/mule-example-notifications@3.4.0-RC1?classifier=sources
 - pkg:maven/org.mule.examples/mule-example-notifications@3.4.0?classifier=sources
+- pkg:maven/org.mule.examples/mule-example-notifications@3.5.0-bighorn-RC3?classifier=sources
+- pkg:maven/org.mule.examples/mule-example-notifications@3.5.0-bighorn?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.3
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.3.1
+- pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.3.1?classifier=sources
