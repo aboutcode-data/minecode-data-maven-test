@@ -2,3 +2,5 @@
 - pkg:maven/com.yodle.griddle/griddle@1.7?classifier=sources
 - pkg:maven/com.yodle.griddle/griddle@1.8
 - pkg:maven/com.yodle.griddle/griddle@1.8?classifier=sources
+- pkg:maven/com.yodle.griddle/griddle@1.9
+- pkg:maven/com.yodle.griddle/griddle@1.9?classifier=sources
