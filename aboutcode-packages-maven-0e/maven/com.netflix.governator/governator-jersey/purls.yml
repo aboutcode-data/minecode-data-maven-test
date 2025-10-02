@@ -60,3 +60,5 @@
 - pkg:maven/com.netflix.governator/governator-jersey@1.15.11?classifier=sources
 - pkg:maven/com.netflix.governator/governator-jersey@1.16.0
 - pkg:maven/com.netflix.governator/governator-jersey@1.16.0?classifier=sources
+- pkg:maven/com.netflix.governator/governator-jersey@1.17.0
+- pkg:maven/com.netflix.governator/governator-jersey@1.17.0?classifier=sources
