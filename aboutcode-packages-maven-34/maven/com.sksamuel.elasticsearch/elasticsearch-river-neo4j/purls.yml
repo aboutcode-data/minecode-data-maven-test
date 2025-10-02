@@ -12,3 +12,5 @@
 - pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.0?classifier=sources
 - pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.0.2
 - pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.0.2?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.1?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.1?classifier=sources

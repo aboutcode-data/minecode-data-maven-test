@@ -41,3 +41,5 @@
 - pkg:maven/com.ning/compress-lzf@0.9.10?classifier=sources
 - pkg:maven/com.ning/compress-lzf@1.0.0
 - pkg:maven/com.ning/compress-lzf@1.0.0?classifier=sources
+- pkg:maven/com.ning/compress-lzf@1.0.1
+- pkg:maven/com.ning/compress-lzf@1.0.1?classifier=sources
