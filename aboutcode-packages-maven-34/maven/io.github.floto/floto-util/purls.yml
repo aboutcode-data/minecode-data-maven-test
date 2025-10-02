@@ -20,3 +20,7 @@
 - pkg:maven/io.github.floto/floto-util@1.9.2?classifier=sources
 - pkg:maven/io.github.floto/floto-util@1.10.0
 - pkg:maven/io.github.floto/floto-util@1.10.0?classifier=sources
+- pkg:maven/io.github.floto/floto-util@2.0.0-beta2
+- pkg:maven/io.github.floto/floto-util@2.0.0-beta2?classifier=sources
+- pkg:maven/io.github.floto/floto-util@2.0.0-beta1
+- pkg:maven/io.github.floto/floto-util@2.0.0-beta1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/net.oneandone.troilus/troilus-core@0.14?classifier=sources
 - pkg:maven/net.oneandone.troilus/troilus-core@0.13
 - pkg:maven/net.oneandone.troilus/troilus-core@0.13?classifier=sources
+- pkg:maven/net.oneandone.troilus/troilus-core@0.17
+- pkg:maven/net.oneandone.troilus/troilus-core@0.17?classifier=sources
