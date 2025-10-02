@@ -24,3 +24,5 @@
 - pkg:maven/com.nuodb.jdbc/nuodb-jdbc@2.5.4?classifier=sources
 - pkg:maven/com.nuodb.jdbc/nuodb-jdbc@2.6.0
 - pkg:maven/com.nuodb.jdbc/nuodb-jdbc@2.6.0?classifier=sources
+- pkg:maven/com.nuodb.jdbc/nuodb-jdbc@2.6.1
+- pkg:maven/com.nuodb.jdbc/nuodb-jdbc@2.6.1?classifier=sources

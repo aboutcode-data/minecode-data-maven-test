@@ -262,3 +262,7 @@
 - pkg:maven/com.stripe/stripe-java@3.10.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@4.0.0
 - pkg:maven/com.stripe/stripe-java@4.0.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@4.2.0
+- pkg:maven/com.stripe/stripe-java@4.2.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@4.1.0
+- pkg:maven/com.stripe/stripe-java@4.1.0?classifier=sources
