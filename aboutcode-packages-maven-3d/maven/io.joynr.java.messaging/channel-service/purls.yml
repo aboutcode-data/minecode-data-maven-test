@@ -130,3 +130,5 @@
 - pkg:maven/io.joynr.java.messaging/channel-service@0.27.2?classifier=sources
 - pkg:maven/io.joynr.java.messaging/channel-service@0.27.3
 - pkg:maven/io.joynr.java.messaging/channel-service@0.27.3?classifier=sources
+- pkg:maven/io.joynr.java.messaging/channel-service@0.27.99
+- pkg:maven/io.joynr.java.messaging/channel-service@0.27.99?classifier=sources

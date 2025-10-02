@@ -48,3 +48,5 @@
 - pkg:maven/io.atomix/atomix@1.0.8?classifier=sources
 - pkg:maven/io.atomix/atomix@2.0.0-alpha1
 - pkg:maven/io.atomix/atomix@2.0.0-alpha1?classifier=sources
+- pkg:maven/io.atomix/atomix@2.0.0-raft-beta1
+- pkg:maven/io.atomix/atomix@2.0.0-raft-beta1?classifier=sources
