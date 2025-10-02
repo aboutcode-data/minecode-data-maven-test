@@ -16,3 +16,5 @@
 - pkg:maven/info.debatty/java-datasets@0.7?classifier=sources
 - pkg:maven/info.debatty/java-datasets@0.9
 - pkg:maven/info.debatty/java-datasets@0.9?classifier=sources
+- pkg:maven/info.debatty/java-datasets@0.10
+- pkg:maven/info.debatty/java-datasets@0.10?classifier=sources

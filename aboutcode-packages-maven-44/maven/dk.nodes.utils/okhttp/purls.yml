@@ -2,3 +2,5 @@
 - pkg:maven/dk.nodes.utils/okhttp@0.3?classifier=sources
 - pkg:maven/dk.nodes.utils/okhttp@0.4?type=aar
 - pkg:maven/dk.nodes.utils/okhttp@0.4?classifier=sources
+- pkg:maven/dk.nodes.utils/okhttp@0.5?type=aar
+- pkg:maven/dk.nodes.utils/okhttp@0.5?classifier=sources
