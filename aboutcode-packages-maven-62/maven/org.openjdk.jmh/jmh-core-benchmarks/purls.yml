@@ -146,3 +146,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.15?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.16
 - pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.16?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.17
+- pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.17?classifier=sources

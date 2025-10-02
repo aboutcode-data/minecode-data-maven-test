@@ -296,3 +296,5 @@
 - pkg:maven/org.neo4j/neo4j-management@3.1.0-M13-beta3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-management@3.0.7
 - pkg:maven/org.neo4j/neo4j-management@3.0.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-management@2.3.8
+- pkg:maven/org.neo4j/neo4j-management@2.3.8?classifier=sources
