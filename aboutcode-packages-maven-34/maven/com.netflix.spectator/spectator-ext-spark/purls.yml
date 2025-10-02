@@ -40,3 +40,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.39.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.40.0
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.40.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@0.41.0
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@0.41.0?classifier=sources

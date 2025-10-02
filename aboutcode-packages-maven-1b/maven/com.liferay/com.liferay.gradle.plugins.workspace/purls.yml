@@ -80,3 +80,7 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.0.40
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.1.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.0.41
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.0.41?classifier=sources
