@@ -13,3 +13,4 @@
 - pkg:maven/io.gravitee.repository/gravitee-repository-mongodb@0.13.0?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository-mongodb@0.14.0?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository-mongodb@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository-mongodb@1.1.0?classifier=sources

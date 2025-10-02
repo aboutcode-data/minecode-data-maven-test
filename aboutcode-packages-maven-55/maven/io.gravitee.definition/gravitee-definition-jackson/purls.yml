@@ -34,3 +34,5 @@
 - pkg:maven/io.gravitee.definition/gravitee-definition-jackson@0.17.0?classifier=sources
 - pkg:maven/io.gravitee.definition/gravitee-definition-jackson@1.0.0
 - pkg:maven/io.gravitee.definition/gravitee-definition-jackson@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.definition/gravitee-definition-jackson@1.1.0
+- pkg:maven/io.gravitee.definition/gravitee-definition-jackson@1.1.0?classifier=sources

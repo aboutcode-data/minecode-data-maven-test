@@ -182,3 +182,5 @@
 - pkg:maven/io.fabric8/kubernetes-examples@1.4.24?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-examples@1.4.21
 - pkg:maven/io.fabric8/kubernetes-examples@1.4.21?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-examples@1.4.26
+- pkg:maven/io.fabric8/kubernetes-examples@1.4.26?classifier=sources
