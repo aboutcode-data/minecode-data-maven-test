@@ -14,3 +14,5 @@
 - pkg:maven/com.netflix.rxjava/rxjava-kotlin@0.14.10?classifier=sources
 - pkg:maven/com.netflix.rxjava/rxjava-kotlin@0.15.0
 - pkg:maven/com.netflix.rxjava/rxjava-kotlin@0.15.0?classifier=sources
+- pkg:maven/com.netflix.rxjava/rxjava-kotlin@0.15.1
+- pkg:maven/com.netflix.rxjava/rxjava-kotlin@0.15.1?classifier=sources

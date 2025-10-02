@@ -1,2 +1,4 @@
 - pkg:maven/io.vertx/vertx-hazelcast@2.1M1
 - pkg:maven/io.vertx/vertx-hazelcast@2.1M1?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M2
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M2?classifier=sources

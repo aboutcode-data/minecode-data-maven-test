@@ -68,3 +68,5 @@
 - pkg:maven/com.rexsl/rexsl-w3c@0.8?classifier=sources
 - pkg:maven/com.rexsl/rexsl-w3c@0.10
 - pkg:maven/com.rexsl/rexsl-w3c@0.10?classifier=sources
+- pkg:maven/com.rexsl/rexsl-w3c@0.10.1
+- pkg:maven/com.rexsl/rexsl-w3c@0.10.1?classifier=sources
