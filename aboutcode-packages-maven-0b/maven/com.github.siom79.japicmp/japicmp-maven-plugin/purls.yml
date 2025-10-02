@@ -50,3 +50,5 @@
 - pkg:maven/com.github.siom79.japicmp/japicmp-maven-plugin@0.9.3?classifier=sources
 - pkg:maven/com.github.siom79.japicmp/japicmp-maven-plugin@0.9.4
 - pkg:maven/com.github.siom79.japicmp/japicmp-maven-plugin@0.9.4?classifier=sources
+- pkg:maven/com.github.siom79.japicmp/japicmp-maven-plugin@0.10.0
+- pkg:maven/com.github.siom79.japicmp/japicmp-maven-plugin@0.10.0?classifier=sources
