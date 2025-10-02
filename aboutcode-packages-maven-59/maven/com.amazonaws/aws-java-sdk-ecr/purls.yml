@@ -106,3 +106,4 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-ecr@1.11.17?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-ecr@1.11.16
 - pkg:maven/com.amazonaws/aws-java-sdk-ecr@1.11.16?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ecr@1.11.20
