@@ -1,2 +1,4 @@
 - pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.remoting.resources.services.server@0.9.8
 - pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.remoting.resources.services.server@0.9.8?classifier=sources
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.remoting.resources.services.server@1.0.0
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.remoting.resources.services.server@1.0.0?classifier=sources
