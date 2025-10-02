@@ -16,3 +16,7 @@
 - pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@1.12.13?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@1.12.12
 - pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@1.12.12?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@2.2
+- pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@2.2?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@1.12.14
+- pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@1.12.14?classifier=sources
