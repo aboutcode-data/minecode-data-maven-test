@@ -1,2 +1,3 @@
 - pkg:maven/org.glassfish.main.resourcebase.resources/nucleus-resources@4.0-b72
 - pkg:maven/org.glassfish.main.resourcebase.resources/nucleus-resources@4.0-b72?classifier=sources
+- pkg:maven/org.glassfish.main.resourcebase.resources/nucleus-resources@4.0?classifier=sources

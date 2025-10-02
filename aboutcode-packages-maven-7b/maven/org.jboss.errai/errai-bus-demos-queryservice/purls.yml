@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.errai/errai-bus-demos-queryservice@2.3.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-bus-demos-queryservice@2.3.1.Final?type=war
 - pkg:maven/org.jboss.errai/errai-bus-demos-queryservice@2.3.1.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-bus-demos-queryservice@2.3.2.Final?type=war
+- pkg:maven/org.jboss.errai/errai-bus-demos-queryservice@2.3.2.Final?classifier=sources
