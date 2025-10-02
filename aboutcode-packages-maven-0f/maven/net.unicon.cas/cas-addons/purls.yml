@@ -14,3 +14,5 @@
 - pkg:maven/net.unicon.cas/cas-addons@0.8?classifier=sources
 - pkg:maven/net.unicon.cas/cas-addons@0.9
 - pkg:maven/net.unicon.cas/cas-addons@0.9?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addons@0.9.5
+- pkg:maven/net.unicon.cas/cas-addons@0.9.5?classifier=sources

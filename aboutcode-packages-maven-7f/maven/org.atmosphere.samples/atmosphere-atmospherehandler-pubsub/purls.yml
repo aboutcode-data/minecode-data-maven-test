@@ -50,3 +50,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-atmospherehandler-pubsub@1.0.0.beta4?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-atmospherehandler-pubsub@1.0.0.beta5?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-atmospherehandler-pubsub@1.0.0.beta5?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-atmospherehandler-pubsub@1.0.0.RC1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-atmospherehandler-pubsub@1.0.0.RC1?classifier=sources

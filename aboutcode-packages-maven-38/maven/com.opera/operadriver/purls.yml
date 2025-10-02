@@ -32,3 +32,5 @@
 - pkg:maven/com.opera/operadriver@0.16.1?classifier=sources
 - pkg:maven/com.opera/operadriver@0.17
 - pkg:maven/com.opera/operadriver@0.17?classifier=sources
+- pkg:maven/com.opera/operadriver@0.18
+- pkg:maven/com.opera/operadriver@0.18?classifier=sources
