@@ -1,2 +1,4 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-oauth-showcase@2.2.4
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-oauth-showcase@2.2.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-oauth-showcase@2.2.5
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-oauth-showcase@2.2.5?classifier=sources

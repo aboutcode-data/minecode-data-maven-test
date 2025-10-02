@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.hbase/hbase-annotations@0.98.12-hadoop2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-annotations@0.98.12-hadoop1
 - pkg:maven/org.apache.hbase/hbase-annotations@0.98.12-hadoop1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-annotations@1.0.1
+- pkg:maven/org.apache.hbase/hbase-annotations@1.0.1?classifier=sources

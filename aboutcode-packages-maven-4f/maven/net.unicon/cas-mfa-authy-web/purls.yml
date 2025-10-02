@@ -1,2 +1,4 @@
 - pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-M6?type=war
 - pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-M6?classifier=sources
+- pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC1?type=war
+- pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC1?classifier=sources

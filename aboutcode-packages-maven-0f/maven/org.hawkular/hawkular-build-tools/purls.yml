@@ -8,3 +8,5 @@
 - pkg:maven/org.hawkular/hawkular-build-tools@7?classifier=sources
 - pkg:maven/org.hawkular/hawkular-build-tools@8
 - pkg:maven/org.hawkular/hawkular-build-tools@8?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@9
+- pkg:maven/org.hawkular/hawkular-build-tools@9?classifier=sources
