@@ -50,3 +50,5 @@
 - pkg:maven/org.gweninterpreter/gwen-web@2.2.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@2.1.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.1.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.3.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.3.0?classifier=sources

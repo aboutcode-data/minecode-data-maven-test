@@ -28,3 +28,5 @@
 - pkg:maven/org.glowroot/glowroot-agent-api@0.9.11?classifier=sources
 - pkg:maven/org.glowroot/glowroot-agent-api@0.9.12
 - pkg:maven/org.glowroot/glowroot-agent-api@0.9.12?classifier=sources
+- pkg:maven/org.glowroot/glowroot-agent-api@0.9.13
+- pkg:maven/org.glowroot/glowroot-agent-api@0.9.13?classifier=sources
