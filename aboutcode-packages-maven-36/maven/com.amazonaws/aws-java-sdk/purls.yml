@@ -414,3 +414,6 @@
 - pkg:maven/com.amazonaws/aws-java-sdk@1.11.5
 - pkg:maven/com.amazonaws/aws-java-sdk@1.11.4
 - pkg:maven/com.amazonaws/aws-java-sdk@1.11.6
+- pkg:maven/com.amazonaws/aws-java-sdk@1.7.4.2
+- pkg:maven/com.amazonaws/aws-java-sdk@1.7.4.2?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk@1.11.7
