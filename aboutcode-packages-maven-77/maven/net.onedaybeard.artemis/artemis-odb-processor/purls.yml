@@ -48,3 +48,5 @@
 - pkg:maven/net.onedaybeard.artemis/artemis-odb-processor@1.3.0?classifier=sources
 - pkg:maven/net.onedaybeard.artemis/artemis-odb-processor@1.4.0
 - pkg:maven/net.onedaybeard.artemis/artemis-odb-processor@1.4.0?classifier=sources
+- pkg:maven/net.onedaybeard.artemis/artemis-odb-processor@2.0.0-RC1
+- pkg:maven/net.onedaybeard.artemis/artemis-odb-processor@2.0.0-RC1?classifier=sources

@@ -66,3 +66,7 @@
 - pkg:maven/org.ajoberstar/grgit@1.6.0?classifier=sources
 - pkg:maven/org.ajoberstar/grgit@1.7.0-rc.1
 - pkg:maven/org.ajoberstar/grgit@1.7.0-rc.1?classifier=sources
+- pkg:maven/org.ajoberstar/grgit@1.7.0-rc.2
+- pkg:maven/org.ajoberstar/grgit@1.7.0-rc.2?classifier=sources
+- pkg:maven/org.ajoberstar/grgit@1.7.0
+- pkg:maven/org.ajoberstar/grgit@1.7.0?classifier=sources

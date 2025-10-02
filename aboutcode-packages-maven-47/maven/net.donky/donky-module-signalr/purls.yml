@@ -4,3 +4,5 @@
 - pkg:maven/net.donky/donky-module-signalr@2.3.0.0?classifier=sources
 - pkg:maven/net.donky/donky-module-signalr@2.4.0.0?type=aar
 - pkg:maven/net.donky/donky-module-signalr@2.4.0.0?classifier=sources
+- pkg:maven/net.donky/donky-module-signalr@2.7.0.1?type=aar
+- pkg:maven/net.donky/donky-module-signalr@2.7.0.1?classifier=sources

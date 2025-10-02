@@ -166,3 +166,5 @@
 - pkg:maven/io.zipkin/zipkin-receiver-scribe@1.39.7?classifier=sources
 - pkg:maven/io.zipkin/zipkin-receiver-scribe@1.40.0
 - pkg:maven/io.zipkin/zipkin-receiver-scribe@1.40.0?classifier=sources
+- pkg:maven/io.zipkin/zipkin-receiver-scribe@1.40.1
+- pkg:maven/io.zipkin/zipkin-receiver-scribe@1.40.1?classifier=sources
