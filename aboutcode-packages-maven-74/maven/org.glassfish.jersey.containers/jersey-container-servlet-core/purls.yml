@@ -112,3 +112,5 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.21.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.22
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.22?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.22.1
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.22.1?classifier=sources

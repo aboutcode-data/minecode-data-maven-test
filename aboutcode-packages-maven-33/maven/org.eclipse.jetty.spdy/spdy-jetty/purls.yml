@@ -62,3 +62,7 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@8.1.17.v20150415?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@7.6.17.v20150415
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@7.6.17.v20150415?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@8.1.18.v20150929
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@8.1.18.v20150929?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@7.6.18.v20150929
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@7.6.18.v20150929?classifier=sources
