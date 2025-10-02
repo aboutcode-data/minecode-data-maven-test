@@ -12,3 +12,7 @@
 - pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X13?classifier=sources
 - pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X12
 - pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X12?classifier=sources
+- pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X16
+- pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X16?classifier=sources
+- pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X15
+- pkg:maven/org.scala-sbt/zinc_2.12@1.0.0-X15?classifier=sources

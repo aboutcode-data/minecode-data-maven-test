@@ -34,3 +34,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon-protocol@2.12.0.563?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon-protocol@2.13.0.606
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon-protocol@2.13.0.606?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon-protocol@2.14.0.674
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon-protocol@2.14.0.674?classifier=sources

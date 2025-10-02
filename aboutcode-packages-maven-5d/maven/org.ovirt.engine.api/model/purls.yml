@@ -180,3 +180,7 @@
 - pkg:maven/org.ovirt.engine.api/model@4.2.11?classifier=sources
 - pkg:maven/org.ovirt.engine.api/model@4.1.36
 - pkg:maven/org.ovirt.engine.api/model@4.1.36?classifier=sources
+- pkg:maven/org.ovirt.engine.api/model@4.2.12
+- pkg:maven/org.ovirt.engine.api/model@4.2.12?classifier=sources
+- pkg:maven/org.ovirt.engine.api/model@4.1.37
+- pkg:maven/org.ovirt.engine.api/model@4.1.37?classifier=sources
