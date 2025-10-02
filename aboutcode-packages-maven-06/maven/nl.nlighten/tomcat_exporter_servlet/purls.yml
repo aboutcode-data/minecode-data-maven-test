@@ -1,0 +1,2 @@
+- pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.3?type=war
+- pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.3?classifier=sources
