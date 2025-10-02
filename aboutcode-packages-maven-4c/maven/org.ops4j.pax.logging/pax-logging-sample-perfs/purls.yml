@@ -1,2 +1,4 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-perfs@1.7.4
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-perfs@1.7.4?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-perfs@1.8.0
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-perfs@1.8.0?classifier=sources

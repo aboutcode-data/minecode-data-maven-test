@@ -50,3 +50,5 @@
 - pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.9.7?classifier=sources
 - pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.9.8
 - pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.9.8?classifier=sources
+- pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.9.9
+- pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.9.9?classifier=sources

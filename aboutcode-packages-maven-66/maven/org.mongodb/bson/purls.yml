@@ -76,3 +76,5 @@
 - pkg:maven/org.mongodb/bson@2.12.2?classifier=sources
 - pkg:maven/org.mongodb/bson@2.12.3
 - pkg:maven/org.mongodb/bson@2.12.3?classifier=sources
+- pkg:maven/org.mongodb/bson@2.12.4
+- pkg:maven/org.mongodb/bson@2.12.4?classifier=sources
