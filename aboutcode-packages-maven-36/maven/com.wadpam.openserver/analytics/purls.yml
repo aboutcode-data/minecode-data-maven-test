@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/analytics@20
 - pkg:maven/com.wadpam.openserver/analytics@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@21
+- pkg:maven/com.wadpam.openserver/analytics@21?classifier=sources

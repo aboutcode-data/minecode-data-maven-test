@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/errors@20
 - pkg:maven/com.wadpam.openserver/errors@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/errors@21
+- pkg:maven/com.wadpam.openserver/errors@21?classifier=sources

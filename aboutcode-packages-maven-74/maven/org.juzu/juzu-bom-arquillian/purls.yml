@@ -40,3 +40,5 @@
 - pkg:maven/org.juzu/juzu-bom-arquillian@0.6.0-cr3?classifier=sources
 - pkg:maven/org.juzu/juzu-bom-arquillian@0.6.0-cr2
 - pkg:maven/org.juzu/juzu-bom-arquillian@0.6.0-cr2?classifier=sources
+- pkg:maven/org.juzu/juzu-bom-arquillian@0.6.0-cr4
+- pkg:maven/org.juzu/juzu-bom-arquillian@0.6.0-cr4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/tools-gae@20
 - pkg:maven/com.wadpam.openserver/tools-gae@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/tools-gae@21
+- pkg:maven/com.wadpam.openserver/tools-gae@21?classifier=sources
