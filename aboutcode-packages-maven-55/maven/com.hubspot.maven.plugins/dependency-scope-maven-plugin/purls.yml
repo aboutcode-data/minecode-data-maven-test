@@ -10,3 +10,5 @@
 - pkg:maven/com.hubspot.maven.plugins/dependency-scope-maven-plugin@0.5?classifier=sources
 - pkg:maven/com.hubspot.maven.plugins/dependency-scope-maven-plugin@0.4
 - pkg:maven/com.hubspot.maven.plugins/dependency-scope-maven-plugin@0.4?classifier=sources
+- pkg:maven/com.hubspot.maven.plugins/dependency-scope-maven-plugin@0.7
+- pkg:maven/com.hubspot.maven.plugins/dependency-scope-maven-plugin@0.7?classifier=sources

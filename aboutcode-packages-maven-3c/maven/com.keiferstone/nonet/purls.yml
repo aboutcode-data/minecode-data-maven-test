@@ -22,3 +22,5 @@
 - pkg:maven/com.keiferstone/nonet@1.2.4?classifier=sources
 - pkg:maven/com.keiferstone/nonet@1.2.3?type=aar
 - pkg:maven/com.keiferstone/nonet@1.2.3?classifier=sources
+- pkg:maven/com.keiferstone/nonet@2.0.1?type=aar
+- pkg:maven/com.keiferstone/nonet@2.0.1?classifier=sources
