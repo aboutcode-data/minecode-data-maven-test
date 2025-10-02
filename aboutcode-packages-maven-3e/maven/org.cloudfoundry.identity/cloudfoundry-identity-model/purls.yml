@@ -16,3 +16,7 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.4.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.3.0.2
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.3.0.2?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.4.2
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.4.2?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.3.0.3
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@3.3.0.3?classifier=sources

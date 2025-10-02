@@ -29,3 +29,6 @@
 - pkg:maven/org.http4s/rho-swagger_2.11@0.11.0
 - pkg:maven/org.http4s/rho-swagger_2.11@0.11.0?classifier=sources
 - pkg:maven/org.http4s/rho-swagger_2.11@0.12.0a
+- pkg:maven/org.http4s/rho-swagger_2.11@0.12.0a?classifier=sources
+- pkg:maven/org.http4s/rho-swagger_2.11@0.12.0
+- pkg:maven/org.http4s/rho-swagger_2.11@0.12.0?classifier=sources

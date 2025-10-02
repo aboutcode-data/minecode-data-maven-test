@@ -28,3 +28,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-common@2.7.4?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-common@2.7.4.4
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-common@2.7.4.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-common@2.7.4.5
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-common@2.7.4.5?classifier=sources

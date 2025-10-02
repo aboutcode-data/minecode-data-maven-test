@@ -176,3 +176,7 @@
 - pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.11?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.10
 - pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.10?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.14
+- pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.14?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.13
+- pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.13?classifier=sources

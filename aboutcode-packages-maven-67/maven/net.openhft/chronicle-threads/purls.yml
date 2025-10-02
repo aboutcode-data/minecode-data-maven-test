@@ -82,3 +82,5 @@
 - pkg:maven/net.openhft/chronicle-threads@1.6.2?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@1.7.0
 - pkg:maven/net.openhft/chronicle-threads@1.7.0?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@1.7.1
+- pkg:maven/net.openhft/chronicle-threads@1.7.1?classifier=sources

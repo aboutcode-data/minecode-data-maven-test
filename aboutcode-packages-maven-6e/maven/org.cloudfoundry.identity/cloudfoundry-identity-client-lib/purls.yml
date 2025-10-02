@@ -20,3 +20,9 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@2.7.4.4?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.3.0.2
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.3.0.2?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.4.2
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.4.2?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.3.0.3
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@3.3.0.3?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@2.7.4.5
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@2.7.4.5?classifier=sources
