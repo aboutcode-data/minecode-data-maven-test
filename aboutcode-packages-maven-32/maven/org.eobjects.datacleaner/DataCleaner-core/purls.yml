@@ -72,3 +72,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.6.1?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.6.2-RC1
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.6.2-RC1?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.6.2
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.6.2?classifier=sources

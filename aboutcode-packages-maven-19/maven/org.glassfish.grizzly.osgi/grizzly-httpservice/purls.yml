@@ -134,3 +134,5 @@
 - pkg:maven/org.glassfish.grizzly.osgi/grizzly-httpservice@2.3.16?classifier=sources
 - pkg:maven/org.glassfish.grizzly.osgi/grizzly-httpservice@2.3.15
 - pkg:maven/org.glassfish.grizzly.osgi/grizzly-httpservice@2.3.15?classifier=sources
+- pkg:maven/org.glassfish.grizzly.osgi/grizzly-httpservice@2.3.15-gfa
+- pkg:maven/org.glassfish.grizzly.osgi/grizzly-httpservice@2.3.15-gfa?classifier=sources

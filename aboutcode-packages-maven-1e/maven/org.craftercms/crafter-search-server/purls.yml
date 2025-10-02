@@ -24,3 +24,5 @@
 - pkg:maven/org.craftercms/crafter-search-server@2.2.7?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-server@2.2.8?type=war
 - pkg:maven/org.craftercms/crafter-search-server@2.2.8?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-server@2.4.1-RC1?type=war
+- pkg:maven/org.craftercms/crafter-search-server@2.4.1-RC1?classifier=sources

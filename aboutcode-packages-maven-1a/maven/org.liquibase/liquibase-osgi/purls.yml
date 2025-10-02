@@ -31,3 +31,4 @@
 - pkg:maven/org.liquibase/liquibase-osgi@3.2.0
 - pkg:maven/org.liquibase/liquibase-osgi@3.2.0?classifier=sources
 - pkg:maven/org.liquibase/liquibase-osgi@3.2.1
+- pkg:maven/org.liquibase/liquibase-osgi@3.2.1?classifier=sources
