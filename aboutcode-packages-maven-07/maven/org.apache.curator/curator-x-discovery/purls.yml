@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.curator/curator-x-discovery@2.1.0-incubating?classifier=sources
 - pkg:maven/org.apache.curator/curator-x-discovery@2.2.0-incubating
 - pkg:maven/org.apache.curator/curator-x-discovery@2.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.curator/curator-x-discovery@2.3.0
+- pkg:maven/org.apache.curator/curator-x-discovery@2.3.0?classifier=sources

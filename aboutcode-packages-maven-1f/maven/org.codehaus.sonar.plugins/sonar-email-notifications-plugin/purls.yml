@@ -73,3 +73,4 @@
 - pkg:maven/org.codehaus.sonar.plugins/sonar-email-notifications-plugin@3.7.3?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-email-notifications-plugin@4.0-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-email-notifications-plugin@4.0-RC2?classifier=sources
+- pkg:maven/org.codehaus.sonar.plugins/sonar-email-notifications-plugin@4.0?classifier=sources
