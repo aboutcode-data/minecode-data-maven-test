@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@0.9.0
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@0.9.0?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@0.9.1
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@0.9.1?classifier=sources
