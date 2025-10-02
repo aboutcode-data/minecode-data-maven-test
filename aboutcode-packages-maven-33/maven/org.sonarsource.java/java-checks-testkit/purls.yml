@@ -20,3 +20,5 @@
 - pkg:maven/org.sonarsource.java/java-checks-testkit@3.13?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-testkit@3.14
 - pkg:maven/org.sonarsource.java/java-checks-testkit@3.14?classifier=sources
+- pkg:maven/org.sonarsource.java/java-checks-testkit@4.0
+- pkg:maven/org.sonarsource.java/java-checks-testkit@4.0?classifier=sources

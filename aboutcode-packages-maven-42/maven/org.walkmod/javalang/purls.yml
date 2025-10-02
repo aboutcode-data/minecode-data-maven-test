@@ -72,3 +72,5 @@
 - pkg:maven/org.walkmod/javalang@4.7.8?classifier=sources
 - pkg:maven/org.walkmod/javalang@4.7.7
 - pkg:maven/org.walkmod/javalang@4.7.7?classifier=sources
+- pkg:maven/org.walkmod/javalang@4.7.9
+- pkg:maven/org.walkmod/javalang@4.7.9?classifier=sources
