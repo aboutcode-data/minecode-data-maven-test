@@ -326,3 +326,7 @@
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev30-1.19.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev30-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev30-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta2-rev12-1.22.0
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta2-rev12-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev30-1.22.0
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev30-1.22.0?classifier=sources

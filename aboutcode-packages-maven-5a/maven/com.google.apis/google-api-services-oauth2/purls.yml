@@ -1080,3 +1080,7 @@
 - pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev112-1.20.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev112-1.19.1
 - pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev112-1.19.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oauth2@v2-rev109-1.22.0
+- pkg:maven/com.google.apis/google-api-services-oauth2@v2-rev109-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev112-1.22.0
+- pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev112-1.22.0?classifier=sources

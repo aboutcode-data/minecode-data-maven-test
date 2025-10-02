@@ -100,3 +100,5 @@
 - pkg:maven/com.activitystream/sdk@0.5.4?classifier=sources
 - pkg:maven/com.activitystream/sdk@0.5.7
 - pkg:maven/com.activitystream/sdk@0.5.7?classifier=sources
+- pkg:maven/com.activitystream/sdk@0.5.8
+- pkg:maven/com.activitystream/sdk@0.5.8?classifier=sources
