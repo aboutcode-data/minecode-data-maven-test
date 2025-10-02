@@ -138,3 +138,7 @@
 - pkg:maven/com.groupbyinc/common-jackson@90?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@89
 - pkg:maven/com.groupbyinc/common-jackson@89?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@92
+- pkg:maven/com.groupbyinc/common-jackson@92?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@91
+- pkg:maven/com.groupbyinc/common-jackson@91?classifier=sources

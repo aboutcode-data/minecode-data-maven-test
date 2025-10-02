@@ -14,3 +14,5 @@
 - pkg:maven/com.facebook.presto.hadoop/hadoop-cdh4@0.9?classifier=sources
 - pkg:maven/com.facebook.presto.hadoop/hadoop-cdh4@0.10
 - pkg:maven/com.facebook.presto.hadoop/hadoop-cdh4@0.10?classifier=sources
+- pkg:maven/com.facebook.presto.hadoop/hadoop-cdh4@4.7.1-1
+- pkg:maven/com.facebook.presto.hadoop/hadoop-cdh4@4.7.1-1?classifier=sources

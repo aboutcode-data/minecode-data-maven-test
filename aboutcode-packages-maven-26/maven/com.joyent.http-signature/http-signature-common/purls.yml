@@ -32,3 +32,5 @@
 - pkg:maven/com.joyent.http-signature/http-signature-common@3.0.0?classifier=sources
 - pkg:maven/com.joyent.http-signature/http-signature-common@3.0.2
 - pkg:maven/com.joyent.http-signature/http-signature-common@3.0.2?classifier=sources
+- pkg:maven/com.joyent.http-signature/http-signature-common@4.0.0
+- pkg:maven/com.joyent.http-signature/http-signature-common@4.0.0?classifier=sources
