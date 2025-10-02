@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.crunch/crunch-examples@0.5.0-incubating?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-examples@0.6.0
 - pkg:maven/org.apache.crunch/crunch-examples@0.6.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-examples@0.7.0-hadoop2
+- pkg:maven/org.apache.crunch/crunch-examples@0.7.0-hadoop2?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-examples@0.7.0
+- pkg:maven/org.apache.crunch/crunch-examples@0.7.0?classifier=sources
