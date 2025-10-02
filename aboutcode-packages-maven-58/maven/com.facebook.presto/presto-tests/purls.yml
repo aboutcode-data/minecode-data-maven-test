@@ -70,3 +70,7 @@
 - pkg:maven/com.facebook.presto/presto-tests@0.104?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tests@0.105
 - pkg:maven/com.facebook.presto/presto-tests@0.105?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tests@0.107
+- pkg:maven/com.facebook.presto/presto-tests@0.107?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tests@0.106
+- pkg:maven/com.facebook.presto/presto-tests@0.106?classifier=sources

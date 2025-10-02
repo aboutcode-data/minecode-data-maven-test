@@ -4,3 +4,5 @@
 - pkg:maven/org.vibur/vibur-object-pool@1.0.0?classifier=sources
 - pkg:maven/org.vibur/vibur-object-pool@2.0.0
 - pkg:maven/org.vibur/vibur-object-pool@2.0.0?classifier=sources
+- pkg:maven/org.vibur/vibur-object-pool@3.0
+- pkg:maven/org.vibur/vibur-object-pool@3.0?classifier=sources
