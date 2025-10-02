@@ -100,3 +100,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-jdo@3.1.1?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-jdo@3.2.0
 - pkg:maven/com.mysema.querydsl/querydsl-jdo@3.2.0?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-jdo@2.9.0.FIXED
+- pkg:maven/com.mysema.querydsl/querydsl-jdo@2.9.0.FIXED?classifier=sources

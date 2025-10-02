@@ -12,3 +12,5 @@
 - pkg:maven/com.netflix.karyon/hello-netflix-oss@1.0.14?classifier=sources
 - pkg:maven/com.netflix.karyon/hello-netflix-oss@1.0.18?type=war
 - pkg:maven/com.netflix.karyon/hello-netflix-oss@1.0.18?classifier=sources
+- pkg:maven/com.netflix.karyon/hello-netflix-oss@1.0.19?type=war
+- pkg:maven/com.netflix.karyon/hello-netflix-oss@1.0.19?classifier=sources
