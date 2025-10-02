@@ -20,3 +20,5 @@
 - pkg:maven/com.typesafe/config@1.1.0-9f31d6308e7ebbc3d7904b64ebb9f61f7e22a968?classifier=sources
 - pkg:maven/com.typesafe/config@1.1.0-4dd6c85cab1ef1a4415abb74704d60e57497b7b8
 - pkg:maven/com.typesafe/config@1.1.0-4dd6c85cab1ef1a4415abb74704d60e57497b7b8?classifier=sources
+- pkg:maven/com.typesafe/config@1.2.0
+- pkg:maven/com.typesafe/config@1.2.0?classifier=sources

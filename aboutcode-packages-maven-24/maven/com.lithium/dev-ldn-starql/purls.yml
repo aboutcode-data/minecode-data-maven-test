@@ -14,3 +14,5 @@
 - pkg:maven/com.lithium/dev-ldn-starql@1.7?classifier=sources
 - pkg:maven/com.lithium/dev-ldn-starql@1.8
 - pkg:maven/com.lithium/dev-ldn-starql@1.8?classifier=sources
+- pkg:maven/com.lithium/dev-ldn-starql@2.0
+- pkg:maven/com.lithium/dev-ldn-starql@2.0?classifier=sources
