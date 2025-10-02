@@ -194,3 +194,6 @@
 - pkg:maven/org.glassfish.jersey.examples/clipboard@2.26-b04
 - pkg:maven/org.glassfish.jersey.examples/clipboard@2.26-b04?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/clipboard@2.26-b04?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/clipboard@2.26-b05
+- pkg:maven/org.glassfish.jersey.examples/clipboard@2.26-b05?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/clipboard@2.26-b05?classifier=project-src&type=zip

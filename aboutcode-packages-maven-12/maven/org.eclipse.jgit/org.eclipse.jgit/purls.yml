@@ -104,3 +104,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit@4.5.2.201704071617-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit@4.8.0.201705170830-rc1
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit@4.8.0.201705170830-rc1?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit@4.7.1.201706071930-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit@4.7.1.201706071930-r?classifier=sources
