@@ -86,3 +86,5 @@
 - pkg:maven/org.wildfly.core/wildfly-platform-mbean@2.0.0.Alpha10?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-platform-mbean@1.0.1.Final
 - pkg:maven/org.wildfly.core/wildfly-platform-mbean@1.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-platform-mbean@2.0.0.Alpha11
+- pkg:maven/org.wildfly.core/wildfly-platform-mbean@2.0.0.Alpha11?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-android@0.9?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-android@1.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-android@1.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-android@1.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-android@1.1?classifier=sources
