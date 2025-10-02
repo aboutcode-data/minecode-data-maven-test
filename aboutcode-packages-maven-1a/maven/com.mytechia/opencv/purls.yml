@@ -4,3 +4,7 @@
 - pkg:maven/com.mytechia/opencv@3.1.0?classifier=sources
 - pkg:maven/com.mytechia/opencv@3.1.0-my?type=aar
 - pkg:maven/com.mytechia/opencv@3.1.0-my?classifier=sources
+- pkg:maven/com.mytechia/opencv@3.1.0-r2-my?type=aar
+- pkg:maven/com.mytechia/opencv@3.1.0-r2-my?classifier=sources
+- pkg:maven/com.mytechia/opencv@3.1.0-r1-my?type=aar
+- pkg:maven/com.mytechia/opencv@3.1.0-r1-my?classifier=sources

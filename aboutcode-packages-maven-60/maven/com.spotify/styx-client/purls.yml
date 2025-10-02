@@ -34,3 +34,7 @@
 - pkg:maven/com.spotify/styx-client@1.0.32?classifier=sources
 - pkg:maven/com.spotify/styx-client@1.0.31
 - pkg:maven/com.spotify/styx-client@1.0.31?classifier=sources
+- pkg:maven/com.spotify/styx-client@1.0.35
+- pkg:maven/com.spotify/styx-client@1.0.35?classifier=sources
+- pkg:maven/com.spotify/styx-client@1.0.33
+- pkg:maven/com.spotify/styx-client@1.0.33?classifier=sources
