@@ -16,3 +16,5 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-pcollections@2.7.5?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-pcollections@2.8.0.rc2
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-pcollections@2.8.0.rc2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-pcollections@2.8.0
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-pcollections@2.8.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.aol.microservices/micro-dist-lock@0.87
+- pkg:maven/com.aol.microservices/micro-dist-lock@0.87?classifier=sources
+- pkg:maven/com.aol.microservices/micro-dist-lock@0.86
+- pkg:maven/com.aol.microservices/micro-dist-lock@0.86?classifier=sources

@@ -88,3 +88,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.12?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.11
 - pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.11?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.15
+- pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.15?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.14
+- pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.14?classifier=sources

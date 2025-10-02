@@ -22,3 +22,5 @@
 - pkg:maven/com.emc.ecs/smart-client@2.0.6?classifier=sources
 - pkg:maven/com.emc.ecs/smart-client@2.0.7
 - pkg:maven/com.emc.ecs/smart-client@2.0.7?classifier=sources
+- pkg:maven/com.emc.ecs/smart-client@2.1.0
+- pkg:maven/com.emc.ecs/smart-client@2.1.0?classifier=sources

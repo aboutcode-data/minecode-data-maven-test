@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.bower/jQuery@1.12.4?classifier=sources
 - pkg:maven/org.webjars.bower/jQuery@1.9.0
 - pkg:maven/org.webjars.bower/jQuery@1.9.0?classifier=sources
+- pkg:maven/org.webjars.bower/jQuery@3.1.0
+- pkg:maven/org.webjars.bower/jQuery@3.1.0?classifier=sources
