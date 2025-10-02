@@ -34,3 +34,7 @@
 - pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.0?classifier=sources
+- pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.1?type=war
+- pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.samples/servicemix-web@3.4.1?classifier=sources

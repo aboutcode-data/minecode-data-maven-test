@@ -6,3 +6,5 @@
 - pkg:maven/org.glassfish.jersey.examples/multipart-webapp@2.0-m04-2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/multipart-webapp@2.0-m05?type=war
 - pkg:maven/org.glassfish.jersey.examples/multipart-webapp@2.0-m05?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/multipart-webapp@2.0-m05-1?type=war
+- pkg:maven/org.glassfish.jersey.examples/multipart-webapp@2.0-m05-1?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.servicemix/servicemix-common@2008.01?classifier=sources
 - pkg:maven/org.apache.servicemix/servicemix-common@2011.02
 - pkg:maven/org.apache.servicemix/servicemix-common@2011.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-common@2011.02.1
+- pkg:maven/org.apache.servicemix/servicemix-common@2011.02.1?classifier=sources
