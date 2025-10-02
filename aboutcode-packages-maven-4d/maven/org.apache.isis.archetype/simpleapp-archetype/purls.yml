@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.9.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.10.0?classifier=sources
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.10.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.11.0?classifier=sources
+- pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.11.0?classifier=source-release&type=zip
