@@ -34,3 +34,5 @@
 - pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.1.8.v20160420?classifier=sources
 - pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.1.9.v20160720
 - pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.1.9.v20160720?classifier=sources
+- pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.1.10.v20161026
+- pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.1.10.v20161026?classifier=sources

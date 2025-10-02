@@ -318,3 +318,7 @@
 - pkg:maven/org.pustefixframework.samples/moduletest@0.20.15?classifier=sources
 - pkg:maven/org.pustefixframework.samples/moduletest@0.20.16?type=war
 - pkg:maven/org.pustefixframework.samples/moduletest@0.20.16?classifier=sources
+- pkg:maven/org.pustefixframework.samples/moduletest@0.20.18?type=war
+- pkg:maven/org.pustefixframework.samples/moduletest@0.20.18?classifier=sources
+- pkg:maven/org.pustefixframework.samples/moduletest@0.20.17?type=war
+- pkg:maven/org.pustefixframework.samples/moduletest@0.20.17?classifier=sources
