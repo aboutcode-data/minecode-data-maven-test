@@ -178,3 +178,9 @@
 - pkg:maven/org.kaazing/gateway.management@5.4.0?classifier=sources
 - pkg:maven/org.kaazing/gateway.management@5.4.1-RC001
 - pkg:maven/org.kaazing/gateway.management@5.4.1-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.management@5.5.0-RC001
+- pkg:maven/org.kaazing/gateway.management@5.5.0-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.management@5.4.1-RC002
+- pkg:maven/org.kaazing/gateway.management@5.4.1-RC002?classifier=sources
+- pkg:maven/org.kaazing/gateway.management@5.4.1
+- pkg:maven/org.kaazing/gateway.management@5.4.1?classifier=sources

@@ -278,3 +278,5 @@
 - pkg:maven/org.jboss.weld.examples.se/weld-se-hello-world@2.4.2.SP1?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-hello-world@2.4.2.Final
 - pkg:maven/org.jboss.weld.examples.se/weld-se-hello-world@2.4.2.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.se/weld-se-hello-world@1.1.34.Final
+- pkg:maven/org.jboss.weld.examples.se/weld-se-hello-world@1.1.34.Final?classifier=sources
