@@ -2,3 +2,5 @@
 - pkg:maven/io.gravitee.gateway/gravitee-gateway-el@0.10.0?classifier=sources
 - pkg:maven/io.gravitee.gateway/gravitee-gateway-el@0.11.0
 - pkg:maven/io.gravitee.gateway/gravitee-gateway-el@0.11.0?classifier=sources
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-el@0.12.0
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-el@0.12.0?classifier=sources

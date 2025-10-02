@@ -16,3 +16,5 @@
 - pkg:maven/io.zipkin.java/transport-scribe@0.15.0?classifier=sources
 - pkg:maven/io.zipkin.java/transport-scribe@0.14.0
 - pkg:maven/io.zipkin.java/transport-scribe@0.14.0?classifier=sources
+- pkg:maven/io.zipkin.java/transport-scribe@0.16.1
+- pkg:maven/io.zipkin.java/transport-scribe@0.16.1?classifier=sources
