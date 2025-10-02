@@ -12,3 +12,5 @@
 - pkg:maven/com.streethawk/growth@1.7.10?classifier=sources
 - pkg:maven/com.streethawk/growth@1.7.12?type=aar
 - pkg:maven/com.streethawk/growth@1.7.12?classifier=sources
+- pkg:maven/com.streethawk/growth@1.7.13?type=aar
+- pkg:maven/com.streethawk/growth@1.7.13?classifier=sources

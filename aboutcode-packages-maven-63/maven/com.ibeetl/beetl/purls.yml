@@ -4,3 +4,5 @@
 - pkg:maven/com.ibeetl/beetl@2.2.6?classifier=sources
 - pkg:maven/com.ibeetl/beetl@2.2.7
 - pkg:maven/com.ibeetl/beetl@2.2.7?classifier=sources
+- pkg:maven/com.ibeetl/beetl@2.2.7-snapshot
+- pkg:maven/com.ibeetl/beetl@2.2.7-snapshot?classifier=sources

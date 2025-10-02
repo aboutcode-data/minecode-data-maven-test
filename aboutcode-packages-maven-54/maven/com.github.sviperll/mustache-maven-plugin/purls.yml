@@ -24,3 +24,5 @@
 - pkg:maven/com.github.sviperll/mustache-maven-plugin@0.16?classifier=sources
 - pkg:maven/com.github.sviperll/mustache-maven-plugin@0.20
 - pkg:maven/com.github.sviperll/mustache-maven-plugin@0.20?classifier=sources
+- pkg:maven/com.github.sviperll/mustache-maven-plugin@0.21
+- pkg:maven/com.github.sviperll/mustache-maven-plugin@0.21?classifier=sources

@@ -200,3 +200,7 @@
 - pkg:maven/com.hazelcast/hazelcast-spring@3.5.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-spring@3.6-EA
 - pkg:maven/com.hazelcast/hazelcast-spring@3.6-EA?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-spring@3.6-EA2
+- pkg:maven/com.hazelcast/hazelcast-spring@3.6-EA2?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-spring@3.5.4
+- pkg:maven/com.hazelcast/hazelcast-spring@3.5.4?classifier=sources
