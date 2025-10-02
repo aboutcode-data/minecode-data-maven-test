@@ -196,3 +196,7 @@
 - pkg:maven/com.ning/async-http-client@1.9.15?classifier=sources
 - pkg:maven/com.ning/async-http-client@1.9.14
 - pkg:maven/com.ning/async-http-client@1.9.14?classifier=sources
+- pkg:maven/com.ning/async-http-client@1.9.17
+- pkg:maven/com.ning/async-http-client@1.9.17?classifier=sources
+- pkg:maven/com.ning/async-http-client@1.9.16
+- pkg:maven/com.ning/async-http-client@1.9.16?classifier=sources

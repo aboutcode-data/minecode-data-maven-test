@@ -14,3 +14,5 @@
 - pkg:maven/com.github.zed-platform/zed-service-attachment-file@0.0.18?classifier=sources
 - pkg:maven/com.github.zed-platform/zed-service-attachment-file@0.0.19?type=war
 - pkg:maven/com.github.zed-platform/zed-service-attachment-file@0.0.19?classifier=sources
+- pkg:maven/com.github.zed-platform/zed-service-attachment-file@0.0.20?type=war
+- pkg:maven/com.github.zed-platform/zed-service-attachment-file@0.0.20?classifier=sources

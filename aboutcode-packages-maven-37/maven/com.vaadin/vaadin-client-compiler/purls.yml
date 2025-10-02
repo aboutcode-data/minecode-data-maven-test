@@ -168,3 +168,5 @@
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.4.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.5.0.alpha1
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.5.0.alpha1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client-compiler@7.4.3
+- pkg:maven/com.vaadin/vaadin-client-compiler@7.4.3?classifier=sources
