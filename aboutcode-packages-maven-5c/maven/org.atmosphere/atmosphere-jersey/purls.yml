@@ -170,3 +170,7 @@
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.0.3?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.1.0-beta1
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.1.0-beta1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.1.0-RC1
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.1.0-RC1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.0.4
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.0.4?classifier=sources

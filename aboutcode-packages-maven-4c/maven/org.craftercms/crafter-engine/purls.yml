@@ -1,2 +1,4 @@
 - pkg:maven/org.craftercms/crafter-engine@2.2.2?type=war
 - pkg:maven/org.craftercms/crafter-engine@2.2.2?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@2.2.3?type=war
+- pkg:maven/org.craftercms/crafter-engine@2.2.3?classifier=sources

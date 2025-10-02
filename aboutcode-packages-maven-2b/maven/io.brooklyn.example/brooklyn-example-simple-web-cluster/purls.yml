@@ -22,3 +22,5 @@
 - pkg:maven/io.brooklyn.example/brooklyn-example-simple-web-cluster@0.6.0-rc.4?classifier=sources
 - pkg:maven/io.brooklyn.example/brooklyn-example-simple-web-cluster@0.6.0-rc.3
 - pkg:maven/io.brooklyn.example/brooklyn-example-simple-web-cluster@0.6.0-rc.3?classifier=sources
+- pkg:maven/io.brooklyn.example/brooklyn-example-simple-web-cluster@0.6.0
+- pkg:maven/io.brooklyn.example/brooklyn-example-simple-web-cluster@0.6.0?classifier=sources

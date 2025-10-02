@@ -4,3 +4,5 @@
 - pkg:maven/com.stanfy.enroscar/enroscar-sherlock-integration@0.9.10?classifier=sources
 - pkg:maven/com.stanfy.enroscar/enroscar-sherlock-integration@0.9.12?type=aar
 - pkg:maven/com.stanfy.enroscar/enroscar-sherlock-integration@0.9.12?classifier=sources
+- pkg:maven/com.stanfy.enroscar/enroscar-sherlock-integration@1.0?type=aar
+- pkg:maven/com.stanfy.enroscar/enroscar-sherlock-integration@1.0?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.xbean/xbean-naming@3.14?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-naming@3.15
 - pkg:maven/org.apache.xbean/xbean-naming@3.15?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-naming@3.16
+- pkg:maven/org.apache.xbean/xbean-naming@3.16?classifier=sources
