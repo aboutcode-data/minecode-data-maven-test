@@ -16,3 +16,5 @@
 - pkg:maven/com.google.errorprone/error_prone_maven@0.9.8?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_maven@0.9.9
 - pkg:maven/com.google.errorprone/error_prone_maven@0.9.9?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_maven@0.9.10
+- pkg:maven/com.google.errorprone/error_prone_maven@0.9.10?classifier=sources

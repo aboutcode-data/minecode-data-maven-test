@@ -1,2 +1,4 @@
 - pkg:maven/com.google.code.maven-config-processor-plugin/config-processor-maven-plugin@2.4
 - pkg:maven/com.google.code.maven-config-processor-plugin/config-processor-maven-plugin@2.4?classifier=sources
+- pkg:maven/com.google.code.maven-config-processor-plugin/config-processor-maven-plugin@2.5
+- pkg:maven/com.google.code.maven-config-processor-plugin/config-processor-maven-plugin@2.5?classifier=sources

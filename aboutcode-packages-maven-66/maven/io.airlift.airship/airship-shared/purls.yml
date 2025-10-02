@@ -1,2 +1,4 @@
 - pkg:maven/io.airlift.airship/airship-shared@0.9
 - pkg:maven/io.airlift.airship/airship-shared@0.9?classifier=sources
+- pkg:maven/io.airlift.airship/airship-shared@0.10
+- pkg:maven/io.airlift.airship/airship-shared@0.10?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.liftweb/lift-json_2.10@2.5-M4
 - pkg:maven/net.liftweb/lift-json_2.10@2.5-M4?classifier=sources
+- pkg:maven/net.liftweb/lift-json_2.10@2.5-RC1
+- pkg:maven/net.liftweb/lift-json_2.10@2.5-RC1?classifier=sources

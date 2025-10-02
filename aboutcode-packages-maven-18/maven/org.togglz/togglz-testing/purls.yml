@@ -1,2 +1,4 @@
 - pkg:maven/org.togglz/togglz-testing@1.1.0.Final
 - pkg:maven/org.togglz/togglz-testing@1.1.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-testing@2.0.0.Alpha1
+- pkg:maven/org.togglz/togglz-testing@2.0.0.Alpha1?classifier=sources
