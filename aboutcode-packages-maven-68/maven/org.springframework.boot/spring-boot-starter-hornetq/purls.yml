@@ -55,3 +55,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-hornetq@1.4.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-hornetq@1.4.3.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-hornetq@1.4.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-hornetq@1.4.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-hornetq@1.4.4.RELEASE?classifier=sources

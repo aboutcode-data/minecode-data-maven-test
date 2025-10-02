@@ -2,3 +2,5 @@
 - pkg:maven/org.scala-sbt/librarymanagement_2.12@0.1.0-X3?classifier=sources
 - pkg:maven/org.scala-sbt/librarymanagement_2.12@1.0.0-X4
 - pkg:maven/org.scala-sbt/librarymanagement_2.12@1.0.0-X4?classifier=sources
+- pkg:maven/org.scala-sbt/librarymanagement_2.12@1.0.0-X5
+- pkg:maven/org.scala-sbt/librarymanagement_2.12@1.0.0-X5?classifier=sources
