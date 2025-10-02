@@ -1,0 +1,4 @@
+- pkg:maven/io.fabric8.devops.apps/image-linker@2.2.26
+- pkg:maven/io.fabric8.devops.apps/image-linker@2.2.26?classifier=sources
+- pkg:maven/io.fabric8.devops.apps/image-linker@2.2.23.10
+- pkg:maven/io.fabric8.devops.apps/image-linker@2.2.23.10?classifier=sources

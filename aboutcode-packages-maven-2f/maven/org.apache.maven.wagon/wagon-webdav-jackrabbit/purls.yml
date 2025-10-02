@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.maven.wagon/wagon-webdav-jackrabbit@2.8?classifier=sources
 - pkg:maven/org.apache.maven.wagon/wagon-webdav-jackrabbit@2.9
 - pkg:maven/org.apache.maven.wagon/wagon-webdav-jackrabbit@2.9?classifier=sources
+- pkg:maven/org.apache.maven.wagon/wagon-webdav-jackrabbit@2.10
+- pkg:maven/org.apache.maven.wagon/wagon-webdav-jackrabbit@2.10?classifier=sources
