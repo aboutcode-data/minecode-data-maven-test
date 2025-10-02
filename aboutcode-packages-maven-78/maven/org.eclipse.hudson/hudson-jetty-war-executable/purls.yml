@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.hudson/hudson-jetty-war-executable@3.0.0-RC3?classifier=sources
 - pkg:maven/org.eclipse.hudson/hudson-jetty-war-executable@3.0.0-RC4
 - pkg:maven/org.eclipse.hudson/hudson-jetty-war-executable@3.0.0-RC4?classifier=sources
+- pkg:maven/org.eclipse.hudson/hudson-jetty-war-executable@3.0.0
+- pkg:maven/org.eclipse.hudson/hudson-jetty-war-executable@3.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.openrdf.sesame/sesame-rio-trig@2.7.0-beta1
+- pkg:maven/org.openrdf.sesame/sesame-rio-trig@2.7.0-beta1?classifier=sources

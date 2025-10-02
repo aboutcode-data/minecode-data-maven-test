@@ -12,3 +12,5 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-jodatime@1.0.5.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-jodatime@1.1.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-jodatime@1.1.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-jodatime@2.0.0.Alpha2
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-jodatime@2.0.0.Alpha2?classifier=sources

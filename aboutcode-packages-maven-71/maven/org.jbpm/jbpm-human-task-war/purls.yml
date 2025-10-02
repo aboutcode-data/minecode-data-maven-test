@@ -22,3 +22,5 @@
 - pkg:maven/org.jbpm/jbpm-human-task-war@6.0.0.Alpha5?classifier=sources
 - pkg:maven/org.jbpm/jbpm-human-task-war@5.2.5.Final?type=war
 - pkg:maven/org.jbpm/jbpm-human-task-war@5.2.5.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-human-task-war@6.0.0.Alpha6?type=war
+- pkg:maven/org.jbpm/jbpm-human-task-war@6.0.0.Alpha6?classifier=sources

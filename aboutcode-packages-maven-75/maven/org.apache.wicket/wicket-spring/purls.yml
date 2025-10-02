@@ -140,3 +140,5 @@
 - pkg:maven/org.apache.wicket/wicket-spring@1.5.9?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-spring@6.3.0
 - pkg:maven/org.apache.wicket/wicket-spring@6.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@6.4.0
+- pkg:maven/org.apache.wicket/wicket-spring@6.4.0?classifier=sources
