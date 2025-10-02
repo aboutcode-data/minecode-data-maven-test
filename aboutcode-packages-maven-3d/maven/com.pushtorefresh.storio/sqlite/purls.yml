@@ -38,3 +38,5 @@
 - pkg:maven/com.pushtorefresh.storio/sqlite@1.11.0?classifier=sources
 - pkg:maven/com.pushtorefresh.storio/sqlite@1.12.0
 - pkg:maven/com.pushtorefresh.storio/sqlite@1.12.0?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/sqlite@1.12.1
+- pkg:maven/com.pushtorefresh.storio/sqlite@1.12.1?classifier=sources

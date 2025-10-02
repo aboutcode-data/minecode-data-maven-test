@@ -8,3 +8,7 @@
 - pkg:maven/com.metamx/extendedset@1.4.0?classifier=sources
 - pkg:maven/com.metamx/extendedset@1.4.1
 - pkg:maven/com.metamx/extendedset@1.4.1?classifier=sources
+- pkg:maven/com.metamx/extendedset@1.5.0-mmx
+- pkg:maven/com.metamx/extendedset@1.5.0-mmx?classifier=sources
+- pkg:maven/com.metamx/extendedset@1.4.2
+- pkg:maven/com.metamx/extendedset@1.4.2?classifier=sources

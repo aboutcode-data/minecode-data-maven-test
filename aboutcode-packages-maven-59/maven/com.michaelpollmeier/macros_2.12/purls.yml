@@ -1,2 +1,4 @@
 - pkg:maven/com.michaelpollmeier/macros_2.12@3.2.3.3
 - pkg:maven/com.michaelpollmeier/macros_2.12@3.2.3.3?classifier=sources
+- pkg:maven/com.michaelpollmeier/macros_2.12@3.0.2-incubating.2
+- pkg:maven/com.michaelpollmeier/macros_2.12@3.0.2-incubating.2?classifier=sources
