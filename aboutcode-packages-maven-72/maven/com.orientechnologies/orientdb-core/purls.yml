@@ -108,3 +108,5 @@
 - pkg:maven/com.orientechnologies/orientdb-core@2.0.13?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-core@2.1-rc6
 - pkg:maven/com.orientechnologies/orientdb-core@2.1-rc6?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-core@2.1.0
+- pkg:maven/com.orientechnologies/orientdb-core@2.1.0?classifier=sources

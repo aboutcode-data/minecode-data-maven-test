@@ -138,3 +138,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-examples-webapp@1.4.12?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-examples-webapp@1.4.13?type=war
 - pkg:maven/com.netflix.hystrix/hystrix-examples-webapp@1.4.13?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-examples-webapp@1.4.14?type=war
+- pkg:maven/com.netflix.hystrix/hystrix-examples-webapp@1.4.14?classifier=sources
