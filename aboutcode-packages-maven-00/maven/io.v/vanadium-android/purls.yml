@@ -11,3 +11,5 @@
 - pkg:maven/io.v/vanadium-android@1.3?classifier=sources
 - pkg:maven/io.v/vanadium-android@1.6?type=aar
 - pkg:maven/io.v/vanadium-android@1.6?classifier=sources
+- pkg:maven/io.v/vanadium-android@2.0?type=aar
+- pkg:maven/io.v/vanadium-android@2.0?classifier=sources

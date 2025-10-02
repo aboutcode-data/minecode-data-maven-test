@@ -30,3 +30,5 @@
 - pkg:maven/org.activiti/activiti-mule@6.0.0.Beta2?classifier=sources
 - pkg:maven/org.activiti/activiti-mule@5.19.0.2
 - pkg:maven/org.activiti/activiti-mule@5.19.0.2?classifier=sources
+- pkg:maven/org.activiti/activiti-mule@5.20.0
+- pkg:maven/org.activiti/activiti-mule@5.20.0?classifier=sources
