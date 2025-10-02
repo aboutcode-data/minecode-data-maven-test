@@ -154,3 +154,7 @@
 - pkg:maven/org.takes/takes@0.20.3?classifier=sources
 - pkg:maven/org.takes/takes@0.21
 - pkg:maven/org.takes/takes@0.21?classifier=sources
+- pkg:maven/org.takes/takes@0.22
+- pkg:maven/org.takes/takes@0.22?classifier=sources
+- pkg:maven/org.takes/takes@0.21.1
+- pkg:maven/org.takes/takes@0.21.1?classifier=sources
