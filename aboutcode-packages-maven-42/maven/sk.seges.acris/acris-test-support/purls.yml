@@ -1,0 +1,4 @@
+- pkg:maven/sk.seges.acris/acris-test-support@1.2.0?type=war
+- pkg:maven/sk.seges.acris/acris-test-support@1.2.0?classifier=sources
+- pkg:maven/sk.seges.acris/acris-test-support@1.1.2?type=war
+- pkg:maven/sk.seges.acris/acris-test-support@1.1.2?classifier=sources

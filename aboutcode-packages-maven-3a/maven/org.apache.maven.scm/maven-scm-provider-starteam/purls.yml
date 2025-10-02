@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-starteam@1.0?classifier=sources
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-starteam@1.6
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-starteam@1.6?classifier=sources
+- pkg:maven/org.apache.maven.scm/maven-scm-provider-starteam@1.7
+- pkg:maven/org.apache.maven.scm/maven-scm-provider-starteam@1.7?classifier=sources

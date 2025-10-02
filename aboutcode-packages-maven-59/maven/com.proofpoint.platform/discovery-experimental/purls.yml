@@ -32,3 +32,5 @@
 - pkg:maven/com.proofpoint.platform/discovery-experimental@0.59?classifier=sources
 - pkg:maven/com.proofpoint.platform/discovery-experimental@0.60
 - pkg:maven/com.proofpoint.platform/discovery-experimental@0.60?classifier=sources
+- pkg:maven/com.proofpoint.platform/discovery-experimental@0.61
+- pkg:maven/com.proofpoint.platform/discovery-experimental@0.61?classifier=sources

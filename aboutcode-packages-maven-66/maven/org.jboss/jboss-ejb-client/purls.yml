@@ -36,3 +36,9 @@
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.5.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.6.CR1
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.6.CR1?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@1.0.6.Final
+- pkg:maven/org.jboss/jboss-ejb-client@1.0.6.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@1.0.8.Final
+- pkg:maven/org.jboss/jboss-ejb-client@1.0.8.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@1.0.7.Final
+- pkg:maven/org.jboss/jboss-ejb-client@1.0.7.Final?classifier=sources

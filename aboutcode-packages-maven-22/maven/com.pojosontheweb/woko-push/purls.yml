@@ -1,2 +1,4 @@
 - pkg:maven/com.pojosontheweb/woko-push@2.0-beta
 - pkg:maven/com.pojosontheweb/woko-push@2.0-beta?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-push@2.0
+- pkg:maven/com.pojosontheweb/woko-push@2.0?classifier=sources

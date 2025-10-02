@@ -81,3 +81,5 @@
 - pkg:maven/org.mule.examples/mule-example-loanbroker-common-tests@3.3.0-RC2?classifier=sources
 - pkg:maven/org.mule.examples/mule-example-loanbroker-common-tests@3.3.0-RC3
 - pkg:maven/org.mule.examples/mule-example-loanbroker-common-tests@3.3.0-RC3?classifier=sources
+- pkg:maven/org.mule.examples/mule-example-loanbroker-common-tests@3.3.0-EA
+- pkg:maven/org.mule.examples/mule-example-loanbroker-common-tests@3.3.0-EA?classifier=sources
