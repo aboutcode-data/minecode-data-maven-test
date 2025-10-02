@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.39?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.40
 - pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.40?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.41
+- pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.41?classifier=sources

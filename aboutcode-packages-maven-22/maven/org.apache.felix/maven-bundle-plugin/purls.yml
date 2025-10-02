@@ -23,3 +23,6 @@
 - pkg:maven/org.apache.felix/maven-bundle-plugin@2.3.7
 - pkg:maven/org.apache.felix/maven-bundle-plugin@2.3.7?classifier=sources
 - pkg:maven/org.apache.felix/maven-bundle-plugin@2.3.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/maven-bundle-plugin@2.4.0
+- pkg:maven/org.apache.felix/maven-bundle-plugin@2.4.0?classifier=sources
+- pkg:maven/org.apache.felix/maven-bundle-plugin@2.4.0?classifier=source-release&type=zip
