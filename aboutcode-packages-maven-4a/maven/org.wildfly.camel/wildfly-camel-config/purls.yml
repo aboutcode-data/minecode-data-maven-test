@@ -14,3 +14,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@2.3.0.redhat-621090?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@4.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@4.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@2.3.0.redhat-621107
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@2.3.0.redhat-621107?classifier=sources
