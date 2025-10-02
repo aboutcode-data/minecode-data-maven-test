@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.0.0-X8
 - pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.0.0-X8?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.0.0-X9
+- pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.0.0-X9?classifier=sources
