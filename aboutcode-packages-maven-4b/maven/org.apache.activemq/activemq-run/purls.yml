@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.activemq/activemq-run@5.7.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-run@5.8.0
 - pkg:maven/org.apache.activemq/activemq-run@5.8.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-run@5.9.0
+- pkg:maven/org.apache.activemq/activemq-run@5.9.0?classifier=sources

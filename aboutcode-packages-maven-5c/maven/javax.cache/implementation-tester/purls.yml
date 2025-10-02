@@ -18,3 +18,5 @@
 - pkg:maven/javax.cache/implementation-tester@0.9?classifier=sources
 - pkg:maven/javax.cache/implementation-tester@0.10
 - pkg:maven/javax.cache/implementation-tester@0.10?classifier=sources
+- pkg:maven/javax.cache/implementation-tester@0.11
+- pkg:maven/javax.cache/implementation-tester@0.11?classifier=sources

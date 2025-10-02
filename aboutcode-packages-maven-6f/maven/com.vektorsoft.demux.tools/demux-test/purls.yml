@@ -1,2 +1,4 @@
 - pkg:maven/com.vektorsoft.demux.tools/demux-test@0.6.4
 - pkg:maven/com.vektorsoft.demux.tools/demux-test@0.6.4?classifier=sources
+- pkg:maven/com.vektorsoft.demux.tools/demux-test@0.7.0
+- pkg:maven/com.vektorsoft.demux.tools/demux-test@0.7.0?classifier=sources

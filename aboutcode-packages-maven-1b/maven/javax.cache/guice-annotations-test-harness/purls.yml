@@ -12,3 +12,5 @@
 - pkg:maven/javax.cache/guice-annotations-test-harness@0.9?classifier=sources
 - pkg:maven/javax.cache/guice-annotations-test-harness@0.10
 - pkg:maven/javax.cache/guice-annotations-test-harness@0.10?classifier=sources
+- pkg:maven/javax.cache/guice-annotations-test-harness@0.11
+- pkg:maven/javax.cache/guice-annotations-test-harness@0.11?classifier=sources
