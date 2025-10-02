@@ -42,3 +42,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db@5.6.3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db@5.6.2
 - pkg:maven/org.sonarsource.sonarqube/sonar-db@5.6.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db@6.1
+- pkg:maven/org.sonarsource.sonarqube/sonar-db@6.1?classifier=sources
