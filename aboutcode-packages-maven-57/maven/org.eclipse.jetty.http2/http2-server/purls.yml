@@ -66,3 +66,5 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-server@9.4.0.RC1?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-server@9.3.14.v20161028
 - pkg:maven/org.eclipse.jetty.http2/http2-server@9.3.14.v20161028?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-server@9.4.0.RC2
+- pkg:maven/org.eclipse.jetty.http2/http2-server@9.4.0.RC2?classifier=sources
