@@ -18,3 +18,4 @@
 - pkg:maven/org.elasticsearch.plugin/analysis-icu@2.3.3?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/analysis-icu@5.0.0-alpha3?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/analysis-icu@5.0.0-alpha4?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/analysis-icu@2.3.4?classifier=sources

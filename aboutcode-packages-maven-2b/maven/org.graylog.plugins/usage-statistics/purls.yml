@@ -48,3 +48,7 @@
 - pkg:maven/org.graylog.plugins/usage-statistics@2.0.2?classifier=sources
 - pkg:maven/org.graylog.plugins/usage-statistics@2.0.3
 - pkg:maven/org.graylog.plugins/usage-statistics@2.0.3?classifier=sources
+- pkg:maven/org.graylog.plugins/usage-statistics@2.1.0-alpha.2
+- pkg:maven/org.graylog.plugins/usage-statistics@2.1.0-alpha.2?classifier=sources
+- pkg:maven/org.graylog.plugins/usage-statistics@2.1.0-alpha.1
+- pkg:maven/org.graylog.plugins/usage-statistics@2.1.0-alpha.1?classifier=sources

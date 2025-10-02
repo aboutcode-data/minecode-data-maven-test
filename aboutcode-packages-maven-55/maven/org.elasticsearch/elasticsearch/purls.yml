@@ -212,3 +212,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch@5.0.0-alpha3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@5.0.0-alpha4
 - pkg:maven/org.elasticsearch/elasticsearch@5.0.0-alpha4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@2.3.4
+- pkg:maven/org.elasticsearch/elasticsearch@2.3.4?classifier=sources

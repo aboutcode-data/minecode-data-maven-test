@@ -5,3 +5,4 @@
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.3.Final?type=war
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.3.Final?classifier=sources
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.5.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.5.Final?classifier=sources
