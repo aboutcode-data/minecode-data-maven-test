@@ -124,3 +124,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.10.3?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.10.4
 - pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.10.4?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.10.5
+- pkg:maven/org.openjdk.jmh/jmh-core-benchmarks@1.10.5?classifier=sources

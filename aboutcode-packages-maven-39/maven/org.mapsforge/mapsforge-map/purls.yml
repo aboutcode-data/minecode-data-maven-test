@@ -18,3 +18,5 @@
 - pkg:maven/org.mapsforge/mapsforge-map@0.5.2-rc2?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map@0.5.2-rc3
 - pkg:maven/org.mapsforge/mapsforge-map@0.5.2-rc3?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map@0.5.2
+- pkg:maven/org.mapsforge/mapsforge-map@0.5.2?classifier=sources
