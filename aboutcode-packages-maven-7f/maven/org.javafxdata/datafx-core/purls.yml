@@ -1,2 +1,4 @@
 - pkg:maven/org.javafxdata/datafx-core@1.0
 - pkg:maven/org.javafxdata/datafx-core@1.0?classifier=sources
+- pkg:maven/org.javafxdata/datafx-core@2.0-b1
+- pkg:maven/org.javafxdata/datafx-core@2.0-b1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.40?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.41
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.41?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.42
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.42?classifier=sources

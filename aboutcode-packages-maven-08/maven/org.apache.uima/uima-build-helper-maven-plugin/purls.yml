@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.uima/uima-build-helper-maven-plugin@4
 - pkg:maven/org.apache.uima/uima-build-helper-maven-plugin@4?classifier=sources
 - pkg:maven/org.apache.uima/uima-build-helper-maven-plugin@4?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/uima-build-helper-maven-plugin@5
+- pkg:maven/org.apache.uima/uima-build-helper-maven-plugin@5?classifier=sources

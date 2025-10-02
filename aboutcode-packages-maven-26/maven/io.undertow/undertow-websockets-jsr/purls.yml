@@ -42,3 +42,5 @@
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.0.0.Alpha20?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.0.0.Alpha22
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.0.0.Alpha22?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@1.0.0.Beta1
+- pkg:maven/io.undertow/undertow-websockets-jsr@1.0.0.Beta1?classifier=sources
