@@ -1,0 +1,6 @@
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@1.2.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@1.2.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@1.1.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@1.1.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@1.0.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@1.0.0?classifier=sources

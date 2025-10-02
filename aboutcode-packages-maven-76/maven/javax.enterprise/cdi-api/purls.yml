@@ -24,3 +24,5 @@
 - pkg:maven/javax.enterprise/cdi-api@1.1.EDR1.2?classifier=sources
 - pkg:maven/javax.enterprise/cdi-api@1.1-20120910
 - pkg:maven/javax.enterprise/cdi-api@1.1-20120910?classifier=sources
+- pkg:maven/javax.enterprise/cdi-api@1.1-20120918
+- pkg:maven/javax.enterprise/cdi-api@1.1-20120918?classifier=sources
