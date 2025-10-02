@@ -13,3 +13,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-repository-hdfs@2.0.3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-repository-hdfs@2.2.0-m1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-repository-hdfs@2.1.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-repository-hdfs@2.2.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-repository-hdfs@2.1.2?classifier=sources
