@@ -1,0 +1,4 @@
+- pkg:maven/org.aesh/aesh-terminal-telnet@1.0-CR20
+- pkg:maven/org.aesh/aesh-terminal-telnet@1.0-CR20?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-telnet@1.0
+- pkg:maven/org.aesh/aesh-terminal-telnet@1.0?classifier=sources

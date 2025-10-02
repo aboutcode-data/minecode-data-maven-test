@@ -36,3 +36,5 @@
 - pkg:maven/org.cloudgraph/cloudgraph-config@0.7.0?classifier=sources
 - pkg:maven/org.cloudgraph/cloudgraph-config@0.6.9
 - pkg:maven/org.cloudgraph/cloudgraph-config@0.6.9?classifier=sources
+- pkg:maven/org.cloudgraph/cloudgraph-config@0.7.1
+- pkg:maven/org.cloudgraph/cloudgraph-config@0.7.1?classifier=sources

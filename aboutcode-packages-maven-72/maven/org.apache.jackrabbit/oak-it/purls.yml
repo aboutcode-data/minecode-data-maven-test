@@ -84,3 +84,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-it@1.4.16?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-it@1.6.2
 - pkg:maven/org.apache.jackrabbit/oak-it@1.6.2?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-it@1.7.2
+- pkg:maven/org.apache.jackrabbit/oak-it@1.7.2?classifier=sources

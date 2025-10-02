@@ -62,3 +62,5 @@
 - pkg:maven/net.morimekta.utils/config-util@0.6.3?classifier=sources
 - pkg:maven/net.morimekta.utils/config-util@0.6.2
 - pkg:maven/net.morimekta.utils/config-util@0.6.2?classifier=sources
+- pkg:maven/net.morimekta.utils/config-util@1.0.0
+- pkg:maven/net.morimekta.utils/config-util@1.0.0?classifier=sources
