@@ -14,3 +14,5 @@
 - pkg:maven/ru.ilb.common/common-jpa@1.5?classifier=sources
 - pkg:maven/ru.ilb.common/common-jpa@1.7
 - pkg:maven/ru.ilb.common/common-jpa@1.7?classifier=sources
+- pkg:maven/ru.ilb.common/common-jpa@1.9
+- pkg:maven/ru.ilb.common/common-jpa@1.9?classifier=sources
