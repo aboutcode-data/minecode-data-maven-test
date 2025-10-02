@@ -46,3 +46,7 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.9.1?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.9.2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.9.2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.9.3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.9.3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.7?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.7?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/org.jasig.cas/cas-server-core@3.1?classifier=sources
 - pkg:maven/org.jasig.cas/cas-server-core@3.4.11
 - pkg:maven/org.jasig.cas/cas-server-core@3.4.11?classifier=sources
+- pkg:maven/org.jasig.cas/cas-server-core@3.4.12
+- pkg:maven/org.jasig.cas/cas-server-core@3.4.12?classifier=sources
