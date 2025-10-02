@@ -60,3 +60,7 @@
 - pkg:maven/net.pishen/spark-deployer-core_2.10@2.3.0?classifier=sources
 - pkg:maven/net.pishen/spark-deployer-core_2.10@2.2.0
 - pkg:maven/net.pishen/spark-deployer-core_2.10@2.2.0?classifier=sources
+- pkg:maven/net.pishen/spark-deployer-core_2.10@2.6.0
+- pkg:maven/net.pishen/spark-deployer-core_2.10@2.6.0?classifier=sources
+- pkg:maven/net.pishen/spark-deployer-core_2.10@2.5.0
+- pkg:maven/net.pishen/spark-deployer-core_2.10@2.5.0?classifier=sources

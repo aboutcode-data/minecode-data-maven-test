@@ -184,3 +184,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-jcr@1.5.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-jcr@1.0.30
 - pkg:maven/org.apache.jackrabbit/oak-jcr@1.0.30?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-jcr@1.2.14
+- pkg:maven/org.apache.jackrabbit/oak-jcr@1.2.14?classifier=sources
