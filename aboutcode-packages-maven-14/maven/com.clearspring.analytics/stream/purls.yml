@@ -22,3 +22,5 @@
 - pkg:maven/com.clearspring.analytics/stream@2.8.0-rc0?classifier=sources
 - pkg:maven/com.clearspring.analytics/stream@2.8.0
 - pkg:maven/com.clearspring.analytics/stream@2.8.0?classifier=sources
+- pkg:maven/com.clearspring.analytics/stream@2.9.0
+- pkg:maven/com.clearspring.analytics/stream@2.9.0?classifier=sources
