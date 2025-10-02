@@ -58,3 +58,7 @@
 - pkg:maven/net.morimekta.utils/android-util@0.4.7?classifier=sources
 - pkg:maven/net.morimekta.utils/android-util@0.5.2
 - pkg:maven/net.morimekta.utils/android-util@0.5.2?classifier=sources
+- pkg:maven/net.morimekta.utils/android-util@0.6.0
+- pkg:maven/net.morimekta.utils/android-util@0.6.0?classifier=sources
+- pkg:maven/net.morimekta.utils/android-util@0.5.3
+- pkg:maven/net.morimekta.utils/android-util@0.5.3?classifier=sources
