@@ -70,3 +70,11 @@
 - pkg:maven/io.split.client/java-client@2.0.2?classifier=sources
 - pkg:maven/io.split.client/java-client@2.0.3-RC
 - pkg:maven/io.split.client/java-client@2.0.3-RC?classifier=sources
+- pkg:maven/io.split.client/java-client@2.0.4
+- pkg:maven/io.split.client/java-client@2.0.4?classifier=sources
+- pkg:maven/io.split.client/java-client@2.0.3-rc3
+- pkg:maven/io.split.client/java-client@2.0.3-rc3?classifier=sources
+- pkg:maven/io.split.client/java-client@2.0.3-rc2
+- pkg:maven/io.split.client/java-client@2.0.3-rc2?classifier=sources
+- pkg:maven/io.split.client/java-client@2.0.3
+- pkg:maven/io.split.client/java-client@2.0.3?classifier=sources

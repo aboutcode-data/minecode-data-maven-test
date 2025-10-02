@@ -172,3 +172,5 @@
 - pkg:maven/io.split/qosrunner@20.2?classifier=sources
 - pkg:maven/io.split/qosrunner@22.0
 - pkg:maven/io.split/qosrunner@22.0?classifier=sources
+- pkg:maven/io.split/qosrunner@22.1
+- pkg:maven/io.split/qosrunner@22.1?classifier=sources
