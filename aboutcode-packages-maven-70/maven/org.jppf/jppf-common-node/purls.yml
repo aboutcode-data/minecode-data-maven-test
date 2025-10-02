@@ -14,3 +14,5 @@
 - pkg:maven/org.jppf/jppf-common-node@3.3.6?classifier=sources
 - pkg:maven/org.jppf/jppf-common-node@3.3.7
 - pkg:maven/org.jppf/jppf-common-node@3.3.7?classifier=sources
+- pkg:maven/org.jppf/jppf-common-node@4.0.0
+- pkg:maven/org.jppf/jppf-common-node@4.0.0?classifier=sources

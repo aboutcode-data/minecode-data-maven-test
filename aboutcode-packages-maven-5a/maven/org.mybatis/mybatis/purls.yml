@@ -24,3 +24,5 @@
 - pkg:maven/org.mybatis/mybatis@3.2.2?classifier=sources
 - pkg:maven/org.mybatis/mybatis@3.2.3?type=zip
 - pkg:maven/org.mybatis/mybatis@3.2.3?classifier=sources
+- pkg:maven/org.mybatis/mybatis@3.2.4?type=zip
+- pkg:maven/org.mybatis/mybatis@3.2.4?classifier=sources
