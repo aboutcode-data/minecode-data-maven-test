@@ -130,3 +130,5 @@
 - pkg:maven/org.kaazing/specification.httpx@5.0.0-RC001?classifier=sources
 - pkg:maven/org.kaazing/specification.httpx@5.0.0
 - pkg:maven/org.kaazing/specification.httpx@5.0.0?classifier=sources
+- pkg:maven/org.kaazing/specification.httpx@3.0.0-alpha-35
+- pkg:maven/org.kaazing/specification.httpx@3.0.0-alpha-35?classifier=sources

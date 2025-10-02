@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-remote@1.5.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-remote@1.4.4
 - pkg:maven/org.apache.jackrabbit/oak-remote@1.4.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-remote@1.5.5
+- pkg:maven/org.apache.jackrabbit/oak-remote@1.5.5?classifier=sources

@@ -24,3 +24,9 @@
 - pkg:maven/org.duracloud.db/common@3.5.4?classifier=sources
 - pkg:maven/org.duracloud.db/common@4.0.0
 - pkg:maven/org.duracloud.db/common@4.0.0?classifier=sources
+- pkg:maven/org.duracloud.db/common@4.1.0-SNAPSHOt
+- pkg:maven/org.duracloud.db/common@4.1.0-SNAPSHOt?classifier=sources
+- pkg:maven/org.duracloud.db/common@4.0.2
+- pkg:maven/org.duracloud.db/common@4.0.2?classifier=sources
+- pkg:maven/org.duracloud.db/common@4.0.1
+- pkg:maven/org.duracloud.db/common@4.0.1?classifier=sources

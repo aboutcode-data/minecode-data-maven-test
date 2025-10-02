@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.nifi/nifi@0.5.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.nifi/nifi@0.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.nifi/nifi@0.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.nifi/nifi@0.7.0?classifier=source-release&type=zip
