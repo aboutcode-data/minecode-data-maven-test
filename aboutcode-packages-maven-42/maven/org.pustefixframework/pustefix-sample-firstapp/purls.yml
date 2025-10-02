@@ -282,3 +282,5 @@
 - pkg:maven/org.pustefixframework/pustefix-sample-firstapp@0.19.29?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-sample-firstapp@0.19.30?type=war
 - pkg:maven/org.pustefixframework/pustefix-sample-firstapp@0.19.30?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-sample-firstapp@0.19.31?type=war
+- pkg:maven/org.pustefixframework/pustefix-sample-firstapp@0.19.31?classifier=sources
