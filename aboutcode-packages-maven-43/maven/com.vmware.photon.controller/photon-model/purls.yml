@@ -104,3 +104,7 @@
 - pkg:maven/com.vmware.photon.controller/photon-model@0.6.15?classifier=sources
 - pkg:maven/com.vmware.photon.controller/photon-model@0.6.16
 - pkg:maven/com.vmware.photon.controller/photon-model@0.6.16?classifier=sources
+- pkg:maven/com.vmware.photon.controller/photon-model@0.6.18
+- pkg:maven/com.vmware.photon.controller/photon-model@0.6.18?classifier=sources
+- pkg:maven/com.vmware.photon.controller/photon-model@0.6.17
+- pkg:maven/com.vmware.photon.controller/photon-model@0.6.17?classifier=sources
