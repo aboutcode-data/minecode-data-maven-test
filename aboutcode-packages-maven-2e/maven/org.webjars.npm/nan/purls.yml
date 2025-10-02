@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/nan@1.8.4
 - pkg:maven/org.webjars.npm/nan@1.8.4?classifier=sources
+- pkg:maven/org.webjars.npm/nan@2.0.5
+- pkg:maven/org.webjars.npm/nan@2.0.5?classifier=sources

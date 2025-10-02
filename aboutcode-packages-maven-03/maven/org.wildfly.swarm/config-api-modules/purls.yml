@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.swarm/config-api-modules@0.3.21
+- pkg:maven/org.wildfly.swarm/config-api-modules@0.3.21?classifier=sources
+- pkg:maven/org.wildfly.swarm/config-api-modules@0.3.20
+- pkg:maven/org.wildfly.swarm/config-api-modules@0.3.20?classifier=sources

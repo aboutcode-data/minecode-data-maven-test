@@ -1,0 +1,4 @@
+- pkg:maven/org.reveno/reveno-cluster@1.17
+- pkg:maven/org.reveno/reveno-cluster@1.17?classifier=sources
+- pkg:maven/org.reveno/reveno-cluster@1.16
+- pkg:maven/org.reveno/reveno-cluster@1.16?classifier=sources
