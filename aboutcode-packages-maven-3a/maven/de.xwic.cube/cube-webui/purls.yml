@@ -40,3 +40,5 @@
 - pkg:maven/de.xwic.cube/cube-webui@5.3.3?classifier=sources
 - pkg:maven/de.xwic.cube/cube-webui@5.3.2?type=war
 - pkg:maven/de.xwic.cube/cube-webui@5.3.2?classifier=sources
+- pkg:maven/de.xwic.cube/cube-webui@5.3.4?type=war
+- pkg:maven/de.xwic.cube/cube-webui@5.3.4?classifier=sources
