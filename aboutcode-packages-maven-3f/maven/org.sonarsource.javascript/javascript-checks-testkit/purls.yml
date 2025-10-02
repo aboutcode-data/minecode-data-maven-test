@@ -2,3 +2,7 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.11?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.12
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.12?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.14
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.14?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.13
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.13?classifier=sources
