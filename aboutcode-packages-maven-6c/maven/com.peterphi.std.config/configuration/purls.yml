@@ -12,3 +12,5 @@
 - pkg:maven/com.peterphi.std.config/configuration@9.1.2?classifier=sources
 - pkg:maven/com.peterphi.std.config/configuration@9.1.4?type=war
 - pkg:maven/com.peterphi.std.config/configuration@9.1.4?classifier=sources
+- pkg:maven/com.peterphi.std.config/configuration@9.2.0?type=war
+- pkg:maven/com.peterphi.std.config/configuration@9.2.0?classifier=sources
