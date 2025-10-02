@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.camel/camel-couchdb@2.14.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-couchdb@2.16.1
 - pkg:maven/org.apache.camel/camel-couchdb@2.16.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-couchdb@2.15.5
+- pkg:maven/org.apache.camel/camel-couchdb@2.15.5?classifier=sources
