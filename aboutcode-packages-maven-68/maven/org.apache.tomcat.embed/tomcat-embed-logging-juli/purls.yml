@@ -182,3 +182,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@8.0.42?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.76
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.76?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@8.0.43
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@8.0.43?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.77
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.77?classifier=sources

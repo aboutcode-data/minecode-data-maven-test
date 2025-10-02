@@ -129,3 +129,5 @@
 - pkg:maven/ch.qos.logback/logback-site@1.1.11?classifier=sources
 - pkg:maven/ch.qos.logback/logback-site@1.2.2
 - pkg:maven/ch.qos.logback/logback-site@1.2.2?classifier=sources
+- pkg:maven/ch.qos.logback/logback-site@1.2.3
+- pkg:maven/ch.qos.logback/logback-site@1.2.3?classifier=sources

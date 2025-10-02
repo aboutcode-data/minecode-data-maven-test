@@ -24,3 +24,5 @@
 - pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.10?classifier=sources
 - pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.12
 - pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.12?classifier=sources
+- pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.13
+- pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.13?classifier=sources
