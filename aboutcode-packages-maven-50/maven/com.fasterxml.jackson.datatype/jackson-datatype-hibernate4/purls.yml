@@ -32,3 +32,5 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate4@2.3.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate4@2.3.0-1
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate4@2.3.0-1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate4@2.3.1
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate4@2.3.1?classifier=sources

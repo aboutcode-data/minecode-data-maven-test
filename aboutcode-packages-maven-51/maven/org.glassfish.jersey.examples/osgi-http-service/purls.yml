@@ -5,3 +5,5 @@
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.4.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.5?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.5.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.0.1?classifier=project-src&type=zip
