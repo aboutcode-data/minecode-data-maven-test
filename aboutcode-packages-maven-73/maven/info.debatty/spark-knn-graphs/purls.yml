@@ -2,3 +2,5 @@
 - pkg:maven/info.debatty/spark-knn-graphs@0.1?classifier=sources
 - pkg:maven/info.debatty/spark-knn-graphs@0.2
 - pkg:maven/info.debatty/spark-knn-graphs@0.2?classifier=sources
+- pkg:maven/info.debatty/spark-knn-graphs@0.4
+- pkg:maven/info.debatty/spark-knn-graphs@0.4?classifier=sources

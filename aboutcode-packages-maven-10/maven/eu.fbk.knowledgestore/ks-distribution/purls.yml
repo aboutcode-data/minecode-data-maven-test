@@ -10,3 +10,5 @@
 - pkg:maven/eu.fbk.knowledgestore/ks-distribution@1.6?classifier=sources
 - pkg:maven/eu.fbk.knowledgestore/ks-distribution@1.6.1
 - pkg:maven/eu.fbk.knowledgestore/ks-distribution@1.6.1?classifier=src&type=tar.gz
+- pkg:maven/eu.fbk.knowledgestore/ks-distribution@1.6.2
+- pkg:maven/eu.fbk.knowledgestore/ks-distribution@1.6.2?classifier=src&type=tar.gz

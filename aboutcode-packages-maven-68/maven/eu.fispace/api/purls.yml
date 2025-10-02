@@ -74,3 +74,5 @@
 - pkg:maven/eu.fispace/api@0.15.0-S1527?classifier=sources
 - pkg:maven/eu.fispace/api@0.15.0-S1528
 - pkg:maven/eu.fispace/api@0.15.0-S1528?classifier=sources
+- pkg:maven/eu.fispace/api@0.15.0
+- pkg:maven/eu.fispace/api@0.15.0?classifier=sources
