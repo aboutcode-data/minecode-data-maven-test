@@ -1,2 +1,4 @@
 - pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.assertions@1.0.0.M7
 - pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.assertions@1.0.0.M7?classifier=sources
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.assertions@1.0.0
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.assertions@1.0.0?classifier=sources

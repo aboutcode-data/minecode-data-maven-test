@@ -58,3 +58,5 @@
 - pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spi@1.1.0-alpha-4?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spi@1.1.0
 - pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spi@1.1.0?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spi@1.1.1-alpha-1
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spi@1.1.1-alpha-1?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.dspace/dspace-jspui@3.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-jspui@3.0-rc2?type=war
 - pkg:maven/org.dspace/dspace-jspui@3.0-rc2?classifier=sources
+- pkg:maven/org.dspace/dspace-jspui@3.0-rc3?type=war
+- pkg:maven/org.dspace/dspace-jspui@3.0-rc3?classifier=sources

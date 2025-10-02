@@ -70,3 +70,7 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.1?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-gwt-demo@1.0.3?classifier=sources
