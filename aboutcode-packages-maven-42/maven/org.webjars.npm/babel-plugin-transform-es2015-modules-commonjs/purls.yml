@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel-plugin-transform-es2015-modules-commonjs@6.3.13
 - pkg:maven/org.webjars.npm/babel-plugin-transform-es2015-modules-commonjs@6.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/babel-plugin-transform-es2015-modules-commonjs@6.3.16
+- pkg:maven/org.webjars.npm/babel-plugin-transform-es2015-modules-commonjs@6.3.16?classifier=sources
