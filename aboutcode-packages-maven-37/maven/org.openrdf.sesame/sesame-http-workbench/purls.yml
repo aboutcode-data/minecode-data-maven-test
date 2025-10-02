@@ -80,3 +80,7 @@
 - pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.8.10?classifier=sources
 - pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.8.11?type=war
 - pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.8.11?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-http-workbench@4.1.2?type=war
+- pkg:maven/org.openrdf.sesame/sesame-http-workbench@4.1.2?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.9.0?type=war
+- pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.9.0?classifier=sources
