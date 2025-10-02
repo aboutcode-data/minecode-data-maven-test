@@ -8,3 +8,5 @@
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@1.0.14.Final?classifier=sources
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@1.0.15.Final?type=war
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@1.0.15.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@1.0.16.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@1.0.16.Final?classifier=sources

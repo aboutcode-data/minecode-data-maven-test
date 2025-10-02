@@ -12,3 +12,7 @@
 - pkg:maven/org.kaazing/specification.httpxe@2.1.2?classifier=sources
 - pkg:maven/org.kaazing/specification.httpxe@2.1.1
 - pkg:maven/org.kaazing/specification.httpxe@2.1.1?classifier=sources
+- pkg:maven/org.kaazing/specification.httpxe@3.0.0-alpha-1
+- pkg:maven/org.kaazing/specification.httpxe@3.0.0-alpha-1?classifier=sources
+- pkg:maven/org.kaazing/specification.httpxe@2.2.1
+- pkg:maven/org.kaazing/specification.httpxe@2.2.1?classifier=sources

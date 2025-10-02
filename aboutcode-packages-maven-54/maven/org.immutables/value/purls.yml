@@ -58,3 +58,5 @@
 - pkg:maven/org.immutables/value@2.0.21?classifier=sources
 - pkg:maven/org.immutables/value@2.0.20
 - pkg:maven/org.immutables/value@2.0.20?classifier=sources
+- pkg:maven/org.immutables/value@2.1.0
+- pkg:maven/org.immutables/value@2.1.0?classifier=sources
