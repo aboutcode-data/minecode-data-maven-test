@@ -22,3 +22,5 @@
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-client@0.9.10?classifier=sources
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-client@0.9.11
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-client@0.9.11?classifier=sources
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-client@1.0.0
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-client@1.0.0?classifier=sources

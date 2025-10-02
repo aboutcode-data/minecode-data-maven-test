@@ -14,3 +14,5 @@
 - pkg:maven/com.groupbyinc/common-net@23?classifier=sources
 - pkg:maven/com.groupbyinc/common-net@22
 - pkg:maven/com.groupbyinc/common-net@22?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@27
+- pkg:maven/com.groupbyinc/common-net@27?classifier=sources
