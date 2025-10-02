@@ -80,3 +80,7 @@
 - pkg:maven/com.j256.ormlite/ormlite-jdbc@4.34?classifier=sources
 - pkg:maven/com.j256.ormlite/ormlite-jdbc@4.36
 - pkg:maven/com.j256.ormlite/ormlite-jdbc@4.36?classifier=sources
+- pkg:maven/com.j256.ormlite/ormlite-jdbc@4.37
+- pkg:maven/com.j256.ormlite/ormlite-jdbc@4.37?classifier=sources
+- pkg:maven/com.j256.ormlite/ormlite-jdbc@4.38
+- pkg:maven/com.j256.ormlite/ormlite-jdbc@4.38?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.jdtaus.core.logging/jdtaus-core-log4j-logging@1.0?classifier=sources
 - pkg:maven/org.jdtaus.core.logging/jdtaus-core-log4j-logging@1.9.5
 - pkg:maven/org.jdtaus.core.logging/jdtaus-core-log4j-logging@1.9.5?classifier=sources
+- pkg:maven/org.jdtaus.core.logging/jdtaus-core-log4j-logging@1.10
+- pkg:maven/org.jdtaus.core.logging/jdtaus-core-log4j-logging@1.10?classifier=sources

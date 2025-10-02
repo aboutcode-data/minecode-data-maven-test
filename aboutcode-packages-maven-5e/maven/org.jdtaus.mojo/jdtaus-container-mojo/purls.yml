@@ -36,3 +36,5 @@
 - pkg:maven/org.jdtaus.mojo/jdtaus-container-mojo@1.0?classifier=sources
 - pkg:maven/org.jdtaus.mojo/jdtaus-container-mojo@3.7
 - pkg:maven/org.jdtaus.mojo/jdtaus-container-mojo@3.7?classifier=sources
+- pkg:maven/org.jdtaus.mojo/jdtaus-container-mojo@3.8
+- pkg:maven/org.jdtaus.mojo/jdtaus-container-mojo@3.8?classifier=sources

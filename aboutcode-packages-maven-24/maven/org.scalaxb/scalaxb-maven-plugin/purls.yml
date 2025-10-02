@@ -7,3 +7,5 @@
 - pkg:maven/org.scalaxb/scalaxb-maven-plugin@0.6.2
 - pkg:maven/org.scalaxb/scalaxb-maven-plugin@0.6.2?classifier=sources
 - pkg:maven/org.scalaxb/scalaxb-maven-plugin@0.6.1
+- pkg:maven/org.scalaxb/scalaxb-maven-plugin@0.6.9
+- pkg:maven/org.scalaxb/scalaxb-maven-plugin@0.6.9?classifier=sources
