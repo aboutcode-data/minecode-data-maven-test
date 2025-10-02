@@ -184,3 +184,7 @@
 - pkg:maven/org.grails/grails-datastore-gorm-tck@6.1.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-tck@5.0.13.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-tck@5.0.13.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-tck@6.1.1.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-tck@6.1.1.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-tck@6.1.0.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-tck@6.1.0.RELEASE?classifier=sources

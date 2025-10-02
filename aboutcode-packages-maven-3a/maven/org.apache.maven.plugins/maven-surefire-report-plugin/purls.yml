@@ -62,3 +62,5 @@
 - pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.19?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.19.1
 - pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.19.1?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.20
+- pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.20?classifier=sources

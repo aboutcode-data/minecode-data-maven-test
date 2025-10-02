@@ -142,3 +142,5 @@
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.3.17.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.3.18.v20170406
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.3.18.v20170406?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.4.4.v20170414
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.4.4.v20170414?classifier=sources
