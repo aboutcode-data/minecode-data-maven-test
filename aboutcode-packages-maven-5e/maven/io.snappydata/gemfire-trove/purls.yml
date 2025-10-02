@@ -1,2 +1,4 @@
 - pkg:maven/io.snappydata/gemfire-trove@2.0-BETA
 - pkg:maven/io.snappydata/gemfire-trove@2.0-BETA?classifier=sources
+- pkg:maven/io.snappydata/gemfire-trove@1.5.0-BETA
+- pkg:maven/io.snappydata/gemfire-trove@1.5.0-BETA?classifier=sources
