@@ -53,3 +53,7 @@
 - pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.9.8?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.10.7
 - pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.10.7?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.12.1
+- pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.12.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.11.2
+- pkg:maven/org.apache.camel/camel-example-cxf-blueprint@2.11.2?classifier=sources

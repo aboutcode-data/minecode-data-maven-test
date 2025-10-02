@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.12.0
 - pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.12.0?classifier=sources
+- pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.12.1
+- pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.12.1?classifier=sources
