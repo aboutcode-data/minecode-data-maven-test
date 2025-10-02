@@ -178,3 +178,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@8.1.12.v20130726?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@7.6.12.v20130726
 - pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@7.6.12.v20130726?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.0.5.v20130815
+- pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.0.5.v20130815?classifier=sources

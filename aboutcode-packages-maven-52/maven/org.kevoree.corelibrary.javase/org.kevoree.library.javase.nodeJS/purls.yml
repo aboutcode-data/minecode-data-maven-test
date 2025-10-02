@@ -1,1 +1,2 @@
 - pkg:maven/org.kevoree.corelibrary.javase/org.kevoree.library.javase.nodeJS@2.0.2
+- pkg:maven/org.kevoree.corelibrary.javase/org.kevoree.library.javase.nodeJS@2.0.2?classifier=sources

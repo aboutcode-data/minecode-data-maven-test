@@ -156,3 +156,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@8.1.12.v20130726?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@7.6.12.v20130726
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@7.6.12.v20130726?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.0.5.v20130815
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.0.5.v20130815?classifier=sources

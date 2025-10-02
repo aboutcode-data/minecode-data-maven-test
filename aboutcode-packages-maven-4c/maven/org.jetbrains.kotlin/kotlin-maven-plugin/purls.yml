@@ -6,3 +6,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.5.998?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.5.1131
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.5.1131?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.6.31
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.6.31?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.6.22
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-plugin@0.6.22?classifier=sources
