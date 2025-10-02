@@ -36,3 +36,5 @@
 - pkg:maven/com.liferay.portal/portal-impl@6.2.0-RC3?classifier=sources
 - pkg:maven/com.liferay.portal/portal-impl@6.2.0-RC5
 - pkg:maven/com.liferay.portal/portal-impl@6.2.0-RC5?classifier=sources
+- pkg:maven/com.liferay.portal/portal-impl@6.2.1
+- pkg:maven/com.liferay.portal/portal-impl@6.2.1?classifier=sources

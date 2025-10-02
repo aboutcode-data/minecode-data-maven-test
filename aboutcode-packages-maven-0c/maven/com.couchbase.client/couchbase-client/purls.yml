@@ -14,3 +14,5 @@
 - pkg:maven/com.couchbase.client/couchbase-client@1.3.2?classifier=sources
 - pkg:maven/com.couchbase.client/couchbase-client@1.4.0-dp
 - pkg:maven/com.couchbase.client/couchbase-client@1.4.0-dp?classifier=sources
+- pkg:maven/com.couchbase.client/couchbase-client@1.4.0-dp2
+- pkg:maven/com.couchbase.client/couchbase-client@1.4.0-dp2?classifier=sources
