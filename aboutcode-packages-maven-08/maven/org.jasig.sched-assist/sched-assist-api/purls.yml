@@ -18,3 +18,5 @@
 - pkg:maven/org.jasig.sched-assist/sched-assist-api@1.0.8?classifier=sources
 - pkg:maven/org.jasig.sched-assist/sched-assist-api@1.1.0-RC1
 - pkg:maven/org.jasig.sched-assist/sched-assist-api@1.1.0-RC1?classifier=sources
+- pkg:maven/org.jasig.sched-assist/sched-assist-api@1.1.0
+- pkg:maven/org.jasig.sched-assist/sched-assist-api@1.1.0?classifier=sources

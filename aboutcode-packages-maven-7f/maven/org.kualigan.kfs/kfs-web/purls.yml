@@ -10,3 +10,5 @@
 - pkg:maven/org.kualigan.kfs/kfs-web@0.0.24?classifier=sources
 - pkg:maven/org.kualigan.kfs/kfs-web@1.0.4?type=war
 - pkg:maven/org.kualigan.kfs/kfs-web@1.0.4?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.5?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.5?classifier=sources

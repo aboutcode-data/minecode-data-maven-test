@@ -114,3 +114,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-core@3.0.1?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-core@3.1-RC1
 - pkg:maven/org.codehaus.sonar/sonar-core@3.1-RC1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-core@3.1-RC2
+- pkg:maven/org.codehaus.sonar/sonar-core@3.1-RC2?classifier=sources
