@@ -35,3 +35,5 @@
 - pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-fileserver@7.6.4.v20120524?classifier=sources
 - pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-fileserver@8.1.5.v20120716?classifier=sources
 - pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-fileserver@7.6.5.v20120716?classifier=sources
+- pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-fileserver@8.1.6.v20120903?classifier=sources
+- pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-fileserver@7.6.6.v20120903?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@8.1.6.v20120903
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@8.1.6.v20120903?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@7.6.6.v20120903
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@7.6.6.v20120903?classifier=sources

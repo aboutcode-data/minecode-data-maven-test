@@ -121,3 +121,4 @@
 - pkg:maven/org.hornetq/hornetq-ra@2.2.17.Final
 - pkg:maven/org.hornetq/hornetq-ra@2.2.17.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-ra@2.2.19.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-ra@2.2.19.Final-build2?classifier=sources

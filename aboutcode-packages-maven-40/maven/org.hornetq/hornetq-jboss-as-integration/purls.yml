@@ -125,3 +125,5 @@
 - pkg:maven/org.hornetq/hornetq-jboss-as-integration@2.3.0.Alpha?classifier=sources
 - pkg:maven/org.hornetq/hornetq-jboss-as-integration@2.2.19.Final
 - pkg:maven/org.hornetq/hornetq-jboss-as-integration@2.2.19.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-jboss-as-integration@2.2.19.Final-build2
+- pkg:maven/org.hornetq/hornetq-jboss-as-integration@2.2.19.Final-build2?classifier=sources

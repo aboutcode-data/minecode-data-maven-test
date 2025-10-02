@@ -54,3 +54,5 @@
 - pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.9.GA?classifier=sources
 - pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.10.GA
 - pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.10.GA?classifier=sources
+- pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.8.SP1
+- pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.8.SP1?classifier=sources
