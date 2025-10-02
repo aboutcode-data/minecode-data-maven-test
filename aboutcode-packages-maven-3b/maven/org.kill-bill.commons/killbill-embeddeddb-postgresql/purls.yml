@@ -24,3 +24,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-postgresql@0.15?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-postgresql@0.16
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-postgresql@0.16?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-postgresql@0.15.1
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-postgresql@0.15.1?classifier=sources
