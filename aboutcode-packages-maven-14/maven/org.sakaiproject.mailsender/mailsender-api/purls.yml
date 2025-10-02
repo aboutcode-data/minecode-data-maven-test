@@ -16,3 +16,5 @@
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@1.7.0-rc02?classifier=sources
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@1.7.1-rc03
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@1.7.1-rc03?classifier=sources
+- pkg:maven/org.sakaiproject.mailsender/mailsender-api@1.7.1
+- pkg:maven/org.sakaiproject.mailsender/mailsender-api@1.7.1?classifier=sources

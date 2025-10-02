@@ -36,3 +36,5 @@
 - pkg:maven/net.java.truecommons/truecommons-logging@1.0.16?classifier=sources
 - pkg:maven/net.java.truecommons/truecommons-logging@1.0.15
 - pkg:maven/net.java.truecommons/truecommons-logging@1.0.15?classifier=sources
+- pkg:maven/net.java.truecommons/truecommons-logging@2.1
+- pkg:maven/net.java.truecommons/truecommons-logging@2.1?classifier=sources

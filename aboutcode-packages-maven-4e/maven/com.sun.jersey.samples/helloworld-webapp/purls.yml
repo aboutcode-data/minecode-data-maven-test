@@ -98,3 +98,5 @@
 - pkg:maven/com.sun.jersey.samples/helloworld-webapp@1.13?classifier=sources
 - pkg:maven/com.sun.jersey.samples/helloworld-webapp@1.14?type=war
 - pkg:maven/com.sun.jersey.samples/helloworld-webapp@1.14?classifier=sources
+- pkg:maven/com.sun.jersey.samples/helloworld-webapp@1.15?type=war
+- pkg:maven/com.sun.jersey.samples/helloworld-webapp@1.15?classifier=sources
