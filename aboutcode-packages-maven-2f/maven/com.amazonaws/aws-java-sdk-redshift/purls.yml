@@ -304,3 +304,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.27?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.29
 - pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.29?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.31
+- pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.31?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.30
+- pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.30?classifier=sources
