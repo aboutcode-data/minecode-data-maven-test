@@ -1,2 +1,4 @@
 - pkg:maven/com.lyft/scoop-dagger@0.3.0?type=aar
 - pkg:maven/com.lyft/scoop-dagger@0.3.0?classifier=sources
+- pkg:maven/com.lyft/scoop-dagger@0.3.1?type=aar
+- pkg:maven/com.lyft/scoop-dagger@0.3.1?classifier=sources
