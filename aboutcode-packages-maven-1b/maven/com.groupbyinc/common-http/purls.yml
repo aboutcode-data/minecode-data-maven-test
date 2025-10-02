@@ -44,3 +44,5 @@
 - pkg:maven/com.groupbyinc/common-http@41?classifier=sources
 - pkg:maven/com.groupbyinc/common-http@40
 - pkg:maven/com.groupbyinc/common-http@40?classifier=sources
+- pkg:maven/com.groupbyinc/common-http@42
+- pkg:maven/com.groupbyinc/common-http@42?classifier=sources

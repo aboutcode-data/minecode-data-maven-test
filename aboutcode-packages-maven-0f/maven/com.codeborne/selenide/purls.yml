@@ -102,3 +102,5 @@
 - pkg:maven/com.codeborne/selenide@2.25?classifier=sources
 - pkg:maven/com.codeborne/selenide@3.0
 - pkg:maven/com.codeborne/selenide@3.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@3.1
+- pkg:maven/com.codeborne/selenide@3.1?classifier=sources
