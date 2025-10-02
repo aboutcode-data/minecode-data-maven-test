@@ -14,3 +14,5 @@
 - pkg:maven/io.tesla.aether/aether-connector-okhttp@0.0.8?classifier=sources
 - pkg:maven/io.tesla.aether/aether-connector-okhttp@0.0.7
 - pkg:maven/io.tesla.aether/aether-connector-okhttp@0.0.7?classifier=sources
+- pkg:maven/io.tesla.aether/aether-connector-okhttp@0.0.10
+- pkg:maven/io.tesla.aether/aether-connector-okhttp@0.0.10?classifier=sources

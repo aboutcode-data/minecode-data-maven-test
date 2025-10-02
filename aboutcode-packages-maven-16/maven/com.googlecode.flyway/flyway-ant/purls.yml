@@ -22,3 +22,7 @@
 - pkg:maven/com.googlecode.flyway/flyway-ant@2.2?classifier=sources
 - pkg:maven/com.googlecode.flyway/flyway-ant@2.2.1?type=zip
 - pkg:maven/com.googlecode.flyway/flyway-ant@2.2.1?classifier=sources
+- pkg:maven/com.googlecode.flyway/flyway-ant@2.3.1?type=zip
+- pkg:maven/com.googlecode.flyway/flyway-ant@2.3.1?classifier=sources
+- pkg:maven/com.googlecode.flyway/flyway-ant@2.3?type=zip
+- pkg:maven/com.googlecode.flyway/flyway-ant@2.3?classifier=sources
