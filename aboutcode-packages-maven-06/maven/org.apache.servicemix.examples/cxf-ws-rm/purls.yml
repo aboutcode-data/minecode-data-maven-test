@@ -44,3 +44,7 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.0.6?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.2.0
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.2.0?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.4.0
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.4.0?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.3.1
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.3.1?classifier=sources

@@ -70,3 +70,7 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@3.7.1?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@3.7.2
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@3.7.2?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@4.0-RC1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@4.0-RC1?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@3.7.4
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-services@3.7.4?classifier=sources

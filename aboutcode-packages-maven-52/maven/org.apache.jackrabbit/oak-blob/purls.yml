@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-blob@1.0.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob@1.1.4
 - pkg:maven/org.apache.jackrabbit/oak-blob@1.1.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-blob@1.1.5
+- pkg:maven/org.apache.jackrabbit/oak-blob@1.1.5?classifier=sources
