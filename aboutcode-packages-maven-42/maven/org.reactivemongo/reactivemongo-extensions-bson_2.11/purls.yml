@@ -1,2 +1,6 @@
 - pkg:maven/org.reactivemongo/reactivemongo-extensions-bson_2.11@0.10.5.0.0.akka23
 - pkg:maven/org.reactivemongo/reactivemongo-extensions-bson_2.11@0.10.5.0.0.akka23?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-extensions-bson_2.11@0.11.1.play24
+- pkg:maven/org.reactivemongo/reactivemongo-extensions-bson_2.11@0.11.1.play24?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-extensions-bson_2.11@0.11.1.play23
+- pkg:maven/org.reactivemongo/reactivemongo-extensions-bson_2.11@0.11.1.play23?classifier=sources

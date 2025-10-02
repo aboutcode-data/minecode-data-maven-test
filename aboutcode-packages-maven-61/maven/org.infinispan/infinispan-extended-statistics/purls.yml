@@ -76,3 +76,5 @@
 - pkg:maven/org.infinispan/infinispan-extended-statistics@8.0.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-extended-statistics@7.2.3.Final
 - pkg:maven/org.infinispan/infinispan-extended-statistics@7.2.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-extended-statistics@8.0.0.Beta1
+- pkg:maven/org.infinispan/infinispan-extended-statistics@8.0.0.Beta1?classifier=sources
