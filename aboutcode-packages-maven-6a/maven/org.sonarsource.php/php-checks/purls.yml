@@ -2,3 +2,5 @@
 - pkg:maven/org.sonarsource.php/php-checks@2.7?classifier=sources
 - pkg:maven/org.sonarsource.php/php-checks@2.8
 - pkg:maven/org.sonarsource.php/php-checks@2.8?classifier=sources
+- pkg:maven/org.sonarsource.php/php-checks@2.9.0.1664
+- pkg:maven/org.sonarsource.php/php-checks@2.9.0.1664?classifier=sources

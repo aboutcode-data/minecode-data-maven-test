@@ -90,3 +90,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.testutil@2.3.0?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.testutil@3.0.0
 - pkg:maven/org.tinygroup/org.tinygroup.testutil@3.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.testutil@tiny-3.0.0
+- pkg:maven/org.tinygroup/org.tinygroup.testutil@tiny-3.0.0?classifier=sources

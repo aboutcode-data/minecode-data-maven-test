@@ -195,3 +195,5 @@
 - pkg:maven/org.springframework/spring-webmvc@4.3.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-webmvc@4.2.8.RELEASE
 - pkg:maven/org.springframework/spring-webmvc@4.2.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-webmvc@4.3.4.RELEASE
+- pkg:maven/org.springframework/spring-webmvc@4.3.4.RELEASE?classifier=sources

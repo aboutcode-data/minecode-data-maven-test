@@ -90,3 +90,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.order@2.3.0?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.order@3.0.0
 - pkg:maven/org.tinygroup/org.tinygroup.order@3.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.order@tiny-3.0.0
+- pkg:maven/org.tinygroup/org.tinygroup.order@tiny-3.0.0?classifier=sources

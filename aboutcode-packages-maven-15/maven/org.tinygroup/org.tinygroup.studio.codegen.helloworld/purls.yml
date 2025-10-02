@@ -82,3 +82,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.studio.codegen.helloworld@2.3.0?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.studio.codegen.helloworld@3.0.0
 - pkg:maven/org.tinygroup/org.tinygroup.studio.codegen.helloworld@3.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.studio.codegen.helloworld@tiny-3.0.0
+- pkg:maven/org.tinygroup/org.tinygroup.studio.codegen.helloworld@tiny-3.0.0?classifier=sources

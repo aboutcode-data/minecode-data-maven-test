@@ -128,3 +128,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-ftp@4.3.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-ftp@4.2.11.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-ftp@4.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-ftp@4.3.5.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-ftp@4.3.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-ftp@4.2.12.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-ftp@4.2.12.RELEASE?classifier=sources
