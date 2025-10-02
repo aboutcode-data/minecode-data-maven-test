@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.oodt/curator-services@0.10?type=war
 - pkg:maven/org.apache.oodt/curator-services@0.10?classifier=sources
+- pkg:maven/org.apache.oodt/curator-services@0.11?type=war
+- pkg:maven/org.apache.oodt/curator-services@0.11?classifier=sources

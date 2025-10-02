@@ -30,3 +30,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.2.0-beta1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.1.2
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.1.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.2.0-rc1
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.2.0-rc1?classifier=sources
