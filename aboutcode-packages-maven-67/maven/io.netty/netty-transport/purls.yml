@@ -128,3 +128,5 @@
 - pkg:maven/io.netty/netty-transport@4.0.33.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport@4.1.0.Beta8
 - pkg:maven/io.netty/netty-transport@4.1.0.Beta8?classifier=sources
+- pkg:maven/io.netty/netty-transport@4.1.0.CR1
+- pkg:maven/io.netty/netty-transport@4.1.0.CR1?classifier=sources

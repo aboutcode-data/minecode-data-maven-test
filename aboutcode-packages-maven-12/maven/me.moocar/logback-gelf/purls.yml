@@ -20,3 +20,5 @@
 - pkg:maven/me.moocar/logback-gelf@0.2beta3?classifier=sources
 - pkg:maven/me.moocar/logback-gelf@0.2
 - pkg:maven/me.moocar/logback-gelf@0.2?classifier=sources
+- pkg:maven/me.moocar/logback-gelf@0.3
+- pkg:maven/me.moocar/logback-gelf@0.3?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.axis2/version@1.6.3?classifier=sources
 - pkg:maven/org.apache.axis2/version@1.6.4?type=aar
 - pkg:maven/org.apache.axis2/version@1.6.4?classifier=sources
+- pkg:maven/org.apache.axis2/version@1.7.0?type=aar
+- pkg:maven/org.apache.axis2/version@1.7.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.winroad/wrdoclet-demoservice@1.0.2?type=war
 - pkg:maven/net.winroad/wrdoclet-demoservice@1.0.2?classifier=sources
+- pkg:maven/net.winroad/wrdoclet-demoservice@1.0.3?type=war
+- pkg:maven/net.winroad/wrdoclet-demoservice@1.0.3?classifier=sources
