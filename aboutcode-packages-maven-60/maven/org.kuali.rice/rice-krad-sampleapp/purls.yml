@@ -18,3 +18,5 @@
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.8?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.9?type=war
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.9?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.10?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.10?classifier=sources
