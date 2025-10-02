@@ -350,3 +350,5 @@
 - pkg:maven/com.spotify/helios-client@0.8.821?classifier=sources
 - pkg:maven/com.spotify/helios-client@0.8.820
 - pkg:maven/com.spotify/helios-client@0.8.820?classifier=sources
+- pkg:maven/com.spotify/helios-client@0.8.824
+- pkg:maven/com.spotify/helios-client@0.8.824?classifier=sources

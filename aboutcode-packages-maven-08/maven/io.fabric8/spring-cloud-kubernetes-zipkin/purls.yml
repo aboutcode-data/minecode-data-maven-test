@@ -20,3 +20,5 @@
 - pkg:maven/io.fabric8/spring-cloud-kubernetes-zipkin@0.0.11?classifier=sources
 - pkg:maven/io.fabric8/spring-cloud-kubernetes-zipkin@0.0.14
 - pkg:maven/io.fabric8/spring-cloud-kubernetes-zipkin@0.0.14?classifier=sources
+- pkg:maven/io.fabric8/spring-cloud-kubernetes-zipkin@0.0.15
+- pkg:maven/io.fabric8/spring-cloud-kubernetes-zipkin@0.0.15?classifier=sources

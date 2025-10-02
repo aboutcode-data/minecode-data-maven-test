@@ -49,3 +49,5 @@
 - pkg:maven/com.sun.istack/istack-commons-test@2.24?classifier=sources
 - pkg:maven/com.sun.istack/istack-commons-test@2.23
 - pkg:maven/com.sun.istack/istack-commons-test@2.23?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-test@3.0.1
+- pkg:maven/com.sun.istack/istack-commons-test@3.0.1?classifier=sources

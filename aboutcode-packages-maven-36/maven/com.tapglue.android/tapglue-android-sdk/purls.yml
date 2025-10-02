@@ -20,3 +20,7 @@
 - pkg:maven/com.tapglue.android/tapglue-android-sdk@2.0.4?classifier=sources
 - pkg:maven/com.tapglue.android/tapglue-android-sdk@2.0.6?type=aar
 - pkg:maven/com.tapglue.android/tapglue-android-sdk@2.0.6?classifier=sources
+- pkg:maven/com.tapglue.android/tapglue-android-sdk@2.1.2?type=aar
+- pkg:maven/com.tapglue.android/tapglue-android-sdk@2.1.2?classifier=sources
+- pkg:maven/com.tapglue.android/tapglue-android-sdk@2.1.1?type=aar
+- pkg:maven/com.tapglue.android/tapglue-android-sdk@2.1.1?classifier=sources
