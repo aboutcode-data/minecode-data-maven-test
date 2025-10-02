@@ -172,3 +172,7 @@
 - pkg:maven/org.kaazing/gateway.server.spi@5.4.0-RC002?classifier=sources
 - pkg:maven/org.kaazing/gateway.server.spi@5.4.0-RC004
 - pkg:maven/org.kaazing/gateway.server.spi@5.4.0-RC004?classifier=sources
+- pkg:maven/org.kaazing/gateway.server.spi@5.4.0-RC005
+- pkg:maven/org.kaazing/gateway.server.spi@5.4.0-RC005?classifier=sources
+- pkg:maven/org.kaazing/gateway.server.spi@5.4.0
+- pkg:maven/org.kaazing/gateway.server.spi@5.4.0?classifier=sources

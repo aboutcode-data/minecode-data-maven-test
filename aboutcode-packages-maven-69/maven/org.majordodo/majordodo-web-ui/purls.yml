@@ -1,0 +1,2 @@
+- pkg:maven/org.majordodo/majordodo-web-ui@0.8.0?type=war
+- pkg:maven/org.majordodo/majordodo-web-ui@0.8.0?classifier=sources

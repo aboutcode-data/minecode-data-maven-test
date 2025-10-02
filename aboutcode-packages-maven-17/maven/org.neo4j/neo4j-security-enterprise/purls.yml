@@ -30,3 +30,7 @@
 - pkg:maven/org.neo4j/neo4j-security-enterprise@3.2.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-security-enterprise@3.2.0-alpha02
 - pkg:maven/org.neo4j/neo4j-security-enterprise@3.2.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-security-enterprise@3.2.0-alpha03
+- pkg:maven/org.neo4j/neo4j-security-enterprise@3.2.0-alpha03?classifier=sources
+- pkg:maven/org.neo4j/neo4j-security-enterprise@3.1.1
+- pkg:maven/org.neo4j/neo4j-security-enterprise@3.1.1?classifier=sources
