@@ -22,3 +22,5 @@
 - pkg:maven/com.intel.gkl/gkl@0.4.1-4-g7c27959?classifier=sources
 - pkg:maven/com.intel.gkl/gkl@0.4.3
 - pkg:maven/com.intel.gkl/gkl@0.4.3?classifier=sources
+- pkg:maven/com.intel.gkl/gkl@0.5.0
+- pkg:maven/com.intel.gkl/gkl@0.5.0?classifier=sources

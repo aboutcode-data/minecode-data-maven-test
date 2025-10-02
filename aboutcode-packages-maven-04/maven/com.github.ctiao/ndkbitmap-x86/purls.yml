@@ -14,3 +14,7 @@
 - pkg:maven/com.github.ctiao/ndkbitmap-x86@0.7.4?classifier=sources
 - pkg:maven/com.github.ctiao/ndkbitmap-x86@0.7.8?type=aar
 - pkg:maven/com.github.ctiao/ndkbitmap-x86@0.7.8?classifier=sources
+- pkg:maven/com.github.ctiao/ndkbitmap-x86@0.8.0?type=aar
+- pkg:maven/com.github.ctiao/ndkbitmap-x86@0.8.0?classifier=sources
+- pkg:maven/com.github.ctiao/ndkbitmap-x86@0.7.9?type=aar
+- pkg:maven/com.github.ctiao/ndkbitmap-x86@0.7.9?classifier=sources
