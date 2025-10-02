@@ -1,0 +1,10 @@
+- pkg:maven/me.drakeet.multitype/multitype@1.1-beta3?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@1.1-beta3?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype@1.1-beta2?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@1.1-beta2?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype@1.1-beta1?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@1.1-beta1?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype@1.1?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@1.1?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype@1.0?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@1.0?classifier=sources

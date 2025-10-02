@@ -48,3 +48,5 @@
 - pkg:maven/io.zipkin.java/zipkin-zookeeper@1.4.3?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-zookeeper@1.5.1
 - pkg:maven/io.zipkin.java/zipkin-zookeeper@1.5.1?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-zookeeper@1.6.0
+- pkg:maven/io.zipkin.java/zipkin-zookeeper@1.6.0?classifier=sources
