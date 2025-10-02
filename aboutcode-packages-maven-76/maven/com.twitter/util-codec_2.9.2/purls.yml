@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/util-codec_2.9.2@6.0.5
 - pkg:maven/com.twitter/util-codec_2.9.2@6.0.5?classifier=sources
+- pkg:maven/com.twitter/util-codec_2.9.2@6.0.6
+- pkg:maven/com.twitter/util-codec_2.9.2@6.0.6?classifier=sources

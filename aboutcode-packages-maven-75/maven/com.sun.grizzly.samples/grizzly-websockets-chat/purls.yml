@@ -88,3 +88,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.54?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.55?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.55?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.56?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.56?classifier=sources

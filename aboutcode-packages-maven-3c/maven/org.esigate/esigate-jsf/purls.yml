@@ -12,3 +12,5 @@
 - pkg:maven/org.esigate/esigate-jsf@3.4.1?classifier=sources
 - pkg:maven/org.esigate/esigate-jsf@4.0-beta-2
 - pkg:maven/org.esigate/esigate-jsf@4.0-beta-2?classifier=sources
+- pkg:maven/org.esigate/esigate-jsf@4.0
+- pkg:maven/org.esigate/esigate-jsf@4.0?classifier=sources

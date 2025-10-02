@@ -12,3 +12,7 @@
 - pkg:maven/org.dasein/dasein-cloud-openstack@2012.09.4?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-openstack@2012.09.6
 - pkg:maven/org.dasein/dasein-cloud-openstack@2012.09.6?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-openstack@2013.02
+- pkg:maven/org.dasein/dasein-cloud-openstack@2013.02?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-openstack@2012.09.7
+- pkg:maven/org.dasein/dasein-cloud-openstack@2012.09.7?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/nl.tweeenveertig.openstack/joss@0.5.1?classifier=sources
 - pkg:maven/nl.tweeenveertig.openstack/joss@0.6.1
 - pkg:maven/nl.tweeenveertig.openstack/joss@0.6.1?classifier=sources
+- pkg:maven/nl.tweeenveertig.openstack/joss@0.7.0
+- pkg:maven/nl.tweeenveertig.openstack/joss@0.7.0?classifier=sources

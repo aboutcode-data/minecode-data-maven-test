@@ -13,3 +13,11 @@
 - pkg:maven/commons-daemon/commons-daemon@1.0.9?classifier=sources
 - pkg:maven/commons-daemon/commons-daemon@1.0.10
 - pkg:maven/commons-daemon/commons-daemon@1.0.10?classifier=sources
+- pkg:maven/commons-daemon/commons-daemon@1.0.12
+- pkg:maven/commons-daemon/commons-daemon@1.0.12?classifier=src&type=zip
+- pkg:maven/commons-daemon/commons-daemon@1.0.12?classifier=src&type=tar.gz
+- pkg:maven/commons-daemon/commons-daemon@1.0.12?classifier=sources
+- pkg:maven/commons-daemon/commons-daemon@1.0.11
+- pkg:maven/commons-daemon/commons-daemon@1.0.11?classifier=src&type=zip
+- pkg:maven/commons-daemon/commons-daemon@1.0.11?classifier=src&type=tar.gz
+- pkg:maven/commons-daemon/commons-daemon@1.0.11?classifier=sources

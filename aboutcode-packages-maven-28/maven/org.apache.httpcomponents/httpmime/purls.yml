@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.httpcomponents/httpmime@4.2.2?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpmime@4.2.3
 - pkg:maven/org.apache.httpcomponents/httpmime@4.2.3?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpmime@4.3-alpha1
+- pkg:maven/org.apache.httpcomponents/httpmime@4.3-alpha1?classifier=sources
