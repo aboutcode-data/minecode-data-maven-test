@@ -46,3 +46,7 @@
 - pkg:maven/com.microsoft.aad/adal@1.1.13?classifier=sources
 - pkg:maven/com.microsoft.aad/adal@1.1.14?type=aar
 - pkg:maven/com.microsoft.aad/adal@1.1.14?classifier=sources
+- pkg:maven/com.microsoft.aad/adal@1.1.16?type=aar
+- pkg:maven/com.microsoft.aad/adal@1.1.16?classifier=sources
+- pkg:maven/com.microsoft.aad/adal@1.1.15?type=aar
+- pkg:maven/com.microsoft.aad/adal@1.1.15?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/com.redhat.lightblue.migrator/jiff@1.15.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.16.0
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.16.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.18.0
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.18.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.17.0
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.17.0?classifier=sources

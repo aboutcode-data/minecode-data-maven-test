@@ -20,3 +20,5 @@
 - pkg:maven/com.ibeetl/beetl@2.2.13?classifier=sources
 - pkg:maven/com.ibeetl/beetl@2.2.14
 - pkg:maven/com.ibeetl/beetl@2.2.14?classifier=sources
+- pkg:maven/com.ibeetl/beetl@2.2.15-snapshot
+- pkg:maven/com.ibeetl/beetl@2.2.15-snapshot?classifier=sources
