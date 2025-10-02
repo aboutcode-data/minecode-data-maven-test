@@ -60,3 +60,7 @@
 - pkg:maven/com.distelli.objectStore/object-store-impl@6.3.0?classifier=sources
 - pkg:maven/com.distelli.objectStore/object-store-impl@6.2.4
 - pkg:maven/com.distelli.objectStore/object-store-impl@6.2.4?classifier=sources
+- pkg:maven/com.distelli.objectStore/object-store-impl@8.0.2
+- pkg:maven/com.distelli.objectStore/object-store-impl@8.0.2?classifier=sources
+- pkg:maven/com.distelli.objectStore/object-store-impl@8.0.1
+- pkg:maven/com.distelli.objectStore/object-store-impl@8.0.1?classifier=sources
