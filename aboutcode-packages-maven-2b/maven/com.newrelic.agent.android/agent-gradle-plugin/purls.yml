@@ -48,3 +48,5 @@
 - pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@4.177.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@4.190.0
 - pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@4.190.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@4.244.0
+- pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@4.244.0?classifier=sources
