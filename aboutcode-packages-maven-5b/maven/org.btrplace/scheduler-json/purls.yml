@@ -16,3 +16,5 @@
 - pkg:maven/org.btrplace/scheduler-json@0.46?classifier=sources
 - pkg:maven/org.btrplace/scheduler-json@1.0
 - pkg:maven/org.btrplace/scheduler-json@1.0?classifier=sources
+- pkg:maven/org.btrplace/scheduler-json@1.1
+- pkg:maven/org.btrplace/scheduler-json@1.1?classifier=sources

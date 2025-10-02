@@ -64,3 +64,5 @@
 - pkg:maven/org.hawkular.agent/wildfly-module-installer@0.19.2.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/wildfly-module-installer@0.20.1.Final
 - pkg:maven/org.hawkular.agent/wildfly-module-installer@0.20.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/wildfly-module-installer@0.21.0.Final
+- pkg:maven/org.hawkular.agent/wildfly-module-installer@0.21.0.Final?classifier=sources
