@@ -30,3 +30,7 @@
 - pkg:maven/org.wildfly.swarm/bootstrap@1.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.swarm/bootstrap@1.0.2.Final
 - pkg:maven/org.wildfly.swarm/bootstrap@1.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/bootstrap@2016.8.1
+- pkg:maven/org.wildfly.swarm/bootstrap@2016.8.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/bootstrap@2016.8
+- pkg:maven/org.wildfly.swarm/bootstrap@2016.8?classifier=sources

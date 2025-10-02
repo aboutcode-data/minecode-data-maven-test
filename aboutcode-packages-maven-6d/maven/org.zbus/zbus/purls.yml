@@ -32,3 +32,5 @@
 - pkg:maven/org.zbus/zbus@6.3.4?classifier=sources
 - pkg:maven/org.zbus/zbus@7.0.0
 - pkg:maven/org.zbus/zbus@7.0.0?classifier=sources
+- pkg:maven/org.zbus/zbus@7.0.1
+- pkg:maven/org.zbus/zbus@7.0.1?classifier=sources

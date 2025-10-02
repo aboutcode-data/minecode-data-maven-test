@@ -94,3 +94,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.24.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.24.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@8.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@8.0.0-M1?classifier=sources
