@@ -12,3 +12,5 @@
 - pkg:maven/org.wildfly/wildfly-clustering-infinispan-extension@9.0.0.CR2?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-infinispan-extension@10.0.0.Alpha3
 - pkg:maven/org.wildfly/wildfly-clustering-infinispan-extension@10.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-infinispan-extension@10.0.0.Alpha4
+- pkg:maven/org.wildfly/wildfly-clustering-infinispan-extension@10.0.0.Alpha4?classifier=sources

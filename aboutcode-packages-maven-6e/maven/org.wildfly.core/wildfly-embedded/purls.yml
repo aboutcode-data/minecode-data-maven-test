@@ -32,3 +32,7 @@
 - pkg:maven/org.wildfly.core/wildfly-embedded@1.0.0.CR6?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-embedded@1.0.0.CR7
 - pkg:maven/org.wildfly.core/wildfly-embedded@1.0.0.CR7?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-embedded@2.0.0.Alpha5
+- pkg:maven/org.wildfly.core/wildfly-embedded@2.0.0.Alpha5?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-embedded@1.0.0.Final
+- pkg:maven/org.wildfly.core/wildfly-embedded@1.0.0.Final?classifier=sources
