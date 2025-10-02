@@ -68,3 +68,5 @@
 - pkg:maven/com.klinkerapps/article_viewer@0.20.3?classifier=sources
 - pkg:maven/com.klinkerapps/article_viewer@0.20.2?type=aar
 - pkg:maven/com.klinkerapps/article_viewer@0.20.2?classifier=sources
+- pkg:maven/com.klinkerapps/article_viewer@0.21.0?type=aar
+- pkg:maven/com.klinkerapps/article_viewer@0.21.0?classifier=sources
