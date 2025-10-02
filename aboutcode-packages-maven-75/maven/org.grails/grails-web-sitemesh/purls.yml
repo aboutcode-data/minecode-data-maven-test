@@ -56,3 +56,7 @@
 - pkg:maven/org.grails/grails-web-sitemesh@3.1.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-web-sitemesh@3.0.12
 - pkg:maven/org.grails/grails-web-sitemesh@3.0.12?classifier=sources
+- pkg:maven/org.grails/grails-web-sitemesh@3.1.0
+- pkg:maven/org.grails/grails-web-sitemesh@3.1.0?classifier=sources
+- pkg:maven/org.grails/grails-web-sitemesh@3.0.13
+- pkg:maven/org.grails/grails-web-sitemesh@3.0.13?classifier=sources

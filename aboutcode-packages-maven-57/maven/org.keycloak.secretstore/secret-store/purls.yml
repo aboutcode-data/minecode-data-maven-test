@@ -8,3 +8,11 @@
 - pkg:maven/org.keycloak.secretstore/secret-store@1.0.6.Final?classifier=sources
 - pkg:maven/org.keycloak.secretstore/secret-store@1.0.5.Final?type=war
 - pkg:maven/org.keycloak.secretstore/secret-store@1.0.5.Final?classifier=sources
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.9.Final?type=war
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.9.Final?classifier=sources
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.8.Final?type=war
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.8.Final?classifier=sources
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.11.Final?type=war
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.11.Final?classifier=sources
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.10.Final?type=war
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.10.Final?classifier=sources
