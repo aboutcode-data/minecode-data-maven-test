@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.syncope/syncope-build-tools@1.0.7?classifier=sources
 - pkg:maven/org.apache.syncope/syncope-build-tools@1.1.0?type=war
 - pkg:maven/org.apache.syncope/syncope-build-tools@1.1.0?classifier=sources
+- pkg:maven/org.apache.syncope/syncope-build-tools@1.0.8?type=war
+- pkg:maven/org.apache.syncope/syncope-build-tools@1.0.8?classifier=sources

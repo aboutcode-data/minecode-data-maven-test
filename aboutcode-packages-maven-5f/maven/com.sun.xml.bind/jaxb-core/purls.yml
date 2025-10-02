@@ -10,3 +10,5 @@
 - pkg:maven/com.sun.xml.bind/jaxb-core@2.2.7-b60?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-core@2.2.7-b63
 - pkg:maven/com.sun.xml.bind/jaxb-core@2.2.7-b63?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-core@2.2.7
+- pkg:maven/com.sun.xml.bind/jaxb-core@2.2.7?classifier=sources
