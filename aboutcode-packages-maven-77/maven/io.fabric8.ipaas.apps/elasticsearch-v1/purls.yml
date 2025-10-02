@@ -46,3 +46,5 @@
 - pkg:maven/io.fabric8.ipaas.apps/elasticsearch-v1@2.2.136?classifier=sources
 - pkg:maven/io.fabric8.ipaas.apps/elasticsearch-v1@2.2.135
 - pkg:maven/io.fabric8.ipaas.apps/elasticsearch-v1@2.2.135?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/elasticsearch-v1@2.2.139
+- pkg:maven/io.fabric8.ipaas.apps/elasticsearch-v1@2.2.139?classifier=sources
