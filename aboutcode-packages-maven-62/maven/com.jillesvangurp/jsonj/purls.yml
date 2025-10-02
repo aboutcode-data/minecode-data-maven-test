@@ -38,3 +38,5 @@
 - pkg:maven/com.jillesvangurp/jsonj@1.50?classifier=sources
 - pkg:maven/com.jillesvangurp/jsonj@1.49
 - pkg:maven/com.jillesvangurp/jsonj@1.49?classifier=sources
+- pkg:maven/com.jillesvangurp/jsonj@2.0
+- pkg:maven/com.jillesvangurp/jsonj@2.0?classifier=sources
