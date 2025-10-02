@@ -28,3 +28,5 @@
 - pkg:maven/org.jppf/jppf-admin@5.0?classifier=sources
 - pkg:maven/org.jppf/jppf-admin@4.2.7
 - pkg:maven/org.jppf/jppf-admin@4.2.7?classifier=sources
+- pkg:maven/org.jppf/jppf-admin@5.0.1
+- pkg:maven/org.jppf/jppf-admin@5.0.1?classifier=sources

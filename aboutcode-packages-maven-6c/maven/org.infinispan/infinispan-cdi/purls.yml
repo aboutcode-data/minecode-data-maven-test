@@ -173,3 +173,5 @@
 - pkg:maven/org.infinispan/infinispan-cdi@5.2.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cdi@7.2.0.Beta1
 - pkg:maven/org.infinispan/infinispan-cdi@7.2.0.Beta1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cdi@7.2.0.Beta2
+- pkg:maven/org.infinispan/infinispan-cdi@7.2.0.Beta2?classifier=sources

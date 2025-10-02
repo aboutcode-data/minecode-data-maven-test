@@ -10,3 +10,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.M4?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.RC1
 - pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.RC1?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-cassandra@4.0.0.RELEASE?classifier=sources
