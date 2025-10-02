@@ -190,3 +190,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-tribes@9.0.0.M13?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-tribes@8.5.8
 - pkg:maven/org.apache.tomcat/tomcat-tribes@8.5.8?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-tribes@8.0.39
+- pkg:maven/org.apache.tomcat/tomcat-tribes@8.0.39?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-tribes@7.0.73
+- pkg:maven/org.apache.tomcat/tomcat-tribes@7.0.73?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.avaje.ebean/ebean@8.8.1?classifier=sources
 - pkg:maven/org.avaje.ebean/ebean@8.7.1
 - pkg:maven/org.avaje.ebean/ebean@8.7.1?classifier=sources
+- pkg:maven/org.avaje.ebean/ebean@9.2.1
+- pkg:maven/org.avaje.ebean/ebean@9.2.1?classifier=sources
+- pkg:maven/org.avaje.ebean/ebean@9.1.2
+- pkg:maven/org.avaje.ebean/ebean@9.1.2?classifier=sources

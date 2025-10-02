@@ -60,3 +60,5 @@
 - pkg:maven/javax.enterprise/cdi-api@2.0.Alpha4a?classifier=sources
 - pkg:maven/javax.enterprise/cdi-api@2.0-EDR2
 - pkg:maven/javax.enterprise/cdi-api@2.0-EDR2?classifier=sources
+- pkg:maven/javax.enterprise/cdi-api@2.0.Alpha5
+- pkg:maven/javax.enterprise/cdi-api@2.0.Alpha5?classifier=sources
