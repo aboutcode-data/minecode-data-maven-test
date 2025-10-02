@@ -1,2 +1,4 @@
 - pkg:maven/io.mraa.upm/upm_ds1307@0.8.0
 - pkg:maven/io.mraa.upm/upm_ds1307@0.8.0?classifier=sources
+- pkg:maven/io.mraa.upm/upm_ds1307@1.0.0
+- pkg:maven/io.mraa.upm/upm_ds1307@1.0.0?classifier=sources
