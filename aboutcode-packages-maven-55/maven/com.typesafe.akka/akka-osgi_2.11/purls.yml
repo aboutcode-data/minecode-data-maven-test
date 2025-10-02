@@ -78,3 +78,5 @@
 - pkg:maven/com.typesafe.akka/akka-osgi_2.11@2.4.10?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.11@2.4-ARTERY-M4
 - pkg:maven/com.typesafe.akka/akka-osgi_2.11@2.4-ARTERY-M4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.11@2.4.11
+- pkg:maven/com.typesafe.akka/akka-osgi_2.11@2.4.11?classifier=sources

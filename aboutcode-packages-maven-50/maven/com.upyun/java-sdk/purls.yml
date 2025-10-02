@@ -16,3 +16,9 @@
 - pkg:maven/com.upyun/java-sdk@3.9?classifier=sources
 - pkg:maven/com.upyun/java-sdk@3.10
 - pkg:maven/com.upyun/java-sdk@3.10?classifier=sources
+- pkg:maven/com.upyun/java-sdk@3.13
+- pkg:maven/com.upyun/java-sdk@3.13?classifier=sources
+- pkg:maven/com.upyun/java-sdk@3.12
+- pkg:maven/com.upyun/java-sdk@3.12?classifier=sources
+- pkg:maven/com.upyun/java-sdk@3.11
+- pkg:maven/com.upyun/java-sdk@3.11?classifier=sources
