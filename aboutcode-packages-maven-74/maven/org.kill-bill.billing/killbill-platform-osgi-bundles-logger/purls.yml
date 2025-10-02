@@ -98,3 +98,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-logger@0.30?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-logger@0.31
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-logger@0.31?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-logger@0.32
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-logger@0.32?classifier=sources
