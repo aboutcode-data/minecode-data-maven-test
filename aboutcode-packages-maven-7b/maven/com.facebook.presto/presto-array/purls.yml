@@ -22,3 +22,5 @@
 - pkg:maven/com.facebook.presto/presto-array@0.159?classifier=sources
 - pkg:maven/com.facebook.presto/presto-array@0.158
 - pkg:maven/com.facebook.presto/presto-array@0.158?classifier=sources
+- pkg:maven/com.facebook.presto/presto-array@0.160
+- pkg:maven/com.facebook.presto/presto-array@0.160?classifier=sources
