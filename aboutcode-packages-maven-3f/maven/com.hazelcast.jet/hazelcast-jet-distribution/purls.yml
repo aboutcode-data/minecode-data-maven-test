@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.3?type=zip
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.3?classifier=sources

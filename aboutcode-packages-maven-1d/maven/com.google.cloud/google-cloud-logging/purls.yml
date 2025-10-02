@@ -14,3 +14,7 @@
 - pkg:maven/com.google.cloud/google-cloud-logging@0.8.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging@0.8.1-beta
 - pkg:maven/com.google.cloud/google-cloud-logging@0.8.1-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging@0.8.3-beta
+- pkg:maven/com.google.cloud/google-cloud-logging@0.8.3-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging@0.8.2-beta
+- pkg:maven/com.google.cloud/google-cloud-logging@0.8.2-beta?classifier=sources
