@@ -1,3 +1,5 @@
 - pkg:maven/org.hibernate/hibernate-maven-plugin@3.5.0.Beta-1
 - pkg:maven/org.hibernate/hibernate-maven-plugin@3.3.2.GA
 - pkg:maven/org.hibernate/hibernate-maven-plugin@3.3.2.GA?classifier=sources
+- pkg:maven/org.hibernate/hibernate-maven-plugin@4.3.0.Beta4
+- pkg:maven/org.hibernate/hibernate-maven-plugin@4.3.0.Beta4?classifier=sources

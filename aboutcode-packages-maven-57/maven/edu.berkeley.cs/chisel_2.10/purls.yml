@@ -1,2 +1,4 @@
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.0
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.0?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.10@2.0.1
+- pkg:maven/edu.berkeley.cs/chisel_2.10@2.0.1?classifier=sources

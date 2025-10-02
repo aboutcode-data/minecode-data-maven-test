@@ -111,3 +111,5 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@6.0.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@6.0.0.Alpha3?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@6.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@6.0.0.Alpha4?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@6.0.0.Alpha4?classifier=sources

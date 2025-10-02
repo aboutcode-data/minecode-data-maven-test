@@ -152,3 +152,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-scala-chat@1.0.14?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-scala-chat@1.0.16?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-scala-chat@1.0.16?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-scala-chat@2.0.0.RC4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-scala-chat@2.0.0.RC4?classifier=sources

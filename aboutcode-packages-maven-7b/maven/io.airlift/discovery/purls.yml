@@ -10,3 +10,5 @@
 - pkg:maven/io.airlift/discovery@0.78?classifier=sources
 - pkg:maven/io.airlift/discovery@0.79
 - pkg:maven/io.airlift/discovery@0.79?classifier=sources
+- pkg:maven/io.airlift/discovery@0.80
+- pkg:maven/io.airlift/discovery@0.80?classifier=sources

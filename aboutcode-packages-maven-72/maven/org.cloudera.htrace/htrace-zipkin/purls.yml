@@ -1,2 +1,4 @@
 - pkg:maven/org.cloudera.htrace/htrace-zipkin@2.00
 - pkg:maven/org.cloudera.htrace/htrace-zipkin@2.00?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-zipkin@2.01
+- pkg:maven/org.cloudera.htrace/htrace-zipkin@2.01?classifier=sources

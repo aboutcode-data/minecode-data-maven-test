@@ -78,3 +78,7 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@1.0.14?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@1.0.16?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@1.0.16?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.0.0.RC4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.0.0.RC4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@1.0.17?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@1.0.17?classifier=sources
