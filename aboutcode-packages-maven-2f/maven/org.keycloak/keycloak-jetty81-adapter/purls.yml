@@ -58,3 +58,5 @@
 - pkg:maven/org.keycloak/keycloak-jetty81-adapter@1.9.7.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-jetty81-adapter@1.9.5.Final
 - pkg:maven/org.keycloak/keycloak-jetty81-adapter@1.9.5.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-jetty81-adapter@1.9.8.Final
+- pkg:maven/org.keycloak/keycloak-jetty81-adapter@1.9.8.Final?classifier=sources

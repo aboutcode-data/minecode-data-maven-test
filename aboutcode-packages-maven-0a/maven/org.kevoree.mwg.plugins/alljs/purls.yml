@@ -1,2 +1,6 @@
 - pkg:maven/org.kevoree.mwg.plugins/alljs@1
 - pkg:maven/org.kevoree.mwg.plugins/alljs@1?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/alljs@3
+- pkg:maven/org.kevoree.mwg.plugins/alljs@3?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/alljs@2
+- pkg:maven/org.kevoree.mwg.plugins/alljs@2?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.lucee/lucee@5.0.0.235-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@5.0.0.252
 - pkg:maven/org.lucee/lucee@5.0.0.252?classifier=sources
+- pkg:maven/org.lucee/lucee@5.1.0.17-BETA
+- pkg:maven/org.lucee/lucee@5.1.0.17-BETA?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/org.modeshape/modeshape-jdbc-local@4.6.0.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-jdbc-local@5.0.0.Final
 - pkg:maven/org.modeshape/modeshape-jdbc-local@5.0.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jdbc-local@5.1.0.Final
+- pkg:maven/org.modeshape/modeshape-jdbc-local@5.1.0.Final?classifier=sources
