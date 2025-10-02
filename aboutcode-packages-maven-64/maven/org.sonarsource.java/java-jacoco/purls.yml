@@ -6,3 +6,5 @@
 - pkg:maven/org.sonarsource.java/java-jacoco@3.6?classifier=sources
 - pkg:maven/org.sonarsource.java/java-jacoco@3.7
 - pkg:maven/org.sonarsource.java/java-jacoco@3.7?classifier=sources
+- pkg:maven/org.sonarsource.java/java-jacoco@3.7.1
+- pkg:maven/org.sonarsource.java/java-jacoco@3.7.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.7.0-M6?classifier=sources
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.7.0
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.7.0?classifier=sources
+- pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.7.1
+- pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.7.1?classifier=sources
