@@ -10,3 +10,5 @@
 - pkg:maven/org.typelevel/scala-compiler@2.12.1?classifier=sources
 - pkg:maven/org.typelevel/scala-compiler@2.12.2-bin-typelevel-4
 - pkg:maven/org.typelevel/scala-compiler@2.12.2-bin-typelevel-4?classifier=sources
+- pkg:maven/org.typelevel/scala-compiler@2.11.11-bin-typelevel-4
+- pkg:maven/org.typelevel/scala-compiler@2.11.11-bin-typelevel-4?classifier=sources

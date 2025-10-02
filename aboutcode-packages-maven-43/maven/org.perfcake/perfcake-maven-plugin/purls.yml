@@ -8,3 +8,5 @@
 - pkg:maven/org.perfcake/perfcake-maven-plugin@7.2?classifier=sources
 - pkg:maven/org.perfcake/perfcake-maven-plugin@7.4
 - pkg:maven/org.perfcake/perfcake-maven-plugin@7.4?classifier=sources
+- pkg:maven/org.perfcake/perfcake-maven-plugin@7.5
+- pkg:maven/org.perfcake/perfcake-maven-plugin@7.5?classifier=sources
