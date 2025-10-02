@@ -216,3 +216,5 @@
 - pkg:maven/org.neo4j/neo4j-graph-algo@2.2.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@2.2.5
 - pkg:maven/org.neo4j/neo4j-graph-algo@2.2.5?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-algo@2.3.0-M03
+- pkg:maven/org.neo4j/neo4j-graph-algo@2.3.0-M03?classifier=sources

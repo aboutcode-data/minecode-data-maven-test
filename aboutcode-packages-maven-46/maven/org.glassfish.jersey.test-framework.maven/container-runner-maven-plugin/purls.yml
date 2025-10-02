@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.22
+- pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.22?classifier=sources

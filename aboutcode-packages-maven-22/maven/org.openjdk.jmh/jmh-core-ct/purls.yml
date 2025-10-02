@@ -67,3 +67,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-core-ct@1.10.5?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core-ct@1.11
 - pkg:maven/org.openjdk.jmh/jmh-core-ct@1.11?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-core-ct@1.11.1
+- pkg:maven/org.openjdk.jmh/jmh-core-ct@1.11.1?classifier=sources

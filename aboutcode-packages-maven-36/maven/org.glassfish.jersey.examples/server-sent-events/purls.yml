@@ -140,3 +140,6 @@
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events@2.21.1
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events@2.21.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events@2.21.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-sent-events@2.22
+- pkg:maven/org.glassfish.jersey.examples/server-sent-events@2.22?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/server-sent-events@2.22?classifier=project-src&type=zip

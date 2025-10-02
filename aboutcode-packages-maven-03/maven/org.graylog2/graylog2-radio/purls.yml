@@ -92,3 +92,5 @@
 - pkg:maven/org.graylog2/graylog2-radio@1.2.0-rc.3?classifier=sources
 - pkg:maven/org.graylog2/graylog2-radio@1.2.0
 - pkg:maven/org.graylog2/graylog2-radio@1.2.0?classifier=sources
+- pkg:maven/org.graylog2/graylog2-radio@1.2.1
+- pkg:maven/org.graylog2/graylog2-radio@1.2.1?classifier=sources

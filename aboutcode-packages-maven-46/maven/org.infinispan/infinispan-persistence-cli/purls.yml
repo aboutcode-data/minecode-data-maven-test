@@ -78,3 +78,5 @@
 - pkg:maven/org.infinispan/infinispan-persistence-cli@8.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-persistence-cli@7.2.5.Final
 - pkg:maven/org.infinispan/infinispan-persistence-cli@7.2.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-persistence-cli@8.1.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-persistence-cli@8.1.0.Alpha1?classifier=sources
