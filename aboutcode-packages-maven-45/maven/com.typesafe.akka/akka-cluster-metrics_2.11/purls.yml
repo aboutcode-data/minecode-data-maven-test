@@ -74,3 +74,5 @@
 - pkg:maven/com.typesafe.akka/akka-cluster-metrics_2.11@2.5.0-RC1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-cluster-metrics_2.11@2.5.0-RC2
 - pkg:maven/com.typesafe.akka/akka-cluster-metrics_2.11@2.5.0-RC2?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-cluster-metrics_2.11@2.5.0
+- pkg:maven/com.typesafe.akka/akka-cluster-metrics_2.11@2.5.0?classifier=sources

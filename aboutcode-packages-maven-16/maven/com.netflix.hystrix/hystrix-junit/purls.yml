@@ -18,3 +18,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.9?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.10
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.10?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.11
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.11?classifier=sources

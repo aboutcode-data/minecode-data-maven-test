@@ -16,3 +16,7 @@
 - pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.2-RELEASE?classifier=sources
 - pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.1.1-RELEASE
 - pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.1.1-RELEASE?classifier=sources
+- pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.6-RELEASE
+- pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.6-RELEASE?classifier=sources
+- pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.5-RELEASE
+- pkg:maven/com.themodernway/themodernway-server-mongodb@1.0.5-RELEASE?classifier=sources

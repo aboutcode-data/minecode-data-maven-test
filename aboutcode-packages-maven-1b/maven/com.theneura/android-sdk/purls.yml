@@ -46,3 +46,7 @@
 - pkg:maven/com.theneura/android-sdk@4.1.9?classifier=sources
 - pkg:maven/com.theneura/android-sdk@4.2.3?type=aar
 - pkg:maven/com.theneura/android-sdk@4.2.3?classifier=sources
+- pkg:maven/com.theneura/android-sdk@4.2.4?type=aar
+- pkg:maven/com.theneura/android-sdk@4.2.4?classifier=sources
+- pkg:maven/com.theneura/android-sdk@4.1.7.1?type=aar
+- pkg:maven/com.theneura/android-sdk@4.1.7.1?classifier=sources
