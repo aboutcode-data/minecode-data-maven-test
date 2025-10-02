@@ -1,2 +1,4 @@
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.7.0?type=war
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.7.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.7.1?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.7.1?classifier=sources

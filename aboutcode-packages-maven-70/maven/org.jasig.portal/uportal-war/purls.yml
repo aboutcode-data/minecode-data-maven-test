@@ -101,3 +101,5 @@
 - pkg:maven/org.jasig.portal/uportal-war@4.1.0?classifier=sources
 - pkg:maven/org.jasig.portal/uportal-war@4.0.15?type=war
 - pkg:maven/org.jasig.portal/uportal-war@4.0.15?classifier=sources
+- pkg:maven/org.jasig.portal/uportal-war@4.1.1?type=war
+- pkg:maven/org.jasig.portal/uportal-war@4.1.1?classifier=sources

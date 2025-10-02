@@ -14,3 +14,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.0-beta-1
 - pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.0
 - pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.4
+- pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.4?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.4?classifier=source-release&type=zip

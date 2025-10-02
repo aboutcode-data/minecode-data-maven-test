@@ -28,3 +28,6 @@
 - pkg:maven/org.glassfish.jersey.examples/http-patch@2.10.3
 - pkg:maven/org.glassfish.jersey.examples/http-patch@2.10.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/http-patch@2.10.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/http-patch@2.12
+- pkg:maven/org.glassfish.jersey.examples/http-patch@2.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/http-patch@2.12?classifier=project-src&type=zip

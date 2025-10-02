@@ -34,3 +34,6 @@
 - pkg:maven/org.glassfish.jersey.examples/monitoring-webapp@2.10.3?type=war
 - pkg:maven/org.glassfish.jersey.examples/monitoring-webapp@2.10.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/monitoring-webapp@2.10.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/monitoring-webapp@2.12?type=war
+- pkg:maven/org.glassfish.jersey.examples/monitoring-webapp@2.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/monitoring-webapp@2.12?classifier=project-src&type=zip

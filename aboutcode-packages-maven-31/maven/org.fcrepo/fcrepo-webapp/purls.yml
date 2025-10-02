@@ -12,3 +12,5 @@
 - pkg:maven/org.fcrepo/fcrepo-webapp@4.0.0-beta-01?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-webapp@4.0.0-beta-02?type=war
 - pkg:maven/org.fcrepo/fcrepo-webapp@4.0.0-beta-02?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-webapp@4.0.0-beta-03?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp@4.0.0-beta-03?classifier=sources
