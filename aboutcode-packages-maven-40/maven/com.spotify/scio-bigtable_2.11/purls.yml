@@ -46,3 +46,7 @@
 - pkg:maven/com.spotify/scio-bigtable_2.11@0.3.0-alpha1?classifier=sources
 - pkg:maven/com.spotify/scio-bigtable_2.11@0.2.10
 - pkg:maven/com.spotify/scio-bigtable_2.11@0.2.10?classifier=sources
+- pkg:maven/com.spotify/scio-bigtable_2.11@0.3.0-alpha2
+- pkg:maven/com.spotify/scio-bigtable_2.11@0.3.0-alpha2?classifier=sources
+- pkg:maven/com.spotify/scio-bigtable_2.11@0.2.11
+- pkg:maven/com.spotify/scio-bigtable_2.11@0.2.11?classifier=sources

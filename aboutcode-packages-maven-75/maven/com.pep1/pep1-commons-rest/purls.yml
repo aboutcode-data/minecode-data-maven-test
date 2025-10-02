@@ -2,3 +2,7 @@
 - pkg:maven/com.pep1/pep1-commons-rest@0.2?classifier=sources
 - pkg:maven/com.pep1/pep1-commons-rest@0.1
 - pkg:maven/com.pep1/pep1-commons-rest@0.1?classifier=sources
+- pkg:maven/com.pep1/pep1-commons-rest@0.4
+- pkg:maven/com.pep1/pep1-commons-rest@0.4?classifier=sources
+- pkg:maven/com.pep1/pep1-commons-rest@0.3
+- pkg:maven/com.pep1/pep1-commons-rest@0.3?classifier=sources
