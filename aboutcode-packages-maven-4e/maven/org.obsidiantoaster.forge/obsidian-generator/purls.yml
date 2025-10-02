@@ -12,3 +12,6 @@
 - pkg:maven/org.obsidiantoaster.forge/obsidian-generator@1.0.0.Alpha2_01
 - pkg:maven/org.obsidiantoaster.forge/obsidian-generator@1.0.0.Alpha2_01?classifier=sources
 - pkg:maven/org.obsidiantoaster.forge/obsidian-generator@1.0.0.Alpha2_01?classifier=source-release&type=zip
+- pkg:maven/org.obsidiantoaster.forge/obsidian-generator@1.0.0.Alpha2_03
+- pkg:maven/org.obsidiantoaster.forge/obsidian-generator@1.0.0.Alpha2_03?classifier=sources
+- pkg:maven/org.obsidiantoaster.forge/obsidian-generator@1.0.0.Alpha2_03?classifier=source-release&type=zip
