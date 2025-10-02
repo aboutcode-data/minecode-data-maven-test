@@ -47,3 +47,5 @@
 - pkg:maven/org.craftercms/crafter-profile-admin-console@2.5.1-RC1?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-admin-console@2.5.1?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@2.5.1?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-admin-console@2.5.2?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@2.5.2?classifier=sources

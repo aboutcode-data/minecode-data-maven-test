@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64?classifier=sources
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32?classifier=sources
