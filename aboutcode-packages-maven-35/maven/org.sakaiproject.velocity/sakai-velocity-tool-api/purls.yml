@@ -22,3 +22,5 @@
 - pkg:maven/org.sakaiproject.velocity/sakai-velocity-tool-api@2.9.2?classifier=sources
 - pkg:maven/org.sakaiproject.velocity/sakai-velocity-tool-api@2.9.3
 - pkg:maven/org.sakaiproject.velocity/sakai-velocity-tool-api@2.9.3?classifier=sources
+- pkg:maven/org.sakaiproject.velocity/sakai-velocity-tool-api@10.0
+- pkg:maven/org.sakaiproject.velocity/sakai-velocity-tool-api@10.0?classifier=sources
