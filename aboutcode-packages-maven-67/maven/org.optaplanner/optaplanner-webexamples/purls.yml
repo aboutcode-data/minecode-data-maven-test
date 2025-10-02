@@ -78,3 +78,5 @@
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.0.0.Beta1?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-webexamples@6.5.0.Beta1?type=war
 - pkg:maven/org.optaplanner/optaplanner-webexamples@6.5.0.Beta1?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-webexamples@6.5.0.CR1?type=war
+- pkg:maven/org.optaplanner/optaplanner-webexamples@6.5.0.CR1?classifier=sources
