@@ -109,3 +109,7 @@
 - pkg:maven/org.springframework/spring-context@4.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-context@3.2.6.RELEASE
 - pkg:maven/org.springframework/spring-context@3.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-context@4.0.1.RELEASE
+- pkg:maven/org.springframework/spring-context@4.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-context@3.2.7.RELEASE
+- pkg:maven/org.springframework/spring-context@3.2.7.RELEASE?classifier=sources
