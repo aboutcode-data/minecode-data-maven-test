@@ -19,3 +19,5 @@
 - pkg:maven/com.firebaseui/firebase-ui@0.6.2?classifier=sources
 - pkg:maven/com.firebaseui/firebase-ui@1.0.0?type=aar
 - pkg:maven/com.firebaseui/firebase-ui@1.0.0?classifier=sources
+- pkg:maven/com.firebaseui/firebase-ui@1.1.0?type=aar
+- pkg:maven/com.firebaseui/firebase-ui@1.1.0?classifier=sources
