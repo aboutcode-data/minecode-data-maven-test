@@ -50,3 +50,5 @@
 - pkg:maven/org.zanata/zanata-common-api@3.9.0?classifier=sources
 - pkg:maven/org.zanata/zanata-common-api@3.9.1
 - pkg:maven/org.zanata/zanata-common-api@3.9.1?classifier=sources
+- pkg:maven/org.zanata/zanata-common-api@4.0.0-alpha-1
+- pkg:maven/org.zanata/zanata-common-api@4.0.0-alpha-1?classifier=sources
