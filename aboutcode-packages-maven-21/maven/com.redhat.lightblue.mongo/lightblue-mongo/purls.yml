@@ -28,3 +28,5 @@
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.24.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.25.0
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.25.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.26.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.26.0?classifier=sources

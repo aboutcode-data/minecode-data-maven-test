@@ -44,3 +44,5 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.1.5?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.2.0?type=war
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.2.0?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.2.1?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.2.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/info.novatec.testit/webtester-support-junit5@2.1.0.RC1
 - pkg:maven/info.novatec.testit/webtester-support-junit5@2.1.0.RC1?classifier=sources
+- pkg:maven/info.novatec.testit/webtester-support-junit5@2.1.0
+- pkg:maven/info.novatec.testit/webtester-support-junit5@2.1.0?classifier=sources
