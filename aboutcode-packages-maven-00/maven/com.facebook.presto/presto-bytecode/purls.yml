@@ -74,3 +74,7 @@
 - pkg:maven/com.facebook.presto/presto-bytecode@0.156?classifier=sources
 - pkg:maven/com.facebook.presto/presto-bytecode@0.157.1
 - pkg:maven/com.facebook.presto/presto-bytecode@0.157.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bytecode@0.159
+- pkg:maven/com.facebook.presto/presto-bytecode@0.159?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bytecode@0.158
+- pkg:maven/com.facebook.presto/presto-bytecode@0.158?classifier=sources
