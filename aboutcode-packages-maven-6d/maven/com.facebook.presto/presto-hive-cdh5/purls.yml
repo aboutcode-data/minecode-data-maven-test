@@ -105,3 +105,5 @@
 - pkg:maven/com.facebook.presto/presto-hive-cdh5@0.159?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-cdh5@0.158?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-cdh5@0.160?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-cdh5@0.162?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-cdh5@0.161?classifier=sources
