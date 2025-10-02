@@ -2,3 +2,5 @@
 - pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.2?classifier=sources
 - pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.3?type=zip
 - pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.3?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.1.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.1.0?classifier=sources

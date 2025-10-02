@@ -2,3 +2,5 @@
 - pkg:maven/javax.faces/javax.faces-api@2.1?classifier=sources
 - pkg:maven/javax.faces/javax.faces-api@2.0
 - pkg:maven/javax.faces/javax.faces-api@2.0?classifier=sources
+- pkg:maven/javax.faces/javax.faces-api@2.2-m11
+- pkg:maven/javax.faces/javax.faces-api@2.2-m11?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.fasterxml.transistore/transistore-dropwizard@0.7.1
 - pkg:maven/com.fasterxml.transistore/transistore-dropwizard@0.7.1?classifier=sources
+- pkg:maven/com.fasterxml.transistore/transistore-dropwizard@0.9.0
+- pkg:maven/com.fasterxml.transistore/transistore-dropwizard@0.9.0?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.google.guava/guava-gwt@14.0-rc3?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@14.0
 - pkg:maven/com.google.guava/guava-gwt@14.0?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@14.0.1
+- pkg:maven/com.google.guava/guava-gwt@14.0.1?classifier=sources
