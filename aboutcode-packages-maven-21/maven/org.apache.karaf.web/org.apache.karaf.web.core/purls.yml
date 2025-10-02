@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.karaf.web/org.apache.karaf.web.core@3.0.4?classifier=sources
 - pkg:maven/org.apache.karaf.web/org.apache.karaf.web.core@4.0.1
 - pkg:maven/org.apache.karaf.web/org.apache.karaf.web.core@4.0.1?classifier=sources
+- pkg:maven/org.apache.karaf.web/org.apache.karaf.web.core@3.0.5
+- pkg:maven/org.apache.karaf.web/org.apache.karaf.web.core@3.0.5?classifier=sources

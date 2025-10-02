@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.14.3?classifier=sources
 - pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.15.3
 - pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.15.3?classifier=sources
+- pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.16.0
+- pkg:maven/org.apache.camel.maven/camel-salesforce-maven-plugin@2.16.0?classifier=sources

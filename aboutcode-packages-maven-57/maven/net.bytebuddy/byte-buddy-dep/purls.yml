@@ -62,3 +62,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-dep@0.6.15?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-dep@0.7-rc2
 - pkg:maven/net.bytebuddy/byte-buddy-dep@0.7-rc2?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-dep@0.7-rc3
+- pkg:maven/net.bytebuddy/byte-buddy-dep@0.7-rc3?classifier=sources
