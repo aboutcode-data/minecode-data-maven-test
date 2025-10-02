@@ -18,3 +18,5 @@
 - pkg:maven/org.codehaus.mojo.archetypes/nbm-suite-root@1.7?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.archetypes/nbm-suite-root@1.8?classifier=sources
 - pkg:maven/org.codehaus.mojo.archetypes/nbm-suite-root@1.8?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.archetypes/nbm-suite-root@1.9?classifier=sources
+- pkg:maven/org.codehaus.mojo.archetypes/nbm-suite-root@1.9?classifier=source-release&type=zip
