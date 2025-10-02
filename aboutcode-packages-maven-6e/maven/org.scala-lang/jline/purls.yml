@@ -62,3 +62,5 @@
 - pkg:maven/org.scala-lang/jline@2.10.0-RC5?classifier=sources
 - pkg:maven/org.scala-lang/jline@2.10.0-RC4
 - pkg:maven/org.scala-lang/jline@2.10.0-RC4?classifier=sources
+- pkg:maven/org.scala-lang/jline@2.9.3-RC1
+- pkg:maven/org.scala-lang/jline@2.9.3-RC1?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.github.axet/wget@1.0.19?classifier=sources
 - pkg:maven/com.github.axet/wget@1.0.18
 - pkg:maven/com.github.axet/wget@1.0.18?classifier=sources
+- pkg:maven/com.github.axet/wget@1.2.1
+- pkg:maven/com.github.axet/wget@1.2.1?classifier=sources
