@@ -149,3 +149,7 @@
 - pkg:maven/org.hibernate/hibernate-ehcache@4.2.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-ehcache@4.3.0.Beta3
 - pkg:maven/org.hibernate/hibernate-ehcache@4.3.0.Beta3?classifier=sources
+- pkg:maven/org.hibernate/hibernate-ehcache@4.2.3.Final
+- pkg:maven/org.hibernate/hibernate-ehcache@4.2.3.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-ehcache@4.2.0.SP1
+- pkg:maven/org.hibernate/hibernate-ehcache@4.2.0.SP1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.drools/drools-osgi-integration@6.0.0.Beta4
 - pkg:maven/org.drools/drools-osgi-integration@6.0.0.Beta4?classifier=sources
+- pkg:maven/org.drools/drools-osgi-integration@6.0.0.Beta5
+- pkg:maven/org.drools/drools-osgi-integration@6.0.0.Beta5?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.rave/rave-w3c-provider@0.20.1?classifier=sources
 - pkg:maven/org.apache.rave/rave-w3c-provider@0.21.1
 - pkg:maven/org.apache.rave/rave-w3c-provider@0.21.1?classifier=sources
+- pkg:maven/org.apache.rave/rave-w3c-provider@0.22
+- pkg:maven/org.apache.rave/rave-w3c-provider@0.22?classifier=sources

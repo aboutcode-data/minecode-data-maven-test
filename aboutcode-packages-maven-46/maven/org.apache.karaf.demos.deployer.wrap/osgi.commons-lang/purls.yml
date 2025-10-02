@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.karaf.demos.deployer.wrap/osgi.commons-lang@2.3.1?classifier=sources
 - pkg:maven/org.apache.karaf.demos.deployer.wrap/osgi.commons-lang@2.2.11
 - pkg:maven/org.apache.karaf.demos.deployer.wrap/osgi.commons-lang@2.2.11?classifier=sources
+- pkg:maven/org.apache.karaf.demos.deployer.wrap/osgi.commons-lang@2.3.2
+- pkg:maven/org.apache.karaf.demos.deployer.wrap/osgi.commons-lang@2.3.2?classifier=sources

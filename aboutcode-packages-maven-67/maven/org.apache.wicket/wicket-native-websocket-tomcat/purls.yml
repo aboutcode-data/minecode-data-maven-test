@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@0.9?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@0.10
 - pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@0.10?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@0.11
+- pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@0.11?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/gov.loc/bagit@4.0?classifier=sources
 - pkg:maven/gov.loc/bagit@4.4
 - pkg:maven/gov.loc/bagit@4.4?classifier=sources
+- pkg:maven/gov.loc/bagit@4.8
+- pkg:maven/gov.loc/bagit@4.8?classifier=sources
