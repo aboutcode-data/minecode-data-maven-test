@@ -2,3 +2,5 @@
 - pkg:maven/org.kurento/kurento-jsonrpc-client@5.0.3?classifier=sources
 - pkg:maven/org.kurento/kurento-jsonrpc-client@5.0.4
 - pkg:maven/org.kurento/kurento-jsonrpc-client@5.0.4?classifier=sources
+- pkg:maven/org.kurento/kurento-jsonrpc-client@5.1.0
+- pkg:maven/org.kurento/kurento-jsonrpc-client@5.1.0?classifier=sources

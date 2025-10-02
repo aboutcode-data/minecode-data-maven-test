@@ -28,3 +28,13 @@
 - pkg:maven/org.postgresql/postgresql@9.3-1102-jdbc4?classifier=sources
 - pkg:maven/org.postgresql/postgresql@9.3-1102-jdbc3
 - pkg:maven/org.postgresql/postgresql@9.3-1102-jdbc3?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4-1200-jdbc41
+- pkg:maven/org.postgresql/postgresql@9.4-1200-jdbc41?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4-1200-jdbc4
+- pkg:maven/org.postgresql/postgresql@9.4-1200-jdbc4?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.3-1103-jdbc41
+- pkg:maven/org.postgresql/postgresql@9.3-1103-jdbc41?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.3-1103-jdbc4
+- pkg:maven/org.postgresql/postgresql@9.3-1103-jdbc4?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.3-1103-jdbc3
+- pkg:maven/org.postgresql/postgresql@9.3-1103-jdbc3?classifier=sources
