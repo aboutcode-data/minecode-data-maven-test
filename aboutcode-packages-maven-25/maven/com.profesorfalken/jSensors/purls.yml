@@ -2,3 +2,7 @@
 - pkg:maven/com.profesorfalken/jSensors@1.0-PreAlpha?classifier=sources
 - pkg:maven/com.profesorfalken/jSensors@1.0-Alpha
 - pkg:maven/com.profesorfalken/jSensors@1.0-Alpha?classifier=sources
+- pkg:maven/com.profesorfalken/jSensors@1.0.1
+- pkg:maven/com.profesorfalken/jSensors@1.0.1?classifier=sources
+- pkg:maven/com.profesorfalken/jSensors@1.0
+- pkg:maven/com.profesorfalken/jSensors@1.0?classifier=sources

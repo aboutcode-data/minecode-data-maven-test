@@ -1,2 +1,4 @@
 - pkg:maven/com.theneura/android-sdk@3.9.8?type=aar
 - pkg:maven/com.theneura/android-sdk@3.9.8?classifier=sources
+- pkg:maven/com.theneura/android-sdk@4.0.0?type=aar
+- pkg:maven/com.theneura/android-sdk@4.0.0?classifier=sources
