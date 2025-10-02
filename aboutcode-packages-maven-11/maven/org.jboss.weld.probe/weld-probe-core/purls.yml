@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@3.0.0.Alpha4
+- pkg:maven/org.jboss.weld.probe/weld-probe-core@3.0.0.Alpha4?classifier=sources
