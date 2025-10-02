@@ -40,3 +40,5 @@
 - pkg:maven/org.rundeck/rundeckapp@2.4.2?classifier=sources
 - pkg:maven/org.rundeck/rundeckapp@2.5.0?type=war
 - pkg:maven/org.rundeck/rundeckapp@2.5.0?classifier=sources
+- pkg:maven/org.rundeck/rundeckapp@2.5.1?type=war
+- pkg:maven/org.rundeck/rundeckapp@2.5.1?classifier=sources

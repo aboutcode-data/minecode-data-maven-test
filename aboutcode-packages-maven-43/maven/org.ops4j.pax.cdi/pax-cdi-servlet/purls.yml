@@ -8,3 +8,5 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-servlet@0.11.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-servlet@1.0.0.RC1
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-servlet@1.0.0.RC1?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-servlet@0.12.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-servlet@0.12.0?classifier=sources
