@@ -26,3 +26,5 @@
 - pkg:maven/co.paralleluniverse/capsule@0.8.0?classifier=sources
 - pkg:maven/co.paralleluniverse/capsule@0.9.0
 - pkg:maven/co.paralleluniverse/capsule@0.9.0?classifier=sources
+- pkg:maven/co.paralleluniverse/capsule@0.10.0
+- pkg:maven/co.paralleluniverse/capsule@0.10.0?classifier=sources

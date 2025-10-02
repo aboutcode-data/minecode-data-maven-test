@@ -28,3 +28,5 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-java_2.10@1.0.4?classifier=sources
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-java_2.10@1.1.0-beta2
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-java_2.10@1.1.0-beta2?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-java_2.10@1.1.0-rc1
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-java_2.10@1.1.0-rc1?classifier=sources

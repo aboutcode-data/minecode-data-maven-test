@@ -44,3 +44,7 @@
 - pkg:maven/com.cedarsoftware/java-util@1.11.3?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@1.12.0
 - pkg:maven/com.cedarsoftware/java-util@1.12.0?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@1.13.3
+- pkg:maven/com.cedarsoftware/java-util@1.13.3?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@1.13.0
+- pkg:maven/com.cedarsoftware/java-util@1.13.0?classifier=sources

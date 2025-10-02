@@ -2,3 +2,5 @@
 - pkg:maven/us.fatehi/schemacrawler-postgresql@11.01.01?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-postgresql@11.02.01
 - pkg:maven/us.fatehi/schemacrawler-postgresql@11.02.01?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-postgresql@12.01.01
+- pkg:maven/us.fatehi/schemacrawler-postgresql@12.01.01?classifier=sources
