@@ -130,3 +130,7 @@
 - pkg:maven/com.netflix.evcache/evcache-client@4.35.0?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-client@4.34.0
 - pkg:maven/com.netflix.evcache/evcache-client@4.34.0?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-client@4.38.0
+- pkg:maven/com.netflix.evcache/evcache-client@4.38.0?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-client@4.37.0
+- pkg:maven/com.netflix.evcache/evcache-client@4.37.0?classifier=sources
