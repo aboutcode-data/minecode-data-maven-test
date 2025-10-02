@@ -1,2 +1,4 @@
 - pkg:maven/co.cask.cdap/CountRandom@2.6.3
 - pkg:maven/co.cask.cdap/CountRandom@2.6.3?classifier=sources
+- pkg:maven/co.cask.cdap/CountRandom@3.0.1
+- pkg:maven/co.cask.cdap/CountRandom@3.0.1?classifier=sources

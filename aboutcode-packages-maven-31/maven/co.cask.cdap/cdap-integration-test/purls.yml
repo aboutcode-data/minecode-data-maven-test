@@ -6,3 +6,5 @@
 - pkg:maven/co.cask.cdap/cdap-integration-test@2.8.0?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-integration-test@3.0.0
 - pkg:maven/co.cask.cdap/cdap-integration-test@3.0.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-integration-test@3.0.1
+- pkg:maven/co.cask.cdap/cdap-integration-test@3.0.1?classifier=sources
