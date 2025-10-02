@@ -48,3 +48,5 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-session@1.10?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-session@1.11?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-session@1.11?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-session@1.12?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-session@1.12?classifier=sources

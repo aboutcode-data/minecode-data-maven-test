@@ -116,3 +116,7 @@
 - pkg:maven/org.jetbrains.kotlin/kunit@0.12.1218?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kunit@0.12.1230
 - pkg:maven/org.jetbrains.kotlin/kunit@0.12.1230?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kunit@0.13.1514
+- pkg:maven/org.jetbrains.kotlin/kunit@0.13.1514?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kunit@0.13.1513
+- pkg:maven/org.jetbrains.kotlin/kunit@0.13.1513?classifier=sources
