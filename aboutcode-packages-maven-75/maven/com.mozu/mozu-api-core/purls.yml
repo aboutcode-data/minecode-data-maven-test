@@ -86,3 +86,5 @@
 - pkg:maven/com.mozu/mozu-api-core@1.20.2?classifier=sources
 - pkg:maven/com.mozu/mozu-api-core@1.21.0-RC2
 - pkg:maven/com.mozu/mozu-api-core@1.21.0-RC2?classifier=sources
+- pkg:maven/com.mozu/mozu-api-core@1.21.0
+- pkg:maven/com.mozu/mozu-api-core@1.21.0?classifier=sources

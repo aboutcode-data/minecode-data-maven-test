@@ -10,3 +10,5 @@
 - pkg:maven/com.spotify/apollo-route@1.0.4?classifier=sources
 - pkg:maven/com.spotify/apollo-route@1.1.0
 - pkg:maven/com.spotify/apollo-route@1.1.0?classifier=sources
+- pkg:maven/com.spotify/apollo-route@1.2.0
+- pkg:maven/com.spotify/apollo-route@1.2.0?classifier=sources
