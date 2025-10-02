@@ -34,3 +34,5 @@
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@1.37?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@1.38?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@1.39?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@1.41?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@1.40?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/fi.otavanopisto.mwp.mwp-rest-client/mwp-rest-client@0.0.1
+- pkg:maven/fi.otavanopisto.mwp.mwp-rest-client/mwp-rest-client@0.0.3
+- pkg:maven/fi.otavanopisto.mwp.mwp-rest-client/mwp-rest-client@0.0.3?classifier=sources
+- pkg:maven/fi.otavanopisto.mwp.mwp-rest-client/mwp-rest-client@0.0.2

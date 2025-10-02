@@ -128,3 +128,7 @@
 - pkg:maven/com.proofpoint.platform/jmx-http@1.38?classifier=sources
 - pkg:maven/com.proofpoint.platform/jmx-http@1.39
 - pkg:maven/com.proofpoint.platform/jmx-http@1.39?classifier=sources
+- pkg:maven/com.proofpoint.platform/jmx-http@1.41
+- pkg:maven/com.proofpoint.platform/jmx-http@1.41?classifier=sources
+- pkg:maven/com.proofpoint.platform/jmx-http@1.40
+- pkg:maven/com.proofpoint.platform/jmx-http@1.40?classifier=sources
