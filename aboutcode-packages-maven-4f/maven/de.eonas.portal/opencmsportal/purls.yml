@@ -10,3 +10,5 @@
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.3?classifier=sources
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.4?type=war
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.4?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.5?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.5?classifier=sources

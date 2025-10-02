@@ -74,3 +74,5 @@
 - pkg:maven/info.cukes/cucumber-java@1.1.7?classifier=sources
 - pkg:maven/info.cukes/cucumber-java@1.1.8
 - pkg:maven/info.cukes/cucumber-java@1.1.8?classifier=sources
+- pkg:maven/info.cukes/cucumber-java@1.2.0
+- pkg:maven/info.cukes/cucumber-java@1.2.0?classifier=sources

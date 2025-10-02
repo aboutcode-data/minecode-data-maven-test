@@ -60,3 +60,7 @@
 - pkg:maven/de.ruedigermoeller/fst@2.09?classifier=sources
 - pkg:maven/de.ruedigermoeller/fst@1.62
 - pkg:maven/de.ruedigermoeller/fst@1.62?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.10
+- pkg:maven/de.ruedigermoeller/fst@2.10?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@1.63
+- pkg:maven/de.ruedigermoeller/fst@1.63?classifier=sources

@@ -123,3 +123,7 @@
 - pkg:maven/org.apache.camel/camel-xstream@2.12.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-xstream@2.14.0
 - pkg:maven/org.apache.camel/camel-xstream@2.14.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-xstream@2.13.3
+- pkg:maven/org.apache.camel/camel-xstream@2.13.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-xstream@2.12.5
+- pkg:maven/org.apache.camel/camel-xstream@2.12.5?classifier=sources

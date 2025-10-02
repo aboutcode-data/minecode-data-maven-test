@@ -59,3 +59,5 @@
 - pkg:maven/org.apache.camel/camel-spring-integration@2.13.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-integration@2.12.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-integration@2.14.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-integration@2.13.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-integration@2.12.5?classifier=sources

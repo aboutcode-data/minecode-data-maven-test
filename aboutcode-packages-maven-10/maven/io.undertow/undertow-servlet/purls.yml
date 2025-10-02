@@ -182,3 +182,9 @@
 - pkg:maven/io.undertow/undertow-servlet@1.2.0.Beta2?classifier=sources
 - pkg:maven/io.undertow/undertow-servlet@1.1.0.CR5
 - pkg:maven/io.undertow/undertow-servlet@1.1.0.CR5?classifier=sources
+- pkg:maven/io.undertow/undertow-servlet@1.2.0.Beta3
+- pkg:maven/io.undertow/undertow-servlet@1.2.0.Beta3?classifier=sources
+- pkg:maven/io.undertow/undertow-servlet@1.1.0.CR6
+- pkg:maven/io.undertow/undertow-servlet@1.1.0.CR6?classifier=sources
+- pkg:maven/io.undertow/undertow-servlet@1.0.17.Final
+- pkg:maven/io.undertow/undertow-servlet@1.0.17.Final?classifier=sources

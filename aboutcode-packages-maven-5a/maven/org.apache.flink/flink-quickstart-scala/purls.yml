@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.flink/flink-quickstart-scala@0.6.1-incubating?classifier=sources
 - pkg:maven/org.apache.flink/flink-quickstart-scala@0.6.1-hadoop2-incubating?classifier=sources
 - pkg:maven/org.apache.flink/flink-quickstart-scala@0.7.0-incubating?classifier=sources
+- pkg:maven/org.apache.flink/flink-quickstart-scala@0.7.0-hadoop2-incubating?classifier=sources
