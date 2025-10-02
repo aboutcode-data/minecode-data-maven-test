@@ -20,3 +20,5 @@
 - pkg:maven/org.igniterealtime.smack/smack-resolver-javax@4.1.0-alpha3?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-javax@4.1.0-alpha4
 - pkg:maven/org.igniterealtime.smack/smack-resolver-javax@4.1.0-alpha4?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-resolver-javax@4.0.5
+- pkg:maven/org.igniterealtime.smack/smack-resolver-javax@4.0.5?classifier=sources

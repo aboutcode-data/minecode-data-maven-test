@@ -4,3 +4,5 @@
 - pkg:maven/org.nhind/xd@1.0.1?classifier=sources
 - pkg:maven/org.nhind/xd@1.0.2?type=war
 - pkg:maven/org.nhind/xd@1.0.2?classifier=sources
+- pkg:maven/org.nhind/xd@1.0.3?type=war
+- pkg:maven/org.nhind/xd@1.0.3?classifier=sources
