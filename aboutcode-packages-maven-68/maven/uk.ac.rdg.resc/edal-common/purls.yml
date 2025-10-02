@@ -1,2 +1,4 @@
 - pkg:maven/uk.ac.rdg.resc/edal-common@0.9
 - pkg:maven/uk.ac.rdg.resc/edal-common@0.9?classifier=sources
+- pkg:maven/uk.ac.rdg.resc/edal-common@1.0-ALPHA
+- pkg:maven/uk.ac.rdg.resc/edal-common@1.0-ALPHA?classifier=sources

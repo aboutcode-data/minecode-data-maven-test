@@ -1,2 +1,3 @@
 - pkg:maven/uk.ac.rdg.resc/ncWMS@0.9?type=war
 - pkg:maven/uk.ac.rdg.resc/ncWMS@0.9?classifier=sources
+- pkg:maven/uk.ac.rdg.resc/ncWMS@2.0-ALPHA?type=war
