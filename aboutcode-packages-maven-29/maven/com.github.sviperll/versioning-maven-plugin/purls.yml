@@ -30,3 +30,5 @@
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.21?classifier=sources
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.22
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.22?classifier=sources
+- pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23-rc1
+- pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23-rc1?classifier=sources

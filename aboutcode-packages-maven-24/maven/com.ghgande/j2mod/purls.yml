@@ -4,3 +4,5 @@
 - pkg:maven/com.ghgande/j2mod@2.0-rc4?classifier=sources
 - pkg:maven/com.ghgande/j2mod@2.0-rc3
 - pkg:maven/com.ghgande/j2mod@2.0-rc3?classifier=sources
+- pkg:maven/com.ghgande/j2mod@2.0
+- pkg:maven/com.ghgande/j2mod@2.0?classifier=sources
