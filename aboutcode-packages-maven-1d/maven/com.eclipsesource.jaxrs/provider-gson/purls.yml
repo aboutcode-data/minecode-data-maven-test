@@ -2,3 +2,5 @@
 - pkg:maven/com.eclipsesource.jaxrs/provider-gson@1.0?classifier=sources
 - pkg:maven/com.eclipsesource.jaxrs/provider-gson@2.0
 - pkg:maven/com.eclipsesource.jaxrs/provider-gson@2.0?classifier=sources
+- pkg:maven/com.eclipsesource.jaxrs/provider-gson@2.0-SR1
+- pkg:maven/com.eclipsesource.jaxrs/provider-gson@2.0-SR1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.gistlabs/mechanize@0.11.2?classifier=sources
 - pkg:maven/com.gistlabs/mechanize@0.13.1
 - pkg:maven/com.gistlabs/mechanize@0.13.1?classifier=sources
+- pkg:maven/com.gistlabs/mechanize@1.0.0-RC1
+- pkg:maven/com.gistlabs/mechanize@1.0.0-RC1?classifier=sources

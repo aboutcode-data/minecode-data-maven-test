@@ -1,0 +1,5 @@
+- pkg:maven/com.baidu.disconf/disconf-core@2.6.2
+- pkg:maven/com.baidu.disconf/disconf-core@2.6.2?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-core@2.6.0?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-core@2.5.0?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-core@2.5?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.clashinspector/clashinspector-maven-plugin@0.3?classifier=sources
 - pkg:maven/com.clashinspector/clashinspector-maven-plugin@0.9
 - pkg:maven/com.clashinspector/clashinspector-maven-plugin@0.9?classifier=sources
+- pkg:maven/com.clashinspector/clashinspector-maven-plugin@1.0
+- pkg:maven/com.clashinspector/clashinspector-maven-plugin@1.0?classifier=sources

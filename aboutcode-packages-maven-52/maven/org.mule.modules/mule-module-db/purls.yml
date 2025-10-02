@@ -1,2 +1,4 @@
 - pkg:maven/org.mule.modules/mule-module-db@3.5.0-M4-RC2
 - pkg:maven/org.mule.modules/mule-module-db@3.5.0-M4
+- pkg:maven/org.mule.modules/mule-module-db@3.5.0
+- pkg:maven/org.mule.modules/mule-module-db@3.5.0?classifier=sources

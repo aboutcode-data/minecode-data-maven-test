@@ -212,3 +212,7 @@
 - pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.16.0-rc
+- pkg:maven/com.google.apis/google-api-services-fusiontables@v1-rev50-1.16.0-rc?classifier=sources
