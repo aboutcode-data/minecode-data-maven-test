@@ -12,3 +12,5 @@
 - pkg:maven/net.openhft/chronicle-wire@1.0.8-alpha?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@1.0.7-alpha
 - pkg:maven/net.openhft/chronicle-wire@1.0.7-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@1.0.9-alpha
+- pkg:maven/net.openhft/chronicle-wire@1.0.9-alpha?classifier=sources
