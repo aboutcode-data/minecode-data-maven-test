@@ -6,3 +6,5 @@
 - pkg:maven/com.diffplug.spotless/spotless-lib@1.0.0.BETA3?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-lib@1.0.0
 - pkg:maven/com.diffplug.spotless/spotless-lib@1.0.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-lib@1.1.0
+- pkg:maven/com.diffplug.spotless/spotless-lib@1.1.0?classifier=sources

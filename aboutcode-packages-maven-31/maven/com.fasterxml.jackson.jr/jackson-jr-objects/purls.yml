@@ -108,3 +108,5 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.7.9?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.8.7
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.8.7?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.9.0.pr1
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.9.0.pr1?classifier=sources
