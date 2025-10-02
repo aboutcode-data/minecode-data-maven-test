@@ -2,3 +2,5 @@
 - pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.2?classifier=sources
 - pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.3?type=war
 - pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.3?classifier=sources
+- pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.4?type=war
+- pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.4?classifier=sources

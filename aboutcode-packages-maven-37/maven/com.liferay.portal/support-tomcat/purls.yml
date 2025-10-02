@@ -22,3 +22,5 @@
 - pkg:maven/com.liferay.portal/support-tomcat@6.2.0-RC4?classifier=sources
 - pkg:maven/com.liferay.portal/support-tomcat@6.2.0-RC3
 - pkg:maven/com.liferay.portal/support-tomcat@6.2.0-RC3?classifier=sources
+- pkg:maven/com.liferay.portal/support-tomcat@6.2.0-RC5
+- pkg:maven/com.liferay.portal/support-tomcat@6.2.0-RC5?classifier=sources

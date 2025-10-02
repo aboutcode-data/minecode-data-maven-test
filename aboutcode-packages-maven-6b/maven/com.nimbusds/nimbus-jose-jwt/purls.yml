@@ -36,3 +36,7 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@2.18.2?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@2.19
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@2.19?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.20
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.20?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.19.1
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@2.19.1?classifier=sources
