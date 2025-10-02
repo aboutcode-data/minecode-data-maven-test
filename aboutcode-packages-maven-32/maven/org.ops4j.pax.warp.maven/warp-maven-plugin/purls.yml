@@ -10,3 +10,7 @@
 - pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.5.0?classifier=sources
 - pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.6.0
 - pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.6.0?classifier=sources
+- pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.6.2
+- pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.6.2?classifier=sources
+- pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.6.1
+- pkg:maven/org.ops4j.pax.warp.maven/warp-maven-plugin@0.6.1?classifier=sources
