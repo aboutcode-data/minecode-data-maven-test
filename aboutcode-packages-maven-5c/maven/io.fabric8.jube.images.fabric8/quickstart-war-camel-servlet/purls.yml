@@ -30,3 +30,9 @@
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.19?classifier=sources
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.20?type=war
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.20?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.24?type=war
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.24?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.23?type=war
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.23?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.21?type=war
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-camel-servlet@2.0.21?classifier=sources

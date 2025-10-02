@@ -144,3 +144,5 @@
 - pkg:maven/com.hazelcast/hazelcast-cloud@3.4?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-cloud@3.3.4
 - pkg:maven/com.hazelcast/hazelcast-cloud@3.3.4?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-cloud@3.3.5
+- pkg:maven/com.hazelcast/hazelcast-cloud@3.3.5?classifier=sources

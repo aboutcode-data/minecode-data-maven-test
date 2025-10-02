@@ -152,3 +152,5 @@
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.3.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.4.0.beta2
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.4.0.beta2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client-compiler@7.3.9
+- pkg:maven/com.vaadin/vaadin-client-compiler@7.3.9?classifier=sources

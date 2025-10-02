@@ -50,3 +50,5 @@
 - pkg:maven/io.airlift/event@0.98?classifier=sources
 - pkg:maven/io.airlift/event@0.99
 - pkg:maven/io.airlift/event@0.99?classifier=sources
+- pkg:maven/io.airlift/event@0.100
+- pkg:maven/io.airlift/event@0.100?classifier=sources

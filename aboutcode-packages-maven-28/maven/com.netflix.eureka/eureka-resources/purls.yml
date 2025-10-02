@@ -78,3 +78,7 @@
 - pkg:maven/com.netflix.eureka/eureka-resources@1.1.145?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-resources@1.1.146
 - pkg:maven/com.netflix.eureka/eureka-resources@1.1.146?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-resources@1.1.147-rc.1
+- pkg:maven/com.netflix.eureka/eureka-resources@1.1.147-rc.1?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-resources@1.1.147
+- pkg:maven/com.netflix.eureka/eureka-resources@1.1.147?classifier=sources
