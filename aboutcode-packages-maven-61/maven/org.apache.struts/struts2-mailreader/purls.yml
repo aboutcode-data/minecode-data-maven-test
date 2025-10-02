@@ -77,3 +77,5 @@
 - pkg:maven/org.apache.struts/struts2-mailreader@2.3.24?classifier=sources
 - pkg:maven/org.apache.struts/struts2-mailreader@2.3.24.1?type=war
 - pkg:maven/org.apache.struts/struts2-mailreader@2.3.24.1?classifier=sources
+- pkg:maven/org.apache.struts/struts2-mailreader@2.3.28?type=war
+- pkg:maven/org.apache.struts/struts2-mailreader@2.3.28?classifier=sources
