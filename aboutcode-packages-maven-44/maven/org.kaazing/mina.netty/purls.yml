@@ -162,3 +162,7 @@
 - pkg:maven/org.kaazing/mina.netty@5.3.2-RC001?classifier=sources
 - pkg:maven/org.kaazing/mina.netty@5.3.1
 - pkg:maven/org.kaazing/mina.netty@5.3.1?classifier=sources
+- pkg:maven/org.kaazing/mina.netty@5.4.0-RC001
+- pkg:maven/org.kaazing/mina.netty@5.4.0-RC001?classifier=sources
+- pkg:maven/org.kaazing/mina.netty@5.3.2
+- pkg:maven/org.kaazing/mina.netty@5.3.2?classifier=sources

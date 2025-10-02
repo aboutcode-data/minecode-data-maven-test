@@ -10,3 +10,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-model@3.3.7?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-model@3.4.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-model@3.4.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-model@4.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-model@4.0.0?classifier=sources
