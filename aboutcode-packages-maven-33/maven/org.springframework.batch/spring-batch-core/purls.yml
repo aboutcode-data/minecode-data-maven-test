@@ -62,3 +62,7 @@
 - pkg:maven/org.springframework.batch/spring-batch-core@2.2.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-core@2.2.6.RELEASE
 - pkg:maven/org.springframework.batch/spring-batch-core@2.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-core@3.0.0.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-core@3.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-core@2.2.7.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-core@2.2.7.RELEASE?classifier=sources
