@@ -6,3 +6,5 @@
 - pkg:maven/com.googlecode.slotted/slotted@0.2rc2?classifier=sources
 - pkg:maven/com.googlecode.slotted/slotted@0.2rc3
 - pkg:maven/com.googlecode.slotted/slotted@0.2rc3?classifier=sources
+- pkg:maven/com.googlecode.slotted/slotted@0.2
+- pkg:maven/com.googlecode.slotted/slotted@0.2?classifier=sources
