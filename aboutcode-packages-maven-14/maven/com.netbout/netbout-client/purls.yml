@@ -76,3 +76,5 @@
 - pkg:maven/com.netbout/netbout-client@2.16.2?classifier=sources
 - pkg:maven/com.netbout/netbout-client@2.17
 - pkg:maven/com.netbout/netbout-client@2.17?classifier=sources
+- pkg:maven/com.netbout/netbout-client@2.17.1
+- pkg:maven/com.netbout/netbout-client@2.17.1?classifier=sources

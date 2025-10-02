@@ -50,3 +50,5 @@
 - pkg:maven/com.netflix.feign/feign-jaxb@8.8.1?classifier=sources
 - pkg:maven/com.netflix.feign/feign-jaxb@8.8.0
 - pkg:maven/com.netflix.feign/feign-jaxb@8.8.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-jaxb@8.10.0
+- pkg:maven/com.netflix.feign/feign-jaxb@8.10.0?classifier=sources
