@@ -1,2 +1,4 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.3
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.3?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.4
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.4?classifier=sources

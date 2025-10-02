@@ -224,3 +224,5 @@
 - pkg:maven/org.atmosphere/atmosphere-annotations@2.2.2?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-annotations@2.0.10
 - pkg:maven/org.atmosphere/atmosphere-annotations@2.0.10?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-annotations@2.2.3
+- pkg:maven/org.atmosphere/atmosphere-annotations@2.2.3?classifier=sources

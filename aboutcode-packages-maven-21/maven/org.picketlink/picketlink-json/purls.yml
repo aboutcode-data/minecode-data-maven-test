@@ -18,3 +18,5 @@
 - pkg:maven/org.picketlink/picketlink-json@2.7.0.Beta2?classifier=sources
 - pkg:maven/org.picketlink/picketlink-json@2.7.0.CR1-20140924
 - pkg:maven/org.picketlink/picketlink-json@2.7.0.CR1-20140924?classifier=sources
+- pkg:maven/org.picketlink/picketlink-json@2.7.0.CR1
+- pkg:maven/org.picketlink/picketlink-json@2.7.0.CR1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.eluder.coveralls/coveralls-maven-plugin@2.1.0?classifier=sources
 - pkg:maven/org.eluder.coveralls/coveralls-maven-plugin@2.2.0
 - pkg:maven/org.eluder.coveralls/coveralls-maven-plugin@2.2.0?classifier=sources
+- pkg:maven/org.eluder.coveralls/coveralls-maven-plugin@3.0.0
+- pkg:maven/org.eluder.coveralls/coveralls-maven-plugin@3.0.0?classifier=sources

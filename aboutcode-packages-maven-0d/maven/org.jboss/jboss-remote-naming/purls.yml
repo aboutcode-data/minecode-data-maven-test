@@ -40,3 +40,7 @@
 - pkg:maven/org.jboss/jboss-remote-naming@2.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-remote-naming@1.0.9.Final
 - pkg:maven/org.jboss/jboss-remote-naming@1.0.9.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-remote-naming@2.0.3.Final
+- pkg:maven/org.jboss/jboss-remote-naming@2.0.3.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-remote-naming@2.0.2.Final
+- pkg:maven/org.jboss/jboss-remote-naming@2.0.2.Final?classifier=sources

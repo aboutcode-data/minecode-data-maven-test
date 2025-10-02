@@ -132,3 +132,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@1.0.19?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@2.2.2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@2.2.2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@2.2.3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@2.2.3?classifier=sources
