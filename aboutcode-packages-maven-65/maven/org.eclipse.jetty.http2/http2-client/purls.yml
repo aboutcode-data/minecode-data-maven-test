@@ -32,3 +32,5 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-client@9.3.7.v20160115?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-client@9.3.7.RC1
 - pkg:maven/org.eclipse.jetty.http2/http2-client@9.3.7.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-client@9.3.8.RC0
+- pkg:maven/org.eclipse.jetty.http2/http2-client@9.3.8.RC0?classifier=sources

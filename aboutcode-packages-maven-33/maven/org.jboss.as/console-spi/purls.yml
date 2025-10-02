@@ -222,3 +222,7 @@
 - pkg:maven/org.jboss.as/console-spi@2.8.21.Final?classifier=sources
 - pkg:maven/org.jboss.as/console-spi@2.8.20.Final
 - pkg:maven/org.jboss.as/console-spi@2.8.20.Final?classifier=sources
+- pkg:maven/org.jboss.as/console-spi@2.8.22.Final
+- pkg:maven/org.jboss.as/console-spi@2.8.22.Final?classifier=sources
+- pkg:maven/org.jboss.as/console-spi@2.5.12.Final
+- pkg:maven/org.jboss.as/console-spi@2.5.12.Final?classifier=sources

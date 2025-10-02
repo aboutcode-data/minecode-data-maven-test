@@ -20,3 +20,5 @@
 - pkg:maven/org.keycloak/keycloak-saml-jetty91-adapter@1.9.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-saml-jetty91-adapter@1.8.1.Final
 - pkg:maven/org.keycloak/keycloak-saml-jetty91-adapter@1.8.1.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-jetty91-adapter@1.9.0.Final
+- pkg:maven/org.keycloak/keycloak-saml-jetty91-adapter@1.9.0.Final?classifier=sources
