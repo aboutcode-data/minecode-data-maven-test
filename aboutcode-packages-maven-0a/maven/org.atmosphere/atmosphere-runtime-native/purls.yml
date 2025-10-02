@@ -32,3 +32,5 @@
 - pkg:maven/org.atmosphere/atmosphere-runtime-native@2.1.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-runtime-native@2.1.1
 - pkg:maven/org.atmosphere/atmosphere-runtime-native@2.1.1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-runtime-native@2.0.8
+- pkg:maven/org.atmosphere/atmosphere-runtime-native@2.0.8?classifier=sources
