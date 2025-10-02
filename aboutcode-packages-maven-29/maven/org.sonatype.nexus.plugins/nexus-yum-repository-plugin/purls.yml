@@ -8,3 +8,6 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.0-05?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.0-06?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.2-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.2-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.2-01?classifier=sources

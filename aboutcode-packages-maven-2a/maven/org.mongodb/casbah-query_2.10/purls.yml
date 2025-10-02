@@ -14,3 +14,5 @@
 - pkg:maven/org.mongodb/casbah-query_2.10@2.6.4?classifier=sources
 - pkg:maven/org.mongodb/casbah-query_2.10@2.6.5
 - pkg:maven/org.mongodb/casbah-query_2.10@2.6.5?classifier=sources
+- pkg:maven/org.mongodb/casbah-query_2.10@2.7.0-RC0
+- pkg:maven/org.mongodb/casbah-query_2.10@2.7.0-RC0?classifier=sources

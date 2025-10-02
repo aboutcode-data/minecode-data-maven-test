@@ -90,3 +90,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-java@2.38.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-java@2.39.0
 - pkg:maven/org.seleniumhq.selenium/selenium-java@2.39.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-java@2.40.0
+- pkg:maven/org.seleniumhq.selenium/selenium-java@2.40.0?classifier=sources

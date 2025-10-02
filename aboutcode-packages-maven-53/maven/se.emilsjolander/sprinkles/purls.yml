@@ -22,3 +22,5 @@
 - pkg:maven/se.emilsjolander/sprinkles@1.1.2?classifier=sources
 - pkg:maven/se.emilsjolander/sprinkles@1.2.0?type=aar
 - pkg:maven/se.emilsjolander/sprinkles@1.2.0?classifier=sources
+- pkg:maven/se.emilsjolander/sprinkles@1.2.1?type=aar
+- pkg:maven/se.emilsjolander/sprinkles@1.2.1?classifier=sources

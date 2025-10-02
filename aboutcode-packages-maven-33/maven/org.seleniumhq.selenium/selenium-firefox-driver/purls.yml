@@ -110,3 +110,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-firefox-driver@2.38.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-firefox-driver@2.39.0
 - pkg:maven/org.seleniumhq.selenium/selenium-firefox-driver@2.39.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-firefox-driver@2.40.0
+- pkg:maven/org.seleniumhq.selenium/selenium-firefox-driver@2.40.0?classifier=sources

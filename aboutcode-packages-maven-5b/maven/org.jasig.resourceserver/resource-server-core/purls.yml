@@ -48,3 +48,7 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.34?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.35-M1
 - pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.35-M1?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.36
+- pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.36?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.35
+- pkg:maven/org.jasig.resourceserver/resource-server-core@1.0.35?classifier=sources
