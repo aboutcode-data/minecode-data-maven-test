@@ -12,3 +12,7 @@
 - pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-RC-13?classifier=sources
 - pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-RC-15?type=zip
 - pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-RC-15?classifier=sources
+- pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-RC-31?type=zip
+- pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-RC-31?classifier=sources
+- pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-FE-CORE-REL_PR11-1?type=zip
+- pkg:maven/ch.inftec.flyway/flyway-extension-commandline@1.0.0-FE-CORE-REL_PR11-1?classifier=sources
