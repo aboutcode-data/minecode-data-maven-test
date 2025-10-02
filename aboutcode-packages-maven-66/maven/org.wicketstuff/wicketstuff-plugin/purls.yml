@@ -16,3 +16,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@1.5.4?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@1.5.5
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@1.5.5?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-plugin@6.0.0-beta1
+- pkg:maven/org.wicketstuff/wicketstuff-plugin@6.0.0-beta1?classifier=sources

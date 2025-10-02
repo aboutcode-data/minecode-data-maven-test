@@ -50,3 +50,7 @@
 - pkg:maven/com.netflix.curator/curator-recipes@1.1.7?classifier=sources
 - pkg:maven/com.netflix.curator/curator-recipes@1.0.8
 - pkg:maven/com.netflix.curator/curator-recipes@1.0.8?classifier=sources
+- pkg:maven/com.netflix.curator/curator-recipes@1.1.8
+- pkg:maven/com.netflix.curator/curator-recipes@1.1.8?classifier=sources
+- pkg:maven/com.netflix.curator/curator-recipes@1.0.9
+- pkg:maven/com.netflix.curator/curator-recipes@1.0.9?classifier=sources

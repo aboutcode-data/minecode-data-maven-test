@@ -148,3 +148,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-hibernate-search@2.3.2?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-hibernate-search@2.3.3
 - pkg:maven/com.mysema.querydsl/querydsl-hibernate-search@2.3.3?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-hibernate-search@2.5.0
+- pkg:maven/com.mysema.querydsl/querydsl-hibernate-search@2.5.0?classifier=sources

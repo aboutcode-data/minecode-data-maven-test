@@ -44,3 +44,5 @@
 - pkg:maven/org.wicketstuff/ddcalendar-examples@1.4.19?classifier=sources
 - pkg:maven/org.wicketstuff/ddcalendar-examples@1.4.20?type=war
 - pkg:maven/org.wicketstuff/ddcalendar-examples@1.4.20?classifier=sources
+- pkg:maven/org.wicketstuff/ddcalendar-examples@1.4.20.1?type=war
+- pkg:maven/org.wicketstuff/ddcalendar-examples@1.4.20.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/org.neo4j/neo4j-community@1.7.M03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-community@1.6.2
 - pkg:maven/org.neo4j/neo4j-community@1.6.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-community@1.7
+- pkg:maven/org.neo4j/neo4j-community@1.7?classifier=sources
