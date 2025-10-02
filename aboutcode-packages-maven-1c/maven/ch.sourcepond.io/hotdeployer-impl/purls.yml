@@ -10,3 +10,7 @@
 - pkg:maven/ch.sourcepond.io/hotdeployer-impl@1.0.4?classifier=sources
 - pkg:maven/ch.sourcepond.io/hotdeployer-impl@1.0.3
 - pkg:maven/ch.sourcepond.io/hotdeployer-impl@1.0.3?classifier=sources
+- pkg:maven/ch.sourcepond.io/hotdeployer-impl@2.1.0
+- pkg:maven/ch.sourcepond.io/hotdeployer-impl@2.1.0?classifier=sources
+- pkg:maven/ch.sourcepond.io/hotdeployer-impl@2.0.0
+- pkg:maven/ch.sourcepond.io/hotdeployer-impl@2.0.0?classifier=sources

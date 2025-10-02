@@ -58,3 +58,7 @@
 - pkg:maven/tools.xor/xor@1.4.13?classifier=sources
 - pkg:maven/tools.xor/xor@1.4.12
 - pkg:maven/tools.xor/xor@1.4.12?classifier=sources
+- pkg:maven/tools.xor/xor@1.6.0
+- pkg:maven/tools.xor/xor@1.6.0?classifier=sources
+- pkg:maven/tools.xor/xor@1.5.2
+- pkg:maven/tools.xor/xor@1.5.2?classifier=sources

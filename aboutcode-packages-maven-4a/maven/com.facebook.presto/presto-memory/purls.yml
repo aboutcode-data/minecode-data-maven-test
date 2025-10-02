@@ -2,3 +2,5 @@
 - pkg:maven/com.facebook.presto/presto-memory@0.169?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.170?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.171?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.173?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.172?classifier=sources
