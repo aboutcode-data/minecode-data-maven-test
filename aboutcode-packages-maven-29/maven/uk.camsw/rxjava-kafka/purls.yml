@@ -1,2 +1,4 @@
 - pkg:maven/uk.camsw/rxjava-kafka@3.0.0
 - pkg:maven/uk.camsw/rxjava-kafka@3.0.0?classifier=sources
+- pkg:maven/uk.camsw/rxjava-kafka@4.0.0
+- pkg:maven/uk.camsw/rxjava-kafka@4.0.0?classifier=sources
