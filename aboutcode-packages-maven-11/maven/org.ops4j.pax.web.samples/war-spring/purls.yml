@@ -72,3 +72,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@4.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@4.2.4?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@4.2.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-spring@3.2.7?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-spring@3.2.7?classifier=sources

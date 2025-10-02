@@ -22,3 +22,5 @@
 - pkg:maven/org.smallmind/smallmind-instrument@1.8.6?classifier=sources
 - pkg:maven/org.smallmind/smallmind-instrument@2.0.1
 - pkg:maven/org.smallmind/smallmind-instrument@2.0.1?classifier=sources
+- pkg:maven/org.smallmind/smallmind-instrument@2.2.1
+- pkg:maven/org.smallmind/smallmind-instrument@2.2.1?classifier=sources

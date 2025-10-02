@@ -22,3 +22,5 @@
 - pkg:maven/org.pantsbuild/junit-runner@0.0.12?classifier=sources
 - pkg:maven/org.pantsbuild/junit-runner@0.0.13
 - pkg:maven/org.pantsbuild/junit-runner@0.0.13?classifier=sources
+- pkg:maven/org.pantsbuild/junit-runner@1.0.0
+- pkg:maven/org.pantsbuild/junit-runner@1.0.0?classifier=sources
