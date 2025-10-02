@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.activemq.tooling/activemq-perf-maven-plugin@5.11.3?classifier=sources
 - pkg:maven/org.apache.activemq.tooling/activemq-perf-maven-plugin@5.13.0
 - pkg:maven/org.apache.activemq.tooling/activemq-perf-maven-plugin@5.13.0?classifier=sources
+- pkg:maven/org.apache.activemq.tooling/activemq-perf-maven-plugin@5.12.2
+- pkg:maven/org.apache.activemq.tooling/activemq-perf-maven-plugin@5.12.2?classifier=sources

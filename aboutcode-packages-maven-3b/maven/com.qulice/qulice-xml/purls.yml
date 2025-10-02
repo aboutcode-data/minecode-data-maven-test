@@ -66,3 +66,7 @@
 - pkg:maven/com.qulice/qulice-xml@0.14.2?classifier=sources
 - pkg:maven/com.qulice/qulice-xml@0.15
 - pkg:maven/com.qulice/qulice-xml@0.15?classifier=sources
+- pkg:maven/com.qulice/qulice-xml@0.15.2
+- pkg:maven/com.qulice/qulice-xml@0.15.2?classifier=sources
+- pkg:maven/com.qulice/qulice-xml@0.15.1
+- pkg:maven/com.qulice/qulice-xml@0.15.1?classifier=sources
