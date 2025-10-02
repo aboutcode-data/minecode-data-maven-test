@@ -42,3 +42,7 @@
 - pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.9a?classifier=sources
 - pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.9
 - pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.9?classifier=sources
+- pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.10a
+- pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.10a?classifier=sources
+- pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.10
+- pkg:maven/org.http4s/http4s-server-metrics_2.10@0.15.10?classifier=sources

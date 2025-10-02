@@ -188,3 +188,6 @@
 - pkg:maven/org.jboss.remoting/jboss-remoting@4.0.22.Final
 - pkg:maven/org.jboss.remoting/jboss-remoting@4.0.22.Final?classifier=sources
 - pkg:maven/org.jboss.remoting/jboss-remoting@4.0.22.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta20
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta20?classifier=sources
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta20?classifier=source-release&type=zip
