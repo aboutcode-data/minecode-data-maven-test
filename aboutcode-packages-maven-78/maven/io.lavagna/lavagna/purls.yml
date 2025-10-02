@@ -2,3 +2,5 @@
 - pkg:maven/io.lavagna/lavagna@1.0-M3?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.0-M2?type=war
 - pkg:maven/io.lavagna/lavagna@1.0-M2?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.0?type=war
+- pkg:maven/io.lavagna/lavagna@1.0?classifier=sources

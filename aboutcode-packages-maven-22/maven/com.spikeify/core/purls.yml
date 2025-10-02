@@ -14,3 +14,5 @@
 - pkg:maven/com.spikeify/core@0.1-alpha-14?classifier=sources
 - pkg:maven/com.spikeify/core@0.1-alpha-15
 - pkg:maven/com.spikeify/core@0.1-alpha-15?classifier=sources
+- pkg:maven/com.spikeify/core@0.1
+- pkg:maven/com.spikeify/core@0.1?classifier=sources

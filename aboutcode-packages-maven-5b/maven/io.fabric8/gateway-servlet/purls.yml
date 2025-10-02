@@ -178,3 +178,7 @@
 - pkg:maven/io.fabric8/gateway-servlet@2.2.18?classifier=sources
 - pkg:maven/io.fabric8/gateway-servlet@2.2.17
 - pkg:maven/io.fabric8/gateway-servlet@2.2.17?classifier=sources
+- pkg:maven/io.fabric8/gateway-servlet@2.2.21
+- pkg:maven/io.fabric8/gateway-servlet@2.2.21?classifier=sources
+- pkg:maven/io.fabric8/gateway-servlet@2.2.20
+- pkg:maven/io.fabric8/gateway-servlet@2.2.20?classifier=sources
