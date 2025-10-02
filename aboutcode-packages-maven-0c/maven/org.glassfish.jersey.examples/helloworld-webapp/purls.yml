@@ -6,3 +6,7 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m03?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m04?type=war
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m04?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m04-1?type=war
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m04-1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m04-2?type=war
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m04-2?classifier=sources

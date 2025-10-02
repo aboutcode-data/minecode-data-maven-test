@@ -12,3 +12,7 @@
 - pkg:maven/com.google.http-client/google-http-client@1.9.0-beta?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client@1.10.0-beta
 - pkg:maven/com.google.http-client/google-http-client@1.10.0-beta?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client@1.10.2-beta
+- pkg:maven/com.google.http-client/google-http-client@1.10.2-beta?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client@1.10.1-beta
+- pkg:maven/com.google.http-client/google-http-client@1.10.1-beta?classifier=sources

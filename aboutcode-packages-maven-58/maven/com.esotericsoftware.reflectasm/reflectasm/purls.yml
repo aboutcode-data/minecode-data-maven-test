@@ -1,2 +1,4 @@
 - pkg:maven/com.esotericsoftware.reflectasm/reflectasm@1.03
 - pkg:maven/com.esotericsoftware.reflectasm/reflectasm@1.03?classifier=sources
+- pkg:maven/com.esotericsoftware.reflectasm/reflectasm@1.04
+- pkg:maven/com.esotericsoftware.reflectasm/reflectasm@1.04?classifier=sources

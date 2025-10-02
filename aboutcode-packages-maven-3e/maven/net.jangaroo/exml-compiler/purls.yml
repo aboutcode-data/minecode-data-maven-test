@@ -36,3 +36,5 @@
 - pkg:maven/net.jangaroo/exml-compiler@0.9.14?classifier=sources
 - pkg:maven/net.jangaroo/exml-compiler@0.9.15
 - pkg:maven/net.jangaroo/exml-compiler@0.9.15?classifier=sources
+- pkg:maven/net.jangaroo/exml-compiler@2.0-preview-1
+- pkg:maven/net.jangaroo/exml-compiler@2.0-preview-1?classifier=sources
