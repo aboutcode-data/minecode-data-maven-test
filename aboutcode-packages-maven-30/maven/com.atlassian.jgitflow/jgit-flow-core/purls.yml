@@ -28,3 +28,7 @@
 - pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.19?classifier=sources
 - pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.18
 - pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.18?classifier=sources
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.21
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.21?classifier=sources
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.20
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.20?classifier=sources
