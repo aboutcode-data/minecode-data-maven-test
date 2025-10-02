@@ -1,2 +1,4 @@
 - pkg:maven/com.stormpath.spring/stormpath-spring-webmvc@1.0.RC4
 - pkg:maven/com.stormpath.spring/stormpath-spring-webmvc@1.0.RC4?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-webmvc@1.0.RC4.1
+- pkg:maven/com.stormpath.spring/stormpath-spring-webmvc@1.0.RC4.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/edu.uiuc.ncsa.security/ncsa-security-servlet@1.2?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.security/ncsa-security-servlet@1.2.1
 - pkg:maven/edu.uiuc.ncsa.security/ncsa-security-servlet@1.2.1?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.security/ncsa-security-servlet@3.0
+- pkg:maven/edu.uiuc.ncsa.security/ncsa-security-servlet@3.0?classifier=sources

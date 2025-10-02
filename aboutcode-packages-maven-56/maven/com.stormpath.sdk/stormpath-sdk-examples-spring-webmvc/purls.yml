@@ -1,2 +1,4 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-spring-webmvc@1.0.RC4?type=war
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-spring-webmvc@1.0.RC4?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-spring-webmvc@1.0.RC4.1?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-spring-webmvc@1.0.RC4.1?classifier=sources
