@@ -4,3 +4,5 @@
 - pkg:maven/org.kevoree/org.kevoree.maven.resolver@2?classifier=sources
 - pkg:maven/org.kevoree/org.kevoree.maven.resolver@3
 - pkg:maven/org.kevoree/org.kevoree.maven.resolver@3?classifier=sources
+- pkg:maven/org.kevoree/org.kevoree.maven.resolver@4
+- pkg:maven/org.kevoree/org.kevoree.maven.resolver@4?classifier=sources

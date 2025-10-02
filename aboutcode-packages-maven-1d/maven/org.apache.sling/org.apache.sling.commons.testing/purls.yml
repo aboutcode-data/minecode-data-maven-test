@@ -17,3 +17,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.14
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.14?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.16
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.16?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.16?classifier=source-release&type=zip

@@ -1,2 +1,4 @@
 - pkg:maven/net.virtalab/vson@1.0
 - pkg:maven/net.virtalab/vson@1.0?classifier=sources
+- pkg:maven/net.virtalab/vson@1.1
+- pkg:maven/net.virtalab/vson@1.1?classifier=sources

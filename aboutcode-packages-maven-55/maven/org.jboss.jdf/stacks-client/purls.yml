@@ -18,3 +18,5 @@
 - pkg:maven/org.jboss.jdf/stacks-client@1.0.2.CR4?classifier=sources
 - pkg:maven/org.jboss.jdf/stacks-client@1.0.2.Final
 - pkg:maven/org.jboss.jdf/stacks-client@1.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.jdf/stacks-client@1.0.3.CR1
+- pkg:maven/org.jboss.jdf/stacks-client@1.0.3.CR1?classifier=sources

@@ -110,3 +110,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-aws@1.13.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-aws@1.15.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-aws@1.15.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-cloud-aws@1.16.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-cloud-aws@1.16.0?classifier=sources

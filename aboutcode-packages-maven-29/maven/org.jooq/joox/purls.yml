@@ -12,3 +12,5 @@
 - pkg:maven/org.jooq/joox@0.9.4?classifier=sources
 - pkg:maven/org.jooq/joox@1.1.0
 - pkg:maven/org.jooq/joox@1.1.0?classifier=sources
+- pkg:maven/org.jooq/joox@1.2.0
+- pkg:maven/org.jooq/joox@1.2.0?classifier=sources
