@@ -102,3 +102,5 @@
 - pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.0.0.Beta3?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.0.0.Beta5
 - pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.0.0.Beta5?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.0.0.Beta6
+- pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.0.0.Beta6?classifier=sources

@@ -64,3 +64,7 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@3.1.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@3.3.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@3.3.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.0.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@3.4.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@3.4.0.RELEASE?classifier=sources

@@ -112,3 +112,5 @@
 - pkg:maven/org.springframework/spring-context-support@3.2.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@4.2.0.RELEASE
 - pkg:maven/org.springframework/spring-context-support@4.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-context-support@4.2.1.RELEASE
+- pkg:maven/org.springframework/spring-context-support@4.2.1.RELEASE?classifier=sources

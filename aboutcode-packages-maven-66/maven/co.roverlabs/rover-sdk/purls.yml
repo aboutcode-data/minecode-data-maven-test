@@ -6,3 +6,5 @@
 - pkg:maven/co.roverlabs/rover-sdk@0.2.2?classifier=sources
 - pkg:maven/co.roverlabs/rover-sdk@0.2.0?type=aar
 - pkg:maven/co.roverlabs/rover-sdk@0.2.0?classifier=sources
+- pkg:maven/co.roverlabs/rover-sdk@0.2.3?type=aar
+- pkg:maven/co.roverlabs/rover-sdk@0.2.3?classifier=sources
