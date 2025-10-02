@@ -29,3 +29,5 @@
 - pkg:maven/org.rhq/rhq-hudson-plugin@4.8.0?classifier=sources
 - pkg:maven/org.rhq/rhq-hudson-plugin@4.9.0
 - pkg:maven/org.rhq/rhq-hudson-plugin@4.9.0?classifier=sources
+- pkg:maven/org.rhq/rhq-hudson-plugin@4.10.0
+- pkg:maven/org.rhq/rhq-hudson-plugin@4.10.0?classifier=sources

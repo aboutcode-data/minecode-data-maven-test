@@ -26,3 +26,5 @@
 - pkg:maven/org.jvnet.winp/winp@1.1?classifier=sources
 - pkg:maven/org.jvnet.winp/winp@1.0
 - pkg:maven/org.jvnet.winp/winp@1.0?classifier=sources
+- pkg:maven/org.jvnet.winp/winp@1.18
+- pkg:maven/org.jvnet.winp/winp@1.18?classifier=sources
