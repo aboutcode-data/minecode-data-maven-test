@@ -74,3 +74,7 @@
 - pkg:maven/org.jomc/jomc-model@1.8?classifier=sources
 - pkg:maven/org.jomc/jomc-model@1.9
 - pkg:maven/org.jomc/jomc-model@1.9?classifier=sources
+- pkg:maven/org.jomc/jomc-model@1.10.1
+- pkg:maven/org.jomc/jomc-model@1.10.1?classifier=sources
+- pkg:maven/org.jomc/jomc-model@1.10
+- pkg:maven/org.jomc/jomc-model@1.10?classifier=sources

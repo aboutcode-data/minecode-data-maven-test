@@ -66,3 +66,5 @@
 - pkg:maven/org.jomc/jomc-spi@1.8?classifier=sources
 - pkg:maven/org.jomc/jomc-spi@1.9
 - pkg:maven/org.jomc/jomc-spi@1.9?classifier=sources
+- pkg:maven/org.jomc/jomc-spi@1.10
+- pkg:maven/org.jomc/jomc-spi@1.10?classifier=sources

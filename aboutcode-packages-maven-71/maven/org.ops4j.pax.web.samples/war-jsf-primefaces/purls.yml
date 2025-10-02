@@ -94,3 +94,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf-primefaces@4.2.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf-primefaces@4.2.8?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf-primefaces@4.2.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf-primefaces@4.3.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf-primefaces@4.3.0?classifier=sources
