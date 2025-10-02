@@ -776,3 +776,5 @@
 - pkg:maven/io.fabric8/fabric8-maven-plugin@2.2.204?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-plugin@2.2.203
 - pkg:maven/io.fabric8/fabric8-maven-plugin@2.2.203?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-plugin@3.3.0
+- pkg:maven/io.fabric8/fabric8-maven-plugin@3.3.0?classifier=sources

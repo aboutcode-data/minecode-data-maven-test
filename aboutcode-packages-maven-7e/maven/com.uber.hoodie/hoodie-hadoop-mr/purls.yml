@@ -8,3 +8,7 @@
 - pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.3.0?classifier=sources
 - pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.2.14
 - pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.2.14?classifier=sources
+- pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.3.2
+- pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.3.2?classifier=sources
+- pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.2.15
+- pkg:maven/com.uber.hoodie/hoodie-hadoop-mr@0.2.15?classifier=sources
