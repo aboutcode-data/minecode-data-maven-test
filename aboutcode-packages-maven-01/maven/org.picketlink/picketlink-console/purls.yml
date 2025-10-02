@@ -1,2 +1,4 @@
 - pkg:maven/org.picketlink/picketlink-console@1.0.1.Final?type=war
 - pkg:maven/org.picketlink/picketlink-console@1.0.0.Final?type=war
+- pkg:maven/org.picketlink/picketlink-console@1.0.3.CR1?type=war
+- pkg:maven/org.picketlink/picketlink-console@1.0.3.CR1?classifier=sources

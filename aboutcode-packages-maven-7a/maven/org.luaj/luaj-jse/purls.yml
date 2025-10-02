@@ -14,3 +14,5 @@
 - pkg:maven/org.luaj/luaj-jse@2.0-beta1?classifier=sources
 - pkg:maven/org.luaj/luaj-jse@2.0
 - pkg:maven/org.luaj/luaj-jse@2.0?classifier=sources
+- pkg:maven/org.luaj/luaj-jse@3.0-beta1
+- pkg:maven/org.luaj/luaj-jse@3.0-beta1?classifier=sources
