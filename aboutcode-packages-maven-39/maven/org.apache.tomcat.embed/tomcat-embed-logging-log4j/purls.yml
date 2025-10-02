@@ -190,3 +190,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.44?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.78
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.78?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.45
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.45?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.79
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.79?classifier=sources

@@ -50,3 +50,7 @@
 - pkg:maven/org.datasyslab/geospark@0.7.1-snapshot2?classifier=sources
 - pkg:maven/org.datasyslab/geospark@0.7.1-snapshot
 - pkg:maven/org.datasyslab/geospark@0.7.1-snapshot?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.8.0-spark-1.x
+- pkg:maven/org.datasyslab/geospark@0.8.0-spark-1.x?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.8.0
+- pkg:maven/org.datasyslab/geospark@0.8.0?classifier=sources
