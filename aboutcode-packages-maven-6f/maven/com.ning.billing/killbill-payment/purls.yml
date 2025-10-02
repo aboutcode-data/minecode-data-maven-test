@@ -214,3 +214,5 @@
 - pkg:maven/com.ning.billing/killbill-payment@0.7.2?classifier=sources
 - pkg:maven/com.ning.billing/killbill-payment@0.7.1
 - pkg:maven/com.ning.billing/killbill-payment@0.7.1?classifier=sources
+- pkg:maven/com.ning.billing/killbill-payment@0.8.1
+- pkg:maven/com.ning.billing/killbill-payment@0.8.1?classifier=sources

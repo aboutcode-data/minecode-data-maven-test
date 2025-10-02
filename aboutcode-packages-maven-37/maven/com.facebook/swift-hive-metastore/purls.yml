@@ -1,2 +1,4 @@
 - pkg:maven/com.facebook/swift-hive-metastore@1.0
 - pkg:maven/com.facebook/swift-hive-metastore@1.0?classifier=sources
+- pkg:maven/com.facebook/swift-hive-metastore@1.1
+- pkg:maven/com.facebook/swift-hive-metastore@1.1?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/com.proofpoint.platform/bootstrap@0.85?classifier=sources
 - pkg:maven/com.proofpoint.platform/bootstrap@0.84
 - pkg:maven/com.proofpoint.platform/bootstrap@0.84?classifier=sources
+- pkg:maven/com.proofpoint.platform/bootstrap@0.87
+- pkg:maven/com.proofpoint.platform/bootstrap@0.87?classifier=sources

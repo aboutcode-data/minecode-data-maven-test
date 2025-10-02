@@ -10,3 +10,5 @@
 - pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-annotation-pubsub@1.0.14.vaadin2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-annotation-pubsub@1.0.14.vaadin4?type=war
 - pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-annotation-pubsub@1.0.14.vaadin4?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-annotation-pubsub@1.0.18.vaadin1?type=war
+- pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-annotation-pubsub@1.0.18.vaadin1?classifier=sources
