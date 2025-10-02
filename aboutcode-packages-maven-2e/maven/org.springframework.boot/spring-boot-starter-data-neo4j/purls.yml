@@ -20,3 +20,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.5.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.4.6.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.4.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.5.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.5.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.4.7.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-neo4j@1.4.7.RELEASE?classifier=sources

@@ -38,3 +38,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.5.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.4.6.RELEASE?type=war
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.4.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.5.4.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.5.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.4.7.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-glassfish@1.4.7.RELEASE?classifier=sources

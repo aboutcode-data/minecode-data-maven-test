@@ -72,3 +72,7 @@
 - pkg:maven/org.springframework.data/spring-data-couchbase@2.1.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@2.1.10.RELEASE
 - pkg:maven/org.springframework.data/spring-data-couchbase@2.1.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-couchbase@2.2.4.RELEASE
+- pkg:maven/org.springframework.data/spring-data-couchbase@2.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-couchbase@2.1.11.RELEASE
+- pkg:maven/org.springframework.data/spring-data-couchbase@2.1.11.RELEASE?classifier=sources
