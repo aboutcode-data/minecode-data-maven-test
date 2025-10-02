@@ -234,3 +234,5 @@
 - pkg:maven/org.neo4j/neo4j-shell@3.0.0-M02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-shell@2.2.8
 - pkg:maven/org.neo4j/neo4j-shell@2.2.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-shell@2.3.2
+- pkg:maven/org.neo4j/neo4j-shell@2.3.2?classifier=sources

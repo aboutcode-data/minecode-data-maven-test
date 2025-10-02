@@ -44,3 +44,5 @@
 - pkg:maven/org.neo4j.doc/neo4j-cypher-docs@3.0.0-M02?classifier=sources
 - pkg:maven/org.neo4j.doc/neo4j-cypher-docs@2.2.8
 - pkg:maven/org.neo4j.doc/neo4j-cypher-docs@2.2.8?classifier=sources
+- pkg:maven/org.neo4j.doc/neo4j-cypher-docs@2.3.2
+- pkg:maven/org.neo4j.doc/neo4j-cypher-docs@2.3.2?classifier=sources
