@@ -50,3 +50,5 @@
 - pkg:maven/com.alpinenow/common@1.8-alpha?classifier=sources
 - pkg:maven/com.alpinenow/common@1.8
 - pkg:maven/com.alpinenow/common@1.8?classifier=sources
+- pkg:maven/com.alpinenow/common@1.9-alpha
+- pkg:maven/com.alpinenow/common@1.9-alpha?classifier=sources

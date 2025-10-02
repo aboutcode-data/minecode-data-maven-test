@@ -232,3 +232,5 @@
 - pkg:maven/org.wildfly.core/wildfly-core-security@3.0.0.Alpha25?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-core-security@3.0.0.Alpha24
 - pkg:maven/org.wildfly.core/wildfly-core-security@3.0.0.Alpha24?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-core-security@3.0.0.Beta5
+- pkg:maven/org.wildfly.core/wildfly-core-security@3.0.0.Beta5?classifier=sources

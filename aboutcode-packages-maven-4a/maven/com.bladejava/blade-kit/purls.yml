@@ -78,3 +78,7 @@
 - pkg:maven/com.bladejava/blade-kit@1.4.0-alpha?classifier=sources
 - pkg:maven/com.bladejava/blade-kit@1.4.0-beta
 - pkg:maven/com.bladejava/blade-kit@1.4.0-beta?classifier=sources
+- pkg:maven/com.bladejava/blade-kit@1.4.1-alpha
+- pkg:maven/com.bladejava/blade-kit@1.4.1-alpha?classifier=sources
+- pkg:maven/com.bladejava/blade-kit@1.4.0
+- pkg:maven/com.bladejava/blade-kit@1.4.0?classifier=sources

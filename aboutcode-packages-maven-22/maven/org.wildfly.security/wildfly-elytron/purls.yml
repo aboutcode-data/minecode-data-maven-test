@@ -68,3 +68,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.0.Beta25?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.0.Beta24
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.0.Beta24?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.1.0.Beta27
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.1.0.Beta27?classifier=sources
