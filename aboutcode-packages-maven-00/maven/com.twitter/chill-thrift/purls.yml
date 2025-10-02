@@ -32,3 +32,5 @@
 - pkg:maven/com.twitter/chill-thrift@0.8.0?classifier=sources
 - pkg:maven/com.twitter/chill-thrift@0.7.4
 - pkg:maven/com.twitter/chill-thrift@0.7.4?classifier=sources
+- pkg:maven/com.twitter/chill-thrift@0.8.1
+- pkg:maven/com.twitter/chill-thrift@0.8.1?classifier=sources

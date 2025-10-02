@@ -104,3 +104,11 @@
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.2.8.0?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.7.3
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.7.3?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.9.0-RELEASE
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.9.0-RELEASE?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.9.0
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.9.0?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.8.0-RELEASE
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.8.0-RELEASE?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.8.0
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.8.0?classifier=sources
