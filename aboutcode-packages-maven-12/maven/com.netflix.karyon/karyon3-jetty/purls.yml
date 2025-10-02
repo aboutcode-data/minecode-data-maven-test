@@ -18,3 +18,5 @@
 - pkg:maven/com.netflix.karyon/karyon3-jetty@3.0.1-rc.8?classifier=sources
 - pkg:maven/com.netflix.karyon/karyon3-jetty@3.0.0
 - pkg:maven/com.netflix.karyon/karyon3-jetty@3.0.0?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon3-jetty@3.0.1-rc.13
+- pkg:maven/com.netflix.karyon/karyon3-jetty@3.0.1-rc.13?classifier=sources

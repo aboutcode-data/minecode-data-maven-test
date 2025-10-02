@@ -132,3 +132,5 @@
 - pkg:maven/com.facebook.presto/presto-parser@0.116?classifier=sources
 - pkg:maven/com.facebook.presto/presto-parser@0.118
 - pkg:maven/com.facebook.presto/presto-parser@0.118?classifier=sources
+- pkg:maven/com.facebook.presto/presto-parser@0.119
+- pkg:maven/com.facebook.presto/presto-parser@0.119?classifier=sources
