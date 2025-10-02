@@ -146,3 +146,5 @@
 - pkg:maven/org.pustefixframework/pustefix-testsuite@0.18.48?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-testsuite@0.18.49?type=war
 - pkg:maven/org.pustefixframework/pustefix-testsuite@0.18.49?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-testsuite@0.18.50?type=war
+- pkg:maven/org.pustefixframework/pustefix-testsuite@0.18.50?classifier=sources

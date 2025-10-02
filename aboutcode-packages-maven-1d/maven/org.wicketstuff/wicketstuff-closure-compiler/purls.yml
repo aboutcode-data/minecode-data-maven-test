@@ -44,3 +44,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.8.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.9.0
 - pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.9.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.10.0
+- pkg:maven/org.wicketstuff/wicketstuff-closure-compiler@6.10.0?classifier=sources

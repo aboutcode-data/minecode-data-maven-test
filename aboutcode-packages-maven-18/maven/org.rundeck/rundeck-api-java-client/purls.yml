@@ -12,3 +12,5 @@
 - pkg:maven/org.rundeck/rundeck-api-java-client@6.0?classifier=sources
 - pkg:maven/org.rundeck/rundeck-api-java-client@8.0
 - pkg:maven/org.rundeck/rundeck-api-java-client@8.0?classifier=sources
+- pkg:maven/org.rundeck/rundeck-api-java-client@9.0
+- pkg:maven/org.rundeck/rundeck-api-java-client@9.0?classifier=sources

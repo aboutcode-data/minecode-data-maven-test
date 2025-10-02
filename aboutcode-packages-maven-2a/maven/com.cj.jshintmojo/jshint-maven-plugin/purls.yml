@@ -6,3 +6,5 @@
 - pkg:maven/com.cj.jshintmojo/jshint-maven-plugin@0.0.9?classifier=sources
 - pkg:maven/com.cj.jshintmojo/jshint-maven-plugin@0.0.10
 - pkg:maven/com.cj.jshintmojo/jshint-maven-plugin@0.0.10?classifier=sources
+- pkg:maven/com.cj.jshintmojo/jshint-maven-plugin@1.0.0
+- pkg:maven/com.cj.jshintmojo/jshint-maven-plugin@1.0.0?classifier=sources

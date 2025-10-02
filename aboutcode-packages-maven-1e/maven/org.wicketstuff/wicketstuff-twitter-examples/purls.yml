@@ -34,3 +34,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.8.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.9.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.9.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.10.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-twitter-examples@6.10.0?classifier=sources
