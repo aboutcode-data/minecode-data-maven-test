@@ -190,3 +190,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-blob@1.5.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob@1.2.18
 - pkg:maven/org.apache.jackrabbit/oak-blob@1.2.18?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-blob@1.0.33
+- pkg:maven/org.apache.jackrabbit/oak-blob@1.0.33?classifier=sources
