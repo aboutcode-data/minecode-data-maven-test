@@ -35,3 +35,6 @@
 - pkg:maven/org.dspace.modules/sword@5.4?type=war
 - pkg:maven/org.dspace.modules/sword@4.4?type=war
 - pkg:maven/org.dspace.modules/sword@3.5?type=war
+- pkg:maven/org.dspace.modules/sword@5.5?type=war
+- pkg:maven/org.dspace.modules/sword@4.5?type=war
+- pkg:maven/org.dspace.modules/sword@3.6?type=war

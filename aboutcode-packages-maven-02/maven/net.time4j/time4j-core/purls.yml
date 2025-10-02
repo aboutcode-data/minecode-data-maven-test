@@ -80,3 +80,5 @@
 - pkg:maven/net.time4j/time4j-core@4.13?classifier=sources
 - pkg:maven/net.time4j/time4j-core@3.16
 - pkg:maven/net.time4j/time4j-core@3.16?classifier=sources
+- pkg:maven/net.time4j/time4j-core@3.17
+- pkg:maven/net.time4j/time4j-core@3.17?classifier=sources

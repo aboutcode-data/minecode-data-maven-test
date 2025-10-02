@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.7.RC1?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.8.RC0
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.8.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.8.v20160314
+- pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.8.v20160314?classifier=sources

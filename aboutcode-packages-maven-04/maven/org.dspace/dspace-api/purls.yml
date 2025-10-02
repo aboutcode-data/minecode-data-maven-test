@@ -97,3 +97,9 @@
 - pkg:maven/org.dspace/dspace-api@4.4?classifier=sources
 - pkg:maven/org.dspace/dspace-api@3.5
 - pkg:maven/org.dspace/dspace-api@3.5?classifier=sources
+- pkg:maven/org.dspace/dspace-api@5.5
+- pkg:maven/org.dspace/dspace-api@5.5?classifier=sources
+- pkg:maven/org.dspace/dspace-api@4.5
+- pkg:maven/org.dspace/dspace-api@4.5?classifier=sources
+- pkg:maven/org.dspace/dspace-api@3.6
+- pkg:maven/org.dspace/dspace-api@3.6?classifier=sources
