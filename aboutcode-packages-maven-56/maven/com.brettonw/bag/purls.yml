@@ -198,3 +198,5 @@
 - pkg:maven/com.brettonw/bag@5.6.1?classifier=sources
 - pkg:maven/com.brettonw/bag@5.6.0
 - pkg:maven/com.brettonw/bag@5.6.0?classifier=sources
+- pkg:maven/com.brettonw/bag@5.10.0
+- pkg:maven/com.brettonw/bag@5.10.0?classifier=sources

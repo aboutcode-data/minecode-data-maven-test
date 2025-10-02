@@ -74,3 +74,5 @@
 - pkg:maven/com.facebook.android/facebook-android-sdk@4.17.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-android-sdk@4.18.0?type=aar
 - pkg:maven/com.facebook.android/facebook-android-sdk@4.18.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-android-sdk@4.19.0?type=aar
+- pkg:maven/com.facebook.android/facebook-android-sdk@4.19.0?classifier=sources

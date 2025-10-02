@@ -20,3 +20,5 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-dataflow@0.9.4?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-dataflow@0.9.5
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-dataflow@0.9.5?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-dataflow@0.9.5.1
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-dataflow@0.9.5.1?classifier=sources
