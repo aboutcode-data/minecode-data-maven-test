@@ -74,3 +74,5 @@
 - pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-m3?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-m4
 - pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-m4?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-release
+- pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-release?classifier=sources

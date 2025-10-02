@@ -34,3 +34,5 @@
 - pkg:maven/org.kevoree/org.kevoree.maven.resolver@17?classifier=sources
 - pkg:maven/org.kevoree/org.kevoree.maven.resolver@19
 - pkg:maven/org.kevoree/org.kevoree.maven.resolver@19?classifier=sources
+- pkg:maven/org.kevoree/org.kevoree.maven.resolver@20
+- pkg:maven/org.kevoree/org.kevoree.maven.resolver@20?classifier=sources

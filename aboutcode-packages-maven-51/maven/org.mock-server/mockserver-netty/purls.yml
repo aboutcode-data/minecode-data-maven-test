@@ -10,3 +10,5 @@
 - pkg:maven/org.mock-server/mockserver-netty@2.9?classifier=sources
 - pkg:maven/org.mock-server/mockserver-netty@2.10
 - pkg:maven/org.mock-server/mockserver-netty@2.10?classifier=sources
+- pkg:maven/org.mock-server/mockserver-netty@3.0
+- pkg:maven/org.mock-server/mockserver-netty@3.0?classifier=sources

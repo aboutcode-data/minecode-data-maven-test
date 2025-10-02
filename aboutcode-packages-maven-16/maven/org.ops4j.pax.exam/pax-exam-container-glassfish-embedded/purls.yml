@@ -18,3 +18,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-glassfish-embedded@3.4.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-glassfish-embedded@3.5.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-glassfish-embedded@3.5.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-glassfish-embedded@4.0.0
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-glassfish-embedded@4.0.0?classifier=sources
