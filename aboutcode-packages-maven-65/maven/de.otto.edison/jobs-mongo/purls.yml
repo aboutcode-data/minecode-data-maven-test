@@ -1,2 +1,4 @@
 - pkg:maven/de.otto.edison/jobs-mongo@0.15.4
 - pkg:maven/de.otto.edison/jobs-mongo@0.15.4?classifier=sources
+- pkg:maven/de.otto.edison/jobs-mongo@0.16.0
+- pkg:maven/de.otto.edison/jobs-mongo@0.16.0?classifier=sources

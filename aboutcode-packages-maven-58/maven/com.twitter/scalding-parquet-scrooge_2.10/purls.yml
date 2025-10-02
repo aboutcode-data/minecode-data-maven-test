@@ -12,3 +12,5 @@
 - pkg:maven/com.twitter/scalding-parquet-scrooge_2.10@0.14.0?classifier=sources
 - pkg:maven/com.twitter/scalding-parquet-scrooge_2.10@0.15.0
 - pkg:maven/com.twitter/scalding-parquet-scrooge_2.10@0.15.0?classifier=sources
+- pkg:maven/com.twitter/scalding-parquet-scrooge_2.10@0.15.1-RC9
+- pkg:maven/com.twitter/scalding-parquet-scrooge_2.10@0.15.1-RC9?classifier=sources

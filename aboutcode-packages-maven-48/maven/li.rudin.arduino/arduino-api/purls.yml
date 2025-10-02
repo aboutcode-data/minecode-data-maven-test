@@ -20,3 +20,5 @@
 - pkg:maven/li.rudin.arduino/arduino-api@2.9?classifier=sources
 - pkg:maven/li.rudin.arduino/arduino-api@2.10
 - pkg:maven/li.rudin.arduino/arduino-api@2.10?classifier=sources
+- pkg:maven/li.rudin.arduino/arduino-api@2.11
+- pkg:maven/li.rudin.arduino/arduino-api@2.11?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/net.openhft/chronicle-wire@1.0.17-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@1.0.20-beta
 - pkg:maven/net.openhft/chronicle-wire@1.0.20-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@1.0.21-beta
+- pkg:maven/net.openhft/chronicle-wire@1.0.21-beta?classifier=sources

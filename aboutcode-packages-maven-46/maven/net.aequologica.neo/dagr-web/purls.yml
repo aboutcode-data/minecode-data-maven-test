@@ -6,3 +6,7 @@
 - pkg:maven/net.aequologica.neo/dagr-web@0.3.2?classifier=sources
 - pkg:maven/net.aequologica.neo/dagr-web@0.3.3?type=war
 - pkg:maven/net.aequologica.neo/dagr-web@0.3.3?classifier=sources
+- pkg:maven/net.aequologica.neo/dagr-web@0.3.5?type=war
+- pkg:maven/net.aequologica.neo/dagr-web@0.3.5?classifier=sources
+- pkg:maven/net.aequologica.neo/dagr-web@0.3.4?type=war
+- pkg:maven/net.aequologica.neo/dagr-web@0.3.4?classifier=sources
