@@ -178,3 +178,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-codedeploy@1.10.49?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-codedeploy@1.10.48
 - pkg:maven/com.amazonaws/aws-java-sdk-codedeploy@1.10.48?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-codedeploy@1.10.50
+- pkg:maven/com.amazonaws/aws-java-sdk-codedeploy@1.10.50?classifier=sources
