@@ -73,3 +73,6 @@
 - pkg:maven/org.glassfish.jersey.examples/tone-generator@2.22.2
 - pkg:maven/org.glassfish.jersey.examples/tone-generator@2.22.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/tone-generator@2.22.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/tone-generator@2.23
+- pkg:maven/org.glassfish.jersey.examples/tone-generator@2.23?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/tone-generator@2.23?classifier=project-src&type=zip
