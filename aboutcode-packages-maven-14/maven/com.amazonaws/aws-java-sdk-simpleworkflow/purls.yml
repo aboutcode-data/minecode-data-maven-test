@@ -246,3 +246,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-simpleworkflow@1.11.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-simpleworkflow@1.10.77
 - pkg:maven/com.amazonaws/aws-java-sdk-simpleworkflow@1.10.77?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-simpleworkflow@1.11.1
+- pkg:maven/com.amazonaws/aws-java-sdk-simpleworkflow@1.11.1?classifier=sources
