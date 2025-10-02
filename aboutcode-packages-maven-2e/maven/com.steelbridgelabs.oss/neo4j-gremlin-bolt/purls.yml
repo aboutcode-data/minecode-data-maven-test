@@ -52,3 +52,7 @@
 - pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.8?classifier=sources
 - pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.7
 - pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.7?classifier=sources
+- pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.11
+- pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.11?classifier=sources
+- pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.10
+- pkg:maven/com.steelbridgelabs.oss/neo4j-gremlin-bolt@0.2.10?classifier=sources
