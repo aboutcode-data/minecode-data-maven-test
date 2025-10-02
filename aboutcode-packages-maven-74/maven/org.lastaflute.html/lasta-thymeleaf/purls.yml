@@ -28,3 +28,5 @@
 - pkg:maven/org.lastaflute.html/lasta-thymeleaf@0.2.8-RC3?classifier=sources
 - pkg:maven/org.lastaflute.html/lasta-thymeleaf@0.2.8-RC2
 - pkg:maven/org.lastaflute.html/lasta-thymeleaf@0.2.8-RC2?classifier=sources
+- pkg:maven/org.lastaflute.html/lasta-thymeleaf@0.2.8
+- pkg:maven/org.lastaflute.html/lasta-thymeleaf@0.2.8?classifier=sources

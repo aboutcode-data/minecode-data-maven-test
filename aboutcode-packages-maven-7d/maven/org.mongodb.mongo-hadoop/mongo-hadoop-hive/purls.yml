@@ -20,3 +20,5 @@
 - pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-hive@1.5.2?classifier=sources
 - pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-hive@2.0.0-rc0
 - pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-hive@2.0.0-rc0?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-hive@2.0.0
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-hive@2.0.0?classifier=sources

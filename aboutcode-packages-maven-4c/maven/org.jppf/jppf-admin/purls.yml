@@ -54,3 +54,5 @@
 - pkg:maven/org.jppf/jppf-admin@5.1.4?classifier=sources
 - pkg:maven/org.jppf/jppf-admin@5.2
 - pkg:maven/org.jppf/jppf-admin@5.2?classifier=sources
+- pkg:maven/org.jppf/jppf-admin@5.1.5
+- pkg:maven/org.jppf/jppf-admin@5.1.5?classifier=sources

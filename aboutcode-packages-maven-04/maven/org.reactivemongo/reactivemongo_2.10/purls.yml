@@ -48,3 +48,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo_2.10@0.12-RC0?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.10@0.12-RC1
 - pkg:maven/org.reactivemongo/reactivemongo_2.10@0.12-RC1?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo_2.10@0.12-RC2
+- pkg:maven/org.reactivemongo/reactivemongo_2.10@0.12-RC2?classifier=sources

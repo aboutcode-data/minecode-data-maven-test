@@ -28,3 +28,5 @@
 - pkg:maven/org.jadira.scanner/scanner@4.0.0.GA?classifier=sources
 - pkg:maven/org.jadira.scanner/scanner@5.0.0.GA
 - pkg:maven/org.jadira.scanner/scanner@5.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.scanner/scanner@6.0.0.GA
+- pkg:maven/org.jadira.scanner/scanner@6.0.0.GA?classifier=sources

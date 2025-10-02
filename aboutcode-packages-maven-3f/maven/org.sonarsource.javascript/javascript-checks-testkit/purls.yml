@@ -6,3 +6,5 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.14?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.13
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.13?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.15
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@2.15?classifier=sources
