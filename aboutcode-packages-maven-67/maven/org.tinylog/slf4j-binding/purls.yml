@@ -1,2 +1,4 @@
 - pkg:maven/org.tinylog/slf4j-binding@1.0-rc-2
 - pkg:maven/org.tinylog/slf4j-binding@1.0-rc-2?classifier=sources
+- pkg:maven/org.tinylog/slf4j-binding@1.0-rc-3
+- pkg:maven/org.tinylog/slf4j-binding@1.0-rc-3?classifier=sources

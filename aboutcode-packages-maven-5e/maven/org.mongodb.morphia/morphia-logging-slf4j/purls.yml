@@ -6,3 +6,5 @@
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.107?classifier=sources
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.108
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.108?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.109
+- pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.109?classifier=sources
