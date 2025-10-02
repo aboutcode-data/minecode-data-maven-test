@@ -134,3 +134,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-jpa@3.4.3?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-jpa@3.5.0
 - pkg:maven/com.mysema.querydsl/querydsl-jpa@3.5.0?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-jpa@3.5.1
+- pkg:maven/com.mysema.querydsl/querydsl-jpa@3.5.1?classifier=sources

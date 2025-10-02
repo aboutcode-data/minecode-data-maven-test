@@ -26,3 +26,7 @@
 - pkg:maven/com.prezi.spaghetti/spaghetti-core@2.0-rc7?classifier=sources
 - pkg:maven/com.prezi.spaghetti/spaghetti-core@2.0
 - pkg:maven/com.prezi.spaghetti/spaghetti-core@2.0?classifier=sources
+- pkg:maven/com.prezi.spaghetti/spaghetti-core@2.1-alpha-2
+- pkg:maven/com.prezi.spaghetti/spaghetti-core@2.1-alpha-2?classifier=sources
+- pkg:maven/com.prezi.spaghetti/spaghetti-core@2.1-alpha-1
+- pkg:maven/com.prezi.spaghetti/spaghetti-core@2.1-alpha-1?classifier=sources
