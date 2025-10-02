@@ -88,3 +88,7 @@
 - pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.1.0.RC3?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.1.0.RC4
 - pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.1.0.RC4?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.0.15
+- pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.0.15?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.0.14
+- pkg:maven/org.atmosphere/atmosphere-compat-tomcat7@1.0.14?classifier=sources

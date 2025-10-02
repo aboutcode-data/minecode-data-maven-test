@@ -172,3 +172,7 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@7.6.11.v20130520?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@9.0.4.v20130625
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@9.0.4.v20130625?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@8.1.12.v20130726
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@8.1.12.v20130726?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@7.6.12.v20130726
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-jsp@7.6.12.v20130726?classifier=sources

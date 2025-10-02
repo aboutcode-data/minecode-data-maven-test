@@ -78,3 +78,5 @@
 - pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-webapp@8.1.11.v20130520?classifier=sources
 - pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-webapp@9.0.4.v20130625?type=war
 - pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-webapp@9.0.4.v20130625?classifier=sources
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-webapp@8.1.12.v20130726?type=war
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-webapp@8.1.12.v20130726?classifier=sources

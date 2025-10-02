@@ -56,3 +56,9 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.1.0.RC3?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.1.0.RC4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.0.0.RC1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.0.0.RC3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.0.0.RC2?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.15?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.15?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14?classifier=sources
