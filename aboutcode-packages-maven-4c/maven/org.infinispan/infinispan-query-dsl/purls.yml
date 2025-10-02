@@ -108,3 +108,5 @@
 - pkg:maven/org.infinispan/infinispan-query-dsl@8.2.0.Beta2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-dsl@8.1.2.Final
 - pkg:maven/org.infinispan/infinispan-query-dsl@8.1.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query-dsl@8.2.0.CR1
+- pkg:maven/org.infinispan/infinispan-query-dsl@8.2.0.CR1?classifier=sources

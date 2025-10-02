@@ -102,3 +102,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.16.4?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.11.7?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.11.7?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.17.0?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.17.0?classifier=sources
