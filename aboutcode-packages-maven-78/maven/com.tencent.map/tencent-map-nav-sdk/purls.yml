@@ -56,3 +56,7 @@
 - pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.5.7?classifier=sources
 - pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.4.7?type=aar
 - pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.4.7?classifier=sources
+- pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.5.11?type=aar
+- pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.5.11?classifier=sources
+- pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.5.10?type=aar
+- pkg:maven/com.tencent.map/tencent-map-nav-sdk@2.1.5.10?classifier=sources

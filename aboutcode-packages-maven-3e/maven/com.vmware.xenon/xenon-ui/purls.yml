@@ -110,3 +110,5 @@
 - pkg:maven/com.vmware.xenon/xenon-ui@1.4.2-CR4?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-ui@1.5.2
 - pkg:maven/com.vmware.xenon/xenon-ui@1.5.2?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-ui@1.5.2-CR1
+- pkg:maven/com.vmware.xenon/xenon-ui@1.5.2-CR1?classifier=sources
