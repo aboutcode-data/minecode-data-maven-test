@@ -88,3 +88,7 @@
 - pkg:maven/com.linecorp.armeria/armeria@0.23.1.Final?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria@0.25.0.Final
 - pkg:maven/com.linecorp.armeria/armeria@0.25.0.Final?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria@0.26.1.Final
+- pkg:maven/com.linecorp.armeria/armeria@0.26.1.Final?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria@0.26.0.Final
+- pkg:maven/com.linecorp.armeria/armeria@0.26.0.Final?classifier=sources
