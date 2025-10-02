@@ -38,3 +38,5 @@
 - pkg:maven/org.gweninterpreter/gwen-web@1.9.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@1.10.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@1.10.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@1.10.1?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@1.10.1?classifier=sources
