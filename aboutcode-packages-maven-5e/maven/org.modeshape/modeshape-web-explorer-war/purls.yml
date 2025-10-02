@@ -20,3 +20,5 @@
 - pkg:maven/org.modeshape/modeshape-web-explorer-war@4.3.0.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-web-explorer-war@4.4.0.Final?type=war
 - pkg:maven/org.modeshape/modeshape-web-explorer-war@4.4.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-web-explorer-war@4.5.0.Final?type=war
+- pkg:maven/org.modeshape/modeshape-web-explorer-war@4.5.0.Final?classifier=sources
