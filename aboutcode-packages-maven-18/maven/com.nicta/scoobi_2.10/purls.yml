@@ -6,3 +6,7 @@
 - pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC2-cdh4?classifier=sources
 - pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC2-cdh3
 - pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC2-cdh3?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-cdh4
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-cdh4?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-cdh3
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-cdh3?classifier=sources

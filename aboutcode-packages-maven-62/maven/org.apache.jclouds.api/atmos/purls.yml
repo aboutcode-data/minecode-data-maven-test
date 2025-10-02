@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.jclouds.api/atmos@1.6.1-incubating
+- pkg:maven/org.apache.jclouds.api/atmos@1.6.1-incubating?classifier=sources
