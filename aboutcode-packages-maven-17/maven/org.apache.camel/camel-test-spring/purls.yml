@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.camel/camel-test-spring@2.17.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-spring@2.17.3
 - pkg:maven/org.apache.camel/camel-test-spring@2.17.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-spring@2.16.4
+- pkg:maven/org.apache.camel/camel-test-spring@2.16.4?classifier=sources

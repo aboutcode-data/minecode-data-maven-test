@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.accumulo/accumulo-start@1.7.2?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-start@1.8.0
 - pkg:maven/org.apache.accumulo/accumulo-start@1.8.0?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-start@1.6.6
+- pkg:maven/org.apache.accumulo/accumulo-start@1.6.6?classifier=sources

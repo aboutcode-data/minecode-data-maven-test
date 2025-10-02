@@ -172,3 +172,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2jcr@2.6.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2jcr@2.13.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2jcr@2.13.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi2jcr@2.4.6
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi2jcr@2.4.6?classifier=sources

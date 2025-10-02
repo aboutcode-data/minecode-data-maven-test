@@ -174,3 +174,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.6.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.13.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.13.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.4.6
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.4.6?classifier=sources
