@@ -62,3 +62,5 @@
 - pkg:maven/org.glassfish.jersey.bundles.repackaged/jersey-guava@2.24.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.bundles.repackaged/jersey-guava@2.22.4
 - pkg:maven/org.glassfish.jersey.bundles.repackaged/jersey-guava@2.22.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.bundles.repackaged/jersey-guava@2.25
+- pkg:maven/org.glassfish.jersey.bundles.repackaged/jersey-guava@2.25?classifier=sources
