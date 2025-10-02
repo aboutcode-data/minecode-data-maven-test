@@ -114,3 +114,6 @@
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@6.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@6.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@6.6.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-archetype-quickstart@1.5.10?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-archetype-quickstart@1.4.22
+- pkg:maven/org.apache.wicket/wicket-archetype-quickstart@1.4.22?classifier=sources

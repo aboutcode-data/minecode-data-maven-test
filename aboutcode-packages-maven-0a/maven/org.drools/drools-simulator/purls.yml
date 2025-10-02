@@ -30,3 +30,5 @@
 - pkg:maven/org.drools/drools-simulator@5.5.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-simulator@6.0.0.Alpha7
 - pkg:maven/org.drools/drools-simulator@6.0.0.Alpha7?classifier=sources
+- pkg:maven/org.drools/drools-simulator@6.0.0.Alpha9
+- pkg:maven/org.drools/drools-simulator@6.0.0.Alpha9?classifier=sources
