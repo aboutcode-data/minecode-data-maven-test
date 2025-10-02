@@ -12,3 +12,5 @@
 - pkg:maven/org.vibur/vibur-dbcp-hibernate5@9.0?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp-hibernate5@10.0
 - pkg:maven/org.vibur/vibur-dbcp-hibernate5@10.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@11.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@11.0?classifier=sources

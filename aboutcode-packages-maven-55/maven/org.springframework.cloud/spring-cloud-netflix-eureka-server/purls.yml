@@ -26,3 +26,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-server@1.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-server@1.1.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-server@1.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-server@1.2.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-server@1.2.0.RELEASE?classifier=sources

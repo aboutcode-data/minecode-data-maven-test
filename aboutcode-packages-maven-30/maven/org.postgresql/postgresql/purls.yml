@@ -100,3 +100,9 @@
 - pkg:maven/org.postgresql/postgresql@9.4.1210.jre6?classifier=sources
 - pkg:maven/org.postgresql/postgresql@9.4.1210
 - pkg:maven/org.postgresql/postgresql@9.4.1210?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4.1211.jre7
+- pkg:maven/org.postgresql/postgresql@9.4.1211.jre7?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4.1211.jre6
+- pkg:maven/org.postgresql/postgresql@9.4.1211.jre6?classifier=sources
+- pkg:maven/org.postgresql/postgresql@9.4.1211
+- pkg:maven/org.postgresql/postgresql@9.4.1211?classifier=sources

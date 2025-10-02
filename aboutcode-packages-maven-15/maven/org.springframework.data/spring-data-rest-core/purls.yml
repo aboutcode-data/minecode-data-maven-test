@@ -50,3 +50,7 @@
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.5.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.5.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.5.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.5.3.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.5.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.4.5.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.4.5.RELEASE?classifier=sources

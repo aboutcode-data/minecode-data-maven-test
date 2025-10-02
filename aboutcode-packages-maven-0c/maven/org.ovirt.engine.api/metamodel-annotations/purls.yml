@@ -46,3 +46,7 @@
 - pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.0.19?classifier=sources
 - pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.0.18
 - pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.0.18?classifier=sources
+- pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.1.5
+- pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.1.5?classifier=sources
+- pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.0.20
+- pkg:maven/org.ovirt.engine.api/metamodel-annotations@1.0.20?classifier=sources
