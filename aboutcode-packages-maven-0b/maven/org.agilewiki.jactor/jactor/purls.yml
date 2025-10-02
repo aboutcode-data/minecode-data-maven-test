@@ -28,3 +28,5 @@
 - pkg:maven/org.agilewiki.jactor/jactor@3.0.0-RC3?classifier=sources
 - pkg:maven/org.agilewiki.jactor/jactor@3.0.0-RC4
 - pkg:maven/org.agilewiki.jactor/jactor@3.0.0-RC4?classifier=sources
+- pkg:maven/org.agilewiki.jactor/jactor@3.0.0
+- pkg:maven/org.agilewiki.jactor/jactor@3.0.0?classifier=sources

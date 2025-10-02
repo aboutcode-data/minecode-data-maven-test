@@ -35,3 +35,5 @@
 - pkg:maven/org.apache.xbean/xbean-finder@2.4?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-finder@3.9
 - pkg:maven/org.apache.xbean/xbean-finder@3.9?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-finder@3.10
+- pkg:maven/org.apache.xbean/xbean-finder@3.10?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/org.ow2.weblab.portlets/launch-chain-portlet@1.4?type=war
 - pkg:maven/org.ow2.weblab.portlets/launch-chain-portlet@1.4?classifier=sources
 - pkg:maven/org.ow2.weblab.portlets/launch-chain-portlet@1.3?type=war
+- pkg:maven/org.ow2.weblab.portlets/launch-chain-portlet@1.5?type=war
+- pkg:maven/org.ow2.weblab.portlets/launch-chain-portlet@1.5?classifier=sources

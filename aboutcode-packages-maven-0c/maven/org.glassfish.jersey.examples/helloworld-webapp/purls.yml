@@ -2,3 +2,5 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m01?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m02?type=war
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m02?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m03?type=war
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m03?classifier=sources
