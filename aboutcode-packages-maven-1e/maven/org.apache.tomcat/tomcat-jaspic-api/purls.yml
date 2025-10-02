@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M13
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M13?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.8
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.8?classifier=sources
