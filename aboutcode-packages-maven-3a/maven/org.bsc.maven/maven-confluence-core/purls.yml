@@ -93,3 +93,5 @@
 - pkg:maven/org.bsc.maven/maven-confluence-core@4.12?classifier=sources
 - pkg:maven/org.bsc.maven/maven-confluence-core@4.13
 - pkg:maven/org.bsc.maven/maven-confluence-core@4.13?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-core@5.0-beta1
+- pkg:maven/org.bsc.maven/maven-confluence-core@5.0-beta1?classifier=sources

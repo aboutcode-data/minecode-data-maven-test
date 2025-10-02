@@ -121,3 +121,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@2.3.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@5.0.0-alpha5?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@2.4.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop@5.0.0-beta1?classifier=sources

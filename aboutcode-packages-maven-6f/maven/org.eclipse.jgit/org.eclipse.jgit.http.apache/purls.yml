@@ -72,3 +72,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@4.4.0.201606070830-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@4.4.1.201607150455-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@4.4.1.201607150455-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@4.5.0.201609210915-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@4.5.0.201609210915-r?classifier=sources

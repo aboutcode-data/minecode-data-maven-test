@@ -58,3 +58,5 @@
 - pkg:maven/org.dspace.modules/additions@6.0-rc2?classifier=sources
 - pkg:maven/org.dspace.modules/additions@6.0-rc3
 - pkg:maven/org.dspace.modules/additions@6.0-rc3?classifier=sources
+- pkg:maven/org.dspace.modules/additions@4.6
+- pkg:maven/org.dspace.modules/additions@4.6?classifier=sources
