@@ -155,3 +155,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@8.1.9.v20130131?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@7.6.9.v20130131
 - pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@7.6.9.v20130131?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@8.1.10.v20130312
+- pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@8.1.10.v20130312?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@7.6.10.v20130312
+- pkg:maven/org.mortbay.jetty/jetty-jspc-maven-plugin@7.6.10.v20130312?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.crsh/crsh.cli@1.2.0-cr8
+- pkg:maven/org.crsh/crsh.cli@1.2.0-cr8?classifier=sources
+- pkg:maven/org.crsh/crsh.cli@1.2.0-cr7
+- pkg:maven/org.crsh/crsh.cli@1.2.0-cr7?classifier=sources

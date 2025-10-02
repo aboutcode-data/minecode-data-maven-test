@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.19?classifier=sources
 - pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.20
 - pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.20?classifier=sources
+- pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.20.1
+- pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.20.1?classifier=sources

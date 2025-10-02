@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@1.9?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.0
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.0?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.1
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.1?classifier=sources

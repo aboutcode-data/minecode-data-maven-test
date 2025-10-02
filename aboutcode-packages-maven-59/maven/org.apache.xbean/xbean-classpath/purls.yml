@@ -47,3 +47,5 @@
 - pkg:maven/org.apache.xbean/xbean-classpath@3.11.1?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-classpath@3.12
 - pkg:maven/org.apache.xbean/xbean-classpath@3.12?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@3.13
+- pkg:maven/org.apache.xbean/xbean-classpath@3.13?classifier=sources

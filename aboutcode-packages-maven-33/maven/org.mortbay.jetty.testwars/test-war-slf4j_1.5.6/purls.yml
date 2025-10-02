@@ -72,3 +72,5 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.5.6@7.6.0.v20120127?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.5.6@9.0.0.v20120203?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.5.6@9.0.0.v20120203?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.5.6@9.0.0.v20130315?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.5.6@9.0.0.v20130315?classifier=sources
