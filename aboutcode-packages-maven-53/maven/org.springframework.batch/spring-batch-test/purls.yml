@@ -52,3 +52,5 @@
 - pkg:maven/org.springframework.batch/spring-batch-test@2.2.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-test@3.0.1.RELEASE
 - pkg:maven/org.springframework.batch/spring-batch-test@3.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-test@3.0.2.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-test@3.0.2.RELEASE?classifier=sources
