@@ -32,3 +32,9 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.44?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.78
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.78?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.16
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.16?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.45
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.45?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.79
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.79?classifier=sources

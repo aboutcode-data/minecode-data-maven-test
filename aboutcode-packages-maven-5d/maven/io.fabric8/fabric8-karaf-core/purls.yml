@@ -104,3 +104,7 @@
 - pkg:maven/io.fabric8/fabric8-karaf-core@2.2.212?classifier=sources
 - pkg:maven/io.fabric8/fabric8-karaf-core@2.2.216
 - pkg:maven/io.fabric8/fabric8-karaf-core@2.2.216?classifier=sources
+- pkg:maven/io.fabric8/fabric8-karaf-core@2.3.0
+- pkg:maven/io.fabric8/fabric8-karaf-core@2.3.0?classifier=sources
+- pkg:maven/io.fabric8/fabric8-karaf-core@2.2.217
+- pkg:maven/io.fabric8/fabric8-karaf-core@2.2.217?classifier=sources

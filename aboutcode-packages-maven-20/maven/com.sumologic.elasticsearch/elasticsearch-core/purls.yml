@@ -58,3 +58,5 @@
 - pkg:maven/com.sumologic.elasticsearch/elasticsearch-core@1.0.29?classifier=sources
 - pkg:maven/com.sumologic.elasticsearch/elasticsearch-core@1.0.30
 - pkg:maven/com.sumologic.elasticsearch/elasticsearch-core@1.0.30?classifier=sources
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-core@2.0.0
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-core@2.0.0?classifier=sources
