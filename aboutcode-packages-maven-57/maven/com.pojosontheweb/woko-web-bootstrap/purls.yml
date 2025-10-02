@@ -36,3 +36,5 @@
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.2-beta2?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.2-beta3?type=war
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.2-beta3?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.2-beta4?type=war
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.2-beta4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.github.htfv/parent-resources@2
 - pkg:maven/com.github.htfv/parent-resources@2?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@4
+- pkg:maven/com.github.htfv/parent-resources@4?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@3
+- pkg:maven/com.github.htfv/parent-resources@3?classifier=sources

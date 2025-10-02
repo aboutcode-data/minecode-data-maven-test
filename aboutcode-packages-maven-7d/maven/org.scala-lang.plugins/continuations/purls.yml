@@ -80,3 +80,7 @@
 - pkg:maven/org.scala-lang.plugins/continuations@2.10.1-RC2?classifier=sources
 - pkg:maven/org.scala-lang.plugins/continuations@2.10.1-RC3
 - pkg:maven/org.scala-lang.plugins/continuations@2.10.1-RC3?classifier=sources
+- pkg:maven/org.scala-lang.plugins/continuations@2.11.0-M2
+- pkg:maven/org.scala-lang.plugins/continuations@2.11.0-M2?classifier=sources
+- pkg:maven/org.scala-lang.plugins/continuations@2.10.1
+- pkg:maven/org.scala-lang.plugins/continuations@2.10.1?classifier=sources

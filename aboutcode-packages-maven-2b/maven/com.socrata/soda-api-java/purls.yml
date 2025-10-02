@@ -20,3 +20,5 @@
 - pkg:maven/com.socrata/soda-api-java@0.8.7?classifier=sources
 - pkg:maven/com.socrata/soda-api-java@0.8.6
 - pkg:maven/com.socrata/soda-api-java@0.8.6?classifier=sources
+- pkg:maven/com.socrata/soda-api-java@0.9.1
+- pkg:maven/com.socrata/soda-api-java@0.9.1?classifier=sources

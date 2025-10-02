@@ -1,2 +1,4 @@
 - pkg:maven/com.github.gkutiel/fbi@2-RELEASE
 - pkg:maven/com.github.gkutiel/fbi@2-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/fbi@4-RELEASE
+- pkg:maven/com.github.gkutiel/fbi@4-RELEASE?classifier=sources

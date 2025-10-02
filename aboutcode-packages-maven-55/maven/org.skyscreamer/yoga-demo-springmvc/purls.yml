@@ -18,3 +18,5 @@
 - pkg:maven/org.skyscreamer/yoga-demo-springmvc@0.9.4?classifier=sources
 - pkg:maven/org.skyscreamer/yoga-demo-springmvc@1.0.0-RC1?type=war
 - pkg:maven/org.skyscreamer/yoga-demo-springmvc@1.0.0-RC1?classifier=sources
+- pkg:maven/org.skyscreamer/yoga-demo-springmvc@1.0.0-RC2?type=war
+- pkg:maven/org.skyscreamer/yoga-demo-springmvc@1.0.0-RC2?classifier=sources

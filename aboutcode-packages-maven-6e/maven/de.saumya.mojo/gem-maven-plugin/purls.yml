@@ -48,3 +48,5 @@
 - pkg:maven/de.saumya.mojo/gem-maven-plugin@0.29.3?classifier=sources
 - pkg:maven/de.saumya.mojo/gem-maven-plugin@0.29.4
 - pkg:maven/de.saumya.mojo/gem-maven-plugin@0.29.4?classifier=sources
+- pkg:maven/de.saumya.mojo/gem-maven-plugin@1.0.0-beta
+- pkg:maven/de.saumya.mojo/gem-maven-plugin@1.0.0-beta?classifier=sources
