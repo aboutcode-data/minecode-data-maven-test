@@ -7,3 +7,5 @@
 - pkg:maven/io.apiman/apiman-manager-api-war@1.0.2.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-war@1.0.3.Final?type=war
 - pkg:maven/io.apiman/apiman-manager-api-war@1.0.3.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-war@1.1.0.RC1?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war@1.1.0.RC1?classifier=sources
