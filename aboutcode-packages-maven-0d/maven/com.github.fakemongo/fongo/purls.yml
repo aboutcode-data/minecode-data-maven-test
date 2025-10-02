@@ -92,3 +92,5 @@
 - pkg:maven/com.github.fakemongo/fongo@2.0.12?classifier=sources
 - pkg:maven/com.github.fakemongo/fongo@2.0.13
 - pkg:maven/com.github.fakemongo/fongo@2.0.13?classifier=sources
+- pkg:maven/com.github.fakemongo/fongo@2.1.0
+- pkg:maven/com.github.fakemongo/fongo@2.1.0?classifier=sources
