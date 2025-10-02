@@ -92,3 +92,7 @@
 - pkg:maven/org.jooq/jooq-codegen@3.0.0-RC3?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@3.0.0
 - pkg:maven/org.jooq/jooq-codegen@3.0.0?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@3.0.1
+- pkg:maven/org.jooq/jooq-codegen@3.0.1?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@2.6.4
+- pkg:maven/org.jooq/jooq-codegen@2.6.4?classifier=sources

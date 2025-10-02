@@ -8,3 +8,5 @@
 - pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.0-beta5?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.0-beta4
 - pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.0-beta4?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.0
+- pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.0?classifier=sources

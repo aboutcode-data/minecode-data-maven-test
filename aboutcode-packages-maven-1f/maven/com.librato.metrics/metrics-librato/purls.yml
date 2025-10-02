@@ -8,3 +8,5 @@
 - pkg:maven/com.librato.metrics/metrics-librato@2.1.2.4?classifier=sources
 - pkg:maven/com.librato.metrics/metrics-librato@2.2.0.0
 - pkg:maven/com.librato.metrics/metrics-librato@2.2.0.0?classifier=sources
+- pkg:maven/com.librato.metrics/metrics-librato@3.0.0-BETA2.0-RC1
+- pkg:maven/com.librato.metrics/metrics-librato@3.0.0-BETA2.0-RC1?classifier=sources
