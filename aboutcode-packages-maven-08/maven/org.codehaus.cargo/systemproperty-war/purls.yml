@@ -54,3 +54,5 @@
 - pkg:maven/org.codehaus.cargo/systemproperty-war@1.4.19?classifier=sources
 - pkg:maven/org.codehaus.cargo/systemproperty-war@1.5.0?type=war
 - pkg:maven/org.codehaus.cargo/systemproperty-war@1.5.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/systemproperty-war@1.5.1?type=war
+- pkg:maven/org.codehaus.cargo/systemproperty-war@1.5.1?classifier=sources
