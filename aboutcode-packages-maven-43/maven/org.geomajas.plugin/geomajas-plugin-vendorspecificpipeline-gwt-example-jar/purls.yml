@@ -1,2 +1,4 @@
 - pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline-gwt-example-jar@1.0.0
 - pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline-gwt-example-jar@1.0.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline-gwt-example-jar@1.15.0-M1
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline-gwt-example-jar@1.15.0-M1?classifier=sources

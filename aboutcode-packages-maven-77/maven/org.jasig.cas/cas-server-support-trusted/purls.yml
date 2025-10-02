@@ -112,3 +112,5 @@
 - pkg:maven/org.jasig.cas/cas-server-support-trusted@3.5.2.1?classifier=sources
 - pkg:maven/org.jasig.cas/cas-server-support-trusted@3.4.12.1
 - pkg:maven/org.jasig.cas/cas-server-support-trusted@3.4.12.1?classifier=sources
+- pkg:maven/org.jasig.cas/cas-server-support-trusted@4.0.0
+- pkg:maven/org.jasig.cas/cas-server-support-trusted@4.0.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.rhq/rhq-coregui@4.9.0?classifier=sources
 - pkg:maven/org.rhq/rhq-coregui@4.10.0?type=war
 - pkg:maven/org.rhq/rhq-coregui@4.10.0?classifier=sources
+- pkg:maven/org.rhq/rhq-coregui@4.11.0?type=war
+- pkg:maven/org.rhq/rhq-coregui@4.11.0?classifier=sources

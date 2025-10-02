@@ -12,3 +12,5 @@
 - pkg:maven/org.modeshape/modeshape-web-explorer@3.7.2.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-web-explorer@4.0.0.Alpha2?type=war
 - pkg:maven/org.modeshape/modeshape-web-explorer@4.0.0.Alpha2?classifier=sources
+- pkg:maven/org.modeshape/modeshape-web-explorer@3.7.3.Final?type=war
+- pkg:maven/org.modeshape/modeshape-web-explorer@3.7.3.Final?classifier=sources
