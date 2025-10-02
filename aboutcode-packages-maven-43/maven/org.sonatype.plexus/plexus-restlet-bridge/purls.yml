@@ -40,3 +40,5 @@
 - pkg:maven/org.sonatype.plexus/plexus-restlet-bridge@1.0?classifier=sources
 - pkg:maven/org.sonatype.plexus/plexus-restlet-bridge@1.18
 - pkg:maven/org.sonatype.plexus/plexus-restlet-bridge@1.18?classifier=sources
+- pkg:maven/org.sonatype.plexus/plexus-restlet-bridge@1.19
+- pkg:maven/org.sonatype.plexus/plexus-restlet-bridge@1.19?classifier=sources
