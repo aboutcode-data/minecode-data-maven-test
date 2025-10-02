@@ -16,3 +16,5 @@
 - pkg:maven/org.commonjava.maven.galley/galley-transport-httpclient@0.3.3.2?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-transport-httpclient@0.4
 - pkg:maven/org.commonjava.maven.galley/galley-transport-httpclient@0.4?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-transport-httpclient@0.4.1
+- pkg:maven/org.commonjava.maven.galley/galley-transport-httpclient@0.4.1?classifier=sources

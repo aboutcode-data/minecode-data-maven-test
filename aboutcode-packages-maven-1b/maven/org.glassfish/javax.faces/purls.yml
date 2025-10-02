@@ -108,3 +108,5 @@
 - pkg:maven/org.glassfish/javax.faces@2.1.27?classifier=sources
 - pkg:maven/org.glassfish/javax.faces@2.1.20-02
 - pkg:maven/org.glassfish/javax.faces@2.1.20-02?classifier=sources
+- pkg:maven/org.glassfish/javax.faces@2.1.20-03
+- pkg:maven/org.glassfish/javax.faces@2.1.20-03?classifier=sources
