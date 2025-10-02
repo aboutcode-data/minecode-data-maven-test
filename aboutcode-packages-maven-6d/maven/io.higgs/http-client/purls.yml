@@ -30,3 +30,7 @@
 - pkg:maven/io.higgs/http-client@0.0.14?classifier=sources
 - pkg:maven/io.higgs/http-client@0.0.15
 - pkg:maven/io.higgs/http-client@0.0.15?classifier=sources
+- pkg:maven/io.higgs/http-client@0.0.18
+- pkg:maven/io.higgs/http-client@0.0.18?classifier=sources
+- pkg:maven/io.higgs/http-client@0.0.17
+- pkg:maven/io.higgs/http-client@0.0.17?classifier=sources
