@@ -14,3 +14,5 @@
 - pkg:maven/com.twitter/finatra-http_2.11@2.8.0?classifier=sources
 - pkg:maven/com.twitter/finatra-http_2.11@2.9.0
 - pkg:maven/com.twitter/finatra-http_2.11@2.9.0?classifier=sources
+- pkg:maven/com.twitter/finatra-http_2.11@2.10.0
+- pkg:maven/com.twitter/finatra-http_2.11@2.10.0?classifier=sources

@@ -46,3 +46,7 @@
 - pkg:maven/de.otto/jlineup@1.5.3?classifier=sources
 - pkg:maven/de.otto/jlineup@1.5.2
 - pkg:maven/de.otto/jlineup@1.5.2?classifier=sources
+- pkg:maven/de.otto/jlineup@2.0.1
+- pkg:maven/de.otto/jlineup@2.0.1?classifier=sources
+- pkg:maven/de.otto/jlineup@2.0.0
+- pkg:maven/de.otto/jlineup@2.0.0?classifier=sources
