@@ -138,3 +138,5 @@
 - pkg:maven/com.yahoo.elide/elide-datastore-multiplex@2.5.2?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-multiplex@3.0.0
 - pkg:maven/com.yahoo.elide/elide-datastore-multiplex@3.0.0?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-multiplex@3.0.1
+- pkg:maven/com.yahoo.elide/elide-datastore-multiplex@3.0.1?classifier=sources

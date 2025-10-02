@@ -110,3 +110,5 @@
 - pkg:maven/com.netflix.fenzo/fenzo-triggers@0.12.8?classifier=sources
 - pkg:maven/com.netflix.fenzo/fenzo-triggers@0.12.7
 - pkg:maven/com.netflix.fenzo/fenzo-triggers@0.12.7?classifier=sources
+- pkg:maven/com.netflix.fenzo/fenzo-triggers@0.13.1
+- pkg:maven/com.netflix.fenzo/fenzo-triggers@0.13.1?classifier=sources
