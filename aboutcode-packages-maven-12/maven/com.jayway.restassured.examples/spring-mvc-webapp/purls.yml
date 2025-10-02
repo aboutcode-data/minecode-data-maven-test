@@ -2,3 +2,5 @@
 - pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.2.0?classifier=sources
 - pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.3.2?type=war
 - pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.3.2?classifier=sources
+- pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.3.3?type=war
+- pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.3.3?classifier=sources

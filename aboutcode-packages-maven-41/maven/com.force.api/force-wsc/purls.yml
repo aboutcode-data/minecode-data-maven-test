@@ -22,3 +22,7 @@
 - pkg:maven/com.force.api/force-wsc@30.0.0?classifier=sources
 - pkg:maven/com.force.api/force-wsc@31.1.0
 - pkg:maven/com.force.api/force-wsc@31.1.0?classifier=sources
+- pkg:maven/com.force.api/force-wsc@32.1.0
+- pkg:maven/com.force.api/force-wsc@32.1.0?classifier=sources
+- pkg:maven/com.force.api/force-wsc@32.0.0
+- pkg:maven/com.force.api/force-wsc@32.0.0?classifier=sources

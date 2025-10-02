@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.governator/governator-commons-cli@1.2.18
 - pkg:maven/com.netflix.governator/governator-commons-cli@1.2.18?classifier=sources
+- pkg:maven/com.netflix.governator/governator-commons-cli@1.2.19
+- pkg:maven/com.netflix.governator/governator-commons-cli@1.2.19?classifier=sources
