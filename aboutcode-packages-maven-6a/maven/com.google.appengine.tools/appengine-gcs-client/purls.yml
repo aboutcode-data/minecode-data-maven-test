@@ -28,3 +28,5 @@
 - pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.3.11?classifier=sources
 - pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.3.13
 - pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.3.13?classifier=sources
+- pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.4
+- pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.4?classifier=sources

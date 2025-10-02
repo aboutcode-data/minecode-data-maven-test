@@ -28,3 +28,5 @@
 - pkg:maven/com.firebase/firebase-client@1.0.15?classifier=sources
 - pkg:maven/com.firebase/firebase-client@1.0.14
 - pkg:maven/com.firebase/firebase-client@1.0.14?classifier=sources
+- pkg:maven/com.firebase/firebase-client@1.0.16
+- pkg:maven/com.firebase/firebase-client@1.0.16?classifier=sources

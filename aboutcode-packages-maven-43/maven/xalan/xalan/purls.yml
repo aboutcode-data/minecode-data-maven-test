@@ -13,3 +13,5 @@
 - pkg:maven/xalan/xalan@2.1.0
 - pkg:maven/xalan/xalan@2.7.0?classifier=src&type=zip
 - pkg:maven/xalan/xalan@2.7.0?classifier=src&type=tar.gz
+- pkg:maven/xalan/xalan@2.7.2
+- pkg:maven/xalan/xalan@2.7.2?classifier=sources

@@ -33,3 +33,5 @@
 - pkg:maven/org.rhq/alert-operations@4.10.0?classifier=sources
 - pkg:maven/org.rhq/alert-operations@4.11.0
 - pkg:maven/org.rhq/alert-operations@4.11.0?classifier=sources
+- pkg:maven/org.rhq/alert-operations@4.12.0
+- pkg:maven/org.rhq/alert-operations@4.12.0?classifier=sources
