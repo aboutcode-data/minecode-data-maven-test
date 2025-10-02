@@ -102,3 +102,7 @@
 - pkg:maven/io.zipkin/zipkin-thrift@1.25.2?classifier=sources
 - pkg:maven/io.zipkin/zipkin-thrift@1.26.0
 - pkg:maven/io.zipkin/zipkin-thrift@1.26.0?classifier=sources
+- pkg:maven/io.zipkin/zipkin-thrift@1.27.0
+- pkg:maven/io.zipkin/zipkin-thrift@1.27.0?classifier=sources
+- pkg:maven/io.zipkin/zipkin-thrift@1.26.1
+- pkg:maven/io.zipkin/zipkin-thrift@1.26.1?classifier=sources

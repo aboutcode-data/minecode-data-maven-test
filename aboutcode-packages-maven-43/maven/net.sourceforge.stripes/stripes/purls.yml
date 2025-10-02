@@ -29,3 +29,5 @@
 - pkg:maven/net.sourceforge.stripes/stripes@1.5.8?classifier=sources
 - pkg:maven/net.sourceforge.stripes/stripes@1.6.0
 - pkg:maven/net.sourceforge.stripes/stripes@1.6.0?classifier=sources
+- pkg:maven/net.sourceforge.stripes/stripes@1.7.0-async-beta
+- pkg:maven/net.sourceforge.stripes/stripes@1.7.0-async-beta?classifier=sources

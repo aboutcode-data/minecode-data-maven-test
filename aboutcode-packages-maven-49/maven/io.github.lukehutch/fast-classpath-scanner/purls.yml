@@ -46,3 +46,5 @@
 - pkg:maven/io.github.lukehutch/fast-classpath-scanner@1.9.12?classifier=sources
 - pkg:maven/io.github.lukehutch/fast-classpath-scanner@1.9.11
 - pkg:maven/io.github.lukehutch/fast-classpath-scanner@1.9.11?classifier=sources
+- pkg:maven/io.github.lukehutch/fast-classpath-scanner@1.9.13
+- pkg:maven/io.github.lukehutch/fast-classpath-scanner@1.9.13?classifier=sources
