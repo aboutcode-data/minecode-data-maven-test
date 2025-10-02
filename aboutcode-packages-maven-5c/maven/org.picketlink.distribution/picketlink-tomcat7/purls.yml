@@ -11,3 +11,5 @@
 - pkg:maven/org.picketlink.distribution/picketlink-tomcat7@2.1.6.2.Final?classifier=sources
 - pkg:maven/org.picketlink.distribution/picketlink-tomcat7@2.1.6.3.Final?classifier=sources
 - pkg:maven/org.picketlink.distribution/picketlink-tomcat7@2.5.0.CR1?classifier=sources
+- pkg:maven/org.picketlink.distribution/picketlink-tomcat7@2.5.0.CR2?classifier=sources
+- pkg:maven/org.picketlink.distribution/picketlink-tomcat7@2.1.8.Final?classifier=sources

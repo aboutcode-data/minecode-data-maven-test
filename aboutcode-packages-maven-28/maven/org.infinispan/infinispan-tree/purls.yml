@@ -103,3 +103,5 @@
 - pkg:maven/org.infinispan/infinispan-tree@6.0.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tree@6.0.0.Alpha2
 - pkg:maven/org.infinispan/infinispan-tree@6.0.0.Alpha2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tree@6.0.0.Alpha3
+- pkg:maven/org.infinispan/infinispan-tree@6.0.0.Alpha3?classifier=sources

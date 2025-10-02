@@ -1,0 +1,2 @@
+- pkg:maven/org.molgenis/molgenis-app-ngs@0.0.1?type=war
+- pkg:maven/org.molgenis/molgenis-app-ngs@0.0.1?classifier=sources
