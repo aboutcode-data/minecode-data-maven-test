@@ -104,3 +104,5 @@
 - pkg:maven/org.kohsuke/github-api@1.59?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.61
 - pkg:maven/org.kohsuke/github-api@1.61?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.62
+- pkg:maven/org.kohsuke/github-api@1.62?classifier=sources

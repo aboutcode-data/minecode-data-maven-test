@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.17?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.18
 - pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.18?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.20
+- pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.20?classifier=sources

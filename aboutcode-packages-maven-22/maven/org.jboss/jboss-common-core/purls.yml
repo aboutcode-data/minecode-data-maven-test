@@ -46,3 +46,6 @@
 - pkg:maven/org.jboss/jboss-common-core@2.2.20.GA?classifier=sources
 - pkg:maven/org.jboss/jboss-common-core@2.2.22.GA
 - pkg:maven/org.jboss/jboss-common-core@2.2.22.GA?classifier=sources
+- pkg:maven/org.jboss/jboss-common-core@2.5.0.Beta1
+- pkg:maven/org.jboss/jboss-common-core@2.5.0.Beta1?classifier=sources
+- pkg:maven/org.jboss/jboss-common-core@2.5.0.Beta1?classifier=source-release&type=zip
