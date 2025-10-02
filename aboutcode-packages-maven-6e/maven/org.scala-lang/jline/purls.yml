@@ -102,3 +102,5 @@
 - pkg:maven/org.scala-lang/jline@2.10.4-RC1?classifier=sources
 - pkg:maven/org.scala-lang/jline@2.10.4-RC2
 - pkg:maven/org.scala-lang/jline@2.10.4-RC2?classifier=sources
+- pkg:maven/org.scala-lang/jline@2.10.4-RC3
+- pkg:maven/org.scala-lang/jline@2.10.4-RC3?classifier=sources

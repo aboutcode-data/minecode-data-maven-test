@@ -166,3 +166,5 @@
 - pkg:maven/org.scala-lang/scalap@2.11.0-M8?classifier=sources
 - pkg:maven/org.scala-lang/scalap@2.10.4-RC2
 - pkg:maven/org.scala-lang/scalap@2.10.4-RC2?classifier=sources
+- pkg:maven/org.scala-lang/scalap@2.10.4-RC3
+- pkg:maven/org.scala-lang/scalap@2.10.4-RC3?classifier=sources
