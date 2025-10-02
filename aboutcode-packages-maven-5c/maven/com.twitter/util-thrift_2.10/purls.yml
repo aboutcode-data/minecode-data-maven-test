@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/util-thrift_2.10@6.1.0
 - pkg:maven/com.twitter/util-thrift_2.10@6.1.0?classifier=sources
+- pkg:maven/com.twitter/util-thrift_2.10@6.2.0
+- pkg:maven/com.twitter/util-thrift_2.10@6.2.0?classifier=sources

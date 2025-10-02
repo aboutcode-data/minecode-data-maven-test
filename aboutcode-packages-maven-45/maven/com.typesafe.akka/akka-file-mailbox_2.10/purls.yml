@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.akka/akka-file-mailbox_2.10@2.1.0
 - pkg:maven/com.typesafe.akka/akka-file-mailbox_2.10@2.1.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-file-mailbox_2.10@2.2-M1
+- pkg:maven/com.typesafe.akka/akka-file-mailbox_2.10@2.2-M1?classifier=sources
