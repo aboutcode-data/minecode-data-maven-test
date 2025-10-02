@@ -1,2 +1,4 @@
 - pkg:maven/com.watchrabbit/crawler-manager@0.8.0
 - pkg:maven/com.watchrabbit/crawler-manager@0.8.0?classifier=sources
+- pkg:maven/com.watchrabbit/crawler-manager@8.0.1
+- pkg:maven/com.watchrabbit/crawler-manager@8.0.1?classifier=sources
