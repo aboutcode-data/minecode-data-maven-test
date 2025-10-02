@@ -12,3 +12,5 @@
 - pkg:maven/com.ryantenney.metrics/metrics-spring@2.2.0?classifier=sources
 - pkg:maven/com.ryantenney.metrics/metrics-spring@3.0.0
 - pkg:maven/com.ryantenney.metrics/metrics-spring@3.0.0?classifier=sources
+- pkg:maven/com.ryantenney.metrics/metrics-spring@3.0.1
+- pkg:maven/com.ryantenney.metrics/metrics-spring@3.0.1?classifier=sources

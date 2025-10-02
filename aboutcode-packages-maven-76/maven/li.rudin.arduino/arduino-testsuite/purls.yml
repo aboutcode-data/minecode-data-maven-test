@@ -16,3 +16,5 @@
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.8?classifier=sources
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.7
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.7?classifier=sources
+- pkg:maven/li.rudin.arduino/arduino-testsuite@2.9
+- pkg:maven/li.rudin.arduino/arduino-testsuite@2.9?classifier=sources
