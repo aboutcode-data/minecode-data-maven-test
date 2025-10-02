@@ -76,3 +76,5 @@
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.6-10?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.6-11?type=war
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.6-11?classifier=sources
+- pkg:maven/com.payneteasy.superfly/superfly-web@1.6-12?type=war
+- pkg:maven/com.payneteasy.superfly/superfly-web@1.6-12?classifier=sources
