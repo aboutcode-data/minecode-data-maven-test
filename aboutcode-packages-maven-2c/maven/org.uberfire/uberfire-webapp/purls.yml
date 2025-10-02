@@ -70,3 +70,9 @@
 - pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR7?classifier=sources
 - pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR6?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR6?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR9?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR9?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR8?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR8?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR10?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@0.5.0.CR10?classifier=sources

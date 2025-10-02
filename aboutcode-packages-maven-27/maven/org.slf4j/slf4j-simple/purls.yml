@@ -95,3 +95,5 @@
 - pkg:maven/org.slf4j/slf4j-simple@1.7.9?classifier=sources
 - pkg:maven/org.slf4j/slf4j-simple@1.7.8
 - pkg:maven/org.slf4j/slf4j-simple@1.7.8?classifier=sources
+- pkg:maven/org.slf4j/slf4j-simple@1.7.10
+- pkg:maven/org.slf4j/slf4j-simple@1.7.10?classifier=sources

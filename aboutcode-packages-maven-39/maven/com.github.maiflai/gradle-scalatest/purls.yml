@@ -8,3 +8,7 @@
 - pkg:maven/com.github.maiflai/gradle-scalatest@0.4?classifier=sources
 - pkg:maven/com.github.maiflai/gradle-scalatest@0.5
 - pkg:maven/com.github.maiflai/gradle-scalatest@0.5?classifier=sources
+- pkg:maven/com.github.maiflai/gradle-scalatest@0.6-5-g9065d91
+- pkg:maven/com.github.maiflai/gradle-scalatest@0.6-5-g9065d91?classifier=sources
+- pkg:maven/com.github.maiflai/gradle-scalatest@0.6-2-g0c70497
+- pkg:maven/com.github.maiflai/gradle-scalatest@0.6-2-g0c70497?classifier=sources

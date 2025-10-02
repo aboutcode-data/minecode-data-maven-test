@@ -1,2 +1,4 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@2.0.19
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@2.0.19?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@2.0.20
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@2.0.20?classifier=sources
