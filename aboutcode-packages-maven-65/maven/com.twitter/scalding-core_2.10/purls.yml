@@ -74,3 +74,5 @@
 - pkg:maven/com.twitter/scalding-core_2.10@0.16.0?classifier=sources
 - pkg:maven/com.twitter/scalding-core_2.10@0.16.1-RC1
 - pkg:maven/com.twitter/scalding-core_2.10@0.16.1-RC1?classifier=sources
+- pkg:maven/com.twitter/scalding-core_2.10@0.16.1-RC2
+- pkg:maven/com.twitter/scalding-core_2.10@0.16.1-RC2?classifier=sources
