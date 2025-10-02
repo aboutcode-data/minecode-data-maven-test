@@ -196,3 +196,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@4.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@3.3.0
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@3.3.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@4.4.0
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@4.4.0?classifier=sources
