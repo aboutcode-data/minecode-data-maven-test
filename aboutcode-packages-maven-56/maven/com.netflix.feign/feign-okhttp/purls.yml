@@ -16,3 +16,5 @@
 - pkg:maven/com.netflix.feign/feign-okhttp@8.0.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-okhttp@7.4.0
 - pkg:maven/com.netflix.feign/feign-okhttp@7.4.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-okhttp@8.1.1
+- pkg:maven/com.netflix.feign/feign-okhttp@8.1.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.baidu.disconf/disconf-web@2.6.20?type=war
 - pkg:maven/com.baidu.disconf/disconf-web@2.6.20?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.21?type=war
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.21?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.cloudhopper/ch-smpp@6.0.0-netty4-beta-2?classifier=sources
 - pkg:maven/com.cloudhopper/ch-smpp@5.0.7
 - pkg:maven/com.cloudhopper/ch-smpp@5.0.7?classifier=sources
+- pkg:maven/com.cloudhopper/ch-smpp@5.0.8
+- pkg:maven/com.cloudhopper/ch-smpp@5.0.8?classifier=sources

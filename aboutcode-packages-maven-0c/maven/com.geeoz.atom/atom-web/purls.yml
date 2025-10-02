@@ -44,3 +44,5 @@
 - pkg:maven/com.geeoz.atom/atom-web@1.0d31?classifier=sources
 - pkg:maven/com.geeoz.atom/atom-web@1.0d32?type=war
 - pkg:maven/com.geeoz.atom/atom-web@1.0d32?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-web@1.0.0?type=war
+- pkg:maven/com.geeoz.atom/atom-web@1.0.0?classifier=sources
