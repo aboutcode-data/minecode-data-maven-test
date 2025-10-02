@@ -18,3 +18,5 @@
 - pkg:maven/org.vibur/vibur-dbcp-hibernate4@6.1?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp-hibernate4@7.0
 - pkg:maven/org.vibur/vibur-dbcp-hibernate4@7.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4@8.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4@8.0?classifier=sources
