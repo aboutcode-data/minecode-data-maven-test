@@ -42,3 +42,7 @@
 - pkg:maven/com.factual/factual-java-driver@1.5.2-android?classifier=sources
 - pkg:maven/com.factual/factual-java-driver@1.5.2
 - pkg:maven/com.factual/factual-java-driver@1.5.2?classifier=sources
+- pkg:maven/com.factual/factual-java-driver@1.5.3-android
+- pkg:maven/com.factual/factual-java-driver@1.5.3-android?classifier=sources
+- pkg:maven/com.factual/factual-java-driver@1.5.3
+- pkg:maven/com.factual/factual-java-driver@1.5.3?classifier=sources

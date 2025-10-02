@@ -12,3 +12,5 @@
 - pkg:maven/org.jasig.openregistry/openregistry-api@0.8.9?classifier=sources
 - pkg:maven/org.jasig.openregistry/openregistry-api@0.9
 - pkg:maven/org.jasig.openregistry/openregistry-api@0.9?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-api@0.9.1
+- pkg:maven/org.jasig.openregistry/openregistry-api@0.9.1?classifier=sources

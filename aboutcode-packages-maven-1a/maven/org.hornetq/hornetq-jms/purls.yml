@@ -124,3 +124,5 @@
 - pkg:maven/org.hornetq/hornetq-jms@2.2.17.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-jms@2.3.0.Alpha
 - pkg:maven/org.hornetq/hornetq-jms@2.3.0.Alpha?classifier=sources
+- pkg:maven/org.hornetq/hornetq-jms@2.2.19.Final
+- pkg:maven/org.hornetq/hornetq-jms@2.2.19.Final?classifier=sources

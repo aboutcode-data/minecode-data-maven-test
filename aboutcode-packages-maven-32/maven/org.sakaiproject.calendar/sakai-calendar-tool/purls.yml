@@ -6,3 +6,5 @@
 - pkg:maven/org.sakaiproject.calendar/sakai-calendar-tool@2.9.0-b05?classifier=sources
 - pkg:maven/org.sakaiproject.calendar/sakai-calendar-tool@2.9.0-b06?type=war
 - pkg:maven/org.sakaiproject.calendar/sakai-calendar-tool@2.9.0-b06?classifier=sources
+- pkg:maven/org.sakaiproject.calendar/sakai-calendar-tool@2.9.0-b07?type=war
+- pkg:maven/org.sakaiproject.calendar/sakai-calendar-tool@2.9.0-b07?classifier=sources
