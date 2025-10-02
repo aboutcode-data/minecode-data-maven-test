@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.openejb/arquillian-tomee-embedded@1.6.0.2?classifier=sources
 - pkg:maven/org.apache.openejb/arquillian-tomee-embedded@1.7.0
 - pkg:maven/org.apache.openejb/arquillian-tomee-embedded@1.7.0?classifier=sources
+- pkg:maven/org.apache.openejb/arquillian-tomee-embedded@1.7.1
+- pkg:maven/org.apache.openejb/arquillian-tomee-embedded@1.7.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.maritimecloud/mc-core@0.2-RC2
 - pkg:maven/net.maritimecloud/mc-core@0.2-RC2?classifier=sources
+- pkg:maven/net.maritimecloud/mc-core@0.2
+- pkg:maven/net.maritimecloud/mc-core@0.2?classifier=sources

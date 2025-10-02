@@ -1,2 +1,4 @@
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.6
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.6?classifier=sources
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.6a
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.6a?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.lucene/lucene-codecs@4.8.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-codecs@4.9.0
 - pkg:maven/org.apache.lucene/lucene-codecs@4.9.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-codecs@4.10.0
+- pkg:maven/org.apache.lucene/lucene-codecs@4.10.0?classifier=sources
