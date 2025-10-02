@@ -3,3 +3,4 @@
 - pkg:maven/com.linecorp.armeria/armeria-zipkin@0.31.1.Final?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-zipkin@0.31.0.Final?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-zipkin@0.30.0.Final?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.32.0?classifier=sources
