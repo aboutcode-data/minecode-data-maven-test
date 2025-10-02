@@ -16,3 +16,5 @@
 - pkg:maven/me.tatarka/bindingcollectionadapter@0.9?classifier=sources
 - pkg:maven/me.tatarka/bindingcollectionadapter@0.8?type=aar
 - pkg:maven/me.tatarka/bindingcollectionadapter@0.8?classifier=sources
+- pkg:maven/me.tatarka/bindingcollectionadapter@0.10?type=aar
+- pkg:maven/me.tatarka/bindingcollectionadapter@0.10?classifier=sources
