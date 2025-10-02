@@ -14,3 +14,7 @@
 - pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.2?classifier=sources
 - pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.1
 - pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.1?classifier=sources
+- pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.trustcdr.withtests.9
+- pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.trustcdr.withtests.9?classifier=sources
+- pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.trustcdr.9
+- pkg:maven/org.restcomm/restcomm-connect.data.recorder@8.0.0.trustcdr.9?classifier=sources
