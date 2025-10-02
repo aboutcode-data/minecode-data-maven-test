@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.jube/war@2.0.0?type=war
+- pkg:maven/io.fabric8.jube/war@2.0.0?classifier=sources

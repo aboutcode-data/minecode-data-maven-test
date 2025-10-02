@@ -1,0 +1,6 @@
+- pkg:maven/no.finn.unleash/unleash-client-java@0.2-beta
+- pkg:maven/no.finn.unleash/unleash-client-java@0.2-beta?classifier=sources
+- pkg:maven/no.finn.unleash/unleash-client-java@0.1-beta
+- pkg:maven/no.finn.unleash/unleash-client-java@0.1-beta?classifier=sources
+- pkg:maven/no.finn.unleash/unleash-client-java@0.1-alpha
+- pkg:maven/no.finn.unleash/unleash-client-java@0.1-alpha?classifier=sources

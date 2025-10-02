@@ -60,3 +60,5 @@
 - pkg:maven/io.airlift/units@0.94?classifier=sources
 - pkg:maven/io.airlift/units@0.95
 - pkg:maven/io.airlift/units@0.95?classifier=sources
+- pkg:maven/io.airlift/units@0.96
+- pkg:maven/io.airlift/units@0.96?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.codehaus.sonar-plugins.php/php-checks@2.2?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.php/php-checks@2.3
 - pkg:maven/org.codehaus.sonar-plugins.php/php-checks@2.3?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.php/php-checks@2.4
+- pkg:maven/org.codehaus.sonar-plugins.php/php-checks@2.4?classifier=sources
