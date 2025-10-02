@@ -144,3 +144,5 @@
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.0.0-M05?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@2.3.3
 - pkg:maven/org.neo4j/neo4j-consistency-check@2.3.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check@2.2.9
+- pkg:maven/org.neo4j/neo4j-consistency-check@2.2.9?classifier=sources
