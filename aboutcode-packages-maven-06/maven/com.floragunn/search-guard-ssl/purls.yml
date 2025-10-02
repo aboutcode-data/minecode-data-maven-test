@@ -66,3 +66,5 @@
 - pkg:maven/com.floragunn/search-guard-ssl@5.0.0-rc1-16d?classifier=sources
 - pkg:maven/com.floragunn/search-guard-ssl@5.0.0-rc1-16c?type=zip
 - pkg:maven/com.floragunn/search-guard-ssl@5.0.0-rc1-16c?classifier=sources
+- pkg:maven/com.floragunn/search-guard-ssl@2.2.0.16?type=zip
+- pkg:maven/com.floragunn/search-guard-ssl@2.2.0.16?classifier=sources
