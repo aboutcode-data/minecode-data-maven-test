@@ -36,3 +36,5 @@
 - pkg:maven/com.vaadin/vaadin-widgets@7.4.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-widgets@7.5.0.rc2
 - pkg:maven/com.vaadin/vaadin-widgets@7.5.0.rc2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-widgets@7.5.0
+- pkg:maven/com.vaadin/vaadin-widgets@7.5.0?classifier=sources

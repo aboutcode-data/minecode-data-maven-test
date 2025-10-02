@@ -32,3 +32,5 @@
 - pkg:maven/com.twitter/ostrich_2.10@9.6.3?classifier=sources
 - pkg:maven/com.twitter/ostrich_2.10@9.8.0
 - pkg:maven/com.twitter/ostrich_2.10@9.8.0?classifier=sources
+- pkg:maven/com.twitter/ostrich_2.10@9.9.0
+- pkg:maven/com.twitter/ostrich_2.10@9.9.0?classifier=sources

@@ -130,3 +130,5 @@
 - pkg:maven/io.fabric8/fabric-cxf@2.0.45?classifier=sources
 - pkg:maven/io.fabric8/fabric-cxf@2.0.44
 - pkg:maven/io.fabric8/fabric-cxf@2.0.44?classifier=sources
+- pkg:maven/io.fabric8/fabric-cxf@1.2.0.redhat-133
+- pkg:maven/io.fabric8/fabric-cxf@1.2.0.redhat-133?classifier=sources
