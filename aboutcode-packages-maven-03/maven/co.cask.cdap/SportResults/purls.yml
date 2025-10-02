@@ -26,3 +26,7 @@
 - pkg:maven/co.cask.cdap/SportResults@3.0.6?classifier=sources
 - pkg:maven/co.cask.cdap/SportResults@3.2.2
 - pkg:maven/co.cask.cdap/SportResults@3.2.2?classifier=sources
+- pkg:maven/co.cask.cdap/SportResults@3.3.0
+- pkg:maven/co.cask.cdap/SportResults@3.3.0?classifier=sources
+- pkg:maven/co.cask.cdap/SportResults@2.8.3
+- pkg:maven/co.cask.cdap/SportResults@2.8.3?classifier=sources

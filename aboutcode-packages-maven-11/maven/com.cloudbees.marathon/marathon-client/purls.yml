@@ -6,3 +6,5 @@
 - pkg:maven/com.cloudbees.marathon/marathon-client@0.4.10?classifier=sources
 - pkg:maven/com.cloudbees.marathon/marathon-client@0.4.12
 - pkg:maven/com.cloudbees.marathon/marathon-client@0.4.12?classifier=sources
+- pkg:maven/com.cloudbees.marathon/marathon-client@0.4.13
+- pkg:maven/com.cloudbees.marathon/marathon-client@0.4.13?classifier=sources
