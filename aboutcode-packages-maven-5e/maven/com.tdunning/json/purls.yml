@@ -10,3 +10,5 @@
 - pkg:maven/com.tdunning/json@1.6?classifier=sources
 - pkg:maven/com.tdunning/json@1.4
 - pkg:maven/com.tdunning/json@1.4?classifier=sources
+- pkg:maven/com.tdunning/json@1.7
+- pkg:maven/com.tdunning/json@1.7?classifier=sources
