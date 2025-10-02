@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@1.0.1?classifier=sources
 - pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@0.9.2
 - pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@0.9.2?classifier=sources
+- pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@1.0.2
+- pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@1.0.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.jclouds.provider/elastichosts-syd-v@1.7.3
 - pkg:maven/org.apache.jclouds.provider/elastichosts-syd-v@1.7.3?classifier=sources
+- pkg:maven/org.apache.jclouds.provider/elastichosts-syd-v@1.8.0
+- pkg:maven/org.apache.jclouds.provider/elastichosts-syd-v@1.8.0?classifier=sources

@@ -198,3 +198,7 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.25.7?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.28.2
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.28.2?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.25.9-rc001
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.25.9-rc001?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.25.8
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@0.25.8?classifier=sources
