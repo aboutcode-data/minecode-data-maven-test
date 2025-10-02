@@ -16,3 +16,5 @@
 - pkg:maven/com.typesafe.sbt/sbt-interface@0.12.3?classifier=sources
 - pkg:maven/com.typesafe.sbt/sbt-interface@0.12.4
 - pkg:maven/com.typesafe.sbt/sbt-interface@0.12.4?classifier=sources
+- pkg:maven/com.typesafe.sbt/sbt-interface@0.13.0
+- pkg:maven/com.typesafe.sbt/sbt-interface@0.13.0?classifier=sources

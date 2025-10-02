@@ -72,3 +72,7 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@1.9.24?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@1.9.23
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@1.9.23?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@2.0.1
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@2.0.1?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@2.0.0
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-core-integration-test@2.0.0?classifier=sources

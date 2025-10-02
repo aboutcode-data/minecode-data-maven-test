@@ -44,3 +44,5 @@
 - pkg:maven/de.saumya.mojo/ruby-tools@0.29.4?classifier=sources
 - pkg:maven/de.saumya.mojo/ruby-tools@1.0.0-beta
 - pkg:maven/de.saumya.mojo/ruby-tools@1.0.0-beta?classifier=sources
+- pkg:maven/de.saumya.mojo/ruby-tools@1.0.0-rc
+- pkg:maven/de.saumya.mojo/ruby-tools@1.0.0-rc?classifier=sources
