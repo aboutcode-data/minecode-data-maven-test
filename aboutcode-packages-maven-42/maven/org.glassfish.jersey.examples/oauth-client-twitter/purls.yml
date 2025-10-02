@@ -61,3 +61,4 @@
 - pkg:maven/org.glassfish.jersey.examples/oauth-client-twitter@2.15
 - pkg:maven/org.glassfish.jersey.examples/oauth-client-twitter@2.15?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/oauth-client-twitter@2.15?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/oauth-client-twitter@2.16

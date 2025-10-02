@@ -50,3 +50,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.8.3?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.9
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.9?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.10
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.10?classifier=sources

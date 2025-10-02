@@ -1,0 +1,4 @@
+- pkg:maven/org.scalatest/scalatest-all_2.10@2.3.0-SNAP2
+- pkg:maven/org.scalatest/scalatest-all_2.10@2.3.0-SNAP2?classifier=sources
+- pkg:maven/org.scalatest/scalatest-all_2.10@2.3.0-SNAP1
+- pkg:maven/org.scalatest/scalatest-all_2.10@2.3.0-SNAP1?classifier=sources

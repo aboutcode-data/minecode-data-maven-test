@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.15
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.15?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.16
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.16?classifier=sources

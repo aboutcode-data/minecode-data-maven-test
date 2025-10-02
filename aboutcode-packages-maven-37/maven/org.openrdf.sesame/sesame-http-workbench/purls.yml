@@ -38,3 +38,5 @@
 - pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.7.13?classifier=sources
 - pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.7.14?type=war
 - pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.7.14?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.8.0?type=war
+- pkg:maven/org.openrdf.sesame/sesame-http-workbench@2.8.0?classifier=sources
