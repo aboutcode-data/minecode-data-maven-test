@@ -32,3 +32,5 @@
 - pkg:maven/com.typesafe.akka/akka-osgi-aries_2.10@2.3-M2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi-aries_2.10@2.3.0-RC1
 - pkg:maven/com.typesafe.akka/akka-osgi-aries_2.10@2.3.0-RC1?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi-aries_2.10@2.2.4
+- pkg:maven/com.typesafe.akka/akka-osgi-aries_2.10@2.2.4?classifier=sources

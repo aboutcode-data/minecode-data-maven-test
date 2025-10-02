@@ -28,3 +28,9 @@
 - pkg:maven/com.nicta/scoobi_2.10@0.8.0-cdh3?classifier=sources
 - pkg:maven/com.nicta/scoobi_2.10@0.8.0
 - pkg:maven/com.nicta/scoobi_2.10@0.8.0?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.1-cdh4
+- pkg:maven/com.nicta/scoobi_2.10@0.8.1-cdh4?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.1-cdh3
+- pkg:maven/com.nicta/scoobi_2.10@0.8.1-cdh3?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.1
+- pkg:maven/com.nicta/scoobi_2.10@0.8.1?classifier=sources

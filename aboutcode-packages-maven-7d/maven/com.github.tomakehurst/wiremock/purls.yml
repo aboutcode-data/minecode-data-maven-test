@@ -50,3 +50,5 @@
 - pkg:maven/com.github.tomakehurst/wiremock@1.42?classifier=sources
 - pkg:maven/com.github.tomakehurst/wiremock@1.43
 - pkg:maven/com.github.tomakehurst/wiremock@1.43?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock@1.44
+- pkg:maven/com.github.tomakehurst/wiremock@1.44?classifier=sources
