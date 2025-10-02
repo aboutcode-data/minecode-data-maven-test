@@ -22,3 +22,13 @@
 - pkg:maven/org.datasyslab/geospark@0.5.2-spark-1.x?classifier=sources
 - pkg:maven/org.datasyslab/geospark@0.5.2
 - pkg:maven/org.datasyslab/geospark@0.5.2?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.6.1-snapshot
+- pkg:maven/org.datasyslab/geospark@0.6.1-snapshot?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.6.0-spark-1.x
+- pkg:maven/org.datasyslab/geospark@0.6.0-spark-1.x?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.6.0
+- pkg:maven/org.datasyslab/geospark@0.6.0?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.5.3-spark-1.x
+- pkg:maven/org.datasyslab/geospark@0.5.3-spark-1.x?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.5.3
+- pkg:maven/org.datasyslab/geospark@0.5.3?classifier=sources

@@ -260,3 +260,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-core@2.6.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-core@2.15.1
 - pkg:maven/org.apache.jackrabbit/jackrabbit-core@2.15.1?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-core@2.12.7
+- pkg:maven/org.apache.jackrabbit/jackrabbit-core@2.12.7?classifier=sources
