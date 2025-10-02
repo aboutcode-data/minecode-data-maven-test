@@ -64,3 +64,5 @@
 - pkg:maven/org.graylog2/graylog2-rest-client@1.1.0-rc.2?classifier=sources
 - pkg:maven/org.graylog2/graylog2-rest-client@1.1.0
 - pkg:maven/org.graylog2/graylog2-rest-client@1.1.0?classifier=sources
+- pkg:maven/org.graylog2/graylog2-rest-client@1.1.2
+- pkg:maven/org.graylog2/graylog2-rest-client@1.1.2?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.storm/storm@0.9.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.storm/storm@0.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.storm/storm@0.9.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.storm/storm@0.10.0-beta?classifier=source-release&type=zip

@@ -92,3 +92,9 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.17?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.17?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.17?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.5.2?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.5.2?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.5.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.18?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.18?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.18?classifier=project-src&type=zip

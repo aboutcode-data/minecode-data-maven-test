@@ -10,3 +10,5 @@
 - pkg:maven/org.jasig.cas/cas-management-webapp@4.0.0?classifier=sources
 - pkg:maven/org.jasig.cas/cas-management-webapp@4.0.1?type=war
 - pkg:maven/org.jasig.cas/cas-management-webapp@4.0.1?classifier=sources
+- pkg:maven/org.jasig.cas/cas-management-webapp@4.0.2?type=war
+- pkg:maven/org.jasig.cas/cas-management-webapp@4.0.2?classifier=sources

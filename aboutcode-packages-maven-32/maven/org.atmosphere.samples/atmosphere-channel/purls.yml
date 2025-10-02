@@ -182,3 +182,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-channel@2.3.1?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-channel@2.2.7?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-channel@2.2.7?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-channel@2.3.2?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-channel@2.3.2?classifier=sources

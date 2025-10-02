@@ -36,3 +36,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@2.5.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@2.4.3?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@2.4.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@2.6.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@2.6.0?classifier=sources

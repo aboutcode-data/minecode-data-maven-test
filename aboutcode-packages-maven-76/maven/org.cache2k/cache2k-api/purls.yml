@@ -6,3 +6,5 @@
 - pkg:maven/org.cache2k/cache2k-api@0.20?classifier=sources
 - pkg:maven/org.cache2k/cache2k-api@0.21
 - pkg:maven/org.cache2k/cache2k-api@0.21?classifier=sources
+- pkg:maven/org.cache2k/cache2k-api@0.21.1
+- pkg:maven/org.cache2k/cache2k-api@0.21.1?classifier=sources
