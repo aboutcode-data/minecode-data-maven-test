@@ -46,3 +46,5 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc@2.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc@2.10.4
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc@2.10.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc@2.13
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc@2.13?classifier=sources

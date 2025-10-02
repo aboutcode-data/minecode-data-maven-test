@@ -92,3 +92,5 @@
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-inmemory@2.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-inmemory@2.10.4
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-inmemory@2.10.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-inmemory@2.13
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-inmemory@2.13?classifier=sources

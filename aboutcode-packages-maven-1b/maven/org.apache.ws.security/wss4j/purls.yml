@@ -61,3 +61,6 @@
 - pkg:maven/org.apache.ws.security/wss4j@1.6.16
 - pkg:maven/org.apache.ws.security/wss4j@1.6.16?classifier=sources
 - pkg:maven/org.apache.ws.security/wss4j@1.6.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.ws.security/wss4j@1.6.17
+- pkg:maven/org.apache.ws.security/wss4j@1.6.17?classifier=sources
+- pkg:maven/org.apache.ws.security/wss4j@1.6.17?classifier=source-release&type=zip

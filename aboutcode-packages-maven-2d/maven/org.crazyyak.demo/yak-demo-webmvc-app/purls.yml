@@ -8,3 +8,5 @@
 - pkg:maven/org.crazyyak.demo/yak-demo-webmvc-app@3.1.0?classifier=sources
 - pkg:maven/org.crazyyak.demo/yak-demo-webmvc-app@3.2.2?type=war
 - pkg:maven/org.crazyyak.demo/yak-demo-webmvc-app@3.2.2?classifier=sources
+- pkg:maven/org.crazyyak.demo/yak-demo-webmvc-app@3.2.3?type=war
+- pkg:maven/org.crazyyak.demo/yak-demo-webmvc-app@3.2.3?classifier=sources

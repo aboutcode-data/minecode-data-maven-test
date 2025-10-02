@@ -1,2 +1,4 @@
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0-RC2?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0-RC2?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0-RC3?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0-RC3?classifier=sources
