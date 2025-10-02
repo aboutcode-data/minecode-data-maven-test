@@ -1,2 +1,4 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-clouddirectory@1.11.86
 - pkg:maven/com.amazonaws/aws-java-sdk-clouddirectory@1.11.86?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-clouddirectory@1.11.87
+- pkg:maven/com.amazonaws/aws-java-sdk-clouddirectory@1.11.87?classifier=sources

@@ -80,3 +80,8 @@
 - pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha19?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha18?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha23?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Beta3?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha25?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha24?classifier=source-release&type=zip
