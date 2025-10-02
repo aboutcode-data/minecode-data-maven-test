@@ -2,3 +2,7 @@
 - pkg:maven/com.factual/factual-java-driver@1.0?classifier=sources
 - pkg:maven/com.factual/factual-java-driver@1.1.0
 - pkg:maven/com.factual/factual-java-driver@1.1.0?classifier=sources
+- pkg:maven/com.factual/factual-java-driver@1.3.0-alpha
+- pkg:maven/com.factual/factual-java-driver@1.3.0-alpha?classifier=sources
+- pkg:maven/com.factual/factual-java-driver@1.2.0
+- pkg:maven/com.factual/factual-java-driver@1.2.0?classifier=sources

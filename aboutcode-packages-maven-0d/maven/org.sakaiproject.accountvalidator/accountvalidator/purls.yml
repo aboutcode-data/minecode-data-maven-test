@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.accountvalidator/accountvalidator@2.9.0-b03?type=war
 - pkg:maven/org.sakaiproject.accountvalidator/accountvalidator@2.9.0-b03?classifier=sources
+- pkg:maven/org.sakaiproject.accountvalidator/accountvalidator@2.9.0-b04?type=war
+- pkg:maven/org.sakaiproject.accountvalidator/accountvalidator@2.9.0-b04?classifier=sources

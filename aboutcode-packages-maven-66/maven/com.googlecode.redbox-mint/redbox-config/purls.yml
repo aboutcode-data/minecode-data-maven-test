@@ -1,2 +1,4 @@
 - pkg:maven/com.googlecode.redbox-mint/redbox-config@1.4
 - pkg:maven/com.googlecode.redbox-mint/redbox-config@1.4?classifier=sources
+- pkg:maven/com.googlecode.redbox-mint/redbox-config@1.5RC1
+- pkg:maven/com.googlecode.redbox-mint/redbox-config@1.5RC1?classifier=sources

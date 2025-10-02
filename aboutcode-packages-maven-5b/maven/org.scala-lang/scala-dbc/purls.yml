@@ -155,3 +155,5 @@
 - pkg:maven/org.scala-lang/scala-dbc@2.9.2-RC2?classifier=sources
 - pkg:maven/org.scala-lang/scala-dbc@2.9.2-RC3
 - pkg:maven/org.scala-lang/scala-dbc@2.9.2-RC3?classifier=sources
+- pkg:maven/org.scala-lang/scala-dbc@2.9.2
+- pkg:maven/org.scala-lang/scala-dbc@2.9.2?classifier=sources

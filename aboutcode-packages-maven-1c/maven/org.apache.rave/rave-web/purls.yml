@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.rave/rave-web@0.8-incubating?classifier=sources
 - pkg:maven/org.apache.rave/rave-web@0.9-incubating
 - pkg:maven/org.apache.rave/rave-web@0.9-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-web@0.10.1
+- pkg:maven/org.apache.rave/rave-web@0.10.1?classifier=sources

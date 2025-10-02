@@ -30,3 +30,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.0.8?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.1.2
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.1.2?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.0.9
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@1.0.9?classifier=sources

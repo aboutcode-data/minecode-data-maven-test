@@ -1,3 +1,5 @@
 - pkg:maven/org.crsh/crsh.site@1.0.0-beta24
 - pkg:maven/org.crsh/crsh.site@1.0.0-cr1
 - pkg:maven/org.crsh/crsh.site@1.0.0-cr1?classifier=sources
+- pkg:maven/org.crsh/crsh.site@1.0.0-cr2
+- pkg:maven/org.crsh/crsh.site@1.0.0-cr2?classifier=sources
