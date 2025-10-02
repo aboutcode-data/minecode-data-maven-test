@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.11?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.12
 - pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.12?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.12.1
+- pkg:maven/org.apache.maven.plugins/maven-surefire-report-plugin@2.12.1?classifier=sources

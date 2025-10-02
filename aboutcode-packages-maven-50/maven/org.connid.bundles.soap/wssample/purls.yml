@@ -8,3 +8,5 @@
 - pkg:maven/org.connid.bundles.soap/wssample@1.2.2?classifier=sources
 - pkg:maven/org.connid.bundles.soap/wssample@1.2.1?type=war
 - pkg:maven/org.connid.bundles.soap/wssample@1.2.1?classifier=sources
+- pkg:maven/org.connid.bundles.soap/wssample@1.2.3?type=war
+- pkg:maven/org.connid.bundles.soap/wssample@1.2.3?classifier=sources
