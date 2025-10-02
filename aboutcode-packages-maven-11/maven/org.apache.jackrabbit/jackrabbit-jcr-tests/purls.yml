@@ -209,3 +209,7 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.10.5?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.4.7
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.4.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.8.5
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.8.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.6.8
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-tests@2.6.8?classifier=sources
