@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular/hawkular-wildfly-agent-download@1.0.0.Alpha7?type=war
+- pkg:maven/org.hawkular/hawkular-wildfly-agent-download@1.0.0.Alpha7?classifier=sources

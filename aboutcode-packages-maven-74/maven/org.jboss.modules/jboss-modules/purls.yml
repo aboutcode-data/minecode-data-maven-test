@@ -169,3 +169,6 @@
 - pkg:maven/org.jboss.modules/jboss-modules@1.4.4.Final
 - pkg:maven/org.jboss.modules/jboss-modules@1.4.4.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.4.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.4.5.Final
+- pkg:maven/org.jboss.modules/jboss-modules@1.4.5.Final?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.4.5.Final?classifier=source-release&type=zip
