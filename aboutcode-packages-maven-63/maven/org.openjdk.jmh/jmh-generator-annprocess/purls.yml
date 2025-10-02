@@ -118,3 +118,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.11.3?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.12
 - pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.12?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.13
+- pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.13?classifier=sources
