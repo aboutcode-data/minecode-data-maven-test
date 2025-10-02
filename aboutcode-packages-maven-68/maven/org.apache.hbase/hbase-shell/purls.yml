@@ -168,3 +168,5 @@
 - pkg:maven/org.apache.hbase/hbase-shell@0.98.23-hadoop2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shell@0.98.23-hadoop1
 - pkg:maven/org.apache.hbase/hbase-shell@0.98.23-hadoop1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-shell@1.2.4
+- pkg:maven/org.apache.hbase/hbase-shell@1.2.4?classifier=sources
