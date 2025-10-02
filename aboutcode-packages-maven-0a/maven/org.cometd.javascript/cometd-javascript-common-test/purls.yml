@@ -102,3 +102,5 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-common-test@2.8.0-beta1?classifier=sources
 - pkg:maven/org.cometd.javascript/cometd-javascript-common-test@2.8.0-RC1
 - pkg:maven/org.cometd.javascript/cometd-javascript-common-test@2.8.0-RC1?classifier=sources
+- pkg:maven/org.cometd.javascript/cometd-javascript-common-test@2.8.0
+- pkg:maven/org.cometd.javascript/cometd-javascript-common-test@2.8.0?classifier=sources

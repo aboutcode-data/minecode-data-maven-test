@@ -6,3 +6,5 @@
 - pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.12?classifier=sources
 - pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.13?type=war
 - pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.13?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.14?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.14?classifier=sources

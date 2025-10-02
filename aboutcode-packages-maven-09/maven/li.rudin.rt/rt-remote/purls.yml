@@ -2,3 +2,5 @@
 - pkg:maven/li.rudin.rt/rt-remote@2.9?classifier=sources
 - pkg:maven/li.rudin.rt/rt-remote@2.8
 - pkg:maven/li.rudin.rt/rt-remote@2.8?classifier=sources
+- pkg:maven/li.rudin.rt/rt-remote@2.13
+- pkg:maven/li.rudin.rt/rt-remote@2.13?classifier=sources
