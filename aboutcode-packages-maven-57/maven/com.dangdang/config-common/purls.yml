@@ -1,0 +1,4 @@
+- pkg:maven/com.dangdang/config-common@1.2.0-RELEASE
+- pkg:maven/com.dangdang/config-common@1.2.0-RELEASE?classifier=sources
+- pkg:maven/com.dangdang/config-common@1.1.0-RELEASE
+- pkg:maven/com.dangdang/config-common@1.1.0-RELEASE?classifier=sources

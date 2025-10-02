@@ -10,3 +10,5 @@
 - pkg:maven/com.auth0/java-jwt@0.5?classifier=sources
 - pkg:maven/com.auth0/java-jwt@1.0.0
 - pkg:maven/com.auth0/java-jwt@1.0.0?classifier=sources
+- pkg:maven/com.auth0/java-jwt@2.0.0
+- pkg:maven/com.auth0/java-jwt@2.0.0?classifier=sources
