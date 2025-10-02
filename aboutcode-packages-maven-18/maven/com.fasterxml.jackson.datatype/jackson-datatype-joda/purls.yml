@@ -136,3 +136,5 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.8.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.8.3
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.8.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.7.8
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.7.8?classifier=sources
