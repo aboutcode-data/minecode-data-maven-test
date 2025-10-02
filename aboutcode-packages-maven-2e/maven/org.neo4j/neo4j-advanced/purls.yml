@@ -212,3 +212,5 @@
 - pkg:maven/org.neo4j/neo4j-advanced@2.2.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-advanced@2.3.2
 - pkg:maven/org.neo4j/neo4j-advanced@2.3.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-advanced@2.3.3
+- pkg:maven/org.neo4j/neo4j-advanced@2.3.3?classifier=sources
