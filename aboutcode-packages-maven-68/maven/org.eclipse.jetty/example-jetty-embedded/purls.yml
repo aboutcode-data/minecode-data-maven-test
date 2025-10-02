@@ -192,3 +192,5 @@
 - pkg:maven/org.eclipse.jetty/example-jetty-embedded@7.6.10.v20130312?classifier=sources
 - pkg:maven/org.eclipse.jetty/example-jetty-embedded@9.0.1.v20130408
 - pkg:maven/org.eclipse.jetty/example-jetty-embedded@9.0.1.v20130408?classifier=sources
+- pkg:maven/org.eclipse.jetty/example-jetty-embedded@9.0.2.v20130417
+- pkg:maven/org.eclipse.jetty/example-jetty-embedded@9.0.2.v20130417?classifier=sources

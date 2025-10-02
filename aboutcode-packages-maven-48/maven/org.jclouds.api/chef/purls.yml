@@ -40,3 +40,7 @@
 - pkg:maven/org.jclouds.api/chef@1.6.0-rc.4?classifier=sources
 - pkg:maven/org.jclouds.api/chef@1.6.0-rc.3
 - pkg:maven/org.jclouds.api/chef@1.6.0-rc.3?classifier=sources
+- pkg:maven/org.jclouds.api/chef@1.5.9
+- pkg:maven/org.jclouds.api/chef@1.5.9?classifier=sources
+- pkg:maven/org.jclouds.api/chef@1.5.10
+- pkg:maven/org.jclouds.api/chef@1.5.10?classifier=sources

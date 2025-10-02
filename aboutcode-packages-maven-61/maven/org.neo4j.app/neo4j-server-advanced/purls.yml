@@ -32,3 +32,5 @@
 - pkg:maven/org.neo4j.app/neo4j-server-advanced@1.9.M05?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server-advanced@2.0.0-M01
 - pkg:maven/org.neo4j.app/neo4j-server-advanced@2.0.0-M01?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server-advanced@1.9.RC1
+- pkg:maven/org.neo4j.app/neo4j-server-advanced@1.9.RC1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.scala-lang.virtualized/scala-reflect@2.10.1-RC1?classifier=sources
 - pkg:maven/org.scala-lang.virtualized/scala-reflect@2.10.1
 - pkg:maven/org.scala-lang.virtualized/scala-reflect@2.10.1?classifier=sources
+- pkg:maven/org.scala-lang.virtualized/scala-reflect@2.10.1-V1
+- pkg:maven/org.scala-lang.virtualized/scala-reflect@2.10.1-V1?classifier=sources
