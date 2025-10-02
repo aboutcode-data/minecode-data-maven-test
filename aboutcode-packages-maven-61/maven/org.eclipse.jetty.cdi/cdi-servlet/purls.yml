@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.4.v20151007?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.4.RC1
 - pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.4.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.5.v20151012
+- pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.5.v20151012?classifier=sources

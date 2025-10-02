@@ -25,3 +25,5 @@
 - pkg:maven/org.apache.tez/tez-dag@0.6.2?classifier=sources
 - pkg:maven/org.apache.tez/tez-dag@0.8.0-alpha
 - pkg:maven/org.apache.tez/tez-dag@0.8.0-alpha?classifier=sources
+- pkg:maven/org.apache.tez/tez-dag@0.8.1-alpha
+- pkg:maven/org.apache.tez/tez-dag@0.8.1-alpha?classifier=sources
