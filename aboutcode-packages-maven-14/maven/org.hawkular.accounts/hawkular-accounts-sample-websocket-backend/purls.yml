@@ -52,3 +52,9 @@
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.13.Final?classifier=sources
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.18.Final?type=war
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.18.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.21.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.21.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.20.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.20.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.19.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.19.Final?classifier=sources
