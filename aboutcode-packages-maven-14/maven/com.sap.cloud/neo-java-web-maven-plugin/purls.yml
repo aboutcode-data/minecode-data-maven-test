@@ -60,3 +60,7 @@
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@1.69.20.5?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@1.68.22.2
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@1.68.22.2?classifier=sources
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@2.16.5.1
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@2.16.5.1?classifier=sources
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@1.70.48
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@1.70.48?classifier=sources

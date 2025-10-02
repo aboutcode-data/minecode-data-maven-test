@@ -6,3 +6,5 @@
 - pkg:maven/co.cask.cdap/cdap-hbase-compat-0.96@2.5.2?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-hbase-compat-0.96@2.6.0
 - pkg:maven/co.cask.cdap/cdap-hbase-compat-0.96@2.6.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-hbase-compat-0.96@2.6.1
+- pkg:maven/co.cask.cdap/cdap-hbase-compat-0.96@2.6.1?classifier=sources

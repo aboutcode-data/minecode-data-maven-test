@@ -8,3 +8,9 @@
 - pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.12.12.13?classifier=sources
 - pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.12
 - pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.12?classifier=sources
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.20150130045605
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.20150130045605?classifier=sources
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.20150130044459.20150130044819
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.20150130044459.20150130044819?classifier=sources
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.18
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@0.1.18?classifier=sources
