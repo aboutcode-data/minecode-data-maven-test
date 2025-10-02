@@ -108,3 +108,7 @@
 - pkg:maven/com.restfb/restfb@1.37.0?classifier=sources
 - pkg:maven/com.restfb/restfb@1.38.0
 - pkg:maven/com.restfb/restfb@1.38.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2.0.0-rc.2
+- pkg:maven/com.restfb/restfb@2.0.0-rc.2?classifier=sources
+- pkg:maven/com.restfb/restfb@1.39.0
+- pkg:maven/com.restfb/restfb@1.39.0?classifier=sources

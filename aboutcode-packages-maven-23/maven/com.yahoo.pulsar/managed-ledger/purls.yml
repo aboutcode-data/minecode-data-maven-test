@@ -28,3 +28,7 @@
 - pkg:maven/com.yahoo.pulsar/managed-ledger@1.16.4?classifier=sources
 - pkg:maven/com.yahoo.pulsar/managed-ledger@1.16.5
 - pkg:maven/com.yahoo.pulsar/managed-ledger@1.16.5?classifier=sources
+- pkg:maven/com.yahoo.pulsar/managed-ledger@1.17.1
+- pkg:maven/com.yahoo.pulsar/managed-ledger@1.17.1?classifier=sources
+- pkg:maven/com.yahoo.pulsar/managed-ledger@1.17
+- pkg:maven/com.yahoo.pulsar/managed-ledger@1.17?classifier=sources

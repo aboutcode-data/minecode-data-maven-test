@@ -104,3 +104,9 @@
 - pkg:maven/com.spotify/styx-api-service@0.2.31?classifier=sources
 - pkg:maven/com.spotify/styx-api-service@0.2.30
 - pkg:maven/com.spotify/styx-api-service@0.2.30?classifier=sources
+- pkg:maven/com.spotify/styx-api-service@1.0.0
+- pkg:maven/com.spotify/styx-api-service@1.0.0?classifier=sources
+- pkg:maven/com.spotify/styx-api-service@0.2.39
+- pkg:maven/com.spotify/styx-api-service@0.2.39?classifier=sources
+- pkg:maven/com.spotify/styx-api-service@0.2.38
+- pkg:maven/com.spotify/styx-api-service@0.2.38?classifier=sources

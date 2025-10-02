@@ -12,3 +12,5 @@
 - pkg:maven/com.uber.hoodie/hoodie-common@0.3.2?classifier=sources
 - pkg:maven/com.uber.hoodie/hoodie-common@0.2.15
 - pkg:maven/com.uber.hoodie/hoodie-common@0.2.15?classifier=sources
+- pkg:maven/com.uber.hoodie/hoodie-common@0.3.5
+- pkg:maven/com.uber.hoodie/hoodie-common@0.3.5?classifier=sources
