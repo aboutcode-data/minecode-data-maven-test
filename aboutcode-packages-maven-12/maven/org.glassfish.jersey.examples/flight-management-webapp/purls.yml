@@ -85,3 +85,6 @@
 - pkg:maven/org.glassfish.jersey.examples/flight-management-webapp@2.22.1?type=war
 - pkg:maven/org.glassfish.jersey.examples/flight-management-webapp@2.22.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/flight-management-webapp@2.22.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/flight-management-webapp@2.22.2?type=war
+- pkg:maven/org.glassfish.jersey.examples/flight-management-webapp@2.22.2?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/flight-management-webapp@2.22.2?classifier=project-src&type=zip

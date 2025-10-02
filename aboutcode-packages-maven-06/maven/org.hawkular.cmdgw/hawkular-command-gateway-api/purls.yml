@@ -30,3 +30,5 @@
 - pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-api@0.10.8.Final?classifier=sources
 - pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-api@0.10.10.Final
 - pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-api@0.10.10.Final?classifier=sources
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-api@0.10.11.Final
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-api@0.10.11.Final?classifier=sources

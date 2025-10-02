@@ -44,3 +44,7 @@
 - pkg:maven/org.dbtools/maven-dbtools-plugin@4.0.2?classifier=sources
 - pkg:maven/org.dbtools/maven-dbtools-plugin@4.0.1
 - pkg:maven/org.dbtools/maven-dbtools-plugin@4.0.1?classifier=sources
+- pkg:maven/org.dbtools/maven-dbtools-plugin@5.0.1
+- pkg:maven/org.dbtools/maven-dbtools-plugin@5.0.1?classifier=sources
+- pkg:maven/org.dbtools/maven-dbtools-plugin@5.0.0
+- pkg:maven/org.dbtools/maven-dbtools-plugin@5.0.0?classifier=sources

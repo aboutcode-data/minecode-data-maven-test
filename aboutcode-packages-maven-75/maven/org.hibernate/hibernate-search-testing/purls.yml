@@ -169,3 +169,5 @@
 - pkg:maven/org.hibernate/hibernate-search-testing@5.5.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-testing@5.5.2.Final
 - pkg:maven/org.hibernate/hibernate-search-testing@5.5.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-testing@5.6.0.Alpha1
+- pkg:maven/org.hibernate/hibernate-search-testing@5.6.0.Alpha1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.jasig.cas/cas-server-core-api@4.1.4?classifier=sources
 - pkg:maven/org.jasig.cas/cas-server-core-api@4.2.0-RC2
 - pkg:maven/org.jasig.cas/cas-server-core-api@4.2.0-RC2?classifier=sources
+- pkg:maven/org.jasig.cas/cas-server-core-api@4.1.5
+- pkg:maven/org.jasig.cas/cas-server-core-api@4.1.5?classifier=sources
