@@ -14,3 +14,5 @@
 - pkg:maven/io.elastic/sailor-jvm@1.1.3?classifier=sources
 - pkg:maven/io.elastic/sailor-jvm@2.0.0
 - pkg:maven/io.elastic/sailor-jvm@2.0.0?classifier=sources
+- pkg:maven/io.elastic/sailor-jvm@2.0.1
+- pkg:maven/io.elastic/sailor-jvm@2.0.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/edu.si.trippi/trippi-sparql@0.4.4?classifier=sources
 - pkg:maven/edu.si.trippi/trippi-sparql@1.0
 - pkg:maven/edu.si.trippi/trippi-sparql@1.0?classifier=sources
+- pkg:maven/edu.si.trippi/trippi-sparql@1.1
+- pkg:maven/edu.si.trippi/trippi-sparql@1.1?classifier=sources

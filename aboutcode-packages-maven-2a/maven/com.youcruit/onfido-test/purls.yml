@@ -18,3 +18,7 @@
 - pkg:maven/com.youcruit/onfido-test@0.0.12?classifier=sources
 - pkg:maven/com.youcruit/onfido-test@0.1.0
 - pkg:maven/com.youcruit/onfido-test@0.1.0?classifier=sources
+- pkg:maven/com.youcruit/onfido-test@2.0
+- pkg:maven/com.youcruit/onfido-test@2.0?classifier=sources
+- pkg:maven/com.youcruit/onfido-test@0.1.1
+- pkg:maven/com.youcruit/onfido-test@0.1.1?classifier=sources
