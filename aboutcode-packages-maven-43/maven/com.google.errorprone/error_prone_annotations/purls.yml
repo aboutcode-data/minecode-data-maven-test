@@ -34,3 +34,5 @@
 - pkg:maven/com.google.errorprone/error_prone_annotations@2.0.17?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_annotations@2.0.16
 - pkg:maven/com.google.errorprone/error_prone_annotations@2.0.16?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_annotations@2.0.18
+- pkg:maven/com.google.errorprone/error_prone_annotations@2.0.18?classifier=sources

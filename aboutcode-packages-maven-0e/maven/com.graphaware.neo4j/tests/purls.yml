@@ -102,3 +102,5 @@
 - pkg:maven/com.graphaware.neo4j/tests@3.0.7.44?classifier=sources
 - pkg:maven/com.graphaware.neo4j/tests@3.1.0.44
 - pkg:maven/com.graphaware.neo4j/tests@3.1.0.44?classifier=sources
+- pkg:maven/com.graphaware.neo4j/tests@3.0.8.44
+- pkg:maven/com.graphaware.neo4j/tests@3.0.8.44?classifier=sources

@@ -144,3 +144,5 @@
 - pkg:maven/com.proofpoint.platform/reporting-client@1.50?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting-client@1.51
 - pkg:maven/com.proofpoint.platform/reporting-client@1.51?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-client@1.52
+- pkg:maven/com.proofpoint.platform/reporting-client@1.52?classifier=sources

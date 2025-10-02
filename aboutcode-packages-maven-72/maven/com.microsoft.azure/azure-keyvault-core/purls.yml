@@ -23,3 +23,5 @@
 - pkg:maven/com.microsoft.azure/azure-keyvault-core@0.9.6?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-keyvault-core@0.9.7
 - pkg:maven/com.microsoft.azure/azure-keyvault-core@0.9.7?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-keyvault-core@1.0.0
+- pkg:maven/com.microsoft.azure/azure-keyvault-core@1.0.0?classifier=sources
