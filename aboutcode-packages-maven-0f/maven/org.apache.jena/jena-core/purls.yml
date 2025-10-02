@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.jena/jena-core@2.7.3?classifier=sources
 - pkg:maven/org.apache.jena/jena-core@2.7.4
 - pkg:maven/org.apache.jena/jena-core@2.7.4?classifier=sources
+- pkg:maven/org.apache.jena/jena-core@2.10.0
+- pkg:maven/org.apache.jena/jena-core@2.10.0?classifier=sources

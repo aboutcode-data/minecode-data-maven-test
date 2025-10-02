@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.cayenne/cayenne-server@3.0?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-server@3.1B1
 - pkg:maven/org.apache.cayenne/cayenne-server@3.1B1?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-server@3.1B2
+- pkg:maven/org.apache.cayenne/cayenne-server@3.1B2?classifier=sources

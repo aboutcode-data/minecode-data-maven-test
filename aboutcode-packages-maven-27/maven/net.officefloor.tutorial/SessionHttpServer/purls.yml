@@ -22,3 +22,5 @@
 - pkg:maven/net.officefloor.tutorial/SessionHttpServer@2.7.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/SessionHttpServer@2.8.0?type=war
 - pkg:maven/net.officefloor.tutorial/SessionHttpServer@2.8.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/SessionHttpServer@2.9.0?type=war
+- pkg:maven/net.officefloor.tutorial/SessionHttpServer@2.9.0?classifier=sources

@@ -76,3 +76,5 @@
 - pkg:maven/org.eclipse.jetty.tests/test-sessions-common@8.1.9.v20130131?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/test-sessions-common@7.6.9.v20130131
 - pkg:maven/org.eclipse.jetty.tests/test-sessions-common@7.6.9.v20130131?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-sessions-common@9.0.0.RC1
+- pkg:maven/org.eclipse.jetty.tests/test-sessions-common@9.0.0.RC1?classifier=sources

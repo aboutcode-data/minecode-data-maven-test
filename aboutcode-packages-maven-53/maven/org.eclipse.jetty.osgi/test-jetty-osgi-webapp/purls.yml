@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp@8.1.9.v20130131?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp@7.6.9.v20130131
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp@7.6.9.v20130131?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp@9.0.0.RC1
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp@9.0.0.RC1?classifier=sources
