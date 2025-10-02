@@ -22,3 +22,7 @@
 - pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.2.1-STAGING?classifier=sources
 - pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.2.1
 - pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.2.1?classifier=sources
+- pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.3.9
+- pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.3.9?classifier=sources
+- pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.3.10
+- pkg:maven/pro.foundev.cassandra/cassandra-commons-migrations@0.3.10?classifier=sources

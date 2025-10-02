@@ -72,3 +72,5 @@
 - pkg:maven/com.baidu/jprotobuf@0.1.0?classifier=sources
 - pkg:maven/com.baidu/jprotobuf@1.8.4
 - pkg:maven/com.baidu/jprotobuf@1.8.4?classifier=sources
+- pkg:maven/com.baidu/jprotobuf@1.8.5
+- pkg:maven/com.baidu/jprotobuf@1.8.5?classifier=sources

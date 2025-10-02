@@ -1,2 +1,6 @@
 - pkg:maven/ru.qatools.seleniumkit/gridrouter-config@1.21
 - pkg:maven/ru.qatools.seleniumkit/gridrouter-config@1.21?classifier=sources
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-config@1.23
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-config@1.23?classifier=sources
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-config@1.22
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-config@1.22?classifier=sources

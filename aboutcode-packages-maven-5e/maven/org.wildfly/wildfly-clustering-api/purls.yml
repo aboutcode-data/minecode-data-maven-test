@@ -60,3 +60,5 @@
 - pkg:maven/org.wildfly/wildfly-clustering-api@10.0.0.CR4?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-api@10.0.0.CR3
 - pkg:maven/org.wildfly/wildfly-clustering-api@10.0.0.CR3?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-api@9.0.2.Final
+- pkg:maven/org.wildfly/wildfly-clustering-api@9.0.2.Final?classifier=sources

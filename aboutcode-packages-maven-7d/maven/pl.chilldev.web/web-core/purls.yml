@@ -6,3 +6,5 @@
 - pkg:maven/pl.chilldev.web/web-core@0.0.3?classifier=sources
 - pkg:maven/pl.chilldev.web/web-core@0.0.4
 - pkg:maven/pl.chilldev.web/web-core@0.0.4?classifier=sources
+- pkg:maven/pl.chilldev.web/web-core@0.1.0
+- pkg:maven/pl.chilldev.web/web-core@0.1.0?classifier=sources
