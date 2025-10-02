@@ -46,3 +46,5 @@
 - pkg:maven/info.android15.nucleus/nucleus@2.0.4?classifier=sources
 - pkg:maven/info.android15.nucleus/nucleus@2.0.5
 - pkg:maven/info.android15.nucleus/nucleus@2.0.5?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@2.0.5beta
+- pkg:maven/info.android15.nucleus/nucleus@2.0.5beta?classifier=sources

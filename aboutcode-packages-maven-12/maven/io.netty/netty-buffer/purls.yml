@@ -140,3 +140,7 @@
 - pkg:maven/io.netty/netty-buffer@4.1.0.CR4?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.0.35.Final
 - pkg:maven/io.netty/netty-buffer@4.0.35.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.0.CR6
+- pkg:maven/io.netty/netty-buffer@4.1.0.CR6?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.0.CR5
+- pkg:maven/io.netty/netty-buffer@4.1.0.CR5?classifier=sources
