@@ -30,3 +30,5 @@
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@2.13?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@2.14
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@2.14?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@2.15
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@2.15?classifier=sources

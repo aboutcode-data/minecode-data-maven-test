@@ -14,3 +14,5 @@
 - pkg:maven/org.sahagin/sahagin@0.2.4?classifier=sources
 - pkg:maven/org.sahagin/sahagin@0.2.99.0-RELEASE-CANDIDATE
 - pkg:maven/org.sahagin/sahagin@0.2.99.0-RELEASE-CANDIDATE?classifier=sources
+- pkg:maven/org.sahagin/sahagin@0.3
+- pkg:maven/org.sahagin/sahagin@0.3?classifier=sources

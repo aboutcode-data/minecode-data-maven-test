@@ -38,3 +38,5 @@
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.13?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.14
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.14?classifier=sources
+- pkg:maven/org.glassfish.jersey.security/oauth1-client@2.15
+- pkg:maven/org.glassfish.jersey.security/oauth1-client@2.15?classifier=sources
