@@ -104,3 +104,5 @@
 - pkg:maven/com.yahoo.elide/elide-datastore-hibernate5@2.3.17?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-hibernate5@2.3.16
 - pkg:maven/com.yahoo.elide/elide-datastore-hibernate5@2.3.16?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-hibernate5@2.4.0
+- pkg:maven/com.yahoo.elide/elide-datastore-hibernate5@2.4.0?classifier=sources

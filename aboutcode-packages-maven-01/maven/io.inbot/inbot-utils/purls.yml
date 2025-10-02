@@ -28,3 +28,5 @@
 - pkg:maven/io.inbot/inbot-utils@1.15?classifier=sources
 - pkg:maven/io.inbot/inbot-utils@1.14
 - pkg:maven/io.inbot/inbot-utils@1.14?classifier=sources
+- pkg:maven/io.inbot/inbot-utils@1.16
+- pkg:maven/io.inbot/inbot-utils@1.16?classifier=sources
