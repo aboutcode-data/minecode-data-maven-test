@@ -22,3 +22,5 @@
 - pkg:maven/org.dasein/dasein-cloud-core@2012.07.3?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-core@2012.04.2
 - pkg:maven/org.dasein/dasein-cloud-core@2012.04.2?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-core@2012.09
+- pkg:maven/org.dasein/dasein-cloud-core@2012.09?classifier=sources

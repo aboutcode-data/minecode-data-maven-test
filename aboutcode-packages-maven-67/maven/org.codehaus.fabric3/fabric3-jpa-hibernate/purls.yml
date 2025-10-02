@@ -24,3 +24,5 @@
 - pkg:maven/org.codehaus.fabric3/fabric3-jpa-hibernate@0.5?classifier=sources
 - pkg:maven/org.codehaus.fabric3/fabric3-jpa-hibernate@0.2?classifier=sources
 - pkg:maven/org.codehaus.fabric3/fabric3-jpa-hibernate@0.1?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-jpa-hibernate@1.9.5
+- pkg:maven/org.codehaus.fabric3/fabric3-jpa-hibernate@1.9.5?classifier=sources

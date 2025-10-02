@@ -88,3 +88,5 @@
 - pkg:maven/org.hornetq/hornetq-spring-integration@2.2.19.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-spring-integration@2.2.19.Final-build2
 - pkg:maven/org.hornetq/hornetq-spring-integration@2.2.19.Final-build2?classifier=sources
+- pkg:maven/org.hornetq/hornetq-spring-integration@2.2.21.Final
+- pkg:maven/org.hornetq/hornetq-spring-integration@2.2.21.Final?classifier=sources

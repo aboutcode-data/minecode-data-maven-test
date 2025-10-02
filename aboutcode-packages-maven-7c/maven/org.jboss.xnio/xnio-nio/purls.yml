@@ -72,3 +72,5 @@
 - pkg:maven/org.jboss.xnio/xnio-nio@3.0.6.GA?classifier=sources
 - pkg:maven/org.jboss.xnio/xnio-nio@3.1.0.Beta5
 - pkg:maven/org.jboss.xnio/xnio-nio@3.1.0.Beta5?classifier=sources
+- pkg:maven/org.jboss.xnio/xnio-nio@3.1.0.Beta6
+- pkg:maven/org.jboss.xnio/xnio-nio@3.1.0.Beta6?classifier=sources
