@@ -1,2 +1,6 @@
 - pkg:maven/org.crazyyak.dev/yak-dev-demo@1.2.0-50?type=war
 - pkg:maven/org.crazyyak.dev/yak-dev-demo@1.2.0-50?classifier=sources
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.2.1?type=war
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.2.1?classifier=sources
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.2.0-51?type=war
+- pkg:maven/org.crazyyak.dev/yak-dev-demo@1.2.0-51?classifier=sources
