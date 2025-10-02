@@ -18,3 +18,5 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-servo@0.19?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-servo@0.20.0
 - pkg:maven/com.netflix.spectator/spectator-reg-servo@0.20.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-servo@0.21.0
+- pkg:maven/com.netflix.spectator/spectator-reg-servo@0.21.0?classifier=sources
