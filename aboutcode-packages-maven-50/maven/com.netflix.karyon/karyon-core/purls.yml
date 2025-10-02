@@ -34,3 +34,5 @@
 - pkg:maven/com.netflix.karyon/karyon-core@1.0.26?classifier=sources
 - pkg:maven/com.netflix.karyon/karyon-core@2.1.00-RC3
 - pkg:maven/com.netflix.karyon/karyon-core@2.1.00-RC3?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon-core@2.1.00-RC4
+- pkg:maven/com.netflix.karyon/karyon-core@2.1.00-RC4?classifier=sources

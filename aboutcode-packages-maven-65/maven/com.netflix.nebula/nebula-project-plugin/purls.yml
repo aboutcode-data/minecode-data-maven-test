@@ -30,3 +30,7 @@
 - pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.13?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.12
 - pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.12?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.16
+- pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.16?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.15
+- pkg:maven/com.netflix.nebula/nebula-project-plugin@1.12.15?classifier=sources

@@ -66,3 +66,7 @@
 - pkg:maven/com.netflix.ribbon/ribbon-eureka@2.0-RC7?classifier=sources
 - pkg:maven/com.netflix.ribbon/ribbon-eureka@2.0-RC6
 - pkg:maven/com.netflix.ribbon/ribbon-eureka@2.0-RC6?classifier=sources
+- pkg:maven/com.netflix.ribbon/ribbon-eureka@2.0-RC9
+- pkg:maven/com.netflix.ribbon/ribbon-eureka@2.0-RC9?classifier=sources
+- pkg:maven/com.netflix.ribbon/ribbon-eureka@0.3.13
+- pkg:maven/com.netflix.ribbon/ribbon-eureka@0.3.13?classifier=sources

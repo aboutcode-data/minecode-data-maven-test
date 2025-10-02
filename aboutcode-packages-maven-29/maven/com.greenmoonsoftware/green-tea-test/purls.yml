@@ -14,3 +14,7 @@
 - pkg:maven/com.greenmoonsoftware/green-tea-test@0.9.7?classifier=sources
 - pkg:maven/com.greenmoonsoftware/green-tea-test@0.9.6
 - pkg:maven/com.greenmoonsoftware/green-tea-test@0.9.6?classifier=sources
+- pkg:maven/com.greenmoonsoftware/green-tea-test@1.0.0
+- pkg:maven/com.greenmoonsoftware/green-tea-test@1.0.0?classifier=sources
+- pkg:maven/com.greenmoonsoftware/green-tea-test@0.9.8
+- pkg:maven/com.greenmoonsoftware/green-tea-test@0.9.8?classifier=sources
