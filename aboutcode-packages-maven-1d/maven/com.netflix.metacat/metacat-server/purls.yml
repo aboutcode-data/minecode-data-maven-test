@@ -62,3 +62,5 @@
 - pkg:maven/com.netflix.metacat/metacat-server@0.1.30?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-server@0.1.29?type=war
 - pkg:maven/com.netflix.metacat/metacat-server@0.1.29?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-server@0.1.32?type=war
+- pkg:maven/com.netflix.metacat/metacat-server@0.1.32?classifier=sources
