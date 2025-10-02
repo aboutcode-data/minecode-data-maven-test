@@ -4,3 +4,5 @@
 - pkg:maven/com.datathings/greycat-rocksdb@2?classifier=sources
 - pkg:maven/com.datathings/greycat-rocksdb@1
 - pkg:maven/com.datathings/greycat-rocksdb@1?classifier=sources
+- pkg:maven/com.datathings/greycat-rocksdb@4
+- pkg:maven/com.datathings/greycat-rocksdb@4?classifier=sources

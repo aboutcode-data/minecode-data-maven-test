@@ -4,3 +4,5 @@
 - pkg:maven/com.datathings/greycat-memory@2?classifier=sources
 - pkg:maven/com.datathings/greycat-memory@1
 - pkg:maven/com.datathings/greycat-memory@1?classifier=sources
+- pkg:maven/com.datathings/greycat-memory@4
+- pkg:maven/com.datathings/greycat-memory@4?classifier=sources

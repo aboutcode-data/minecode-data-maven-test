@@ -78,3 +78,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.52.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.51.0
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.51.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.53.0
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.53.0?classifier=sources

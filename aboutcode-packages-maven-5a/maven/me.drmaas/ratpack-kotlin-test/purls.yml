@@ -6,3 +6,7 @@
 - pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0-rc.1?classifier=sources
 - pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0-rc.2
 - pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0-rc.2?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0-rc.2.dev.0%2B50ecf4c
+- pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0-rc.2.dev.0%2B50ecf4c?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0
+- pkg:maven/me.drmaas/ratpack-kotlin-test@0.6.0?classifier=sources
