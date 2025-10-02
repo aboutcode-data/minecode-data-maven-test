@@ -104,3 +104,5 @@
 - pkg:maven/org.jboss.errai/errai-codegen-gwt@3.2.5.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-codegen-gwt@4.0.0.CR1
 - pkg:maven/org.jboss.errai/errai-codegen-gwt@4.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen-gwt@4.0.0.CR2
+- pkg:maven/org.jboss.errai/errai-codegen-gwt@4.0.0.CR2?classifier=sources

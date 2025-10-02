@@ -30,3 +30,5 @@
 - pkg:maven/org.jboss.weld.probe/weld-probe-tests@2.4.2.SP1?classifier=sources
 - pkg:maven/org.jboss.weld.probe/weld-probe-tests@2.4.2.Final
 - pkg:maven/org.jboss.weld.probe/weld-probe-tests@2.4.2.Final?classifier=sources
+- pkg:maven/org.jboss.weld.probe/weld-probe-tests@3.0.0.CR2
+- pkg:maven/org.jboss.weld.probe/weld-probe-tests@3.0.0.CR2?classifier=sources

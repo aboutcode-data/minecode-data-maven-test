@@ -202,3 +202,6 @@
 - pkg:maven/org.jboss.modules/jboss-modules@1.6.0.Beta5
 - pkg:maven/org.jboss.modules/jboss-modules@1.6.0.Beta5?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.6.0.Beta5?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.6.0.Beta6
+- pkg:maven/org.jboss.modules/jboss-modules@1.6.0.Beta6?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.6.0.Beta6?classifier=source-release&type=zip
