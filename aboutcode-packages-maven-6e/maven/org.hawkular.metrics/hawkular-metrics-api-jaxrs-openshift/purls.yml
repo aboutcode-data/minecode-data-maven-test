@@ -8,3 +8,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-openshift@0.16.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-openshift@0.17.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-openshift@0.18.0.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-openshift@0.18.2.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-openshift@0.18.1.Final?type=war

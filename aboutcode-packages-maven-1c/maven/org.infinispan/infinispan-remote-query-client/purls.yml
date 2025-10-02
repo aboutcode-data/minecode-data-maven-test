@@ -130,3 +130,5 @@
 - pkg:maven/org.infinispan/infinispan-remote-query-client@8.2.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@9.0.0.Alpha4
 - pkg:maven/org.infinispan/infinispan-remote-query-client@9.0.0.Alpha4?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@8.2.4.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@8.2.4.Final?classifier=sources

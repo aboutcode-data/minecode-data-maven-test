@@ -6,3 +6,5 @@
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@5.0.0-alpha3?classifier=sources
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@5.0.0-alpha4
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@5.0.0-alpha4?classifier=sources
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@5.0.0-alpha5
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@5.0.0-alpha5?classifier=sources

@@ -102,3 +102,7 @@
 - pkg:maven/org.http4s/http4s-servlet_2.10@0.13.3a?classifier=sources
 - pkg:maven/org.http4s/http4s-servlet_2.10@0.13.3
 - pkg:maven/org.http4s/http4s-servlet_2.10@0.13.3?classifier=sources
+- pkg:maven/org.http4s/http4s-servlet_2.10@0.14.2a
+- pkg:maven/org.http4s/http4s-servlet_2.10@0.14.2a?classifier=sources
+- pkg:maven/org.http4s/http4s-servlet_2.10@0.14.2
+- pkg:maven/org.http4s/http4s-servlet_2.10@0.14.2?classifier=sources
