@@ -6,3 +6,5 @@
 - pkg:maven/org.esigate/esigate-cas@3.3?classifier=sources
 - pkg:maven/org.esigate/esigate-cas@3.4
 - pkg:maven/org.esigate/esigate-cas@3.4?classifier=sources
+- pkg:maven/org.esigate/esigate-cas@4.0-beta-1
+- pkg:maven/org.esigate/esigate-cas@4.0-beta-1?classifier=sources

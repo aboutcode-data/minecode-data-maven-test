@@ -47,3 +47,4 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@5.1.5.FINAL?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@5.1.5.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@5.2.0.ALPHA1?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@5.2.0.ALPHA1?classifier=sources
