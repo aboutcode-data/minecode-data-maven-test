@@ -14,3 +14,7 @@
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.12.1.2?classifier=sources
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.14.0
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.14.0?classifier=sources
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.15.0
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.15.0?classifier=sources
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.12.2
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.12.2?classifier=sources

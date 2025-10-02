@@ -66,3 +66,5 @@
 - pkg:maven/org.mock-server/mockserver-integration-testing@3.9.4?classifier=sources
 - pkg:maven/org.mock-server/mockserver-integration-testing@3.9.3
 - pkg:maven/org.mock-server/mockserver-integration-testing@3.9.3?classifier=sources
+- pkg:maven/org.mock-server/mockserver-integration-testing@3.9.8
+- pkg:maven/org.mock-server/mockserver-integration-testing@3.9.8?classifier=sources
