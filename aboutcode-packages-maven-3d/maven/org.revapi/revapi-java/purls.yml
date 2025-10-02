@@ -62,3 +62,5 @@
 - pkg:maven/org.revapi/revapi-java@0.13.2?classifier=sources
 - pkg:maven/org.revapi/revapi-java@0.14.0
 - pkg:maven/org.revapi/revapi-java@0.14.0?classifier=sources
+- pkg:maven/org.revapi/revapi-java@0.14.1
+- pkg:maven/org.revapi/revapi-java@0.14.1?classifier=sources

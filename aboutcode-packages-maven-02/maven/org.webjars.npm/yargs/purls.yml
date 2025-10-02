@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/yargs@6.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@7.0.2
 - pkg:maven/org.webjars.npm/yargs@7.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/yargs@8.0.2
+- pkg:maven/org.webjars.npm/yargs@8.0.2?classifier=sources

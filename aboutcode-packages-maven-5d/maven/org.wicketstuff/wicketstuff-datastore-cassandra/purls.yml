@@ -62,3 +62,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@8.0.0-M6?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@7.7.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@7.7.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@7.8.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@7.8.0?classifier=sources
