@@ -128,3 +128,7 @@
 - pkg:maven/com.github.binarywang/weixin-java-common@2.6.4.BETA?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-common@2.7.0
 - pkg:maven/com.github.binarywang/weixin-java-common@2.7.0?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-common@2.7.2.BETA
+- pkg:maven/com.github.binarywang/weixin-java-common@2.7.2.BETA?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-common@2.7.1.BETA
+- pkg:maven/com.github.binarywang/weixin-java-common@2.7.1.BETA?classifier=sources
