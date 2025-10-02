@@ -40,3 +40,5 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-spi@1.0.0.Alpha20?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-spi@1.0.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-spi@1.0.0?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-spi@1.0.1
+- pkg:maven/org.arquillian.cube/arquillian-cube-spi@1.0.1?classifier=sources
