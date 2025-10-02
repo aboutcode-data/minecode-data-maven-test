@@ -20,3 +20,5 @@
 - pkg:maven/io.rudin.cdi/cdi-entitymanager-impl@1.12?classifier=sources
 - pkg:maven/io.rudin.cdi/cdi-entitymanager-impl@1.11
 - pkg:maven/io.rudin.cdi/cdi-entitymanager-impl@1.11?classifier=sources
+- pkg:maven/io.rudin.cdi/cdi-entitymanager-impl@1.13
+- pkg:maven/io.rudin.cdi/cdi-entitymanager-impl@1.13?classifier=sources
