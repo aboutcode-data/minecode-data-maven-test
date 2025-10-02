@@ -9,3 +9,5 @@
 - pkg:maven/org.webjars/jstree@3.0.0-beta9?classifier=sources
 - pkg:maven/org.webjars/jstree@3.0.0-beta10
 - pkg:maven/org.webjars/jstree@3.0.0-beta10?classifier=sources
+- pkg:maven/org.webjars/jstree@3.0.0
+- pkg:maven/org.webjars/jstree@3.0.0?classifier=sources
