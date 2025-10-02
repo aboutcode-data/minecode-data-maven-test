@@ -46,3 +46,5 @@
 - pkg:maven/com.braintreepayments.api/data-collector@2.3.11?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@2.3.12
 - pkg:maven/com.braintreepayments.api/data-collector@2.3.12?classifier=sources
+- pkg:maven/com.braintreepayments.api/data-collector@2.4.0
+- pkg:maven/com.braintreepayments.api/data-collector@2.4.0?classifier=sources

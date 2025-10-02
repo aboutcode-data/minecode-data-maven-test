@@ -32,3 +32,5 @@
 - pkg:maven/org.zalando/problem-spring-web@0.15.0?classifier=sources
 - pkg:maven/org.zalando/problem-spring-web@0.16.0
 - pkg:maven/org.zalando/problem-spring-web@0.16.0?classifier=sources
+- pkg:maven/org.zalando/problem-spring-web@0.17.0
+- pkg:maven/org.zalando/problem-spring-web@0.17.0?classifier=sources
