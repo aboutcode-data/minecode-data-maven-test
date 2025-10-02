@@ -6,3 +6,5 @@
 - pkg:maven/org.codelibs/elasticsearch-solr-api@1.4.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-solr-api@1.5.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-solr-api@1.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-solr-api@1.5.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-solr-api@1.5.1?classifier=sources

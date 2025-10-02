@@ -181,3 +181,7 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.1.7?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.2.0?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.2.0?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.2.1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.2.1?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.0.19?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@1.0.19?classifier=sources

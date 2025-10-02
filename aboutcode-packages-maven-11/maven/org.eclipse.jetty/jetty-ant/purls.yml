@@ -58,3 +58,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.1.v20140609?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.2.v20140723
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.2.v20140723?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.2.3.v20140905
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.2.3.v20140905?classifier=sources
