@@ -90,3 +90,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.9.66?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.9.206
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.9.206?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.9.976
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.9.976?classifier=sources
