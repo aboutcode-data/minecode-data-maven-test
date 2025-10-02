@@ -1,2 +1,4 @@
 - pkg:maven/com.evernote/evernote-api@1.23
 - pkg:maven/com.evernote/evernote-api@1.23?classifier=sources
+- pkg:maven/com.evernote/evernote-api@1.24
+- pkg:maven/com.evernote/evernote-api@1.24?classifier=sources

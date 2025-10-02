@@ -34,3 +34,11 @@
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev15-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev15-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev15-1.13.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-reseller@v1sandbox-rev15-1.15.0-rc
+- pkg:maven/com.google.apis/google-api-services-reseller@v1sandbox-rev15-1.15.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-reseller@v1sandbox-rev15-1.14.2-beta
+- pkg:maven/com.google.apis/google-api-services-reseller@v1sandbox-rev15-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-reseller@v1sandbox-rev15-1.13.2-beta
+- pkg:maven/com.google.apis/google-api-services-reseller@v1sandbox-rev15-1.13.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-reseller@v1-rev15-1.15.0-rc
+- pkg:maven/com.google.apis/google-api-services-reseller@v1-rev15-1.15.0-rc?classifier=sources

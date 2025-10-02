@@ -28,3 +28,5 @@
 - pkg:maven/com.google.mockwebserver/mockwebserver@20130403?classifier=sources
 - pkg:maven/com.google.mockwebserver/mockwebserver@20130402
 - pkg:maven/com.google.mockwebserver/mockwebserver@20130402?classifier=sources
+- pkg:maven/com.google.mockwebserver/mockwebserver@20130505
+- pkg:maven/com.google.mockwebserver/mockwebserver@20130505?classifier=sources
