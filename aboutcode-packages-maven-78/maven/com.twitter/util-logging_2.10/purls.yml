@@ -84,3 +84,5 @@
 - pkg:maven/com.twitter/util-logging_2.10@6.30.0?classifier=sources
 - pkg:maven/com.twitter/util-logging_2.10@6.32.0
 - pkg:maven/com.twitter/util-logging_2.10@6.32.0?classifier=sources
+- pkg:maven/com.twitter/util-logging_2.10@6.33.0
+- pkg:maven/com.twitter/util-logging_2.10@6.33.0?classifier=sources

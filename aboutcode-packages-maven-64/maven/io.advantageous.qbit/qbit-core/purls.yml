@@ -76,3 +76,5 @@
 - pkg:maven/io.advantageous.qbit/qbit-core@0.9.0.RELEASE?classifier=sources
 - pkg:maven/io.advantageous.qbit/qbit-core@0.9.1.RELEASE
 - pkg:maven/io.advantageous.qbit/qbit-core@0.9.1.RELEASE?classifier=sources
+- pkg:maven/io.advantageous.qbit/qbit-core@0.9.3-M1
+- pkg:maven/io.advantageous.qbit/qbit-core@0.9.3-M1?classifier=sources
