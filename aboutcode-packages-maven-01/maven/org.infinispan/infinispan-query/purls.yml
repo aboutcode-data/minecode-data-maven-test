@@ -209,3 +209,7 @@
 - pkg:maven/org.infinispan/infinispan-query@8.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query@5.2.15.Final
 - pkg:maven/org.infinispan/infinispan-query@5.2.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query@8.0.1.Final
+- pkg:maven/org.infinispan/infinispan-query@8.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query@7.2.5.Final
+- pkg:maven/org.infinispan/infinispan-query@7.2.5.Final?classifier=sources

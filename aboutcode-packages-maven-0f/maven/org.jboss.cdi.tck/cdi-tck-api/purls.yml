@@ -80,3 +80,5 @@
 - pkg:maven/org.jboss.cdi.tck/cdi-tck-api@2.0.0.Alpha3?classifier=sources
 - pkg:maven/org.jboss.cdi.tck/cdi-tck-api@2.0.0.Alpha5
 - pkg:maven/org.jboss.cdi.tck/cdi-tck-api@2.0.0.Alpha5?classifier=sources
+- pkg:maven/org.jboss.cdi.tck/cdi-tck-api@1.2.7.Final
+- pkg:maven/org.jboss.cdi.tck/cdi-tck-api@1.2.7.Final?classifier=sources
