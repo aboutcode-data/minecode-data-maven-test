@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-hbase@0.6-hadoop2-incubating
+- pkg:maven/org.apache.flink/flink-hbase@0.6-hadoop2-incubating?classifier=sources
