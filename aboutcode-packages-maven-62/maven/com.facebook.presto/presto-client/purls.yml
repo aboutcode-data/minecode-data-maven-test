@@ -16,3 +16,5 @@
 - pkg:maven/com.facebook.presto/presto-client@0.59?classifier=sources
 - pkg:maven/com.facebook.presto/presto-client@0.60
 - pkg:maven/com.facebook.presto/presto-client@0.60?classifier=sources
+- pkg:maven/com.facebook.presto/presto-client@0.61
+- pkg:maven/com.facebook.presto/presto-client@0.61?classifier=sources

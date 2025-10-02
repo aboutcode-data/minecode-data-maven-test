@@ -24,3 +24,5 @@
 - pkg:maven/com.librato.metrics/metrics-librato@2.2.0.4?classifier=sources
 - pkg:maven/com.librato.metrics/metrics-librato@3.0.1.RC2
 - pkg:maven/com.librato.metrics/metrics-librato@3.0.1.RC2?classifier=sources
+- pkg:maven/com.librato.metrics/metrics-librato@3.0.1.0
+- pkg:maven/com.librato.metrics/metrics-librato@3.0.1.0?classifier=sources

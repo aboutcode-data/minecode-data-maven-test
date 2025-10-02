@@ -1,0 +1,4 @@
+- pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.0.0
+- pkg:maven/org.mortbay.jetty.alpn/alpn-boot@8.0.0?classifier=sources
+- pkg:maven/org.mortbay.jetty.alpn/alpn-boot@7.0.0
+- pkg:maven/org.mortbay.jetty.alpn/alpn-boot@7.0.0?classifier=sources
