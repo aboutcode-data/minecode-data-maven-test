@@ -100,3 +100,5 @@
 - pkg:maven/org.springframework/spring-jms@4.0.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-jms@3.2.11.RELEASE
 - pkg:maven/org.springframework/spring-jms@3.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-jms@4.1.1.RELEASE
+- pkg:maven/org.springframework/spring-jms@4.1.1.RELEASE?classifier=sources

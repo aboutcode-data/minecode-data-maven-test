@@ -124,3 +124,5 @@
 - pkg:maven/org.springframework/spring-jdbc@4.0.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-jdbc@3.2.11.RELEASE
 - pkg:maven/org.springframework/spring-jdbc@3.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-jdbc@4.1.1.RELEASE
+- pkg:maven/org.springframework/spring-jdbc@4.1.1.RELEASE?classifier=sources
