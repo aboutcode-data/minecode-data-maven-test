@@ -76,3 +76,5 @@
 - pkg:maven/org.springframework.amqp/spring-amqp@1.6.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-amqp@1.6.4.RELEASE
 - pkg:maven/org.springframework.amqp/spring-amqp@1.6.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-amqp@1.6.6.RELEASE
+- pkg:maven/org.springframework.amqp/spring-amqp@1.6.6.RELEASE?classifier=sources

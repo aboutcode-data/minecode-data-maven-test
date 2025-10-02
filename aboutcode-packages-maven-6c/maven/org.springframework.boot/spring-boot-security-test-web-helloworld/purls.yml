@@ -22,3 +22,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.3.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.4.2.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.4.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.4.3.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.4.3.RELEASE?classifier=sources

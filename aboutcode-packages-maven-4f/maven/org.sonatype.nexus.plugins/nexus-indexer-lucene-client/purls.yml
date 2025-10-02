@@ -94,3 +94,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-indexer-lucene-client@2.11.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-indexer-lucene-client@2.14.1-01
 - pkg:maven/org.sonatype.nexus.plugins/nexus-indexer-lucene-client@2.14.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-indexer-lucene-client@2.14.2-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-indexer-lucene-client@2.14.2-01?classifier=sources

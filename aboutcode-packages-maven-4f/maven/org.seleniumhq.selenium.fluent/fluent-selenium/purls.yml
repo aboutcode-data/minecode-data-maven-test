@@ -80,3 +80,5 @@
 - pkg:maven/org.seleniumhq.selenium.fluent/fluent-selenium@1.16?classifier=sources
 - pkg:maven/org.seleniumhq.selenium.fluent/fluent-selenium@1.16.1
 - pkg:maven/org.seleniumhq.selenium.fluent/fluent-selenium@1.16.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium.fluent/fluent-selenium@1.17
+- pkg:maven/org.seleniumhq.selenium.fluent/fluent-selenium@1.17?classifier=sources
