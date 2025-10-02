@@ -100,3 +100,7 @@
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@6.1.0-edge?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@5.7.0
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@5.7.0?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@5.8.0
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@5.8.0?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@5.7.1
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@5.7.1?classifier=sources
