@@ -70,3 +70,7 @@
 - pkg:maven/org.mitre/openid-connect-server@1.1.11?classifier=sources
 - pkg:maven/org.mitre/openid-connect-server@1.0.19?type=war
 - pkg:maven/org.mitre/openid-connect-server@1.0.19?classifier=sources
+- pkg:maven/org.mitre/openid-connect-server@1.1.12
+- pkg:maven/org.mitre/openid-connect-server@1.1.12?classifier=sources
+- pkg:maven/org.mitre/openid-connect-server@1.0.20?type=war
+- pkg:maven/org.mitre/openid-connect-server@1.0.20?classifier=sources

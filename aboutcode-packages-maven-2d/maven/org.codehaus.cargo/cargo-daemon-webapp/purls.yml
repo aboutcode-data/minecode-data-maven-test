@@ -28,3 +28,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.4.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.4.10?type=war
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.4.10?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.4.11?type=war
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.4.11?classifier=sources
