@@ -18,3 +18,5 @@
 - pkg:maven/com.paymill/paymill-java@3.1.2?classifier=sources
 - pkg:maven/com.paymill/paymill-java@3.2.0
 - pkg:maven/com.paymill/paymill-java@3.2.0?classifier=sources
+- pkg:maven/com.paymill/paymill-java@4.0.0
+- pkg:maven/com.paymill/paymill-java@4.0.0?classifier=sources

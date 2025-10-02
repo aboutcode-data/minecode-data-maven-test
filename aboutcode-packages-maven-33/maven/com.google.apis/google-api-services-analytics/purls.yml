@@ -694,3 +694,7 @@
 - pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev76-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev76-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev76-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analytics@v3-rev98-1.19.0
+- pkg:maven/com.google.apis/google-api-services-analytics@v3-rev98-1.19.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev76-1.19.0
+- pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev76-1.19.0?classifier=sources

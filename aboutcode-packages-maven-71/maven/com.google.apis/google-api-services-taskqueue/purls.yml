@@ -356,3 +356,7 @@
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev38-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev38-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev38-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev33-1.19.0
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev33-1.19.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev38-1.19.0
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev38-1.19.0?classifier=sources
