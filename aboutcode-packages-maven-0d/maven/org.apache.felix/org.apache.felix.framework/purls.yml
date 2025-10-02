@@ -71,3 +71,5 @@
 - pkg:maven/org.apache.felix/org.apache.felix.framework@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.framework@4.2.1
 - pkg:maven/org.apache.felix/org.apache.felix.framework@4.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.framework@4.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.framework@4.4.0?classifier=source-release&type=zip

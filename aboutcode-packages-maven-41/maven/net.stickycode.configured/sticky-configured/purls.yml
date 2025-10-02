@@ -16,3 +16,5 @@
 - pkg:maven/net.stickycode.configured/sticky-configured@4.7?classifier=sources
 - pkg:maven/net.stickycode.configured/sticky-configured@5.4
 - pkg:maven/net.stickycode.configured/sticky-configured@5.4?classifier=sources
+- pkg:maven/net.stickycode.configured/sticky-configured@5.5
+- pkg:maven/net.stickycode.configured/sticky-configured@5.5?classifier=sources
