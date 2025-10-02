@@ -97,3 +97,6 @@
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.19?type=war
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.19?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.19?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.20?type=war
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.20?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-webapp@2.20?classifier=project-src&type=zip
