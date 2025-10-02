@@ -40,3 +40,5 @@
 - pkg:maven/org.glassfish.jersey.media/html-json@2.10.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/html-json@2.13
 - pkg:maven/org.glassfish.jersey.media/html-json@2.13?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/html-json@2.14
+- pkg:maven/org.glassfish.jersey.media/html-json@2.14?classifier=sources
