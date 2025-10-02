@@ -98,3 +98,5 @@
 - pkg:maven/org.grails/grails-datastore-rest-client@6.0.8.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-rest-client@6.0.9.RELEASE
 - pkg:maven/org.grails/grails-datastore-rest-client@6.0.9.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-rest-client@6.1.0.RC1
+- pkg:maven/org.grails/grails-datastore-rest-client@6.1.0.RC1?classifier=sources
