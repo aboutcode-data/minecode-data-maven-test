@@ -18,3 +18,5 @@
 - pkg:maven/org.esigate/esigate-server@5.0-beta-3?classifier=sources
 - pkg:maven/org.esigate/esigate-server@5.0
 - pkg:maven/org.esigate/esigate-server@5.0?classifier=sources
+- pkg:maven/org.esigate/esigate-server@4.4
+- pkg:maven/org.esigate/esigate-server@4.4?classifier=sources

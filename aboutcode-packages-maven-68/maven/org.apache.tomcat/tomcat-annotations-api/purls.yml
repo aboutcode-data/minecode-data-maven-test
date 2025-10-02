@@ -112,3 +112,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.0.21?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.61
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.61?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.0.22
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.0.22?classifier=sources
