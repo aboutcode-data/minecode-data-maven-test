@@ -44,3 +44,5 @@
 - pkg:maven/org.apache-extras.camel-extra/camel-esper@2.13.4?classifier=sources
 - pkg:maven/org.apache-extras.camel-extra/camel-esper@2.13.3
 - pkg:maven/org.apache-extras.camel-extra/camel-esper@2.13.3?classifier=sources
+- pkg:maven/org.apache-extras.camel-extra/camel-esper@2.14.0
+- pkg:maven/org.apache-extras.camel-extra/camel-esper@2.14.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.karaf.instance/org.apache.karaf.instance.core@4.0.0.M2?classifier=sources
 - pkg:maven/org.apache.karaf.instance/org.apache.karaf.instance.core@4.0.0.M3
 - pkg:maven/org.apache.karaf.instance/org.apache.karaf.instance.core@4.0.0.M3?classifier=sources
+- pkg:maven/org.apache.karaf.instance/org.apache.karaf.instance.core@4.0.0
+- pkg:maven/org.apache.karaf.instance/org.apache.karaf.instance.core@4.0.0?classifier=sources

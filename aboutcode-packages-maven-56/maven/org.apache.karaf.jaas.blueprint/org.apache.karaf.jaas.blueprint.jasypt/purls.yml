@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.karaf.jaas.blueprint/org.apache.karaf.jaas.blueprint.jasypt@4.0.0.M2?classifier=sources
 - pkg:maven/org.apache.karaf.jaas.blueprint/org.apache.karaf.jaas.blueprint.jasypt@4.0.0.M3
 - pkg:maven/org.apache.karaf.jaas.blueprint/org.apache.karaf.jaas.blueprint.jasypt@4.0.0.M3?classifier=sources
+- pkg:maven/org.apache.karaf.jaas.blueprint/org.apache.karaf.jaas.blueprint.jasypt@4.0.0
+- pkg:maven/org.apache.karaf.jaas.blueprint/org.apache.karaf.jaas.blueprint.jasypt@4.0.0?classifier=sources

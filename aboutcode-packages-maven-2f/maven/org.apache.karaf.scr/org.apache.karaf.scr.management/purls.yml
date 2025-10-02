@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.management@4.0.0.M2?classifier=sources
 - pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.management@4.0.0.M3
 - pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.management@4.0.0.M3?classifier=sources
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.management@4.0.0
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.management@4.0.0?classifier=sources
