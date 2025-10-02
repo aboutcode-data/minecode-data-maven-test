@@ -108,3 +108,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-groovy@5.2.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-groovy@5.4.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-groovy@5.4.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-groovy@6.0-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-groovy@6.0-milestone-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-groovy@5.4.3
+- pkg:maven/org.xwiki.commons/xwiki-commons-groovy@5.4.3?classifier=sources
