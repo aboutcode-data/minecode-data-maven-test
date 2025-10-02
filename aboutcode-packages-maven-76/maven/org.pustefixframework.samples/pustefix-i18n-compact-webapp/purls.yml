@@ -134,3 +134,5 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-compact-webapp@0.19.21?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-compact-webapp@0.19.23?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-compact-webapp@0.19.23?classifier=sources
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-compact-webapp@0.19.24?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-compact-webapp@0.19.24?classifier=sources

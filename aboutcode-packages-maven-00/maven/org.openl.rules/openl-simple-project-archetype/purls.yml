@@ -30,3 +30,5 @@
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.15.3?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.16.3?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.16.4?classifier=sources
+- pkg:maven/org.openl.rules/openl-simple-project-archetype@5.11.7
+- pkg:maven/org.openl.rules/openl-simple-project-archetype@5.11.7?classifier=sources

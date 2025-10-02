@@ -12,3 +12,5 @@
 - pkg:maven/org.lumongo/lumongo-common@0.31?classifier=sources
 - pkg:maven/org.lumongo/lumongo-common@0.40
 - pkg:maven/org.lumongo/lumongo-common@0.40?classifier=sources
+- pkg:maven/org.lumongo/lumongo-common@0.41
+- pkg:maven/org.lumongo/lumongo-common@0.41?classifier=sources
