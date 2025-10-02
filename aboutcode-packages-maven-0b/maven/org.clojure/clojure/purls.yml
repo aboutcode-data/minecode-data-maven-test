@@ -154,3 +154,5 @@
 - pkg:maven/org.clojure/clojure@1.8.0-alpha2?classifier=sources
 - pkg:maven/org.clojure/clojure@1.8.0-alpha1?type=zip
 - pkg:maven/org.clojure/clojure@1.8.0-alpha1?classifier=sources
+- pkg:maven/org.clojure/clojure@1.8.0-alpha3?type=zip
+- pkg:maven/org.clojure/clojure@1.8.0-alpha3?classifier=sources

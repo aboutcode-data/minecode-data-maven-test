@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.nifi/nifi-web-ui@0.1.0-incubating?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-web-ui@0.2.0-incubating?type=war
 - pkg:maven/org.apache.nifi/nifi-web-ui@0.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-web-ui@0.2.1?type=war
+- pkg:maven/org.apache.nifi/nifi-web-ui@0.2.1?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.jena/jena@2.12.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@2.12.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@2.13.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.jena/jena@3.0.0?classifier=source-release&type=zip

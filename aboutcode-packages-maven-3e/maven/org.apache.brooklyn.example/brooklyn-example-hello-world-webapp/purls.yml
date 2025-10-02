@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@0.7.0-incubating?type=war
+- pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@0.7.0-incubating?classifier=sources
