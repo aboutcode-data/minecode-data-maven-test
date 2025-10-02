@@ -40,3 +40,5 @@
 - pkg:maven/org.jbehave/jbehave-scala@3.7.2?classifier=sources
 - pkg:maven/org.jbehave/jbehave-scala@3.7.3
 - pkg:maven/org.jbehave/jbehave-scala@3.7.3?classifier=sources
+- pkg:maven/org.jbehave/jbehave-scala@4.0-beta-2
+- pkg:maven/org.jbehave/jbehave-scala@4.0-beta-2?classifier=sources

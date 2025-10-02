@@ -60,3 +60,5 @@
 - pkg:maven/io.netty/netty@4.0.0.Alpha7?classifier=sources
 - pkg:maven/io.netty/netty@3.5.10.Final
 - pkg:maven/io.netty/netty@3.5.10.Final?classifier=sources
+- pkg:maven/io.netty/netty@3.6.0.Beta1
+- pkg:maven/io.netty/netty@3.6.0.Beta1?classifier=sources
