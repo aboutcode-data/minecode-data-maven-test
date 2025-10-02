@@ -118,3 +118,5 @@
 - pkg:maven/org.jboss.weld/weld-core-impl@2.3.1.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-core-impl@3.0.0.Alpha14
 - pkg:maven/org.jboss.weld/weld-core-impl@3.0.0.Alpha14?classifier=sources
+- pkg:maven/org.jboss.weld/weld-core-impl@2.3.2.Final
+- pkg:maven/org.jboss.weld/weld-core-impl@2.3.2.Final?classifier=sources

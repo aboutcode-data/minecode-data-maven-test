@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-common@1.2.0.redhat-133
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-common@1.2.0.redhat-133?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-common@1.2.0.redhat-621084
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-common@1.2.0.redhat-621084?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.itechet/resteasy-demo-01@1.0.3?classifier=sources
 - pkg:maven/org.itechet/resteasy-demo-01@1.0.2?type=war
 - pkg:maven/org.itechet/resteasy-demo-01@1.0.2?classifier=sources
+- pkg:maven/org.itechet/resteasy-demo-01@1.0.5?type=war
+- pkg:maven/org.itechet/resteasy-demo-01@1.0.5?classifier=sources
