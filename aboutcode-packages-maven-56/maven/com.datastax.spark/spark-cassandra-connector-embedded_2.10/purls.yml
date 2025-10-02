@@ -124,3 +124,5 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.6.6?classifier=sources
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@2.0.2
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@2.0.2?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.6.7
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.6.7?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.github.khazrak/jdocker-client@1.1.5?classifier=sources
 - pkg:maven/com.github.khazrak/jdocker-client@2.0.0
 - pkg:maven/com.github.khazrak/jdocker-client@2.0.0?classifier=sources
+- pkg:maven/com.github.khazrak/jdocker-client@3.0.0
+- pkg:maven/com.github.khazrak/jdocker-client@3.0.0?classifier=sources
