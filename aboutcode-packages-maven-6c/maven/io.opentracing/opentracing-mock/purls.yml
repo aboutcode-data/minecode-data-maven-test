@@ -12,3 +12,7 @@
 - pkg:maven/io.opentracing/opentracing-mock@0.20.6?classifier=sources
 - pkg:maven/io.opentracing/opentracing-mock@0.20.4
 - pkg:maven/io.opentracing/opentracing-mock@0.20.4?classifier=sources
+- pkg:maven/io.opentracing/opentracing-mock@0.20.9
+- pkg:maven/io.opentracing/opentracing-mock@0.20.9?classifier=sources
+- pkg:maven/io.opentracing/opentracing-mock@0.20.8
+- pkg:maven/io.opentracing/opentracing-mock@0.20.8?classifier=sources
