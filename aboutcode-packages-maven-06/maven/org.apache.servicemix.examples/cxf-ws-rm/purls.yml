@@ -108,3 +108,5 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@6.0.5?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.6.2
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@5.6.2?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@7.0.0.M3
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-rm@7.0.0.M3?classifier=sources

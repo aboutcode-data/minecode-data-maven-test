@@ -1,2 +1,6 @@
 - pkg:maven/org.atnos/eff-monix_2.11@2.0.0
 - pkg:maven/org.atnos/eff-monix_2.11@2.0.0?classifier=sources
+- pkg:maven/org.atnos/eff-monix_2.11@2.0.1
+- pkg:maven/org.atnos/eff-monix_2.11@2.0.1?classifier=sources
+- pkg:maven/org.atnos/eff-monix_2.11@2.0.0-20161129165138-cc2f32d
+- pkg:maven/org.atnos/eff-monix_2.11@2.0.0-20161129165138-cc2f32d?classifier=sources
