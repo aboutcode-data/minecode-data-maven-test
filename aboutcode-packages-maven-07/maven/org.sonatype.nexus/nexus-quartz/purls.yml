@@ -18,3 +18,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-quartz@3.3.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-quartz@3.3.2-02
 - pkg:maven/org.sonatype.nexus/nexus-quartz@3.3.2-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-quartz@3.4.0-02
+- pkg:maven/org.sonatype.nexus/nexus-quartz@3.4.0-02?classifier=sources

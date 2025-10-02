@@ -155,3 +155,5 @@
 - pkg:maven/com.github.axet/android-audio-library@0.0.68?classifier=sources
 - pkg:maven/com.github.axet/android-audio-library@0.0.67?type=aar
 - pkg:maven/com.github.axet/android-audio-library@0.0.67?classifier=sources
+- pkg:maven/com.github.axet/android-audio-library@1.0.12?type=aar
+- pkg:maven/com.github.axet/android-audio-library@1.0.12?classifier=sources

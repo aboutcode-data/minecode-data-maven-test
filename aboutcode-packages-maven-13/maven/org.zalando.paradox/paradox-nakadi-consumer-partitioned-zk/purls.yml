@@ -26,3 +26,5 @@
 - pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-partitioned-zk@0.3.3?classifier=sources
 - pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-partitioned-zk@0.3.2
 - pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-partitioned-zk@0.3.2?classifier=sources
+- pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-partitioned-zk@0.3.4
+- pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-partitioned-zk@0.3.4?classifier=sources
