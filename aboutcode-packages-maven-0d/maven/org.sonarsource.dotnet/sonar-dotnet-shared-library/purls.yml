@@ -4,3 +4,5 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.4.305?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.5.333
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.5.333?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.1.0.395
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.1.0.395?classifier=sources
