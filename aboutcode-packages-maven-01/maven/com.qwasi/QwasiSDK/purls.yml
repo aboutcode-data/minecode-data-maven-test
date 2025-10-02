@@ -16,3 +16,7 @@
 - pkg:maven/com.qwasi/QwasiSDK@2.1.0-8?classifier=sources
 - pkg:maven/com.qwasi/QwasiSDK@2.1.0-test?type=aar
 - pkg:maven/com.qwasi/QwasiSDK@2.1.0-test?classifier=sources
+- pkg:maven/com.qwasi/QwasiSDK@2.1.18-1?type=aar
+- pkg:maven/com.qwasi/QwasiSDK@2.1.18-1?classifier=sources
+- pkg:maven/com.qwasi/QwasiSDK@2.1.18?type=aar
+- pkg:maven/com.qwasi/QwasiSDK@2.1.18?classifier=sources

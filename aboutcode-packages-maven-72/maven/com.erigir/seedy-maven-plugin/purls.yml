@@ -16,3 +16,5 @@
 - pkg:maven/com.erigir/seedy-maven-plugin@0.7?classifier=sources
 - pkg:maven/com.erigir/seedy-maven-plugin@0.8.39
 - pkg:maven/com.erigir/seedy-maven-plugin@0.8.39?classifier=sources
+- pkg:maven/com.erigir/seedy-maven-plugin@0.9.0%2B45
+- pkg:maven/com.erigir/seedy-maven-plugin@0.9.0%2B45?classifier=sources
