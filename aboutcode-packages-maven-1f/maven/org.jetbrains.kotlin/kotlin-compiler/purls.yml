@@ -116,3 +116,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.12.200?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.12.412
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.12.412?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.12.613
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@0.12.613?classifier=sources

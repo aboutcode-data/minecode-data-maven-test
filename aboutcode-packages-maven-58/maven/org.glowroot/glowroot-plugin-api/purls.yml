@@ -1,2 +1,4 @@
 - pkg:maven/org.glowroot/glowroot-plugin-api@0.8
 - pkg:maven/org.glowroot/glowroot-plugin-api@0.8?classifier=sources
+- pkg:maven/org.glowroot/glowroot-plugin-api@0.8.1
+- pkg:maven/org.glowroot/glowroot-plugin-api@0.8.1?classifier=sources

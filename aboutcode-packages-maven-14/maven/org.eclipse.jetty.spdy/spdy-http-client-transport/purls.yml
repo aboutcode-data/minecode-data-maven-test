@@ -54,3 +54,5 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-http-client-transport@9.2.11.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-http-client-transport@9.2.11.v20150529
 - pkg:maven/org.eclipse.jetty.spdy/spdy-http-client-transport@9.2.11.v20150529?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-http-client-transport@9.2.12.M0
+- pkg:maven/org.eclipse.jetty.spdy/spdy-http-client-transport@9.2.12.M0?classifier=sources

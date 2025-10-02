@@ -193,3 +193,9 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@8.0.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@7.2.2.Final?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@7.2.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@8.0.0.Alpha2?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@8.0.0.Alpha2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@7.2.3.Final?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@7.2.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@5.2.13.Final?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@5.2.13.Final?classifier=sources

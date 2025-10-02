@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.0.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.0.RC1
 - pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.0.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.0.v20150612
+- pkg:maven/org.eclipse.jetty.cdi/cdi-servlet@9.3.0.v20150612?classifier=sources
