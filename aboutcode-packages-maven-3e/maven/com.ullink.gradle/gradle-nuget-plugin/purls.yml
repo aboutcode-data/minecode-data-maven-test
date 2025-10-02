@@ -20,3 +20,5 @@
 - pkg:maven/com.ullink.gradle/gradle-nuget-plugin@2.8?classifier=sources
 - pkg:maven/com.ullink.gradle/gradle-nuget-plugin@2.9
 - pkg:maven/com.ullink.gradle/gradle-nuget-plugin@2.9?classifier=sources
+- pkg:maven/com.ullink.gradle/gradle-nuget-plugin@2.10
+- pkg:maven/com.ullink.gradle/gradle-nuget-plugin@2.10?classifier=sources

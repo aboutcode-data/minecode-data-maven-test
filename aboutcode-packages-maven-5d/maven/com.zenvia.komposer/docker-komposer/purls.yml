@@ -24,3 +24,5 @@
 - pkg:maven/com.zenvia.komposer/docker-komposer@1.1.9?classifier=sources
 - pkg:maven/com.zenvia.komposer/docker-komposer@1.2.1
 - pkg:maven/com.zenvia.komposer/docker-komposer@1.2.1?classifier=sources
+- pkg:maven/com.zenvia.komposer/docker-komposer@1.2.2
+- pkg:maven/com.zenvia.komposer/docker-komposer@1.2.2?classifier=sources

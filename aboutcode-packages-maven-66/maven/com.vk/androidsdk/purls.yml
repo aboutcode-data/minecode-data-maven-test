@@ -39,3 +39,5 @@
 - pkg:maven/com.vk/androidsdk@1.5.9?classifier=sources
 - pkg:maven/com.vk/androidsdk@1.5.10?type=aar
 - pkg:maven/com.vk/androidsdk@1.5.10?classifier=sources
+- pkg:maven/com.vk/androidsdk@1.6.0?type=aar
+- pkg:maven/com.vk/androidsdk@1.6.0?classifier=sources
