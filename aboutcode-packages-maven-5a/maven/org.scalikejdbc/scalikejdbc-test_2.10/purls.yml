@@ -134,3 +134,5 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-test_2.10@2.5.2?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-test_2.10@3.0.0
 - pkg:maven/org.scalikejdbc/scalikejdbc-test_2.10@3.0.0?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-test_2.10@3.0.1
+- pkg:maven/org.scalikejdbc/scalikejdbc-test_2.10@3.0.1?classifier=sources

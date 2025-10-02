@@ -24,3 +24,9 @@
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC18?classifier=sources
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC17?type=war
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC17?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC25?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC25?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC24?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC24?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC23?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC23?classifier=sources
