@@ -6,3 +6,5 @@
 - pkg:maven/org.owasp.antisamy/antisamy@1.4.3?classifier=sources
 - pkg:maven/org.owasp.antisamy/antisamy@1.4.2
 - pkg:maven/org.owasp.antisamy/antisamy@1.4.2?classifier=sources
+- pkg:maven/org.owasp.antisamy/antisamy@1.5
+- pkg:maven/org.owasp.antisamy/antisamy@1.5?classifier=sources

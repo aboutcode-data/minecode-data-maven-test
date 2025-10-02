@@ -30,3 +30,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@6.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@6.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@1.5.9.1
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@1.5.9.1?classifier=sources
