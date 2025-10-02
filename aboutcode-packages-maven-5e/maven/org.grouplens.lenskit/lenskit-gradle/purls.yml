@@ -2,3 +2,5 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-gradle@2.2-M3?classifier=sources
 - pkg:maven/org.grouplens.lenskit/lenskit-gradle@2.2-M4
 - pkg:maven/org.grouplens.lenskit/lenskit-gradle@2.2-M4?classifier=sources
+- pkg:maven/org.grouplens.lenskit/lenskit-gradle@2.2
+- pkg:maven/org.grouplens.lenskit/lenskit-gradle@2.2?classifier=sources

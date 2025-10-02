@@ -10,3 +10,5 @@
 - pkg:maven/org.mongodb.morphia/morphia-no-proxy-deps-tests@0.110?classifier=sources
 - pkg:maven/org.mongodb.morphia/morphia-no-proxy-deps-tests@0.111
 - pkg:maven/org.mongodb.morphia/morphia-no-proxy-deps-tests@0.111?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-no-proxy-deps-tests@1.0.0-rc0
+- pkg:maven/org.mongodb.morphia/morphia-no-proxy-deps-tests@1.0.0-rc0?classifier=sources

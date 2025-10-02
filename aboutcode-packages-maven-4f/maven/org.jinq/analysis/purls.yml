@@ -38,3 +38,5 @@
 - pkg:maven/org.jinq/analysis@1.6.1?classifier=sources
 - pkg:maven/org.jinq/analysis@1.7
 - pkg:maven/org.jinq/analysis@1.7?classifier=sources
+- pkg:maven/org.jinq/analysis@1.7.1
+- pkg:maven/org.jinq/analysis@1.7.1?classifier=sources

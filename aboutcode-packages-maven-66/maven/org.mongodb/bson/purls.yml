@@ -102,3 +102,5 @@
 - pkg:maven/org.mongodb/bson@3.0.0?classifier=sources
 - pkg:maven/org.mongodb/bson@2.13.1
 - pkg:maven/org.mongodb/bson@2.13.1?classifier=sources
+- pkg:maven/org.mongodb/bson@3.0.1
+- pkg:maven/org.mongodb/bson@3.0.1?classifier=sources
