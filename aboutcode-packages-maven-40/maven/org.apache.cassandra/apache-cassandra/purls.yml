@@ -133,3 +133,5 @@
 - pkg:maven/org.apache.cassandra/apache-cassandra@2.0.17?classifier=src&type=tar.gz
 - pkg:maven/org.apache.cassandra/apache-cassandra@2.2.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.cassandra/apache-cassandra@2.1.10?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cassandra/apache-cassandra@2.2.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cassandra/apache-cassandra@2.1.11?classifier=src&type=tar.gz
