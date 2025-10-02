@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.14?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.15?type=war
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.15?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples-war@0.16?type=war
+- pkg:maven/org.apache.wicket/wicket-examples-war@0.16?classifier=sources

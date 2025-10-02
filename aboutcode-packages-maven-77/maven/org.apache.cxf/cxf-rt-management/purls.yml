@@ -184,3 +184,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-management@2.6.13?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-management@2.6.12
 - pkg:maven/org.apache.cxf/cxf-rt-management@2.6.12?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-management@3.0.0-milestone2
+- pkg:maven/org.apache.cxf/cxf-rt-management@3.0.0-milestone2?classifier=sources

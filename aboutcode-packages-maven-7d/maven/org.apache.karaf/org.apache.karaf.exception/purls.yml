@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.karaf/org.apache.karaf.exception@2.3.3?classifier=sources
 - pkg:maven/org.apache.karaf/org.apache.karaf.exception@3.0.0
 - pkg:maven/org.apache.karaf/org.apache.karaf.exception@3.0.0?classifier=sources
+- pkg:maven/org.apache.karaf/org.apache.karaf.exception@2.3.4
+- pkg:maven/org.apache.karaf/org.apache.karaf.exception@2.3.4?classifier=sources
