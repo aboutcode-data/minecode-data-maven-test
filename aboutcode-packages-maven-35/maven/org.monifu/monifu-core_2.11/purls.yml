@@ -78,3 +78,5 @@
 - pkg:maven/org.monifu/monifu-core_2.11@1.0-RC3?classifier=sources
 - pkg:maven/org.monifu/monifu-core_2.11@1.0-RC4
 - pkg:maven/org.monifu/monifu-core_2.11@1.0-RC4?classifier=sources
+- pkg:maven/org.monifu/monifu-core_2.11@1.0
+- pkg:maven/org.monifu/monifu-core_2.11@1.0?classifier=sources

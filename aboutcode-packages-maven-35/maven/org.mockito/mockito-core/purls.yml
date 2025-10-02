@@ -103,3 +103,7 @@
 - pkg:maven/org.mockito/mockito-core@2.0.31-beta?classifier=sources
 - pkg:maven/org.mockito/mockito-core@2.0.30-beta
 - pkg:maven/org.mockito/mockito-core@2.0.30-beta?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.0.33-beta
+- pkg:maven/org.mockito/mockito-core@2.0.33-beta?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.0.32-beta
+- pkg:maven/org.mockito/mockito-core@2.0.32-beta?classifier=sources
