@@ -108,3 +108,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.12.213?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.12.200
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.12.200?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.12.412
+- pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.12.412?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-core@2.11.2-06?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-core@2.11.3-01
 - pkg:maven/org.sonatype.nexus/nexus-core@2.11.3-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-core@3.0.0-b2015061001
+- pkg:maven/org.sonatype.nexus/nexus-core@3.0.0-b2015061001?classifier=sources
