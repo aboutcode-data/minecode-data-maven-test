@@ -92,3 +92,7 @@
 - pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@7.0.0?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@5.6.3
 - pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@5.6.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@7.0.1
+- pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@7.0.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@6.1.4
+- pkg:maven/org.apache.servicemix.examples/camel-cxf-soap-route@6.1.4?classifier=sources

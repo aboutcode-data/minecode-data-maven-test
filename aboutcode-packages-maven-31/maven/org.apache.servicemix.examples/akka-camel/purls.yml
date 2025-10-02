@@ -96,3 +96,7 @@
 - pkg:maven/org.apache.servicemix.examples/akka-camel@7.0.0?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/akka-camel@5.6.3
 - pkg:maven/org.apache.servicemix.examples/akka-camel@5.6.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/akka-camel@7.0.1
+- pkg:maven/org.apache.servicemix.examples/akka-camel@7.0.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/akka-camel@6.1.4
+- pkg:maven/org.apache.servicemix.examples/akka-camel@6.1.4?classifier=sources
