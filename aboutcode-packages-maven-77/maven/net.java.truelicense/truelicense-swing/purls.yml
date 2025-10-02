@@ -30,3 +30,5 @@
 - pkg:maven/net.java.truelicense/truelicense-swing@2.0-rc10?classifier=sources
 - pkg:maven/net.java.truelicense/truelicense-swing@2.0-rc16
 - pkg:maven/net.java.truelicense/truelicense-swing@2.0-rc16?classifier=sources
+- pkg:maven/net.java.truelicense/truelicense-swing@2.0
+- pkg:maven/net.java.truelicense/truelicense-swing@2.0?classifier=sources

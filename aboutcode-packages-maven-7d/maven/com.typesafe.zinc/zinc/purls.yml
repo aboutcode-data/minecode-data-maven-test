@@ -28,3 +28,5 @@
 - pkg:maven/com.typesafe.zinc/zinc@0.2.4?classifier=sources
 - pkg:maven/com.typesafe.zinc/zinc@0.2.3
 - pkg:maven/com.typesafe.zinc/zinc@0.2.3?classifier=sources
+- pkg:maven/com.typesafe.zinc/zinc@0.3.0-M1
+- pkg:maven/com.typesafe.zinc/zinc@0.3.0-M1?classifier=sources

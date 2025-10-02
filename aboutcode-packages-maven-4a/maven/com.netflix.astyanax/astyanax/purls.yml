@@ -32,3 +32,5 @@
 - pkg:maven/com.netflix.astyanax/astyanax@1.56.25?classifier=sources
 - pkg:maven/com.netflix.astyanax/astyanax@1.56.26
 - pkg:maven/com.netflix.astyanax/astyanax@1.56.26?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax@1.56.34
+- pkg:maven/com.netflix.astyanax/astyanax@1.56.34?classifier=sources
