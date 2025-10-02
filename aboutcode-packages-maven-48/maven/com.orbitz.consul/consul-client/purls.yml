@@ -58,3 +58,5 @@
 - pkg:maven/com.orbitz.consul/consul-client@0.13.3?classifier=sources
 - pkg:maven/com.orbitz.consul/consul-client@0.13.4
 - pkg:maven/com.orbitz.consul/consul-client@0.13.4?classifier=sources
+- pkg:maven/com.orbitz.consul/consul-client@0.13.5
+- pkg:maven/com.orbitz.consul/consul-client@0.13.5?classifier=sources

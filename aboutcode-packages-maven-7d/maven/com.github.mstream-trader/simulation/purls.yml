@@ -28,3 +28,5 @@
 - pkg:maven/com.github.mstream-trader/simulation@1.16?classifier=sources
 - pkg:maven/com.github.mstream-trader/simulation@1.15
 - pkg:maven/com.github.mstream-trader/simulation@1.15?classifier=sources
+- pkg:maven/com.github.mstream-trader/simulation@1.18
+- pkg:maven/com.github.mstream-trader/simulation@1.18?classifier=sources
