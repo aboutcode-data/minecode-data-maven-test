@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey/jax-rs-ri@2.0-m08
 - pkg:maven/org.glassfish.jersey/jax-rs-ri@2.0-m08?classifier=sources
+- pkg:maven/org.glassfish.jersey/jax-rs-ri@2.0-m08-1
+- pkg:maven/org.glassfish.jersey/jax-rs-ri@2.0-m08-1?classifier=sources

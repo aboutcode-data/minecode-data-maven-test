@@ -28,3 +28,5 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api@1.6.9?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api@1.6.10
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api@1.6.10?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-api@1.7.0
+- pkg:maven/org.ops4j.pax.logging/pax-logging-api@1.7.0?classifier=sources

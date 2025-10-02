@@ -62,3 +62,5 @@
 - pkg:maven/org.qatools/qatools@0.1.36?classifier=sources
 - pkg:maven/org.qatools/qatools@0.1.43
 - pkg:maven/org.qatools/qatools@0.1.43?classifier=sources
+- pkg:maven/org.qatools/qatools@1.44
+- pkg:maven/org.qatools/qatools@1.44?classifier=sources

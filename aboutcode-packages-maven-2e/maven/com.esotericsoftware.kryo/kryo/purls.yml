@@ -10,3 +10,5 @@
 - pkg:maven/com.esotericsoftware.kryo/kryo@2.17?classifier=sources
 - pkg:maven/com.esotericsoftware.kryo/kryo@2.19
 - pkg:maven/com.esotericsoftware.kryo/kryo@2.19?classifier=sources
+- pkg:maven/com.esotericsoftware.kryo/kryo@2.20
+- pkg:maven/com.esotericsoftware.kryo/kryo@2.20?classifier=sources

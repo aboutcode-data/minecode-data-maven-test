@@ -31,3 +31,5 @@
 - pkg:maven/com.lowagie/itext@1.02b
 - pkg:maven/com.lowagie/itext@0.99
 - pkg:maven/com.lowagie/itext@0.99?classifier=sources
+- pkg:maven/com.lowagie/itext@4.2.0
+- pkg:maven/com.lowagie/itext@4.2.0?classifier=sources
