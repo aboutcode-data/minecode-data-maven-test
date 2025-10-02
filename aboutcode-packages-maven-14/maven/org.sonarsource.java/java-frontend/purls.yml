@@ -1,2 +1,6 @@
 - pkg:maven/org.sonarsource.java/java-frontend@3.12
 - pkg:maven/org.sonarsource.java/java-frontend@3.12?classifier=sources
+- pkg:maven/org.sonarsource.java/java-frontend@3.13.1
+- pkg:maven/org.sonarsource.java/java-frontend@3.13.1?classifier=sources
+- pkg:maven/org.sonarsource.java/java-frontend@3.13
+- pkg:maven/org.sonarsource.java/java-frontend@3.13?classifier=sources
