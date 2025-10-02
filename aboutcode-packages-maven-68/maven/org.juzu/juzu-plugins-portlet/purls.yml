@@ -50,3 +50,5 @@
 - pkg:maven/org.juzu/juzu-plugins-portlet@0.6.0-cr2?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-portlet@0.6.0-cr4
 - pkg:maven/org.juzu/juzu-plugins-portlet@0.6.0-cr4?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-portlet@0.6.0
+- pkg:maven/org.juzu/juzu-plugins-portlet@0.6.0?classifier=sources

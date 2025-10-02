@@ -92,3 +92,5 @@
 - pkg:maven/org.neo4j/neo4j-community@2.0.0-M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-community@1.9.RC1
 - pkg:maven/org.neo4j/neo4j-community@1.9.RC1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-community@2.0.0-M02
+- pkg:maven/org.neo4j/neo4j-community@2.0.0-M02?classifier=sources
