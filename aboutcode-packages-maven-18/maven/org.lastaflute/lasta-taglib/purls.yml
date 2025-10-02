@@ -12,3 +12,5 @@
 - pkg:maven/org.lastaflute/lasta-taglib@0.6.0-RC9?classifier=sources
 - pkg:maven/org.lastaflute/lasta-taglib@0.6.0-RCA
 - pkg:maven/org.lastaflute/lasta-taglib@0.6.0-RCA?classifier=sources
+- pkg:maven/org.lastaflute/lasta-taglib@0.6.0
+- pkg:maven/org.lastaflute/lasta-taglib@0.6.0?classifier=sources

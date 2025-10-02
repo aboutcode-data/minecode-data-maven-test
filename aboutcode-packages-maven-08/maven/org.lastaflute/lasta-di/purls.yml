@@ -26,3 +26,5 @@
 - pkg:maven/org.lastaflute/lasta-di@0.6.2-RC2?classifier=sources
 - pkg:maven/org.lastaflute/lasta-di@0.6.2-RC4
 - pkg:maven/org.lastaflute/lasta-di@0.6.2-RC4?classifier=sources
+- pkg:maven/org.lastaflute/lasta-di@0.6.2
+- pkg:maven/org.lastaflute/lasta-di@0.6.2?classifier=sources

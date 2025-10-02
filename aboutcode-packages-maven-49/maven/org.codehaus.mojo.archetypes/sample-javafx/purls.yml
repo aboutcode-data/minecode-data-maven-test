@@ -6,3 +6,5 @@
 - pkg:maven/org.codehaus.mojo.archetypes/sample-javafx@0.3?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.archetypes/sample-javafx@0.4?classifier=sources
 - pkg:maven/org.codehaus.mojo.archetypes/sample-javafx@0.4?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.archetypes/sample-javafx@0.5?classifier=sources
+- pkg:maven/org.codehaus.mojo.archetypes/sample-javafx@0.5?classifier=source-release&type=zip

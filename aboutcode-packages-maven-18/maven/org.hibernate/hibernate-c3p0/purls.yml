@@ -225,3 +225,5 @@
 - pkg:maven/org.hibernate/hibernate-c3p0@5.0.0.CR1?classifier=sources
 - pkg:maven/org.hibernate/hibernate-c3p0@5.0.0.CR2
 - pkg:maven/org.hibernate/hibernate-c3p0@5.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-c3p0@4.2.20.Final
+- pkg:maven/org.hibernate/hibernate-c3p0@4.2.20.Final?classifier=sources

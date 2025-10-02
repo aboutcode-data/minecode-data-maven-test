@@ -66,3 +66,5 @@
 - pkg:maven/org.jboss.cdi.tck/cdi-tck-ext-lib@1.2.6.Final?classifier=sources
 - pkg:maven/org.jboss.cdi.tck/cdi-tck-ext-lib@1.2.6.SP1
 - pkg:maven/org.jboss.cdi.tck/cdi-tck-ext-lib@1.2.6.SP1?classifier=sources
+- pkg:maven/org.jboss.cdi.tck/cdi-tck-ext-lib@1.2.6.SP2
+- pkg:maven/org.jboss.cdi.tck/cdi-tck-ext-lib@1.2.6.SP2?classifier=sources

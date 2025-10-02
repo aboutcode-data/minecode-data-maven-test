@@ -28,3 +28,7 @@
 - pkg:maven/org.dbflute.mail/mailflute@0.4.0-RCG?classifier=sources
 - pkg:maven/org.dbflute.mail/mailflute@0.4.0-RCH
 - pkg:maven/org.dbflute.mail/mailflute@0.4.0-RCH?classifier=sources
+- pkg:maven/org.dbflute.mail/mailflute@0.4.0-RCI
+- pkg:maven/org.dbflute.mail/mailflute@0.4.0-RCI?classifier=sources
+- pkg:maven/org.dbflute.mail/mailflute@0.4.0
+- pkg:maven/org.dbflute.mail/mailflute@0.4.0?classifier=sources
