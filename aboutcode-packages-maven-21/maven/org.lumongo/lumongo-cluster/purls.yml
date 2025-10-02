@@ -10,3 +10,5 @@
 - pkg:maven/org.lumongo/lumongo-cluster@0.30?classifier=sources
 - pkg:maven/org.lumongo/lumongo-cluster@0.31
 - pkg:maven/org.lumongo/lumongo-cluster@0.31?classifier=sources
+- pkg:maven/org.lumongo/lumongo-cluster@0.40
+- pkg:maven/org.lumongo/lumongo-cluster@0.40?classifier=sources
