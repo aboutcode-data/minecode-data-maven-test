@@ -18,3 +18,5 @@
 - pkg:maven/org.everrest/everrest-integration-spring-sample@1.11.0?classifier=sources
 - pkg:maven/org.everrest/everrest-integration-spring-sample@1.12.1?type=war
 - pkg:maven/org.everrest/everrest-integration-spring-sample@1.12.1?classifier=sources
+- pkg:maven/org.everrest/everrest-integration-spring-sample@1.12.2?type=war
+- pkg:maven/org.everrest/everrest-integration-spring-sample@1.12.2?classifier=sources
