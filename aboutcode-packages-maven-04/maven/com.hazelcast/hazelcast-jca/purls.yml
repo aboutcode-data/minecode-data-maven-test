@@ -32,3 +32,5 @@
 - pkg:maven/com.hazelcast/hazelcast-jca@3.3.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-jca@3.4
 - pkg:maven/com.hazelcast/hazelcast-jca@3.4?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-jca@3.3.4
+- pkg:maven/com.hazelcast/hazelcast-jca@3.3.4?classifier=sources

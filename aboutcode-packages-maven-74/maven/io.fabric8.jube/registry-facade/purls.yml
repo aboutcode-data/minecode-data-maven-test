@@ -36,3 +36,5 @@
 - pkg:maven/io.fabric8.jube/registry-facade@2.0.18?classifier=sources
 - pkg:maven/io.fabric8.jube/registry-facade@2.0.19?type=war
 - pkg:maven/io.fabric8.jube/registry-facade@2.0.19?classifier=sources
+- pkg:maven/io.fabric8.jube/registry-facade@2.0.20?type=war
+- pkg:maven/io.fabric8.jube/registry-facade@2.0.20?classifier=sources

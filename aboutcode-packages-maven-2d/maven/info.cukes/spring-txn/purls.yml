@@ -6,3 +6,5 @@
 - pkg:maven/info.cukes/spring-txn@1.1.8?classifier=sources
 - pkg:maven/info.cukes/spring-txn@1.2.0?type=war
 - pkg:maven/info.cukes/spring-txn@1.2.0?classifier=sources
+- pkg:maven/info.cukes/spring-txn@1.2.2?type=war
+- pkg:maven/info.cukes/spring-txn@1.2.2?classifier=sources
