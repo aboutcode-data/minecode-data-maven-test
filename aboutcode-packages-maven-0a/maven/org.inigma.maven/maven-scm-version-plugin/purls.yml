@@ -1,2 +1,4 @@
 - pkg:maven/org.inigma.maven/maven-scm-version-plugin@1.0.0
 - pkg:maven/org.inigma.maven/maven-scm-version-plugin@1.0.0?classifier=sources
+- pkg:maven/org.inigma.maven/maven-scm-version-plugin@1.1
+- pkg:maven/org.inigma.maven/maven-scm-version-plugin@1.1?classifier=sources
