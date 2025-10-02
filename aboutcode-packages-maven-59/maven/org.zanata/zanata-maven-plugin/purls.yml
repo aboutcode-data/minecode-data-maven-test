@@ -12,3 +12,5 @@
 - pkg:maven/org.zanata/zanata-maven-plugin@2.2.0?classifier=sources
 - pkg:maven/org.zanata/zanata-maven-plugin@2.3.0
 - pkg:maven/org.zanata/zanata-maven-plugin@2.3.0?classifier=sources
+- pkg:maven/org.zanata/zanata-maven-plugin@3.0.0
+- pkg:maven/org.zanata/zanata-maven-plugin@3.0.0?classifier=sources

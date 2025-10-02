@@ -8,3 +8,9 @@
 - pkg:maven/br.com.caelum.stella/vraptor-validator-example@1.0?classifier=sources
 - pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0?type=war
 - pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0?classifier=sources
+- pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0.3?type=war
+- pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0.3?classifier=sources
+- pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0.2?type=war
+- pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0.2?classifier=sources
+- pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0.1?type=war
+- pkg:maven/br.com.caelum.stella/vraptor-validator-example@2.0.1?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.1.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.2.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.4.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.4.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.3.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-rest@2.0.3.Final?classifier=sources
