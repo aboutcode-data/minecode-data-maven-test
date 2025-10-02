@@ -56,3 +56,4 @@
 - pkg:maven/com.facebook.presto/presto-redis@0.161?classifier=sources
 - pkg:maven/com.facebook.presto/presto-redis@0.163?classifier=sources
 - pkg:maven/com.facebook.presto/presto-redis@0.164?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redis@0.165?classifier=sources

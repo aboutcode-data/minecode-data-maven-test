@@ -4,3 +4,5 @@
 - pkg:maven/com.github.pagehelper/pagehelper-spring-boot-starter@0.1.0?classifier=sources
 - pkg:maven/com.github.pagehelper/pagehelper-spring-boot-starter@1.1.0-beta
 - pkg:maven/com.github.pagehelper/pagehelper-spring-boot-starter@1.1.0-beta?classifier=sources
+- pkg:maven/com.github.pagehelper/pagehelper-spring-boot-starter@1.1.0
+- pkg:maven/com.github.pagehelper/pagehelper-spring-boot-starter@1.1.0?classifier=sources
