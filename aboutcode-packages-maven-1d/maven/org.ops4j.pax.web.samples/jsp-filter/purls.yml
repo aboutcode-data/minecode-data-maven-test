@@ -132,3 +132,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/jsp-filter@6.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jsp-filter@6.0.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/jsp-filter@6.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jsp-filter@4.3.1?type=war
+- pkg:maven/org.ops4j.pax.web.samples/jsp-filter@4.3.1?classifier=sources

@@ -98,3 +98,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.3-02
 - pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.3-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.4-03
+- pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.4-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.4-01
+- pkg:maven/org.sonatype.nexus/nexus-client-core@2.14.4-01?classifier=sources

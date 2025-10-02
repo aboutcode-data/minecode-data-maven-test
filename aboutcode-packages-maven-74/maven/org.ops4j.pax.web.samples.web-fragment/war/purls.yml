@@ -44,3 +44,5 @@
 - pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@6.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@6.0.3
 - pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@6.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@4.3.1
+- pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@4.3.1?classifier=sources
