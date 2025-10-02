@@ -70,3 +70,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-videochat@2.2.8?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-videochat@2.3.4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-videochat@2.3.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-videochat@2.3.5?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-videochat@2.3.5?classifier=sources

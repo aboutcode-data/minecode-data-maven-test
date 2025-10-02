@@ -86,3 +86,5 @@
 - pkg:maven/org.atmosphere/atmosphere-cometd-demo@2.2.8?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-cometd-demo@2.3.4?type=war
 - pkg:maven/org.atmosphere/atmosphere-cometd-demo@2.3.4?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-cometd-demo@2.3.5?type=war
+- pkg:maven/org.atmosphere/atmosphere-cometd-demo@2.3.5?classifier=sources

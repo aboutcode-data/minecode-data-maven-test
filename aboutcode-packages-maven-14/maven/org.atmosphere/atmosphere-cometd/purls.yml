@@ -98,3 +98,5 @@
 - pkg:maven/org.atmosphere/atmosphere-cometd@2.3.1?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-cometd@2.4.0-RC1
 - pkg:maven/org.atmosphere/atmosphere-cometd@2.4.0-RC1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-cometd@2.3.2
+- pkg:maven/org.atmosphere/atmosphere-cometd@2.3.2?classifier=sources

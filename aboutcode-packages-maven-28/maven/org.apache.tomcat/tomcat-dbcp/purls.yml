@@ -126,3 +126,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-dbcp@8.0.26?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-dbcp@7.0.64
 - pkg:maven/org.apache.tomcat/tomcat-dbcp@7.0.64?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-dbcp@8.0.27
+- pkg:maven/org.apache.tomcat/tomcat-dbcp@8.0.27?classifier=sources

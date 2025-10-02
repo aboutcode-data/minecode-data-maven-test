@@ -31,3 +31,5 @@
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.webconsole@3.0.3
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.webconsole@2.3.6
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.webconsole@2.3.6?classifier=sources
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.webconsole@4.0.0
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.webconsole@4.0.0?classifier=sources
