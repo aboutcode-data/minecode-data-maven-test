@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.lucene/lucene-queryparser@4.0.0-ALPHA?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-queryparser@3.6.1
 - pkg:maven/org.apache.lucene/lucene-queryparser@3.6.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-queryparser@4.0.0-BETA
+- pkg:maven/org.apache.lucene/lucene-queryparser@4.0.0-BETA?classifier=sources

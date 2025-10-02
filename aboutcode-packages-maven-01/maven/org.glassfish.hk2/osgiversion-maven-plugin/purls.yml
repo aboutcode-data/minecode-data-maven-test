@@ -108,3 +108,7 @@
 - pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@1.1.20?classifier=sources
 - pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@1.1.19
 - pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@1.1.19?classifier=sources
+- pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.1.20
+- pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.1.20?classifier=sources
+- pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.1.19
+- pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.1.19?classifier=sources

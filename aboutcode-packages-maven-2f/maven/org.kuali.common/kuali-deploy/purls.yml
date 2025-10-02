@@ -48,3 +48,7 @@
 - pkg:maven/org.kuali.common/kuali-deploy@1.1.4?classifier=sources
 - pkg:maven/org.kuali.common/kuali-deploy@1.1.8
 - pkg:maven/org.kuali.common/kuali-deploy@1.1.8?classifier=sources
+- pkg:maven/org.kuali.common/kuali-deploy@1.1.9
+- pkg:maven/org.kuali.common/kuali-deploy@1.1.9?classifier=sources
+- pkg:maven/org.kuali.common/kuali-deploy@1.1.10
+- pkg:maven/org.kuali.common/kuali-deploy@1.1.10?classifier=sources
