@@ -6,3 +6,5 @@
 - pkg:maven/org.bitbucket.frankmonza/kustomapi@0.3?classifier=sources
 - pkg:maven/org.bitbucket.frankmonza/kustomapi@0.4?type=aar
 - pkg:maven/org.bitbucket.frankmonza/kustomapi@0.4?classifier=sources
+- pkg:maven/org.bitbucket.frankmonza/kustomapi@0.5?type=aar
+- pkg:maven/org.bitbucket.frankmonza/kustomapi@0.5?classifier=sources
