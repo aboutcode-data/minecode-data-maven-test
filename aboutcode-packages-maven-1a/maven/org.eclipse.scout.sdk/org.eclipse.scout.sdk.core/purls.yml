@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core@6.0.100.RC4?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core@6.1.0.M2
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core@6.1.0.M2?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core@6.0.100.B100
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core@6.0.100.B100?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@6.0.100.RC4?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@6.1.0.M2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@6.1.0.M2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@6.0.100.B100
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@6.0.100.B100?classifier=sources
