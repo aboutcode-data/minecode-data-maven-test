@@ -58,3 +58,5 @@
 - pkg:maven/com.netflix.feign/feign-httpclient@8.16.2?classifier=sources
 - pkg:maven/com.netflix.feign/feign-httpclient@8.16.1
 - pkg:maven/com.netflix.feign/feign-httpclient@8.16.1?classifier=sources
+- pkg:maven/com.netflix.feign/feign-httpclient@8.17.0
+- pkg:maven/com.netflix.feign/feign-httpclient@8.17.0?classifier=sources

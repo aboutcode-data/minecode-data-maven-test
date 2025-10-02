@@ -20,3 +20,5 @@
 - pkg:maven/com.netflix.msl/msl-example@1.1200.0?classifier=sources
 - pkg:maven/com.netflix.msl/msl-example@1.1201.0?type=war
 - pkg:maven/com.netflix.msl/msl-example@1.1201.0?classifier=sources
+- pkg:maven/com.netflix.msl/msl-example@1.1202.0?type=war
+- pkg:maven/com.netflix.msl/msl-example@1.1202.0?classifier=sources

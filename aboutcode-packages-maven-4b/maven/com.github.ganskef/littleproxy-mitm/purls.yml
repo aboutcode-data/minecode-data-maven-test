@@ -4,3 +4,5 @@
 - pkg:maven/com.github.ganskef/littleproxy-mitm@1.1.0-beta2?classifier=sources
 - pkg:maven/com.github.ganskef/littleproxy-mitm@1.1.0-beta2b
 - pkg:maven/com.github.ganskef/littleproxy-mitm@1.1.0-beta2b?classifier=sources
+- pkg:maven/com.github.ganskef/littleproxy-mitm@1.1.0
+- pkg:maven/com.github.ganskef/littleproxy-mitm@1.1.0?classifier=sources

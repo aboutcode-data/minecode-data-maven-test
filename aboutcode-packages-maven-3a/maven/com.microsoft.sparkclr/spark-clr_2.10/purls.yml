@@ -30,3 +30,5 @@
 - pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.100-PREVIEW-2?classifier=sources
 - pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.100
 - pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.100?classifier=sources
+- pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.101-PREVIEW1
+- pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.101-PREVIEW1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.oneandone/typedrest-annotations@0.17?classifier=sources
 - pkg:maven/com.oneandone/typedrest-annotations@0.19
 - pkg:maven/com.oneandone/typedrest-annotations@0.19?classifier=sources
+- pkg:maven/com.oneandone/typedrest-annotations@0.20
+- pkg:maven/com.oneandone/typedrest-annotations@0.20?classifier=sources
