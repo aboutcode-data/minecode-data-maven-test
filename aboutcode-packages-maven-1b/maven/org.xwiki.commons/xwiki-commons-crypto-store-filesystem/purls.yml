@@ -1,2 +1,4 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@6.1-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@6.1-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@6.1-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@6.1-rc-1?classifier=sources

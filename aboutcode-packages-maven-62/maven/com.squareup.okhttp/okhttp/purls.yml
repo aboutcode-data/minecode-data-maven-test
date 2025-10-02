@@ -30,3 +30,5 @@
 - pkg:maven/com.squareup.okhttp/okhttp@1.6.0?classifier=sources
 - pkg:maven/com.squareup.okhttp/okhttp@2.0.0-RC2
 - pkg:maven/com.squareup.okhttp/okhttp@2.0.0-RC2?classifier=sources
+- pkg:maven/com.squareup.okhttp/okhttp@2.0.0
+- pkg:maven/com.squareup.okhttp/okhttp@2.0.0?classifier=sources
