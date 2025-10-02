@@ -18,3 +18,5 @@
 - pkg:maven/org.togglz/togglz-slf4j@2.1.0.Final?classifier=sources
 - pkg:maven/org.togglz/togglz-slf4j@2.2.0.Final
 - pkg:maven/org.togglz/togglz-slf4j@2.2.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-slf4j@2.3.0.RC1
+- pkg:maven/org.togglz/togglz-slf4j@2.3.0.RC1?classifier=sources

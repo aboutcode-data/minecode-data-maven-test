@@ -14,3 +14,5 @@
 - pkg:maven/org.xowl.platform/xowl-kernel@0.1.4?classifier=sources
 - pkg:maven/org.xowl.platform/xowl-kernel@0.1.9
 - pkg:maven/org.xowl.platform/xowl-kernel@0.1.9?classifier=sources
+- pkg:maven/org.xowl.platform/xowl-kernel@0.2.0
+- pkg:maven/org.xowl.platform/xowl-kernel@0.2.0?classifier=sources
