@@ -64,3 +64,7 @@
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.6?classifier=sources
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.7?type=aar
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.7?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.9?type=aar
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.9?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.8?type=aar
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-android@0.12.8?classifier=sources
