@@ -18,3 +18,5 @@
 - pkg:maven/org.hawkular.bus/hawkular-bus-sample-mdb@0.2.1?classifier=sources
 - pkg:maven/org.hawkular.bus/hawkular-bus-sample-mdb@0.3.3.Final?type=war
 - pkg:maven/org.hawkular.bus/hawkular-bus-sample-mdb@0.3.3.Final?classifier=sources
+- pkg:maven/org.hawkular.bus/hawkular-bus-sample-mdb@0.3.4?type=war
+- pkg:maven/org.hawkular.bus/hawkular-bus-sample-mdb@0.3.4?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.0.7.Final?classifier=sources
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.0.9.Final?type=war
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.0.9.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.0.10.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.0.10.Final?classifier=sources
