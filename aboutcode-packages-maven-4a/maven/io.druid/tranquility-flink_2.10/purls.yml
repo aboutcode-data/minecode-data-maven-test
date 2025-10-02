@@ -4,3 +4,5 @@
 - pkg:maven/io.druid/tranquility-flink_2.10@0.7.4?classifier=sources
 - pkg:maven/io.druid/tranquility-flink_2.10@0.8.0
 - pkg:maven/io.druid/tranquility-flink_2.10@0.8.0?classifier=sources
+- pkg:maven/io.druid/tranquility-flink_2.10@0.8.1
+- pkg:maven/io.druid/tranquility-flink_2.10@0.8.1?classifier=sources
