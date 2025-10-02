@@ -1,2 +1,6 @@
 - pkg:maven/com.opnitech.rules/ez-rules-samples@0.1-beta
 - pkg:maven/com.opnitech.rules/ez-rules-samples@0.1-beta?classifier=sources
+- pkg:maven/com.opnitech.rules/ez-rules-samples@0.3-beta
+- pkg:maven/com.opnitech.rules/ez-rules-samples@0.3-beta?classifier=sources
+- pkg:maven/com.opnitech.rules/ez-rules-samples@0.2-beta
+- pkg:maven/com.opnitech.rules/ez-rules-samples@0.2-beta?classifier=sources

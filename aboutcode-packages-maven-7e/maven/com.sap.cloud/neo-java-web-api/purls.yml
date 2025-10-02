@@ -138,3 +138,7 @@
 - pkg:maven/com.sap.cloud/neo-java-web-api@2.30.11.1?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-api@1.83.27.3
 - pkg:maven/com.sap.cloud/neo-java-web-api@1.83.27.3?classifier=sources
+- pkg:maven/com.sap.cloud/neo-java-web-api@2.31.10
+- pkg:maven/com.sap.cloud/neo-java-web-api@2.31.10?classifier=sources
+- pkg:maven/com.sap.cloud/neo-java-web-api@1.84.27
+- pkg:maven/com.sap.cloud/neo-java-web-api@1.84.27?classifier=sources

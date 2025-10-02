@@ -10,3 +10,5 @@
 - pkg:maven/de.vandermeer/execs@0.0.7?classifier=sources
 - pkg:maven/de.vandermeer/execs@0.0.8
 - pkg:maven/de.vandermeer/execs@0.0.8?classifier=sources
+- pkg:maven/de.vandermeer/execs@0.1.0
+- pkg:maven/de.vandermeer/execs@0.1.0?classifier=sources

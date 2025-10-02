@@ -14,3 +14,5 @@
 - pkg:maven/com.netflix.zeno/netflix-zeno@2.14?classifier=sources
 - pkg:maven/com.netflix.zeno/netflix-zeno@2.13
 - pkg:maven/com.netflix.zeno/netflix-zeno@2.13?classifier=sources
+- pkg:maven/com.netflix.zeno/netflix-zeno@2.22.3
+- pkg:maven/com.netflix.zeno/netflix-zeno@2.22.3?classifier=sources

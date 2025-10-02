@@ -38,3 +38,7 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.11?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.2?type=war
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.2?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.12?type=war
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.12?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.3?type=war
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.3?classifier=sources

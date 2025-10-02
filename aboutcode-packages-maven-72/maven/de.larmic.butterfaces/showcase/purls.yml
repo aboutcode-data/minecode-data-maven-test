@@ -110,3 +110,5 @@
 - pkg:maven/de.larmic.butterfaces/showcase@1.8.8?classifier=sources
 - pkg:maven/de.larmic.butterfaces/showcase@1.8.10?type=war
 - pkg:maven/de.larmic.butterfaces/showcase@1.8.10?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase@1.8.11?type=war
+- pkg:maven/de.larmic.butterfaces/showcase@1.8.11?classifier=sources

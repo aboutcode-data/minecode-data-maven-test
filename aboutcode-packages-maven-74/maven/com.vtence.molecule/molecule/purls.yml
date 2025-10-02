@@ -20,3 +20,5 @@
 - pkg:maven/com.vtence.molecule/molecule@0.7?classifier=sources
 - pkg:maven/com.vtence.molecule/molecule@0.8
 - pkg:maven/com.vtence.molecule/molecule@0.8?classifier=sources
+- pkg:maven/com.vtence.molecule/molecule@0.8.1
+- pkg:maven/com.vtence.molecule/molecule@0.8.1?classifier=sources
