@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-pack200a-plugin@0.15.0
 - pkg:maven/org.eclipse.tycho.extras/tycho-pack200a-plugin@0.15.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-pack200a-plugin@0.16.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-pack200a-plugin@0.16.0?classifier=sources

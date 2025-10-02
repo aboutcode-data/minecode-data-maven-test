@@ -82,3 +82,5 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.3-beta5?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.2.19?type=war
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.2.19?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.3-beta6?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-jmaki@2.3-beta6?classifier=sources
