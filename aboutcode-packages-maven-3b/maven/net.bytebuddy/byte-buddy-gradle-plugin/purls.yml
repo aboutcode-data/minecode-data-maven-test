@@ -1,2 +1,6 @@
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.4.22
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.4.22?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.4.24
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.4.24?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.4.23
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.4.23?classifier=sources
