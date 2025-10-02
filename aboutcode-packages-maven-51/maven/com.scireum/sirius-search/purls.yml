@@ -50,3 +50,7 @@
 - pkg:maven/com.scireum/sirius-search@5.0.5?classifier=sources
 - pkg:maven/com.scireum/sirius-search@2.9.3
 - pkg:maven/com.scireum/sirius-search@2.9.3?classifier=sources
+- pkg:maven/com.scireum/sirius-search@5.2
+- pkg:maven/com.scireum/sirius-search@5.2?classifier=sources
+- pkg:maven/com.scireum/sirius-search@5.1.0
+- pkg:maven/com.scireum/sirius-search@5.1.0?classifier=sources
