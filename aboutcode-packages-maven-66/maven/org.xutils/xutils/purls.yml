@@ -98,3 +98,7 @@
 - pkg:maven/org.xutils/xutils@3.3.18?classifier=sources
 - pkg:maven/org.xutils/xutils@3.3.22?type=aar
 - pkg:maven/org.xutils/xutils@3.3.22?classifier=sources
+- pkg:maven/org.xutils/xutils@3.3.25?type=aar
+- pkg:maven/org.xutils/xutils@3.3.25?classifier=sources
+- pkg:maven/org.xutils/xutils@3.3.24?type=aar
+- pkg:maven/org.xutils/xutils@3.3.24?classifier=sources
