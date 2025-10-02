@@ -58,3 +58,5 @@
 - pkg:maven/com.teradata.tempto/tempto-core@1.15?classifier=sources
 - pkg:maven/com.teradata.tempto/tempto-core@1.16
 - pkg:maven/com.teradata.tempto/tempto-core@1.16?classifier=sources
+- pkg:maven/com.teradata.tempto/tempto-core@1.17
+- pkg:maven/com.teradata.tempto/tempto-core@1.17?classifier=sources

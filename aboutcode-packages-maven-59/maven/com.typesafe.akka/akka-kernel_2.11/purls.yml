@@ -82,3 +82,5 @@
 - pkg:maven/com.typesafe.akka/akka-kernel_2.11@2.4.11?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-kernel_2.11@2.4.12
 - pkg:maven/com.typesafe.akka/akka-kernel_2.11@2.4.12?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-kernel_2.11@2.3.16
+- pkg:maven/com.typesafe.akka/akka-kernel_2.11@2.3.16?classifier=sources
