@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.13.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.12.4?type=war
 - pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.12.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.14.0?type=war
+- pkg:maven/org.apache.camel/camel-example-restlet-jdbc@2.14.0?classifier=sources

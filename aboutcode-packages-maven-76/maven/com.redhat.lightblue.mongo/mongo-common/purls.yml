@@ -1,2 +1,4 @@
 - pkg:maven/com.redhat.lightblue.mongo/mongo-common@0.9.0
 - pkg:maven/com.redhat.lightblue.mongo/mongo-common@0.9.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/mongo-common@1.0.0
+- pkg:maven/com.redhat.lightblue.mongo/mongo-common@1.0.0?classifier=sources

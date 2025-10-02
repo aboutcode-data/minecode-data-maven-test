@@ -166,3 +166,5 @@
 - pkg:maven/io.undertow/undertow-core@1.1.0.Beta7?classifier=sources
 - pkg:maven/io.undertow/undertow-core@1.0.16.Final
 - pkg:maven/io.undertow/undertow-core@1.0.16.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-core@1.1.0.Beta8
+- pkg:maven/io.undertow/undertow-core@1.1.0.Beta8?classifier=sources

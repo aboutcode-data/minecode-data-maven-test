@@ -145,3 +145,5 @@
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.1.0-rc7?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.1.0
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.1.0?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@1.2.19
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@1.2.19?classifier=sources
