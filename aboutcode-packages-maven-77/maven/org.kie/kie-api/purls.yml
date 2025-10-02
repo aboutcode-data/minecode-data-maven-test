@@ -82,3 +82,5 @@
 - pkg:maven/org.kie/kie-api@6.4.0.Beta2?classifier=sources
 - pkg:maven/org.kie/kie-api@6.4.0.CR1
 - pkg:maven/org.kie/kie-api@6.4.0.CR1?classifier=sources
+- pkg:maven/org.kie/kie-api@6.4.0.CR2
+- pkg:maven/org.kie/kie-api@6.4.0.CR2?classifier=sources
