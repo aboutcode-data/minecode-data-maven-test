@@ -32,3 +32,5 @@
 - pkg:maven/org.kevoree/org.kevoree.model@3.0.0-BETA2?classifier=sources
 - pkg:maven/org.kevoree/org.kevoree.model@3.0.0
 - pkg:maven/org.kevoree/org.kevoree.model@3.0.0?classifier=sources
+- pkg:maven/org.kevoree/org.kevoree.model@3.1.0
+- pkg:maven/org.kevoree/org.kevoree.model@3.1.0?classifier=sources

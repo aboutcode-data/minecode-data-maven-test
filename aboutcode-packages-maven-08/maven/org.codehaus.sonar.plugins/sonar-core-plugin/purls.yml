@@ -89,3 +89,4 @@
 - pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@4.0-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@4.0-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@4.0?classifier=sources
+- pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@4.1-RC2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-jetty-testsuite@1.5.2?classifier=sources
 - pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-jetty-testsuite@1.5.3
 - pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-jetty-testsuite@1.5.3?classifier=sources
+- pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-jetty-testsuite@1.6
+- pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-jetty-testsuite@1.6?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@0.1.6
 - pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@0.1.6?classifier=sources
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@0.2.1
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@0.2.1?classifier=sources

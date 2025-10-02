@@ -36,3 +36,7 @@
 - pkg:maven/org.springframework/spring-expression@3.2.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-expression@3.2.5.RELEASE
 - pkg:maven/org.springframework/spring-expression@3.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-expression@4.0.0.RELEASE
+- pkg:maven/org.springframework/spring-expression@4.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-expression@3.2.6.RELEASE
+- pkg:maven/org.springframework/spring-expression@3.2.6.RELEASE?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.tindalos.principle/principle@0.16?classifier=sources
 - pkg:maven/org.tindalos.principle/principle@0.18
 - pkg:maven/org.tindalos.principle/principle@0.18?classifier=sources
+- pkg:maven/org.tindalos.principle/principle@0.19
+- pkg:maven/org.tindalos.principle/principle@0.19?classifier=sources

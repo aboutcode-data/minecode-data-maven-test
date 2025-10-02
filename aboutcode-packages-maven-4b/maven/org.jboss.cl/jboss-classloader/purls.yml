@@ -72,3 +72,5 @@
 - pkg:maven/org.jboss.cl/jboss-classloader@2.0.0.Beta11?classifier=sources
 - pkg:maven/org.jboss.cl/jboss-classloader@2.0.11.GA
 - pkg:maven/org.jboss.cl/jboss-classloader@2.0.11.GA?classifier=sources
+- pkg:maven/org.jboss.cl/jboss-classloader@2.0.12.GA
+- pkg:maven/org.jboss.cl/jboss-classloader@2.0.12.GA?classifier=sources

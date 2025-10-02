@@ -22,3 +22,5 @@
 - pkg:maven/org.pitest/pitest-maven@0.30?classifier=sources
 - pkg:maven/org.pitest/pitest-maven@0.31
 - pkg:maven/org.pitest/pitest-maven@0.31?classifier=sources
+- pkg:maven/org.pitest/pitest-maven@0.32
+- pkg:maven/org.pitest/pitest-maven@0.32?classifier=sources
