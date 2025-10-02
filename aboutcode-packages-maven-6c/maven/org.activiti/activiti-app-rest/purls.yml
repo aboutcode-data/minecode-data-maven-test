@@ -8,3 +8,5 @@
 - pkg:maven/org.activiti/activiti-app-rest@6.0.0.Beta4?classifier=sources
 - pkg:maven/org.activiti/activiti-app-rest@6.0.0.RC1
 - pkg:maven/org.activiti/activiti-app-rest@6.0.0.RC1?classifier=sources
+- pkg:maven/org.activiti/activiti-app-rest@6.0.0
+- pkg:maven/org.activiti/activiti-app-rest@6.0.0?classifier=sources

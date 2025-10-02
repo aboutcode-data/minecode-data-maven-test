@@ -192,3 +192,5 @@
 - pkg:maven/org.apache.camel/camel-itest@2.19.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@2.17.7
 - pkg:maven/org.apache.camel/camel-itest@2.17.7?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest@2.18.4
+- pkg:maven/org.apache.camel/camel-itest@2.18.4?classifier=sources
