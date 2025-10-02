@@ -64,3 +64,5 @@
 - pkg:maven/edu.umd/cloud9@1.4.8?classifier=sources
 - pkg:maven/edu.umd/cloud9@1.4.7
 - pkg:maven/edu.umd/cloud9@1.4.7?classifier=sources
+- pkg:maven/edu.umd/cloud9@1.4.10
+- pkg:maven/edu.umd/cloud9@1.4.10?classifier=sources

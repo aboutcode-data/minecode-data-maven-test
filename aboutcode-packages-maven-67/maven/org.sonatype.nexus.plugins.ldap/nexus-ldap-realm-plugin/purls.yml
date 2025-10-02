@@ -39,3 +39,5 @@
 - pkg:maven/org.sonatype.nexus.plugins.ldap/nexus-ldap-realm-plugin@2.3.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins.ldap/nexus-ldap-realm-plugin@2.3.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins.ldap/nexus-ldap-realm-plugin@2.3.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins.ldap/nexus-ldap-realm-plugin@2.3.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins.ldap/nexus-ldap-realm-plugin@2.3.1?classifier=sources

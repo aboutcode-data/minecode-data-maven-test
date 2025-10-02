@@ -4,3 +4,7 @@
 - pkg:maven/org.wicketopia/wicketopia-jpa@0.9.1?classifier=sources
 - pkg:maven/org.wicketopia/wicketopia-jpa@0.9
 - pkg:maven/org.wicketopia/wicketopia-jpa@0.9?classifier=sources
+- pkg:maven/org.wicketopia/wicketopia-jpa@1.1
+- pkg:maven/org.wicketopia/wicketopia-jpa@1.1?classifier=sources
+- pkg:maven/org.wicketopia/wicketopia-jpa@1.0
+- pkg:maven/org.wicketopia/wicketopia-jpa@1.0?classifier=sources

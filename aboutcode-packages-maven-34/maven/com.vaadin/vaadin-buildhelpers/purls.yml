@@ -10,3 +10,5 @@
 - pkg:maven/com.vaadin/vaadin-buildhelpers@7.0.0.rc1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-buildhelpers@7.0.0.rc2
 - pkg:maven/com.vaadin/vaadin-buildhelpers@7.0.0.rc2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-buildhelpers@7.0.0
+- pkg:maven/com.vaadin/vaadin-buildhelpers@7.0.0?classifier=sources

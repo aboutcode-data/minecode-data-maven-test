@@ -5,3 +5,4 @@
 - pkg:maven/org.owasp.antisamy/antisamy-demo@1.4.3?type=war
 - pkg:maven/org.owasp.antisamy/antisamy-demo@1.4.3?classifier=sources
 - pkg:maven/org.owasp.antisamy/antisamy-demo@1.5?type=war
+- pkg:maven/org.owasp.antisamy/antisamy-demo@1.5.1?type=war
