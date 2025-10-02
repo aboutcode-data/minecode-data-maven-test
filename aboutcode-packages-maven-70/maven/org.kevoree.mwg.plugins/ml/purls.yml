@@ -12,3 +12,5 @@
 - pkg:maven/org.kevoree.mwg.plugins/ml@6?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/ml@7
 - pkg:maven/org.kevoree.mwg.plugins/ml@7?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/ml@10
+- pkg:maven/org.kevoree.mwg.plugins/ml@10?classifier=sources

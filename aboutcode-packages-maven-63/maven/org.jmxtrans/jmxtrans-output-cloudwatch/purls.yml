@@ -10,3 +10,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-cloudwatch@256?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-cloudwatch@259
 - pkg:maven/org.jmxtrans/jmxtrans-output-cloudwatch@259?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-cloudwatch@260
+- pkg:maven/org.jmxtrans/jmxtrans-output-cloudwatch@260?classifier=sources

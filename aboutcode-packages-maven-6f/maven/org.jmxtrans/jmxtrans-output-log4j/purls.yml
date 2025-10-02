@@ -10,3 +10,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-log4j@256?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-log4j@259
 - pkg:maven/org.jmxtrans/jmxtrans-output-log4j@259?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-log4j@260
+- pkg:maven/org.jmxtrans/jmxtrans-output-log4j@260?classifier=sources
