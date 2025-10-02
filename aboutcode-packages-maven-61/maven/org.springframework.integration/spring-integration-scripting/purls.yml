@@ -28,3 +28,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-scripting@2.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-scripting@3.0.0.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-scripting@3.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-scripting@3.0.1.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-scripting@3.0.1.RELEASE?classifier=sources

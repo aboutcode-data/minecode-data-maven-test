@@ -58,3 +58,5 @@
 - pkg:maven/org.nuiton/nuiton-csv@2.7?classifier=sources
 - pkg:maven/org.nuiton/nuiton-csv@3.0-alpha-2
 - pkg:maven/org.nuiton/nuiton-csv@3.0-alpha-2?classifier=sources
+- pkg:maven/org.nuiton/nuiton-csv@3.0-alpha-3
+- pkg:maven/org.nuiton/nuiton-csv@3.0-alpha-3?classifier=sources

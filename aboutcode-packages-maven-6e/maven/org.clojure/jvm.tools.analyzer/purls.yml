@@ -28,3 +28,5 @@
 - pkg:maven/org.clojure/jvm.tools.analyzer@0.5.2?classifier=sources
 - pkg:maven/org.clojure/jvm.tools.analyzer@0.6.0
 - pkg:maven/org.clojure/jvm.tools.analyzer@0.6.0?classifier=sources
+- pkg:maven/org.clojure/jvm.tools.analyzer@0.6.1
+- pkg:maven/org.clojure/jvm.tools.analyzer@0.6.1?classifier=sources
