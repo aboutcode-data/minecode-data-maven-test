@@ -28,3 +28,5 @@
 - pkg:maven/org.jumpmind.symmetric/symmetric-postgres@3.5.13?classifier=sources
 - pkg:maven/org.jumpmind.symmetric/symmetric-postgres@3.5.14
 - pkg:maven/org.jumpmind.symmetric/symmetric-postgres@3.5.14?classifier=sources
+- pkg:maven/org.jumpmind.symmetric/symmetric-postgres@3.5.15
+- pkg:maven/org.jumpmind.symmetric/symmetric-postgres@3.5.15?classifier=sources

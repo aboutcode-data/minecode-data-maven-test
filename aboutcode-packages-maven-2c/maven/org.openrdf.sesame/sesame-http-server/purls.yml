@@ -24,3 +24,5 @@
 - pkg:maven/org.openrdf.sesame/sesame-http-server@2.7.8?classifier=sources
 - pkg:maven/org.openrdf.sesame/sesame-http-server@2.7.9?type=war
 - pkg:maven/org.openrdf.sesame/sesame-http-server@2.7.9?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-http-server@2.8.0-beta1?type=war
+- pkg:maven/org.openrdf.sesame/sesame-http-server@2.8.0-beta1?classifier=sources

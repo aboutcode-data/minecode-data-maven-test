@@ -2,3 +2,5 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@0.0.15?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@0.0.16
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@0.0.16?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@1.0.0
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@1.0.0?classifier=sources

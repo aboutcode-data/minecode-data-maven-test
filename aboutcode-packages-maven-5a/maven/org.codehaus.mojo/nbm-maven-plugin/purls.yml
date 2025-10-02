@@ -55,3 +55,6 @@
 - pkg:maven/org.codehaus.mojo/nbm-maven-plugin@3.12
 - pkg:maven/org.codehaus.mojo/nbm-maven-plugin@3.12?classifier=sources
 - pkg:maven/org.codehaus.mojo/nbm-maven-plugin@3.12?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/nbm-maven-plugin@3.13
+- pkg:maven/org.codehaus.mojo/nbm-maven-plugin@3.13?classifier=sources
+- pkg:maven/org.codehaus.mojo/nbm-maven-plugin@3.13?classifier=source-release&type=zip
