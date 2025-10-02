@@ -102,3 +102,16 @@
 - pkg:maven/org.jboss.modules/jboss-modules@1.2.2.Final
 - pkg:maven/org.jboss.modules/jboss-modules@1.2.2.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.2.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.3.0.Beta2
+- pkg:maven/org.jboss.modules/jboss-modules@1.3.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.3.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.2.4.Final
+- pkg:maven/org.jboss.modules/jboss-modules@1.2.4.Final?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.2.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.2.3.Final
+- pkg:maven/org.jboss.modules/jboss-modules@1.2.3.Final?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.2.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.1.5.GA
+- pkg:maven/org.jboss.modules/jboss-modules@1.1.5.GA?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.0.5.GA
+- pkg:maven/org.jboss.modules/jboss-modules@1.0.5.GA?classifier=sources

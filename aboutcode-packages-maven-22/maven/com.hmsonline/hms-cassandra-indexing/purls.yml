@@ -14,3 +14,5 @@
 - pkg:maven/com.hmsonline/hms-cassandra-indexing@0.17.0?classifier=sources
 - pkg:maven/com.hmsonline/hms-cassandra-indexing@1.0.0
 - pkg:maven/com.hmsonline/hms-cassandra-indexing@1.0.0?classifier=sources
+- pkg:maven/com.hmsonline/hms-cassandra-indexing@1.0.1
+- pkg:maven/com.hmsonline/hms-cassandra-indexing@1.0.1?classifier=sources
