@@ -10,3 +10,5 @@
 - pkg:maven/org.monifu/monifu-rx_2.10@0.13.0-RC4?classifier=sources
 - pkg:maven/org.monifu/monifu-rx_2.10@0.13.0-RC3
 - pkg:maven/org.monifu/monifu-rx_2.10@0.13.0-RC3?classifier=sources
+- pkg:maven/org.monifu/monifu-rx_2.10@0.13.0
+- pkg:maven/org.monifu/monifu-rx_2.10@0.13.0?classifier=sources
