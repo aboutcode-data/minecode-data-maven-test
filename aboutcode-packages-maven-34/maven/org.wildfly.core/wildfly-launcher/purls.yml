@@ -174,3 +174,5 @@
 - pkg:maven/org.wildfly.core/wildfly-launcher@3.0.0.Alpha4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-launcher@2.2.0.CR9
 - pkg:maven/org.wildfly.core/wildfly-launcher@2.2.0.CR9?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-launcher@2.2.0.Final
+- pkg:maven/org.wildfly.core/wildfly-launcher@2.2.0.Final?classifier=sources

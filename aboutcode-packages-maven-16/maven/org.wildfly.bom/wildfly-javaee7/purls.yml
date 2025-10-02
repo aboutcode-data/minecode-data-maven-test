@@ -3,3 +3,4 @@
 - pkg:maven/org.wildfly.bom/wildfly-javaee7@10.0.0.CR5?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly-javaee7@10.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly-javaee7@10.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly-javaee7@10.1.0.CR1?classifier=source-release&type=zip
