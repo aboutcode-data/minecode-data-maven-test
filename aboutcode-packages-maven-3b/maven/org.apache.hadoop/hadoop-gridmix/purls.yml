@@ -23,3 +23,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@2.1.0-beta?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@2.0.6-alpha
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@2.0.6-alpha?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@2.1.1-beta
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@2.1.1-beta?classifier=sources

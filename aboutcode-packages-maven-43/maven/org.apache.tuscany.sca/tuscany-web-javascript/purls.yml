@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.tuscany.sca/tuscany-web-javascript@1.5
 - pkg:maven/org.apache.tuscany.sca/tuscany-web-javascript@2.0
 - pkg:maven/org.apache.tuscany.sca/tuscany-web-javascript@2.0?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/tuscany-web-javascript@2.0.1
+- pkg:maven/org.apache.tuscany.sca/tuscany-web-javascript@2.0.1?classifier=sources

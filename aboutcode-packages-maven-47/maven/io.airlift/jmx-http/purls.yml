@@ -14,3 +14,5 @@
 - pkg:maven/io.airlift/jmx-http@0.80?classifier=sources
 - pkg:maven/io.airlift/jmx-http@0.81
 - pkg:maven/io.airlift/jmx-http@0.81?classifier=sources
+- pkg:maven/io.airlift/jmx-http@0.82
+- pkg:maven/io.airlift/jmx-http@0.82?classifier=sources
