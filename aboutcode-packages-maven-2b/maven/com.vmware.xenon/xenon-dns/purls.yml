@@ -2,3 +2,5 @@
 - pkg:maven/com.vmware.xenon/xenon-dns@0.7.6?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-dns@0.8.0
 - pkg:maven/com.vmware.xenon/xenon-dns@0.8.0?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-dns@0.8.1
+- pkg:maven/com.vmware.xenon/xenon-dns@0.8.1?classifier=sources
