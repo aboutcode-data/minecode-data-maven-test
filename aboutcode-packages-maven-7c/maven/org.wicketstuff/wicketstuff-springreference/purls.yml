@@ -96,3 +96,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-springreference@6.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-springreference@7.0.0-M6
 - pkg:maven/org.wicketstuff/wicketstuff-springreference@7.0.0-M6?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-springreference@7.0.0
+- pkg:maven/org.wicketstuff/wicketstuff-springreference@7.0.0?classifier=sources

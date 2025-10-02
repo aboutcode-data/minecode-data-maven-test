@@ -38,3 +38,5 @@
 - pkg:maven/org.wildfly/wildfly-jsf-installer@9.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jsf-installer@8.2.1.Final?type=zip
 - pkg:maven/org.wildfly/wildfly-jsf-installer@8.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-jsf-installer@10.0.0.Alpha6?type=zip
+- pkg:maven/org.wildfly/wildfly-jsf-installer@10.0.0.Alpha6?classifier=sources

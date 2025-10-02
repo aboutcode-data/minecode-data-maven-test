@@ -84,3 +84,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-html5-examples@6.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-html5-examples@7.0.0-M6?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-html5-examples@7.0.0-M6?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-html5-examples@7.0.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-html5-examples@7.0.0?classifier=sources
