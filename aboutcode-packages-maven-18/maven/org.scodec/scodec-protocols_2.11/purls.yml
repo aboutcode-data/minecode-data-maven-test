@@ -26,3 +26,7 @@
 - pkg:maven/org.scodec/scodec-protocols_2.11@0.13.0?classifier=sources
 - pkg:maven/org.scodec/scodec-protocols_2.11@1.0.0-M1
 - pkg:maven/org.scodec/scodec-protocols_2.11@1.0.0-M1?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.11@1.0.0-M2a
+- pkg:maven/org.scodec/scodec-protocols_2.11@1.0.0-M2a?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.11@1.0.0-M2
+- pkg:maven/org.scodec/scodec-protocols_2.11@1.0.0-M2?classifier=sources

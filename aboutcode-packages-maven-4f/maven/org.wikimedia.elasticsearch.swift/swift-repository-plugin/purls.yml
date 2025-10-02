@@ -16,3 +16,5 @@
 - pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@1.6.0?classifier=sources
 - pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@1.7.0?type=zip
 - pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@1.7.0?classifier=sources
+- pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.1.1?type=zip
+- pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.1.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.red5/tomcatplugin@1.7?classifier=sources
 - pkg:maven/org.red5/tomcatplugin@1.12
 - pkg:maven/org.red5/tomcatplugin@1.12?classifier=sources
+- pkg:maven/org.red5/tomcatplugin@1.13
+- pkg:maven/org.red5/tomcatplugin@1.13?classifier=sources
