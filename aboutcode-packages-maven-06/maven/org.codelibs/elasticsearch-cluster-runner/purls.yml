@@ -68,3 +68,5 @@
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@5.3.2.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@5.3.1.0
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@5.3.1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@5.4.0.0
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@5.4.0.0?classifier=sources
