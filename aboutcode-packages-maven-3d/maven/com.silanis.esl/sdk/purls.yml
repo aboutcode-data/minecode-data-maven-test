@@ -24,3 +24,5 @@
 - pkg:maven/com.silanis.esl/sdk@10.8.3?classifier=sources
 - pkg:maven/com.silanis.esl/sdk@10.9
 - pkg:maven/com.silanis.esl/sdk@10.9?classifier=sources
+- pkg:maven/com.silanis.esl/sdk@10.9.1
+- pkg:maven/com.silanis.esl/sdk@10.9.1?classifier=sources

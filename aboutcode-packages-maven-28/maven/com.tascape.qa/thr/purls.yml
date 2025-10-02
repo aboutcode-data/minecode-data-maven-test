@@ -16,3 +16,5 @@
 - pkg:maven/com.tascape.qa/thr@1.0.9?classifier=sources
 - pkg:maven/com.tascape.qa/thr@1.0.10?type=war
 - pkg:maven/com.tascape.qa/thr@1.0.10?classifier=sources
+- pkg:maven/com.tascape.qa/thr@1.0.11?type=war
+- pkg:maven/com.tascape.qa/thr@1.0.11?classifier=sources

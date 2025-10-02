@@ -84,3 +84,5 @@
 - pkg:maven/com.netflix.feign/feign-core@8.5.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-core@7.5.0
 - pkg:maven/com.netflix.feign/feign-core@7.5.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-core@8.6.0
+- pkg:maven/com.netflix.feign/feign-core@8.6.0?classifier=sources
