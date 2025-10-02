@@ -36,3 +36,5 @@
 - pkg:maven/org.allenai.nlpstack/webapp_2.11@1.15?classifier=sources
 - pkg:maven/org.allenai.nlpstack/webapp_2.11@1.14
 - pkg:maven/org.allenai.nlpstack/webapp_2.11@1.14?classifier=sources
+- pkg:maven/org.allenai.nlpstack/webapp_2.11@1.16
+- pkg:maven/org.allenai.nlpstack/webapp_2.11@1.16?classifier=sources

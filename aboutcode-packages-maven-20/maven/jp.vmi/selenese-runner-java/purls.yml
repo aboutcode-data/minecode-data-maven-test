@@ -82,3 +82,5 @@
 - pkg:maven/jp.vmi/selenese-runner-java@1.10.0?classifier=sources
 - pkg:maven/jp.vmi/selenese-runner-java@1.11.0
 - pkg:maven/jp.vmi/selenese-runner-java@1.11.0?classifier=sources
+- pkg:maven/jp.vmi/selenese-runner-java@2.0.0
+- pkg:maven/jp.vmi/selenese-runner-java@2.0.0?classifier=sources

@@ -132,3 +132,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@2.6.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@2.7.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@2.7.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@3.0.0?classifier=sources

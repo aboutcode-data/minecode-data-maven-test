@@ -233,3 +233,5 @@
 - pkg:maven/org.clojure/clojurescript@1.7.48?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.7.107
 - pkg:maven/org.clojure/clojurescript@1.7.107?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.7.122
+- pkg:maven/org.clojure/clojurescript@1.7.122?classifier=sources

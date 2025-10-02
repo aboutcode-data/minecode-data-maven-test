@@ -50,3 +50,5 @@
 - pkg:maven/net.imagej/ij@1.49v?classifier=sources
 - pkg:maven/net.imagej/ij@1.50a
 - pkg:maven/net.imagej/ij@1.50a?classifier=sources
+- pkg:maven/net.imagej/ij@1.50b
+- pkg:maven/net.imagej/ij@1.50b?classifier=sources
