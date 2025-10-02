@@ -230,3 +230,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.0.M21?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.15
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.15?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.0.44
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.0.44?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.78
+- pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.78?classifier=sources

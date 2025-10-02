@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jms@0.5.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jms@0.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jms@0.6.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-jms@2.0.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-jms@2.0.0?classifier=sources
