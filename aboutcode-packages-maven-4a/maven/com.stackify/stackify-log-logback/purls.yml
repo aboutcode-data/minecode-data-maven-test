@@ -30,3 +30,5 @@
 - pkg:maven/com.stackify/stackify-log-logback@1.0.15?classifier=sources
 - pkg:maven/com.stackify/stackify-log-logback@1.1.0
 - pkg:maven/com.stackify/stackify-log-logback@1.1.0?classifier=sources
+- pkg:maven/com.stackify/stackify-log-logback@1.1.1
+- pkg:maven/com.stackify/stackify-log-logback@1.1.1?classifier=sources

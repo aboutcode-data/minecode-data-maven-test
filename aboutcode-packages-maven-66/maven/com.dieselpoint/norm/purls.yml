@@ -2,3 +2,5 @@
 - pkg:maven/com.dieselpoint/norm@0.7?classifier=sources
 - pkg:maven/com.dieselpoint/norm@0.8
 - pkg:maven/com.dieselpoint/norm@0.8?classifier=sources
+- pkg:maven/com.dieselpoint/norm@0.8.1-rc1
+- pkg:maven/com.dieselpoint/norm@0.8.1-rc1?classifier=sources

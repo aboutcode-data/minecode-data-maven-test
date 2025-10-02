@@ -112,3 +112,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-core@1.4.0-rc.8?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-core@1.4.0-rc.9
 - pkg:maven/com.netflix.hystrix/hystrix-core@1.4.0-rc.9?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-core@1.4.0
+- pkg:maven/com.netflix.hystrix/hystrix-core@1.4.0?classifier=sources
