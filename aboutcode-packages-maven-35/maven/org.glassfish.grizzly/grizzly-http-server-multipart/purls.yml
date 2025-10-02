@@ -120,3 +120,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-http-server-multipart@2.3.8-beta1?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-http-server-multipart@2.3.8-beta2
 - pkg:maven/org.glassfish.grizzly/grizzly-http-server-multipart@2.3.8-beta2?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-http-server-multipart@2.3.8
+- pkg:maven/org.glassfish.grizzly/grizzly-http-server-multipart@2.3.8?classifier=sources

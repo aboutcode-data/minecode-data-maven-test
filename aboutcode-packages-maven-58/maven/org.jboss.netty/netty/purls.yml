@@ -74,3 +74,5 @@
 - pkg:maven/org.jboss.netty/netty@3.2.8.Final?classifier=sources
 - pkg:maven/org.jboss.netty/netty@3.2.9.Final
 - pkg:maven/org.jboss.netty/netty@3.2.9.Final?classifier=sources
+- pkg:maven/org.jboss.netty/netty@3.2.10.Final
+- pkg:maven/org.jboss.netty/netty@3.2.10.Final?classifier=sources
