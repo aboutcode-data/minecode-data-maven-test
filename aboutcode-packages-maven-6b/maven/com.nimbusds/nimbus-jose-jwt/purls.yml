@@ -180,3 +180,11 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@4.27?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@4.27.1
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@4.27.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.31.1
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.31.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.30
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.30?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.29
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.29?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.28
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.28?classifier=sources
