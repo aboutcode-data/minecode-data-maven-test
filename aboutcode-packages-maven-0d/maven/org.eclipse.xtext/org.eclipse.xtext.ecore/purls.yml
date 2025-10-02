@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.ecore@2.11.0.RC2?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.ecore@2.11.0.RC1
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.ecore@2.11.0.RC1?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.ecore@2.11.0
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.ecore@2.11.0?classifier=sources

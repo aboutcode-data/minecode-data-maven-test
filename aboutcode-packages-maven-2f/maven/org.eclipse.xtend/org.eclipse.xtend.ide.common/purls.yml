@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.11.0.RC2?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.11.0.RC1
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.11.0.RC1?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.11.0
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.11.0?classifier=sources

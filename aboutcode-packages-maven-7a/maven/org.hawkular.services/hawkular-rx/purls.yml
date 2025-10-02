@@ -40,3 +40,7 @@
 - pkg:maven/org.hawkular.services/hawkular-rx@0.22.0.Final?classifier=sources
 - pkg:maven/org.hawkular.services/hawkular-rx@0.23.0.Final
 - pkg:maven/org.hawkular.services/hawkular-rx@0.23.0.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-rx@0.31.0.Final
+- pkg:maven/org.hawkular.services/hawkular-rx@0.31.0.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-rx@0.30.0.Final
+- pkg:maven/org.hawkular.services/hawkular-rx@0.30.0.Final?classifier=sources
