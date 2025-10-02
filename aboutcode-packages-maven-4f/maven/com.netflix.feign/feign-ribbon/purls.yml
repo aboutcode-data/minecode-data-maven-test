@@ -20,3 +20,5 @@
 - pkg:maven/com.netflix.feign/feign-ribbon@3.3.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-ribbon@4.3.0
 - pkg:maven/com.netflix.feign/feign-ribbon@4.3.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-ribbon@4.4.0
+- pkg:maven/com.netflix.feign/feign-ribbon@4.4.0?classifier=sources

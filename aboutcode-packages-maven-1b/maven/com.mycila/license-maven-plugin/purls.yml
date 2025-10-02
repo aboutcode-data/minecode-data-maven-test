@@ -6,3 +6,5 @@
 - pkg:maven/com.mycila/license-maven-plugin@2.4?classifier=sources
 - pkg:maven/com.mycila/license-maven-plugin@2.3
 - pkg:maven/com.mycila/license-maven-plugin@2.3?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin@2.5
+- pkg:maven/com.mycila/license-maven-plugin@2.5?classifier=sources

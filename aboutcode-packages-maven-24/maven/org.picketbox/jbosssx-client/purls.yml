@@ -71,3 +71,5 @@
 - pkg:maven/org.picketbox/jbosssx-client@4.0.17.SP1?classifier=sources
 - pkg:maven/org.picketbox/jbosssx-client@4.0.17.SP2
 - pkg:maven/org.picketbox/jbosssx-client@4.0.17.SP2?classifier=sources
+- pkg:maven/org.picketbox/jbosssx-client@4.0.19.Final
+- pkg:maven/org.picketbox/jbosssx-client@4.0.19.Final?classifier=sources

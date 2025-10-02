@@ -1,2 +1,4 @@
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.5
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.5?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.18
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.18?classifier=sources
