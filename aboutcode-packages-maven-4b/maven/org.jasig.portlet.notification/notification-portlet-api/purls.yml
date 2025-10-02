@@ -26,3 +26,5 @@
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-api@3.0.0-M2?classifier=sources
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-api@3.0.0-M3
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-api@3.0.0-M3?classifier=sources
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-api@3.0.0
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-api@3.0.0?classifier=sources

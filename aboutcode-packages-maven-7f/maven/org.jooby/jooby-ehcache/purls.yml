@@ -44,3 +44,5 @@
 - pkg:maven/org.jooby/jooby-ehcache@0.15.0?classifier=sources
 - pkg:maven/org.jooby/jooby-ehcache@0.16.0
 - pkg:maven/org.jooby/jooby-ehcache@0.16.0?classifier=sources
+- pkg:maven/org.jooby/jooby-ehcache@1.0.0.CR1
+- pkg:maven/org.jooby/jooby-ehcache@1.0.0.CR1?classifier=sources
