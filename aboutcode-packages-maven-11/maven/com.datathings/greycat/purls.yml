@@ -1,0 +1,6 @@
+- pkg:maven/com.datathings/greycat@3
+- pkg:maven/com.datathings/greycat@3?classifier=sources
+- pkg:maven/com.datathings/greycat@2
+- pkg:maven/com.datathings/greycat@2?classifier=sources
+- pkg:maven/com.datathings/greycat@1
+- pkg:maven/com.datathings/greycat@1?classifier=sources

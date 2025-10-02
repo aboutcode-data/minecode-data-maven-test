@@ -116,3 +116,5 @@
 - pkg:maven/com.facebook.presto/presto-record-decoder@0.164?classifier=sources
 - pkg:maven/com.facebook.presto/presto-record-decoder@0.165
 - pkg:maven/com.facebook.presto/presto-record-decoder@0.165?classifier=sources
+- pkg:maven/com.facebook.presto/presto-record-decoder@0.166
+- pkg:maven/com.facebook.presto/presto-record-decoder@0.166?classifier=sources

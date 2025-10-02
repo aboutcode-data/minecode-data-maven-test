@@ -1,0 +1,6 @@
+- pkg:maven/com.datathings/greycat-rocksdb@3
+- pkg:maven/com.datathings/greycat-rocksdb@3?classifier=sources
+- pkg:maven/com.datathings/greycat-rocksdb@2
+- pkg:maven/com.datathings/greycat-rocksdb@2?classifier=sources
+- pkg:maven/com.datathings/greycat-rocksdb@1
+- pkg:maven/com.datathings/greycat-rocksdb@1?classifier=sources
