@@ -16,3 +16,5 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.5.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.5.1.1.KotlinM11
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.5.1.1.KotlinM11?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.5.2
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.5.2?classifier=sources
