@@ -14,3 +14,7 @@
 - pkg:maven/org.jfaster/mango@1.16?classifier=sources
 - pkg:maven/org.jfaster/mango@1.17
 - pkg:maven/org.jfaster/mango@1.17?classifier=sources
+- pkg:maven/org.jfaster/mango@1.2.0
+- pkg:maven/org.jfaster/mango@1.2.0?classifier=sources
+- pkg:maven/org.jfaster/mango@1.18
+- pkg:maven/org.jfaster/mango@1.18?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.9.206?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.9.976
 - pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.9.976?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.10.4
+- pkg:maven/org.jetbrains.kotlin/kotlin-jdbc@0.10.4?classifier=sources
