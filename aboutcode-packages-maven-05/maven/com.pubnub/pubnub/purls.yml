@@ -36,3 +36,9 @@
 - pkg:maven/com.pubnub/pubnub@3.7.7?classifier=sources
 - pkg:maven/com.pubnub/pubnub@3.7.8
 - pkg:maven/com.pubnub/pubnub@3.7.8?classifier=sources
+- pkg:maven/com.pubnub/pubnub@4.0.0-beta1
+- pkg:maven/com.pubnub/pubnub@4.0.0-beta1?classifier=sources
+- pkg:maven/com.pubnub/pubnub@3.7.9
+- pkg:maven/com.pubnub/pubnub@3.7.9?classifier=sources
+- pkg:maven/com.pubnub/pubnub@3.7.10
+- pkg:maven/com.pubnub/pubnub@3.7.10?classifier=sources

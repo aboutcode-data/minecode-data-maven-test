@@ -18,3 +18,5 @@
 - pkg:maven/com.twitter/execution-tutorial_2.10@0.16.0-RC5?classifier=sources
 - pkg:maven/com.twitter/execution-tutorial_2.10@0.16.0-RC6
 - pkg:maven/com.twitter/execution-tutorial_2.10@0.16.0-RC6?classifier=sources
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.16.0
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.16.0?classifier=sources
