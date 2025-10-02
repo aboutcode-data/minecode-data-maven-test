@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.solr/solr-analytics@5.5.4?classifier=sources
 - pkg:maven/org.apache.solr/solr-analytics@6.4.2
 - pkg:maven/org.apache.solr/solr-analytics@6.4.2?classifier=sources
+- pkg:maven/org.apache.solr/solr-analytics@6.5.0
+- pkg:maven/org.apache.solr/solr-analytics@6.5.0?classifier=sources

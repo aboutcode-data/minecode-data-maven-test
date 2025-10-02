@@ -142,3 +142,5 @@
 - pkg:maven/org.apache.lucene/lucene-highlighter@5.5.4?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-highlighter@6.4.2
 - pkg:maven/org.apache.lucene/lucene-highlighter@6.4.2?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-highlighter@6.5.0
+- pkg:maven/org.apache.lucene/lucene-highlighter@6.5.0?classifier=sources
