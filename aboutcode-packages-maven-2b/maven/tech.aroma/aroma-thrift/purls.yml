@@ -4,3 +4,5 @@
 - pkg:maven/tech.aroma/aroma-thrift@1.8?classifier=sources
 - pkg:maven/tech.aroma/aroma-thrift@1.9
 - pkg:maven/tech.aroma/aroma-thrift@1.9?classifier=sources
+- pkg:maven/tech.aroma/aroma-thrift@1.10
+- pkg:maven/tech.aroma/aroma-thrift@1.10?classifier=sources
