@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.openejb.itests/failover@7.0.0-M3?classifier=sources
 - pkg:maven/org.apache.openejb.itests/failover@4.7.4
 - pkg:maven/org.apache.openejb.itests/failover@4.7.4?classifier=sources
+- pkg:maven/org.apache.openejb.itests/failover@7.0.0
+- pkg:maven/org.apache.openejb.itests/failover@7.0.0?classifier=sources
