@@ -1,2 +1,6 @@
 - pkg:maven/uk.co.omega-prime/mdbi@1.0.0
 - pkg:maven/uk.co.omega-prime/mdbi@1.0.0?classifier=sources
+- pkg:maven/uk.co.omega-prime/mdbi@2.0.0
+- pkg:maven/uk.co.omega-prime/mdbi@2.0.0?classifier=sources
+- pkg:maven/uk.co.omega-prime/mdbi@1.0.3
+- pkg:maven/uk.co.omega-prime/mdbi@1.0.3?classifier=sources

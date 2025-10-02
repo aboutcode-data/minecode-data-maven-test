@@ -4,3 +4,5 @@
 - pkg:maven/com.bazaarvoice.commons.data/data-dao@1.6?classifier=sources
 - pkg:maven/com.bazaarvoice.commons.data/data-dao@4.0
 - pkg:maven/com.bazaarvoice.commons.data/data-dao@4.0?classifier=sources
+- pkg:maven/com.bazaarvoice.commons.data/data-dao@4.1
+- pkg:maven/com.bazaarvoice.commons.data/data-dao@4.1?classifier=sources

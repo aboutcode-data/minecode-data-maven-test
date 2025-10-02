@@ -576,3 +576,7 @@
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev51-1.19.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev51-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev51-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blogger@v3-rev48-1.21.0
+- pkg:maven/com.google.apis/google-api-services-blogger@v3-rev48-1.21.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blogger@v2-rev51-1.21.0
+- pkg:maven/com.google.apis/google-api-services-blogger@v2-rev51-1.21.0?classifier=sources

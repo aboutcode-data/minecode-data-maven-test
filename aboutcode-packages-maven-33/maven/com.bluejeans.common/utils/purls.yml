@@ -28,3 +28,7 @@
 - pkg:maven/com.bluejeans.common/utils@1.12?classifier=sources
 - pkg:maven/com.bluejeans.common/utils@1.14
 - pkg:maven/com.bluejeans.common/utils@1.14?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@1.16
+- pkg:maven/com.bluejeans.common/utils@1.16?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@1.15
+- pkg:maven/com.bluejeans.common/utils@1.15?classifier=sources

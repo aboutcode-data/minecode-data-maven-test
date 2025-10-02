@@ -14,3 +14,7 @@
 - pkg:maven/com.github.jinahya/database-metadata-bind@0.11?classifier=sources
 - pkg:maven/com.github.jinahya/database-metadata-bind@0.10
 - pkg:maven/com.github.jinahya/database-metadata-bind@0.10?classifier=sources
+- pkg:maven/com.github.jinahya/database-metadata-bind@0.18
+- pkg:maven/com.github.jinahya/database-metadata-bind@0.18?classifier=sources
+- pkg:maven/com.github.jinahya/database-metadata-bind@0.17
+- pkg:maven/com.github.jinahya/database-metadata-bind@0.17?classifier=sources
