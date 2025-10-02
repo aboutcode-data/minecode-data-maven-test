@@ -120,3 +120,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@8.0.30?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.67
 - pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.67?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@9.0.0.M3
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@9.0.0.M3?classifier=sources

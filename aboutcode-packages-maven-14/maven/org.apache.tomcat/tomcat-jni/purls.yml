@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.0.29?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.0.30
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.0.30?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jni@9.0.0.M3
+- pkg:maven/org.apache.tomcat/tomcat-jni@9.0.0.M3?classifier=sources

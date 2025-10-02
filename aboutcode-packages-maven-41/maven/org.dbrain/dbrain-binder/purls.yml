@@ -10,3 +10,7 @@
 - pkg:maven/org.dbrain/dbrain-binder@0.8?classifier=sources
 - pkg:maven/org.dbrain/dbrain-binder@0.10
 - pkg:maven/org.dbrain/dbrain-binder@0.10?classifier=sources
+- pkg:maven/org.dbrain/dbrain-binder@0.13
+- pkg:maven/org.dbrain/dbrain-binder@0.13?classifier=sources
+- pkg:maven/org.dbrain/dbrain-binder@0.12
+- pkg:maven/org.dbrain/dbrain-binder@0.12?classifier=sources

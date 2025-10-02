@@ -8,3 +8,5 @@
 - pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.0.RC4?classifier=sources
 - pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.0.RELEASE
 - pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.0.RELEASE?classifier=sources
+- pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.1.RELEASE
+- pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.1.RELEASE?classifier=sources

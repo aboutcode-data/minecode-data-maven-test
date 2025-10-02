@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.activemq/activemq-karaf@5.13.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-karaf@5.12.2
 - pkg:maven/org.apache.activemq/activemq-karaf@5.12.2?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-karaf@5.13.1
+- pkg:maven/org.apache.activemq/activemq-karaf@5.13.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/no.tornado/fx@1.2
 - pkg:maven/no.tornado/fx@1.2?classifier=sources
+- pkg:maven/no.tornado/fx@1.2.1
+- pkg:maven/no.tornado/fx@1.2.1?classifier=sources

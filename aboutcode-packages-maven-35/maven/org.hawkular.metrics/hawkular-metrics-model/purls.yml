@@ -1,2 +1,4 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-model@0.11.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-model@0.11.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-model@0.12.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-model@0.12.0.Final?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.cyanogenmod/platform.sdk@2.0?classifier=sources
 - pkg:maven/org.cyanogenmod/platform.sdk@4.0
 - pkg:maven/org.cyanogenmod/platform.sdk@4.0?classifier=sources
+- pkg:maven/org.cyanogenmod/platform.sdk@4.0.1
+- pkg:maven/org.cyanogenmod/platform.sdk@4.0.1?classifier=sources

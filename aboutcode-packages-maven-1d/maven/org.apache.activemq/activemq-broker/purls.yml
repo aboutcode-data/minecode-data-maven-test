@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.activemq/activemq-broker@5.13.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-broker@5.12.2
 - pkg:maven/org.apache.activemq/activemq-broker@5.12.2?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-broker@5.13.1
+- pkg:maven/org.apache.activemq/activemq-broker@5.13.1?classifier=sources
