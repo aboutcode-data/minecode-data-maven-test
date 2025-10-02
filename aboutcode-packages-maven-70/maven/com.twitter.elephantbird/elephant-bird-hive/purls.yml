@@ -66,3 +66,5 @@
 - pkg:maven/com.twitter.elephantbird/elephant-bird-hive@4.14-RC4?classifier=sources
 - pkg:maven/com.twitter.elephantbird/elephant-bird-hive@4.14-RC3
 - pkg:maven/com.twitter.elephantbird/elephant-bird-hive@4.14-RC3?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-hive@4.14
+- pkg:maven/com.twitter.elephantbird/elephant-bird-hive@4.14?classifier=sources

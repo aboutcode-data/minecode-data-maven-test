@@ -8,3 +8,5 @@
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading3@4.14-RC4?classifier=sources
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading3@4.14-RC3
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading3@4.14-RC3?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-cascading3@4.14
+- pkg:maven/com.twitter.elephantbird/elephant-bird-cascading3@4.14?classifier=sources
