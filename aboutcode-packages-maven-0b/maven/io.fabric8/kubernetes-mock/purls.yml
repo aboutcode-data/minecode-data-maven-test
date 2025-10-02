@@ -196,3 +196,7 @@
 - pkg:maven/io.fabric8/kubernetes-mock@1.4.11?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-mock@1.4.10
 - pkg:maven/io.fabric8/kubernetes-mock@1.4.10?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-mock@1.4.14
+- pkg:maven/io.fabric8/kubernetes-mock@1.4.14?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-mock@1.4.13
+- pkg:maven/io.fabric8/kubernetes-mock@1.4.13?classifier=sources

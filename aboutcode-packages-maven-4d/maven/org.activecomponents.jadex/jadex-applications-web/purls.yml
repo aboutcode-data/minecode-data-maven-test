@@ -10,3 +10,5 @@
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC63?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC68?type=war
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC68?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC80?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC80?classifier=sources
