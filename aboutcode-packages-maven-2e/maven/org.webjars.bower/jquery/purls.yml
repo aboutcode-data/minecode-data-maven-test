@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.bower/jquery@2.1.3?classifier=sources
 - pkg:maven/org.webjars.bower/jquery@1.11.3
 - pkg:maven/org.webjars.bower/jquery@1.11.3?classifier=sources
+- pkg:maven/org.webjars.bower/jquery@2.1.4
+- pkg:maven/org.webjars.bower/jquery@2.1.4?classifier=sources
+- pkg:maven/org.webjars.bower/jquery@1.9.1
+- pkg:maven/org.webjars.bower/jquery@1.9.1?classifier=sources

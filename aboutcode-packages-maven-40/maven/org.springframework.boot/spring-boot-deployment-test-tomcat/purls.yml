@@ -8,3 +8,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-tomcat@1.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-tomcat@1.2.4.RELEASE?type=war
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-tomcat@1.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-tomcat@1.2.5.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-tomcat@1.2.5.RELEASE?classifier=sources
