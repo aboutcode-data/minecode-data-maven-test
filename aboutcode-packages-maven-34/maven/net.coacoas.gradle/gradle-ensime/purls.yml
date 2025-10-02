@@ -1,2 +1,4 @@
 - pkg:maven/net.coacoas.gradle/gradle-ensime@0.1.8
 - pkg:maven/net.coacoas.gradle/gradle-ensime@0.1.8?classifier=sources
+- pkg:maven/net.coacoas.gradle/gradle-ensime@0.1.10
+- pkg:maven/net.coacoas.gradle/gradle-ensime@0.1.10?classifier=sources

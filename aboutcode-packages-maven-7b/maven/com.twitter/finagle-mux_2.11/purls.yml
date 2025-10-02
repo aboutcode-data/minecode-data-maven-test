@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/finagle-mux_2.11@6.24.0
 - pkg:maven/com.twitter/finagle-mux_2.11@6.24.0?classifier=sources
+- pkg:maven/com.twitter/finagle-mux_2.11@6.24.1-MONOCACHE
+- pkg:maven/com.twitter/finagle-mux_2.11@6.24.1-MONOCACHE?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/de.felixschulze.gradle/gradle-spoon-plugin@1.3?classifier=sources
 - pkg:maven/de.felixschulze.gradle/gradle-spoon-plugin@1.4
 - pkg:maven/de.felixschulze.gradle/gradle-spoon-plugin@1.4?classifier=sources
+- pkg:maven/de.felixschulze.gradle/gradle-spoon-plugin@2.0
+- pkg:maven/de.felixschulze.gradle/gradle-spoon-plugin@2.0?classifier=sources
