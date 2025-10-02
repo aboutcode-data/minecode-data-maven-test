@@ -1,2 +1,4 @@
 - pkg:maven/org.atemsource/atem-api@0.0.27
 - pkg:maven/org.atemsource/atem-api@0.0.27?classifier=sources
+- pkg:maven/org.atemsource/atem-api@0.1.0
+- pkg:maven/org.atemsource/atem-api@0.1.0?classifier=sources

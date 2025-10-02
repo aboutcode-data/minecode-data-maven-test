@@ -68,3 +68,5 @@
 - pkg:maven/info.cukes/gherkin@2.9.2?classifier=sources
 - pkg:maven/info.cukes/gherkin@2.10.0
 - pkg:maven/info.cukes/gherkin@2.10.0?classifier=sources
+- pkg:maven/info.cukes/gherkin@2.11.0
+- pkg:maven/info.cukes/gherkin@2.11.0?classifier=sources

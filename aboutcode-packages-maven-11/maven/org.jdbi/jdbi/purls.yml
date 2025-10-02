@@ -91,3 +91,5 @@
 - pkg:maven/org.jdbi/jdbi@2.33.3?classifier=sources
 - pkg:maven/org.jdbi/jdbi@2.34
 - pkg:maven/org.jdbi/jdbi@2.34?classifier=sources
+- pkg:maven/org.jdbi/jdbi@2.35
+- pkg:maven/org.jdbi/jdbi@2.35?classifier=sources

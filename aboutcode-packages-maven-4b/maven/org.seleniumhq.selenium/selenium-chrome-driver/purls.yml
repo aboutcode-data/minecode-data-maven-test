@@ -70,3 +70,7 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.21.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.22.0
 - pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.22.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.23.0
+- pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.23.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.23.1
+- pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.23.1?classifier=sources

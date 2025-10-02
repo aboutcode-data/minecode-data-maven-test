@@ -10,3 +10,5 @@
 - pkg:maven/org.atmosphere/atmosphere-jetty-websocketdraft8@0.9.4?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jetty-websocketdraft8@0.9.5
 - pkg:maven/org.atmosphere/atmosphere-jetty-websocketdraft8@0.9.5?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jetty-websocketdraft8@1.0.0.beta1
+- pkg:maven/org.atmosphere/atmosphere-jetty-websocketdraft8@1.0.0.beta1?classifier=sources

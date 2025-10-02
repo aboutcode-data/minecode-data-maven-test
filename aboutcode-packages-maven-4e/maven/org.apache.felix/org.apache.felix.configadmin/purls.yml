@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.0.10
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.0.1
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.4.0?classifier=source-release&type=zip

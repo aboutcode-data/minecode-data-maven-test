@@ -34,3 +34,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@4.0-milestone-2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@4.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@4.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@4.1-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@4.1-milestone-1?classifier=sources
