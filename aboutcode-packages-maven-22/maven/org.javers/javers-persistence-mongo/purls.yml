@@ -152,3 +152,7 @@
 - pkg:maven/org.javers/javers-persistence-mongo@2.0.0-RC2?classifier=sources
 - pkg:maven/org.javers/javers-persistence-mongo@2.0.0
 - pkg:maven/org.javers/javers-persistence-mongo@2.0.0?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@2.0.2
+- pkg:maven/org.javers/javers-persistence-mongo@2.0.2?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@2.0.1
+- pkg:maven/org.javers/javers-persistence-mongo@2.0.1?classifier=sources

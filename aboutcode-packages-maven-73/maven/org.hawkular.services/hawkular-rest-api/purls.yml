@@ -1,2 +1,4 @@
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.1.Final?type=war
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.1.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.2.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.2.Final?classifier=sources

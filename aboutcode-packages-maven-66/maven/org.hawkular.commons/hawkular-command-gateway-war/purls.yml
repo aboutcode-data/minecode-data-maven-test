@@ -6,3 +6,5 @@
 - pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.7.2.Final?classifier=sources
 - pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.7.3.Final?type=war
 - pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.7.3.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.7.4.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-war@0.7.4.Final?classifier=sources

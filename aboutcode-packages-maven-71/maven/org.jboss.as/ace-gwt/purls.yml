@@ -132,3 +132,5 @@
 - pkg:maven/org.jboss.as/ace-gwt@2.8.24.Final?classifier=sources
 - pkg:maven/org.jboss.as/ace-gwt@2.8.25.Final
 - pkg:maven/org.jboss.as/ace-gwt@2.8.25.Final?classifier=sources
+- pkg:maven/org.jboss.as/ace-gwt@2.8.25.SP1
+- pkg:maven/org.jboss.as/ace-gwt@2.8.25.SP1?classifier=sources
