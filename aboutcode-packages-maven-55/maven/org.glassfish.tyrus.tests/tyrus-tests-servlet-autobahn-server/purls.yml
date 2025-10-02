@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-servlet-autobahn-server@1.0-b09?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-servlet-autobahn-server@1.0-b09?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-servlet-autobahn-server@1.0-b10?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-servlet-autobahn-server@1.0-b10?classifier=sources
