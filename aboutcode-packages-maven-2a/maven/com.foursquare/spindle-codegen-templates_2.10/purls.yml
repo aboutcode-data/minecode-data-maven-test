@@ -48,3 +48,7 @@
 - pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M8?classifier=sources
 - pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M9
 - pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M9?classifier=sources
+- pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M11-followup
+- pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M11-followup?classifier=sources
+- pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M11-bootstrap
+- pkg:maven/com.foursquare/spindle-codegen-templates_2.10@2.0.0-M11-bootstrap?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.sonatype.nexus.maven/nexus-m2settings-testsuite@1.6.4?classifier=sources
 - pkg:maven/org.sonatype.nexus.maven/nexus-m2settings-testsuite@1.6.3
 - pkg:maven/org.sonatype.nexus.maven/nexus-m2settings-testsuite@1.6.3?classifier=sources
+- pkg:maven/org.sonatype.nexus.maven/nexus-m2settings-testsuite@1.6.5
+- pkg:maven/org.sonatype.nexus.maven/nexus-m2settings-testsuite@1.6.5?classifier=sources

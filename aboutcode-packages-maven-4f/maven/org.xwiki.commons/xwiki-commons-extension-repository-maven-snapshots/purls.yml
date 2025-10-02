@@ -8,3 +8,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.2.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.2.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.3-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.3-milestone-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.2.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-maven-snapshots@6.2.2?classifier=sources
