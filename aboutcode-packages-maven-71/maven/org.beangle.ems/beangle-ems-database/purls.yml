@@ -52,3 +52,5 @@
 - pkg:maven/org.beangle.ems/beangle-ems-database@3.4.14?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-database@3.5.0
 - pkg:maven/org.beangle.ems/beangle-ems-database@3.5.0?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-database@3.5.1.M1
+- pkg:maven/org.beangle.ems/beangle-ems-database@3.5.1.M1?classifier=sources

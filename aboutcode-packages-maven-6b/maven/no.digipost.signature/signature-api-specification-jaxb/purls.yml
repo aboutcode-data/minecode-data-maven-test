@@ -4,3 +4,5 @@
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@1.0-BETA2?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@1.0-BETA3
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@1.0-BETA3?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-specification-jaxb@1.0
+- pkg:maven/no.digipost.signature/signature-api-specification-jaxb@1.0?classifier=sources
