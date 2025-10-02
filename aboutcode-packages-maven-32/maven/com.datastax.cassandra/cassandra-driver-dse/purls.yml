@@ -28,3 +28,5 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.7?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.8
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.8?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.3
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.3?classifier=sources

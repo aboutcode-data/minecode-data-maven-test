@@ -98,3 +98,5 @@
 - pkg:maven/com.android.tools.build/builder@0.14.4?classifier=sources
 - pkg:maven/com.android.tools.build/builder@0.14.3
 - pkg:maven/com.android.tools.build/builder@0.14.3?classifier=sources
+- pkg:maven/com.android.tools.build/builder@1.0.0-rc1
+- pkg:maven/com.android.tools.build/builder@1.0.0-rc1?classifier=sources
