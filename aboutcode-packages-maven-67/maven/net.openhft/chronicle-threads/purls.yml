@@ -26,3 +26,7 @@
 - pkg:maven/net.openhft/chronicle-threads@1.0.15-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@1.0.14-beta
 - pkg:maven/net.openhft/chronicle-threads@1.0.14-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@1.0.18-beta
+- pkg:maven/net.openhft/chronicle-threads@1.0.18-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@1.0.17-beta
+- pkg:maven/net.openhft/chronicle-threads@1.0.17-beta?classifier=sources
