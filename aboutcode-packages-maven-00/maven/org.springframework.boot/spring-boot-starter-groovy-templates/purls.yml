@@ -9,3 +9,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.1.6.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.1.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.1.7.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.1.8.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.1.8.RELEASE?classifier=sources

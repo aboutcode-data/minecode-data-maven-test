@@ -1,2 +1,4 @@
 - pkg:maven/org.spark-project.hive/hive-common@0.12.0
 - pkg:maven/org.spark-project.hive/hive-common@0.12.0?classifier=sources
+- pkg:maven/org.spark-project.hive/hive-common@0.12.0-protobuf
+- pkg:maven/org.spark-project.hive/hive-common@0.12.0-protobuf?classifier=sources
