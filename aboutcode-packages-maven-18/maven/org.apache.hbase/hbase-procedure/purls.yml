@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.hbase/hbase-procedure@1.1.7?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-procedure@1.2.4
 - pkg:maven/org.apache.hbase/hbase-procedure@1.2.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-procedure@1.1.8
+- pkg:maven/org.apache.hbase/hbase-procedure@1.1.8?classifier=sources
