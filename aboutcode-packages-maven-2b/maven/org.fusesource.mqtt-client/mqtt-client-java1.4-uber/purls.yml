@@ -1,2 +1,4 @@
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-java1.4-uber@1.0
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-java1.4-uber@1.0?classifier=sources
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client-java1.4-uber@1.1
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client-java1.4-uber@1.1?classifier=sources

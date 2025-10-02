@@ -20,3 +20,5 @@
 - pkg:maven/com.proofpoint.platform/http-client-experimental@0.55?classifier=sources
 - pkg:maven/com.proofpoint.platform/http-client-experimental@0.57
 - pkg:maven/com.proofpoint.platform/http-client-experimental@0.57?classifier=sources
+- pkg:maven/com.proofpoint.platform/http-client-experimental@0.58
+- pkg:maven/com.proofpoint.platform/http-client-experimental@0.58?classifier=sources

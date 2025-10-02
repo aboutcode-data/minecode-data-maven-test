@@ -28,3 +28,5 @@
 - pkg:maven/org.kohsuke/github-api@1.17?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.18
 - pkg:maven/org.kohsuke/github-api@1.18?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.19
+- pkg:maven/org.kohsuke/github-api@1.19?classifier=sources
