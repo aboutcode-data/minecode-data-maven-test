@@ -52,3 +52,7 @@
 - pkg:maven/org.jboss.byteman/byteman-dtest@3.0.7?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-dtest@3.0.8
 - pkg:maven/org.jboss.byteman/byteman-dtest@3.0.8?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-dtest@4.0.0-BETA4
+- pkg:maven/org.jboss.byteman/byteman-dtest@4.0.0-BETA4?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-dtest@3.0.9
+- pkg:maven/org.jboss.byteman/byteman-dtest@3.0.9?classifier=sources
