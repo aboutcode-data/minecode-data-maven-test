@@ -4,3 +4,5 @@
 - pkg:maven/org.spark-project.hive.shims/hive-shims-0.23@0.13.1a?classifier=sources
 - pkg:maven/org.spark-project.hive.shims/hive-shims-0.23@1.2.1.spark
 - pkg:maven/org.spark-project.hive.shims/hive-shims-0.23@1.2.1.spark?classifier=sources
+- pkg:maven/org.spark-project.hive.shims/hive-shims-0.23@1.2.1.spark2
+- pkg:maven/org.spark-project.hive.shims/hive-shims-0.23@1.2.1.spark2?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.webjars.bower/jquery@2.2.2?classifier=sources
 - pkg:maven/org.webjars.bower/jquery@1.12.2
 - pkg:maven/org.webjars.bower/jquery@1.12.2?classifier=sources
+- pkg:maven/org.webjars.bower/jquery@2.2.3
+- pkg:maven/org.webjars.bower/jquery@2.2.3?classifier=sources

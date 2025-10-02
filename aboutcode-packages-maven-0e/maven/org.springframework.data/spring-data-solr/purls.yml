@@ -44,3 +44,7 @@
 - pkg:maven/org.springframework.data/spring-data-solr@1.5.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@1.5.4.RELEASE
 - pkg:maven/org.springframework.data/spring-data-solr@1.5.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-solr@2.0.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-solr@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-solr@2.0.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-solr@2.0.0.RELEASE?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-duplications@5.4-RC3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-duplications@5.4
 - pkg:maven/org.sonarsource.sonarqube/sonar-duplications@5.4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-duplications@5.5-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-duplications@5.5-RC1?classifier=sources
