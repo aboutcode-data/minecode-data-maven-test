@@ -26,3 +26,5 @@
 - pkg:maven/net.logstash.logback/logstash-logback-encoder@2.7?classifier=sources
 - pkg:maven/net.logstash.logback/logstash-logback-encoder@2.8
 - pkg:maven/net.logstash.logback/logstash-logback-encoder@2.8?classifier=sources
+- pkg:maven/net.logstash.logback/logstash-logback-encoder@3.0
+- pkg:maven/net.logstash.logback/logstash-logback-encoder@3.0?classifier=sources
