@@ -20,3 +20,5 @@
 - pkg:maven/com.erigir/wrench-zk@0.92?classifier=sources
 - pkg:maven/com.erigir/wrench-zk@0.91
 - pkg:maven/com.erigir/wrench-zk@0.91?classifier=sources
+- pkg:maven/com.erigir/wrench-zk@1.000
+- pkg:maven/com.erigir/wrench-zk@1.000?classifier=sources

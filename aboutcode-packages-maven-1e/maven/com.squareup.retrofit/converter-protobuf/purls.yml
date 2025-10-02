@@ -26,3 +26,5 @@
 - pkg:maven/com.squareup.retrofit/converter-protobuf@1.8.0?classifier=sources
 - pkg:maven/com.squareup.retrofit/converter-protobuf@1.9.0
 - pkg:maven/com.squareup.retrofit/converter-protobuf@1.9.0?classifier=sources
+- pkg:maven/com.squareup.retrofit/converter-protobuf@2.0.0-beta1
+- pkg:maven/com.squareup.retrofit/converter-protobuf@2.0.0-beta1?classifier=sources

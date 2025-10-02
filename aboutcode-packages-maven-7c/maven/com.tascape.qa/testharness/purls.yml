@@ -42,3 +42,7 @@
 - pkg:maven/com.tascape.qa/testharness@1.0.20?classifier=sources
 - pkg:maven/com.tascape.qa/testharness@1.0.19
 - pkg:maven/com.tascape.qa/testharness@1.0.19?classifier=sources
+- pkg:maven/com.tascape.qa/testharness@1.0.23
+- pkg:maven/com.tascape.qa/testharness@1.0.23?classifier=sources
+- pkg:maven/com.tascape.qa/testharness@1.0.22
+- pkg:maven/com.tascape.qa/testharness@1.0.22?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.crypteron/ciphercore@2015.07.0.0
 - pkg:maven/com.crypteron/ciphercore@2015.07.0.0?classifier=sources
+- pkg:maven/com.crypteron/ciphercore@2015.08.1.0
+- pkg:maven/com.crypteron/ciphercore@2015.08.1.0?classifier=sources
