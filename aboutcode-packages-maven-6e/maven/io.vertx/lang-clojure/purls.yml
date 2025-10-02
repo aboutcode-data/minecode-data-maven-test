@@ -9,3 +9,5 @@
 - pkg:maven/io.vertx/lang-clojure@0.3.0?classifier=sources
 - pkg:maven/io.vertx/lang-clojure@0.4.0
 - pkg:maven/io.vertx/lang-clojure@0.4.0?classifier=sources
+- pkg:maven/io.vertx/lang-clojure@1.0.0.Beta1
+- pkg:maven/io.vertx/lang-clojure@1.0.0.Beta1?classifier=sources
