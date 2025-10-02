@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.camel/camel-xmljson@2.10.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-xmljson@2.10.4
 - pkg:maven/org.apache.camel/camel-xmljson@2.10.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-xmljson@2.11.0
+- pkg:maven/org.apache.camel/camel-xmljson@2.11.0?classifier=sources

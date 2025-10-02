@@ -18,3 +18,5 @@
 - pkg:maven/javax.jms/javax.jms-api@2.0-b11?classifier=sources
 - pkg:maven/javax.jms/javax.jms-api@2.0-b13
 - pkg:maven/javax.jms/javax.jms-api@2.0-b13?classifier=sources
+- pkg:maven/javax.jms/javax.jms-api@2.0
+- pkg:maven/javax.jms/javax.jms-api@2.0?classifier=sources

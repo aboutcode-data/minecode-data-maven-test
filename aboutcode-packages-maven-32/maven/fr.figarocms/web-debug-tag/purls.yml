@@ -30,3 +30,5 @@
 - pkg:maven/fr.figarocms/web-debug-tag@0.0.16?classifier=sources
 - pkg:maven/fr.figarocms/web-debug-tag@1.1
 - pkg:maven/fr.figarocms/web-debug-tag@1.1?classifier=sources
+- pkg:maven/fr.figarocms/web-debug-tag@1.4
+- pkg:maven/fr.figarocms/web-debug-tag@1.4?classifier=sources
