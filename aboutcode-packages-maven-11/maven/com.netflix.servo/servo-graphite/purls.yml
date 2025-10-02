@@ -8,3 +8,5 @@
 - pkg:maven/com.netflix.servo/servo-graphite@0.4.26?classifier=sources
 - pkg:maven/com.netflix.servo/servo-graphite@0.4.29
 - pkg:maven/com.netflix.servo/servo-graphite@0.4.29?classifier=sources
+- pkg:maven/com.netflix.servo/servo-graphite@0.4.30
+- pkg:maven/com.netflix.servo/servo-graphite@0.4.30?classifier=sources

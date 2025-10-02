@@ -82,3 +82,7 @@
 - pkg:maven/net.sourceforge.urin/urin@2.11?classifier=sources
 - pkg:maven/net.sourceforge.urin/urin@2.10
 - pkg:maven/net.sourceforge.urin/urin@2.10?classifier=sources
+- pkg:maven/net.sourceforge.urin/urin@2.15
+- pkg:maven/net.sourceforge.urin/urin@2.15?classifier=sources
+- pkg:maven/net.sourceforge.urin/urin@2.14
+- pkg:maven/net.sourceforge.urin/urin@2.14?classifier=sources
