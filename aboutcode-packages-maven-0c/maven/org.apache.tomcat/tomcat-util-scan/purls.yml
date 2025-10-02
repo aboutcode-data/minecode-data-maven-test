@@ -54,3 +54,9 @@
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.0?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.33
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.33?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@9.0.0.M6
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@9.0.0.M6?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.2
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.2?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.35
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.35?classifier=sources

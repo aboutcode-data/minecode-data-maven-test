@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.tika/tika-serialization@1.11?classifier=sources
 - pkg:maven/org.apache.tika/tika-serialization@1.12
 - pkg:maven/org.apache.tika/tika-serialization@1.12?classifier=sources
+- pkg:maven/org.apache.tika/tika-serialization@1.13
+- pkg:maven/org.apache.tika/tika-serialization@1.13?classifier=sources

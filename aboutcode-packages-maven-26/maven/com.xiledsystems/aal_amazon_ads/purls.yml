@@ -160,3 +160,5 @@
 - pkg:maven/com.xiledsystems/aal_amazon_ads@1.4.11?classifier=sources
 - pkg:maven/com.xiledsystems/aal_amazon_ads@1.4.14?type=aar
 - pkg:maven/com.xiledsystems/aal_amazon_ads@1.4.14?classifier=sources
+- pkg:maven/com.xiledsystems/aal_amazon_ads@2.0.0-rc2?type=aar
+- pkg:maven/com.xiledsystems/aal_amazon_ads@2.0.0-rc2?classifier=sources

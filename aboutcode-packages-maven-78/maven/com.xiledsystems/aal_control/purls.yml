@@ -66,3 +66,5 @@
 - pkg:maven/com.xiledsystems/aal_control@1.4.11?classifier=sources
 - pkg:maven/com.xiledsystems/aal_control@1.4.14?type=aar
 - pkg:maven/com.xiledsystems/aal_control@1.4.14?classifier=sources
+- pkg:maven/com.xiledsystems/aal_control@2.0.0-rc2?type=aar
+- pkg:maven/com.xiledsystems/aal_control@2.0.0-rc2?classifier=sources
