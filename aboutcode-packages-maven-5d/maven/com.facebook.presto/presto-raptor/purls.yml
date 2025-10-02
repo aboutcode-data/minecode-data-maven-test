@@ -19,3 +19,4 @@
 - pkg:maven/com.facebook.presto/presto-raptor@0.86?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.88?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.89?classifier=sources
+- pkg:maven/com.facebook.presto/presto-raptor@0.90?classifier=sources

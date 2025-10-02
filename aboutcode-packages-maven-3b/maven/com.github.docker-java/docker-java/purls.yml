@@ -14,3 +14,5 @@
 - pkg:maven/com.github.docker-java/docker-java@0.10.3?classifier=sources
 - pkg:maven/com.github.docker-java/docker-java@0.10.4
 - pkg:maven/com.github.docker-java/docker-java@0.10.4?classifier=sources
+- pkg:maven/com.github.docker-java/docker-java@0.10.5
+- pkg:maven/com.github.docker-java/docker-java@0.10.5?classifier=sources

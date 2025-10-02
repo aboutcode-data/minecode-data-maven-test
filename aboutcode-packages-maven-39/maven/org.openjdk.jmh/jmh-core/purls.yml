@@ -88,3 +88,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-core@1.4.2?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core@1.5
 - pkg:maven/org.openjdk.jmh/jmh-core@1.5?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-core@1.5.1
+- pkg:maven/org.openjdk.jmh/jmh-core@1.5.1?classifier=sources

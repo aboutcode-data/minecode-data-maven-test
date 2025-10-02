@@ -56,3 +56,7 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.6.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.6.1.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.6.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.6.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.6.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.5.5.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.5.5.RELEASE?classifier=sources
