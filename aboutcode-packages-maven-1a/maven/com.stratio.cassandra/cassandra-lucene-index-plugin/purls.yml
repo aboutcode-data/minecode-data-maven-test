@@ -4,3 +4,5 @@
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-plugin@2.1.8.2?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-plugin@2.1.8.1
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-plugin@2.1.8.1?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-plugin@2.1.8.3
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-plugin@2.1.8.3?classifier=sources
