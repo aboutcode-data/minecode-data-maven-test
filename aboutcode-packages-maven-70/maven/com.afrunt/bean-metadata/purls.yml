@@ -1,2 +1,4 @@
 - pkg:maven/com.afrunt/bean-metadata@0.1-dev
 - pkg:maven/com.afrunt/bean-metadata@0.1-dev?classifier=sources
+- pkg:maven/com.afrunt/bean-metadata@0.1.2-dev
+- pkg:maven/com.afrunt/bean-metadata@0.1.2-dev?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.faunadb/faunadb-java@0.4.0?classifier=sources
 - pkg:maven/com.faunadb/faunadb-java@1.0.0
 - pkg:maven/com.faunadb/faunadb-java@1.0.0?classifier=sources
+- pkg:maven/com.faunadb/faunadb-java@1.1.0
+- pkg:maven/com.faunadb/faunadb-java@1.1.0?classifier=sources

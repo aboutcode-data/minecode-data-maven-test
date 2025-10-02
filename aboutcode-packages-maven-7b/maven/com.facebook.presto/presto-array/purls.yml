@@ -52,3 +52,5 @@
 - pkg:maven/com.facebook.presto/presto-array@0.172?classifier=sources
 - pkg:maven/com.facebook.presto/presto-array@0.174
 - pkg:maven/com.facebook.presto/presto-array@0.174?classifier=sources
+- pkg:maven/com.facebook.presto/presto-array@0.175
+- pkg:maven/com.facebook.presto/presto-array@0.175?classifier=sources

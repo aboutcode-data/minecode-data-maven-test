@@ -278,3 +278,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@2.4.4_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@2.4.4_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@2.4.4_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@5.3.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@5.3.2_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@5.3.2_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.elasticsearch@5.3.2_1?classifier=sources
