@@ -21,3 +21,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@0.9.4?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@0.9.5
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@0.9.5?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.0.0-beta3
+- pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.0.0-beta3?classifier=sources

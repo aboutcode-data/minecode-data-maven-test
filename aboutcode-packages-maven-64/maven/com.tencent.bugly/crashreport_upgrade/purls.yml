@@ -16,3 +16,5 @@
 - pkg:maven/com.tencent.bugly/crashreport_upgrade@1.1.5.0?classifier=sources
 - pkg:maven/com.tencent.bugly/crashreport_upgrade@1.1.5?type=aar
 - pkg:maven/com.tencent.bugly/crashreport_upgrade@1.1.5?classifier=sources
+- pkg:maven/com.tencent.bugly/crashreport_upgrade@1.1.6?type=aar
+- pkg:maven/com.tencent.bugly/crashreport_upgrade@1.1.6?classifier=sources

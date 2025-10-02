@@ -46,3 +46,5 @@
 - pkg:maven/com.netflix.dyno/dyno-contrib@1.4.7?classifier=sources
 - pkg:maven/com.netflix.dyno/dyno-contrib@1.5.0
 - pkg:maven/com.netflix.dyno/dyno-contrib@1.5.0?classifier=sources
+- pkg:maven/com.netflix.dyno/dyno-contrib@1.5.1
+- pkg:maven/com.netflix.dyno/dyno-contrib@1.5.1?classifier=sources
