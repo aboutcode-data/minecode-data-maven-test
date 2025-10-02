@@ -18,3 +18,5 @@
 - pkg:maven/org.sakaiproject.emailtemplateservice/emailtemplateservice-tool@0.6.0?classifier=sources
 - pkg:maven/org.sakaiproject.emailtemplateservice/emailtemplateservice-tool@0.6.1?type=war
 - pkg:maven/org.sakaiproject.emailtemplateservice/emailtemplateservice-tool@0.6.1?classifier=sources
+- pkg:maven/org.sakaiproject.emailtemplateservice/emailtemplateservice-tool@0.6.2?type=war
+- pkg:maven/org.sakaiproject.emailtemplateservice/emailtemplateservice-tool@0.6.2?classifier=sources
