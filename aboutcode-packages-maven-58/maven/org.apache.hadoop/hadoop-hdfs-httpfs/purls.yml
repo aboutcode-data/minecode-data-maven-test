@@ -33,3 +33,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.1.1-beta?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.2.0?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.2.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@0.23.10?type=war
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@0.23.10?classifier=sources

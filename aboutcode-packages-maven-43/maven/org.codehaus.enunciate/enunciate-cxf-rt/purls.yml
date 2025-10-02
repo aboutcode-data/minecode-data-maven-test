@@ -128,3 +128,5 @@
 - pkg:maven/org.codehaus.enunciate/enunciate-cxf-rt@1.28-RC1?classifier=sources
 - pkg:maven/org.codehaus.enunciate/enunciate-cxf-rt@1.28-RC2
 - pkg:maven/org.codehaus.enunciate/enunciate-cxf-rt@1.28-RC2?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-cxf-rt@1.28
+- pkg:maven/org.codehaus.enunciate/enunciate-cxf-rt@1.28?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.genie/genie-web-int-tests@0.22
 - pkg:maven/com.netflix.genie/genie-web-int-tests@0.22?classifier=sources
+- pkg:maven/com.netflix.genie/genie-web-int-tests@0.23
+- pkg:maven/com.netflix.genie/genie-web-int-tests@0.23?classifier=sources

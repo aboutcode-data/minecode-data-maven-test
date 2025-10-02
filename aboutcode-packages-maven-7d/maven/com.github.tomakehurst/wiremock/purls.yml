@@ -38,3 +38,5 @@
 - pkg:maven/com.github.tomakehurst/wiremock@1.36?classifier=sources
 - pkg:maven/com.github.tomakehurst/wiremock@1.37
 - pkg:maven/com.github.tomakehurst/wiremock@1.37?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock@1.38
+- pkg:maven/com.github.tomakehurst/wiremock@1.38?classifier=sources

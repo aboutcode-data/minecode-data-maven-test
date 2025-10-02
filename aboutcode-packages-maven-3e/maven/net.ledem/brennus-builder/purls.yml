@@ -1,2 +1,4 @@
 - pkg:maven/net.ledem/brennus-builder@0.1.0
 - pkg:maven/net.ledem/brennus-builder@0.1.0?classifier=sources
+- pkg:maven/net.ledem/brennus-builder@0.2.0
+- pkg:maven/net.ledem/brennus-builder@0.2.0?classifier=sources

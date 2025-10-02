@@ -73,3 +73,5 @@
 - pkg:maven/org.clojure/clojurescript@0.0-2067?classifier=sources
 - pkg:maven/org.clojure/clojurescript@0.0-2060
 - pkg:maven/org.clojure/clojurescript@0.0-2060?classifier=sources
+- pkg:maven/org.clojure/clojurescript@0.0-2120
+- pkg:maven/org.clojure/clojurescript@0.0-2120?classifier=sources
