@@ -150,3 +150,7 @@
 - pkg:maven/org.clojure/clojure@1.7.0-RC2?classifier=sources
 - pkg:maven/org.clojure/clojure@1.7.0?type=zip
 - pkg:maven/org.clojure/clojure@1.7.0?classifier=sources
+- pkg:maven/org.clojure/clojure@1.8.0-alpha2?type=zip
+- pkg:maven/org.clojure/clojure@1.8.0-alpha2?classifier=sources
+- pkg:maven/org.clojure/clojure@1.8.0-alpha1?type=zip
+- pkg:maven/org.clojure/clojure@1.8.0-alpha1?classifier=sources

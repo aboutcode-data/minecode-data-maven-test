@@ -259,3 +259,5 @@
 - pkg:maven/org.jbehave/jbehave-maven-plugin@3.10?classifier=sources
 - pkg:maven/org.jbehave/jbehave-maven-plugin@4.0.1
 - pkg:maven/org.jbehave/jbehave-maven-plugin@4.0.1?classifier=sources
+- pkg:maven/org.jbehave/jbehave-maven-plugin@4.0.2
+- pkg:maven/org.jbehave/jbehave-maven-plugin@4.0.2?classifier=sources

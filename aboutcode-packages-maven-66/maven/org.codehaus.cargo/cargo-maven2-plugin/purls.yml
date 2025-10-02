@@ -104,3 +104,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.4.13?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.4.14
 - pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.4.14?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.4.15
+- pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.4.15?classifier=sources
