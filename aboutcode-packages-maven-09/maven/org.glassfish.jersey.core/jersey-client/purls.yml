@@ -30,3 +30,5 @@
 - pkg:maven/org.glassfish.jersey.core/jersey-client@2.0-m09?classifier=sources
 - pkg:maven/org.glassfish.jersey.core/jersey-client@2.0-m09-1
 - pkg:maven/org.glassfish.jersey.core/jersey-client@2.0-m09-1?classifier=sources
+- pkg:maven/org.glassfish.jersey.core/jersey-client@2.0-m10
+- pkg:maven/org.glassfish.jersey.core/jersey-client@2.0-m10?classifier=sources

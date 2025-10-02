@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-jsp@8.1.8.v20121106?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jsp@7.6.8.v20121106
 - pkg:maven/org.eclipse.jetty/jetty-jsp@7.6.8.v20121106?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jsp@9.0.0.M3
+- pkg:maven/org.eclipse.jetty/jetty-jsp@9.0.0.M3?classifier=sources
