@@ -8,3 +8,5 @@
 - pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.0.0.RC2?classifier=sources
 - pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.1.0-RTM
 - pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.1.0-RTM?classifier=sources
+- pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.1.1
+- pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.1.1?classifier=sources

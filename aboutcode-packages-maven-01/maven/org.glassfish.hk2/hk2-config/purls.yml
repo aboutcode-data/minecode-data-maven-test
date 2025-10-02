@@ -178,3 +178,7 @@
 - pkg:maven/org.glassfish.hk2/hk2-config@2.1.96?classifier=sources
 - pkg:maven/org.glassfish.hk2/hk2-config@2.1.95
 - pkg:maven/org.glassfish.hk2/hk2-config@2.1.95?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-config@2.2.0-b03
+- pkg:maven/org.glassfish.hk2/hk2-config@2.2.0-b03?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-config@2.2.0-b02
+- pkg:maven/org.glassfish.hk2/hk2-config@2.2.0-b02?classifier=sources

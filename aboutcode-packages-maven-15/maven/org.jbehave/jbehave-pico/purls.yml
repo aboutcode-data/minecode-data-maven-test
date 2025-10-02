@@ -176,3 +176,5 @@
 - pkg:maven/org.jbehave/jbehave-pico@3.7.5?classifier=sources
 - pkg:maven/org.jbehave/jbehave-pico@3.8
 - pkg:maven/org.jbehave/jbehave-pico@3.8?classifier=sources
+- pkg:maven/org.jbehave/jbehave-pico@3.9-beta-1
+- pkg:maven/org.jbehave/jbehave-pico@3.9-beta-1?classifier=sources

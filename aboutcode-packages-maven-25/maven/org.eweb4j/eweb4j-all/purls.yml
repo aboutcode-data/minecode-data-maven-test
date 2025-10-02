@@ -6,3 +6,5 @@
 - pkg:maven/org.eweb4j/eweb4j-all@1.9.1?classifier=sources
 - pkg:maven/org.eweb4j/eweb4j-all@1.10
 - pkg:maven/org.eweb4j/eweb4j-all@1.10?classifier=sources
+- pkg:maven/org.eweb4j/eweb4j-all@1.10-final
+- pkg:maven/org.eweb4j/eweb4j-all@1.10-final?classifier=sources

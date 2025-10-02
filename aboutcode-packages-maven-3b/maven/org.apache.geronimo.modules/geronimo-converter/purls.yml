@@ -27,3 +27,5 @@
 - pkg:maven/org.apache.geronimo.modules/geronimo-converter@2.1.8?classifier=sources
 - pkg:maven/org.apache.geronimo.modules/geronimo-converter@3.0.0
 - pkg:maven/org.apache.geronimo.modules/geronimo-converter@3.0.0?classifier=sources
+- pkg:maven/org.apache.geronimo.modules/geronimo-converter@3.0.1
+- pkg:maven/org.apache.geronimo.modules/geronimo-converter@3.0.1?classifier=sources

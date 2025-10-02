@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@0.16.0?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@0.17.0
 - pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@0.17.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@0.18.0
+- pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@0.18.0?classifier=sources
