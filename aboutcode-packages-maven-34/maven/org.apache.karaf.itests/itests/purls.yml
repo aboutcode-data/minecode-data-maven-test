@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.karaf.itests/itests@2.4.4?classifier=sources
 - pkg:maven/org.apache.karaf.itests/itests@2.3.12
 - pkg:maven/org.apache.karaf.itests/itests@2.3.12?classifier=sources
+- pkg:maven/org.apache.karaf.itests/itests@3.0.6
+- pkg:maven/org.apache.karaf.itests/itests@3.0.6?classifier=sources

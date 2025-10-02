@@ -102,3 +102,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.2.0?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.1.1
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.1.1?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.2.2
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.2.2?classifier=sources

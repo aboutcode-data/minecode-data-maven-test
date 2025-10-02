@@ -88,3 +88,5 @@
 - pkg:maven/org.apache.karaf.features/org.apache.karaf.features.obr@2.4.4?classifier=sources
 - pkg:maven/org.apache.karaf.features/org.apache.karaf.features.obr@2.3.12
 - pkg:maven/org.apache.karaf.features/org.apache.karaf.features.obr@2.3.12?classifier=sources
+- pkg:maven/org.apache.karaf.features/org.apache.karaf.features.obr@3.0.6
+- pkg:maven/org.apache.karaf.features/org.apache.karaf.features.obr@3.0.6?classifier=sources

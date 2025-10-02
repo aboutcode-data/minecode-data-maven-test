@@ -1,0 +1,4 @@
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork14
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork14?classifier=sources
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork13
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@1.1.33.Fork13?classifier=sources
