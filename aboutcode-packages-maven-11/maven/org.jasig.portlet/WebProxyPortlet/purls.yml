@@ -29,3 +29,5 @@
 - pkg:maven/org.jasig.portlet/WebProxyPortlet@1.1.8?classifier=sources
 - pkg:maven/org.jasig.portlet/WebProxyPortlet@1.1.9?type=war
 - pkg:maven/org.jasig.portlet/WebProxyPortlet@1.1.9?classifier=sources
+- pkg:maven/org.jasig.portlet/WebProxyPortlet@1.1.10?type=war
+- pkg:maven/org.jasig.portlet/WebProxyPortlet@1.1.10?classifier=sources
