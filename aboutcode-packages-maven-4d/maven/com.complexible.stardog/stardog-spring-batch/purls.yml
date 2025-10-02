@@ -14,3 +14,5 @@
 - pkg:maven/com.complexible.stardog/stardog-spring-batch@3.1.0?classifier=sources
 - pkg:maven/com.complexible.stardog/stardog-spring-batch@3.1.4
 - pkg:maven/com.complexible.stardog/stardog-spring-batch@3.1.4?classifier=sources
+- pkg:maven/com.complexible.stardog/stardog-spring-batch@4.0-RC1
+- pkg:maven/com.complexible.stardog/stardog-spring-batch@4.0-RC1?classifier=sources

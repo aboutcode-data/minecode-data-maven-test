@@ -36,3 +36,5 @@
 - pkg:maven/com.spikeify/core@0.2.9?classifier=sources
 - pkg:maven/com.spikeify/core@0.2.8
 - pkg:maven/com.spikeify/core@0.2.8?classifier=sources
+- pkg:maven/com.spikeify/core@0.2.10
+- pkg:maven/com.spikeify/core@0.2.10?classifier=sources

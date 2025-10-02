@@ -80,3 +80,5 @@
 - pkg:maven/com.netflix.feign/feign-sax@8.9.1?classifier=sources
 - pkg:maven/com.netflix.feign/feign-sax@8.10.1
 - pkg:maven/com.netflix.feign/feign-sax@8.10.1?classifier=sources
+- pkg:maven/com.netflix.feign/feign-sax@8.11.0
+- pkg:maven/com.netflix.feign/feign-sax@8.11.0?classifier=sources
