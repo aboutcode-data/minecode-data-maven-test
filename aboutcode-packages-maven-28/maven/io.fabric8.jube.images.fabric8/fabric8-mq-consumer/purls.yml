@@ -88,3 +88,5 @@
 - pkg:maven/io.fabric8.jube.images.fabric8/fabric8-mq-consumer@2.0.46?classifier=sources
 - pkg:maven/io.fabric8.jube.images.fabric8/fabric8-mq-consumer@2.0.44
 - pkg:maven/io.fabric8.jube.images.fabric8/fabric8-mq-consumer@2.0.44?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/fabric8-mq-consumer@2.1.1
+- pkg:maven/io.fabric8.jube.images.fabric8/fabric8-mq-consumer@2.1.1?classifier=sources

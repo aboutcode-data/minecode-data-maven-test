@@ -80,3 +80,9 @@
 - pkg:maven/de.larmic.butterfaces/showcase@1.7.17?classifier=sources
 - pkg:maven/de.larmic.butterfaces/showcase@1.7.19?type=war
 - pkg:maven/de.larmic.butterfaces/showcase@1.7.19?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase@1.8.0?type=war
+- pkg:maven/de.larmic.butterfaces/showcase@1.8.0?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase@1.7.21?type=war
+- pkg:maven/de.larmic.butterfaces/showcase@1.7.21?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase@1.7.20?type=war
+- pkg:maven/de.larmic.butterfaces/showcase@1.7.20?classifier=sources

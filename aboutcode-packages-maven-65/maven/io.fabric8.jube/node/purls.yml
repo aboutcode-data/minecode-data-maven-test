@@ -94,3 +94,7 @@
 - pkg:maven/io.fabric8.jube/node@2.0.45?classifier=sources
 - pkg:maven/io.fabric8.jube/node@2.0.44
 - pkg:maven/io.fabric8.jube/node@2.0.44?classifier=sources
+- pkg:maven/io.fabric8.jube/node@2.1.4
+- pkg:maven/io.fabric8.jube/node@2.1.4?classifier=sources
+- pkg:maven/io.fabric8.jube/node@2.1.2
+- pkg:maven/io.fabric8.jube/node@2.1.2?classifier=sources

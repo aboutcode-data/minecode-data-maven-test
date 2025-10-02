@@ -26,3 +26,5 @@
 - pkg:maven/com.twitter/storehaus-testing_2.10@0.10.0?classifier=sources
 - pkg:maven/com.twitter/storehaus-testing_2.10@0.11.0
 - pkg:maven/com.twitter/storehaus-testing_2.10@0.11.0?classifier=sources
+- pkg:maven/com.twitter/storehaus-testing_2.10@0.11.1
+- pkg:maven/com.twitter/storehaus-testing_2.10@0.11.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.typesafe.akka/akka-slf4j_2.11@2.3.10?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-slf4j_2.11@2.3.11
 - pkg:maven/com.typesafe.akka/akka-slf4j_2.11@2.3.11?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-slf4j_2.11@2.4-M1
+- pkg:maven/com.typesafe.akka/akka-slf4j_2.11@2.4-M1?classifier=sources
