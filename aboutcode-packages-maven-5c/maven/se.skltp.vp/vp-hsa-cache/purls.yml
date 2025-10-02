@@ -50,3 +50,5 @@
 - pkg:maven/se.skltp.vp/vp-hsa-cache@3.0.0-RC4?classifier=sources
 - pkg:maven/se.skltp.vp/vp-hsa-cache@3.0.0-RC5
 - pkg:maven/se.skltp.vp/vp-hsa-cache@3.0.0-RC5?classifier=sources
+- pkg:maven/se.skltp.vp/vp-hsa-cache@3.0.0
+- pkg:maven/se.skltp.vp/vp-hsa-cache@3.0.0?classifier=sources

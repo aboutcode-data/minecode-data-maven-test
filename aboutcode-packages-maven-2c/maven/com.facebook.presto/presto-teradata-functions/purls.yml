@@ -34,3 +34,5 @@
 - pkg:maven/com.facebook.presto/presto-teradata-functions@0.140?classifier=sources
 - pkg:maven/com.facebook.presto/presto-teradata-functions@0.142?classifier=sources
 - pkg:maven/com.facebook.presto/presto-teradata-functions@0.143?classifier=sources
+- pkg:maven/com.facebook.presto/presto-teradata-functions@0.144.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-teradata-functions@0.144?classifier=sources

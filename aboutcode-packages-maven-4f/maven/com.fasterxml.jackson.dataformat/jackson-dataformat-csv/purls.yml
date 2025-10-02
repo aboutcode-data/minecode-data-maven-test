@@ -113,3 +113,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.7.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.7.3
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.7.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.6.6
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.6.6?classifier=sources
