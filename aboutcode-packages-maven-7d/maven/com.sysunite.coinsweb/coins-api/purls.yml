@@ -6,3 +6,7 @@
 - pkg:maven/com.sysunite.coinsweb/coins-api@1.1.499?classifier=sources
 - pkg:maven/com.sysunite.coinsweb/coins-api@1.1.%24%7BbuildNumber%7D
 - pkg:maven/com.sysunite.coinsweb/coins-api@1.1.%24%7BbuildNumber%7D?classifier=sources
+- pkg:maven/com.sysunite.coinsweb/coins-api@1.1.503
+- pkg:maven/com.sysunite.coinsweb/coins-api@1.1.503?classifier=sources
+- pkg:maven/com.sysunite.coinsweb/coins-api@1.1.502
+- pkg:maven/com.sysunite.coinsweb/coins-api@1.1.502?classifier=sources

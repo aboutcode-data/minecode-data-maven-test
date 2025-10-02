@@ -20,3 +20,5 @@
 - pkg:maven/de.taimos/daemon-framework-log4j@2.9?classifier=sources
 - pkg:maven/de.taimos/daemon-framework-log4j@2.10
 - pkg:maven/de.taimos/daemon-framework-log4j@2.10?classifier=sources
+- pkg:maven/de.taimos/daemon-framework-log4j@2.11
+- pkg:maven/de.taimos/daemon-framework-log4j@2.11?classifier=sources
