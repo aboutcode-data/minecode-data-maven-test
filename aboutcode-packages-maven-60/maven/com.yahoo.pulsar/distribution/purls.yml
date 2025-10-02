@@ -5,3 +5,5 @@
 - pkg:maven/com.yahoo.pulsar/distribution@1.15.5?classifier=src&type=tar.gz
 - pkg:maven/com.yahoo.pulsar/distribution@1.15.4?classifier=src&type=tar.gz
 - pkg:maven/com.yahoo.pulsar/distribution@1.15.3?classifier=src&type=tar.gz
+- pkg:maven/com.yahoo.pulsar/distribution@1.15.7?classifier=src&type=tar.gz
+- pkg:maven/com.yahoo.pulsar/distribution@1.15.6?classifier=src&type=tar.gz

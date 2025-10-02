@@ -14,3 +14,5 @@
 - pkg:maven/com.trivago/triava@0.9.15?classifier=sources
 - pkg:maven/com.trivago/triava@0.9.14
 - pkg:maven/com.trivago/triava@0.9.14?classifier=sources
+- pkg:maven/com.trivago/triava@1.0.0
+- pkg:maven/com.trivago/triava@1.0.0?classifier=sources
