@@ -18,3 +18,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-codegen@2.8.2?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-codegen@2.9.0
 - pkg:maven/com.mysema.querydsl/querydsl-codegen@2.9.0?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-codegen@3.0.0.BETA1
+- pkg:maven/com.mysema.querydsl/querydsl-codegen@3.0.0.BETA1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.uctool/uctool-maven-plugin@1.2
 - pkg:maven/net.sf.uctool/uctool-maven-plugin@1.2?classifier=sources
+- pkg:maven/net.sf.uctool/uctool-maven-plugin@2.0.0
+- pkg:maven/net.sf.uctool/uctool-maven-plugin@2.0.0?classifier=sources

@@ -216,3 +216,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-maven-plugin@2.8.2?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-maven-plugin@2.9.0
 - pkg:maven/com.mysema.querydsl/querydsl-maven-plugin@2.9.0?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-maven-plugin@3.0.0.BETA1
+- pkg:maven/com.mysema.querydsl/querydsl-maven-plugin@3.0.0.BETA1?classifier=sources
