@@ -34,3 +34,5 @@
 - pkg:maven/org.jruby/jruby-core@1.7.0.RC2?classifier=sources
 - pkg:maven/org.jruby/jruby-core@1.7.0
 - pkg:maven/org.jruby/jruby-core@1.7.0?classifier=sources
+- pkg:maven/org.jruby/jruby-core@1.7.1
+- pkg:maven/org.jruby/jruby-core@1.7.1?classifier=sources

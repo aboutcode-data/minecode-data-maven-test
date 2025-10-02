@@ -101,3 +101,5 @@
 - pkg:maven/com.sun.jersey.samples/generate-wadl@1.14?classifier=sources
 - pkg:maven/com.sun.jersey.samples/generate-wadl@1.15
 - pkg:maven/com.sun.jersey.samples/generate-wadl@1.15?classifier=sources
+- pkg:maven/com.sun.jersey.samples/generate-wadl@1.16
+- pkg:maven/com.sun.jersey.samples/generate-wadl@1.16?classifier=sources
