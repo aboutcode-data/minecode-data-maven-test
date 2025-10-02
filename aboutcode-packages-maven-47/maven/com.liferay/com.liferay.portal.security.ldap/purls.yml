@@ -24,3 +24,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.0.10
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.1.0
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.1.0?classifier=sources

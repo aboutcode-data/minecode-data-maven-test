@@ -64,3 +64,7 @@
 - pkg:maven/com.groupbyinc/common-web@72?classifier=sources
 - pkg:maven/com.groupbyinc/common-web@71
 - pkg:maven/com.groupbyinc/common-web@71?classifier=sources
+- pkg:maven/com.groupbyinc/common-web@74
+- pkg:maven/com.groupbyinc/common-web@74?classifier=sources
+- pkg:maven/com.groupbyinc/common-web@73
+- pkg:maven/com.groupbyinc/common-web@73?classifier=sources

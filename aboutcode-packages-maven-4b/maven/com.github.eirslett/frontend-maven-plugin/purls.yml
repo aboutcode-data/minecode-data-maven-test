@@ -50,3 +50,5 @@
 - pkg:maven/com.github.eirslett/frontend-maven-plugin@0.0.29?classifier=sources
 - pkg:maven/com.github.eirslett/frontend-maven-plugin@1.0
 - pkg:maven/com.github.eirslett/frontend-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.github.eirslett/frontend-maven-plugin@1.1
+- pkg:maven/com.github.eirslett/frontend-maven-plugin@1.1?classifier=sources
