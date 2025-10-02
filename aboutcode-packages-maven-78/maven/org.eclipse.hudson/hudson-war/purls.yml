@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.hudson/hudson-war@3.0.0?type=war
 - pkg:maven/org.eclipse.hudson/hudson-war@3.0.0-bundled?type=war
 - pkg:maven/org.eclipse.hudson/hudson-war@3.0.1-M1?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.0.1-b2?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.0.1?type=war

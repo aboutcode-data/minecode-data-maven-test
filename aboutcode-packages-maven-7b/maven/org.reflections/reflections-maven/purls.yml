@@ -6,3 +6,5 @@
 - pkg:maven/org.reflections/reflections-maven@0.9.7?classifier=sources
 - pkg:maven/org.reflections/reflections-maven@0.9.8
 - pkg:maven/org.reflections/reflections-maven@0.9.8?classifier=sources
+- pkg:maven/org.reflections/reflections-maven@0.9.9-RC1
+- pkg:maven/org.reflections/reflections-maven@0.9.9-RC1?classifier=sources
