@@ -1,0 +1,4 @@
+- pkg:maven/de.bytefish/pgbulkinsert@0.2
+- pkg:maven/de.bytefish/pgbulkinsert@0.2?classifier=sources
+- pkg:maven/de.bytefish/pgbulkinsert@0.1
+- pkg:maven/de.bytefish/pgbulkinsert@0.1?classifier=sources

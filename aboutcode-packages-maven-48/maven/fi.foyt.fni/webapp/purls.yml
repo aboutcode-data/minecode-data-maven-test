@@ -20,3 +20,5 @@
 - pkg:maven/fi.foyt.fni/webapp@3.2.29?classifier=sources
 - pkg:maven/fi.foyt.fni/webapp@3.2.30?type=war
 - pkg:maven/fi.foyt.fni/webapp@3.2.30?classifier=sources
+- pkg:maven/fi.foyt.fni/webapp@3.2.43?type=war
+- pkg:maven/fi.foyt.fni/webapp@3.2.43?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/de.adorsys.oauth/oauth-tokenstore-mongodb@0.10?classifier=sources
 - pkg:maven/de.adorsys.oauth/oauth-tokenstore-mongodb@0.11
 - pkg:maven/de.adorsys.oauth/oauth-tokenstore-mongodb@0.11?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-tokenstore-mongodb@0.12
+- pkg:maven/de.adorsys.oauth/oauth-tokenstore-mongodb@0.12?classifier=sources
