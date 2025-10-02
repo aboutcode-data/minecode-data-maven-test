@@ -71,3 +71,5 @@
 - pkg:maven/org.apache.karaf/org.apache.karaf.client@2.3.10
 - pkg:maven/org.apache.karaf/org.apache.karaf.client@2.3.10?classifier=sources
 - pkg:maven/org.apache.karaf/org.apache.karaf.client@4.0.0.M2?classifier=sources
+- pkg:maven/org.apache.karaf/org.apache.karaf.client@2.3.11
+- pkg:maven/org.apache.karaf/org.apache.karaf.client@2.3.11?classifier=sources

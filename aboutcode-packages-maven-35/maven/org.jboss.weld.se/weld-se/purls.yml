@@ -156,3 +156,5 @@
 - pkg:maven/org.jboss.weld.se/weld-se@2.2.10.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se@1.1.29.Final
 - pkg:maven/org.jboss.weld.se/weld-se@1.1.29.Final?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se@2.2.10.SP1
+- pkg:maven/org.jboss.weld.se/weld-se@2.2.10.SP1?classifier=sources

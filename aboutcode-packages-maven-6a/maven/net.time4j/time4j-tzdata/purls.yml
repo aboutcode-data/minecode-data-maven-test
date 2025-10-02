@@ -1,2 +1,4 @@
 - pkg:maven/net.time4j/time4j-tzdata@1.0-2015a
 - pkg:maven/net.time4j/time4j-tzdata@1.0-2015a?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@1.1-2015b
+- pkg:maven/net.time4j/time4j-tzdata@1.1-2015b?classifier=sources

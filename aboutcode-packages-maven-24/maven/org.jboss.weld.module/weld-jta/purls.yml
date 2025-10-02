@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.weld.module/weld-jta@3.0.0.Alpha6
 - pkg:maven/org.jboss.weld.module/weld-jta@3.0.0.Alpha6?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-jta@3.0.0.Alpha7
+- pkg:maven/org.jboss.weld.module/weld-jta@3.0.0.Alpha7?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler-model@1.8.1?classifier=sources
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler-model@1.9
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler-model@1.9?classifier=sources
+- pkg:maven/org.codehaus.mojo.appassembler/appassembler-model@1.10
+- pkg:maven/org.codehaus.mojo.appassembler/appassembler-model@1.10?classifier=sources

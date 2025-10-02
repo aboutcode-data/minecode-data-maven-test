@@ -36,3 +36,6 @@
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-cxf-secure-soap@2.0.37?classifier=sources
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-cxf-secure-soap@2.0.36?classifier=sources
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-cxf-secure-soap@2.0.35?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-cxf-secure-soap@2.0.41?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-cxf-secure-soap@2.0.40.1?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-cxf-secure-soap@2.0.40?classifier=sources

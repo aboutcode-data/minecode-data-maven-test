@@ -8,3 +8,5 @@
 - pkg:maven/nu.validator/validator@15.3.10?classifier=sources
 - pkg:maven/nu.validator/validator@15.3.28
 - pkg:maven/nu.validator/validator@15.3.28?classifier=sources
+- pkg:maven/nu.validator/validator@15.4.12
+- pkg:maven/nu.validator/validator@15.4.12?classifier=sources
