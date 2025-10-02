@@ -44,3 +44,5 @@
 - pkg:maven/com.google.guava/guava@13.0?classifier=sources
 - pkg:maven/com.google.guava/guava@13.0.1
 - pkg:maven/com.google.guava/guava@13.0.1?classifier=sources
+- pkg:maven/com.google.guava/guava@14.0-rc1
+- pkg:maven/com.google.guava/guava@14.0-rc1?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/com.hazelcast/hazelcast-spring@2.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-spring@2.4
 - pkg:maven/com.hazelcast/hazelcast-spring@2.4?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-spring@2.4.1
+- pkg:maven/com.hazelcast/hazelcast-spring@2.4.1?classifier=sources
