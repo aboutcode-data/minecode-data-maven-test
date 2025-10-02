@@ -46,3 +46,7 @@
 - pkg:maven/org.jboss.aesh/aesh-extensions@0.56.1?classifier=sources
 - pkg:maven/org.jboss.aesh/aesh-extensions@0.57
 - pkg:maven/org.jboss.aesh/aesh-extensions@0.57?classifier=sources
+- pkg:maven/org.jboss.aesh/aesh-extensions@0.59
+- pkg:maven/org.jboss.aesh/aesh-extensions@0.59?classifier=sources
+- pkg:maven/org.jboss.aesh/aesh-extensions@0.58
+- pkg:maven/org.jboss.aesh/aesh-extensions@0.58?classifier=sources
