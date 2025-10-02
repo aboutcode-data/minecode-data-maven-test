@@ -1,2 +1,4 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-archetype-simple-analysis@1.0
 - pkg:maven/org.grouplens.lenskit/lenskit-archetype-simple-analysis@1.0?classifier=sources
+- pkg:maven/org.grouplens.lenskit/lenskit-archetype-simple-analysis@1.0.1
+- pkg:maven/org.grouplens.lenskit/lenskit-archetype-simple-analysis@1.0.1?classifier=sources

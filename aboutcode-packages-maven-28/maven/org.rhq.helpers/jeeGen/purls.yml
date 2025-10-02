@@ -2,3 +2,5 @@
 - pkg:maven/org.rhq.helpers/jeeGen@4.4.0?classifier=sources
 - pkg:maven/org.rhq.helpers/jeeGen@4.3.0
 - pkg:maven/org.rhq.helpers/jeeGen@4.3.0?classifier=sources
+- pkg:maven/org.rhq.helpers/jeeGen@4.5.1
+- pkg:maven/org.rhq.helpers/jeeGen@4.5.1?classifier=sources

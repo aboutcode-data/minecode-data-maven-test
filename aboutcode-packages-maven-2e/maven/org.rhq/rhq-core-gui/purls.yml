@@ -26,3 +26,5 @@
 - pkg:maven/org.rhq/rhq-core-gui@1.2.0.GA
 - pkg:maven/org.rhq/rhq-core-gui@1.2.0.Beta1
 - pkg:maven/org.rhq/rhq-core-gui@1.1.2.GA
+- pkg:maven/org.rhq/rhq-core-gui@4.5.1
+- pkg:maven/org.rhq/rhq-core-gui@4.5.1?classifier=sources

@@ -135,3 +135,5 @@
 - pkg:maven/org.codehaus.enunciate/maven-enunciate-plugin@1.26-RC3?classifier=sources
 - pkg:maven/org.codehaus.enunciate/maven-enunciate-plugin@1.26
 - pkg:maven/org.codehaus.enunciate/maven-enunciate-plugin@1.26?classifier=sources
+- pkg:maven/org.codehaus.enunciate/maven-enunciate-plugin@1.26.1
+- pkg:maven/org.codehaus.enunciate/maven-enunciate-plugin@1.26.1?classifier=sources

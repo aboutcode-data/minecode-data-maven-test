@@ -19,3 +19,5 @@
 - pkg:maven/org.rhq/rhq-content_http@3.0.0.B05?type=war
 - pkg:maven/org.rhq/rhq-content_http@3.0.0.B04?type=war
 - pkg:maven/org.rhq/rhq-content_http@3.0.0?type=war
+- pkg:maven/org.rhq/rhq-content_http@4.5.1?type=war
+- pkg:maven/org.rhq/rhq-content_http@4.5.1?classifier=sources

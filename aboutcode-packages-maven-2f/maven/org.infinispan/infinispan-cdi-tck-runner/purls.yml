@@ -50,3 +50,5 @@
 - pkg:maven/org.infinispan/infinispan-cdi-tck-runner@5.1.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cdi-tck-runner@5.2.0.Alpha4
 - pkg:maven/org.infinispan/infinispan-cdi-tck-runner@5.2.0.Alpha4?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cdi-tck-runner@5.2.0.Beta1
+- pkg:maven/org.infinispan/infinispan-cdi-tck-runner@5.2.0.Beta1?classifier=sources

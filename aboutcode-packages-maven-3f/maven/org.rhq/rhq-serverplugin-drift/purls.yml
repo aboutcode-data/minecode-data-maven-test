@@ -4,3 +4,5 @@
 - pkg:maven/org.rhq/rhq-serverplugin-drift@4.3.0?classifier=sources
 - pkg:maven/org.rhq/rhq-serverplugin-drift@4.2.0
 - pkg:maven/org.rhq/rhq-serverplugin-drift@4.2.0?classifier=sources
+- pkg:maven/org.rhq/rhq-serverplugin-drift@4.5.1
+- pkg:maven/org.rhq/rhq-serverplugin-drift@4.5.1?classifier=sources

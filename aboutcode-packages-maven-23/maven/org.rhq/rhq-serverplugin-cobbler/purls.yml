@@ -19,3 +19,5 @@
 - pkg:maven/org.rhq/rhq-serverplugin-cobbler@3.0.0.B05
 - pkg:maven/org.rhq/rhq-serverplugin-cobbler@3.0.0.B04
 - pkg:maven/org.rhq/rhq-serverplugin-cobbler@3.0.0
+- pkg:maven/org.rhq/rhq-serverplugin-cobbler@4.5.1
+- pkg:maven/org.rhq/rhq-serverplugin-cobbler@4.5.1?classifier=sources

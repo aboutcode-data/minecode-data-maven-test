@@ -28,3 +28,5 @@
 - pkg:maven/org.rhq/rhq-core-util@1.1.2.GA
 - pkg:maven/org.rhq/rhq-core-util@1.1.0.GA
 - pkg:maven/org.rhq/rhq-core-util@1.0.0.GA
+- pkg:maven/org.rhq/rhq-core-util@4.5.1
+- pkg:maven/org.rhq/rhq-core-util@4.5.1?classifier=sources

@@ -130,3 +130,5 @@
 - pkg:maven/org.hornetq/hornetq-core@2.2.19.Final-build2?classifier=sources
 - pkg:maven/org.hornetq/hornetq-core@2.2.21.Final
 - pkg:maven/org.hornetq/hornetq-core@2.2.21.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-core@2.3.0.BETA1
+- pkg:maven/org.hornetq/hornetq-core@2.3.0.BETA1?classifier=sources

@@ -13,3 +13,5 @@
 - pkg:maven/org.rhq/rhq-cron-plugin@3.0.0.EmbJopr2
 - pkg:maven/org.rhq/rhq-cron-plugin@3.0.0.B06
 - pkg:maven/org.rhq/rhq-cron-plugin@3.0.0
+- pkg:maven/org.rhq/rhq-cron-plugin@4.5.1
+- pkg:maven/org.rhq/rhq-cron-plugin@4.5.1?classifier=sources
