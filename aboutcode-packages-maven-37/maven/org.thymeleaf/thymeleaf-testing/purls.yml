@@ -34,3 +34,5 @@
 - pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.6?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-testing@2.1.2.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf-testing@2.1.2.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.8
+- pkg:maven/org.thymeleaf/thymeleaf-testing@2.0.8?classifier=sources

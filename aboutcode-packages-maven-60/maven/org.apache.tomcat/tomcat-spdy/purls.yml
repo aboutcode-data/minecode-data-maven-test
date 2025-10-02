@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.0-RC3?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.0-RC5
 - pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.0-RC5?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.0-RC10
+- pkg:maven/org.apache.tomcat/tomcat-spdy@8.0.0-RC10?classifier=sources
