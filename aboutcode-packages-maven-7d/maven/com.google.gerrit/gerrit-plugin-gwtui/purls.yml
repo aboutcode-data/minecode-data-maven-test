@@ -40,3 +40,7 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.11.4?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.10.7
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.10.7?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.12-rc0
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.12-rc0?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.11.5
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.11.5?classifier=sources

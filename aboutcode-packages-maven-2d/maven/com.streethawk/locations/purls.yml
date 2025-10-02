@@ -10,3 +10,5 @@
 - pkg:maven/com.streethawk/locations@1.7.8?classifier=sources
 - pkg:maven/com.streethawk/locations@1.7.10?type=aar
 - pkg:maven/com.streethawk/locations@1.7.10?classifier=sources
+- pkg:maven/com.streethawk/locations@1.7.12?type=aar
+- pkg:maven/com.streethawk/locations@1.7.12?classifier=sources

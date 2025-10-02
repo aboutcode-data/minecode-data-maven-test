@@ -72,3 +72,5 @@
 - pkg:maven/com.github.jknack/handlebars@2.3.2?classifier=sources
 - pkg:maven/com.github.jknack/handlebars@3.0.0
 - pkg:maven/com.github.jknack/handlebars@3.0.0?classifier=sources
+- pkg:maven/com.github.jknack/handlebars@4.0.0
+- pkg:maven/com.github.jknack/handlebars@4.0.0?classifier=sources
