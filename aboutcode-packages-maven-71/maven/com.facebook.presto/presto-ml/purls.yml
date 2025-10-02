@@ -22,3 +22,4 @@
 - pkg:maven/com.facebook.presto/presto-ml@0.90?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.92?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.91?classifier=sources
+- pkg:maven/com.facebook.presto/presto-ml@0.93?classifier=sources

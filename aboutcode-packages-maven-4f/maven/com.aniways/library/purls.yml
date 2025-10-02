@@ -1,2 +1,4 @@
 - pkg:maven/com.aniways/library@1.0?type=aar
 - pkg:maven/com.aniways/library@1.0?classifier=sources
+- pkg:maven/com.aniways/library@2.3.05?type=aar
+- pkg:maven/com.aniways/library@2.3.05?classifier=sources
