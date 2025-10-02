@@ -63,3 +63,5 @@
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.3.3?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.4
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.4?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.4.1
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.4.1?classifier=sources

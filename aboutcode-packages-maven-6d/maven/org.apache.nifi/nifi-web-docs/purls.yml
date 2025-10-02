@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.nifi/nifi-web-docs@0.0.1-incubating?type=war
 - pkg:maven/org.apache.nifi/nifi-web-docs@0.0.1-incubating?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-web-docs@0.0.2-incubating?type=war
+- pkg:maven/org.apache.nifi/nifi-web-docs@0.0.2-incubating?classifier=sources

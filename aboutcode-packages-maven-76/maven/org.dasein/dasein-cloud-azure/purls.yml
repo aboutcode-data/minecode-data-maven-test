@@ -102,3 +102,7 @@
 - pkg:maven/org.dasein/dasein-cloud-azure@2015.03.1?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-azure@2013.07.13
 - pkg:maven/org.dasein/dasein-cloud-azure@2013.07.13?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-azure@2015.03.3
+- pkg:maven/org.dasein/dasein-cloud-azure@2015.03.3?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-azure@2014.11.20
+- pkg:maven/org.dasein/dasein-cloud-azure@2014.11.20?classifier=sources

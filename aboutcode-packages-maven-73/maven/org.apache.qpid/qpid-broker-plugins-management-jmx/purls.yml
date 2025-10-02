@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-management-jmx@0.28?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-management-jmx@0.30
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-management-jmx@0.30?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-management-jmx@0.32
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-management-jmx@0.32?classifier=sources
