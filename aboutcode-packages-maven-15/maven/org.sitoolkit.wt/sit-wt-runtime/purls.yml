@@ -1,0 +1,4 @@
+- pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.9
+- pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.9?classifier=sources
+- pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.10
+- pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.10?classifier=sources
