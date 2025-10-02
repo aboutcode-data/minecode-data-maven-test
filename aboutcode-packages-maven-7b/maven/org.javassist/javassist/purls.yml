@@ -18,3 +18,5 @@
 - pkg:maven/org.javassist/javassist@3.18.2-GA?classifier=sources
 - pkg:maven/org.javassist/javassist@3.19.0-GA
 - pkg:maven/org.javassist/javassist@3.19.0-GA?classifier=sources
+- pkg:maven/org.javassist/javassist@3.20.0-GA
+- pkg:maven/org.javassist/javassist@3.20.0-GA?classifier=sources

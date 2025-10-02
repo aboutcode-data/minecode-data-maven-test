@@ -20,3 +20,7 @@
 - pkg:maven/org.javalite/activeweb-testing@1.10?classifier=sources
 - pkg:maven/org.javalite/activeweb-testing@1.11
 - pkg:maven/org.javalite/activeweb-testing@1.11?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@1.13
+- pkg:maven/org.javalite/activeweb-testing@1.13?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@1.12
+- pkg:maven/org.javalite/activeweb-testing@1.12?classifier=sources
