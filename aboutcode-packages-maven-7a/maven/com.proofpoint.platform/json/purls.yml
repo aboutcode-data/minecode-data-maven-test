@@ -98,3 +98,5 @@
 - pkg:maven/com.proofpoint.platform/json@0.93?classifier=sources
 - pkg:maven/com.proofpoint.platform/json@0.94
 - pkg:maven/com.proofpoint.platform/json@0.94?classifier=sources
+- pkg:maven/com.proofpoint.platform/json@0.95
+- pkg:maven/com.proofpoint.platform/json@0.95?classifier=sources

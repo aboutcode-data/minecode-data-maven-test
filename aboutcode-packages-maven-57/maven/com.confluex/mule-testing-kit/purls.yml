@@ -1,2 +1,4 @@
 - pkg:maven/com.confluex/mule-testing-kit@1.0.0
 - pkg:maven/com.confluex/mule-testing-kit@1.0.0?classifier=sources
+- pkg:maven/com.confluex/mule-testing-kit@3.5.x-1.1.0
+- pkg:maven/com.confluex/mule-testing-kit@3.5.x-1.1.0?classifier=sources

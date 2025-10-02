@@ -32,3 +32,5 @@
 - pkg:maven/com.rexsl/rexsl@0.4.10?classifier=sources
 - pkg:maven/com.rexsl/rexsl@0.4.11?classifier=sources
 - pkg:maven/com.rexsl/rexsl@0.4.12?classifier=sources
+- pkg:maven/com.rexsl/rexsl@1.0
+- pkg:maven/com.rexsl/rexsl@1.0?classifier=sources
