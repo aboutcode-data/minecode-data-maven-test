@@ -10,3 +10,5 @@
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.109?classifier=sources
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.110
 - pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.110?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.111
+- pkg:maven/org.mongodb.morphia/morphia-logging-slf4j@0.111?classifier=sources

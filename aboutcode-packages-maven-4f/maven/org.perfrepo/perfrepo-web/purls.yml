@@ -1,0 +1,2 @@
+- pkg:maven/org.perfrepo/perfrepo-web@1.1?type=war
+- pkg:maven/org.perfrepo/perfrepo-web@1.1?classifier=sources

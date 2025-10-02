@@ -56,3 +56,5 @@
 - pkg:maven/org.uberfire/uberfire-client-webapp@0.5.2.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-webapp@0.5.1.Final?type=war
 - pkg:maven/org.uberfire/uberfire-client-webapp@0.5.1.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@0.5.3.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@0.5.3.Final?classifier=sources

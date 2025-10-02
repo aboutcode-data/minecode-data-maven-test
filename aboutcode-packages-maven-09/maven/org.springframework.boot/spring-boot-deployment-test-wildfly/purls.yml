@@ -4,3 +4,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.2.RELEASE?type=war
 - pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.3.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wildfly@1.2.3.RELEASE?classifier=sources

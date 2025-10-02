@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@2.2.0?type=war
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@2.2.0?classifier=sources

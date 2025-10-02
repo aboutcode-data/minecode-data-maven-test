@@ -102,3 +102,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-samples@1.6.3?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-samples@1.7
 - pkg:maven/org.openjdk.jmh/jmh-samples@1.7?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-samples@1.7.1
+- pkg:maven/org.openjdk.jmh/jmh-samples@1.7.1?classifier=sources

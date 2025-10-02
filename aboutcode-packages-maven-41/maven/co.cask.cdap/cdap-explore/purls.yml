@@ -12,3 +12,7 @@
 - pkg:maven/co.cask.cdap/cdap-explore@2.7.1?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-explore@2.7.0
 - pkg:maven/co.cask.cdap/cdap-explore@2.7.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-explore@2.8.0
+- pkg:maven/co.cask.cdap/cdap-explore@2.8.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-explore@2.6.2
+- pkg:maven/co.cask.cdap/cdap-explore@2.6.2?classifier=sources
