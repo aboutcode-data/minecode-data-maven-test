@@ -36,3 +36,5 @@
 - pkg:maven/com.github.testpress/exam@1.0.17?classifier=sources
 - pkg:maven/com.github.testpress/exam@1.0.16?type=aar
 - pkg:maven/com.github.testpress/exam@1.0.16?classifier=sources
+- pkg:maven/com.github.testpress/exam@1.0.20?type=aar
+- pkg:maven/com.github.testpress/exam@1.0.20?classifier=sources

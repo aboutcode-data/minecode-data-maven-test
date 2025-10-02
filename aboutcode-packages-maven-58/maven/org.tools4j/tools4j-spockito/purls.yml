@@ -1,2 +1,4 @@
 - pkg:maven/org.tools4j/tools4j-spockito@1.0.0
 - pkg:maven/org.tools4j/tools4j-spockito@1.0.0?classifier=sources
+- pkg:maven/org.tools4j/tools4j-spockito@1.1
+- pkg:maven/org.tools4j/tools4j-spockito@1.1?classifier=sources

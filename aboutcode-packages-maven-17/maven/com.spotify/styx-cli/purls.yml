@@ -110,3 +110,5 @@
 - pkg:maven/com.spotify/styx-cli@0.2.39?classifier=sources
 - pkg:maven/com.spotify/styx-cli@0.2.38
 - pkg:maven/com.spotify/styx-cli@0.2.38?classifier=sources
+- pkg:maven/com.spotify/styx-cli@1.0.1
+- pkg:maven/com.spotify/styx-cli@1.0.1?classifier=sources
