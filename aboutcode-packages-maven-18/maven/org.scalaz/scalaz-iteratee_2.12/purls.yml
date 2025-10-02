@@ -30,3 +30,5 @@
 - pkg:maven/org.scalaz/scalaz-iteratee_2.12@7.1.13?classifier=sources
 - pkg:maven/org.scalaz/scalaz-iteratee_2.12@7.2.12
 - pkg:maven/org.scalaz/scalaz-iteratee_2.12@7.2.12?classifier=sources
+- pkg:maven/org.scalaz/scalaz-iteratee_2.12@7.3.0-M12
+- pkg:maven/org.scalaz/scalaz-iteratee_2.12@7.3.0-M12?classifier=sources

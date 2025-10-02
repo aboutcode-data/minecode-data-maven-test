@@ -8,3 +8,5 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-tests-library@1.6.0.533?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-tests-library@5.9.0.1001
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-tests-library@5.9.0.1001?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-tests-library@5.10.0.1344
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-tests-library@5.10.0.1344?classifier=sources
