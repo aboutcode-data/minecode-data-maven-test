@@ -16,3 +16,5 @@
 - pkg:maven/com.omertron/themoviedbapi@3.11?classifier=sources
 - pkg:maven/com.omertron/themoviedbapi@4.0
 - pkg:maven/com.omertron/themoviedbapi@4.0?classifier=sources
+- pkg:maven/com.omertron/themoviedbapi@4.1
+- pkg:maven/com.omertron/themoviedbapi@4.1?classifier=sources

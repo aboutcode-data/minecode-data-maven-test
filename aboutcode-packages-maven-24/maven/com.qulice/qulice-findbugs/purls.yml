@@ -72,3 +72,5 @@
 - pkg:maven/com.qulice/qulice-findbugs@0.14.1?classifier=sources
 - pkg:maven/com.qulice/qulice-findbugs@0.14.2
 - pkg:maven/com.qulice/qulice-findbugs@0.14.2?classifier=sources
+- pkg:maven/com.qulice/qulice-findbugs@0.15
+- pkg:maven/com.qulice/qulice-findbugs@0.15?classifier=sources
