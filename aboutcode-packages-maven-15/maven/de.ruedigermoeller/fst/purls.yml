@@ -34,3 +34,5 @@
 - pkg:maven/de.ruedigermoeller/fst@1.57?classifier=sources
 - pkg:maven/de.ruedigermoeller/fst@1.56
 - pkg:maven/de.ruedigermoeller/fst@1.56?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.00
+- pkg:maven/de.ruedigermoeller/fst@2.00?classifier=sources

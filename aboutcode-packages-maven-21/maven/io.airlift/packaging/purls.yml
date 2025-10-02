@@ -54,3 +54,5 @@
 - pkg:maven/io.airlift/packaging@0.91?classifier=sources
 - pkg:maven/io.airlift/packaging@0.92
 - pkg:maven/io.airlift/packaging@0.92?classifier=sources
+- pkg:maven/io.airlift/packaging@0.93
+- pkg:maven/io.airlift/packaging@0.93?classifier=sources

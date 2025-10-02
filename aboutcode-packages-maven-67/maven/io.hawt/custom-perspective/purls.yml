@@ -40,3 +40,5 @@
 - pkg:maven/io.hawt/custom-perspective@1.4.16?classifier=sources
 - pkg:maven/io.hawt/custom-perspective@1.4.15?type=war
 - pkg:maven/io.hawt/custom-perspective@1.4.15?classifier=sources
+- pkg:maven/io.hawt/custom-perspective@1.4.17?type=war
+- pkg:maven/io.hawt/custom-perspective@1.4.17?classifier=sources

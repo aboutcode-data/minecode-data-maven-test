@@ -24,3 +24,5 @@
 - pkg:maven/com.netflix.karyon/karyon-admin@2.1.00-RC2?classifier=sources
 - pkg:maven/com.netflix.karyon/karyon-admin@1.0.25
 - pkg:maven/com.netflix.karyon/karyon-admin@1.0.25?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon-admin@1.0.26
+- pkg:maven/com.netflix.karyon/karyon-admin@1.0.26?classifier=sources
