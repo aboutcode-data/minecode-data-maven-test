@@ -14,3 +14,5 @@
 - pkg:maven/org.glassfish.jersey.test-framework.maven/custom-enforcer-rules@2.24?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.maven/custom-enforcer-rules@2.22.3
 - pkg:maven/org.glassfish.jersey.test-framework.maven/custom-enforcer-rules@2.22.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.maven/custom-enforcer-rules@2.24.1
+- pkg:maven/org.glassfish.jersey.test-framework.maven/custom-enforcer-rules@2.24.1?classifier=sources

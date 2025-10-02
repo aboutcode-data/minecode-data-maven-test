@@ -130,3 +130,5 @@
 - pkg:maven/org.glassfish.jersey.core/jersey-client@2.24?classifier=sources
 - pkg:maven/org.glassfish.jersey.core/jersey-client@2.22.3
 - pkg:maven/org.glassfish.jersey.core/jersey-client@2.22.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.core/jersey-client@2.24.1
+- pkg:maven/org.glassfish.jersey.core/jersey-client@2.24.1?classifier=sources
