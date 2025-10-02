@@ -20,3 +20,7 @@
 - pkg:maven/li.rudin.core/core-crypto@1.8?classifier=sources
 - pkg:maven/li.rudin.core/core-crypto@1.9
 - pkg:maven/li.rudin.core/core-crypto@1.9?classifier=sources
+- pkg:maven/li.rudin.core/core-crypto@2.0
+- pkg:maven/li.rudin.core/core-crypto@2.0?classifier=sources
+- pkg:maven/li.rudin.core/core-crypto@1.10
+- pkg:maven/li.rudin.core/core-crypto@1.10?classifier=sources

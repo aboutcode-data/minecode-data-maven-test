@@ -4,3 +4,5 @@
 - pkg:maven/io.kickflip/sdk@0.9.9?classifier=sources
 - pkg:maven/io.kickflip/sdk@0.9.10?type=aar
 - pkg:maven/io.kickflip/sdk@0.9.10?classifier=sources
+- pkg:maven/io.kickflip/sdk@0.9.11?type=aar
+- pkg:maven/io.kickflip/sdk@0.9.11?classifier=sources

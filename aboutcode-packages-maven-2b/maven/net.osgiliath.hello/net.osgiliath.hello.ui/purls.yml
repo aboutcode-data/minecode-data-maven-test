@@ -4,3 +4,5 @@
 - pkg:maven/net.osgiliath.hello/net.osgiliath.hello.ui@0.0.3?classifier=sources
 - pkg:maven/net.osgiliath.hello/net.osgiliath.hello.ui@0.0.4?type=war
 - pkg:maven/net.osgiliath.hello/net.osgiliath.hello.ui@0.0.4?classifier=sources
+- pkg:maven/net.osgiliath.hello/net.osgiliath.hello.ui@0.0.5?type=war
+- pkg:maven/net.osgiliath.hello/net.osgiliath.hello.ui@0.0.5?classifier=sources
