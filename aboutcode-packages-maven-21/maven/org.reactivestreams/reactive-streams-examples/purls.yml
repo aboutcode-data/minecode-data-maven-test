@@ -10,3 +10,5 @@
 - pkg:maven/org.reactivestreams/reactive-streams-examples@1.0.0?classifier=sources
 - pkg:maven/org.reactivestreams/reactive-streams-examples@1.0.0.final
 - pkg:maven/org.reactivestreams/reactive-streams-examples@1.0.0.final?classifier=sources
+- pkg:maven/org.reactivestreams/reactive-streams-examples@1.0.1-RC1
+- pkg:maven/org.reactivestreams/reactive-streams-examples@1.0.1-RC1?classifier=sources

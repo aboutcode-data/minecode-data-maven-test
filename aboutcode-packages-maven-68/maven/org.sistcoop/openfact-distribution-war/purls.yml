@@ -30,3 +30,5 @@
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC24?classifier=sources
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC23?type=war
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC23?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC26?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC26?classifier=sources

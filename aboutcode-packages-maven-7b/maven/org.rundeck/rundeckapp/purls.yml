@@ -84,3 +84,5 @@
 - pkg:maven/org.rundeck/rundeckapp@2.8.0?classifier=sources
 - pkg:maven/org.rundeck/rundeckapp@2.8.2?type=war
 - pkg:maven/org.rundeck/rundeckapp@2.8.2?classifier=sources
+- pkg:maven/org.rundeck/rundeckapp@2.8.3?type=war
+- pkg:maven/org.rundeck/rundeckapp@2.8.3?classifier=sources
