@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.9.1.v20130814-1242?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.10.0.v20140606-1445
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.10.0.v20140606-1445?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.10.100.v20150521-1310
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.10.100.v20150521-1310?classifier=sources

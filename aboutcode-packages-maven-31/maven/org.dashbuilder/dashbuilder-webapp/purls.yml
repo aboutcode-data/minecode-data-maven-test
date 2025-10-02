@@ -24,3 +24,5 @@
 - pkg:maven/org.dashbuilder/dashbuilder-webapp@0.1.1.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-webapp@0.1.0.Final?type=war
 - pkg:maven/org.dashbuilder/dashbuilder-webapp@0.1.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-webapp@0.3.0.Beta1?type=war
+- pkg:maven/org.dashbuilder/dashbuilder-webapp@0.3.0.Beta1?classifier=sources

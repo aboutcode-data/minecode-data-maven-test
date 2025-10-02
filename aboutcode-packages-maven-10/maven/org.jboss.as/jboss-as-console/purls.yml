@@ -210,3 +210,11 @@
 - pkg:maven/org.jboss.as/jboss-as-console@2.6.9.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.6.10.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.6.10.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.1.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.1.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.0.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.0.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.0.Alpha1?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.0.Alpha0?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.7.0.Alpha0?classifier=sources
