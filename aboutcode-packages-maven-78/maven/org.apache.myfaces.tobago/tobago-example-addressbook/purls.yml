@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@3.0.0-alpha-3?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@3.0.0-alpha-4?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@3.0.0-alpha-4?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@3.0.0-alpha-5?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@3.0.0-alpha-5?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.keen/keen-client-java-core@3.0.0?classifier=sources
 - pkg:maven/io.keen/keen-client-java-core@4.0.0
 - pkg:maven/io.keen/keen-client-java-core@4.0.0?classifier=sources
+- pkg:maven/io.keen/keen-client-java-core@5.0.0
+- pkg:maven/io.keen/keen-client-java-core@5.0.0?classifier=sources

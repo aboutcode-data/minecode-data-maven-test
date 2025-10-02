@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.nifi/nifi-spark-receiver@0.7.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-spark-receiver@1.0.0-BETA
 - pkg:maven/org.apache.nifi/nifi-spark-receiver@1.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-spark-receiver@1.0.0
+- pkg:maven/org.apache.nifi/nifi-spark-receiver@1.0.0?classifier=sources

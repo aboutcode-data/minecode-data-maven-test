@@ -66,3 +66,5 @@
 - pkg:maven/ly.kite/kite-print-sdk@5.3.3?classifier=sources
 - pkg:maven/ly.kite/kite-print-sdk@5.3.1?type=aar
 - pkg:maven/ly.kite/kite-print-sdk@5.3.1?classifier=sources
+- pkg:maven/ly.kite/kite-print-sdk@5.4.0?type=aar
+- pkg:maven/ly.kite/kite-print-sdk@5.4.0?classifier=sources

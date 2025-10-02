@@ -32,3 +32,7 @@
 - pkg:maven/io.advantageous.reakt/reakt@2.8.17?classifier=sources
 - pkg:maven/io.advantageous.reakt/reakt@2.8.16
 - pkg:maven/io.advantageous.reakt/reakt@2.8.16?classifier=sources
+- pkg:maven/io.advantageous.reakt/reakt@3.0.4.RELEASE
+- pkg:maven/io.advantageous.reakt/reakt@3.0.4.RELEASE?classifier=sources
+- pkg:maven/io.advantageous.reakt/reakt@3.0.4
+- pkg:maven/io.advantageous.reakt/reakt@3.0.4?classifier=sources
