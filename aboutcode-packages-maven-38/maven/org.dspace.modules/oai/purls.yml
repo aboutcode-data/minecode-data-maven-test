@@ -31,3 +31,6 @@
 - pkg:maven/org.dspace.modules/oai@3.4?type=war
 - pkg:maven/org.dspace.modules/oai@5.2?type=war
 - pkg:maven/org.dspace.modules/oai@5.3?type=war
+- pkg:maven/org.dspace.modules/oai@5.4?type=war
+- pkg:maven/org.dspace.modules/oai@4.4?type=war
+- pkg:maven/org.dspace.modules/oai@3.5?type=war

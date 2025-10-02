@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@7.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@7.1.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@7.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.21.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.21.0?classifier=sources

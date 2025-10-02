@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.kylin/kylin-server@1.0-incubating?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-server@1.1-incubating?type=war
 - pkg:maven/org.apache.kylin/kylin-server@1.1-incubating?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-server@1.1.1-incubating?type=war
+- pkg:maven/org.apache.kylin/kylin-server@1.1.1-incubating?classifier=sources

@@ -18,3 +18,6 @@
 - pkg:maven/org.dspace.modules/solr@3.4?type=war
 - pkg:maven/org.dspace.modules/solr@5.2?type=war
 - pkg:maven/org.dspace.modules/solr@5.3?type=war
+- pkg:maven/org.dspace.modules/solr@5.4?type=war
+- pkg:maven/org.dspace.modules/solr@4.4?type=war
+- pkg:maven/org.dspace.modules/solr@3.5?type=war
