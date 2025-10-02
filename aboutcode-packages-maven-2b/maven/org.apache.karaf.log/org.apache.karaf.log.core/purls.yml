@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.karaf.log/org.apache.karaf.log.core@3.0.6?classifier=sources
 - pkg:maven/org.apache.karaf.log/org.apache.karaf.log.core@4.0.5
 - pkg:maven/org.apache.karaf.log/org.apache.karaf.log.core@4.0.5?classifier=sources
+- pkg:maven/org.apache.karaf.log/org.apache.karaf.log.core@3.0.7
+- pkg:maven/org.apache.karaf.log/org.apache.karaf.log.core@3.0.7?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.curator/curator-x-rpc@3.1.0?classifier=sources
 - pkg:maven/org.apache.curator/curator-x-rpc@2.10.0
 - pkg:maven/org.apache.curator/curator-x-rpc@2.10.0?classifier=sources
+- pkg:maven/org.apache.curator/curator-x-rpc@3.2.0
+- pkg:maven/org.apache.curator/curator-x-rpc@3.2.0?classifier=sources
+- pkg:maven/org.apache.curator/curator-x-rpc@2.11.0
+- pkg:maven/org.apache.curator/curator-x-rpc@2.11.0?classifier=sources

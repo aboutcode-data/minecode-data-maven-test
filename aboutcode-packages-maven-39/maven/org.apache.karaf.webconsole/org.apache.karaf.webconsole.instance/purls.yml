@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.instance@3.0.6?classifier=sources
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.instance@4.0.5
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.instance@4.0.5?classifier=sources
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.instance@3.0.7
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.instance@3.0.7?classifier=sources

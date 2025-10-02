@@ -36,3 +36,7 @@
 - pkg:maven/org.daisy.pipeline/clientlib-java@4.6.0?classifier=sources
 - pkg:maven/org.daisy.pipeline/clientlib-java@4.5.4
 - pkg:maven/org.daisy.pipeline/clientlib-java@4.5.4?classifier=sources
+- pkg:maven/org.daisy.pipeline/clientlib-java@4.8.0
+- pkg:maven/org.daisy.pipeline/clientlib-java@4.8.0?classifier=sources
+- pkg:maven/org.daisy.pipeline/clientlib-java@4.7.0
+- pkg:maven/org.daisy.pipeline/clientlib-java@4.7.0?classifier=sources
