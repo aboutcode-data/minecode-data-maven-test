@@ -8,3 +8,5 @@
 - pkg:maven/de.leanovate.router/router-base@0.7?classifier=sources
 - pkg:maven/de.leanovate.router/router-base@0.6
 - pkg:maven/de.leanovate.router/router-base@0.6?classifier=sources
+- pkg:maven/de.leanovate.router/router-base@0.10
+- pkg:maven/de.leanovate.router/router-base@0.10?classifier=sources
