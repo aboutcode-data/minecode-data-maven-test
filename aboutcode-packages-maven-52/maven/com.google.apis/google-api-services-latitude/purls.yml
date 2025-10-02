@@ -40,3 +40,5 @@
 - pkg:maven/com.google.apis/google-api-services-latitude@v1-rev20-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-latitude@v1-rev20-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-latitude@v1-rev20-1.13.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-latitude@v1-rev20-1.16.0-rc
+- pkg:maven/com.google.apis/google-api-services-latitude@v1-rev20-1.16.0-rc?classifier=sources

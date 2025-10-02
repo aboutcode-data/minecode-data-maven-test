@@ -5,3 +5,5 @@
 - pkg:maven/ch.ethz.ganymed/ganymed-ssh2@build208
 - pkg:maven/ch.ethz.ganymed/ganymed-ssh2@build207
 - pkg:maven/ch.ethz.ganymed/ganymed-ssh2@build206
+- pkg:maven/ch.ethz.ganymed/ganymed-ssh2@261
+- pkg:maven/ch.ethz.ganymed/ganymed-ssh2@261?classifier=sources
