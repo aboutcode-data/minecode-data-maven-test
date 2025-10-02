@@ -102,3 +102,7 @@
 - pkg:maven/org.scalaz/scalaz-effect_2.11@7.2.12?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.11@7.3.0-M12
 - pkg:maven/org.scalaz/scalaz-effect_2.11@7.3.0-M12?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_2.11@7.3.0-M13
+- pkg:maven/org.scalaz/scalaz-effect_2.11@7.3.0-M13?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_2.11@7.2.13
+- pkg:maven/org.scalaz/scalaz-effect_2.11@7.2.13?classifier=sources

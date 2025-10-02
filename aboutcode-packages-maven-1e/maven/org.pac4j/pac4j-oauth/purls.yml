@@ -60,3 +60,5 @@
 - pkg:maven/org.pac4j/pac4j-oauth@1.9.7?classifier=sources
 - pkg:maven/org.pac4j/pac4j-oauth@2.0.0
 - pkg:maven/org.pac4j/pac4j-oauth@2.0.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-oauth@1.9.8
+- pkg:maven/org.pac4j/pac4j-oauth@1.9.8?classifier=sources
