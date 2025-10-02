@@ -128,3 +128,7 @@
 - pkg:maven/org.kaazing/gateway.service.update.check@5.2.3-RC001?classifier=sources
 - pkg:maven/org.kaazing/gateway.service.update.check@5.2.2
 - pkg:maven/org.kaazing/gateway.service.update.check@5.2.2?classifier=sources
+- pkg:maven/org.kaazing/gateway.service.update.check@5.2.3-RC003
+- pkg:maven/org.kaazing/gateway.service.update.check@5.2.3-RC003?classifier=sources
+- pkg:maven/org.kaazing/gateway.service.update.check@5.2.3-RC002
+- pkg:maven/org.kaazing/gateway.service.update.check@5.2.3-RC002?classifier=sources

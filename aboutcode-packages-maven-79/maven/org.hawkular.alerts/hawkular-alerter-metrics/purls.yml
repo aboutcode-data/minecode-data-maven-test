@@ -38,3 +38,5 @@
 - pkg:maven/org.hawkular.alerts/hawkular-alerter-metrics@1.1.2.Final?classifier=sources
 - pkg:maven/org.hawkular.alerts/hawkular-alerter-metrics@1.1.3.Final?type=war
 - pkg:maven/org.hawkular.alerts/hawkular-alerter-metrics@1.1.3.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-alerter-metrics@1.1.4.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerter-metrics@1.1.4.Final?classifier=sources

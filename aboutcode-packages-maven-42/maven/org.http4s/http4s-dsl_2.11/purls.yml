@@ -116,3 +116,7 @@
 - pkg:maven/org.http4s/http4s-dsl_2.11@0.14.4a?classifier=sources
 - pkg:maven/org.http4s/http4s-dsl_2.11@0.14.4
 - pkg:maven/org.http4s/http4s-dsl_2.11@0.14.4?classifier=sources
+- pkg:maven/org.http4s/http4s-dsl_2.11@0.14.6a
+- pkg:maven/org.http4s/http4s-dsl_2.11@0.14.6a?classifier=sources
+- pkg:maven/org.http4s/http4s-dsl_2.11@0.14.6
+- pkg:maven/org.http4s/http4s-dsl_2.11@0.14.6?classifier=sources
