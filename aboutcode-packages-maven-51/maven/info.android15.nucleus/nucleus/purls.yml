@@ -2,3 +2,5 @@
 - pkg:maven/info.android15.nucleus/nucleus@0.1?classifier=sources
 - pkg:maven/info.android15.nucleus/nucleus@0.2
 - pkg:maven/info.android15.nucleus/nucleus@0.2?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@1.0.0?type=aar
+- pkg:maven/info.android15.nucleus/nucleus@1.0.0?classifier=sources
