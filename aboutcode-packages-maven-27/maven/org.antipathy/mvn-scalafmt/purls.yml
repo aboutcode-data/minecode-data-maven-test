@@ -48,3 +48,5 @@
 - pkg:maven/org.antipathy/mvn-scalafmt@0.3_0.6.0?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt@0.3_1.0.0-RC4
 - pkg:maven/org.antipathy/mvn-scalafmt@0.3_1.0.0-RC4?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt@0.3_1.0.0
+- pkg:maven/org.antipathy/mvn-scalafmt@0.3_1.0.0?classifier=sources
