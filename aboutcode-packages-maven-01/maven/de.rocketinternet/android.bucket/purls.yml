@@ -1,2 +1,4 @@
 - pkg:maven/de.rocketinternet/android.bucket@0.1?type=aar
 - pkg:maven/de.rocketinternet/android.bucket@0.1?classifier=sources
+- pkg:maven/de.rocketinternet/android.bucket@0.2?type=aar
+- pkg:maven/de.rocketinternet/android.bucket@0.2?classifier=sources

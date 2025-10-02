@@ -20,3 +20,5 @@
 - pkg:maven/com.softwaremill.reactivekafka/reactive-kafka-core_2.11@0.8.7?classifier=sources
 - pkg:maven/com.softwaremill.reactivekafka/reactive-kafka-core_2.11@0.8.6
 - pkg:maven/com.softwaremill.reactivekafka/reactive-kafka-core_2.11@0.8.6?classifier=sources
+- pkg:maven/com.softwaremill.reactivekafka/reactive-kafka-core_2.11@0.8.8
+- pkg:maven/com.softwaremill.reactivekafka/reactive-kafka-core_2.11@0.8.8?classifier=sources

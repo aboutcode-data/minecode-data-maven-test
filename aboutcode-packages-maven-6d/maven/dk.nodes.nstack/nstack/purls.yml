@@ -1,0 +1,6 @@
+- pkg:maven/dk.nodes.nstack/nstack@0.21?type=aar
+- pkg:maven/dk.nodes.nstack/nstack@0.21?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack@0.2?type=aar
+- pkg:maven/dk.nodes.nstack/nstack@0.2?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack@0.1?type=aar
+- pkg:maven/dk.nodes.nstack/nstack@0.1?classifier=sources

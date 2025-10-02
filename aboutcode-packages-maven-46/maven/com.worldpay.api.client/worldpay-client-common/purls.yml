@@ -34,3 +34,5 @@
 - pkg:maven/com.worldpay.api.client/worldpay-client-common@0.0.20?classifier=sources
 - pkg:maven/com.worldpay.api.client/worldpay-client-common@0.0.21
 - pkg:maven/com.worldpay.api.client/worldpay-client-common@0.0.21?classifier=sources
+- pkg:maven/com.worldpay.api.client/worldpay-client-common@0.1.0
+- pkg:maven/com.worldpay.api.client/worldpay-client-common@0.1.0?classifier=sources
