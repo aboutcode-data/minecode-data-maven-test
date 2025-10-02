@@ -106,3 +106,5 @@
 - pkg:maven/org.sonatype.nexus.tools/nexus-metadata-rebuild-tool@2.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.tools/nexus-metadata-rebuild-tool@2.2
 - pkg:maven/org.sonatype.nexus.tools/nexus-metadata-rebuild-tool@2.2?classifier=sources
+- pkg:maven/org.sonatype.nexus.tools/nexus-metadata-rebuild-tool@2.2.1
+- pkg:maven/org.sonatype.nexus.tools/nexus-metadata-rebuild-tool@2.2.1?classifier=sources
