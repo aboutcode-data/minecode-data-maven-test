@@ -137,3 +137,5 @@
 - pkg:maven/org.infinispan/infinispan-query@7.0.0.Alpha4?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query@7.0.0.Alpha5
 - pkg:maven/org.infinispan/infinispan-query@7.0.0.Alpha5?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query@7.0.0.Beta1
+- pkg:maven/org.infinispan/infinispan-query@7.0.0.Beta1?classifier=sources

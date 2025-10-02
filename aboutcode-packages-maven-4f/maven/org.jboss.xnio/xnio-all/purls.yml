@@ -8,3 +8,5 @@
 - pkg:maven/org.jboss.xnio/xnio-all@3.2.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.3.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.2.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.xnio/xnio-all@3.3.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.xnio/xnio-all@3.2.3.Final?classifier=source-release&type=zip

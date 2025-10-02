@@ -60,3 +60,6 @@
 - pkg:maven/org.jboss.remoting/jboss-remoting@2.2.4?classifier=sources
 - pkg:maven/org.jboss.remoting/jboss-remoting@2.2.3.SP3
 - pkg:maven/org.jboss.remoting/jboss-remoting@2.2.3.SP3?classifier=sources
+- pkg:maven/org.jboss.remoting/jboss-remoting@4.0.4.Final
+- pkg:maven/org.jboss.remoting/jboss-remoting@4.0.4.Final?classifier=sources
+- pkg:maven/org.jboss.remoting/jboss-remoting@4.0.4.Final?classifier=source-release&type=zip

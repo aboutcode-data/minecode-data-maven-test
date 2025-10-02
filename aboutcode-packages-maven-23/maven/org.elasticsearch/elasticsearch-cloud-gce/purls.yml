@@ -8,3 +8,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-gce@1.3.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-gce@2.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-gce@2.1.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-cloud-gce@2.3.0?classifier=sources
