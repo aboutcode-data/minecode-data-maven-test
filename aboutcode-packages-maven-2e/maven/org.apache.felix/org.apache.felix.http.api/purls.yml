@@ -12,3 +12,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.api@2.3.0?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.api@2.3.2
 - pkg:maven/org.apache.felix/org.apache.felix.http.api@2.3.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.api@3.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.http.api@3.0.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.api@3.0.0?classifier=source-release&type=zip

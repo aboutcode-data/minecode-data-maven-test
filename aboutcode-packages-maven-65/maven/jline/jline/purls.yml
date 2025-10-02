@@ -30,3 +30,5 @@
 - pkg:maven/jline/jline@2.12?classifier=sources
 - pkg:maven/jline/jline@2.12.1
 - pkg:maven/jline/jline@2.12.1?classifier=sources
+- pkg:maven/jline/jline@2.13
+- pkg:maven/jline/jline@2.13?classifier=sources

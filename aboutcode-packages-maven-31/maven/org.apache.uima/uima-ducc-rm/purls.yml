@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.uima/uima-ducc-rm@1.0.0?classifier=sources
 - pkg:maven/org.apache.uima/uima-ducc-rm@1.1.0
 - pkg:maven/org.apache.uima/uima-ducc-rm@1.1.0?classifier=sources
+- pkg:maven/org.apache.uima/uima-ducc-rm@2.0.0
+- pkg:maven/org.apache.uima/uima-ducc-rm@2.0.0?classifier=sources

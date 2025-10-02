@@ -1,2 +1,4 @@
 - pkg:maven/net.twibs/twibs-selenium-test-util@0.13
 - pkg:maven/net.twibs/twibs-selenium-test-util@0.13?classifier=sources
+- pkg:maven/net.twibs/twibs-selenium-test-util@0.14
+- pkg:maven/net.twibs/twibs-selenium-test-util@0.14?classifier=sources

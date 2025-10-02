@@ -1,2 +1,4 @@
 - pkg:maven/org.cfg4j/cfg4j-consul@4.0.0
 - pkg:maven/org.cfg4j/cfg4j-consul@4.0.0?classifier=sources
+- pkg:maven/org.cfg4j/cfg4j-consul@4.0.1
+- pkg:maven/org.cfg4j/cfg4j-consul@4.0.1?classifier=sources
