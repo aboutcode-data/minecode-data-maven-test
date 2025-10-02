@@ -160,3 +160,5 @@
 - pkg:maven/org.atmosphere/atmosphere-jgroups@2.0.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jgroups@1.0.18
 - pkg:maven/org.atmosphere/atmosphere-jgroups@1.0.18?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jgroups@2.1.0-RC2
+- pkg:maven/org.atmosphere/atmosphere-jgroups@2.1.0-RC2?classifier=sources

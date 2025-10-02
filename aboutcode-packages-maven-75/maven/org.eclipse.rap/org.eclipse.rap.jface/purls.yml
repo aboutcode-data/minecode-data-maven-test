@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.jface@2.2.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.jface@2.2.0-RC2
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.jface@2.2.0-RC2?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.jface@2.2.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.jface@2.2.0?classifier=sources
