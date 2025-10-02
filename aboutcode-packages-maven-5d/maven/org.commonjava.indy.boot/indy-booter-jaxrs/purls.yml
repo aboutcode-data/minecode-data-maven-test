@@ -22,3 +22,5 @@
 - pkg:maven/org.commonjava.indy.boot/indy-booter-jaxrs@0.99.1.7?classifier=sources
 - pkg:maven/org.commonjava.indy.boot/indy-booter-jaxrs@0.99.1.6
 - pkg:maven/org.commonjava.indy.boot/indy-booter-jaxrs@0.99.1.6?classifier=sources
+- pkg:maven/org.commonjava.indy.boot/indy-booter-jaxrs@1.0.0
+- pkg:maven/org.commonjava.indy.boot/indy-booter-jaxrs@1.0.0?classifier=sources

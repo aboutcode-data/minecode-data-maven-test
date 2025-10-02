@@ -12,3 +12,5 @@
 - pkg:maven/org.codehaus.janino/commons-compiler-jdk@2.7.8?classifier=sources
 - pkg:maven/org.codehaus.janino/commons-compiler-jdk@3.0.0
 - pkg:maven/org.codehaus.janino/commons-compiler-jdk@3.0.0?classifier=sources
+- pkg:maven/org.codehaus.janino/commons-compiler-jdk@3.0.1
+- pkg:maven/org.codehaus.janino/commons-compiler-jdk@3.0.1?classifier=sources

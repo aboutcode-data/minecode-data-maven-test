@@ -24,3 +24,5 @@
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.12.0?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.13.1
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.13.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.13.2
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.13.2?classifier=sources

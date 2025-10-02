@@ -120,3 +120,7 @@
 - pkg:maven/org.kaazing/gateway.transport.sse@5.2.0?classifier=sources
 - pkg:maven/org.kaazing/gateway.transport.sse@5.2.1
 - pkg:maven/org.kaazing/gateway.transport.sse@5.2.1?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport.sse@5.2.2-RC002
+- pkg:maven/org.kaazing/gateway.transport.sse@5.2.2-RC002?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport.sse@5.2.2-RC001
+- pkg:maven/org.kaazing/gateway.transport.sse@5.2.2-RC001?classifier=sources
