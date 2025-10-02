@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-lang.virtualized/scala-partest@2.10.0-M3
 - pkg:maven/org.scala-lang.virtualized/scala-partest@2.10.0-M3?classifier=sources
+- pkg:maven/org.scala-lang.virtualized/scala-partest@2.10.0-M4
+- pkg:maven/org.scala-lang.virtualized/scala-partest@2.10.0-M4?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/org.mule.tests/mule-tests-integration@3.3.0-RC3?classifier=sources
 - pkg:maven/org.mule.tests/mule-tests-integration@3.3.0-EA
 - pkg:maven/org.mule.tests/mule-tests-integration@3.3.0-EA?classifier=sources
+- pkg:maven/org.mule.tests/mule-tests-integration@3.3.0
+- pkg:maven/org.mule.tests/mule-tests-integration@3.3.0?classifier=sources

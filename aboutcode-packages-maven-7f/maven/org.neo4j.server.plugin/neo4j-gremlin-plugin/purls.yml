@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.8.M01
 - pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.8.M01?classifier=sources
+- pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.7.2
+- pkg:maven/org.neo4j.server.plugin/neo4j-gremlin-plugin@1.7.2?classifier=sources

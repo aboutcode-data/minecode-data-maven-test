@@ -18,3 +18,5 @@
 - pkg:maven/org.tmatesoft.svnkit/svnkit@1.2.0.4949
 - pkg:maven/org.tmatesoft.svnkit/svnkit@1.7.4-v1
 - pkg:maven/org.tmatesoft.svnkit/svnkit@1.7.4-v1?classifier=sources
+- pkg:maven/org.tmatesoft.svnkit/svnkit@1.7.5
+- pkg:maven/org.tmatesoft.svnkit/svnkit@1.7.5?classifier=sources

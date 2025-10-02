@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.oodt/pcs-services@0.3?type=war
 - pkg:maven/org.apache.oodt/pcs-services@0.3?classifier=sources
+- pkg:maven/org.apache.oodt/pcs-services@0.4?type=war
+- pkg:maven/org.apache.oodt/pcs-services@0.4?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/no.entitas.gradle/gradle-release-plugin@1.12?classifier=sources
 - pkg:maven/no.entitas.gradle/gradle-release-plugin@1.13
 - pkg:maven/no.entitas.gradle/gradle-release-plugin@1.13?classifier=sources
+- pkg:maven/no.entitas.gradle/gradle-release-plugin@1.14
+- pkg:maven/no.entitas.gradle/gradle-release-plugin@1.14?classifier=sources
