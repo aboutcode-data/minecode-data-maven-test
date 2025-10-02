@@ -230,3 +230,5 @@
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.3.0-RC1?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.2.4
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.2.4?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.3.0-RC2
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.3.0-RC2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-web-openwebbeans@0.8.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-web-openwebbeans@0.9.0
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-web-openwebbeans@0.9.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-web-openwebbeans@0.10.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-web-openwebbeans@0.10.0?classifier=sources
