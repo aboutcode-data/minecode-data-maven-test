@@ -48,3 +48,5 @@
 - pkg:maven/org.drools/drools-osgi-integration@6.2.0.CR4?classifier=sources
 - pkg:maven/org.drools/drools-osgi-integration@6.2.0.Final
 - pkg:maven/org.drools/drools-osgi-integration@6.2.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-osgi-integration@6.3.0.Beta2
+- pkg:maven/org.drools/drools-osgi-integration@6.3.0.Beta2?classifier=sources

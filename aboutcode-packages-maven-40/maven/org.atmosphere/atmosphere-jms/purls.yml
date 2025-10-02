@@ -181,3 +181,5 @@
 - pkg:maven/org.atmosphere/atmosphere-jms@2.3.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jms@2.3.1
 - pkg:maven/org.atmosphere/atmosphere-jms@2.3.1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jms@2.4.0-RC1
+- pkg:maven/org.atmosphere/atmosphere-jms@2.4.0-RC1?classifier=sources

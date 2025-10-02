@@ -18,3 +18,9 @@
 - pkg:maven/net.openhft/chronicle-engine@1.5.1-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-engine@1.4.2-alpha
 - pkg:maven/net.openhft/chronicle-engine@1.4.2-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.5.4-beta
+- pkg:maven/net.openhft/chronicle-engine@1.5.4-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.5.3-beta
+- pkg:maven/net.openhft/chronicle-engine@1.5.3-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.5.2-beta
+- pkg:maven/net.openhft/chronicle-engine@1.5.2-beta?classifier=sources

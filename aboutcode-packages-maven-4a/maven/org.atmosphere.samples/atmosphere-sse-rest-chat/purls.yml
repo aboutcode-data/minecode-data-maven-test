@@ -150,3 +150,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.3.2?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.3.3?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.3.3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.4.0-RC1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-sse-rest-chat@2.4.0-RC1?classifier=sources

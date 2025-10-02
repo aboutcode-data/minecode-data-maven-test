@@ -10,3 +10,7 @@
 - pkg:maven/net.openhft/chronicle-threads@1.0.5-alpha?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@1.0.4-alpha
 - pkg:maven/net.openhft/chronicle-threads@1.0.4-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@1.0.8-beta
+- pkg:maven/net.openhft/chronicle-threads@1.0.8-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@1.0.7-alpha
+- pkg:maven/net.openhft/chronicle-threads@1.0.7-alpha?classifier=sources

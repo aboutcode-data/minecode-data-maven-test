@@ -90,3 +90,5 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-server@9.2.11.v20150529?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-server@9.2.12.M0
 - pkg:maven/org.eclipse.jetty.spdy/spdy-server@9.2.12.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-server@9.2.12.v20150709
+- pkg:maven/org.eclipse.jetty.spdy/spdy-server@9.2.12.v20150709?classifier=sources

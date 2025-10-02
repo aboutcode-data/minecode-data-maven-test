@@ -20,3 +20,5 @@
 - pkg:maven/org.esigate/esigate-war@5.0?classifier=sources
 - pkg:maven/org.esigate/esigate-war@4.4?type=war
 - pkg:maven/org.esigate/esigate-war@4.4?classifier=sources
+- pkg:maven/org.esigate/esigate-war@5.1?type=war
+- pkg:maven/org.esigate/esigate-war@5.1?classifier=sources
