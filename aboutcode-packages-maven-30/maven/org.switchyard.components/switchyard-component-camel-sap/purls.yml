@@ -1,2 +1,4 @@
 - pkg:maven/org.switchyard.components/switchyard-component-camel-sap@2.0.0.Alpha1
 - pkg:maven/org.switchyard.components/switchyard-component-camel-sap@2.0.0.Alpha1?classifier=sources
+- pkg:maven/org.switchyard.components/switchyard-component-camel-sap@2.0.0.Alpha2
+- pkg:maven/org.switchyard.components/switchyard-component-camel-sap@2.0.0.Alpha2?classifier=sources
