@@ -135,3 +135,5 @@
 - pkg:maven/org.jruby/jruby-complete@1.7.21?classifier=sources
 - pkg:maven/org.jruby/jruby-complete@9.0.0.0
 - pkg:maven/org.jruby/jruby-complete@9.0.0.0?classifier=sources
+- pkg:maven/org.jruby/jruby-complete@1.7.22
+- pkg:maven/org.jruby/jruby-complete@1.7.22?classifier=sources
