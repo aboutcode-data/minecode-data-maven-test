@@ -32,3 +32,5 @@
 - pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-action-updatebyquery@2.4.0?classifier=sources
 - pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-action-updatebyquery@2.3.0?type=zip
 - pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-action-updatebyquery@2.3.0?classifier=sources
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-action-updatebyquery@2.5.0?type=zip
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-action-updatebyquery@2.5.0?classifier=sources

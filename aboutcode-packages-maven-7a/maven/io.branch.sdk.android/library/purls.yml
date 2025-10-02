@@ -24,3 +24,7 @@
 - pkg:maven/io.branch.sdk.android/library@1.4.2?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@1.4.4?type=aar
 - pkg:maven/io.branch.sdk.android/library@1.4.4?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@1.5.0?type=aar
+- pkg:maven/io.branch.sdk.android/library@1.5.0?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@1.4.5?type=aar
+- pkg:maven/io.branch.sdk.android/library@1.4.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-scim@1.4.3
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-scim@1.4.3?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-scim@2.2.4
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-scim@2.2.4?classifier=sources

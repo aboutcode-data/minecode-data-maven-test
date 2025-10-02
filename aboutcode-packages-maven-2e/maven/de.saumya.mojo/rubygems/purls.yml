@@ -1,0 +1,2 @@
+- pkg:maven/de.saumya.mojo/rubygems@0.1?type=war
+- pkg:maven/de.saumya.mojo/rubygems@0.1?classifier=sources

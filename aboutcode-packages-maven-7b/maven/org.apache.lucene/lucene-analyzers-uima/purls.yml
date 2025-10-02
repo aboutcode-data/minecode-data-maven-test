@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-uima@5.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-uima@4.10.4
 - pkg:maven/org.apache.lucene/lucene-analyzers-uima@4.10.4?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-uima@5.1.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-uima@5.1.0?classifier=sources

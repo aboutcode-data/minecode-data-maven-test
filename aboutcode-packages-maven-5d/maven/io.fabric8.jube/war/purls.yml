@@ -80,3 +80,7 @@
 - pkg:maven/io.fabric8.jube/war@2.0.41?classifier=sources
 - pkg:maven/io.fabric8.jube/war@2.0.40?type=war
 - pkg:maven/io.fabric8.jube/war@2.0.40?classifier=sources
+- pkg:maven/io.fabric8.jube/war@2.0.43?type=war
+- pkg:maven/io.fabric8.jube/war@2.0.43?classifier=sources
+- pkg:maven/io.fabric8.jube/war@2.0.42?type=war
+- pkg:maven/io.fabric8.jube/war@2.0.42?classifier=sources

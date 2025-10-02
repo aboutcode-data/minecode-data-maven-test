@@ -42,3 +42,5 @@
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-core@0.6.9?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-core@0.6.10
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-core@0.6.10?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-test-harness-core@0.7
+- pkg:maven/org.commonjava.maven.galley/galley-test-harness-core@0.7?classifier=sources

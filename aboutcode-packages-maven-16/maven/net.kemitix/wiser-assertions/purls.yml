@@ -1,2 +1,4 @@
 - pkg:maven/net.kemitix/wiser-assertions@0.1.0-RELEASE
 - pkg:maven/net.kemitix/wiser-assertions@0.1.0-RELEASE?classifier=sources
+- pkg:maven/net.kemitix/wiser-assertions@0.1.1
+- pkg:maven/net.kemitix/wiser-assertions@0.1.1?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.lucene/lucene-test-framework@5.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-test-framework@4.10.4
 - pkg:maven/org.apache.lucene/lucene-test-framework@4.10.4?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-test-framework@5.1.0
+- pkg:maven/org.apache.lucene/lucene-test-framework@5.1.0?classifier=sources
