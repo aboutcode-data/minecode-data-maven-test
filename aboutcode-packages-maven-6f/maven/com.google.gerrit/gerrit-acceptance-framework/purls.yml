@@ -4,3 +4,5 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12.1
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12.1?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12.2
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12.2?classifier=sources

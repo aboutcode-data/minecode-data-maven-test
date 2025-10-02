@@ -8,3 +8,9 @@
 - pkg:maven/com.dorkbox/MessageBus@1.4?classifier=sources
 - pkg:maven/com.dorkbox/MessageBus@1.3
 - pkg:maven/com.dorkbox/MessageBus@1.3?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@1.12
+- pkg:maven/com.dorkbox/MessageBus@1.12?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@1.11
+- pkg:maven/com.dorkbox/MessageBus@1.11?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@1.10
+- pkg:maven/com.dorkbox/MessageBus@1.10?classifier=sources
