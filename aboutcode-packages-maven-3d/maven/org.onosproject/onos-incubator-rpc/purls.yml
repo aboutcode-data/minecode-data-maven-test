@@ -32,3 +32,9 @@
 - pkg:maven/org.onosproject/onos-incubator-rpc@1.9.0-rc4?classifier=sources
 - pkg:maven/org.onosproject/onos-incubator-rpc@1.9.0-rc3
 - pkg:maven/org.onosproject/onos-incubator-rpc@1.9.0-rc3?classifier=sources
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.9.0
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.9.0?classifier=sources
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.8.4
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.8.4?classifier=sources
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.8.3
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.8.3?classifier=sources

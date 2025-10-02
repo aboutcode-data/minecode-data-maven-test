@@ -2,3 +2,5 @@
 - pkg:maven/org.microbean/microbean-main@3?classifier=sources
 - pkg:maven/org.microbean/microbean-main@2
 - pkg:maven/org.microbean/microbean-main@2?classifier=sources
+- pkg:maven/org.microbean/microbean-main@4
+- pkg:maven/org.microbean/microbean-main@4?classifier=sources

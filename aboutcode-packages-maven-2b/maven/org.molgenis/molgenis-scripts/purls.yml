@@ -88,3 +88,5 @@
 - pkg:maven/org.molgenis/molgenis-scripts@2.0.1?classifier=sources
 - pkg:maven/org.molgenis/molgenis-scripts@2.1.0
 - pkg:maven/org.molgenis/molgenis-scripts@2.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-scripts@3.0.0
+- pkg:maven/org.molgenis/molgenis-scripts@3.0.0?classifier=sources

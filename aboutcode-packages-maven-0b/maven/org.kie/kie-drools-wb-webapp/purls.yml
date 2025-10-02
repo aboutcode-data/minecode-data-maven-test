@@ -90,3 +90,5 @@
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.0.0.Beta5?classifier=sources
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.0.0.Beta6?type=war
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.0.0.Beta6?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.0.0.Beta7?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.0.0.Beta7?classifier=sources
