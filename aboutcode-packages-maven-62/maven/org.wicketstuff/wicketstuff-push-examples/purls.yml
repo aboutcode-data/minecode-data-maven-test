@@ -16,3 +16,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-push-examples@1.5.7?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-push-examples@6.0.0-beta3?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-push-examples@6.0.0-beta3?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-push-examples@1.5.8?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-push-examples@1.5.8?classifier=sources

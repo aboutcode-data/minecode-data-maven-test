@@ -10,3 +10,9 @@
 - pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.5-deserializer?classifier=sources
 - pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.1-deserializer
 - pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.1-deserializer?classifier=sources
+- pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.gson
+- pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.gson?classifier=sources
+- pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.12.gson
+- pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.12.gson?classifier=sources
+- pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.11.gson
+- pkg:maven/com.github.filipesperandio.vraptor/vraptor-hypermedia@3.4.1.11.gson?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.sonatype.security/security-model@2.8.1?classifier=sources
 - pkg:maven/org.sonatype.security/security-model@2.8
 - pkg:maven/org.sonatype.security/security-model@2.8?classifier=sources
+- pkg:maven/org.sonatype.security/security-model@2.8.2
+- pkg:maven/org.sonatype.security/security-model@2.8.2?classifier=sources
