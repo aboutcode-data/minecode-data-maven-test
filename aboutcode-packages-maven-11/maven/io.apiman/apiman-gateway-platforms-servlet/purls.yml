@@ -38,3 +38,5 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-servlet@1.2.0.Alpha1?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-servlet@1.1.8.Final
 - pkg:maven/io.apiman/apiman-gateway-platforms-servlet@1.1.8.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-servlet@1.2.0.Alpha2
+- pkg:maven/io.apiman/apiman-gateway-platforms-servlet@1.2.0.Alpha2?classifier=sources

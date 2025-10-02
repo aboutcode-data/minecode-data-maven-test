@@ -32,3 +32,5 @@
 - pkg:maven/io.apiman/apiman-quickstarts-echo-service@1.2.0.Alpha1?classifier=sources
 - pkg:maven/io.apiman/apiman-quickstarts-echo-service@1.1.8.Final?type=war
 - pkg:maven/io.apiman/apiman-quickstarts-echo-service@1.1.8.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-quickstarts-echo-service@1.2.0.Alpha2?type=war
+- pkg:maven/io.apiman/apiman-quickstarts-echo-service@1.2.0.Alpha2?classifier=sources

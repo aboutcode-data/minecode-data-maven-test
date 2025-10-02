@@ -34,3 +34,5 @@
 - pkg:maven/io.appium/java-client@3.0.0?classifier=sources
 - pkg:maven/io.appium/java-client@3.1.0
 - pkg:maven/io.appium/java-client@3.1.0?classifier=sources
+- pkg:maven/io.appium/java-client@3.2.0
+- pkg:maven/io.appium/java-client@3.2.0?classifier=sources

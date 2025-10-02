@@ -1,2 +1,4 @@
 - pkg:maven/com.yy/misaka-android@1.0.24?type=aar
 - pkg:maven/com.yy/misaka-android@1.0.24?classifier=sources
+- pkg:maven/com.yy/misaka-android@1.0.27
+- pkg:maven/com.yy/misaka-android@1.0.27?classifier=sources

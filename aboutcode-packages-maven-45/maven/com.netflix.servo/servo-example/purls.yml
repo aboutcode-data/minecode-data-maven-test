@@ -98,3 +98,5 @@
 - pkg:maven/com.netflix.servo/servo-example@0.11.4?classifier=sources
 - pkg:maven/com.netflix.servo/servo-example@0.11.3
 - pkg:maven/com.netflix.servo/servo-example@0.11.3?classifier=sources
+- pkg:maven/com.netflix.servo/servo-example@0.11.5
+- pkg:maven/com.netflix.servo/servo-example@0.11.5?classifier=sources
