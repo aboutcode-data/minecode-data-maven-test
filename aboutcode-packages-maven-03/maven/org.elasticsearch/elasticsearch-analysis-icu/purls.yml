@@ -96,3 +96,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@0.11.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@0.10.0
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@0.10.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@1.7.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@1.7.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@1.6.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-icu@1.6.0?classifier=sources

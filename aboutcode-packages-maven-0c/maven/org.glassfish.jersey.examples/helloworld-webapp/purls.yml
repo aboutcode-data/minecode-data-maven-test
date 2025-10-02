@@ -24,3 +24,5 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m07?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m08?type=war
 - pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m08?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m08-1?type=war
+- pkg:maven/org.glassfish.jersey.examples/helloworld-webapp@2.0-m08-1?classifier=sources
