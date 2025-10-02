@@ -72,3 +72,5 @@
 - pkg:maven/org.sonatype.nexus.tools/nexus-repository-conversion-tool@2.0.3?classifier=sources
 - pkg:maven/org.sonatype.nexus.tools/nexus-repository-conversion-tool@2.0.4
 - pkg:maven/org.sonatype.nexus.tools/nexus-repository-conversion-tool@2.0.4?classifier=sources
+- pkg:maven/org.sonatype.nexus.tools/nexus-repository-conversion-tool@2.0.4-1
+- pkg:maven/org.sonatype.nexus.tools/nexus-repository-conversion-tool@2.0.4-1?classifier=sources

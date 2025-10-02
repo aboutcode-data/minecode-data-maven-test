@@ -34,3 +34,4 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-remote@5.0.1.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-remote@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-remote@5.1.4.FINAL
+- pkg:maven/org.infinispan/infinispan-cachestore-remote@5.1.4.FINAL?classifier=sources

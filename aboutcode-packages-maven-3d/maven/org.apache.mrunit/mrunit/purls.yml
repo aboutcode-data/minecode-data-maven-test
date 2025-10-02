@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.mrunit/mrunit@0.8.0-incubating
 - pkg:maven/org.apache.mrunit/mrunit@0.8.0-incubating?classifier=sources
 - pkg:maven/org.apache.mrunit/mrunit@0.8.1-incubating?classifier=sources
+- pkg:maven/org.apache.mrunit/mrunit@0.9.0-incubating?classifier=sources

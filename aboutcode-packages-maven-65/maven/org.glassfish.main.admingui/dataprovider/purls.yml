@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.main.admingui/dataprovider@3.1.2
 - pkg:maven/org.glassfish.main.admingui/dataprovider@3.1.2?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/dataprovider@4.0-b33
+- pkg:maven/org.glassfish.main.admingui/dataprovider@4.0-b33?classifier=sources
