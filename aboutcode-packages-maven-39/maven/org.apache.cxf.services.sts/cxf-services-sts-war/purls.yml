@@ -98,3 +98,7 @@
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.0.3?classifier=sources
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@2.7.14?type=war
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@2.7.14?classifier=sources
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.0.4?type=war
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.0.4?classifier=sources
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@2.7.15?type=war
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@2.7.15?classifier=sources
