@@ -88,3 +88,5 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat@2.3-beta4?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat@2.3-beta5?type=war
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat@2.3-beta5?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat@2.2.19?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat@2.2.19?classifier=sources

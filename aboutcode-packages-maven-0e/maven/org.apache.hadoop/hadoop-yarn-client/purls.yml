@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hadoop/hadoop-yarn-client@2.0.2-alpha
+- pkg:maven/org.apache.hadoop/hadoop-yarn-client@2.0.2-alpha?classifier=sources

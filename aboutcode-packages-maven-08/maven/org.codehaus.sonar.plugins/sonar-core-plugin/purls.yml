@@ -50,3 +50,4 @@
 - pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@3.2?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@3.2.1-RC1?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@3.2.1?classifier=sources
+- pkg:maven/org.codehaus.sonar.plugins/sonar-core-plugin@3.3-RC1?classifier=sources

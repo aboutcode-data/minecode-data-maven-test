@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs@2.0.1-alpha?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs@0.23.3
 - pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs@0.23.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs@2.0.2-alpha
+- pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs@2.0.2-alpha?classifier=sources

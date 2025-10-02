@@ -45,3 +45,5 @@
 - pkg:maven/org.apache.lucene/lucene-benchmark@3.6.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-benchmark@4.0.0-BETA
 - pkg:maven/org.apache.lucene/lucene-benchmark@4.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-benchmark@4.0.0
+- pkg:maven/org.apache.lucene/lucene-benchmark@4.0.0?classifier=sources

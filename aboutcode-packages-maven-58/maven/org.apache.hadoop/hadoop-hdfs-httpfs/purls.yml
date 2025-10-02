@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.0.1-alpha?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@0.23.3?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@0.23.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.0.2-alpha?type=war
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.0.2-alpha?classifier=sources

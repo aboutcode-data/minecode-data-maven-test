@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@4.0.0-ALPHA?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@4.0.0-BETA
 - pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@4.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@4.0.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@4.0.0?classifier=sources

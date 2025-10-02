@@ -1,2 +1,4 @@
 - pkg:maven/org.broadleafcommerce/broadleaf-paypal@1.6.0-GA
 - pkg:maven/org.broadleafcommerce/broadleaf-paypal@1.6.0-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/broadleaf-paypal@2.0.0-GA
+- pkg:maven/org.broadleafcommerce/broadleaf-paypal@2.0.0-GA?classifier=sources
