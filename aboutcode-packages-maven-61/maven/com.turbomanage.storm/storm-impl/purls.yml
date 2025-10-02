@@ -1,2 +1,4 @@
 - pkg:maven/com.turbomanage.storm/storm-impl@0.98
 - pkg:maven/com.turbomanage.storm/storm-impl@0.98?classifier=sources
+- pkg:maven/com.turbomanage.storm/storm-impl@0.99
+- pkg:maven/com.turbomanage.storm/storm-impl@0.99?classifier=sources

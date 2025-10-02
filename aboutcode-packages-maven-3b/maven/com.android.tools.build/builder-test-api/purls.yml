@@ -70,3 +70,5 @@
 - pkg:maven/com.android.tools.build/builder-test-api@0.11.2?classifier=sources
 - pkg:maven/com.android.tools.build/builder-test-api@0.12.0
 - pkg:maven/com.android.tools.build/builder-test-api@0.12.0?classifier=sources
+- pkg:maven/com.android.tools.build/builder-test-api@0.12.1
+- pkg:maven/com.android.tools.build/builder-test-api@0.12.1?classifier=sources

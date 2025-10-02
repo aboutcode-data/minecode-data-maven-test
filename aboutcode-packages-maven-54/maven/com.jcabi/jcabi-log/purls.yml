@@ -112,3 +112,5 @@
 - pkg:maven/com.jcabi/jcabi-log@0.13?classifier=sources
 - pkg:maven/com.jcabi/jcabi-log@0.12.4
 - pkg:maven/com.jcabi/jcabi-log@0.12.4?classifier=sources
+- pkg:maven/com.jcabi/jcabi-log@0.14
+- pkg:maven/com.jcabi/jcabi-log@0.14?classifier=sources

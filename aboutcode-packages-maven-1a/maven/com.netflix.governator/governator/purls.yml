@@ -30,3 +30,5 @@
 - pkg:maven/com.netflix.governator/governator@1.2.10?classifier=sources
 - pkg:maven/com.netflix.governator/governator@1.2.12
 - pkg:maven/com.netflix.governator/governator@1.2.12?classifier=sources
+- pkg:maven/com.netflix.governator/governator@1.2.15
+- pkg:maven/com.netflix.governator/governator@1.2.15?classifier=sources

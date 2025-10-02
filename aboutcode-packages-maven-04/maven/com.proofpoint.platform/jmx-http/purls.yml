@@ -50,3 +50,5 @@
 - pkg:maven/com.proofpoint.platform/jmx-http@0.99?classifier=sources
 - pkg:maven/com.proofpoint.platform/jmx-http@1.00
 - pkg:maven/com.proofpoint.platform/jmx-http@1.00?classifier=sources
+- pkg:maven/com.proofpoint.platform/jmx-http@1.01
+- pkg:maven/com.proofpoint.platform/jmx-http@1.01?classifier=sources

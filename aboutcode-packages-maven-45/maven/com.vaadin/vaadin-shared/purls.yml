@@ -94,3 +94,7 @@
 - pkg:maven/com.vaadin/vaadin-shared@7.2.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-shared@7.2.3
 - pkg:maven/com.vaadin/vaadin-shared@7.2.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-shared@7.4.0.alpha3
+- pkg:maven/com.vaadin/vaadin-shared@7.4.0.alpha3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-shared@7.2.4
+- pkg:maven/com.vaadin/vaadin-shared@7.2.4?classifier=sources
