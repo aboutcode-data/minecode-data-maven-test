@@ -6,3 +6,5 @@
 - pkg:maven/com.itv/lifecycle_2.11@0.5?classifier=sources
 - pkg:maven/com.itv/lifecycle_2.11@0.4
 - pkg:maven/com.itv/lifecycle_2.11@0.4?classifier=sources
+- pkg:maven/com.itv/lifecycle_2.11@0.16
+- pkg:maven/com.itv/lifecycle_2.11@0.16?classifier=sources
