@@ -82,3 +82,5 @@
 - pkg:maven/org.molgenis/molgenis-ontology@3.0.2?classifier=sources
 - pkg:maven/org.molgenis/molgenis-ontology@4.1.0
 - pkg:maven/org.molgenis/molgenis-ontology@4.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-ontology@5.0.0
+- pkg:maven/org.molgenis/molgenis-ontology@5.0.0?classifier=sources

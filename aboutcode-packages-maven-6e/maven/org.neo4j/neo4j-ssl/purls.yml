@@ -2,3 +2,5 @@
 - pkg:maven/org.neo4j/neo4j-ssl@3.3.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ssl@3.2.2
 - pkg:maven/org.neo4j/neo4j-ssl@3.2.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ssl@3.3.0-alpha04
+- pkg:maven/org.neo4j/neo4j-ssl@3.3.0-alpha04?classifier=sources

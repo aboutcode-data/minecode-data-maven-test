@@ -14,3 +14,7 @@
 - pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@2.3?classifier=sources
 - pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@3.1
 - pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@3.1?classifier=sources
+- pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@3.2
+- pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@3.2?classifier=sources
+- pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@2.4
+- pkg:maven/org.lable.oss.bitsandbytes/bitsandbytes@2.4?classifier=sources
