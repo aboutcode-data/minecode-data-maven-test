@@ -54,3 +54,7 @@
 - pkg:maven/com.floragunn/search-guard-2@2.3.4.7?classifier=sources
 - pkg:maven/com.floragunn/search-guard-2@2.3.3.7?type=zip
 - pkg:maven/com.floragunn/search-guard-2@2.3.3.7?classifier=sources
+- pkg:maven/com.floragunn/search-guard-2@5.0.0-rc1-6d?type=zip
+- pkg:maven/com.floragunn/search-guard-2@5.0.0-rc1-6d?classifier=sources
+- pkg:maven/com.floragunn/search-guard-2@5.0.0-rc1-6a?type=zip
+- pkg:maven/com.floragunn/search-guard-2@5.0.0-rc1-6a?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.amap.api/location@2.7.0?classifier=sources
 - pkg:maven/com.amap.api/location@2.9.0
 - pkg:maven/com.amap.api/location@2.9.0?classifier=sources
+- pkg:maven/com.amap.api/location@3.0.0
+- pkg:maven/com.amap.api/location@3.0.0?classifier=sources

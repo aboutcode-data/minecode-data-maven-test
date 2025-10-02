@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.bower/vue@1.0.21?classifier=sources
 - pkg:maven/org.webjars.bower/vue@1.0.26
 - pkg:maven/org.webjars.bower/vue@1.0.26?classifier=sources
+- pkg:maven/org.webjars.bower/vue@2.0.3
+- pkg:maven/org.webjars.bower/vue@2.0.3?classifier=sources
