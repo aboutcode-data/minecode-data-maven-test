@@ -1,3 +1,4 @@
 - pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.1.0.RC3?type=war
 - pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.1.0.RC3?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.1.0.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.1.1.Final?type=war
