@@ -60,3 +60,7 @@
 - pkg:maven/com.google.apis/google-api-services-translate@v2-rev19-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v2-rev19-1.17.0-rc
 - pkg:maven/com.google.apis/google-api-services-translate@v2-rev19-1.17.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-translate@v2-rev20-1.17.0-rc
+- pkg:maven/com.google.apis/google-api-services-translate@v2-rev20-1.17.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-translate@v2-rev20-1.16.0-rc
+- pkg:maven/com.google.apis/google-api-services-translate@v2-rev20-1.16.0-rc?classifier=sources

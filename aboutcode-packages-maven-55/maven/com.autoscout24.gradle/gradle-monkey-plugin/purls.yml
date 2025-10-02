@@ -1,0 +1,4 @@
+- pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.2
+- pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.2?classifier=sources
+- pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.1
+- pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.1?classifier=sources
