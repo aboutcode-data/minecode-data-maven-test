@@ -8,3 +8,5 @@
 - pkg:maven/com.hivemq/hivemq-spi@2.2.1?classifier=sources
 - pkg:maven/com.hivemq/hivemq-spi@2.3.0
 - pkg:maven/com.hivemq/hivemq-spi@2.3.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-spi@2.3.0.fix1
+- pkg:maven/com.hivemq/hivemq-spi@2.3.0.fix1?classifier=sources

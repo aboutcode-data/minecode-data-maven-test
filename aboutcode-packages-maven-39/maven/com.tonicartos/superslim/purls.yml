@@ -28,3 +28,5 @@
 - pkg:maven/com.tonicartos/superslim@0.4.7?classifier=sources
 - pkg:maven/com.tonicartos/superslim@0.4.6?type=aar
 - pkg:maven/com.tonicartos/superslim@0.4.6?classifier=sources
+- pkg:maven/com.tonicartos/superslim@0.4.8?type=aar
+- pkg:maven/com.tonicartos/superslim@0.4.8?classifier=sources

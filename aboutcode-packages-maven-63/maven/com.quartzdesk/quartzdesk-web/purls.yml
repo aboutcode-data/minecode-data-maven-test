@@ -6,3 +6,5 @@
 - pkg:maven/com.quartzdesk/quartzdesk-web@1.6.0?classifier=sources
 - pkg:maven/com.quartzdesk/quartzdesk-web@1.7.4?type=war
 - pkg:maven/com.quartzdesk/quartzdesk-web@1.7.4?classifier=sources
+- pkg:maven/com.quartzdesk/quartzdesk-web@1.7.5?type=war
+- pkg:maven/com.quartzdesk/quartzdesk-web@1.7.5?classifier=sources

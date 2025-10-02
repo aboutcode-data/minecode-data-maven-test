@@ -1,2 +1,4 @@
 - pkg:maven/com.headstartech.scheelite/scheelite-core@1.0.0.RELEASE
 - pkg:maven/com.headstartech.scheelite/scheelite-core@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.headstartech.scheelite/scheelite-core@2.0.0.RELEASE
+- pkg:maven/com.headstartech.scheelite/scheelite-core@2.0.0.RELEASE?classifier=sources

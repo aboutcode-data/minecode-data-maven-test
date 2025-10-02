@@ -58,3 +58,5 @@
 - pkg:maven/com.spotify/docker-client@2.7.17?classifier=sources
 - pkg:maven/com.spotify/docker-client@2.7.16
 - pkg:maven/com.spotify/docker-client@2.7.16?classifier=sources
+- pkg:maven/com.spotify/docker-client@2.7.19
+- pkg:maven/com.spotify/docker-client@2.7.19?classifier=sources
