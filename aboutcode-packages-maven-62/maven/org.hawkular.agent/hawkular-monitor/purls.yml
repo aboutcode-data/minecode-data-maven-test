@@ -32,3 +32,7 @@
 - pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.2.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.1
 - pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.1?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.4.Final
+- pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.4.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.3.Final
+- pkg:maven/org.hawkular.agent/hawkular-monitor@0.3.3.Final?classifier=sources

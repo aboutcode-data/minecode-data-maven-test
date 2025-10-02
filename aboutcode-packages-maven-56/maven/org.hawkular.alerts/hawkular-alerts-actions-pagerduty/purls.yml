@@ -1,0 +1,6 @@
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-pagerduty@0.3.3.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-pagerduty@0.3.3.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-pagerduty@0.3.2.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-pagerduty@0.3.2.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-pagerduty@0.3.1.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-pagerduty@0.3.1.Final?classifier=sources

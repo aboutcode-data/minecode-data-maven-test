@@ -132,3 +132,5 @@
 - pkg:maven/org.juzu/juzu-plugins-upload@1.0.0-cr2?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-upload@1.0.0
 - pkg:maven/org.juzu/juzu-plugins-upload@1.0.0?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-upload@1.1.0-M1
+- pkg:maven/org.juzu/juzu-plugins-upload@1.1.0-M1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.hawkular.bus/hawkular-feed-comm-war@0.3.1.Final?classifier=sources
 - pkg:maven/org.hawkular.bus/hawkular-feed-comm-war@0.3.0.Final?type=war
 - pkg:maven/org.hawkular.bus/hawkular-feed-comm-war@0.3.0.Final?classifier=sources
+- pkg:maven/org.hawkular.bus/hawkular-feed-comm-war@0.3.3.Final?type=war
+- pkg:maven/org.hawkular.bus/hawkular-feed-comm-war@0.3.3.Final?classifier=sources
