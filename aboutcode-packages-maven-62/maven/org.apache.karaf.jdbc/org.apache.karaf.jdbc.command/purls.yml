@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@2.4.0?classifier=sources
 - pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@2.3.8
 - pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@2.3.8?classifier=sources
+- pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@3.0.2
+- pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@3.0.2?classifier=sources
