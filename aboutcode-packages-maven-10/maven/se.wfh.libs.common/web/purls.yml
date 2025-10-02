@@ -6,3 +6,5 @@
 - pkg:maven/se.wfh.libs.common/web@0.15.1?classifier=sources
 - pkg:maven/se.wfh.libs.common/web@0.15
 - pkg:maven/se.wfh.libs.common/web@0.15?classifier=sources
+- pkg:maven/se.wfh.libs.common/web@0.16
+- pkg:maven/se.wfh.libs.common/web@0.16?classifier=sources
