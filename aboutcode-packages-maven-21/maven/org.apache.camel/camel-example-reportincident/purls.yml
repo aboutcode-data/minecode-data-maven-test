@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.camel/camel-example-reportincident@2.12.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-reportincident@2.13.0?type=war
 - pkg:maven/org.apache.camel/camel-example-reportincident@2.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-reportincident@2.13.1?type=war
+- pkg:maven/org.apache.camel/camel-example-reportincident@2.13.1?classifier=sources

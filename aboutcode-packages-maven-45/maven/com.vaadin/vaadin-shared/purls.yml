@@ -80,3 +80,7 @@
 - pkg:maven/com.vaadin/vaadin-shared@7.4.0.alpha1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-shared@7.1.15
 - pkg:maven/com.vaadin/vaadin-shared@7.1.15?classifier=sources
+- pkg:maven/com.vaadin/vaadin-shared@7.3.0.alpha2
+- pkg:maven/com.vaadin/vaadin-shared@7.3.0.alpha2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-shared@7.2.0
+- pkg:maven/com.vaadin/vaadin-shared@7.2.0?classifier=sources
