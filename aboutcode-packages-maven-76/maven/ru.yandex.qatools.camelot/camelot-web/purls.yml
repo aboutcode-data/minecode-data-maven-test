@@ -34,3 +34,5 @@
 - pkg:maven/ru.yandex.qatools.camelot/camelot-web@2.1.16?classifier=sources
 - pkg:maven/ru.yandex.qatools.camelot/camelot-web@2.1.17?type=war
 - pkg:maven/ru.yandex.qatools.camelot/camelot-web@2.1.17?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-web@2.1.18?type=war
+- pkg:maven/ru.yandex.qatools.camelot/camelot-web@2.1.18?classifier=sources
