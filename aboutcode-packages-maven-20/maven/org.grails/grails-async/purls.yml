@@ -80,3 +80,5 @@
 - pkg:maven/org.grails/grails-async@3.0.9?classifier=sources
 - pkg:maven/org.grails/grails-async@2.5.2
 - pkg:maven/org.grails/grails-async@2.5.2?classifier=sources
+- pkg:maven/org.grails/grails-async@2.5.3
+- pkg:maven/org.grails/grails-async@2.5.3?classifier=sources

@@ -105,3 +105,7 @@
 - pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.1.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.1.0.Beta1
 - pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.1.0.Beta1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.1.0.CR1
+- pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.1.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.0.2.Final
+- pkg:maven/org.infinispan/infinispan-compatibility-mode-it@8.0.2.Final?classifier=sources

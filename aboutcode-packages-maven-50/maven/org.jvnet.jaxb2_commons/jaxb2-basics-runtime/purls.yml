@@ -42,3 +42,5 @@
 - pkg:maven/org.jvnet.jaxb2_commons/jaxb2-basics-runtime@0.9.4?classifier=sources
 - pkg:maven/org.jvnet.jaxb2_commons/jaxb2-basics-runtime@0.9.5
 - pkg:maven/org.jvnet.jaxb2_commons/jaxb2-basics-runtime@0.9.5?classifier=sources
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb2-basics-runtime@0.10.0
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb2-basics-runtime@0.10.0?classifier=sources
