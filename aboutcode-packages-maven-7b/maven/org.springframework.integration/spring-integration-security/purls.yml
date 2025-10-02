@@ -70,3 +70,9 @@
 - pkg:maven/org.springframework.integration/spring-integration-security@4.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-security@3.0.5.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-security@3.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-security@4.1.0.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-security@4.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-security@4.0.5.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-security@4.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-security@3.0.6.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-security@3.0.6.RELEASE?classifier=sources
