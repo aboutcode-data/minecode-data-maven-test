@@ -42,3 +42,5 @@
 - pkg:maven/com.facebook.presto/presto-example-http@0.94?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.96?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.97?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.99?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.98?classifier=sources

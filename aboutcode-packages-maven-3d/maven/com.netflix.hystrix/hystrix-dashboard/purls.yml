@@ -106,3 +106,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.4.0-rc.9?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.4.0?type=war
 - pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.4.0?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.4.1?type=war
+- pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.4.1?classifier=sources

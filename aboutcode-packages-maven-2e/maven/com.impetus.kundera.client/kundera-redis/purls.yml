@@ -20,3 +20,5 @@
 - pkg:maven/com.impetus.kundera.client/kundera-redis@2.15?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-redis@2.15.1
 - pkg:maven/com.impetus.kundera.client/kundera-redis@2.15.1?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-redis@2.16
+- pkg:maven/com.impetus.kundera.client/kundera-redis@2.16?classifier=sources

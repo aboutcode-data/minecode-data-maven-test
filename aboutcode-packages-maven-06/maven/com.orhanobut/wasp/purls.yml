@@ -1,0 +1,4 @@
+- pkg:maven/com.orhanobut/wasp@1.9?type=aar
+- pkg:maven/com.orhanobut/wasp@1.9?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.8?type=aar
+- pkg:maven/com.orhanobut/wasp@1.8?classifier=sources
