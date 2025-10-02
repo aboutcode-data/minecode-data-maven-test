@@ -16,3 +16,9 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.2?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.1.1?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.1.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.10.3?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.10.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.10.2?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.10.2?classifier=sources

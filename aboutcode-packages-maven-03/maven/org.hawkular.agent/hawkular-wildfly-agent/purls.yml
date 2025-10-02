@@ -76,3 +76,7 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.25.0.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.24.3.Final
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.24.3.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.25.2.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.25.2.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.25.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent@0.25.1.Final?classifier=sources
