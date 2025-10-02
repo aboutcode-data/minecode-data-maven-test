@@ -86,3 +86,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@7.0.0-M6?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@7.0.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@7.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-phonebook@7.1.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-phonebook@7.1.0?classifier=sources
