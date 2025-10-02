@@ -8,3 +8,5 @@
 - pkg:maven/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer@0.3.3?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer@0.4.4
 - pkg:maven/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer@0.4.4?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer@0.5.4
+- pkg:maven/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer@0.5.4?classifier=sources

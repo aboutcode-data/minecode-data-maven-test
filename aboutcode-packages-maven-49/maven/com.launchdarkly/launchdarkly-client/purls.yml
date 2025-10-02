@@ -94,3 +94,5 @@
 - pkg:maven/com.launchdarkly/launchdarkly-client@%7B2.2.4%7D?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-client@2.2.5
 - pkg:maven/com.launchdarkly/launchdarkly-client@2.2.5?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@2.2.6
+- pkg:maven/com.launchdarkly/launchdarkly-client@2.2.6?classifier=sources
