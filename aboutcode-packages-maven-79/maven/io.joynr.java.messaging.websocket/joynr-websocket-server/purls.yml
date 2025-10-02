@@ -34,3 +34,5 @@
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-server@0.19.0?classifier=sources
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-server@0.18.5
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-server@0.18.5?classifier=sources
+- pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-server@0.19.1
+- pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-server@0.19.1?classifier=sources

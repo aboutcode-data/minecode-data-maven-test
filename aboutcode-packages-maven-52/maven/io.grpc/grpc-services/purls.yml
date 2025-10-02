@@ -1,2 +1,4 @@
 - pkg:maven/io.grpc/grpc-services@0.15.0
 - pkg:maven/io.grpc/grpc-services@0.15.0?classifier=sources
+- pkg:maven/io.grpc/grpc-services@1.0.0-pre1
+- pkg:maven/io.grpc/grpc-services@1.0.0-pre1?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch@1.4.4?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch@1.4.3
 - pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch@1.4.3?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch@1.5.1
+- pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch@1.5.1?classifier=sources

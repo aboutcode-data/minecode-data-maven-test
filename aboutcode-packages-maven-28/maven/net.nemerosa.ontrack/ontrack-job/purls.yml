@@ -78,3 +78,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-job@2.23.2?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-job@2.23.1
 - pkg:maven/net.nemerosa.ontrack/ontrack-job@2.23.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-job@master-9c699a6
+- pkg:maven/net.nemerosa.ontrack/ontrack-job@master-9c699a6?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-job@feature-443-dsl-ldap-dbcf415
+- pkg:maven/net.nemerosa.ontrack/ontrack-job@feature-443-dsl-ldap-dbcf415?classifier=sources
