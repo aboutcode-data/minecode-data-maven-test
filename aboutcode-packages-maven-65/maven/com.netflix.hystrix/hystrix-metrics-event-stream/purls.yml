@@ -142,3 +142,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream@1.4.14?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream@1.4.15
 - pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream@1.4.15?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream@1.4.16
+- pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream@1.4.16?classifier=sources
