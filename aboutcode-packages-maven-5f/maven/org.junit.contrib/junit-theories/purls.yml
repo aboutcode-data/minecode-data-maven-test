@@ -1,2 +1,4 @@
 - pkg:maven/org.junit.contrib/junit-theories@4.11
 - pkg:maven/org.junit.contrib/junit-theories@4.11?classifier=sources
+- pkg:maven/org.junit.contrib/junit-theories@4.12-beta-1
+- pkg:maven/org.junit.contrib/junit-theories@4.12-beta-1?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-transport-memcached@2.0.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-transport-memcached@2.2.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-transport-memcached@2.2.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-memcached@2.3.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-memcached@2.3.0?classifier=sources

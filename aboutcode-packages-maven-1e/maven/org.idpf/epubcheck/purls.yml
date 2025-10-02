@@ -24,3 +24,6 @@
 - pkg:maven/org.idpf/epubcheck@v4.0.0-alpha7
 - pkg:maven/org.idpf/epubcheck@v4.0.0-alpha7?classifier=src&type=zip
 - pkg:maven/org.idpf/epubcheck@v4.0.0-alpha7?classifier=sources
+- pkg:maven/org.idpf/epubcheck@v4.0.0-alpha8
+- pkg:maven/org.idpf/epubcheck@v4.0.0-alpha8?classifier=src&type=zip
+- pkg:maven/org.idpf/epubcheck@v4.0.0-alpha8?classifier=sources
