@@ -34,3 +34,5 @@
 - pkg:maven/io.opentracing/opentracing-api@0.20.10?classifier=sources
 - pkg:maven/io.opentracing/opentracing-api@0.21.0
 - pkg:maven/io.opentracing/opentracing-api@0.21.0?classifier=sources
+- pkg:maven/io.opentracing/opentracing-api@0.22.0
+- pkg:maven/io.opentracing/opentracing-api@0.22.0?classifier=sources
