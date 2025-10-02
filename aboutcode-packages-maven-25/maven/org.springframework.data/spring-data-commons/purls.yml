@@ -80,3 +80,7 @@
 - pkg:maven/org.springframework.data/spring-data-commons@1.12.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@1.12.6.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@1.12.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@1.13.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@1.13.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@1.12.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@1.12.7.RELEASE?classifier=sources

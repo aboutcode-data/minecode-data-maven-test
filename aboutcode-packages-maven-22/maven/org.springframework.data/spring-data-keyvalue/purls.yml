@@ -20,3 +20,7 @@
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.1.6.RELEASE
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@1.1.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-keyvalue@1.1.7.RELEASE?classifier=sources
