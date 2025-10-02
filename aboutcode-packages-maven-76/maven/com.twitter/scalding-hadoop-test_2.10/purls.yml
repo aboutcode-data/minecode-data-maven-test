@@ -4,3 +4,9 @@
 - pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.11.1?classifier=sources
 - pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.11.2
 - pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.11.2?classifier=sources
+- pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.12.0rc3
+- pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.12.0rc3?classifier=sources
+- pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.12.0rc1
+- pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.12.0rc1?classifier=sources
+- pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.11.3rc1
+- pkg:maven/com.twitter/scalding-hadoop-test_2.10@0.11.3rc1?classifier=sources
