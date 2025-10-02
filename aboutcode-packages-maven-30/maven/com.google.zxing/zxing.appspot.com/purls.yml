@@ -1,2 +1,4 @@
 - pkg:maven/com.google.zxing/zxing.appspot.com@2.2
 - pkg:maven/com.google.zxing/zxing.appspot.com@2.2?classifier=sources
+- pkg:maven/com.google.zxing/zxing.appspot.com@2.3.0?type=war
+- pkg:maven/com.google.zxing/zxing.appspot.com@2.3.0?classifier=sources
