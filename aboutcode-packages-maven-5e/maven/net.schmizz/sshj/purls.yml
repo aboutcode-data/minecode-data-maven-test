@@ -19,3 +19,5 @@
 - pkg:maven/net.schmizz/sshj@0.1.0?classifier=sources
 - pkg:maven/net.schmizz/sshj@0.7.0
 - pkg:maven/net.schmizz/sshj@0.7.0?classifier=sources
+- pkg:maven/net.schmizz/sshj@0.8.0
+- pkg:maven/net.schmizz/sshj@0.8.0?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/org.codehaus.openxma/dsl-reference@4.1.7?classifier=sources
 - pkg:maven/org.codehaus.openxma/dsl-reference@5.0.0?type=war
 - pkg:maven/org.codehaus.openxma/dsl-reference@5.0.0?classifier=sources
+- pkg:maven/org.codehaus.openxma/dsl-reference@5.0.1?type=war
+- pkg:maven/org.codehaus.openxma/dsl-reference@5.0.1?classifier=sources
