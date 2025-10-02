@@ -66,3 +66,11 @@
 - pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.5.Final
 - pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.5.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@4.0.0.Alpha2
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@4.0.0.Alpha2?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@4.0.0.Alpha1
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@4.0.0.Alpha1?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.7.Final
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.6.Final
+- pkg:maven/org.infinispan.protostream/sample-domain-implementation@3.0.6.Final?classifier=sources

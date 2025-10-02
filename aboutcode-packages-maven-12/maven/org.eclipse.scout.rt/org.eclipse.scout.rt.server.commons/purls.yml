@@ -38,3 +38,7 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.1.0.M2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.0.100.B100
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.0.100.B100?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.1.0.M3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.1.0.M3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.0.200.B002
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons@6.0.200.B002?classifier=sources

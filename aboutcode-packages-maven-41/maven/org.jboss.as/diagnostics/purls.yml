@@ -240,3 +240,7 @@
 - pkg:maven/org.jboss.as/diagnostics@2.9.0.Alpha4?classifier=sources
 - pkg:maven/org.jboss.as/diagnostics@2.5.14.Final
 - pkg:maven/org.jboss.as/diagnostics@2.5.14.Final?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.9.0.Alpha5
+- pkg:maven/org.jboss.as/diagnostics@2.9.0.Alpha5?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.8.28.Final
+- pkg:maven/org.jboss.as/diagnostics@2.8.28.Final?classifier=sources

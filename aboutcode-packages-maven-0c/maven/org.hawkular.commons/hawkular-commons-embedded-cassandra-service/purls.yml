@@ -38,3 +38,7 @@
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.7.9.Final?classifier=sources
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.7.10.Final
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.7.10.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.9.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.9.0.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.8.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.8.0.Final?classifier=sources
