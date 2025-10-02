@@ -6,3 +6,5 @@
 - pkg:maven/tec.units/unit-ri@0.8-RC2?classifier=sources
 - pkg:maven/tec.units/unit-ri@0.8-RC3
 - pkg:maven/tec.units/unit-ri@0.8-RC3?classifier=sources
+- pkg:maven/tec.units/unit-ri@0.8
+- pkg:maven/tec.units/unit-ri@0.8?classifier=sources
