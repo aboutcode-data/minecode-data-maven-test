@@ -1,2 +1,4 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-sugarcrm-datastore-wizard@3.5-RC2
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-sugarcrm-datastore-wizard@3.5-RC2?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-sugarcrm-datastore-wizard@3.5
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-sugarcrm-datastore-wizard@3.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.cloudbees.sdk.plugins/config-plugin@1.3.2
+- pkg:maven/org.cloudbees.sdk.plugins/config-plugin@1.3.2?classifier=sources
+- pkg:maven/org.cloudbees.sdk.plugins/config-plugin@1.3.1
+- pkg:maven/org.cloudbees.sdk.plugins/config-plugin@1.3.1?classifier=sources
