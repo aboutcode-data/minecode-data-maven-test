@@ -50,3 +50,5 @@
 - pkg:maven/org.ow2.jonas/jonas-itests-applications-connection-leaks@5.2.3?classifier=sources
 - pkg:maven/org.ow2.jonas/jonas-itests-applications-connection-leaks@5.3.0-M6?type=war
 - pkg:maven/org.ow2.jonas/jonas-itests-applications-connection-leaks@5.3.0-M6?classifier=sources
+- pkg:maven/org.ow2.jonas/jonas-itests-applications-connection-leaks@5.1.7?type=war
+- pkg:maven/org.ow2.jonas/jonas-itests-applications-connection-leaks@5.1.7?classifier=sources

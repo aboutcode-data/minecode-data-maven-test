@@ -10,3 +10,7 @@
 - pkg:maven/com.sencha.gxt/gxt@3.0.0-rc?classifier=sources
 - pkg:maven/com.sencha.gxt/gxt@3.0.0-rc2
 - pkg:maven/com.sencha.gxt/gxt@3.0.0-rc2?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt@3.0.0b
+- pkg:maven/com.sencha.gxt/gxt@3.0.0b?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt@3.0.0
+- pkg:maven/com.sencha.gxt/gxt@3.0.0?classifier=sources

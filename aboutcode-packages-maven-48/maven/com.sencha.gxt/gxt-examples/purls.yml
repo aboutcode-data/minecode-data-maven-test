@@ -10,3 +10,7 @@
 - pkg:maven/com.sencha.gxt/gxt-examples@3.0.0-rc?classifier=sources
 - pkg:maven/com.sencha.gxt/gxt-examples@3.0.0-rc2?type=war
 - pkg:maven/com.sencha.gxt/gxt-examples@3.0.0-rc2?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt-examples@3.0.0b?type=war
+- pkg:maven/com.sencha.gxt/gxt-examples@3.0.0b?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt-examples@3.0.0?type=war
+- pkg:maven/com.sencha.gxt/gxt-examples@3.0.0?classifier=sources
