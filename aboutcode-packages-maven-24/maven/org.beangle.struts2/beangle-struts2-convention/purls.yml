@@ -60,3 +60,5 @@
 - pkg:maven/org.beangle.struts2/beangle-struts2-convention@3.5.1.M2?classifier=sources
 - pkg:maven/org.beangle.struts2/beangle-struts2-convention@3.5.1.M3
 - pkg:maven/org.beangle.struts2/beangle-struts2-convention@3.5.1.M3?classifier=sources
+- pkg:maven/org.beangle.struts2/beangle-struts2-convention@3.5.1
+- pkg:maven/org.beangle.struts2/beangle-struts2-convention@3.5.1?classifier=sources

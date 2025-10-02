@@ -50,3 +50,5 @@
 - pkg:maven/org.beangle.test/beangle-test-selenium@3.5.1.M2?classifier=sources
 - pkg:maven/org.beangle.test/beangle-test-selenium@3.5.1.M3
 - pkg:maven/org.beangle.test/beangle-test-selenium@3.5.1.M3?classifier=sources
+- pkg:maven/org.beangle.test/beangle-test-selenium@3.5.1
+- pkg:maven/org.beangle.test/beangle-test-selenium@3.5.1?classifier=sources

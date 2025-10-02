@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.nifi/nifi-update-attribute-processor@1.0.0-BETA?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-update-attribute-processor@1.0.0
 - pkg:maven/org.apache.nifi/nifi-update-attribute-processor@1.0.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-update-attribute-processor@0.7.1
+- pkg:maven/org.apache.nifi/nifi-update-attribute-processor@0.7.1?classifier=sources

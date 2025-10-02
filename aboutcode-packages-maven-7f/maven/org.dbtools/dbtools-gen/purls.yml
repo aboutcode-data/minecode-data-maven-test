@@ -92,3 +92,5 @@
 - pkg:maven/org.dbtools/dbtools-gen@7.0.10?classifier=sources
 - pkg:maven/org.dbtools/dbtools-gen@7.0.11
 - pkg:maven/org.dbtools/dbtools-gen@7.0.11?classifier=sources
+- pkg:maven/org.dbtools/dbtools-gen@7.1.0
+- pkg:maven/org.dbtools/dbtools-gen@7.1.0?classifier=sources
