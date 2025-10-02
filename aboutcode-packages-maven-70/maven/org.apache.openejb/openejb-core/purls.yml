@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.openejb/openejb-core@4.0.0?classifier=sources
 - pkg:maven/org.apache.openejb/openejb-core@4.5.0
 - pkg:maven/org.apache.openejb/openejb-core@4.5.0?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-core@4.5.1
+- pkg:maven/org.apache.openejb/openejb-core@4.5.1?classifier=sources

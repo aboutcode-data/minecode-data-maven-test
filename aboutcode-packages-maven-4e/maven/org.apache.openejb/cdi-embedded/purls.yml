@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.openejb/cdi-embedded@1.0.0?classifier=sources
 - pkg:maven/org.apache.openejb/cdi-embedded@1.5.0
 - pkg:maven/org.apache.openejb/cdi-embedded@1.5.0?classifier=sources
+- pkg:maven/org.apache.openejb/cdi-embedded@1.5.1
+- pkg:maven/org.apache.openejb/cdi-embedded@1.5.1?classifier=sources

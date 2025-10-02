@@ -9,3 +9,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.1.12_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.2.4_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.2.4_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.2.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.2.6_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.2.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl@2.2.6_1?classifier=sources

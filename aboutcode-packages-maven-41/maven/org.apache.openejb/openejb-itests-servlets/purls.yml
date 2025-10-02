@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.openejb/openejb-itests-servlets@4.0.0?classifier=sources
 - pkg:maven/org.apache.openejb/openejb-itests-servlets@4.5.0
 - pkg:maven/org.apache.openejb/openejb-itests-servlets@4.5.0?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-itests-servlets@4.5.1
+- pkg:maven/org.apache.openejb/openejb-itests-servlets@4.5.1?classifier=sources
