@@ -10,3 +10,5 @@
 - pkg:maven/net.smolok/smolok-docker-spark-submit@0.0.4?classifier=sources
 - pkg:maven/net.smolok/smolok-docker-spark-submit@0.0.6
 - pkg:maven/net.smolok/smolok-docker-spark-submit@0.0.6?classifier=sources
+- pkg:maven/net.smolok/smolok-docker-spark-submit@0.0.7
+- pkg:maven/net.smolok/smolok-docker-spark-submit@0.0.7?classifier=sources

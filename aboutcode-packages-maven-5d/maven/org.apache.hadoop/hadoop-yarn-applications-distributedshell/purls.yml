@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-distributedshell@2.7.3
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-distributedshell@2.7.3?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-distributedshell@3.0.0-alpha1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-applications-distributedshell@2.6.5
+- pkg:maven/org.apache.hadoop/hadoop-yarn-applications-distributedshell@2.6.5?classifier=sources

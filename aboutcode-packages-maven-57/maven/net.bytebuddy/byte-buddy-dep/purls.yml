@@ -214,3 +214,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.30?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.29
 - pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.29?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.32
+- pkg:maven/net.bytebuddy/byte-buddy-dep@1.4.32?classifier=sources

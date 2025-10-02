@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.calcite/calcite-mongodb@1.8.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-mongodb@1.9.0
 - pkg:maven/org.apache.calcite/calcite-mongodb@1.9.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-mongodb@1.10.0
+- pkg:maven/org.apache.calcite/calcite-mongodb@1.10.0?classifier=sources
