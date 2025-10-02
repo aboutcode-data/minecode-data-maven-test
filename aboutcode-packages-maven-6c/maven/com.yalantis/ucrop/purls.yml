@@ -34,3 +34,5 @@
 - pkg:maven/com.yalantis/ucrop@2.0.0-alpha?classifier=sources
 - pkg:maven/com.yalantis/ucrop@2.0.0?type=aar
 - pkg:maven/com.yalantis/ucrop@2.0.0?classifier=sources
+- pkg:maven/com.yalantis/ucrop@2.1.0?type=aar
+- pkg:maven/com.yalantis/ucrop@2.1.0?classifier=sources
