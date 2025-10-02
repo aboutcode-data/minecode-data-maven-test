@@ -139,3 +139,4 @@
 - pkg:maven/org.picketlink/picketlink-tomcat5-single@2.7.1.Final
 - pkg:maven/org.picketlink/picketlink-tomcat5-single@2.7.1.Final?classifier=sources
 - pkg:maven/org.picketlink/picketlink-tomcat5-single@2.5.5.SP2
+- pkg:maven/org.picketlink/picketlink-tomcat5-single@2.5.5.SP2?classifier=sources

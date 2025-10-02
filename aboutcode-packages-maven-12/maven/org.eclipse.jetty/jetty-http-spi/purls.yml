@@ -226,3 +226,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-http-spi@9.3.9.v20160517?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http-spi@9.2.17.v20160517
 - pkg:maven/org.eclipse.jetty/jetty-http-spi@9.2.17.v20160517?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-http-spi@9.3.10.M0
+- pkg:maven/org.eclipse.jetty/jetty-http-spi@9.3.10.M0?classifier=sources

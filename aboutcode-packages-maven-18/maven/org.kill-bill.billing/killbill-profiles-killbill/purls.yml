@@ -70,3 +70,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.3?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.4?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.4?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.5?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.5?classifier=sources

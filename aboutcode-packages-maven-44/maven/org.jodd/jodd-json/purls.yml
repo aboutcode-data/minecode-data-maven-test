@@ -22,3 +22,5 @@
 - pkg:maven/org.jodd/jodd-json@3.6.7?classifier=sources
 - pkg:maven/org.jodd/jodd-json@3.7
 - pkg:maven/org.jodd/jodd-json@3.7?classifier=sources
+- pkg:maven/org.jodd/jodd-json@3.7.1
+- pkg:maven/org.jodd/jodd-json@3.7.1?classifier=sources

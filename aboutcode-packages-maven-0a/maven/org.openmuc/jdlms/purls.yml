@@ -10,3 +10,5 @@
 - pkg:maven/org.openmuc/jdlms@0.11.2?classifier=sources
 - pkg:maven/org.openmuc/jdlms@0.11.4
 - pkg:maven/org.openmuc/jdlms@0.11.4?classifier=sources
+- pkg:maven/org.openmuc/jdlms@1.0.0
+- pkg:maven/org.openmuc/jdlms@1.0.0?classifier=sources

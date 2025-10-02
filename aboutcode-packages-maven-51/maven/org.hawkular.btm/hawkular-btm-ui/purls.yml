@@ -9,3 +9,5 @@
 - pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.4.Final?classifier=sources
 - pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.3.Final?type=war
 - pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.3.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.8.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.8.0.Final?classifier=sources
