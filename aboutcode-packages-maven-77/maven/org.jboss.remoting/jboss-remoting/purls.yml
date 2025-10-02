@@ -173,3 +173,6 @@
 - pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta15
 - pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta15?classifier=sources
 - pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta15?classifier=source-release&type=zip
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta16
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta16?classifier=sources
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.0.Beta16?classifier=source-release&type=zip
