@@ -38,3 +38,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-configuration-service@0.21.4.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-configuration-service@0.21.3.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-configuration-service@0.21.3.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-configuration-service@0.22.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-configuration-service@0.22.0.Final?classifier=sources

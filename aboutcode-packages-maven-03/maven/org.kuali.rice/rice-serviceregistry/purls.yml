@@ -116,3 +116,5 @@
 - pkg:maven/org.kuali.rice/rice-serviceregistry@2.5.18?classifier=sources
 - pkg:maven/org.kuali.rice/rice-serviceregistry@2.3.14?type=war
 - pkg:maven/org.kuali.rice/rice-serviceregistry@2.3.14?classifier=sources
+- pkg:maven/org.kuali.rice/rice-serviceregistry@2.5.19?type=war
+- pkg:maven/org.kuali.rice/rice-serviceregistry@2.5.19?classifier=sources
