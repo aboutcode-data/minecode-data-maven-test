@@ -28,3 +28,7 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.12?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.11
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.11?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.16
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.16?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.15
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-maven-plugin@1.15?classifier=sources

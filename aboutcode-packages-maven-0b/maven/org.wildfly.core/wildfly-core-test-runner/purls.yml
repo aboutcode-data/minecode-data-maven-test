@@ -200,3 +200,5 @@
 - pkg:maven/org.wildfly.core/wildfly-core-test-runner@3.0.0.Alpha11?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.2.1.CR1
 - pkg:maven/org.wildfly.core/wildfly-core-test-runner@2.2.1.CR1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-core-test-runner@3.0.0.Alpha12
+- pkg:maven/org.wildfly.core/wildfly-core-test-runner@3.0.0.Alpha12?classifier=sources
