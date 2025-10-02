@@ -200,3 +200,5 @@
 - pkg:maven/com.proofpoint.platform/testing@1.45?classifier=sources
 - pkg:maven/com.proofpoint.platform/testing@1.44
 - pkg:maven/com.proofpoint.platform/testing@1.44?classifier=sources
+- pkg:maven/com.proofpoint.platform/testing@1.46
+- pkg:maven/com.proofpoint.platform/testing@1.46?classifier=sources

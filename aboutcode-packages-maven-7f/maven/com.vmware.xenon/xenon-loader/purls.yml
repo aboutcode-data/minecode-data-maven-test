@@ -50,3 +50,5 @@
 - pkg:maven/com.vmware.xenon/xenon-loader@0.9.7?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader@1.0.0
 - pkg:maven/com.vmware.xenon/xenon-loader@1.0.0?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader@1.1.0
+- pkg:maven/com.vmware.xenon/xenon-loader@1.1.0?classifier=sources

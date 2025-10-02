@@ -2,3 +2,5 @@
 - pkg:maven/com.yahoo.pulsar/pulsar-discovery-service@1.14?classifier=sources
 - pkg:maven/com.yahoo.pulsar/pulsar-discovery-service@1.15
 - pkg:maven/com.yahoo.pulsar/pulsar-discovery-service@1.15?classifier=sources
+- pkg:maven/com.yahoo.pulsar/pulsar-discovery-service@1.15.1
+- pkg:maven/com.yahoo.pulsar/pulsar-discovery-service@1.15.1?classifier=sources
