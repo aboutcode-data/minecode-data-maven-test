@@ -44,3 +44,5 @@
 - pkg:maven/com.distelli.objectStore/object-store-impl@5.0.0?classifier=sources
 - pkg:maven/com.distelli.objectStore/object-store-impl@4.0.2
 - pkg:maven/com.distelli.objectStore/object-store-impl@4.0.2?classifier=sources
+- pkg:maven/com.distelli.objectStore/object-store-impl@6.2.0
+- pkg:maven/com.distelli.objectStore/object-store-impl@6.2.0?classifier=sources

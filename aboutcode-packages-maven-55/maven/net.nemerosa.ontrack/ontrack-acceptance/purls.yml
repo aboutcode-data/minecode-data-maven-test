@@ -154,3 +154,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@2.29.1?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@2.29.0
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@2.29.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@feature-491-method-error-d71c3b7
+- pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@feature-491-method-error-d71c3b7?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@2.29.4
+- pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@2.29.4?classifier=sources

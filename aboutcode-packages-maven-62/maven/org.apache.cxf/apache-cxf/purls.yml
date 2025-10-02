@@ -254,3 +254,5 @@
 - pkg:maven/org.apache.cxf/apache-cxf@3.1.9?classifier=src&type=tar.gz
 - pkg:maven/org.apache.cxf/apache-cxf@3.0.12?classifier=src&type=zip
 - pkg:maven/org.apache.cxf/apache-cxf@3.0.12?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cxf/apache-cxf@3.1.10?classifier=src&type=zip
+- pkg:maven/org.apache.cxf/apache-cxf@3.1.10?classifier=src&type=tar.gz

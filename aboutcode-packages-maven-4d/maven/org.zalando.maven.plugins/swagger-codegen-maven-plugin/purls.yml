@@ -70,3 +70,7 @@
 - pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.36?classifier=sources
 - pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.35
 - pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.35?classifier=sources
+- pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.38
+- pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.38?classifier=sources
+- pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.37
+- pkg:maven/org.zalando.maven.plugins/swagger-codegen-maven-plugin@0.4.37?classifier=sources
