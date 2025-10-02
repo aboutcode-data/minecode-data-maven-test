@@ -5,3 +5,5 @@
 - pkg:maven/org.kuali.student.db/ks-rice-db@1.2.2-M2
 - pkg:maven/org.kuali.student.db/ks-rice-db@1.2.2-M3
 - pkg:maven/org.kuali.student.db/ks-rice-db@1.2.2-M4
+- pkg:maven/org.kuali.student.db/ks-rice-db@2.0.0-cm
+- pkg:maven/org.kuali.student.db/ks-rice-db@2.0.0-cm?classifier=sources

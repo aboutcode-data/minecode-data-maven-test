@@ -16,3 +16,7 @@
 - pkg:maven/org.fedorahosted.tennera/jgettext@0.9?classifier=sources
 - pkg:maven/org.fedorahosted.tennera/jgettext@0.7
 - pkg:maven/org.fedorahosted.tennera/jgettext@0.7?classifier=sources
+- pkg:maven/org.fedorahosted.tennera/jgettext@0.11
+- pkg:maven/org.fedorahosted.tennera/jgettext@0.11?classifier=sources
+- pkg:maven/org.fedorahosted.tennera/jgettext@0.10
+- pkg:maven/org.fedorahosted.tennera/jgettext@0.10?classifier=sources
