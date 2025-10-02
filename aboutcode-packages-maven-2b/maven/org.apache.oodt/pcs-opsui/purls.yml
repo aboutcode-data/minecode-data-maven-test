@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.oodt/pcs-opsui@0.8.1?classifier=sources
 - pkg:maven/org.apache.oodt/pcs-opsui@0.9?type=war
 - pkg:maven/org.apache.oodt/pcs-opsui@0.9?classifier=sources
+- pkg:maven/org.apache.oodt/pcs-opsui@0.10?type=war
+- pkg:maven/org.apache.oodt/pcs-opsui@0.10?classifier=sources

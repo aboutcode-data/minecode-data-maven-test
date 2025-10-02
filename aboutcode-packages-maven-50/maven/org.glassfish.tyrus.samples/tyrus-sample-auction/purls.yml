@@ -83,3 +83,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@1.11?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@1.11?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@1.11?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@1.12?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@1.12?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@1.12?classifier=project-src&type=zip
