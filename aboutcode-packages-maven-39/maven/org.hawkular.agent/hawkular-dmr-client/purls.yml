@@ -76,3 +76,7 @@
 - pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.3.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.2.Final
 - pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.2.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.6.Final
+- pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.6.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.5.Final
+- pkg:maven/org.hawkular.agent/hawkular-dmr-client@0.13.5.Final?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client@7.4.0-alpha2?classifier=sources
 - pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client@7.4.0-alpha3
 - pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client@7.4.0-alpha3?classifier=sources
+- pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client@7.4.0
+- pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client@7.4.0?classifier=sources
