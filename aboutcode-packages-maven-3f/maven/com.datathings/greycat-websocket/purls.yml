@@ -12,3 +12,5 @@
 - pkg:maven/com.datathings/greycat-websocket@6?classifier=sources
 - pkg:maven/com.datathings/greycat-websocket@7
 - pkg:maven/com.datathings/greycat-websocket@7?classifier=sources
+- pkg:maven/com.datathings/greycat-websocket@8
+- pkg:maven/com.datathings/greycat-websocket@8?classifier=sources

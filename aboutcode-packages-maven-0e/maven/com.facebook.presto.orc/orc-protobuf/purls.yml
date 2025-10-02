@@ -4,3 +4,5 @@
 - pkg:maven/com.facebook.presto.orc/orc-protobuf@2?classifier=sources
 - pkg:maven/com.facebook.presto.orc/orc-protobuf@3
 - pkg:maven/com.facebook.presto.orc/orc-protobuf@3?classifier=sources
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@4
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@4?classifier=sources

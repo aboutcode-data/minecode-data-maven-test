@@ -12,3 +12,5 @@
 - pkg:maven/com.datathings/greycat@6?classifier=sources
 - pkg:maven/com.datathings/greycat@7
 - pkg:maven/com.datathings/greycat@7?classifier=sources
+- pkg:maven/com.datathings/greycat@8
+- pkg:maven/com.datathings/greycat@8?classifier=sources
