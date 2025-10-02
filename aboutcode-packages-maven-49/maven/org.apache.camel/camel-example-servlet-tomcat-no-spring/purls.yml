@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat-no-spring@2.14.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat-no-spring@2.13.4?type=war
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat-no-spring@2.13.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat-no-spring@2.15.1?type=war
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat-no-spring@2.15.1?classifier=sources

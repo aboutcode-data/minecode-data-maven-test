@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel/camel-itest-spring40@2.15.0
 - pkg:maven/org.apache.camel/camel-itest-spring40@2.15.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest-spring40@2.15.1
+- pkg:maven/org.apache.camel/camel-itest-spring40@2.15.1?classifier=sources
