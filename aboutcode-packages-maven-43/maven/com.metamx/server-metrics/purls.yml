@@ -28,3 +28,5 @@
 - pkg:maven/com.metamx/server-metrics@0.2.9?classifier=sources
 - pkg:maven/com.metamx/server-metrics@0.2.10
 - pkg:maven/com.metamx/server-metrics@0.2.10?classifier=sources
+- pkg:maven/com.metamx/server-metrics@0.3.0
+- pkg:maven/com.metamx/server-metrics@0.3.0?classifier=sources
