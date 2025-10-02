@@ -47,3 +47,5 @@
 - pkg:maven/org.mockito/mockito-core@1.10.19?classifier=sources
 - pkg:maven/org.mockito/mockito-core@1.10.18
 - pkg:maven/org.mockito/mockito-core@1.10.18?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.0.3-beta
+- pkg:maven/org.mockito/mockito-core@2.0.3-beta?classifier=sources

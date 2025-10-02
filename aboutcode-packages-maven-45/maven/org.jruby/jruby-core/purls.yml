@@ -74,3 +74,5 @@
 - pkg:maven/org.jruby/jruby-core@1.7.16.2?classifier=sources
 - pkg:maven/org.jruby/jruby-core@1.7.18
 - pkg:maven/org.jruby/jruby-core@1.7.18?classifier=sources
+- pkg:maven/org.jruby/jruby-core@9.0.0.0.pre1
+- pkg:maven/org.jruby/jruby-core@9.0.0.0.pre1?classifier=sources
