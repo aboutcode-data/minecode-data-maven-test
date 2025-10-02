@@ -16,3 +16,5 @@
 - pkg:maven/org.virtuslab/unicorn-play_2.10@0.6.0-M8?classifier=sources
 - pkg:maven/org.virtuslab/unicorn-play_2.10@0.6.0-M7
 - pkg:maven/org.virtuslab/unicorn-play_2.10@0.6.0-M7?classifier=sources
+- pkg:maven/org.virtuslab/unicorn-play_2.10@0.6.0
+- pkg:maven/org.virtuslab/unicorn-play_2.10@0.6.0?classifier=sources

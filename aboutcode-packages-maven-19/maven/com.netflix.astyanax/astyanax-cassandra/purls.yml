@@ -20,3 +20,7 @@
 - pkg:maven/com.netflix.astyanax/astyanax-cassandra@1.56.48?classifier=sources
 - pkg:maven/com.netflix.astyanax/astyanax-cassandra@1.56.49
 - pkg:maven/com.netflix.astyanax/astyanax-cassandra@1.56.49?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-cassandra@2.0.1
+- pkg:maven/com.netflix.astyanax/astyanax-cassandra@2.0.1?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-cassandra@2.0.0
+- pkg:maven/com.netflix.astyanax/astyanax-cassandra@2.0.0?classifier=sources

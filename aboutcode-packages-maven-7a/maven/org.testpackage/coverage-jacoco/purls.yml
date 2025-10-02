@@ -1,0 +1,2 @@
+- pkg:maven/org.testpackage/coverage-jacoco@0.3.0
+- pkg:maven/org.testpackage/coverage-jacoco@0.3.0?classifier=sources

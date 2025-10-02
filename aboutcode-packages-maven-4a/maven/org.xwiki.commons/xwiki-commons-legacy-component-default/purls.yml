@@ -132,3 +132,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@6.1-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@6.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@6.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@6.2-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@6.2-milestone-1?classifier=sources
