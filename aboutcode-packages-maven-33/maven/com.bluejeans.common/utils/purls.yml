@@ -16,3 +16,9 @@
 - pkg:maven/com.bluejeans.common/utils@1.8?classifier=sources
 - pkg:maven/com.bluejeans.common/utils@1.7
 - pkg:maven/com.bluejeans.common/utils@1.7?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@1.9
+- pkg:maven/com.bluejeans.common/utils@1.9?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@1.11
+- pkg:maven/com.bluejeans.common/utils@1.11?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@1.10
+- pkg:maven/com.bluejeans.common/utils@1.10?classifier=sources

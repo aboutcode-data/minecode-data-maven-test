@@ -34,3 +34,5 @@
 - pkg:maven/se.jiderhamn/classloader-leak-prevention@1.15.0?classifier=sources
 - pkg:maven/se.jiderhamn/classloader-leak-prevention@1.15.1
 - pkg:maven/se.jiderhamn/classloader-leak-prevention@1.15.1?classifier=sources
+- pkg:maven/se.jiderhamn/classloader-leak-prevention@1.15.2
+- pkg:maven/se.jiderhamn/classloader-leak-prevention@1.15.2?classifier=sources
