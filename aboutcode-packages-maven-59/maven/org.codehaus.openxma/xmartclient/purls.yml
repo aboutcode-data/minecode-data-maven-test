@@ -70,3 +70,5 @@
 - pkg:maven/org.codehaus.openxma/xmartclient@5.0.9?classifier=sources
 - pkg:maven/org.codehaus.openxma/xmartclient@5.0.10
 - pkg:maven/org.codehaus.openxma/xmartclient@5.0.10?classifier=sources
+- pkg:maven/org.codehaus.openxma/xmartclient@6.0.0
+- pkg:maven/org.codehaus.openxma/xmartclient@6.0.0?classifier=sources

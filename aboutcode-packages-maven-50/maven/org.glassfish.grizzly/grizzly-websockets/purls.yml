@@ -118,3 +118,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.3-rc7?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.3
 - pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.3?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.3.1
+- pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.3.1?classifier=sources

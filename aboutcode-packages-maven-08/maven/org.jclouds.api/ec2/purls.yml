@@ -112,3 +112,7 @@
 - pkg:maven/org.jclouds.api/ec2@1.6.0-rc.2?classifier=sources
 - pkg:maven/org.jclouds.api/ec2@1.6.0-rc.3
 - pkg:maven/org.jclouds.api/ec2@1.6.0-rc.3?classifier=sources
+- pkg:maven/org.jclouds.api/ec2@1.6.0-rc.4
+- pkg:maven/org.jclouds.api/ec2@1.6.0-rc.4?classifier=sources
+- pkg:maven/org.jclouds.api/ec2@1.5.10
+- pkg:maven/org.jclouds.api/ec2@1.5.10?classifier=sources

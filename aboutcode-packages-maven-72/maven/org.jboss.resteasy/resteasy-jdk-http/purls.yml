@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jdk-http@3.0-beta-3?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-jdk-http@2.3.6.Final
 - pkg:maven/org.jboss.resteasy/resteasy-jdk-http@2.3.6.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-jdk-http@3.0-beta-4
+- pkg:maven/org.jboss.resteasy/resteasy-jdk-http@3.0-beta-4?classifier=sources

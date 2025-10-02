@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hbase/hbase-client@0.95.0
+- pkg:maven/org.apache.hbase/hbase-client@0.95.0?classifier=sources

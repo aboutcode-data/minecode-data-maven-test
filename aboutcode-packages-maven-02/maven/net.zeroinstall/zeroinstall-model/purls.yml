@@ -1,2 +1,4 @@
 - pkg:maven/net.zeroinstall/zeroinstall-model@1.14.2
 - pkg:maven/net.zeroinstall/zeroinstall-model@1.14.2?classifier=sources
+- pkg:maven/net.zeroinstall/zeroinstall-model@2.1.0
+- pkg:maven/net.zeroinstall/zeroinstall-model@2.1.0?classifier=sources
