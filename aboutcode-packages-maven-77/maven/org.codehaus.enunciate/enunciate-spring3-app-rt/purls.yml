@@ -52,3 +52,5 @@
 - pkg:maven/org.codehaus.enunciate/enunciate-spring3-app-rt@1.27-RC2?classifier=sources
 - pkg:maven/org.codehaus.enunciate/enunciate-spring3-app-rt@1.27-RC1
 - pkg:maven/org.codehaus.enunciate/enunciate-spring3-app-rt@1.27-RC1?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-spring3-app-rt@1.27
+- pkg:maven/org.codehaus.enunciate/enunciate-spring3-app-rt@1.27?classifier=sources

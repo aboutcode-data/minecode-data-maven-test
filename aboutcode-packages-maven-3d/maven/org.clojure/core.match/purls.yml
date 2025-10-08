@@ -36,3 +36,5 @@
 - pkg:maven/org.clojure/core.match@0.2.0-beta4?classifier=sources
 - pkg:maven/org.clojure/core.match@0.2.0-rc3
 - pkg:maven/org.clojure/core.match@0.2.0-rc3?classifier=sources
+- pkg:maven/org.clojure/core.match@0.2.0-rc4
+- pkg:maven/org.clojure/core.match@0.2.0-rc4?classifier=sources

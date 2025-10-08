@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel/camel-manual@2.10.6
 - pkg:maven/org.apache.camel/camel-manual@2.10.6?classifier=sources
+- pkg:maven/org.apache.camel/camel-manual@2.11.1
+- pkg:maven/org.apache.camel/camel-manual@2.11.1?classifier=sources

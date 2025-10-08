@@ -51,3 +51,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-war@2.3.5.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-war@2.3.6.Final?type=war
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-war@2.3.6.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-war@2.3.7.Final?type=war
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-war@2.3.7.Final?classifier=sources
