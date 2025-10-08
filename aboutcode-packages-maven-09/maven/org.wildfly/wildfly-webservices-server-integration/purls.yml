@@ -46,3 +46,5 @@
 - pkg:maven/org.wildfly/wildfly-webservices-server-integration@9.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-webservices-server-integration@8.2.1.Final
 - pkg:maven/org.wildfly/wildfly-webservices-server-integration@8.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-webservices-server-integration@10.0.0.Alpha6
+- pkg:maven/org.wildfly/wildfly-webservices-server-integration@10.0.0.Alpha6?classifier=sources

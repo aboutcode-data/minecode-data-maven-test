@@ -48,3 +48,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-core@6.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-core@7.0.0-M6
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-core@7.0.0-M6?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-core@7.0.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-core@7.0.0?classifier=sources

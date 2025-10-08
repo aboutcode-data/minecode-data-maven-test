@@ -42,3 +42,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@6.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@7.0.0-M6
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@7.0.0-M6?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@7.0.0
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@7.0.0?classifier=sources

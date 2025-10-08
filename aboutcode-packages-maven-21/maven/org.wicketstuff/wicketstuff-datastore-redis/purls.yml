@@ -22,3 +22,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-redis@6.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-redis@7.0.0-M6
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-redis@7.0.0-M6?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-redis@7.0.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-redis@7.0.0?classifier=sources
