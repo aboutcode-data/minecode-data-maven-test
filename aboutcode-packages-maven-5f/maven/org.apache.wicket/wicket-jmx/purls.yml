@@ -146,3 +146,7 @@
 - pkg:maven/org.apache.wicket/wicket-jmx@6.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-jmx@6.6.0
 - pkg:maven/org.apache.wicket/wicket-jmx@6.6.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-jmx@1.5.10
+- pkg:maven/org.apache.wicket/wicket-jmx@1.5.10?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-jmx@1.4.22
+- pkg:maven/org.apache.wicket/wicket-jmx@1.4.22?classifier=sources

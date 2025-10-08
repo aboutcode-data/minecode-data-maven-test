@@ -85,3 +85,5 @@
 - pkg:maven/com.sun.jersey.samples.osgi-http-service/bundle@1.14?classifier=sources
 - pkg:maven/com.sun.jersey.samples.osgi-http-service/bundle@1.15
 - pkg:maven/com.sun.jersey.samples.osgi-http-service/bundle@1.15?classifier=sources
+- pkg:maven/com.sun.jersey.samples.osgi-http-service/bundle@1.11.2
+- pkg:maven/com.sun.jersey.samples.osgi-http-service/bundle@1.11.2?classifier=sources

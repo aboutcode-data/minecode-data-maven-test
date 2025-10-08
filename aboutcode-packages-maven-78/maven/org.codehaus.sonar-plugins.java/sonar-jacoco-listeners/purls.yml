@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@1.2-RC2
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@1.2-RC2?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@1.2-RC1
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@1.2-RC1?classifier=sources
