@@ -96,3 +96,5 @@
 - pkg:maven/org.scala-lang/scalap@2.9.2-RC3?classifier=sources
 - pkg:maven/org.scala-lang/scalap@2.9.2
 - pkg:maven/org.scala-lang/scalap@2.9.2?classifier=sources
+- pkg:maven/org.scala-lang/scalap@2.10.0-M3
+- pkg:maven/org.scala-lang/scalap@2.10.0-M3?classifier=sources

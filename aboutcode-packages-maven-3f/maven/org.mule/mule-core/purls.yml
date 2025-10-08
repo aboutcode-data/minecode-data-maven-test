@@ -93,3 +93,5 @@
 - pkg:maven/org.mule/mule-core@3.3.0-RC2?classifier=sources
 - pkg:maven/org.mule/mule-core@3.3.0-RC3
 - pkg:maven/org.mule/mule-core@3.3.0-RC3?classifier=sources
+- pkg:maven/org.mule/mule-core@3.3.0-EA
+- pkg:maven/org.mule/mule-core@3.3.0-EA?classifier=sources
