@@ -234,3 +234,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-servlet@9.1.0.RC2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-servlet@9.0.7.v20131107
 - pkg:maven/org.eclipse.jetty/jetty-servlet@9.0.7.v20131107?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-servlet@9.1.0.v20131115
+- pkg:maven/org.eclipse.jetty/jetty-servlet@9.1.0.v20131115?classifier=sources

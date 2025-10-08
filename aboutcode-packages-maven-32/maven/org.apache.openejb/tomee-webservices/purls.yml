@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.openejb/tomee-webservices@1.5.1?classifier=sources
 - pkg:maven/org.apache.openejb/tomee-webservices@1.5.2
 - pkg:maven/org.apache.openejb/tomee-webservices@1.5.2?classifier=sources
+- pkg:maven/org.apache.openejb/tomee-webservices@1.6.0
+- pkg:maven/org.apache.openejb/tomee-webservices@1.6.0?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/org.apache.crunch/crunch-parent@0.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.8.0-hadoop2?classifier=source-release&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.crunch/crunch-parent@0.8.1-hadoop2?classifier=source-release&type=zip
+- pkg:maven/org.apache.crunch/crunch-parent@0.8.1?classifier=source-release&type=zip

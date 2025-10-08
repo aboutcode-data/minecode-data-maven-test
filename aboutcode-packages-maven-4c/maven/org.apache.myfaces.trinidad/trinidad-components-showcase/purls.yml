@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.myfaces.trinidad/trinidad-components-showcase@2.0.0?classifier=sources
 - pkg:maven/org.apache.myfaces.trinidad/trinidad-components-showcase@1.2.14?type=war
 - pkg:maven/org.apache.myfaces.trinidad/trinidad-components-showcase@1.2.14?classifier=sources
+- pkg:maven/org.apache.myfaces.trinidad/trinidad-components-showcase@2.1.0?type=war
+- pkg:maven/org.apache.myfaces.trinidad/trinidad-components-showcase@2.1.0?classifier=sources

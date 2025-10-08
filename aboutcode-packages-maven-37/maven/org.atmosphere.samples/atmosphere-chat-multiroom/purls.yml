@@ -14,3 +14,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.0.0?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.0.3?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.0.3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.0.4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.0.4?classifier=sources
