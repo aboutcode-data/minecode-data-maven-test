@@ -28,3 +28,7 @@
 - pkg:maven/org.springframework.data/spring-data-hadoop@2.0.2.RELEASE-hadoop12?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-hadoop@2.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-hadoop@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.1.0.RELEASE-hadoop22
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.1.0.RELEASE-hadoop22?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.1.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop@1.1.0.RELEASE?classifier=sources
