@@ -70,3 +70,5 @@
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@6.3?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@6.3.1
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@6.3.1?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@7.0
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@7.0?classifier=sources

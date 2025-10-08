@@ -96,3 +96,5 @@
 - pkg:maven/com.sun.jersey.samples/exceptions@1.18?classifier=sources
 - pkg:maven/com.sun.jersey.samples/exceptions@1.18.1?type=war
 - pkg:maven/com.sun.jersey.samples/exceptions@1.18.1?classifier=sources
+- pkg:maven/com.sun.jersey.samples/exceptions@1.18.2?type=war
+- pkg:maven/com.sun.jersey.samples/exceptions@1.18.2?classifier=sources

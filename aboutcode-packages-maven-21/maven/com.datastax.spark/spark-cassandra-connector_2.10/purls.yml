@@ -30,3 +30,5 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.1.0-alpha4?classifier=sources
 - pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.0.3
 - pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.0.3?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.1.0-beta1
+- pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.1.0-beta1?classifier=sources
