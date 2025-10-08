@@ -184,3 +184,5 @@
 - pkg:maven/org.jgroups/jgroups@3.2.12.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@3.4.0.Alpha3
 - pkg:maven/org.jgroups/jgroups@3.4.0.Alpha3?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.4.0.Beta1
+- pkg:maven/org.jgroups/jgroups@3.4.0.Beta1?classifier=sources

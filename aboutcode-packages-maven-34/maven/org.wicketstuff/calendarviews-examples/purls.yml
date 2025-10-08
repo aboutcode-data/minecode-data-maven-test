@@ -84,3 +84,5 @@
 - pkg:maven/org.wicketstuff/calendarviews-examples@1.5.9?classifier=sources
 - pkg:maven/org.wicketstuff/calendarviews-examples@1.5.9.1?type=war
 - pkg:maven/org.wicketstuff/calendarviews-examples@1.5.9.1?classifier=sources
+- pkg:maven/org.wicketstuff/calendarviews-examples@1.5.10?type=war
+- pkg:maven/org.wicketstuff/calendarviews-examples@1.5.10?classifier=sources

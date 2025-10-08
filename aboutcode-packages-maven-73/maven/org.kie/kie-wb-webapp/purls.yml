@@ -10,3 +10,5 @@
 - pkg:maven/org.kie/kie-wb-webapp@6.0.0.CR2?classifier=sources
 - pkg:maven/org.kie/kie-wb-webapp@6.0.0.CR3?type=war
 - pkg:maven/org.kie/kie-wb-webapp@6.0.0.CR3?classifier=sources
+- pkg:maven/org.kie/kie-wb-webapp@6.0.0.CR4-Pre1?type=war
+- pkg:maven/org.kie/kie-wb-webapp@6.0.0.CR4-Pre1?classifier=sources
