@@ -14,3 +14,5 @@
 - pkg:maven/org.sakaiproject.scheduler/scheduler-tool@2.9.0-rc02?classifier=sources
 - pkg:maven/org.sakaiproject.scheduler/scheduler-tool@2.9.0-rc03?type=war
 - pkg:maven/org.sakaiproject.scheduler/scheduler-tool@2.9.0-rc03?classifier=sources
+- pkg:maven/org.sakaiproject.scheduler/scheduler-tool@2.9.0?type=war
+- pkg:maven/org.sakaiproject.scheduler/scheduler-tool@2.9.0?classifier=sources

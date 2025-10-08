@@ -16,3 +16,5 @@
 - pkg:maven/org.sakaiproject.mailsender/mailsender-tool@1.7.0-rc02?classifier=sources
 - pkg:maven/org.sakaiproject.mailsender/mailsender-tool@1.7.1-rc03?type=war
 - pkg:maven/org.sakaiproject.mailsender/mailsender-tool@1.7.1-rc03?classifier=sources
+- pkg:maven/org.sakaiproject.mailsender/mailsender-tool@1.7.1?type=war
+- pkg:maven/org.sakaiproject.mailsender/mailsender-tool@1.7.1?classifier=sources
