@@ -22,3 +22,5 @@
 - pkg:maven/io.vertx/vertx-ext-resources@13?classifier=sources
 - pkg:maven/io.vertx/vertx-ext-resources@15
 - pkg:maven/io.vertx/vertx-ext-resources@15?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-resources@16
+- pkg:maven/io.vertx/vertx-ext-resources@16?classifier=sources

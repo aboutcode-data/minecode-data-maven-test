@@ -64,3 +64,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.3.0.v20150612?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.2.12.M0
 - pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.2.12.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.2.12.v20150709
+- pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.2.12.v20150709?classifier=sources

@@ -10,3 +10,6 @@
 - pkg:maven/org.bytedeco/procamtracker@0.11
 - pkg:maven/org.bytedeco/procamtracker@0.11?classifier=src&type=zip
 - pkg:maven/org.bytedeco/procamtracker@0.11?classifier=sources
+- pkg:maven/org.bytedeco/procamtracker@1.0
+- pkg:maven/org.bytedeco/procamtracker@1.0?classifier=src&type=zip
+- pkg:maven/org.bytedeco/procamtracker@1.0?classifier=sources
