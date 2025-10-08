@@ -70,3 +70,5 @@
 - pkg:maven/org.codehaus.jackson/jackson-smile@1.9.6?classifier=sources
 - pkg:maven/org.codehaus.jackson/jackson-smile@1.8.9
 - pkg:maven/org.codehaus.jackson/jackson-smile@1.8.9?classifier=sources
+- pkg:maven/org.codehaus.jackson/jackson-smile@1.9.7
+- pkg:maven/org.codehaus.jackson/jackson-smile@1.9.7?classifier=sources
