@@ -18,3 +18,7 @@
 - pkg:maven/org.kulabukhov/android-commons@0.1.7?classifier=sources
 - pkg:maven/org.kulabukhov/android-commons@0.1.9?type=aar
 - pkg:maven/org.kulabukhov/android-commons@0.1.9?classifier=sources
+- pkg:maven/org.kulabukhov/android-commons@0.1.11?type=aar
+- pkg:maven/org.kulabukhov/android-commons@0.1.11?classifier=sources
+- pkg:maven/org.kulabukhov/android-commons@0.1.10?type=aar
+- pkg:maven/org.kulabukhov/android-commons@0.1.10?classifier=sources

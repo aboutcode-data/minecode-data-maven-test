@@ -6,3 +6,5 @@
 - pkg:maven/org.rapidoid/rapidoid-cache-memcached@4.4.0?classifier=sources
 - pkg:maven/org.rapidoid/rapidoid-cache-memcached@5.0.0
 - pkg:maven/org.rapidoid/rapidoid-cache-memcached@5.0.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-cache-memcached@5.0.1
+- pkg:maven/org.rapidoid/rapidoid-cache-memcached@5.0.1?classifier=sources
