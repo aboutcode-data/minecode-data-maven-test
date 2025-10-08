@@ -26,3 +26,5 @@
 - pkg:maven/commons-io/commons-io@2.3?classifier=src&type=zip
 - pkg:maven/commons-io/commons-io@2.3?classifier=src&type=tar.gz
 - pkg:maven/commons-io/commons-io@2.3?classifier=sources
+- pkg:maven/commons-io/commons-io@2.4
+- pkg:maven/commons-io/commons-io@2.4?classifier=sources

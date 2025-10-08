@@ -26,3 +26,5 @@
 - pkg:maven/org.agilewiki.jfile/jfile@2.0.0-RC2?classifier=sources
 - pkg:maven/org.agilewiki.jfile/jfile@2.0.0-RC1a
 - pkg:maven/org.agilewiki.jfile/jfile@2.0.0-RC1a?classifier=sources
+- pkg:maven/org.agilewiki.jfile/jfile@2.0.0
+- pkg:maven/org.agilewiki.jfile/jfile@2.0.0?classifier=sources

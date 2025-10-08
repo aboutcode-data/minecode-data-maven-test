@@ -22,3 +22,5 @@
 - pkg:maven/org.grails/grails-maven-plugin@2.1.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-maven-plugin@2.1.0.RC3
 - pkg:maven/org.grails/grails-maven-plugin@2.1.0.RC3?classifier=sources
+- pkg:maven/org.grails/grails-maven-plugin@2.1.0
+- pkg:maven/org.grails/grails-maven-plugin@2.1.0?classifier=sources
