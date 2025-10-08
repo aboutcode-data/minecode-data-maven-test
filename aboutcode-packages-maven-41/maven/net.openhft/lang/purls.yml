@@ -66,3 +66,5 @@
 - pkg:maven/net.openhft/lang@6.4.19?classifier=sources
 - pkg:maven/net.openhft/lang@6.4.22
 - pkg:maven/net.openhft/lang@6.4.22?classifier=sources
+- pkg:maven/net.openhft/lang@6.5
+- pkg:maven/net.openhft/lang@6.5?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.checkerframework/checker-compat-qual@1.8.8?classifier=sources
 - pkg:maven/org.checkerframework/checker-compat-qual@1.8.9
 - pkg:maven/org.checkerframework/checker-compat-qual@1.8.9?classifier=sources
+- pkg:maven/org.checkerframework/checker-compat-qual@1.8.10
+- pkg:maven/org.checkerframework/checker-compat-qual@1.8.10?classifier=sources

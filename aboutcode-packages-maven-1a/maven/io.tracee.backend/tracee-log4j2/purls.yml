@@ -10,3 +10,5 @@
 - pkg:maven/io.tracee.backend/tracee-log4j2@0.7.0?classifier=sources
 - pkg:maven/io.tracee.backend/tracee-log4j2@0.8.0
 - pkg:maven/io.tracee.backend/tracee-log4j2@0.8.0?classifier=sources
+- pkg:maven/io.tracee.backend/tracee-log4j2@0.9.0
+- pkg:maven/io.tracee.backend/tracee-log4j2@0.9.0?classifier=sources
