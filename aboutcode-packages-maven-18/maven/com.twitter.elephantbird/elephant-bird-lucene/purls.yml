@@ -42,3 +42,5 @@
 - pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.10?classifier=sources
 - pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.11rc1
 - pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.11rc1?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.12
+- pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.12?classifier=sources

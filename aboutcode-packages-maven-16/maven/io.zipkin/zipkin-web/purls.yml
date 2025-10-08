@@ -108,3 +108,7 @@
 - pkg:maven/io.zipkin/zipkin-web@1.26.1?classifier=sources
 - pkg:maven/io.zipkin/zipkin-web@1.28.0
 - pkg:maven/io.zipkin/zipkin-web@1.28.0?classifier=sources
+- pkg:maven/io.zipkin/zipkin-web@1.30.0
+- pkg:maven/io.zipkin/zipkin-web@1.30.0?classifier=sources
+- pkg:maven/io.zipkin/zipkin-web@1.29.0
+- pkg:maven/io.zipkin/zipkin-web@1.29.0?classifier=sources

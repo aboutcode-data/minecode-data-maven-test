@@ -48,3 +48,5 @@
 - pkg:maven/de.larmic.butterfaces/showcase-myfaces@1.9.11?classifier=sources
 - pkg:maven/de.larmic.butterfaces/showcase-myfaces@1.9.13?type=war
 - pkg:maven/de.larmic.butterfaces/showcase-myfaces@1.9.13?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase-myfaces@1.9.14?type=war
+- pkg:maven/de.larmic.butterfaces/showcase-myfaces@1.9.14?classifier=sources
