@@ -266,3 +266,5 @@
 - pkg:maven/org.pustefixframework/pustefix-numberguess@0.19.22?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-numberguess@0.19.21?type=war
 - pkg:maven/org.pustefixframework/pustefix-numberguess@0.19.21?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.19.23?type=war
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.19.23?classifier=sources

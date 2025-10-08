@@ -1,2 +1,4 @@
 - pkg:maven/org.jwat/jwat-tools@0.6.0?type=zip
 - pkg:maven/org.jwat/jwat-tools@0.6.0?classifier=sources
+- pkg:maven/org.jwat/jwat-tools@0.6.1?type=zip
+- pkg:maven/org.jwat/jwat-tools@0.6.1?classifier=sources
