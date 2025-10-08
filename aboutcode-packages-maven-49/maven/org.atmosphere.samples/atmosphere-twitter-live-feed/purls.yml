@@ -28,3 +28,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.3?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.5?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@0.8.5?classifier=sources
