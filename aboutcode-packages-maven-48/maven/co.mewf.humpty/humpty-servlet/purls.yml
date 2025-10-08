@@ -1,0 +1,4 @@
+- pkg:maven/co.mewf.humpty/humpty-servlet@0.2.0
+- pkg:maven/co.mewf.humpty/humpty-servlet@0.2.0?classifier=sources
+- pkg:maven/co.mewf.humpty/humpty-servlet@0.1.0
+- pkg:maven/co.mewf.humpty/humpty-servlet@0.1.0?classifier=sources
