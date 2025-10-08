@@ -50,3 +50,5 @@
 - pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.10@2.3.8?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.10@2.3.9
 - pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.10@2.3.9?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.10@2.2.5
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.10@2.2.5?classifier=sources
