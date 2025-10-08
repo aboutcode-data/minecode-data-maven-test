@@ -139,3 +139,5 @@
 - pkg:maven/org.apache.camel/camel-jing@2.14.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-jing@2.13.4
 - pkg:maven/org.apache.camel/camel-jing@2.13.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-jing@2.15.1
+- pkg:maven/org.apache.camel/camel-jing@2.15.1?classifier=sources
