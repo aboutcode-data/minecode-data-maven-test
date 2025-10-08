@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.logging.log4j/log4j-jmx-gui@2.0-beta6
 - pkg:maven/org.apache.logging.log4j/log4j-jmx-gui@2.0-beta6?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-jmx-gui@2.0-beta7
+- pkg:maven/org.apache.logging.log4j/log4j-jmx-gui@2.0-beta7?classifier=sources

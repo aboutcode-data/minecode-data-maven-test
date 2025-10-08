@@ -12,3 +12,5 @@
 - pkg:maven/com.pholser/property-binder@2.0?classifier=sources
 - pkg:maven/com.pholser/property-binder@1.0
 - pkg:maven/com.pholser/property-binder@1.0?classifier=sources
+- pkg:maven/com.pholser/property-binder@4.0-beta-1
+- pkg:maven/com.pholser/property-binder@4.0-beta-1?classifier=sources

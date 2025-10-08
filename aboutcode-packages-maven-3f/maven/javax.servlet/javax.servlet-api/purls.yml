@@ -18,3 +18,5 @@
 - pkg:maven/javax.servlet/javax.servlet-api@3.1-b08?classifier=sources
 - pkg:maven/javax.servlet/javax.servlet-api@3.1-b09
 - pkg:maven/javax.servlet/javax.servlet-api@3.1-b09?classifier=sources
+- pkg:maven/javax.servlet/javax.servlet-api@3.1.0
+- pkg:maven/javax.servlet/javax.servlet-api@3.1.0?classifier=sources

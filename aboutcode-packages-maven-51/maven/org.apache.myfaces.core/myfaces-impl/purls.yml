@@ -106,3 +106,7 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@2.1.11?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@2.0.17
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@2.0.17?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@2.1.12
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@2.1.12?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@2.0.18
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@2.0.18?classifier=sources

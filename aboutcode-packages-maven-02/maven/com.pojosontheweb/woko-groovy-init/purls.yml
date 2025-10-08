@@ -22,3 +22,5 @@
 - pkg:maven/com.pojosontheweb/woko-groovy-init@2.2-beta7?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-groovy-init@2.2-beta6
 - pkg:maven/com.pojosontheweb/woko-groovy-init@2.2-beta6?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-groovy-init@2.2
+- pkg:maven/com.pojosontheweb/woko-groovy-init@2.2?classifier=sources

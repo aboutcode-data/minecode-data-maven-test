@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.ehcache.internal/ehcache-core@2.7.0
 - pkg:maven/net.sf.ehcache.internal/ehcache-core@2.7.0?classifier=sources
+- pkg:maven/net.sf.ehcache.internal/ehcache-core@2.7.1
+- pkg:maven/net.sf.ehcache.internal/ehcache-core@2.7.1?classifier=sources

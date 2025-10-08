@@ -170,3 +170,5 @@
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-4?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.8-b13924?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.9-b14002?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-5
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.2.6-5?classifier=sources
