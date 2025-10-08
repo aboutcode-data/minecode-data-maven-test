@@ -12,3 +12,5 @@
 - pkg:maven/org.projectlombok/lombok-maven-plugin@0.10.4.0?classifier=sources
 - pkg:maven/org.projectlombok/lombok-maven-plugin@0.10.6.0
 - pkg:maven/org.projectlombok/lombok-maven-plugin@0.10.6.0?classifier=sources
+- pkg:maven/org.projectlombok/lombok-maven-plugin@0.10.8.0
+- pkg:maven/org.projectlombok/lombok-maven-plugin@0.10.8.0?classifier=sources

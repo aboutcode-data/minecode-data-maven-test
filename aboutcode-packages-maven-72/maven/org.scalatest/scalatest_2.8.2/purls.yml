@@ -1,2 +1,4 @@
 - pkg:maven/org.scalatest/scalatest_2.8.2@1.5.1
 - pkg:maven/org.scalatest/scalatest_2.8.2@1.5.1?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.8.2@1.7.RC1
+- pkg:maven/org.scalatest/scalatest_2.8.2@1.7.RC1?classifier=sources

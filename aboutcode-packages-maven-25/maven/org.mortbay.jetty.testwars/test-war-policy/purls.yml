@@ -60,3 +60,7 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-policy@8.1.0.RC4?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-policy@7.6.0.RC4?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-policy@7.6.0.RC4?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-policy@8.1.0.RC5?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-policy@8.1.0.RC5?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-policy@7.6.0.RC5?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-policy@7.6.0.RC5?classifier=sources

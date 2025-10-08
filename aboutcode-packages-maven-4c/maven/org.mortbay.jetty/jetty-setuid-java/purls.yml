@@ -187,3 +187,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-setuid-java@8.1.0.RC4?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-setuid-java@7.6.0.RC4
 - pkg:maven/org.mortbay.jetty/jetty-setuid-java@7.6.0.RC4?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-setuid-java@8.1.0.RC5
+- pkg:maven/org.mortbay.jetty/jetty-setuid-java@8.1.0.RC5?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-setuid-java@7.6.0.RC5
+- pkg:maven/org.mortbay.jetty/jetty-setuid-java@7.6.0.RC5?classifier=sources
