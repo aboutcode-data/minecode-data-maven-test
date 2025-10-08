@@ -34,3 +34,5 @@
 - pkg:maven/io.fabric8/fabric-jolokia@1.0.0.redhat-412?classifier=sources
 - pkg:maven/io.fabric8/fabric-jolokia@1.0.0.redhat-423
 - pkg:maven/io.fabric8/fabric-jolokia@1.0.0.redhat-423?classifier=sources
+- pkg:maven/io.fabric8/fabric-jolokia@1.2.0.redhat-133
+- pkg:maven/io.fabric8/fabric-jolokia@1.2.0.redhat-133?classifier=sources

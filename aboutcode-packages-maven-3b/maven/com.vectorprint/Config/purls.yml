@@ -8,3 +8,5 @@
 - pkg:maven/com.vectorprint/Config@1.7?classifier=sources
 - pkg:maven/com.vectorprint/Config@5.0
 - pkg:maven/com.vectorprint/Config@5.0?classifier=sources
+- pkg:maven/com.vectorprint/Config@5.2
+- pkg:maven/com.vectorprint/Config@5.2?classifier=sources

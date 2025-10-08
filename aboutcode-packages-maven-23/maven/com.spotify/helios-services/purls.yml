@@ -184,3 +184,5 @@
 - pkg:maven/com.spotify/helios-services@0.8.350?classifier=sources
 - pkg:maven/com.spotify/helios-services@0.8.359?type=zip
 - pkg:maven/com.spotify/helios-services@0.8.359?classifier=sources
+- pkg:maven/com.spotify/helios-services@0.8.362?type=zip
+- pkg:maven/com.spotify/helios-services@0.8.362?classifier=sources

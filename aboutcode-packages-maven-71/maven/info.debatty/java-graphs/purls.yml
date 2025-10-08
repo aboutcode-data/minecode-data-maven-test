@@ -10,3 +10,5 @@
 - pkg:maven/info.debatty/java-graphs@0.4?classifier=sources
 - pkg:maven/info.debatty/java-graphs@0.7
 - pkg:maven/info.debatty/java-graphs@0.7?classifier=sources
+- pkg:maven/info.debatty/java-graphs@0.9
+- pkg:maven/info.debatty/java-graphs@0.9?classifier=sources
