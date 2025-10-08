@@ -34,3 +34,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@4.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@4.1.0?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@4.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-spring@3.2.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-spring@3.2.0?classifier=sources
