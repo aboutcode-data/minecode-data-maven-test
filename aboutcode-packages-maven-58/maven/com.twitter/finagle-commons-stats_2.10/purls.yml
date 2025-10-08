@@ -36,3 +36,5 @@
 - pkg:maven/com.twitter/finagle-commons-stats_2.10@6.10.0?classifier=sources
 - pkg:maven/com.twitter/finagle-commons-stats_2.10@6.11.1
 - pkg:maven/com.twitter/finagle-commons-stats_2.10@6.11.1?classifier=sources
+- pkg:maven/com.twitter/finagle-commons-stats_2.10@6.12.1
+- pkg:maven/com.twitter/finagle-commons-stats_2.10@6.12.1?classifier=sources

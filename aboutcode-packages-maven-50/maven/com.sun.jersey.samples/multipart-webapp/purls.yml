@@ -88,3 +88,5 @@
 - pkg:maven/com.sun.jersey.samples/multipart-webapp@1.11.2?classifier=sources
 - pkg:maven/com.sun.jersey.samples/multipart-webapp@1.18?type=war
 - pkg:maven/com.sun.jersey.samples/multipart-webapp@1.18?classifier=sources
+- pkg:maven/com.sun.jersey.samples/multipart-webapp@1.18.1?type=war
+- pkg:maven/com.sun.jersey.samples/multipart-webapp@1.18.1?classifier=sources

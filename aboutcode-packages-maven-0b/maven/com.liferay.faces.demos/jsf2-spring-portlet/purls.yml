@@ -10,3 +10,5 @@
 - pkg:maven/com.liferay.faces.demos/jsf2-spring-portlet@3.1.4-ga5?classifier=sources
 - pkg:maven/com.liferay.faces.demos/jsf2-spring-portlet@3.0.4-ga5?type=war
 - pkg:maven/com.liferay.faces.demos/jsf2-spring-portlet@3.0.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.demos/jsf2-spring-portlet@3.0.4-legacy-ga5?type=war
+- pkg:maven/com.liferay.faces.demos/jsf2-spring-portlet@3.0.4-legacy-ga5?classifier=sources

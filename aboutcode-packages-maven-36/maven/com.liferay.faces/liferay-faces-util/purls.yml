@@ -36,3 +36,9 @@
 - pkg:maven/com.liferay.faces/liferay-faces-util@3.1.4-ga5?classifier=sources
 - pkg:maven/com.liferay.faces/liferay-faces-util@3.0.4-ga5
 - pkg:maven/com.liferay.faces/liferay-faces-util@3.0.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-util@3.0.4-legacy-ga5
+- pkg:maven/com.liferay.faces/liferay-faces-util@3.0.4-legacy-ga5?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-util@2.2.4-ga5
+- pkg:maven/com.liferay.faces/liferay-faces-util@2.2.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-util@2.1.4-ga5
+- pkg:maven/com.liferay.faces/liferay-faces-util@2.1.4-ga5?classifier=sources
