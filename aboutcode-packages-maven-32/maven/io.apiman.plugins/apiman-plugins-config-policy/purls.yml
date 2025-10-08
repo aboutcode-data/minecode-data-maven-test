@@ -28,3 +28,5 @@
 - pkg:maven/io.apiman.plugins/apiman-plugins-config-policy@1.2.0.Alpha2?classifier=sources
 - pkg:maven/io.apiman.plugins/apiman-plugins-config-policy@1.2.0.Alpha3?type=war
 - pkg:maven/io.apiman.plugins/apiman-plugins-config-policy@1.2.0.Alpha3?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-config-policy@1.2.0.Beta1?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-config-policy@1.2.0.Beta1?classifier=sources
