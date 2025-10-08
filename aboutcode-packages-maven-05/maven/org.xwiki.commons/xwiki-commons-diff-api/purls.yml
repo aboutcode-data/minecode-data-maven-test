@@ -212,3 +212,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-api@6.4.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-api@7.2-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-api@7.2-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-api@7.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-api@7.2?classifier=sources

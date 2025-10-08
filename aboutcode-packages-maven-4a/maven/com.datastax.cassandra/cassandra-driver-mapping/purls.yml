@@ -30,3 +30,5 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@2.2.0-rc3?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@3.0.0-alpha2
 - pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@3.0.0-alpha2?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@3.0.0-alpha3
+- pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@3.0.0-alpha3?classifier=sources
