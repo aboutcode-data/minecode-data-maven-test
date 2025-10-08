@@ -1,2 +1,4 @@
 - pkg:maven/org.epics/pvmanager-exec@2.3
 - pkg:maven/org.epics/pvmanager-exec@2.3?classifier=sources
+- pkg:maven/org.epics/pvmanager-exec@2.4
+- pkg:maven/org.epics/pvmanager-exec@2.4?classifier=sources
