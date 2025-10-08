@@ -36,3 +36,5 @@
 - pkg:maven/com.gwtplatform/gwtp-all@1.4?classifier=sources
 - pkg:maven/com.gwtplatform/gwtp-all@1.5
 - pkg:maven/com.gwtplatform/gwtp-all@1.5?classifier=sources
+- pkg:maven/com.gwtplatform/gwtp-all@1.5.1
+- pkg:maven/com.gwtplatform/gwtp-all@1.5.1?classifier=sources

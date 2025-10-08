@@ -58,3 +58,5 @@
 - pkg:maven/com.netflix.pigpen/pigpen@0.3.0-rc.7?classifier=sources
 - pkg:maven/com.netflix.pigpen/pigpen@0.3.0
 - pkg:maven/com.netflix.pigpen/pigpen@0.3.0?classifier=sources
+- pkg:maven/com.netflix.pigpen/pigpen@0.3.1
+- pkg:maven/com.netflix.pigpen/pigpen@0.3.1?classifier=sources

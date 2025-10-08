@@ -40,3 +40,5 @@
 - pkg:maven/eu.limetri.ygg/ygg-client-web@0.26?classifier=sources
 - pkg:maven/eu.limetri.ygg/ygg-client-web@0.27?type=war
 - pkg:maven/eu.limetri.ygg/ygg-client-web@0.27?classifier=sources
+- pkg:maven/eu.limetri.ygg/ygg-client-web@0.28?type=war
+- pkg:maven/eu.limetri.ygg/ygg-client-web@0.28?classifier=sources
