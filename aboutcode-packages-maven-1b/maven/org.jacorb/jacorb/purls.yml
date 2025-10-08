@@ -10,3 +10,5 @@
 - pkg:maven/org.jacorb/jacorb@3.3?classifier=sources
 - pkg:maven/org.jacorb/jacorb@3.4
 - pkg:maven/org.jacorb/jacorb@3.4?classifier=sources
+- pkg:maven/org.jacorb/jacorb@3.5
+- pkg:maven/org.jacorb/jacorb@3.5?classifier=sources

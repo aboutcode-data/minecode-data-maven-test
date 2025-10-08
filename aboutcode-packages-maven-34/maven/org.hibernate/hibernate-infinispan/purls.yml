@@ -184,3 +184,7 @@
 - pkg:maven/org.hibernate/hibernate-infinispan@4.2.13.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-infinispan@4.2.14.Final
 - pkg:maven/org.hibernate/hibernate-infinispan@4.2.14.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-infinispan@4.3.6.Final
+- pkg:maven/org.hibernate/hibernate-infinispan@4.3.6.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-infinispan@4.2.15.Final
+- pkg:maven/org.hibernate/hibernate-infinispan@4.2.15.Final?classifier=sources
