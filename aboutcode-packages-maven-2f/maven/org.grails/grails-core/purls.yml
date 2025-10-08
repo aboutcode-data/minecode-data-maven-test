@@ -159,3 +159,5 @@
 - pkg:maven/org.grails/grails-core@2.5.3?classifier=sources
 - pkg:maven/org.grails/grails-core@3.1.0.M3
 - pkg:maven/org.grails/grails-core@3.1.0.M3?classifier=sources
+- pkg:maven/org.grails/grails-core@3.0.10
+- pkg:maven/org.grails/grails-core@3.0.10?classifier=sources

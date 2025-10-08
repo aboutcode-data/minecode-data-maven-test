@@ -66,3 +66,5 @@
 - pkg:maven/org.infinispan/infinispan-osgi@8.1.0.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-osgi@8.0.2.Final
 - pkg:maven/org.infinispan/infinispan-osgi@8.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-osgi@8.1.0.Final
+- pkg:maven/org.infinispan/infinispan-osgi@8.1.0.Final?classifier=sources
