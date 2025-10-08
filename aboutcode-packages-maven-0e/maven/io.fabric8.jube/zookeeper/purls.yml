@@ -2,3 +2,5 @@
 - pkg:maven/io.fabric8.jube/zookeeper@2.1.4?classifier=sources
 - pkg:maven/io.fabric8.jube/zookeeper@2.1.2
 - pkg:maven/io.fabric8.jube/zookeeper@2.1.2?classifier=sources
+- pkg:maven/io.fabric8.jube/zookeeper@2.1.5
+- pkg:maven/io.fabric8.jube/zookeeper@2.1.5?classifier=sources

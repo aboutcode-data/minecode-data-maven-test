@@ -10,3 +10,5 @@
 - pkg:maven/io.fabric8/fabric8-arquillian@2.1.3?classifier=sources
 - pkg:maven/io.fabric8/fabric8-arquillian@2.1.2
 - pkg:maven/io.fabric8/fabric8-arquillian@2.1.2?classifier=sources
+- pkg:maven/io.fabric8/fabric8-arquillian@2.1.5
+- pkg:maven/io.fabric8/fabric8-arquillian@2.1.5?classifier=sources

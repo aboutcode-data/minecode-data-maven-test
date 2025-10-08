@@ -22,3 +22,7 @@
 - pkg:maven/eu.inn/binders-cassandra_2.10@0.4.3?classifier=sources
 - pkg:maven/eu.inn/binders-cassandra_2.10@0.4.10
 - pkg:maven/eu.inn/binders-cassandra_2.10@0.4.10?classifier=sources
+- pkg:maven/eu.inn/binders-cassandra_2.10@0.6.13
+- pkg:maven/eu.inn/binders-cassandra_2.10@0.6.13?classifier=sources
+- pkg:maven/eu.inn/binders-cassandra_2.10@0.6.12
+- pkg:maven/eu.inn/binders-cassandra_2.10@0.6.12?classifier=sources

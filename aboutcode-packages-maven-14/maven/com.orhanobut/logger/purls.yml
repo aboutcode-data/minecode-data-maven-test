@@ -12,3 +12,7 @@
 - pkg:maven/com.orhanobut/logger@1.7?classifier=sources
 - pkg:maven/com.orhanobut/logger@1.6?type=aar
 - pkg:maven/com.orhanobut/logger@1.6?classifier=sources
+- pkg:maven/com.orhanobut/logger@1.9?type=aar
+- pkg:maven/com.orhanobut/logger@1.9?classifier=sources
+- pkg:maven/com.orhanobut/logger@1.10?type=aar
+- pkg:maven/com.orhanobut/logger@1.10?classifier=sources
