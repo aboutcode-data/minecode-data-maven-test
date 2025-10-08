@@ -35,3 +35,5 @@
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.15?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.16
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.16?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/htmlunit@2.17
+- pkg:maven/net.sourceforge.htmlunit/htmlunit@2.17?classifier=sources

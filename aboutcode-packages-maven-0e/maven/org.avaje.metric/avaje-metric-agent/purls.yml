@@ -12,3 +12,5 @@
 - pkg:maven/org.avaje.metric/avaje-metric-agent@3.5.0?classifier=sources
 - pkg:maven/org.avaje.metric/avaje-metric-agent@3.3.0
 - pkg:maven/org.avaje.metric/avaje-metric-agent@3.3.0?classifier=sources
+- pkg:maven/org.avaje.metric/avaje-metric-agent@4.0.1
+- pkg:maven/org.avaje.metric/avaje-metric-agent@4.0.1?classifier=sources

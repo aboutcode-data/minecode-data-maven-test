@@ -14,3 +14,5 @@
 - pkg:maven/org.clojure/test.check@0.7.0?classifier=sources
 - pkg:maven/org.clojure/test.check@0.8.0-ALPHA
 - pkg:maven/org.clojure/test.check@0.8.0-ALPHA?classifier=sources
+- pkg:maven/org.clojure/test.check@0.8.0-alpha2
+- pkg:maven/org.clojure/test.check@0.8.0-alpha2?classifier=sources
