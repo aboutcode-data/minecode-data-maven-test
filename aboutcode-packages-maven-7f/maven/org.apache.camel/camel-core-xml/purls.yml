@@ -72,3 +72,7 @@
 - pkg:maven/org.apache.camel/camel-core-xml@2.9.8?classifier=sources
 - pkg:maven/org.apache.camel/camel-core-xml@2.10.7
 - pkg:maven/org.apache.camel/camel-core-xml@2.10.7?classifier=sources
+- pkg:maven/org.apache.camel/camel-core-xml@2.12.1
+- pkg:maven/org.apache.camel/camel-core-xml@2.12.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-core-xml@2.11.2
+- pkg:maven/org.apache.camel/camel-core-xml@2.11.2?classifier=sources

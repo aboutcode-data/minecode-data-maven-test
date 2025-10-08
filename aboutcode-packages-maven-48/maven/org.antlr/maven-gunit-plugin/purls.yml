@@ -15,3 +15,5 @@
 - pkg:maven/org.antlr/maven-gunit-plugin@3.5-rc-2?classifier=sources
 - pkg:maven/org.antlr/maven-gunit-plugin@3.5
 - pkg:maven/org.antlr/maven-gunit-plugin@3.5?classifier=sources
+- pkg:maven/org.antlr/maven-gunit-plugin@3.5.1
+- pkg:maven/org.antlr/maven-gunit-plugin@3.5.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.airlift/event@0.79?classifier=sources
 - pkg:maven/io.airlift/event@0.80
 - pkg:maven/io.airlift/event@0.80?classifier=sources
+- pkg:maven/io.airlift/event@0.81
+- pkg:maven/io.airlift/event@0.81?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.7?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.8?type=war
 - pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.8?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.9?type=war
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.9?classifier=sources
