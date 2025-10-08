@@ -44,3 +44,5 @@
 - pkg:maven/org.wicketstuff/wicket-eidogo-example@1.5.8?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-eidogo-example@1.4.21?type=war
 - pkg:maven/org.wicketstuff/wicket-eidogo-example@1.4.21?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-eidogo-example@1.5.8.1?type=war
+- pkg:maven/org.wicketstuff/wicket-eidogo-example@1.5.8.1?classifier=sources

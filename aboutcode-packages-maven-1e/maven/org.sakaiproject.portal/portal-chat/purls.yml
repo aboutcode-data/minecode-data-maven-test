@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.portal/portal-chat@2.9.0-rc02?type=war
 - pkg:maven/org.sakaiproject.portal/portal-chat@2.9.0-rc02?classifier=sources
+- pkg:maven/org.sakaiproject.portal/portal-chat@2.9.0-rc03?type=war
+- pkg:maven/org.sakaiproject.portal/portal-chat@2.9.0-rc03?classifier=sources

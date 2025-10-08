@@ -1,2 +1,4 @@
 - pkg:maven/com.jcabi/jcabi-heroku-maven-plugin@0.4
 - pkg:maven/com.jcabi/jcabi-heroku-maven-plugin@0.4?classifier=sources
+- pkg:maven/com.jcabi/jcabi-heroku-maven-plugin@0.4.1
+- pkg:maven/com.jcabi/jcabi-heroku-maven-plugin@0.4.1?classifier=sources
