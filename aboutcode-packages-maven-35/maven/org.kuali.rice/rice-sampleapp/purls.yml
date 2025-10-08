@@ -98,3 +98,9 @@
 - pkg:maven/org.kuali.rice/rice-sampleapp@2.3.7?classifier=sources
 - pkg:maven/org.kuali.rice/rice-sampleapp@1.0.8
 - pkg:maven/org.kuali.rice/rice-sampleapp@1.0.8?classifier=sources
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.5.4?type=war
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.5.4?classifier=sources
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.3.8?type=war
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.3.8?classifier=sources
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.1.11?type=war
+- pkg:maven/org.kuali.rice/rice-sampleapp@2.1.11?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp-web@2.5.2?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp-web@2.5.3?type=war
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp-web@2.5.3?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp-web@2.5.4?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp-web@2.5.4?classifier=sources
