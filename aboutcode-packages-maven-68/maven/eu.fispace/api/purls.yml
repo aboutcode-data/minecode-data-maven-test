@@ -32,3 +32,5 @@
 - pkg:maven/eu.fispace/api@0.13.0-S1445?classifier=sources
 - pkg:maven/eu.fispace/api@0.13.1-S1447
 - pkg:maven/eu.fispace/api@0.13.1-S1447?classifier=sources
+- pkg:maven/eu.fispace/api@0.13.0
+- pkg:maven/eu.fispace/api@0.13.0?classifier=sources

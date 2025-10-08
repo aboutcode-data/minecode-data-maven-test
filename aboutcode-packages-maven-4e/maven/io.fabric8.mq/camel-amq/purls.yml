@@ -16,3 +16,7 @@
 - pkg:maven/io.fabric8.mq/camel-amq@2.0.8?classifier=sources
 - pkg:maven/io.fabric8.mq/camel-amq@2.0.7
 - pkg:maven/io.fabric8.mq/camel-amq@2.0.7?classifier=sources
+- pkg:maven/io.fabric8.mq/camel-amq@2.0.9
+- pkg:maven/io.fabric8.mq/camel-amq@2.0.9?classifier=sources
+- pkg:maven/io.fabric8.mq/camel-amq@2.0.10
+- pkg:maven/io.fabric8.mq/camel-amq@2.0.10?classifier=sources

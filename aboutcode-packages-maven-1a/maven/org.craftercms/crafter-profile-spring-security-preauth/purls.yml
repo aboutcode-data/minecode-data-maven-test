@@ -26,3 +26,5 @@
 - pkg:maven/org.craftercms/crafter-profile-spring-security-preauth@v2.4.1-RC3?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-spring-security-preauth@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-profile-spring-security-preauth@v2.4.1-RC2?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-spring-security-preauth@2.4.1
+- pkg:maven/org.craftercms/crafter-profile-spring-security-preauth@2.4.1?classifier=sources

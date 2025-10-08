@@ -13,3 +13,4 @@
 - pkg:maven/org.deeplearning4j/deeplearning4j-aws@0.0.3.2.4
 - pkg:maven/org.deeplearning4j/deeplearning4j-aws@0.0.3.2.4?classifier=sources
 - pkg:maven/org.deeplearning4j/deeplearning4j-aws@0.0.3.2.7
+- pkg:maven/org.deeplearning4j/deeplearning4j-aws@0.0.3.2.7?classifier=sources
