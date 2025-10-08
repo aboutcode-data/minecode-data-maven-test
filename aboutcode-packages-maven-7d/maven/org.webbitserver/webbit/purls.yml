@@ -30,3 +30,5 @@
 - pkg:maven/org.webbitserver/webbit@0.2.12?classifier=sources
 - pkg:maven/org.webbitserver/webbit@0.2.16
 - pkg:maven/org.webbitserver/webbit@0.2.16?classifier=sources
+- pkg:maven/org.webbitserver/webbit@0.3.0
+- pkg:maven/org.webbitserver/webbit@0.3.0?classifier=sources

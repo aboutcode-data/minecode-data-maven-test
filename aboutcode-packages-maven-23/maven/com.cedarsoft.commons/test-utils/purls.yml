@@ -45,3 +45,7 @@
 - pkg:maven/com.cedarsoft.commons/test-utils@1.4.1?classifier=sources
 - pkg:maven/com.cedarsoft.commons/test-utils@1.4.0
 - pkg:maven/com.cedarsoft.commons/test-utils@1.4.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons/test-utils@5.0.3
+- pkg:maven/com.cedarsoft.commons/test-utils@5.0.3?classifier=sources
+- pkg:maven/com.cedarsoft.commons/test-utils@5.0.2
+- pkg:maven/com.cedarsoft.commons/test-utils@5.0.2?classifier=sources

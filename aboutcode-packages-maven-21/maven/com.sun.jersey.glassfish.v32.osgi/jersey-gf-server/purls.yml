@@ -45,3 +45,5 @@
 - pkg:maven/com.sun.jersey.glassfish.v32.osgi/jersey-gf-server@1.10?classifier=sources
 - pkg:maven/com.sun.jersey.glassfish.v32.osgi/jersey-gf-server@1.11-b01
 - pkg:maven/com.sun.jersey.glassfish.v32.osgi/jersey-gf-server@1.11-b01?classifier=sources
+- pkg:maven/com.sun.jersey.glassfish.v32.osgi/jersey-gf-server@1.11-b02
+- pkg:maven/com.sun.jersey.glassfish.v32.osgi/jersey-gf-server@1.11-b02?classifier=sources

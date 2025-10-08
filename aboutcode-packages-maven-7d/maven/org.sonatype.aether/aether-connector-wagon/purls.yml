@@ -32,3 +32,5 @@
 - pkg:maven/org.sonatype.aether/aether-connector-wagon@1.1?classifier=sources
 - pkg:maven/org.sonatype.aether/aether-connector-wagon@1.0
 - pkg:maven/org.sonatype.aether/aether-connector-wagon@1.0?classifier=sources
+- pkg:maven/org.sonatype.aether/aether-connector-wagon@1.13.1
+- pkg:maven/org.sonatype.aether/aether-connector-wagon@1.13.1?classifier=sources

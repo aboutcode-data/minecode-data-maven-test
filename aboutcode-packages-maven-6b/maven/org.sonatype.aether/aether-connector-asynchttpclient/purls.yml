@@ -14,3 +14,5 @@
 - pkg:maven/org.sonatype.aether/aether-connector-asynchttpclient@1.10.1?classifier=sources
 - pkg:maven/org.sonatype.aether/aether-connector-asynchttpclient@1.10
 - pkg:maven/org.sonatype.aether/aether-connector-asynchttpclient@1.10?classifier=sources
+- pkg:maven/org.sonatype.aether/aether-connector-asynchttpclient@1.13.1
+- pkg:maven/org.sonatype.aether/aether-connector-asynchttpclient@1.13.1?classifier=sources

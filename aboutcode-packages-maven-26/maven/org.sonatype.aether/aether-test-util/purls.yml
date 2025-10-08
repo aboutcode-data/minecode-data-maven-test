@@ -30,3 +30,5 @@
 - pkg:maven/org.sonatype.aether/aether-test-util@1.1.1?classifier=sources
 - pkg:maven/org.sonatype.aether/aether-test-util@1.1
 - pkg:maven/org.sonatype.aether/aether-test-util@1.1?classifier=sources
+- pkg:maven/org.sonatype.aether/aether-test-util@1.13.1
+- pkg:maven/org.sonatype.aether/aether-test-util@1.13.1?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.redhat.rhevm.api/build-tools@1.0-rc1.17?classifier=sources
 - pkg:maven/com.redhat.rhevm.api/build-tools@1.0-rc1.16
 - pkg:maven/com.redhat.rhevm.api/build-tools@1.0-rc1.16?classifier=sources
+- pkg:maven/com.redhat.rhevm.api/build-tools@1.0-rc1.21
+- pkg:maven/com.redhat.rhevm.api/build-tools@1.0-rc1.21?classifier=sources

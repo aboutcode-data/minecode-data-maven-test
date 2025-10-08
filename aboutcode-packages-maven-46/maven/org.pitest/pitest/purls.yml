@@ -6,3 +6,5 @@
 - pkg:maven/org.pitest/pitest@0.21?classifier=sources
 - pkg:maven/org.pitest/pitest@0.20
 - pkg:maven/org.pitest/pitest@0.20?classifier=sources
+- pkg:maven/org.pitest/pitest@0.24
+- pkg:maven/org.pitest/pitest@0.24?classifier=sources

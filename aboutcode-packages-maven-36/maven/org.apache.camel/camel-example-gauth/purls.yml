@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.camel/camel-example-gauth@2.7.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-gauth@2.9.0-RC1?type=war
 - pkg:maven/org.apache.camel/camel-example-gauth@2.9.0-RC1?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-gauth@2.8.3?type=war
+- pkg:maven/org.apache.camel/camel-example-gauth@2.8.3?classifier=sources

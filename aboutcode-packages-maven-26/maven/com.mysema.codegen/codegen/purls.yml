@@ -68,3 +68,5 @@
 - pkg:maven/com.mysema.codegen/codegen@0.1.0?classifier=sources
 - pkg:maven/com.mysema.codegen/codegen@0.4.4
 - pkg:maven/com.mysema.codegen/codegen@0.4.4?classifier=sources
+- pkg:maven/com.mysema.codegen/codegen@0.4.5
+- pkg:maven/com.mysema.codegen/codegen@0.4.5?classifier=sources

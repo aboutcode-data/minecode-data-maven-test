@@ -40,3 +40,5 @@
 - pkg:maven/org.jboss.xnio/xnio-api@3.0.0.CR1?classifier=sources
 - pkg:maven/org.jboss.xnio/xnio-api@3.0.0.CR4
 - pkg:maven/org.jboss.xnio/xnio-api@3.0.0.CR4?classifier=sources
+- pkg:maven/org.jboss.xnio/xnio-api@3.0.0.CR5
+- pkg:maven/org.jboss.xnio/xnio-api@3.0.0.CR5?classifier=sources
