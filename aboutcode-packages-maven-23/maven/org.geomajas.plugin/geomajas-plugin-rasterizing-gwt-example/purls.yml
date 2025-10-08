@@ -14,3 +14,5 @@
 - pkg:maven/org.geomajas.plugin/geomajas-plugin-rasterizing-gwt-example@1.15.0-M2?classifier=sources
 - pkg:maven/org.geomajas.plugin/geomajas-plugin-rasterizing-gwt-example@1.15.0-M3?type=war
 - pkg:maven/org.geomajas.plugin/geomajas-plugin-rasterizing-gwt-example@1.15.0-M3?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-rasterizing-gwt-example@1.15.1?type=war
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-rasterizing-gwt-example@1.15.1?classifier=sources

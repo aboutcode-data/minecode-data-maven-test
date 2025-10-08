@@ -6,3 +6,4 @@
 - pkg:maven/org.rhq.metrics/rest-servlet@0.2.1.20140710-M2?classifier=sources
 - pkg:maven/org.rhq.metrics/rest-servlet@0.2.2.20140726-M3?type=war
 - pkg:maven/org.rhq.metrics/rest-servlet@0.2.2.20140726-M3?classifier=sources
+- pkg:maven/org.rhq.metrics/rest-servlet@0.2.3.20141020-M4?type=war
