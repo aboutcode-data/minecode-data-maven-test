@@ -40,3 +40,7 @@
 - pkg:maven/com.groupbyinc/common-jackson@38?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@39
 - pkg:maven/com.groupbyinc/common-jackson@39?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@41
+- pkg:maven/com.groupbyinc/common-jackson@41?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@40
+- pkg:maven/com.groupbyinc/common-jackson@40?classifier=sources

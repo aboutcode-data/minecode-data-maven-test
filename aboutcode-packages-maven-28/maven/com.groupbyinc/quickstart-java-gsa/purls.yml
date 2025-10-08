@@ -144,3 +144,5 @@
 - pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.238?classifier=sources
 - pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.237?type=war
 - pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.237?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.245?type=war
+- pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.245?classifier=sources
