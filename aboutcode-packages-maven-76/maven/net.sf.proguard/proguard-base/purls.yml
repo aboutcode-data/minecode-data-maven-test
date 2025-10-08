@@ -10,3 +10,5 @@
 - pkg:maven/net.sf.proguard/proguard-base@4.3?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-base@4.2
 - pkg:maven/net.sf.proguard/proguard-base@4.2?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-base@4.7
+- pkg:maven/net.sf.proguard/proguard-base@4.7?classifier=sources

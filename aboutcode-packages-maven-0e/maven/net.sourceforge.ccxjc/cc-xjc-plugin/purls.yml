@@ -38,3 +38,5 @@
 - pkg:maven/net.sourceforge.ccxjc/cc-xjc-plugin@1.0-beta-1
 - pkg:maven/net.sourceforge.ccxjc/cc-xjc-plugin@1.0
 - pkg:maven/net.sourceforge.ccxjc/cc-xjc-plugin@1.0?classifier=sources
+- pkg:maven/net.sourceforge.ccxjc/cc-xjc-plugin@2.0.1
+- pkg:maven/net.sourceforge.ccxjc/cc-xjc-plugin@2.0.1?classifier=sources

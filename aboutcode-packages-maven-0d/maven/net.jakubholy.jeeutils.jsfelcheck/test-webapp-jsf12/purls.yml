@@ -8,3 +8,5 @@
 - pkg:maven/net.jakubholy.jeeutils.jsfelcheck/test-webapp-jsf12@0.9.9?classifier=sources
 - pkg:maven/net.jakubholy.jeeutils.jsfelcheck/test-webapp-jsf12@0.9.8?type=war
 - pkg:maven/net.jakubholy.jeeutils.jsfelcheck/test-webapp-jsf12@0.9.8?classifier=sources
+- pkg:maven/net.jakubholy.jeeutils.jsfelcheck/test-webapp-jsf12@1.0.0?type=war
+- pkg:maven/net.jakubholy.jeeutils.jsfelcheck/test-webapp-jsf12@1.0.0?classifier=sources
