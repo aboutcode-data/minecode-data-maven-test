@@ -104,3 +104,5 @@
 - pkg:maven/org.apache.camel/camel-example-spring-ws@2.13.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-spring-ws@2.15.1?type=war
 - pkg:maven/org.apache.camel/camel-example-spring-ws@2.15.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-spring-ws@2.15.2?type=war
+- pkg:maven/org.apache.camel/camel-example-spring-ws@2.15.2?classifier=sources

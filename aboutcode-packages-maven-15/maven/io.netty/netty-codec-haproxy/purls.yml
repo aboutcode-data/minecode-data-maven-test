@@ -8,3 +8,5 @@
 - pkg:maven/io.netty/netty-codec-haproxy@5.0.0.Alpha2?classifier=sources
 - pkg:maven/io.netty/netty-codec-haproxy@4.1.0.Beta4
 - pkg:maven/io.netty/netty-codec-haproxy@4.1.0.Beta4?classifier=sources
+- pkg:maven/io.netty/netty-codec-haproxy@4.1.0.Beta5
+- pkg:maven/io.netty/netty-codec-haproxy@4.1.0.Beta5?classifier=sources
