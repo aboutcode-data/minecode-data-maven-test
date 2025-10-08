@@ -1,0 +1,4 @@
+- pkg:maven/log4j/apache-log4j-extras@1.1
+- pkg:maven/log4j/apache-log4j-extras@1.1?classifier=sources
+- pkg:maven/log4j/apache-log4j-extras@1.0
+- pkg:maven/log4j/apache-log4j-extras@1.0?classifier=sources
