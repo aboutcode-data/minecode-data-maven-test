@@ -1,0 +1,10 @@
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.7.1
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.7.1?classifier=sources
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.7
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.7?classifier=sources
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.5.1
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.5.1?classifier=sources
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.5.0
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.5.0?classifier=sources
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.3.1
+- pkg:maven/org.eclipse.jdt.core.compiler/ecj@3.3.1?classifier=sources
