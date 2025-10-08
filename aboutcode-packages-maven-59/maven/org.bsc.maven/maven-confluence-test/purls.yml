@@ -4,3 +4,7 @@
 - pkg:maven/org.bsc.maven/maven-confluence-test@3.2.3
 - pkg:maven/org.bsc.maven/maven-confluence-test@3.2.4
 - pkg:maven/org.bsc.maven/maven-confluence-test@3.2.4?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-test@3.3.0-beta2
+- pkg:maven/org.bsc.maven/maven-confluence-test@3.3.0-beta2?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-test@3.3.0-beta1
+- pkg:maven/org.bsc.maven/maven-confluence-test@3.3.0-beta1?classifier=sources

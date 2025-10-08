@@ -32,3 +32,5 @@
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-login@1.1.10.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-login@2.0.0.Beta1?type=war
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-login@2.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-login@2.0.0.Beta2?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-login@2.0.0.Beta2?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.jboss.errai/errai-javax-enterprise@2.1.1.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-javax-enterprise@2.2.0.CR1
 - pkg:maven/org.jboss.errai/errai-javax-enterprise@2.2.0.CR1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-javax-enterprise@2.2.0.CR2
+- pkg:maven/org.jboss.errai/errai-javax-enterprise@2.2.0.CR2?classifier=sources

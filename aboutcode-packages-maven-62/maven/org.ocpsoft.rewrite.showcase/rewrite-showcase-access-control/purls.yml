@@ -1,2 +1,4 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@1.1.0.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@1.1.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Alpha2?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Alpha2?classifier=sources

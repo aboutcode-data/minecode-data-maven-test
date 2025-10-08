@@ -2,3 +2,5 @@
 - pkg:maven/org.neo4j/neo4j-cluster@1.9.M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cluster@1.9.M02
 - pkg:maven/org.neo4j/neo4j-cluster@1.9.M02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cluster@1.9.M03
+- pkg:maven/org.neo4j/neo4j-cluster@1.9.M03?classifier=sources

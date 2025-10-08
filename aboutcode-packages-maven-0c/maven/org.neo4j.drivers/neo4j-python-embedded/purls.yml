@@ -2,3 +2,5 @@
 - pkg:maven/org.neo4j.drivers/neo4j-python-embedded@1.7.2?classifier=sources
 - pkg:maven/org.neo4j.drivers/neo4j-python-embedded@1.9.M02
 - pkg:maven/org.neo4j.drivers/neo4j-python-embedded@1.9.M02?classifier=sources
+- pkg:maven/org.neo4j.drivers/neo4j-python-embedded@1.9.M03
+- pkg:maven/org.neo4j.drivers/neo4j-python-embedded@1.9.M03?classifier=sources
