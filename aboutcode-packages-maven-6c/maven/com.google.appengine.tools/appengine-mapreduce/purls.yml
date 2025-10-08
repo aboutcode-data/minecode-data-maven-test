@@ -18,3 +18,5 @@
 - pkg:maven/com.google.appengine.tools/appengine-mapreduce@0.7.2?classifier=sources
 - pkg:maven/com.google.appengine.tools/appengine-mapreduce@0.8
 - pkg:maven/com.google.appengine.tools/appengine-mapreduce@0.8?classifier=sources
+- pkg:maven/com.google.appengine.tools/appengine-mapreduce@0.8.1
+- pkg:maven/com.google.appengine.tools/appengine-mapreduce@0.8.1?classifier=sources

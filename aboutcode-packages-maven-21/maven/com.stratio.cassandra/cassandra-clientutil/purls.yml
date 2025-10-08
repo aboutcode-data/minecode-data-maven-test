@@ -12,3 +12,5 @@
 - pkg:maven/com.stratio.cassandra/cassandra-clientutil@2.0.83?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-clientutil@2.0.92
 - pkg:maven/com.stratio.cassandra/cassandra-clientutil@2.0.92?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-clientutil@2.1.01
+- pkg:maven/com.stratio.cassandra/cassandra-clientutil@2.1.01?classifier=sources
