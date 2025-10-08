@@ -152,3 +152,5 @@
 - pkg:maven/io.fabric8/gateway-model@2.2.2?classifier=sources
 - pkg:maven/io.fabric8/gateway-model@1.2.0.redhat-133
 - pkg:maven/io.fabric8/gateway-model@1.2.0.redhat-133?classifier=sources
+- pkg:maven/io.fabric8/gateway-model@2.2.5
+- pkg:maven/io.fabric8/gateway-model@2.2.5?classifier=sources

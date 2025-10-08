@@ -168,3 +168,5 @@
 - pkg:maven/io.fabric8/fabric8-maven-plugin@2.2.2?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-plugin@1.2.0.redhat-133
 - pkg:maven/io.fabric8/fabric8-maven-plugin@1.2.0.redhat-133?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-plugin@2.2.5
+- pkg:maven/io.fabric8/fabric8-maven-plugin@2.2.5?classifier=sources

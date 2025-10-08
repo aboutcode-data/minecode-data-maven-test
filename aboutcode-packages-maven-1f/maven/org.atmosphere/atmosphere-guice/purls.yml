@@ -179,3 +179,5 @@
 - pkg:maven/org.atmosphere/atmosphere-guice@2.3.0-RC5?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-guice@2.3.0
 - pkg:maven/org.atmosphere/atmosphere-guice@2.3.0?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-guice@2.3.1
+- pkg:maven/org.atmosphere/atmosphere-guice@2.3.1?classifier=sources

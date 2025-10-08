@@ -40,3 +40,5 @@
 - pkg:maven/io.vertx/vertx-hazelcast@3.0.0-milestone6?classifier=sources
 - pkg:maven/io.vertx/vertx-hazelcast@3.0.0
 - pkg:maven/io.vertx/vertx-hazelcast@3.0.0?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1.6
+- pkg:maven/io.vertx/vertx-hazelcast@2.1.6?classifier=sources
