@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.crunch/crunch-core@0.7.0-hadoop2?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-core@0.7.0
 - pkg:maven/org.apache.crunch/crunch-core@0.7.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-core@0.8.0-hadoop2
+- pkg:maven/org.apache.crunch/crunch-core@0.8.0-hadoop2?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-core@0.8.0
+- pkg:maven/org.apache.crunch/crunch-core@0.8.0?classifier=sources

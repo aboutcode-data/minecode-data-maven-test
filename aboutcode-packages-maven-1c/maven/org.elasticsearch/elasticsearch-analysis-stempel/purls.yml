@@ -14,3 +14,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-stempel@1.6.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-stempel@1.7.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-stempel@1.7.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-stempel@1.8.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-stempel@1.8.0?classifier=sources

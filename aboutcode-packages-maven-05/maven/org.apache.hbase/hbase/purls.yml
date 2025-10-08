@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.hbase/hbase@0.94.11?classifier=sources
 - pkg:maven/org.apache.hbase/hbase@0.94.12?type=zip
 - pkg:maven/org.apache.hbase/hbase@0.94.12?classifier=sources
+- pkg:maven/org.apache.hbase/hbase@0.94.13?type=zip
+- pkg:maven/org.apache.hbase/hbase@0.94.13?classifier=sources
