@@ -74,3 +74,5 @@
 - pkg:maven/com.facebook.presto/presto-benchmark-driver@0.124?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchmark-driver@0.126
 - pkg:maven/com.facebook.presto/presto-benchmark-driver@0.126?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark-driver@0.127
+- pkg:maven/com.facebook.presto/presto-benchmark-driver@0.127?classifier=sources

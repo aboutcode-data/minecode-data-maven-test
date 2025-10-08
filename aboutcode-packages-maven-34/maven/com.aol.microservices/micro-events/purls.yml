@@ -20,3 +20,9 @@
 - pkg:maven/com.aol.microservices/micro-events@0.70?classifier=sources
 - pkg:maven/com.aol.microservices/micro-events@0.69
 - pkg:maven/com.aol.microservices/micro-events@0.69?classifier=sources
+- pkg:maven/com.aol.microservices/micro-events@0.75
+- pkg:maven/com.aol.microservices/micro-events@0.75?classifier=sources
+- pkg:maven/com.aol.microservices/micro-events@0.74
+- pkg:maven/com.aol.microservices/micro-events@0.74?classifier=sources
+- pkg:maven/com.aol.microservices/micro-events@0.73
+- pkg:maven/com.aol.microservices/micro-events@0.73?classifier=sources
