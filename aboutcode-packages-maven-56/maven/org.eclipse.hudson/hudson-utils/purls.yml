@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.hudson/hudson-utils@3.1.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.hudson/hudson-utils@3.1.0
 - pkg:maven/org.eclipse.hudson/hudson-utils@3.1.0?classifier=sources
+- pkg:maven/org.eclipse.hudson/hudson-utils@3.1.1-RC1
+- pkg:maven/org.eclipse.hudson/hudson-utils@3.1.1-RC1?classifier=sources

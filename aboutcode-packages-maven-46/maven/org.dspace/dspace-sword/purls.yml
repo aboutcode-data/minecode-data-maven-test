@@ -12,3 +12,7 @@
 - pkg:maven/org.dspace/dspace-sword@3.2?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@4.0-rc1?type=war
 - pkg:maven/org.dspace/dspace-sword@4.0-rc1?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@4.0-rc3?type=war
+- pkg:maven/org.dspace/dspace-sword@4.0-rc3?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@4.0-rc2?type=war
+- pkg:maven/org.dspace/dspace-sword@4.0-rc2?classifier=sources

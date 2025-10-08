@@ -1,0 +1,6 @@
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.9
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.9?classifier=sources
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.8
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.8?classifier=sources
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.7
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.7?classifier=sources
