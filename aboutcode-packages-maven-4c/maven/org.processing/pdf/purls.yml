@@ -16,3 +16,5 @@
 - pkg:maven/org.processing/pdf@3.0b7?classifier=sources
 - pkg:maven/org.processing/pdf@3.0
 - pkg:maven/org.processing/pdf@3.0?classifier=sources
+- pkg:maven/org.processing/pdf@3.0.1
+- pkg:maven/org.processing/pdf@3.0.1?classifier=sources
