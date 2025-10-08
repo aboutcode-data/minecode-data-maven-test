@@ -199,3 +199,6 @@
 - pkg:maven/io.undertow/undertow-parser-generator@1.1.0.CR8
 - pkg:maven/io.undertow/undertow-parser-generator@1.1.0.CR8?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@1.2.0.Beta6
+- pkg:maven/io.undertow/undertow-parser-generator@1.2.0.Beta6?classifier=sources
+- pkg:maven/io.undertow/undertow-parser-generator@1.1.1.Final
+- pkg:maven/io.undertow/undertow-parser-generator@1.1.1.Final?classifier=sources
