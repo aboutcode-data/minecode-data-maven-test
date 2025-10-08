@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-datajoin@2.0.3-alpha?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-datajoin@0.23.7
 - pkg:maven/org.apache.hadoop/hadoop-datajoin@0.23.7?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-datajoin@2.0.4-alpha
+- pkg:maven/org.apache.hadoop/hadoop-datajoin@2.0.4-alpha?classifier=sources
