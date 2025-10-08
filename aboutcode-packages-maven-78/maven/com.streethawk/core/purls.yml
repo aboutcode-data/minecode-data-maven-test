@@ -16,3 +16,5 @@
 - pkg:maven/com.streethawk/core@1.7.11?classifier=sources
 - pkg:maven/com.streethawk/core@1.7.13?type=aar
 - pkg:maven/com.streethawk/core@1.7.13?classifier=sources
+- pkg:maven/com.streethawk/core@1.7.14?type=aar
+- pkg:maven/com.streethawk/core@1.7.14?classifier=sources

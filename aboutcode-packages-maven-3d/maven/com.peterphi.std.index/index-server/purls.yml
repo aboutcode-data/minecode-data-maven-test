@@ -76,3 +76,5 @@
 - pkg:maven/com.peterphi.std.index/index-server@8.5.3?classifier=sources
 - pkg:maven/com.peterphi.std.index/index-server@8.5.2?type=war
 - pkg:maven/com.peterphi.std.index/index-server@8.5.2?classifier=sources
+- pkg:maven/com.peterphi.std.index/index-server@8.5.5?type=war
+- pkg:maven/com.peterphi.std.index/index-server@8.5.5?classifier=sources

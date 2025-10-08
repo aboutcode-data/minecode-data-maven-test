@@ -1,2 +1,4 @@
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-core@0.45
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-core@0.45?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-core@0.46
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-core@0.46?classifier=sources
