@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.httpcomponents/fluent-hc@4.4-alpha1?classifier=sources
 - pkg:maven/org.apache.httpcomponents/fluent-hc@4.3.5
 - pkg:maven/org.apache.httpcomponents/fluent-hc@4.3.5?classifier=sources
+- pkg:maven/org.apache.httpcomponents/fluent-hc@4.4-beta1
+- pkg:maven/org.apache.httpcomponents/fluent-hc@4.4-beta1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.opendse/opendse-generator@1.1
 - pkg:maven/net.sf.opendse/opendse-generator@1.1?classifier=sources
+- pkg:maven/net.sf.opendse/opendse-generator@1.2
+- pkg:maven/net.sf.opendse/opendse-generator@1.2?classifier=sources
