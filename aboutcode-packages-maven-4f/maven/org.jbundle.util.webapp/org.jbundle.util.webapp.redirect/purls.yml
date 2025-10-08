@@ -1,0 +1,5 @@
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@1.0.0?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@0.9.4?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@0.9.3?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@0.9.1?type=war
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@0.9.1?classifier=sources

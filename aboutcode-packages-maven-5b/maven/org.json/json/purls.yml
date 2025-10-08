@@ -1,0 +1,5 @@
+- pkg:maven/org.json/json@20090211
+- pkg:maven/org.json/json@20080701
+- pkg:maven/org.json/json@20080701?classifier=sources
+- pkg:maven/org.json/json@20070829
+- pkg:maven/org.json/json@20070829?classifier=sources
