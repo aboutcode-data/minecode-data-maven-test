@@ -1,0 +1,4 @@
+- pkg:maven/org.jamon/jamon-nodegen-plugin@2.4.0
+- pkg:maven/org.jamon/jamon-nodegen-plugin@2.4.0?classifier=sources
+- pkg:maven/org.jamon/jamon-nodegen-plugin@1.0.0
+- pkg:maven/org.jamon/jamon-nodegen-plugin@1.0.0?classifier=sources
