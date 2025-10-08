@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.karaf/apache-karaf@3.0.0.RC1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.karaf/apache-karaf@2.2.11?classifier=src&type=zip
 - pkg:maven/org.apache.karaf/apache-karaf@2.2.11?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf/apache-karaf@2.3.2?classifier=src&type=zip
+- pkg:maven/org.apache.karaf/apache-karaf@2.3.2?classifier=src&type=tar.gz

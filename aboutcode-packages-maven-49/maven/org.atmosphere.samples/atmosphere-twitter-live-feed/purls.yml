@@ -114,3 +114,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@1.1.0.RC3?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@1.1.0.RC4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@1.1.0.RC4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@2.0.0.RC1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-twitter-live-feed@2.0.0.RC1?classifier=sources
