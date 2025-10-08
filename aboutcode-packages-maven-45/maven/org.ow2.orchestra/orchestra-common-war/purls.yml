@@ -30,3 +30,5 @@
 - pkg:maven/org.ow2.orchestra/orchestra-common-war@4.9.0-M4?classifier=sources
 - pkg:maven/org.ow2.orchestra/orchestra-common-war@4.9.0-M5?type=war
 - pkg:maven/org.ow2.orchestra/orchestra-common-war@4.9.0-M5?classifier=sources
+- pkg:maven/org.ow2.orchestra/orchestra-common-war@4.9.0?type=war
+- pkg:maven/org.ow2.orchestra/orchestra-common-war@4.9.0?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/net.sourceforge.argo/argo@2.20?classifier=sources
 - pkg:maven/net.sourceforge.argo/argo@2.19-RELEASE
 - pkg:maven/net.sourceforge.argo/argo@2.19-RELEASE?classifier=sources
+- pkg:maven/net.sourceforge.argo/argo@2.23
+- pkg:maven/net.sourceforge.argo/argo@2.23?classifier=sources
+- pkg:maven/net.sourceforge.argo/argo@2.22
+- pkg:maven/net.sourceforge.argo/argo@2.22?classifier=sources

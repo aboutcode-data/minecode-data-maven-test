@@ -10,3 +10,5 @@
 - pkg:maven/com.thoughtworks.inproctester/inproctester-jersey-tests@1.0.4?classifier=sources
 - pkg:maven/com.thoughtworks.inproctester/inproctester-jersey-tests@1.0.9?type=war
 - pkg:maven/com.thoughtworks.inproctester/inproctester-jersey-tests@1.0.9?classifier=sources
+- pkg:maven/com.thoughtworks.inproctester/inproctester-jersey-tests@1.0.10?type=war
+- pkg:maven/com.thoughtworks.inproctester/inproctester-jersey-tests@1.0.10?classifier=sources

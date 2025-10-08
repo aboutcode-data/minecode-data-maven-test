@@ -8,3 +8,5 @@
 - pkg:maven/com.espertech/esperio-socket@3.4.0
 - pkg:maven/com.espertech/esperio-socket@4.4.0
 - pkg:maven/com.espertech/esperio-socket@4.4.0?classifier=sources
+- pkg:maven/com.espertech/esperio-socket@4.5.0
+- pkg:maven/com.espertech/esperio-socket@4.5.0?classifier=sources

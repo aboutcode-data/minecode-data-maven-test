@@ -24,3 +24,5 @@
 - pkg:maven/ognl/ognl@2.3.2
 - pkg:maven/ognl/ognl@2.2.2
 - pkg:maven/ognl/ognl@2.1.4
+- pkg:maven/ognl/ognl@3.0.4
+- pkg:maven/ognl/ognl@3.0.4?classifier=sources

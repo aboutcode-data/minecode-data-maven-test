@@ -4,3 +4,5 @@
 - pkg:maven/com.thoughtworks.inproctester/inproctester-resteasy-tests@1.0.7?classifier=sources
 - pkg:maven/com.thoughtworks.inproctester/inproctester-resteasy-tests@1.0.9?type=war
 - pkg:maven/com.thoughtworks.inproctester/inproctester-resteasy-tests@1.0.9?classifier=sources
+- pkg:maven/com.thoughtworks.inproctester/inproctester-resteasy-tests@1.0.10?type=war
+- pkg:maven/com.thoughtworks.inproctester/inproctester-resteasy-tests@1.0.10?classifier=sources
