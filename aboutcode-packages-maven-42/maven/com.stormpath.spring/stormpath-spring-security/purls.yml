@@ -28,3 +28,7 @@
 - pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC7.5?classifier=sources
 - pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC7.4
 - pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC7.4?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC8
+- pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC8?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC7.7
+- pkg:maven/com.stormpath.spring/stormpath-spring-security@1.0.RC7.7?classifier=sources

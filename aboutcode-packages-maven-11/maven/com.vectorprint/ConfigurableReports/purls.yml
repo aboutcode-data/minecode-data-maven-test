@@ -22,3 +22,5 @@
 - pkg:maven/com.vectorprint/ConfigurableReports@7.1?classifier=sources
 - pkg:maven/com.vectorprint/ConfigurableReports@8.0
 - pkg:maven/com.vectorprint/ConfigurableReports@8.0?classifier=sources
+- pkg:maven/com.vectorprint/ConfigurableReports@8.1
+- pkg:maven/com.vectorprint/ConfigurableReports@8.1?classifier=sources
