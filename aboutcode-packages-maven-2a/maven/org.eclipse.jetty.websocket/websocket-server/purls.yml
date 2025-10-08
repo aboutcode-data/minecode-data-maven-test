@@ -36,3 +36,7 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.0.6.v20130930?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.1.0.RC1
 - pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.1.0.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.1.0.RC2
+- pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.1.0.RC2?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.0.7.v20131107
+- pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.0.7.v20131107?classifier=sources

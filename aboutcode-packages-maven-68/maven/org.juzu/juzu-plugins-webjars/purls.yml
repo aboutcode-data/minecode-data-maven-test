@@ -28,3 +28,5 @@
 - pkg:maven/org.juzu/juzu-plugins-webjars@0.7.0-beta26?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-webjars@0.7.0-cr1
 - pkg:maven/org.juzu/juzu-plugins-webjars@0.7.0-cr1?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-webjars@0.7.0
+- pkg:maven/org.juzu/juzu-plugins-webjars@0.7.0?classifier=sources
