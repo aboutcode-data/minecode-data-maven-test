@@ -8,3 +8,5 @@
 - pkg:maven/org.jasig.openregistry/openregistry-webapp@0.1-M2?classifier=sources
 - pkg:maven/org.jasig.openregistry/openregistry-webapp@0.1-M1?type=war
 - pkg:maven/org.jasig.openregistry/openregistry-webapp@0.1-M1?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-webapp@0.8.9?type=war
+- pkg:maven/org.jasig.openregistry/openregistry-webapp@0.8.9?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.mchange/c3p0@0.9.2-pre2-RELEASE
 - pkg:maven/com.mchange/c3p0@0.9.2-pre2-RELEASE?classifier=sources
+- pkg:maven/com.mchange/c3p0@0.9.2-pre4
+- pkg:maven/com.mchange/c3p0@0.9.2-pre4?classifier=sources
+- pkg:maven/com.mchange/c3p0@0.9.2-pre3
+- pkg:maven/com.mchange/c3p0@0.9.2-pre3?classifier=sources
