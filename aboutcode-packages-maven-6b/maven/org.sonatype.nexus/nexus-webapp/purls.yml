@@ -204,3 +204,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.7.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.7.0-05?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.7.0-05?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webapp@2.7.0-06?type=war
+- pkg:maven/org.sonatype.nexus/nexus-webapp@2.7.0-06?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/org.jboss.ws/jbossws-framework@3.0.3.CR1?classifier=sources
 - pkg:maven/org.jboss.ws/jbossws-framework@3.0.2.GA
 - pkg:maven/org.jboss.ws/jbossws-framework@3.0.2.GA?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-framework@3.1.2.SP14
+- pkg:maven/org.jboss.ws/jbossws-framework@3.1.2.SP14?classifier=sources

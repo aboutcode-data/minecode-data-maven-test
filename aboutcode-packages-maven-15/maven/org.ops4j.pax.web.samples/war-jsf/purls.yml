@@ -66,3 +66,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf@1.1.15?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf@3.0.4?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf@3.0.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf@3.0.5?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf@3.0.5?classifier=sources

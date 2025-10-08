@@ -8,3 +8,5 @@
 - pkg:maven/org.mock-server/mockserver-maven-plugin@1.11?classifier=sources
 - pkg:maven/org.mock-server/mockserver-maven-plugin@1.10
 - pkg:maven/org.mock-server/mockserver-maven-plugin@1.10?classifier=sources
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.12
+- pkg:maven/org.mock-server/mockserver-maven-plugin@1.12?classifier=sources
