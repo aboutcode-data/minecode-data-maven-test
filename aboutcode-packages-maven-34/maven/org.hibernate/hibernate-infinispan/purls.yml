@@ -120,3 +120,7 @@
 - pkg:maven/org.hibernate/hibernate-infinispan@4.1.10.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-infinispan@4.2.0.CR2
 - pkg:maven/org.hibernate/hibernate-infinispan@4.2.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-infinispan@4.2.0.Final
+- pkg:maven/org.hibernate/hibernate-infinispan@4.2.0.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-infinispan@4.1.11.Final
+- pkg:maven/org.hibernate/hibernate-infinispan@4.1.11.Final?classifier=sources
