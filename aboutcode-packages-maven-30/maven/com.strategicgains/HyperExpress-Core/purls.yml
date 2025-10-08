@@ -8,3 +8,5 @@
 - pkg:maven/com.strategicgains/HyperExpress-Core@2.0-rc2?classifier=sources
 - pkg:maven/com.strategicgains/HyperExpress-Core@2.0-rc3
 - pkg:maven/com.strategicgains/HyperExpress-Core@2.0-rc3?classifier=sources
+- pkg:maven/com.strategicgains/HyperExpress-Core@2.0
+- pkg:maven/com.strategicgains/HyperExpress-Core@2.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.thinkaurelius.titan/titan-core@0.5.0-M2?classifier=sources
 - pkg:maven/com.thinkaurelius.titan/titan-core@0.5.0-M3
 - pkg:maven/com.thinkaurelius.titan/titan-core@0.5.0-M3?classifier=sources
+- pkg:maven/com.thinkaurelius.titan/titan-core@0.5.0
+- pkg:maven/com.thinkaurelius.titan/titan-core@0.5.0?classifier=sources

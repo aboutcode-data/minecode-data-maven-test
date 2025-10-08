@@ -52,3 +52,7 @@
 - pkg:maven/com.twitter/util-zk_2.10@6.17.0?classifier=sources
 - pkg:maven/com.twitter/util-zk_2.10@6.18.0
 - pkg:maven/com.twitter/util-zk_2.10@6.18.0?classifier=sources
+- pkg:maven/com.twitter/util-zk_2.10@6.19.0
+- pkg:maven/com.twitter/util-zk_2.10@6.19.0?classifier=sources
+- pkg:maven/com.twitter/util-zk_2.10@6.18.1
+- pkg:maven/com.twitter/util-zk_2.10@6.18.1?classifier=sources

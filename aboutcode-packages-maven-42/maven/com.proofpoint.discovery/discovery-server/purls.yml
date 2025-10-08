@@ -11,3 +11,5 @@
 - pkg:maven/com.proofpoint.discovery/discovery-server@1.11?classifier=sources
 - pkg:maven/com.proofpoint.discovery/discovery-server@1.12?classifier=sources
 - pkg:maven/com.proofpoint.discovery/discovery-server@1.13?classifier=sources
+- pkg:maven/com.proofpoint.discovery/discovery-server@1.15?classifier=sources
+- pkg:maven/com.proofpoint.discovery/discovery-server@1.14?classifier=sources

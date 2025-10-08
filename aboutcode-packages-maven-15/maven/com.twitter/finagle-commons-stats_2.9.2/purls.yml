@@ -60,3 +60,5 @@
 - pkg:maven/com.twitter/finagle-commons-stats_2.9.2@6.17.0?classifier=sources
 - pkg:maven/com.twitter/finagle-commons-stats_2.9.2@6.18.0
 - pkg:maven/com.twitter/finagle-commons-stats_2.9.2@6.18.0?classifier=sources
+- pkg:maven/com.twitter/finagle-commons-stats_2.9.2@6.20.0
+- pkg:maven/com.twitter/finagle-commons-stats_2.9.2@6.20.0?classifier=sources
