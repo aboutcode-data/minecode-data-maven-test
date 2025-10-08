@@ -30,3 +30,5 @@
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.0-m15?classifier=sources
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.0-m16
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.0-m16?classifier=sources
+- pkg:maven/javax.ws.rs/javax.ws.rs-api@2.0-rc1
+- pkg:maven/javax.ws.rs/javax.ws.rs-api@2.0-rc1?classifier=sources

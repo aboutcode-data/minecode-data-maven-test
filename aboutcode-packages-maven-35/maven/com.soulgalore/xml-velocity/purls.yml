@@ -1,2 +1,4 @@
 - pkg:maven/com.soulgalore/xml-velocity@1.4
 - pkg:maven/com.soulgalore/xml-velocity@1.4?classifier=sources
+- pkg:maven/com.soulgalore/xml-velocity@1.5
+- pkg:maven/com.soulgalore/xml-velocity@1.5?classifier=sources
