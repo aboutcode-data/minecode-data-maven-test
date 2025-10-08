@@ -1,0 +1,4 @@
+- pkg:maven/com.sun.jersey/jersey-servlet@1.10-b02
+- pkg:maven/com.sun.jersey/jersey-servlet@1.10-b02?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-servlet@1.10-b01
+- pkg:maven/com.sun.jersey/jersey-servlet@1.10-b01?classifier=sources
