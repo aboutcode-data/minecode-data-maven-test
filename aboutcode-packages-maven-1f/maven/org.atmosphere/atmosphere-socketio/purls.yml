@@ -86,3 +86,5 @@
 - pkg:maven/org.atmosphere/atmosphere-socketio@2.2.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-socketio@2.1.3
 - pkg:maven/org.atmosphere/atmosphere-socketio@2.1.3?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-socketio@1.0.19
+- pkg:maven/org.atmosphere/atmosphere-socketio@1.0.19?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-jquery-pubsub@1.0.17?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-jquery-pubsub@1.0.18?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-jquery-pubsub@1.0.18?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-jquery-pubsub@1.0.19?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-jquery-pubsub@1.0.19?classifier=sources

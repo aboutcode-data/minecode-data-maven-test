@@ -112,3 +112,5 @@
 - pkg:maven/org.codehaus.sonar.plugins/sonar-cpd-plugin@4.4-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-cpd-plugin@4.4?classifier=sources
 - pkg:maven/org.codehaus.sonar.plugins/sonar-cpd-plugin@4.3.3?classifier=sources
+- pkg:maven/org.codehaus.sonar.plugins/sonar-cpd-plugin@4.5-RC2?classifier=sources
+- pkg:maven/org.codehaus.sonar.plugins/sonar-cpd-plugin@4.5-RC1?classifier=sources

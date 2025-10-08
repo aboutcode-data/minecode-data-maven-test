@@ -54,3 +54,7 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.15.v20140411?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.15.v20140411?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.15.v20140411?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.16.v20140903?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@8.1.16.v20140903?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.16.v20140903?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty-http-webapp@7.6.16.v20140903?classifier=sources

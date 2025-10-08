@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.7?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.6
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.6?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.8
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@2.8?classifier=sources

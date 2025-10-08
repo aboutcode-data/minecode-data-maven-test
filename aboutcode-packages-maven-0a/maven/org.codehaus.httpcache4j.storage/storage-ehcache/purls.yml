@@ -25,3 +25,5 @@
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-ehcache@4.0-RC3?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-ehcache@4.0-RC4
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-ehcache@4.0-RC4?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-ehcache@4.0
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-ehcache@4.0?classifier=sources

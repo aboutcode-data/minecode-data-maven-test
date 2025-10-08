@@ -82,3 +82,6 @@
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.12
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.12?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.10.4
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.10.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.10.4?classifier=project-src&type=zip

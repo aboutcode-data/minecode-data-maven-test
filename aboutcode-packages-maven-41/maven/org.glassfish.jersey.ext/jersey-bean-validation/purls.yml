@@ -56,3 +56,5 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.10.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.12
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.10.4
+- pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.10.4?classifier=sources

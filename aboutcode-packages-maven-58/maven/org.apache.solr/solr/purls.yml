@@ -25,3 +25,4 @@
 - pkg:maven/org.apache.solr/solr@4.8.0?type=war
 - pkg:maven/org.apache.solr/solr@4.8.1?type=war
 - pkg:maven/org.apache.solr/solr@4.9.0?type=war
+- pkg:maven/org.apache.solr/solr@4.10.0?type=war
