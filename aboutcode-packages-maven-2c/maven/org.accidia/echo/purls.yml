@@ -46,3 +46,5 @@
 - pkg:maven/org.accidia/echo@0.1.23?classifier=sources
 - pkg:maven/org.accidia/echo@0.1.21
 - pkg:maven/org.accidia/echo@0.1.21?classifier=sources
+- pkg:maven/org.accidia/echo@0.2.0
+- pkg:maven/org.accidia/echo@0.2.0?classifier=sources

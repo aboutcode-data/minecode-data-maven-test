@@ -40,3 +40,7 @@
 - pkg:maven/org.apache.servicemix.itests/itests@5.2.1?classifier=sources
 - pkg:maven/org.apache.servicemix.itests/itests@6.0.0.M2
 - pkg:maven/org.apache.servicemix.itests/itests@6.0.0.M2?classifier=sources
+- pkg:maven/org.apache.servicemix.itests/itests@5.2.2
+- pkg:maven/org.apache.servicemix.itests/itests@5.2.2?classifier=sources
+- pkg:maven/org.apache.servicemix.itests/itests@5.1.6
+- pkg:maven/org.apache.servicemix.itests/itests@5.1.6?classifier=sources
