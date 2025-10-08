@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.karaf.management/org.apache.karaf.management.server@2.3.10?classifier=sources
 - pkg:maven/org.apache.karaf.management/org.apache.karaf.management.server@4.0.0.M2
 - pkg:maven/org.apache.karaf.management/org.apache.karaf.management.server@4.0.0.M2?classifier=sources
+- pkg:maven/org.apache.karaf.management/org.apache.karaf.management.server@2.3.11
+- pkg:maven/org.apache.karaf.management/org.apache.karaf.management.server@2.3.11?classifier=sources

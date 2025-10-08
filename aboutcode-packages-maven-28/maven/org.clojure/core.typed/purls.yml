@@ -208,3 +208,5 @@
 - pkg:maven/org.clojure/core.typed@0.2.86?classifier=sources
 - pkg:maven/org.clojure/core.typed@0.2.85
 - pkg:maven/org.clojure/core.typed@0.2.85?classifier=sources
+- pkg:maven/org.clojure/core.typed@0.2.87
+- pkg:maven/org.clojure/core.typed@0.2.87?classifier=sources

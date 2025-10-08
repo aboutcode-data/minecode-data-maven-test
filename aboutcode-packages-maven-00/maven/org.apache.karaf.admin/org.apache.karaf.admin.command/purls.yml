@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.karaf.admin/org.apache.karaf.admin.command@2.4.1?classifier=sources
 - pkg:maven/org.apache.karaf.admin/org.apache.karaf.admin.command@2.3.10
 - pkg:maven/org.apache.karaf.admin/org.apache.karaf.admin.command@2.3.10?classifier=sources
+- pkg:maven/org.apache.karaf.admin/org.apache.karaf.admin.command@2.3.11
+- pkg:maven/org.apache.karaf.admin/org.apache.karaf.admin.command@2.3.11?classifier=sources

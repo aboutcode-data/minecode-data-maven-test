@@ -76,3 +76,5 @@
 - pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.branding.shell@2.3.10?classifier=sources
 - pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.branding.shell@4.0.0.M2
 - pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.branding.shell@4.0.0.M2?classifier=sources
+- pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.branding.shell@2.3.11
+- pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.branding.shell@2.3.11?classifier=sources

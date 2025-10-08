@@ -6,3 +6,5 @@
 - pkg:maven/io.federecio/dropwizard-swagger@0.5.2?classifier=sources
 - pkg:maven/io.federecio/dropwizard-swagger@0.5.3
 - pkg:maven/io.federecio/dropwizard-swagger@0.5.3?classifier=sources
+- pkg:maven/io.federecio/dropwizard-swagger@0.6
+- pkg:maven/io.federecio/dropwizard-swagger@0.6?classifier=sources
