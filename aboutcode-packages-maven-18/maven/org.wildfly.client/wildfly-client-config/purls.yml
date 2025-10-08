@@ -4,3 +4,6 @@
 - pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha1
 - pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha3
+- pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha3?classifier=source-release&type=zip
