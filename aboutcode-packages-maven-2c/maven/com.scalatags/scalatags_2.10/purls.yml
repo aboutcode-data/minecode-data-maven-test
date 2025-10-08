@@ -28,3 +28,5 @@
 - pkg:maven/com.scalatags/scalatags_2.10@0.2.5-JS?classifier=sources
 - pkg:maven/com.scalatags/scalatags_2.10@0.2.5
 - pkg:maven/com.scalatags/scalatags_2.10@0.2.5?classifier=sources
+- pkg:maven/com.scalatags/scalatags_2.10@0.3.0-RC1
+- pkg:maven/com.scalatags/scalatags_2.10@0.3.0-RC1?classifier=sources

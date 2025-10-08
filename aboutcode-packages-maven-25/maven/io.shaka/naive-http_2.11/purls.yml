@@ -1,2 +1,4 @@
 - pkg:maven/io.shaka/naive-http_2.11@21
 - pkg:maven/io.shaka/naive-http_2.11@21?classifier=sources
+- pkg:maven/io.shaka/naive-http_2.11@35
+- pkg:maven/io.shaka/naive-http_2.11@35?classifier=sources
