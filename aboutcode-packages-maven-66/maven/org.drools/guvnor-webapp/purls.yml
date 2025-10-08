@@ -16,3 +16,5 @@
 - pkg:maven/org.drools/guvnor-webapp@5.3.1.Final?classifier=sources
 - pkg:maven/org.drools/guvnor-webapp@5.3.2.Final?type=war
 - pkg:maven/org.drools/guvnor-webapp@5.3.2.Final?classifier=sources
+- pkg:maven/org.drools/guvnor-webapp@5.3.3.Final?type=war
+- pkg:maven/org.drools/guvnor-webapp@5.3.3.Final?classifier=sources

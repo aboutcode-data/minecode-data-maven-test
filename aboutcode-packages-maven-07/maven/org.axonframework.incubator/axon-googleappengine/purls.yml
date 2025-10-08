@@ -12,3 +12,5 @@
 - pkg:maven/org.axonframework.incubator/axon-googleappengine@1.3.3?classifier=sources
 - pkg:maven/org.axonframework.incubator/axon-googleappengine@1.4
 - pkg:maven/org.axonframework.incubator/axon-googleappengine@1.4?classifier=sources
+- pkg:maven/org.axonframework.incubator/axon-googleappengine@2.0-m1
+- pkg:maven/org.axonframework.incubator/axon-googleappengine@2.0-m1?classifier=sources

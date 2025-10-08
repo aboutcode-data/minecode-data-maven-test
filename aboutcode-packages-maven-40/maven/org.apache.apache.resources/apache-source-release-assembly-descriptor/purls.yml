@@ -9,3 +9,6 @@
 - pkg:maven/org.apache.apache.resources/apache-source-release-assembly-descriptor@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.apache.resources/apache-source-release-assembly-descriptor@1.0
 - pkg:maven/org.apache.apache.resources/apache-source-release-assembly-descriptor@1.0?classifier=sources
+- pkg:maven/org.apache.apache.resources/apache-source-release-assembly-descriptor@1.0.4
+- pkg:maven/org.apache.apache.resources/apache-source-release-assembly-descriptor@1.0.4?classifier=sources
+- pkg:maven/org.apache.apache.resources/apache-source-release-assembly-descriptor@1.0.4?classifier=source-release&type=zip
