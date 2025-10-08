@@ -38,3 +38,7 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.11.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.12.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.12.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.0.0.Alpha2?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.0.0.Alpha2?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.0.0.Alpha1?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.0.0.Alpha1?classifier=sources

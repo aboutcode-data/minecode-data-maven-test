@@ -78,3 +78,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@0.7.1090?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@0.7.1217
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@0.7.1217?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@0.8.11
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@0.8.11?classifier=sources
