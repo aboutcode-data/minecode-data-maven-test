@@ -290,3 +290,5 @@
 - pkg:maven/org.glassfish.hk2/hk2-api@2.2.0?classifier=sources
 - pkg:maven/org.glassfish.hk2/hk2-api@2.3.0-b01
 - pkg:maven/org.glassfish.hk2/hk2-api@2.3.0-b01?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-api@2.3.0-b03
+- pkg:maven/org.glassfish.hk2/hk2-api@2.3.0-b03?classifier=sources

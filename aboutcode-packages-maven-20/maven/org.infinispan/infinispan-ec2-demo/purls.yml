@@ -130,3 +130,5 @@
 - pkg:maven/org.infinispan/infinispan-ec2-demo@6.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-ec2-demo@5.2.8.Final
 - pkg:maven/org.infinispan/infinispan-ec2-demo@5.2.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-ec2-demo@7.0.0.Alpha2
+- pkg:maven/org.infinispan/infinispan-ec2-demo@7.0.0.Alpha2?classifier=sources
