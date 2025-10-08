@@ -2,3 +2,5 @@
 - pkg:maven/com.redhat.lightblue.config/core-config@0.9.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.config/core-config@1.0.0
 - pkg:maven/com.redhat.lightblue.config/core-config@1.0.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.config/core-config@1.0.1
+- pkg:maven/com.redhat.lightblue.config/core-config@1.0.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.0.0-rc5?classifier=sources
 - pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.0.0
 - pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.0.0?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.1.0-alpha1
+- pkg:maven/com.datastax.spark/spark-cassandra-connector_2.10@1.1.0-alpha1?classifier=sources

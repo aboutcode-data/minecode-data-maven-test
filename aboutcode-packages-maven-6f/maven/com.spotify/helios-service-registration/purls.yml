@@ -36,3 +36,7 @@
 - pkg:maven/com.spotify/helios-service-registration@0.8.10?classifier=sources
 - pkg:maven/com.spotify/helios-service-registration@0.8.15
 - pkg:maven/com.spotify/helios-service-registration@0.8.15?classifier=sources
+- pkg:maven/com.spotify/helios-service-registration@0.8.17
+- pkg:maven/com.spotify/helios-service-registration@0.8.17?classifier=sources
+- pkg:maven/com.spotify/helios-service-registration@0.8.16
+- pkg:maven/com.spotify/helios-service-registration@0.8.16?classifier=sources
