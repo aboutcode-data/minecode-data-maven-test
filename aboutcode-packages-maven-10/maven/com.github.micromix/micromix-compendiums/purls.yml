@@ -1,2 +1,4 @@
 - pkg:maven/com.github.micromix/micromix-compendiums@0.4
 - pkg:maven/com.github.micromix/micromix-compendiums@0.4?classifier=sources
+- pkg:maven/com.github.micromix/micromix-compendiums@0.5
+- pkg:maven/com.github.micromix/micromix-compendiums@0.5?classifier=sources

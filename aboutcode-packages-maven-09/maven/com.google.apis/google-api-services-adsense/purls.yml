@@ -1020,3 +1020,9 @@
 - pkg:maven/com.google.apis/google-api-services-adsense@v1.2-rev83-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adsense@v1.2-rev83-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-adsense@v1.2-rev83-1.14.2-beta?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsense@v1.4-rev9-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-adsense@v1.4-rev9-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsense@v1.3-rev45-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-adsense@v1.3-rev45-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsense@v1.2-rev83-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-adsense@v1.2-rev83-1.18.0-rc?classifier=sources

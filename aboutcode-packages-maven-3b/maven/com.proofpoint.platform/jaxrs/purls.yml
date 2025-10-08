@@ -96,3 +96,5 @@
 - pkg:maven/com.proofpoint.platform/jaxrs@0.92?classifier=sources
 - pkg:maven/com.proofpoint.platform/jaxrs@0.93
 - pkg:maven/com.proofpoint.platform/jaxrs@0.93?classifier=sources
+- pkg:maven/com.proofpoint.platform/jaxrs@0.94
+- pkg:maven/com.proofpoint.platform/jaxrs@0.94?classifier=sources

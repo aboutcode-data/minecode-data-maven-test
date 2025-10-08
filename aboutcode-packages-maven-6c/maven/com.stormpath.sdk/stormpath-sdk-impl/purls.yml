@@ -22,3 +22,5 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-impl@0.9.2?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-impl@0.9.3
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-impl@0.9.3?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-impl@1.0.alpha
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-impl@1.0.alpha?classifier=sources
