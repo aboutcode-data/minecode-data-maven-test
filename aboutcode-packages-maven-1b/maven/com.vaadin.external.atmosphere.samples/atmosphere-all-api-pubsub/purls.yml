@@ -4,3 +4,7 @@
 - pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14-2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14-vaadin2?type=war
 - pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14-vaadin2?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14.vaadin3?type=war
+- pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14.vaadin3?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14.vaadin2?type=war
+- pkg:maven/com.vaadin.external.atmosphere.samples/atmosphere-all-api-pubsub@1.0.14.vaadin2?classifier=sources

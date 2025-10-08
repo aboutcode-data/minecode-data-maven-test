@@ -14,3 +14,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.0?classifier=src&type=zip
 - pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.0?classifier=src&type=tar.gz
 - pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.4
+- pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.4?classifier=src&type=zip
+- pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.4?classifier=src&type=tar.gz
+- pkg:maven/edu.internet2.middleware.grouper/grouper-shib@2.1.4?classifier=sources

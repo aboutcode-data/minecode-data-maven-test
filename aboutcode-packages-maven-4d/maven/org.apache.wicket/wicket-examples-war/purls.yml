@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.8?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.9?type=war
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.9?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples-war@0.10?type=war
+- pkg:maven/org.apache.wicket/wicket-examples-war@0.10?classifier=sources
