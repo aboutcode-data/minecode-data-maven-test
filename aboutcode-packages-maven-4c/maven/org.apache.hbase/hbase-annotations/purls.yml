@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.hbase/hbase-annotations@0.98.7-hadoop2
+- pkg:maven/org.apache.hbase/hbase-annotations@0.98.7-hadoop2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-annotations@0.98.7-hadoop1
+- pkg:maven/org.apache.hbase/hbase-annotations@0.98.7-hadoop1?classifier=sources

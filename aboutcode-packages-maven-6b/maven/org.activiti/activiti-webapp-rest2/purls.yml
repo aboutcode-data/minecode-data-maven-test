@@ -12,3 +12,5 @@
 - pkg:maven/org.activiti/activiti-webapp-rest2@5.16.2?classifier=sources
 - pkg:maven/org.activiti/activiti-webapp-rest2@5.16.3?type=war
 - pkg:maven/org.activiti/activiti-webapp-rest2@5.16.3?classifier=sources
+- pkg:maven/org.activiti/activiti-webapp-rest2@5.16.4?type=war
+- pkg:maven/org.activiti/activiti-webapp-rest2@5.16.4?classifier=sources
