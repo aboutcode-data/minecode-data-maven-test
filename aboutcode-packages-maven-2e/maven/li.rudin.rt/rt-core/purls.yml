@@ -10,3 +10,5 @@
 - pkg:maven/li.rudin.rt/rt-core@2.9?classifier=sources
 - pkg:maven/li.rudin.rt/rt-core@2.8
 - pkg:maven/li.rudin.rt/rt-core@2.8?classifier=sources
+- pkg:maven/li.rudin.rt/rt-core@2.10
+- pkg:maven/li.rudin.rt/rt-core@2.10?classifier=sources

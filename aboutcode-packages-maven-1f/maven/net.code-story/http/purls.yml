@@ -24,3 +24,5 @@
 - pkg:maven/net.code-story/http@1.13?classifier=sources
 - pkg:maven/net.code-story/http@1.12
 - pkg:maven/net.code-story/http@1.12?classifier=sources
+- pkg:maven/net.code-story/http@1.17
+- pkg:maven/net.code-story/http@1.17?classifier=sources
