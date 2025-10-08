@@ -60,3 +60,5 @@
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@1.2.0.beta4?classifier=sources
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@1.2.0.beta3
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@1.2.0.beta3?classifier=sources
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@1.1.25
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@1.1.25?classifier=sources

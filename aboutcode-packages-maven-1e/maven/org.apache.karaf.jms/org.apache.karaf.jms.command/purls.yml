@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.command@3.0.4?classifier=sources
 - pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.command@2.4.3
 - pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.command@2.4.3?classifier=sources
+- pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.command@3.0.5
+- pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.command@3.0.5?classifier=sources

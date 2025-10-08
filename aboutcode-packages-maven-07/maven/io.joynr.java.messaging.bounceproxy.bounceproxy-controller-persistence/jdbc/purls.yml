@@ -18,3 +18,5 @@
 - pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/jdbc@0.9.3?classifier=sources
 - pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/jdbc@0.9.4
 - pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/jdbc@0.9.4?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/jdbc@0.10.0
+- pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/jdbc@0.10.0?classifier=sources

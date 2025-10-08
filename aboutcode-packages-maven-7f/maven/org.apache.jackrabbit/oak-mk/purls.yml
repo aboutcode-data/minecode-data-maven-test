@@ -111,3 +111,7 @@
 - pkg:maven/org.apache.jackrabbit/oak-mk@1.2.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-mk@1.0.21
 - pkg:maven/org.apache.jackrabbit/oak-mk@1.0.21?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-mk@1.2.7
+- pkg:maven/org.apache.jackrabbit/oak-mk@1.2.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-mk@1.0.22
+- pkg:maven/org.apache.jackrabbit/oak-mk@1.0.22?classifier=sources

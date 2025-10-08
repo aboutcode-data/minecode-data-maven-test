@@ -22,3 +22,5 @@
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.10?classifier=sources
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.11
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.11?classifier=sources
+- pkg:maven/li.rudin.arduino/arduino-testsuite@2.12
+- pkg:maven/li.rudin.arduino/arduino-testsuite@2.12?classifier=sources
