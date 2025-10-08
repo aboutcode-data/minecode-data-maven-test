@@ -1,1 +1,2 @@
 - pkg:maven/org.tynamo.security/tynamo-federatedaccounts-pac4jbasedoauth@0.4.0
+- pkg:maven/org.tynamo.security/tynamo-federatedaccounts-pac4jbasedoauth@0.4.0?classifier=sources

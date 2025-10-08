@@ -1,2 +1,4 @@
 - pkg:maven/org.jbpm/jbpm-form-modeler-form-editor@6.0.0.Beta5?type=war
 - pkg:maven/org.jbpm/jbpm-form-modeler-form-editor@6.0.0.Beta5?classifier=sources
+- pkg:maven/org.jbpm/jbpm-form-modeler-form-editor@6.0.0.CR1?type=war
+- pkg:maven/org.jbpm/jbpm-form-modeler-form-editor@6.0.0.CR1?classifier=sources

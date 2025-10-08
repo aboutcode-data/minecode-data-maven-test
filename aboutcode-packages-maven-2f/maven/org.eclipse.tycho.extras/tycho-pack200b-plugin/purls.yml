@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-pack200b-plugin@0.17.0?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-pack200b-plugin@0.18.0
 - pkg:maven/org.eclipse.tycho.extras/tycho-pack200b-plugin@0.18.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-pack200b-plugin@0.18.1
+- pkg:maven/org.eclipse.tycho.extras/tycho-pack200b-plugin@0.18.1?classifier=sources

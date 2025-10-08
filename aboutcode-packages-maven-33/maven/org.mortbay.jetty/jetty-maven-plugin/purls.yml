@@ -183,3 +183,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-maven-plugin@8.1.11.v20130520?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.6.11.v20130520
 - pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.6.11.v20130520?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@8.1.12.v20130726
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@8.1.12.v20130726?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.6.12.v20130726
+- pkg:maven/org.mortbay.jetty/jetty-maven-plugin@7.6.12.v20130726?classifier=sources

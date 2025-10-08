@@ -58,3 +58,5 @@
 - pkg:maven/org.kuali.maven.plugins/spring-maven-plugin@2.0.13?classifier=sources
 - pkg:maven/org.kuali.maven.plugins/spring-maven-plugin@2.0.12
 - pkg:maven/org.kuali.maven.plugins/spring-maven-plugin@2.0.12?classifier=sources
+- pkg:maven/org.kuali.maven.plugins/spring-maven-plugin@2.1.0
+- pkg:maven/org.kuali.maven.plugins/spring-maven-plugin@2.1.0?classifier=sources

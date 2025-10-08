@@ -47,3 +47,5 @@
 - pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-assembler@7.6.10.v20130312?classifier=sources
 - pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-assembler@8.1.11.v20130520?classifier=sources
 - pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-assembler@7.6.11.v20130520?classifier=sources
+- pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-assembler@8.1.12.v20130726?classifier=sources
+- pkg:maven/org.mortbay.jetty.archetype/jetty-archetype-assembler@7.6.12.v20130726?classifier=sources

@@ -96,3 +96,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.11.v20130520?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.11.v20130520?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.11.v20130520?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.12.v20130726?type=war
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.12.v20130726?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.12.v20130726?type=war
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.12.v20130726?classifier=sources
