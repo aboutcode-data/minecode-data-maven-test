@@ -101,3 +101,5 @@
 - pkg:maven/org.jasig.cas/cas-server-support-ldap@3.5.1?classifier=sources
 - pkg:maven/org.jasig.cas/cas-server-support-ldap@3.5.2
 - pkg:maven/org.jasig.cas/cas-server-support-ldap@3.5.2?classifier=sources
+- pkg:maven/org.jasig.cas/cas-server-support-ldap@4.0.0-RC1
+- pkg:maven/org.jasig.cas/cas-server-support-ldap@4.0.0-RC1?classifier=sources

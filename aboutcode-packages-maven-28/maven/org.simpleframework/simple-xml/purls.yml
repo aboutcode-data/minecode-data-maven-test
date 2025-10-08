@@ -91,3 +91,5 @@
 - pkg:maven/org.simpleframework/simple-xml@2.6.9?classifier=sources
 - pkg:maven/org.simpleframework/simple-xml@2.7
 - pkg:maven/org.simpleframework/simple-xml@2.7?classifier=sources
+- pkg:maven/org.simpleframework/simple-xml@2.7.1
+- pkg:maven/org.simpleframework/simple-xml@2.7.1?classifier=sources

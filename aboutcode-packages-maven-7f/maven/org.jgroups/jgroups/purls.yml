@@ -166,3 +166,7 @@
 - pkg:maven/org.jgroups/jgroups@3.3.1.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@3.3.2.Final
 - pkg:maven/org.jgroups/jgroups@3.3.2.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.3.3.Final
+- pkg:maven/org.jgroups/jgroups@3.3.3.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.2.10.Final
+- pkg:maven/org.jgroups/jgroups@3.2.10.Final?classifier=sources
