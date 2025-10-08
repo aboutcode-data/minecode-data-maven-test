@@ -34,3 +34,5 @@
 - pkg:maven/com.android.tools.ddms/ddmlib@22.5.2?classifier=sources
 - pkg:maven/com.android.tools.ddms/ddmlib@22.7.0
 - pkg:maven/com.android.tools.ddms/ddmlib@22.7.0?classifier=sources
+- pkg:maven/com.android.tools.ddms/ddmlib@22.7.1
+- pkg:maven/com.android.tools.ddms/ddmlib@22.7.1?classifier=sources

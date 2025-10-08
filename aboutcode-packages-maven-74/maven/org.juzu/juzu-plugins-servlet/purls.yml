@@ -86,3 +86,5 @@
 - pkg:maven/org.juzu/juzu-plugins-servlet@0.8.0-beta5?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-servlet@0.8.0-beta7
 - pkg:maven/org.juzu/juzu-plugins-servlet@0.8.0-beta7?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-servlet@0.8.0
+- pkg:maven/org.juzu/juzu-plugins-servlet@0.8.0?classifier=sources

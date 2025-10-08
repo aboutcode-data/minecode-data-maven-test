@@ -10,3 +10,5 @@
 - pkg:maven/org.ow2.asm/asm-analysis@4.2?classifier=sources
 - pkg:maven/org.ow2.asm/asm-analysis@5.0
 - pkg:maven/org.ow2.asm/asm-analysis@5.0?classifier=sources
+- pkg:maven/org.ow2.asm/asm-analysis@5.0.1
+- pkg:maven/org.ow2.asm/asm-analysis@5.0.1?classifier=sources
