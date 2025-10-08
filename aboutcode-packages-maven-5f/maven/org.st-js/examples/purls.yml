@@ -4,3 +4,5 @@
 - pkg:maven/org.st-js/examples@1.1.4?classifier=sources
 - pkg:maven/org.st-js/examples@1.2.0?type=war
 - pkg:maven/org.st-js/examples@1.2.0?classifier=sources
+- pkg:maven/org.st-js/examples@1.2.1?type=war
+- pkg:maven/org.st-js/examples@1.2.1?classifier=sources

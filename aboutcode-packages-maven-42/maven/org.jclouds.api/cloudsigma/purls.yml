@@ -22,3 +22,5 @@
 - pkg:maven/org.jclouds.api/cloudsigma@1.3.2?classifier=sources
 - pkg:maven/org.jclouds.api/cloudsigma@1.4.0
 - pkg:maven/org.jclouds.api/cloudsigma@1.4.0?classifier=sources
+- pkg:maven/org.jclouds.api/cloudsigma@1.5.0-alpha.1
+- pkg:maven/org.jclouds.api/cloudsigma@1.5.0-alpha.1?classifier=sources

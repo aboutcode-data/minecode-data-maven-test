@@ -50,3 +50,5 @@
 - pkg:maven/com.hazelcast/hazelcast-spring@2.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-spring@2.0.1
 - pkg:maven/com.hazelcast/hazelcast-spring@2.0.1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-spring@2.0.2
+- pkg:maven/com.hazelcast/hazelcast-spring@2.0.2?classifier=sources
