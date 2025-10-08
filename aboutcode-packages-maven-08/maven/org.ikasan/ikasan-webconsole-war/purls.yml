@@ -29,3 +29,4 @@
 - pkg:maven/org.ikasan/ikasan-webconsole-war@0.8.4?type=war
 - pkg:maven/org.ikasan/ikasan-webconsole-war@0.8.4?classifier=sources
 - pkg:maven/org.ikasan/ikasan-webconsole-war@0.9.0?type=war
+- pkg:maven/org.ikasan/ikasan-webconsole-war@0.9.1?type=war

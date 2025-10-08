@@ -43,3 +43,9 @@
 - pkg:maven/org.broadleafcommerce/integration@3.0.0-GA?classifier=sources
 - pkg:maven/org.broadleafcommerce/integration@3.0.1-GA
 - pkg:maven/org.broadleafcommerce/integration@3.0.1-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/integration@3.0.2-GA
+- pkg:maven/org.broadleafcommerce/integration@3.0.2-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/integration@2.4.0-GA
+- pkg:maven/org.broadleafcommerce/integration@2.4.0-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/integration@2.3.0-GA
+- pkg:maven/org.broadleafcommerce/integration@2.3.0-GA?classifier=sources
