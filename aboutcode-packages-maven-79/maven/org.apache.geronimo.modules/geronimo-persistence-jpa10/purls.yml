@@ -19,3 +19,5 @@
 - pkg:maven/org.apache.geronimo.modules/geronimo-persistence-jpa10@2.0.1?classifier=sources
 - pkg:maven/org.apache.geronimo.modules/geronimo-persistence-jpa10@1.2-beta
 - pkg:maven/org.apache.geronimo.modules/geronimo-persistence-jpa10@1.2-beta?classifier=sources
+- pkg:maven/org.apache.geronimo.modules/geronimo-persistence-jpa10@2.1.8
+- pkg:maven/org.apache.geronimo.modules/geronimo-persistence-jpa10@2.1.8?classifier=sources

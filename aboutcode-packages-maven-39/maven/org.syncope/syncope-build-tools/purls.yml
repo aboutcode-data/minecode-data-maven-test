@@ -1,2 +1,6 @@
 - pkg:maven/org.syncope/syncope-build-tools@0.7RC1?type=war
 - pkg:maven/org.syncope/syncope-build-tools@0.7RC1?classifier=sources
+- pkg:maven/org.syncope/syncope-build-tools@0.7RC2?type=war
+- pkg:maven/org.syncope/syncope-build-tools@0.7RC2?classifier=sources
+- pkg:maven/org.syncope/syncope-build-tools@0.7?type=war
+- pkg:maven/org.syncope/syncope-build-tools@0.7?classifier=sources

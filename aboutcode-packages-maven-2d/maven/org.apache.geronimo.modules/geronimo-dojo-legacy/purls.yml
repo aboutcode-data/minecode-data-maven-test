@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.geronimo.modules/geronimo-dojo-legacy@2.1.2?type=war
 - pkg:maven/org.apache.geronimo.modules/geronimo-dojo-legacy@2.1.1?type=war
 - pkg:maven/org.apache.geronimo.modules/geronimo-dojo-legacy@2.1?type=war
+- pkg:maven/org.apache.geronimo.modules/geronimo-dojo-legacy@2.1.8?type=war
+- pkg:maven/org.apache.geronimo.modules/geronimo-dojo-legacy@2.1.8?classifier=sources
