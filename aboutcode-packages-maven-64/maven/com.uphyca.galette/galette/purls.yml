@@ -16,3 +16,5 @@
 - pkg:maven/com.uphyca.galette/galette@0.9.7?classifier=sources
 - pkg:maven/com.uphyca.galette/galette@0.9.9?type=aar
 - pkg:maven/com.uphyca.galette/galette@0.9.9?classifier=sources
+- pkg:maven/com.uphyca.galette/galette@0.9.10?type=aar
+- pkg:maven/com.uphyca.galette/galette@0.9.10?classifier=sources

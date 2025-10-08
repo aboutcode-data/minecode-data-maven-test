@@ -36,3 +36,9 @@
 - pkg:maven/com.netflix.feign/feign-sax@8.0.0-rc.2?classifier=sources
 - pkg:maven/com.netflix.feign/feign-sax@7.3.0
 - pkg:maven/com.netflix.feign/feign-sax@7.3.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-sax@8.1.0
+- pkg:maven/com.netflix.feign/feign-sax@8.1.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-sax@8.0.0
+- pkg:maven/com.netflix.feign/feign-sax@8.0.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-sax@7.4.0
+- pkg:maven/com.netflix.feign/feign-sax@7.4.0?classifier=sources
