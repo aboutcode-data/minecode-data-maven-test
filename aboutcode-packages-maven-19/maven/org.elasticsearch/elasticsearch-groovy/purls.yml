@@ -22,3 +22,6 @@
 - pkg:maven/org.elasticsearch/elasticsearch-groovy@1.7.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-groovy@1.6.1
 - pkg:maven/org.elasticsearch/elasticsearch-groovy@1.6.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-groovy@2.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-groovy@1.7.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-groovy@1.6.2?classifier=sources

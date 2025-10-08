@@ -214,3 +214,5 @@
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@3.0.0.Alpha13?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@2.3.0.CR2?type=war
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@2.3.0.CR2?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@2.2.16.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@2.2.16.Final?classifier=sources

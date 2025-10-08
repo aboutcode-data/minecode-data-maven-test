@@ -89,3 +89,8 @@
 - pkg:maven/org.kuali.rice/rice-kew-api@2.3.7
 - pkg:maven/org.kuali.rice/rice-kew-api@2.3.7?classifier=sources
 - pkg:maven/org.kuali.rice/rice-kew-api@2.5.4
+- pkg:maven/org.kuali.rice/rice-kew-api@2.5.4?classifier=sources
+- pkg:maven/org.kuali.rice/rice-kew-api@2.3.8
+- pkg:maven/org.kuali.rice/rice-kew-api@2.3.8?classifier=sources
+- pkg:maven/org.kuali.rice/rice-kew-api@2.1.11
+- pkg:maven/org.kuali.rice/rice-kew-api@2.1.11?classifier=sources

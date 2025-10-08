@@ -180,3 +180,7 @@
 - pkg:maven/org.jboss.as/diagnostics@2.5.8.Final?classifier=sources
 - pkg:maven/org.jboss.as/diagnostics@2.2.14.Final
 - pkg:maven/org.jboss.as/diagnostics@2.2.14.Final?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.8.8.Final
+- pkg:maven/org.jboss.as/diagnostics@2.8.8.Final?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.5.9.Final
+- pkg:maven/org.jboss.as/diagnostics@2.5.9.Final?classifier=sources

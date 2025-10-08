@@ -215,3 +215,7 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@8.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@5.2.15.Final?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@5.2.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@8.0.1.Final?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@8.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@7.2.5.Final?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@7.2.5.Final?classifier=sources

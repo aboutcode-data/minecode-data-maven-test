@@ -214,3 +214,5 @@
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@3.0.0.Alpha13?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@2.3.0.CR2?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@2.3.0.CR2?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@2.2.16.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@2.2.16.Final?classifier=sources
