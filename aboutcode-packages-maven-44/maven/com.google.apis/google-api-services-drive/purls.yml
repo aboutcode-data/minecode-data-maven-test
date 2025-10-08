@@ -1364,3 +1364,11 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v1-rev124-1.19.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v1-rev124-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-drive@v1-rev124-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.20.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.20.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.19.1
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.19.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.19.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.19.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev171-1.18.0-rc?classifier=sources
