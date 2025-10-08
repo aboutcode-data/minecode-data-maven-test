@@ -90,3 +90,5 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-api@3.9.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-api@3.8.2
 - pkg:maven/com.newrelic.agent.java/newrelic-api@3.8.2?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-api@3.10.0
+- pkg:maven/com.newrelic.agent.java/newrelic-api@3.10.0?classifier=sources

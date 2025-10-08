@@ -54,3 +54,5 @@
 - pkg:maven/com.qulice/qulice-checkstyle@0.8.2?classifier=sources
 - pkg:maven/com.qulice/qulice-checkstyle@0.9
 - pkg:maven/com.qulice/qulice-checkstyle@0.9?classifier=sources
+- pkg:maven/com.qulice/qulice-checkstyle@0.10
+- pkg:maven/com.qulice/qulice-checkstyle@0.10?classifier=sources
