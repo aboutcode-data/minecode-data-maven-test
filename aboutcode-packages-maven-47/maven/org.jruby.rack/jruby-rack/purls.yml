@@ -37,3 +37,5 @@
 - pkg:maven/org.jruby.rack/jruby-rack@1.1.13.2
 - pkg:maven/org.jruby.rack/jruby-rack@1.1.13.3
 - pkg:maven/org.jruby.rack/jruby-rack@1.1.14
+- pkg:maven/org.jruby.rack/jruby-rack@1.1.16
+- pkg:maven/org.jruby.rack/jruby-rack@1.1.16?classifier=sources

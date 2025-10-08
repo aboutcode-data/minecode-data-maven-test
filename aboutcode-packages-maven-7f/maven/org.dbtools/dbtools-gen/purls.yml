@@ -22,3 +22,5 @@
 - pkg:maven/org.dbtools/dbtools-gen@2.1.0?classifier=sources
 - pkg:maven/org.dbtools/dbtools-gen@2.2.1
 - pkg:maven/org.dbtools/dbtools-gen@2.2.1?classifier=sources
+- pkg:maven/org.dbtools/dbtools-gen@2.3.0
+- pkg:maven/org.dbtools/dbtools-gen@2.3.0?classifier=sources

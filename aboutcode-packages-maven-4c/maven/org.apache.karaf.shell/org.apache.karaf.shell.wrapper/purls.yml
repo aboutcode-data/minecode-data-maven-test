@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.wrapper@2.4.0?classifier=sources
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.wrapper@2.3.8
 - pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.wrapper@2.3.8?classifier=sources
+- pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.wrapper@2.3.9
+- pkg:maven/org.apache.karaf.shell/org.apache.karaf.shell.wrapper@2.3.9?classifier=sources

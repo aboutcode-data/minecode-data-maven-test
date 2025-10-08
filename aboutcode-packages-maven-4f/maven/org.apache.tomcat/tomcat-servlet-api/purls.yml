@@ -98,3 +98,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-servlet-api@7.0.56?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-servlet-api@8.0.15
 - pkg:maven/org.apache.tomcat/tomcat-servlet-api@8.0.15?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-servlet-api@7.0.57
+- pkg:maven/org.apache.tomcat/tomcat-servlet-api@7.0.57?classifier=sources
