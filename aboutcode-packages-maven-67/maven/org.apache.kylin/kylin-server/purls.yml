@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.kylin/kylin-server@0.7.1-incubating?type=war
 - pkg:maven/org.apache.kylin/kylin-server@0.7.1-incubating?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-server@0.7.2-incubating?type=war
+- pkg:maven/org.apache.kylin/kylin-server@0.7.2-incubating?classifier=sources

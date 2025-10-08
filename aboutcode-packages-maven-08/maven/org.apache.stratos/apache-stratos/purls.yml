@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.stratos/apache-stratos@4.0.0?type=zip
 - pkg:maven/org.apache.stratos/apache-stratos@4.0.0?classifier=sources
+- pkg:maven/org.apache.stratos/apache-stratos@4.1.0?type=zip
+- pkg:maven/org.apache.stratos/apache-stratos@4.1.0?classifier=sources

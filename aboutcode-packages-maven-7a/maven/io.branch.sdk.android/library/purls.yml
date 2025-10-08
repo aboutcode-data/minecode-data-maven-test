@@ -56,3 +56,7 @@
 - pkg:maven/io.branch.sdk.android/library@1.7.0?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@1.6.2?type=aar
 - pkg:maven/io.branch.sdk.android/library@1.6.2?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@1.8.0?type=aar
+- pkg:maven/io.branch.sdk.android/library@1.8.0?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@1.7.2?type=aar
+- pkg:maven/io.branch.sdk.android/library@1.7.2?classifier=sources

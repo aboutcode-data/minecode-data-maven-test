@@ -4,3 +4,5 @@
 - pkg:maven/net.aequologica.neo/geppaequo-web@0.3.0?classifier=sources
 - pkg:maven/net.aequologica.neo/geppaequo-web@0.3.2?type=war
 - pkg:maven/net.aequologica.neo/geppaequo-web@0.3.2?classifier=sources
+- pkg:maven/net.aequologica.neo/geppaequo-web@0.3.3?type=war
+- pkg:maven/net.aequologica.neo/geppaequo-web@0.3.3?classifier=sources
