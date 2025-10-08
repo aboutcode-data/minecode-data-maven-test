@@ -34,3 +34,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.16?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.17
 - pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.17?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.19
+- pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.19?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.18
+- pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.9.18?classifier=sources
