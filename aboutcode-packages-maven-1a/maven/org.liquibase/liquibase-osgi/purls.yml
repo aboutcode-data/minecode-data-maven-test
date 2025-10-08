@@ -8,3 +8,5 @@
 - pkg:maven/org.liquibase/liquibase-osgi@3.0.0-rc2?classifier=sources
 - pkg:maven/org.liquibase/liquibase-osgi@3.0.0
 - pkg:maven/org.liquibase/liquibase-osgi@3.0.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-osgi@3.0.1
+- pkg:maven/org.liquibase/liquibase-osgi@3.0.1?classifier=sources

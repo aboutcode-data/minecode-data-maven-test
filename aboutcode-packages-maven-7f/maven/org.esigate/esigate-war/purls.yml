@@ -2,3 +2,5 @@
 - pkg:maven/org.esigate/esigate-war@4.0-beta-2?classifier=sources
 - pkg:maven/org.esigate/esigate-war@4.0?type=war
 - pkg:maven/org.esigate/esigate-war@4.0?classifier=sources
+- pkg:maven/org.esigate/esigate-war@4.1?type=war
+- pkg:maven/org.esigate/esigate-war@4.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jsr107.ri/cache-ri-impl@0.7
 - pkg:maven/org.jsr107.ri/cache-ri-impl@0.7?classifier=sources
+- pkg:maven/org.jsr107.ri/cache-ri-impl@0.8
+- pkg:maven/org.jsr107.ri/cache-ri-impl@0.8?classifier=sources
