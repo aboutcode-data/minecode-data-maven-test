@@ -94,3 +94,5 @@
 - pkg:maven/org.wicketstuff/googlecharts-examples@1.5.8?classifier=sources
 - pkg:maven/org.wicketstuff/googlecharts-examples@6.0.0?type=war
 - pkg:maven/org.wicketstuff/googlecharts-examples@6.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/googlecharts-examples@1.4.21?type=war
+- pkg:maven/org.wicketstuff/googlecharts-examples@1.4.21?classifier=sources

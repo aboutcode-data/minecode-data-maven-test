@@ -28,3 +28,5 @@
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-derby@8.16?classifier=sources
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-derby@8.17
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-derby@8.17?classifier=sources
+- pkg:maven/net.sourceforge.schemacrawler/schemacrawler-derby@9.0
+- pkg:maven/net.sourceforge.schemacrawler/schemacrawler-derby@9.0?classifier=sources

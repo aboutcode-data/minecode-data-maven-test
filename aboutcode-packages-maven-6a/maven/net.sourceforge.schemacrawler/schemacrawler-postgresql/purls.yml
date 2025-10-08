@@ -28,3 +28,5 @@
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-postgresql@8.16?classifier=sources
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-postgresql@8.17
 - pkg:maven/net.sourceforge.schemacrawler/schemacrawler-postgresql@8.17?classifier=sources
+- pkg:maven/net.sourceforge.schemacrawler/schemacrawler-postgresql@9.0
+- pkg:maven/net.sourceforge.schemacrawler/schemacrawler-postgresql@9.0?classifier=sources

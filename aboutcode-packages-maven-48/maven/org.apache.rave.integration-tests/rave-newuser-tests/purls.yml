@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.12?classifier=sources
 - pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.14
 - pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.14?classifier=sources
+- pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.15
+- pkg:maven/org.apache.rave.integration-tests/rave-newuser-tests@0.15?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.gmongo/gmongo@0.9.4?classifier=sources
 - pkg:maven/com.gmongo/gmongo@0.9.5
 - pkg:maven/com.gmongo/gmongo@0.9.5?classifier=sources
+- pkg:maven/com.gmongo/gmongo@1.0
+- pkg:maven/com.gmongo/gmongo@1.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/org.wicketstuff/inmethod-grid-examples@1.4.20?classifier=sources
 - pkg:maven/org.wicketstuff/inmethod-grid-examples@1.4.20.1?type=war
 - pkg:maven/org.wicketstuff/inmethod-grid-examples@1.4.20.1?classifier=sources
+- pkg:maven/org.wicketstuff/inmethod-grid-examples@1.4.21?type=war
+- pkg:maven/org.wicketstuff/inmethod-grid-examples@1.4.21?classifier=sources

@@ -76,3 +76,5 @@
 - pkg:maven/org.wicketstuff/calendarviews-examples@1.5.7?classifier=sources
 - pkg:maven/org.wicketstuff/calendarviews-examples@1.5.8?type=war
 - pkg:maven/org.wicketstuff/calendarviews-examples@1.5.8?classifier=sources
+- pkg:maven/org.wicketstuff/calendarviews-examples@1.4.21?type=war
+- pkg:maven/org.wicketstuff/calendarviews-examples@1.4.21?classifier=sources
