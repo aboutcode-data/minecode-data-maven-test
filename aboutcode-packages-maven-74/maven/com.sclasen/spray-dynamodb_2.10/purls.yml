@@ -2,3 +2,5 @@
 - pkg:maven/com.sclasen/spray-dynamodb_2.10@0.1.2?classifier=sources
 - pkg:maven/com.sclasen/spray-dynamodb_2.10@0.2.0-spray-20130712
 - pkg:maven/com.sclasen/spray-dynamodb_2.10@0.2.0-spray-20130712?classifier=sources
+- pkg:maven/com.sclasen/spray-dynamodb_2.10@0.2.1
+- pkg:maven/com.sclasen/spray-dynamodb_2.10@0.2.1?classifier=sources

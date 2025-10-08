@@ -1,2 +1,4 @@
 - pkg:maven/com.itextpdf/itext-pdfa@5.4.4
 - pkg:maven/com.itextpdf/itext-pdfa@5.4.4?classifier=sources
+- pkg:maven/com.itextpdf/itext-pdfa@5.4.5
+- pkg:maven/com.itextpdf/itext-pdfa@5.4.5?classifier=sources
