@@ -18,3 +18,7 @@
 - pkg:maven/org.apache.activemq/activemq-fileserver@5.1.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-fileserver@5.0.0?type=war
 - pkg:maven/org.apache.activemq/activemq-fileserver@5.0.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-fileserver@5.5.1?type=war
+- pkg:maven/org.apache.activemq/activemq-fileserver@5.5.1?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-fileserver@5.4.3?type=war
+- pkg:maven/org.apache.activemq/activemq-fileserver@5.4.3?classifier=sources

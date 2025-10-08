@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.curator/curator-framework@0.13
 - pkg:maven/com.netflix.curator/curator-framework@0.13?classifier=sources
+- pkg:maven/com.netflix.curator/curator-framework@0.25
+- pkg:maven/com.netflix.curator/curator-framework@0.25?classifier=sources

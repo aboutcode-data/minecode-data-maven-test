@@ -67,3 +67,5 @@
 - pkg:maven/com.sun.jersey.samples/bookstore@1.0.1?type=war
 - pkg:maven/com.sun.jersey.samples/bookstore@1.0?type=war
 - pkg:maven/com.sun.jersey.samples/bookstore@0.9-ea?type=war
+- pkg:maven/com.sun.jersey.samples/bookstore@1.10-b03?type=war
+- pkg:maven/com.sun.jersey.samples/bookstore@1.10-b03?classifier=sources

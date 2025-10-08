@@ -4,3 +4,7 @@
 - pkg:maven/org.roboguice/roboguice@1.1.1?classifier=sources
 - pkg:maven/org.roboguice/roboguice@1.1
 - pkg:maven/org.roboguice/roboguice@1.1?classifier=sources
+- pkg:maven/org.roboguice/roboguice@2.0b1
+- pkg:maven/org.roboguice/roboguice@2.0b1?classifier=sources
+- pkg:maven/org.roboguice/roboguice@2.0b2
+- pkg:maven/org.roboguice/roboguice@2.0b2?classifier=sources

@@ -67,3 +67,5 @@
 - pkg:maven/com.sun.jersey.samples/generate-wadl@1.0.1
 - pkg:maven/com.sun.jersey.samples/generate-wadl@1.0
 - pkg:maven/com.sun.jersey.samples/generate-wadl@0.9-ea
+- pkg:maven/com.sun.jersey.samples/generate-wadl@1.10-b03
+- pkg:maven/com.sun.jersey.samples/generate-wadl@1.10-b03?classifier=sources

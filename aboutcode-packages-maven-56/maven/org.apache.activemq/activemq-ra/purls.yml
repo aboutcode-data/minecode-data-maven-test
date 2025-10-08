@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.activemq/activemq-ra@5.0.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@4.1.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@4.1.1?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-ra@5.5.1?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-ra@5.4.3?classifier=sources

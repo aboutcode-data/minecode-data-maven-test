@@ -69,3 +69,7 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects@0.8.2
 - pkg:maven/net.java.dev.activeobjects/activeobjects@0.8.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects@0.8
+- pkg:maven/net.java.dev.activeobjects/activeobjects@0.9-m44
+- pkg:maven/net.java.dev.activeobjects/activeobjects@0.9-m44?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects@0.9-m41.1
+- pkg:maven/net.java.dev.activeobjects/activeobjects@0.9-m41.1?classifier=sources
