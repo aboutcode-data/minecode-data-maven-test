@@ -132,3 +132,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.0-b2015061001?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@2.11.4-01
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@2.11.4-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.0-b2015091801
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.0-b2015091801?classifier=sources

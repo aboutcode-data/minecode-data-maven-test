@@ -250,3 +250,7 @@
 - pkg:maven/org.pustefixframework.samples/moduletest@0.19.13?classifier=sources
 - pkg:maven/org.pustefixframework.samples/moduletest@0.19.14?type=war
 - pkg:maven/org.pustefixframework.samples/moduletest@0.19.14?classifier=sources
+- pkg:maven/org.pustefixframework.samples/moduletest@0.19.16?type=war
+- pkg:maven/org.pustefixframework.samples/moduletest@0.19.16?classifier=sources
+- pkg:maven/org.pustefixframework.samples/moduletest@0.19.15?type=war
+- pkg:maven/org.pustefixframework.samples/moduletest@0.19.15?classifier=sources
