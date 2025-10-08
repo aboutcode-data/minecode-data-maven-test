@@ -12,3 +12,5 @@
 - pkg:maven/org.wamblee/wamblee-test-eclipselink@0.3?classifier=sources
 - pkg:maven/org.wamblee/wamblee-test-eclipselink@0.2.4
 - pkg:maven/org.wamblee/wamblee-test-eclipselink@0.2.4?classifier=sources
+- pkg:maven/org.wamblee/wamblee-test-eclipselink@0.8
+- pkg:maven/org.wamblee/wamblee-test-eclipselink@0.8?classifier=sources

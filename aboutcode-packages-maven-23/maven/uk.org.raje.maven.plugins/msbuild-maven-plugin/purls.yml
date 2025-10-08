@@ -12,3 +12,5 @@
 - pkg:maven/uk.org.raje.maven.plugins/msbuild-maven-plugin@0.6?classifier=sources
 - pkg:maven/uk.org.raje.maven.plugins/msbuild-maven-plugin@0.5
 - pkg:maven/uk.org.raje.maven.plugins/msbuild-maven-plugin@0.5?classifier=sources
+- pkg:maven/uk.org.raje.maven.plugins/msbuild-maven-plugin@1.1
+- pkg:maven/uk.org.raje.maven.plugins/msbuild-maven-plugin@1.1?classifier=sources
