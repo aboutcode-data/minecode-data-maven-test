@@ -10,3 +10,5 @@
 - pkg:maven/it.nerdammer.bigdata/spark-hbase-connector_2.10@0.9.4?classifier=sources
 - pkg:maven/it.nerdammer.bigdata/spark-hbase-connector_2.10@1.0.0
 - pkg:maven/it.nerdammer.bigdata/spark-hbase-connector_2.10@1.0.0?classifier=sources
+- pkg:maven/it.nerdammer.bigdata/spark-hbase-connector_2.10@1.0.1
+- pkg:maven/it.nerdammer.bigdata/spark-hbase-connector_2.10@1.0.1?classifier=sources
