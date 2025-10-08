@@ -40,3 +40,5 @@
 - pkg:maven/org.webjars.bower/angular-material@1.0.0-rc7-master-2ab3075?classifier=sources
 - pkg:maven/org.webjars.bower/angular-material@1.0.0-rc7
 - pkg:maven/org.webjars.bower/angular-material@1.0.0-rc7?classifier=sources
+- pkg:maven/org.webjars.bower/angular-material@1.0.0
+- pkg:maven/org.webjars.bower/angular-material@1.0.0?classifier=sources
