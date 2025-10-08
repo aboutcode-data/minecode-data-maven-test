@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.xmlgraphics/fop@0.94
 - pkg:maven/org.apache.xmlgraphics/fop@0.93
 - pkg:maven/org.apache.xmlgraphics/fop@0.93?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/fop@1.1
+- pkg:maven/org.apache.xmlgraphics/fop@1.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.beangle.commons/beangle-commons-dao@2.5.0
 - pkg:maven/org.beangle.commons/beangle-commons-dao@2.5.0?classifier=sources
+- pkg:maven/org.beangle.commons/beangle-commons-dao@3.0.0
+- pkg:maven/org.beangle.commons/beangle-commons-dao@3.0.0?classifier=sources

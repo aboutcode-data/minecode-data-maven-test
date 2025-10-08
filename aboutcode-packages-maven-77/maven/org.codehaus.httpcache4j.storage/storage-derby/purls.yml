@@ -9,3 +9,5 @@
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-derby@2.0
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-derby@3.4
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-derby@3.4?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-derby@4.0-M1
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-derby@4.0-M1?classifier=sources
