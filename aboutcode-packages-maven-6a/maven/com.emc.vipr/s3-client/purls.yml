@@ -2,3 +2,5 @@
 - pkg:maven/com.emc.vipr/s3-client@1.0?classifier=sources
 - pkg:maven/com.emc.vipr/s3-client@1.1
 - pkg:maven/com.emc.vipr/s3-client@1.1?classifier=sources
+- pkg:maven/com.emc.vipr/s3-client@1.1.1
+- pkg:maven/com.emc.vipr/s3-client@1.1.1?classifier=sources

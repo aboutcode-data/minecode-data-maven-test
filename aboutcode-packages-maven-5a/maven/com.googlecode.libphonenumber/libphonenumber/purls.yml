@@ -58,3 +58,5 @@
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.8?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.9
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@5.9?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@6.0
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@6.0?classifier=sources

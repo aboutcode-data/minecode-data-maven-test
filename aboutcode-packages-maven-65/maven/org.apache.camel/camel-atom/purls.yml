@@ -113,3 +113,5 @@
 - pkg:maven/org.apache.camel/camel-atom@2.11.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-atom@2.11.4
 - pkg:maven/org.apache.camel/camel-atom@2.11.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-atom@2.12.3
+- pkg:maven/org.apache.camel/camel-atom@2.12.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.google.zxing/core@2.2?classifier=sources
 - pkg:maven/com.google.zxing/core@2.3.0
 - pkg:maven/com.google.zxing/core@2.3.0?classifier=sources
+- pkg:maven/com.google.zxing/core@3.0.0
+- pkg:maven/com.google.zxing/core@3.0.0?classifier=sources

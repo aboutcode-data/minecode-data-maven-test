@@ -50,3 +50,7 @@
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9-maven3.0?classifier=sources
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.0-maven3.0
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.0-maven3.0?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.0
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.0?classifier=sources

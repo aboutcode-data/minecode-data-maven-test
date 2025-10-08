@@ -1,0 +1,2 @@
+- pkg:maven/io.takari.aether/takari-local-repository@0.0.8
+- pkg:maven/io.takari.aether/takari-local-repository@0.0.8?classifier=sources
