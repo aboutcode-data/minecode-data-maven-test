@@ -28,3 +28,5 @@
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.18.15?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.18.16?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.18.16?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.18.17?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.18.17?classifier=sources

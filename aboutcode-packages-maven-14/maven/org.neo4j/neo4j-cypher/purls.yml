@@ -52,3 +52,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher@1.7.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher@1.6.3
 - pkg:maven/org.neo4j/neo4j-cypher@1.6.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher@1.8.M04
+- pkg:maven/org.neo4j/neo4j-cypher@1.8.M04?classifier=sources

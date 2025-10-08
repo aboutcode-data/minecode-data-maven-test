@@ -26,3 +26,5 @@
 - pkg:maven/org.clojure/core.logic@0.7.4?classifier=sources
 - pkg:maven/org.clojure/core.logic@0.7.3
 - pkg:maven/org.clojure/core.logic@0.7.3?classifier=sources
+- pkg:maven/org.clojure/core.logic@0.7.5
+- pkg:maven/org.clojure/core.logic@0.7.5?classifier=sources

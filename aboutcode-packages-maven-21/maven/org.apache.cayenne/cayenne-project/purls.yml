@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.cayenne/cayenne-project@3.1M3
 - pkg:maven/org.apache.cayenne/cayenne-project@3.1M3?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-project@3.1B1
+- pkg:maven/org.apache.cayenne/cayenne-project@3.1B1?classifier=sources

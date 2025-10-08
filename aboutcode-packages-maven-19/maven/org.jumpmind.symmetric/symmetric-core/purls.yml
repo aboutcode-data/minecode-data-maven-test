@@ -62,3 +62,5 @@
 - pkg:maven/org.jumpmind.symmetric/symmetric-core@2.5.13?classifier=sources
 - pkg:maven/org.jumpmind.symmetric/symmetric-core@3.0.0
 - pkg:maven/org.jumpmind.symmetric/symmetric-core@3.0.0?classifier=sources
+- pkg:maven/org.jumpmind.symmetric/symmetric-core@3.0.1
+- pkg:maven/org.jumpmind.symmetric/symmetric-core@3.0.1?classifier=sources
