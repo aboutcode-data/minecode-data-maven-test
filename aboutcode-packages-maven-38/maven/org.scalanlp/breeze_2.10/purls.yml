@@ -22,3 +22,5 @@
 - pkg:maven/org.scalanlp/breeze_2.10@0.6.1?classifier=sources
 - pkg:maven/org.scalanlp/breeze_2.10@0.7
 - pkg:maven/org.scalanlp/breeze_2.10@0.7?classifier=sources
+- pkg:maven/org.scalanlp/breeze_2.10@0.8
+- pkg:maven/org.scalanlp/breeze_2.10@0.8?classifier=sources

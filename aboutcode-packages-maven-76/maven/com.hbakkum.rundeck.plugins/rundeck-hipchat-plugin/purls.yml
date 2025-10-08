@@ -1,2 +1,4 @@
 - pkg:maven/com.hbakkum.rundeck.plugins/rundeck-hipchat-plugin@1.0.0
 - pkg:maven/com.hbakkum.rundeck.plugins/rundeck-hipchat-plugin@1.0.0?classifier=sources
+- pkg:maven/com.hbakkum.rundeck.plugins/rundeck-hipchat-plugin@1.2.0
+- pkg:maven/com.hbakkum.rundeck.plugins/rundeck-hipchat-plugin@1.2.0?classifier=sources

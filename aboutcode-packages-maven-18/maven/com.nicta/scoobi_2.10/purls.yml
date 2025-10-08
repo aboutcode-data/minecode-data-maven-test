@@ -46,3 +46,11 @@
 - pkg:maven/com.nicta/scoobi_2.10@0.8.2-cdh3?classifier=sources
 - pkg:maven/com.nicta/scoobi_2.10@0.8.2
 - pkg:maven/com.nicta/scoobi_2.10@0.8.2?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4-cdh5
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4-cdh5?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4-cdh4
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4-cdh4?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4-cdh3
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4-cdh3?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4
+- pkg:maven/com.nicta/scoobi_2.10@0.8.4?classifier=sources
