@@ -3,3 +3,5 @@
 - pkg:maven/org.kie.smoke/kie-wb-smoke-tests@6.2.0.CR3
 - pkg:maven/org.kie.smoke/kie-wb-smoke-tests@6.2.0.CR4
 - pkg:maven/org.kie.smoke/kie-wb-smoke-tests@6.2.0.Final
+- pkg:maven/org.kie.smoke/kie-wb-smoke-tests@6.3.0.Beta1
+- pkg:maven/org.kie.smoke/kie-wb-smoke-tests@6.3.0.Beta1?classifier=sources
