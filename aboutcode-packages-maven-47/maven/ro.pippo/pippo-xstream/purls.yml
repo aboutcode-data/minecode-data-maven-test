@@ -1,2 +1,4 @@
 - pkg:maven/ro.pippo/pippo-xstream@0.4.0
 - pkg:maven/ro.pippo/pippo-xstream@0.4.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-xstream@0.4.1
+- pkg:maven/ro.pippo/pippo-xstream@0.4.1?classifier=sources

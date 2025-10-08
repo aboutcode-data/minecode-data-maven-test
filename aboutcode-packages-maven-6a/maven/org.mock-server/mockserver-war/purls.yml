@@ -78,3 +78,5 @@
 - pkg:maven/org.mock-server/mockserver-war@3.9.3?classifier=sources
 - pkg:maven/org.mock-server/mockserver-war@3.9.8?type=war
 - pkg:maven/org.mock-server/mockserver-war@3.9.8?classifier=sources
+- pkg:maven/org.mock-server/mockserver-war@3.9.9?type=war
+- pkg:maven/org.mock-server/mockserver-war@3.9.9?classifier=sources

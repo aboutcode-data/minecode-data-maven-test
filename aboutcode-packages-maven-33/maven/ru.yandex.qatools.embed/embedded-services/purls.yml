@@ -1,2 +1,12 @@
 - pkg:maven/ru.yandex.qatools.embed/embedded-services@1.10
 - pkg:maven/ru.yandex.qatools.embed/embedded-services@1.10?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.15
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.15?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.14
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.14?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.13
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.13?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.12
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.12?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.11
+- pkg:maven/ru.yandex.qatools.embed/embedded-services@1.11?classifier=sources
