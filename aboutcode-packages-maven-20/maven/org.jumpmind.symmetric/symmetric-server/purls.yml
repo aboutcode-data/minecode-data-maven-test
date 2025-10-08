@@ -60,3 +60,5 @@
 - pkg:maven/org.jumpmind.symmetric/symmetric-server@2.5.12?classifier=sources
 - pkg:maven/org.jumpmind.symmetric/symmetric-server@2.5.13
 - pkg:maven/org.jumpmind.symmetric/symmetric-server@2.5.13?classifier=sources
+- pkg:maven/org.jumpmind.symmetric/symmetric-server@3.0.0
+- pkg:maven/org.jumpmind.symmetric/symmetric-server@3.0.0?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.dasein/dasein-persist@2012.02?classifier=sources
 - pkg:maven/org.dasein/dasein-persist@2012.05
 - pkg:maven/org.dasein/dasein-persist@2012.05?classifier=sources
+- pkg:maven/org.dasein/dasein-persist@2012.05.1
+- pkg:maven/org.dasein/dasein-persist@2012.05.1?classifier=sources
+- pkg:maven/org.dasein/dasein-persist@2012.05.2
+- pkg:maven/org.dasein/dasein-persist@2012.05.2?classifier=sources
