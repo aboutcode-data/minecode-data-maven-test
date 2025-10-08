@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.mesos/mesos@0.21.0-rc3?classifier=sources
 - pkg:maven/org.apache.mesos/mesos@0.21.0-rc2
 - pkg:maven/org.apache.mesos/mesos@0.21.0-rc2?classifier=sources
+- pkg:maven/org.apache.mesos/mesos@0.21.0
+- pkg:maven/org.apache.mesos/mesos@0.21.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/me.gregorias/dfuntest@0.2?classifier=sources
 - pkg:maven/me.gregorias/dfuntest@0.1.1
 - pkg:maven/me.gregorias/dfuntest@0.1.1?classifier=sources
+- pkg:maven/me.gregorias/dfuntest@0.4
+- pkg:maven/me.gregorias/dfuntest@0.4?classifier=sources

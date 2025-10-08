@@ -1,0 +1,4 @@
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-camel-amq@2.0.8?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-camel-amq@2.0.7?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-camel-amq@2.0.5
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-karaf-camel-amq@2.0.5?classifier=sources
