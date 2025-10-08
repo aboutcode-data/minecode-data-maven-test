@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.14.0?type=war
+- pkg:maven/org.apache.camel/camel-example-servlet-rest-tomcat@2.14.0?classifier=sources

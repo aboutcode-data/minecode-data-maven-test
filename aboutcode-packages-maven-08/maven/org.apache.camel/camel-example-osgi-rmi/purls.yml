@@ -85,3 +85,5 @@
 - pkg:maven/org.apache.camel/camel-example-osgi-rmi@2.13.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-osgi-rmi@2.12.4
 - pkg:maven/org.apache.camel/camel-example-osgi-rmi@2.12.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-osgi-rmi@2.14.0
+- pkg:maven/org.apache.camel/camel-example-osgi-rmi@2.14.0?classifier=sources

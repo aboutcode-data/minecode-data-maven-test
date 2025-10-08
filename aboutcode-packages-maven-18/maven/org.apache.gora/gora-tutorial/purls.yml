@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.gora/gora-tutorial@0.4?classifier=src&type=zip
 - pkg:maven/org.apache.gora/gora-tutorial@0.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.gora/gora-tutorial@0.4?classifier=sources
+- pkg:maven/org.apache.gora/gora-tutorial@0.5
+- pkg:maven/org.apache.gora/gora-tutorial@0.5?classifier=src&type=zip
+- pkg:maven/org.apache.gora/gora-tutorial@0.5?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora-tutorial@0.5?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.kaazing/robot.cli@1.3.0.0?classifier=sources
 - pkg:maven/org.kaazing/robot.cli@0.0.0.13?type=zip
 - pkg:maven/org.kaazing/robot.cli@0.0.0.13?classifier=sources
+- pkg:maven/org.kaazing/robot.cli@1.3.0.2?type=zip
+- pkg:maven/org.kaazing/robot.cli@1.3.0.2?classifier=sources
