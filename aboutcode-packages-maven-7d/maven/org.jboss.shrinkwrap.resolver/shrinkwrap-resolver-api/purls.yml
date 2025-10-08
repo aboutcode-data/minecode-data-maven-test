@@ -52,3 +52,5 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api@2.0.0?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api@2.1.0-alpha-1
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api@2.1.0-alpha-1?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api@2.0.1
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api@2.0.1?classifier=sources

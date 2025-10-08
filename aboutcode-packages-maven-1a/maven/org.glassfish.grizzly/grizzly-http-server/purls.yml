@@ -132,3 +132,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-http-server@2.3.6?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-http-server@2.3.7
 - pkg:maven/org.glassfish.grizzly/grizzly-http-server@2.3.7?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-http-server@2.3.8-beta1
+- pkg:maven/org.glassfish.grizzly/grizzly-http-server@2.3.8-beta1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.molgenis/molgenis-app-omx@0.0.2?classifier=sources
 - pkg:maven/org.molgenis/molgenis-app-omx@0.0.3?type=war
 - pkg:maven/org.molgenis/molgenis-app-omx@0.0.3?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app-omx@0.0.4?type=war
+- pkg:maven/org.molgenis/molgenis-app-omx@0.0.4?classifier=sources
