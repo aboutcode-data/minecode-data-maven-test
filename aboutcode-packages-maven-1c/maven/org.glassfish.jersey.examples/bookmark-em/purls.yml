@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m05-2?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m05-2?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m06?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m06?classifier=sources
