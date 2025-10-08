@@ -74,3 +74,5 @@
 - pkg:maven/org.jruby/jruby@1.7.0.preview2?classifier=sources
 - pkg:maven/org.jruby/jruby@1.6.8
 - pkg:maven/org.jruby/jruby@1.6.8?classifier=sources
+- pkg:maven/org.jruby/jruby@1.7.0.RC1
+- pkg:maven/org.jruby/jruby@1.7.0.RC1?classifier=sources

@@ -70,3 +70,7 @@
 - pkg:maven/org.jooq/jooq-codegen@2.4.1?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@2.3.3
 - pkg:maven/org.jooq/jooq-codegen@2.3.3?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@2.5.1
+- pkg:maven/org.jooq/jooq-codegen@2.5.1?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@2.4.2
+- pkg:maven/org.jooq/jooq-codegen@2.4.2?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.ops4j.pax.exam/regression-pde-bundle@2.5.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/regression-pde-bundle@3.0.0.M3
 - pkg:maven/org.ops4j.pax.exam/regression-pde-bundle@3.0.0.M3?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/regression-pde-bundle@2.6.0
+- pkg:maven/org.ops4j.pax.exam/regression-pde-bundle@2.6.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.impetus.kundera.rest/kundera-rest@2.0.7
 - pkg:maven/com.impetus.kundera.rest/kundera-rest@2.0.7?classifier=sources
+- pkg:maven/com.impetus.kundera.rest/kundera-rest@2.1
+- pkg:maven/com.impetus.kundera.rest/kundera-rest@2.1?classifier=sources

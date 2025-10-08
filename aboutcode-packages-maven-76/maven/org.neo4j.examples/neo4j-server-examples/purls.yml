@@ -12,3 +12,5 @@
 - pkg:maven/org.neo4j.examples/neo4j-server-examples@1.8.M07?classifier=sources
 - pkg:maven/org.neo4j.examples/neo4j-server-examples@1.8.RC1
 - pkg:maven/org.neo4j.examples/neo4j-server-examples@1.8.RC1?classifier=sources
+- pkg:maven/org.neo4j.examples/neo4j-server-examples@1.8
+- pkg:maven/org.neo4j.examples/neo4j-server-examples@1.8?classifier=sources
