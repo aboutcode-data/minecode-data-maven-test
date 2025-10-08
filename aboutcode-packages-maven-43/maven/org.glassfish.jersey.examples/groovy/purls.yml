@@ -58,3 +58,6 @@
 - pkg:maven/org.glassfish.jersey.examples/groovy@2.20
 - pkg:maven/org.glassfish.jersey.examples/groovy@2.20?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/groovy@2.20?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/groovy@2.21
+- pkg:maven/org.glassfish.jersey.examples/groovy@2.21?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/groovy@2.21?classifier=project-src&type=zip

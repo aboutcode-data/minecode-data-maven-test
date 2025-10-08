@@ -110,3 +110,5 @@
 - pkg:maven/org.glassfish.jersey.core/jersey-common@2.19?classifier=sources
 - pkg:maven/org.glassfish.jersey.core/jersey-common@2.20
 - pkg:maven/org.glassfish.jersey.core/jersey-common@2.20?classifier=sources
+- pkg:maven/org.glassfish.jersey.core/jersey-common@2.21
+- pkg:maven/org.glassfish.jersey.core/jersey-common@2.21?classifier=sources

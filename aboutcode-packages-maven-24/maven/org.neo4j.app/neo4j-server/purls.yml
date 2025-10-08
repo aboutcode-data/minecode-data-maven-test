@@ -130,3 +130,5 @@
 - pkg:maven/org.neo4j.app/neo4j-server@2.3.0-M02?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@2.2.3
 - pkg:maven/org.neo4j.app/neo4j-server@2.2.3?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server@2.2.4
+- pkg:maven/org.neo4j.app/neo4j-server@2.2.4?classifier=sources
