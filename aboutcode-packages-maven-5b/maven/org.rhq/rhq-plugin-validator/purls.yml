@@ -26,3 +26,5 @@
 - pkg:maven/org.rhq/rhq-plugin-validator@1.2.0.GA
 - pkg:maven/org.rhq/rhq-plugin-validator@1.1.2.GA
 - pkg:maven/org.rhq/rhq-plugin-validator@1.0.0.GA
+- pkg:maven/org.rhq/rhq-plugin-validator@4.5.1
+- pkg:maven/org.rhq/rhq-plugin-validator@4.5.1?classifier=sources

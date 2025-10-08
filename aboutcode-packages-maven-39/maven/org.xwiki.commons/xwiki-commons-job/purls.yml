@@ -32,3 +32,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@4.2-milestone-3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@4.2-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@4.2-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@4.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@4.2?classifier=sources

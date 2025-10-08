@@ -8,3 +8,5 @@
 - pkg:maven/org.rhq.helpers/bundleGen@4.0.1?classifier=sources
 - pkg:maven/org.rhq.helpers/bundleGen@4.0.0.Beta1
 - pkg:maven/org.rhq.helpers/bundleGen@4.0.0.B02
+- pkg:maven/org.rhq.helpers/bundleGen@4.5.1
+- pkg:maven/org.rhq.helpers/bundleGen@4.5.1?classifier=sources
