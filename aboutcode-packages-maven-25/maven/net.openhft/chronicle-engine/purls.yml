@@ -114,3 +114,7 @@
 - pkg:maven/net.openhft/chronicle-engine@1.10.16?classifier=sources
 - pkg:maven/net.openhft/chronicle-engine@1.10.15
 - pkg:maven/net.openhft/chronicle-engine@1.10.15?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.10.20
+- pkg:maven/net.openhft/chronicle-engine@1.10.20?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.10.19
+- pkg:maven/net.openhft/chronicle-engine@1.10.19?classifier=sources
