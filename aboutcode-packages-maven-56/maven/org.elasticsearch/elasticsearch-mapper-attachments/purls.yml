@@ -104,3 +104,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@1.8.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@1.9.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@1.9.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@2.0.0.RC1?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-mapper-attachments@2.0.0.RC1?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-http@0.12?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-http@0.13
 - pkg:maven/org.apache.jackrabbit/oak-http@0.13?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-http@0.14
+- pkg:maven/org.apache.jackrabbit/oak-http@0.14?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-lang-groovy@1.4.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-lang-groovy@1.5.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-lang-groovy@1.5.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-lang-groovy@2.0.0.RC1?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-lang-groovy@2.0.0.RC1?classifier=sources

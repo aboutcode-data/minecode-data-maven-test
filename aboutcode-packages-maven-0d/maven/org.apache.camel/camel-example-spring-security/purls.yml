@@ -80,3 +80,5 @@
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.11.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.12.2?type=war
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.12.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-spring-security@2.11.3?type=war
+- pkg:maven/org.apache.camel/camel-example-spring-security@2.11.3?classifier=sources

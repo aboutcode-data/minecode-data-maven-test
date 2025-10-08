@@ -35,3 +35,6 @@
 - pkg:maven/org.apache.myfaces.shared/myfaces-shared-project@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.shared/myfaces-shared-project@4.1.11?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.shared/myfaces-shared-project@4.0.19?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.shared/myfaces-shared-project@4.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.shared/myfaces-shared-project@4.1.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.shared/myfaces-shared-project@4.0.20?classifier=source-release&type=zip
