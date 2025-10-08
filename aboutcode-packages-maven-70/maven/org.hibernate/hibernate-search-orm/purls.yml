@@ -90,3 +90,7 @@
 - pkg:maven/org.hibernate/hibernate-search-orm@4.5.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-orm@4.4.6.Final
 - pkg:maven/org.hibernate/hibernate-search-orm@4.4.6.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-orm@5.0.0.CR2
+- pkg:maven/org.hibernate/hibernate-search-orm@5.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-orm@5.0.0.CR1
+- pkg:maven/org.hibernate/hibernate-search-orm@5.0.0.CR1?classifier=sources

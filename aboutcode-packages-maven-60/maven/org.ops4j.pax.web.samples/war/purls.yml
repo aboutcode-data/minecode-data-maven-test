@@ -126,3 +126,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war@4.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war@3.1.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war@3.1.2?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war@3.1.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war@3.1.3?classifier=sources
