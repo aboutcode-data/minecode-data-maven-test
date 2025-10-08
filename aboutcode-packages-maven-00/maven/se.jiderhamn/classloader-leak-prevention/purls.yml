@@ -1,2 +1,4 @@
 - pkg:maven/se.jiderhamn/classloader-leak-prevention@1.5.2
 - pkg:maven/se.jiderhamn/classloader-leak-prevention@1.5.2?classifier=sources
+- pkg:maven/se.jiderhamn/classloader-leak-prevention@1.6.0
+- pkg:maven/se.jiderhamn/classloader-leak-prevention@1.6.0?classifier=sources
