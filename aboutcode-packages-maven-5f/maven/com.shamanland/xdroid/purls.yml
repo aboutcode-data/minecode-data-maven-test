@@ -24,3 +24,5 @@
 - pkg:maven/com.shamanland/xdroid@0.0.13?classifier=sources
 - pkg:maven/com.shamanland/xdroid@0.0.12?type=aar
 - pkg:maven/com.shamanland/xdroid@0.0.12?classifier=sources
+- pkg:maven/com.shamanland/xdroid@0.0.14?type=aar
+- pkg:maven/com.shamanland/xdroid@0.0.14?classifier=sources

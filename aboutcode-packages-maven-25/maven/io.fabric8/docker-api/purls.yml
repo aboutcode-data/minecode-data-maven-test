@@ -36,3 +36,5 @@
 - pkg:maven/io.fabric8/docker-api@2.0.16?classifier=sources
 - pkg:maven/io.fabric8/docker-api@2.0.18
 - pkg:maven/io.fabric8/docker-api@2.0.18?classifier=sources
+- pkg:maven/io.fabric8/docker-api@2.0.19
+- pkg:maven/io.fabric8/docker-api@2.0.19?classifier=sources

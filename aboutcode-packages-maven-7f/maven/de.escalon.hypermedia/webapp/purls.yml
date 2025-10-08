@@ -1,2 +1,6 @@
 - pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha1?type=war
 - pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha1?classifier=sources
+- pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha3?type=war
+- pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha3?classifier=sources
+- pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha2?type=war
+- pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha2?classifier=sources
