@@ -44,3 +44,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.1.10?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.1.11
 - pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.1.11?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.2.2
+- pkg:maven/org.glassfish.grizzly/grizzly-websockets@2.2.2?classifier=sources

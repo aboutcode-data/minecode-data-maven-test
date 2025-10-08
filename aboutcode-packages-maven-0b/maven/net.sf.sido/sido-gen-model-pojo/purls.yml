@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.sido/sido-gen-model-pojo@1.0.0.A0
 - pkg:maven/net.sf.sido/sido-gen-model-pojo@1.0.0.A0?classifier=sources
+- pkg:maven/net.sf.sido/sido-gen-model-pojo@1.0.0
+- pkg:maven/net.sf.sido/sido-gen-model-pojo@1.0.0?classifier=sources

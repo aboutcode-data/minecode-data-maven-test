@@ -46,3 +46,5 @@
 - pkg:maven/org.wicketstuff/jwicket-examples@1.4.10?classifier=sources
 - pkg:maven/org.wicketstuff/jwicket-examples@1.4.19?type=war
 - pkg:maven/org.wicketstuff/jwicket-examples@1.4.19?classifier=sources
+- pkg:maven/org.wicketstuff/jwicket-examples@1.4.20?type=war
+- pkg:maven/org.wicketstuff/jwicket-examples@1.4.20?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.grails/grails-maven-archetype@1.0-RC2
 - pkg:maven/org.grails/grails-maven-archetype@1.0-RC1
 - pkg:maven/org.grails/grails-maven-archetype@1.0
+- pkg:maven/org.grails/grails-maven-archetype@2.0.1
+- pkg:maven/org.grails/grails-maven-archetype@2.0.1?classifier=sources

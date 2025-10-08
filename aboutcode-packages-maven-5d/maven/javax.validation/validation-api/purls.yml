@@ -11,3 +11,5 @@
 - pkg:maven/javax.validation/validation-api@1.0.Beta3
 - pkg:maven/javax.validation/validation-api@1.0.0.GA
 - pkg:maven/javax.validation/validation-api@1.0.0.GA?classifier=sources
+- pkg:maven/javax.validation/validation-api@1.1.0.Alpha1
+- pkg:maven/javax.validation/validation-api@1.1.0.Alpha1?classifier=sources
