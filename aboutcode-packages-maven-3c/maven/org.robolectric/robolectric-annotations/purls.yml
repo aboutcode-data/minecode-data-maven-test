@@ -1,2 +1,6 @@
 - pkg:maven/org.robolectric/robolectric-annotations@2.4
 - pkg:maven/org.robolectric/robolectric-annotations@2.4?classifier=sources
+- pkg:maven/org.robolectric/robolectric-annotations@3.0-rc2
+- pkg:maven/org.robolectric/robolectric-annotations@3.0-rc2?classifier=sources
+- pkg:maven/org.robolectric/robolectric-annotations@3.0-rc1
+- pkg:maven/org.robolectric/robolectric-annotations@3.0-rc1?classifier=sources
