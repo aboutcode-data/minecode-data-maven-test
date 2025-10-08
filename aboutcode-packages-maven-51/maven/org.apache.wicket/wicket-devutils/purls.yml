@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.wicket/wicket-devutils@1.5.10?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@1.4.22
 - pkg:maven/org.apache.wicket/wicket-devutils@1.4.22?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-devutils@6.7.0
+- pkg:maven/org.apache.wicket/wicket-devutils@6.7.0?classifier=sources

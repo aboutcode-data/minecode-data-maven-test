@@ -10,3 +10,5 @@
 - pkg:maven/com.lmax/disruptor@3.0.0.beta4?classifier=sources
 - pkg:maven/com.lmax/disruptor@3.0.0
 - pkg:maven/com.lmax/disruptor@3.0.0?classifier=sources
+- pkg:maven/com.lmax/disruptor@3.0.1
+- pkg:maven/com.lmax/disruptor@3.0.1?classifier=sources

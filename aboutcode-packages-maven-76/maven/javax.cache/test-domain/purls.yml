@@ -10,3 +10,5 @@
 - pkg:maven/javax.cache/test-domain@0.6?classifier=sources
 - pkg:maven/javax.cache/test-domain@0.61
 - pkg:maven/javax.cache/test-domain@0.61?classifier=sources
+- pkg:maven/javax.cache/test-domain@0.7
+- pkg:maven/javax.cache/test-domain@0.7?classifier=sources
