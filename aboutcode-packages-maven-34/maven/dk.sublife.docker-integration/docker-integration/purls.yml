@@ -1,2 +1,4 @@
 - pkg:maven/dk.sublife.docker-integration/docker-integration@1.0.3
 - pkg:maven/dk.sublife.docker-integration/docker-integration@1.0.3?classifier=sources
+- pkg:maven/dk.sublife.docker-integration/docker-integration@1.1.1
+- pkg:maven/dk.sublife.docker-integration/docker-integration@1.1.1?classifier=sources
