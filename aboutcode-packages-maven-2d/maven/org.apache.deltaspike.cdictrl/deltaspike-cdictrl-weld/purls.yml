@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld@0.6?classifier=sources
 - pkg:maven/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld@0.7
 - pkg:maven/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld@0.7?classifier=sources
+- pkg:maven/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld@1.0.0
+- pkg:maven/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld@1.0.0?classifier=sources
