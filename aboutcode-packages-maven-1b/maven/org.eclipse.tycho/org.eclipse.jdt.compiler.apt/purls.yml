@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.0.500.v20111201-1324
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.0.500.v20111201-1324?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.0.500.v20120423-0553
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.0.500.v20120423-0553?classifier=sources

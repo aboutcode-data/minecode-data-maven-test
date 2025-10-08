@@ -11,3 +11,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@2.0.4-incubator?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@2.0.2-incubator
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@2.0.2-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@2.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@2.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@2.4.0?classifier=source-release&type=zip

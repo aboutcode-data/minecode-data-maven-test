@@ -75,3 +75,5 @@
 - pkg:maven/org.zkoss.zk/zk@6.0.0?classifier=sources
 - pkg:maven/org.zkoss.zk/zk@5.0.11
 - pkg:maven/org.zkoss.zk/zk@5.0.11?classifier=sources
+- pkg:maven/org.zkoss.zk/zk@6.0.1
+- pkg:maven/org.zkoss.zk/zk@6.0.1?classifier=sources
