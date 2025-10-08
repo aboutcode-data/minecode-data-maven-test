@@ -20,3 +20,7 @@
 - pkg:maven/eu.stratosphere/stratosphere-core@0.5-hadoop2?classifier=sources
 - pkg:maven/eu.stratosphere/stratosphere-core@0.5
 - pkg:maven/eu.stratosphere/stratosphere-core@0.5?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-core@0.5.1-hadoop2
+- pkg:maven/eu.stratosphere/stratosphere-core@0.5.1-hadoop2?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-core@0.5.1
+- pkg:maven/eu.stratosphere/stratosphere-core@0.5.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.java-adventures.smarkdown/smarkdown-war@0.2.2?type=war
 - pkg:maven/com.java-adventures.smarkdown/smarkdown-war@0.2.2?classifier=sources
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war@0.3?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war@0.3?classifier=sources

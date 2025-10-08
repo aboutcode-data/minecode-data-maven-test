@@ -8,3 +8,5 @@
 - pkg:maven/eu.stratosphere/hbase@0.5-rc3-hadoop2?classifier=sources
 - pkg:maven/eu.stratosphere/hbase@0.5-hadoop2
 - pkg:maven/eu.stratosphere/hbase@0.5-hadoop2?classifier=sources
+- pkg:maven/eu.stratosphere/hbase@0.5.1-hadoop2
+- pkg:maven/eu.stratosphere/hbase@0.5.1-hadoop2?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/de.codescape.bitvunit/bitvunit-samples@0.9.0?type=war
+- pkg:maven/de.codescape.bitvunit/bitvunit-samples@0.11?type=war
+- pkg:maven/de.codescape.bitvunit/bitvunit-samples@0.11?classifier=sources
+- pkg:maven/de.codescape.bitvunit/bitvunit-samples@0.10.0?type=war
+- pkg:maven/de.codescape.bitvunit/bitvunit-samples@0.10.0?classifier=sources
