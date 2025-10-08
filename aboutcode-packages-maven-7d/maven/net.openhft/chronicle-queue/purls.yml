@@ -1,2 +1,4 @@
 - pkg:maven/net.openhft/chronicle-queue@4.0.1-alpha
 - pkg:maven/net.openhft/chronicle-queue@4.0.1-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@4.0.3-beta
+- pkg:maven/net.openhft/chronicle-queue@4.0.3-beta?classifier=sources

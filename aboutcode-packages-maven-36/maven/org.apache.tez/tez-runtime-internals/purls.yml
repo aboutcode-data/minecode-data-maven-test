@@ -27,3 +27,5 @@
 - pkg:maven/org.apache.tez/tez-runtime-internals@0.8.0-alpha?classifier=sources
 - pkg:maven/org.apache.tez/tez-runtime-internals@0.8.1-alpha
 - pkg:maven/org.apache.tez/tez-runtime-internals@0.8.1-alpha?classifier=sources
+- pkg:maven/org.apache.tez/tez-runtime-internals@0.8.2
+- pkg:maven/org.apache.tez/tez-runtime-internals@0.8.2?classifier=sources
