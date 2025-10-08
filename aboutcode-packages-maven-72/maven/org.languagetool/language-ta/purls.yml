@@ -1,2 +1,4 @@
 - pkg:maven/org.languagetool/language-ta@2.7
 - pkg:maven/org.languagetool/language-ta@2.7?classifier=sources
+- pkg:maven/org.languagetool/language-ta@2.8
+- pkg:maven/org.languagetool/language-ta@2.8?classifier=sources
