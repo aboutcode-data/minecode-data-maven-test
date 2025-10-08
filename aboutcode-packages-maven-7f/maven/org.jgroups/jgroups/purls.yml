@@ -70,3 +70,5 @@
 - pkg:maven/org.jgroups/jgroups@3.0.1.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@2.6.21.Final
 - pkg:maven/org.jgroups/jgroups@2.6.21.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.0.2.Final
+- pkg:maven/org.jgroups/jgroups@3.0.2.Final?classifier=sources

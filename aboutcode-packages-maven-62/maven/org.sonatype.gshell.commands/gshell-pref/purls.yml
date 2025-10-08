@@ -18,3 +18,5 @@
 - pkg:maven/org.sonatype.gshell.commands/gshell-pref@2.3.1?classifier=sources
 - pkg:maven/org.sonatype.gshell.commands/gshell-pref@2.3
 - pkg:maven/org.sonatype.gshell.commands/gshell-pref@2.3?classifier=sources
+- pkg:maven/org.sonatype.gshell.commands/gshell-pref@2.6.5
+- pkg:maven/org.sonatype.gshell.commands/gshell-pref@2.6.5?classifier=sources

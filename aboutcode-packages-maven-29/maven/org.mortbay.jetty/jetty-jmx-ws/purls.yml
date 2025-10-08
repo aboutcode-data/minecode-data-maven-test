@@ -38,3 +38,5 @@
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.0.RC2?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.0.RC2?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.0.RC2?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.0.RC3?type=war
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.0.RC3?classifier=sources

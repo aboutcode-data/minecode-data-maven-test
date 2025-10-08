@@ -124,3 +124,5 @@
 - pkg:maven/com.sun.grizzly/grizzly-webserver@1.9.42?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-webserver@1.9.43
 - pkg:maven/com.sun.grizzly/grizzly-webserver@1.9.43?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-webserver@1.9.18-q
+- pkg:maven/com.sun.grizzly/grizzly-webserver@1.9.18-q?classifier=sources

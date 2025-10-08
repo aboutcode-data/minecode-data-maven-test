@@ -116,3 +116,5 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-servlet@8.1.0.RC2?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-servlet@7.6.0.RC2
 - pkg:maven/org.eclipse.jetty/test-jetty-servlet@7.6.0.RC2?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-servlet@7.6.0.RC3
+- pkg:maven/org.eclipse.jetty/test-jetty-servlet@7.6.0.RC3?classifier=sources
