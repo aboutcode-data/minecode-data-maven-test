@@ -44,3 +44,5 @@
 - pkg:maven/org.modeshape/modeshape-web-jcr@4.0.0.Alpha4?classifier=sources
 - pkg:maven/org.modeshape/modeshape-web-jcr@4.0.0.Beta1
 - pkg:maven/org.modeshape/modeshape-web-jcr@4.0.0.Beta1?classifier=sources
+- pkg:maven/org.modeshape/modeshape-web-jcr@4.0.0.Beta2
+- pkg:maven/org.modeshape/modeshape-web-jcr@4.0.0.Beta2?classifier=sources
