@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.jasypt@2.2.9?classifier=sources
 - pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.jasypt@2.3.0
 - pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.jasypt@2.3.0?classifier=sources
+- pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.jasypt@2.2.10
+- pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.jasypt@2.2.10?classifier=sources

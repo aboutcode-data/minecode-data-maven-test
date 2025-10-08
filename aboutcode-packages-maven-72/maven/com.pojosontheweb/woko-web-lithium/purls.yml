@@ -16,3 +16,5 @@
 - pkg:maven/com.pojosontheweb/woko-web-lithium@2.1-beta?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-web-lithium@2.1-beta2?type=war
 - pkg:maven/com.pojosontheweb/woko-web-lithium@2.1-beta2?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-web-lithium@2.1-beta3?type=war
+- pkg:maven/com.pojosontheweb/woko-web-lithium@2.1-beta3?classifier=sources
