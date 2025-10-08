@@ -26,3 +26,5 @@
 - pkg:maven/org.clojure/tools.nrepl@0.2.0-beta9?classifier=sources
 - pkg:maven/org.clojure/tools.nrepl@0.2.0-beta10
 - pkg:maven/org.clojure/tools.nrepl@0.2.0-beta10?classifier=sources
+- pkg:maven/org.clojure/tools.nrepl@0.2.0-RC1
+- pkg:maven/org.clojure/tools.nrepl@0.2.0-RC1?classifier=sources

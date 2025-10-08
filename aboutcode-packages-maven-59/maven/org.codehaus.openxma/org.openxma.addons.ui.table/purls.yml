@@ -32,3 +32,5 @@
 - pkg:maven/org.codehaus.openxma/org.openxma.addons.ui.table@5.0.5?classifier=sources
 - pkg:maven/org.codehaus.openxma/org.openxma.addons.ui.table@5.0.4?type=war
 - pkg:maven/org.codehaus.openxma/org.openxma.addons.ui.table@5.0.4?classifier=sources
+- pkg:maven/org.codehaus.openxma/org.openxma.addons.ui.table@5.0.6?type=war
+- pkg:maven/org.codehaus.openxma/org.openxma.addons.ui.table@5.0.6?classifier=sources

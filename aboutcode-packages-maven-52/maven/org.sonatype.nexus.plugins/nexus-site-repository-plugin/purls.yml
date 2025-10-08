@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.plugins/nexus-site-repository-plugin@1.0.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-site-repository-plugin@1.0?classifier=sources

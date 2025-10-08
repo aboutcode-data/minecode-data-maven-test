@@ -1,2 +1,4 @@
 - pkg:maven/org.ujorm/ujo-spring@1.30.RC2
 - pkg:maven/org.ujorm/ujo-spring@1.30.RC2?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@1.30
+- pkg:maven/org.ujorm/ujo-spring@1.30?classifier=sources
