@@ -8,3 +8,5 @@
 - pkg:maven/org.mygeotrust.mygtlib/mygtlib@0.2.3?classifier=sources
 - pkg:maven/org.mygeotrust.mygtlib/mygtlib@0.2.2?type=aar
 - pkg:maven/org.mygeotrust.mygtlib/mygtlib@0.2.2?classifier=sources
+- pkg:maven/org.mygeotrust.mygtlib/mygtlib@0.1.0?type=aar
+- pkg:maven/org.mygeotrust.mygtlib/mygtlib@0.1.0?classifier=sources

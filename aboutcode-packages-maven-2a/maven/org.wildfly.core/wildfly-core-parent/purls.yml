@@ -39,3 +39,5 @@
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.CR3?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.CR2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.CR6?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.CR8?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.CR7?classifier=source-release&type=zip

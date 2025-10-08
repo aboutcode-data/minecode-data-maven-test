@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@5.2-RC3?type=war
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@5.2-RC3?classifier=sources

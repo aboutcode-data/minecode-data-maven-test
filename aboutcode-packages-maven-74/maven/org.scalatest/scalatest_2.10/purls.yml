@@ -206,3 +206,5 @@
 - pkg:maven/org.scalatest/scalatest_2.10@3.0.0-SNAP6?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.10@3.0.0-M10
 - pkg:maven/org.scalatest/scalatest_2.10@3.0.0-M10?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.10@3.0.0-SNAP7
+- pkg:maven/org.scalatest/scalatest_2.10@3.0.0-SNAP7?classifier=sources

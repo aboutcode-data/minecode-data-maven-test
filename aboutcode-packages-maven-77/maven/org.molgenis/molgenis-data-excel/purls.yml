@@ -44,3 +44,5 @@
 - pkg:maven/org.molgenis/molgenis-data-excel@1.9.1?classifier=sources
 - pkg:maven/org.molgenis/molgenis-data-excel@1.8.3
 - pkg:maven/org.molgenis/molgenis-data-excel@1.8.3?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-excel@1.11.0
+- pkg:maven/org.molgenis/molgenis-data-excel@1.11.0?classifier=sources
