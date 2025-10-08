@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-http2@2.3.20
 - pkg:maven/org.glassfish.grizzly/grizzly-http2@2.3.20?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-http2@2.3.21
+- pkg:maven/org.glassfish.grizzly/grizzly-http2@2.3.21?classifier=sources

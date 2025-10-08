@@ -38,3 +38,5 @@
 - pkg:maven/org.dspace/dspace-xmlui@4.3?classifier=sources
 - pkg:maven/org.dspace/dspace-xmlui@3.4?type=war
 - pkg:maven/org.dspace/dspace-xmlui@3.4?classifier=sources
+- pkg:maven/org.dspace/dspace-xmlui@5.2?type=war
+- pkg:maven/org.dspace/dspace-xmlui@5.2?classifier=sources

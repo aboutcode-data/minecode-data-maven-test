@@ -116,3 +116,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.0.22?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.62
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.62?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.0.23
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.0.23?classifier=sources
