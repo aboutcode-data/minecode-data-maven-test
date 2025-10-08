@@ -33,3 +33,6 @@
 - pkg:maven/net.serenity-bdd/serenity-junit@1.0.26
 - pkg:maven/net.serenity-bdd/serenity-junit@1.0.26?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-junit@1.0.28
+- pkg:maven/net.serenity-bdd/serenity-junit@1.0.28?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-junit@1.0.27
+- pkg:maven/net.serenity-bdd/serenity-junit@1.0.27?classifier=sources
