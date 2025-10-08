@@ -22,3 +22,5 @@
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@4.3.4.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.0.0.Beta3
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.0.0.Beta3?classifier=sources
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.0.0.CR1
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.0.0.CR1?classifier=sources
