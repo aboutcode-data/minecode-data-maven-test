@@ -28,3 +28,5 @@
 - pkg:maven/org.jberet/jberet-se@1.0.0.Alpha3?classifier=sources
 - pkg:maven/org.jberet/jberet-se@1.1.0.Alpha3
 - pkg:maven/org.jberet/jberet-se@1.1.0.Alpha3?classifier=sources
+- pkg:maven/org.jberet/jberet-se@1.1.0.Beta1
+- pkg:maven/org.jberet/jberet-se@1.1.0.Beta1?classifier=sources
