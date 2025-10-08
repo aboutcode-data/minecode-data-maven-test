@@ -41,3 +41,5 @@
 - pkg:maven/org.apache.maven.wagon/wagon-file@2.7?classifier=sources
 - pkg:maven/org.apache.maven.wagon/wagon-file@2.8
 - pkg:maven/org.apache.maven.wagon/wagon-file@2.8?classifier=sources
+- pkg:maven/org.apache.maven.wagon/wagon-file@2.9
+- pkg:maven/org.apache.maven.wagon/wagon-file@2.9?classifier=sources

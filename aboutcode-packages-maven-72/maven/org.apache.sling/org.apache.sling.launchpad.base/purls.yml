@@ -29,3 +29,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@4.6.1-2.5.8
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@4.6.1-2.5.8?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@4.6.1-2.5.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@5.0.0-2.6.0
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@5.0.0-2.6.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@5.0.0-2.6.0?classifier=source-release&type=zip

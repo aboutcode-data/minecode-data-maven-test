@@ -1,2 +1,4 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@2.2.4?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@2.2.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@2.2.5?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@2.2.5?classifier=sources

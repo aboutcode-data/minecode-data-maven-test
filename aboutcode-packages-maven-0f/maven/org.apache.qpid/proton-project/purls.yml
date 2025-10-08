@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.qpid/proton-project@0.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.qpid/proton-project@0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.qpid/proton-project@0.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.qpid/proton-project@0.9.1?classifier=source-release&type=zip
