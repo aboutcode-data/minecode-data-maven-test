@@ -148,3 +148,7 @@
 - pkg:maven/org.dasein/dasein-cloud-openstack@2014.11.12?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-openstack@2014.11.16
 - pkg:maven/org.dasein/dasein-cloud-openstack@2014.11.16?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-openstack@2015.03.2
+- pkg:maven/org.dasein/dasein-cloud-openstack@2015.03.2?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-openstack@2015.03.1
+- pkg:maven/org.dasein/dasein-cloud-openstack@2015.03.1?classifier=sources
