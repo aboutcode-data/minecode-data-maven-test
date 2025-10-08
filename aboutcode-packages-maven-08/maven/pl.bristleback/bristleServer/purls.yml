@@ -16,3 +16,5 @@
 - pkg:maven/pl.bristleback/bristleServer@0.2.0-alpha-03?classifier=sources
 - pkg:maven/pl.bristleback/bristleServer@0.2.0-alpha-02
 - pkg:maven/pl.bristleback/bristleServer@0.2.0-alpha-02?classifier=sources
+- pkg:maven/pl.bristleback/bristleServer@0.2.0
+- pkg:maven/pl.bristleback/bristleServer@0.2.0?classifier=sources

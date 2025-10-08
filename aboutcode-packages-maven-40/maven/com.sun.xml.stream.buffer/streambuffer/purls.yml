@@ -26,3 +26,5 @@
 - pkg:maven/com.sun.xml.stream.buffer/streambuffer@0.1
 - pkg:maven/com.sun.xml.stream.buffer/streambuffer@1.5
 - pkg:maven/com.sun.xml.stream.buffer/streambuffer@1.5?classifier=sources
+- pkg:maven/com.sun.xml.stream.buffer/streambuffer@1.5.1
+- pkg:maven/com.sun.xml.stream.buffer/streambuffer@1.5.1?classifier=sources

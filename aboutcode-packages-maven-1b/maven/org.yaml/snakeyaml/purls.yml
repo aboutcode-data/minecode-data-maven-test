@@ -12,3 +12,5 @@
 - pkg:maven/org.yaml/snakeyaml@1.4?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.10
 - pkg:maven/org.yaml/snakeyaml@1.10?classifier=sources
+- pkg:maven/org.yaml/snakeyaml@1.11
+- pkg:maven/org.yaml/snakeyaml@1.11?classifier=sources

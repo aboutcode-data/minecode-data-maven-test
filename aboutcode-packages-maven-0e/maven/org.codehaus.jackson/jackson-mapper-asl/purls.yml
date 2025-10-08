@@ -150,3 +150,5 @@
 - pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.8.10?classifier=sources
 - pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.9.9
 - pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.9.9?classifier=sources
+- pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.9.10
+- pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.9.10?classifier=sources

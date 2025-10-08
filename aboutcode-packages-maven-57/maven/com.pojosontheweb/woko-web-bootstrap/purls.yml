@@ -14,3 +14,5 @@
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.0.4?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.1-beta?type=war
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.1-beta?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.1-beta2?type=war
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.1-beta2?classifier=sources
