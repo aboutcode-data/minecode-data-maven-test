@@ -14,3 +14,5 @@
 - pkg:maven/com.heroku.sdk/heroku-deploy@0.1.9?classifier=sources
 - pkg:maven/com.heroku.sdk/heroku-deploy@0.3.0
 - pkg:maven/com.heroku.sdk/heroku-deploy@0.3.0?classifier=sources
+- pkg:maven/com.heroku.sdk/heroku-deploy@0.3.1
+- pkg:maven/com.heroku.sdk/heroku-deploy@0.3.1?classifier=sources

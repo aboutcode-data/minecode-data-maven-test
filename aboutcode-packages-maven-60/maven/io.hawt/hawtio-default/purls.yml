@@ -142,3 +142,5 @@
 - pkg:maven/io.hawt/hawtio-default@1.4.43?classifier=sources
 - pkg:maven/io.hawt/hawtio-default@1.4.44?type=war
 - pkg:maven/io.hawt/hawtio-default@1.4.44?classifier=sources
+- pkg:maven/io.hawt/hawtio-default@1.4.45?type=war
+- pkg:maven/io.hawt/hawtio-default@1.4.45?classifier=sources

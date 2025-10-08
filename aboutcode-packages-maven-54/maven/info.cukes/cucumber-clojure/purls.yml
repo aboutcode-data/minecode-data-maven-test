@@ -74,3 +74,5 @@
 - pkg:maven/info.cukes/cucumber-clojure@1.1.8?classifier=sources
 - pkg:maven/info.cukes/cucumber-clojure@1.2.0
 - pkg:maven/info.cukes/cucumber-clojure@1.2.0?classifier=sources
+- pkg:maven/info.cukes/cucumber-clojure@1.2.2
+- pkg:maven/info.cukes/cucumber-clojure@1.2.2?classifier=sources
