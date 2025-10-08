@@ -172,3 +172,5 @@
 - pkg:maven/com.spotify/helios-tools@0.8.314?classifier=sources
 - pkg:maven/com.spotify/helios-tools@0.8.307
 - pkg:maven/com.spotify/helios-tools@0.8.307?classifier=sources
+- pkg:maven/com.spotify/helios-tools@0.8.335
+- pkg:maven/com.spotify/helios-tools@0.8.335?classifier=sources

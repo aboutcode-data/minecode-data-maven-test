@@ -1,2 +1,4 @@
 - pkg:maven/com.pushwoosh/pushwoosh@2.9.7
 - pkg:maven/com.pushwoosh/pushwoosh@2.9.7?classifier=sources
+- pkg:maven/com.pushwoosh/pushwoosh@2.9.8
+- pkg:maven/com.pushwoosh/pushwoosh@2.9.8?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.upplication/s3fs@0.2.6?classifier=sources
 - pkg:maven/com.upplication/s3fs@0.2.8
 - pkg:maven/com.upplication/s3fs@0.2.8?classifier=sources
+- pkg:maven/com.upplication/s3fs@1.0.1
+- pkg:maven/com.upplication/s3fs@1.0.1?classifier=sources

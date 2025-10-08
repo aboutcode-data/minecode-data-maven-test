@@ -2,3 +2,7 @@
 - pkg:maven/com.erigir/wrench-zk@0.2?classifier=sources
 - pkg:maven/com.erigir/wrench-zk@0.3
 - pkg:maven/com.erigir/wrench-zk@0.3?classifier=sources
+- pkg:maven/com.erigir/wrench-zk@0.5
+- pkg:maven/com.erigir/wrench-zk@0.5?classifier=sources
+- pkg:maven/com.erigir/wrench-zk@0.4
+- pkg:maven/com.erigir/wrench-zk@0.4?classifier=sources
