@@ -32,3 +32,5 @@
 - pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-server@2.2.2-GWT27?classifier=sources
 - pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-server@2.2.1-GWT27
 - pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-server@2.2.1-GWT27?classifier=sources
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-server@2.2.1
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-server@2.2.1?classifier=sources

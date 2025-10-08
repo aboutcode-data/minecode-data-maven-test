@@ -50,3 +50,5 @@
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.10.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.13
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.13?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.14
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.14?classifier=sources

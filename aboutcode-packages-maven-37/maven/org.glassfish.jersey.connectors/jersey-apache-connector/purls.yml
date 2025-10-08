@@ -56,3 +56,5 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.10.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.13
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.13?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.14
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.14?classifier=sources

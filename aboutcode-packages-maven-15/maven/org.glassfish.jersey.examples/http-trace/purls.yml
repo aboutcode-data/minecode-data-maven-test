@@ -116,3 +116,6 @@
 - pkg:maven/org.glassfish.jersey.examples/http-trace@2.13
 - pkg:maven/org.glassfish.jersey.examples/http-trace@2.13?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/http-trace@2.13?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/http-trace@2.14
+- pkg:maven/org.glassfish.jersey.examples/http-trace@2.14?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/http-trace@2.14?classifier=project-src&type=zip
