@@ -8,3 +8,5 @@
 - pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@3.0.9?classifier=sources
 - pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.0
 - pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.0?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.1
+- pkg:maven/com.twitter.elephantbird/elephant-bird-lucene@4.1?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-ee6@1.0.13?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-ee6@1.1.0.RC3?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-ee6@1.1.0.RC3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-ee6@1.1.0.RC4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-ee6@1.1.0.RC4?classifier=sources

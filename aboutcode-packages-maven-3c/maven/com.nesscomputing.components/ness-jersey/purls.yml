@@ -26,3 +26,5 @@
 - pkg:maven/com.nesscomputing.components/ness-jersey@1.8.3?classifier=sources
 - pkg:maven/com.nesscomputing.components/ness-jersey@1.8.2
 - pkg:maven/com.nesscomputing.components/ness-jersey@1.8.2?classifier=sources
+- pkg:maven/com.nesscomputing.components/ness-jersey@1.9.0
+- pkg:maven/com.nesscomputing.components/ness-jersey@1.9.0?classifier=sources

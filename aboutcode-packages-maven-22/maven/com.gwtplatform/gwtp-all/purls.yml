@@ -12,3 +12,5 @@
 - pkg:maven/com.gwtplatform/gwtp-all@0.8-alpha-2?classifier=sources
 - pkg:maven/com.gwtplatform/gwtp-all@0.8-alpha-3
 - pkg:maven/com.gwtplatform/gwtp-all@0.8-alpha-3?classifier=sources
+- pkg:maven/com.gwtplatform/gwtp-all@1.0
+- pkg:maven/com.gwtplatform/gwtp-all@1.0?classifier=sources
