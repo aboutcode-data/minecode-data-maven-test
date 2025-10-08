@@ -15,3 +15,6 @@
 - pkg:maven/org.jasig.cas/cas-server-uber-webapp@4.0.0-RC1?type=war
 - pkg:maven/org.jasig.cas/cas-server-uber-webapp@4.0.0-RC2?type=war
 - pkg:maven/org.jasig.cas/cas-server-uber-webapp@4.0.0-RC3?type=war
+- pkg:maven/org.jasig.cas/cas-server-uber-webapp@4.0.0-RC4?type=war
+- pkg:maven/org.jasig.cas/cas-server-uber-webapp@3.5.2.1?type=war
+- pkg:maven/org.jasig.cas/cas-server-uber-webapp@3.4.12.1?type=war

@@ -20,3 +20,5 @@
 - pkg:maven/org.mongodb/casbah-query_2.9.3@2.7.0-RC2?classifier=sources
 - pkg:maven/org.mongodb/casbah-query_2.9.3@2.7.0-RC3
 - pkg:maven/org.mongodb/casbah-query_2.9.3@2.7.0-RC3?classifier=sources
+- pkg:maven/org.mongodb/casbah-query_2.9.3@2.7.0
+- pkg:maven/org.mongodb/casbah-query_2.9.3@2.7.0?classifier=sources
