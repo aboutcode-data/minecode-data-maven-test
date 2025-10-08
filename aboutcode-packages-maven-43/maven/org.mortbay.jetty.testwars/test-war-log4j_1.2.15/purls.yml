@@ -58,3 +58,7 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@7.6.0.RC2?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@7.6.0.RC3?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@7.6.0.RC3?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@8.1.0.RC4?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@8.1.0.RC4?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@7.6.0.RC4?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-log4j_1.2.15@7.6.0.RC4?classifier=sources

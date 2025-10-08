@@ -6,3 +6,7 @@
 - pkg:maven/com.netflix.curator/curator-x-discovery@1.0.0?classifier=sources
 - pkg:maven/com.netflix.curator/curator-x-discovery@0.100.0
 - pkg:maven/com.netflix.curator/curator-x-discovery@0.100.0?classifier=sources
+- pkg:maven/com.netflix.curator/curator-x-discovery@1.1.0
+- pkg:maven/com.netflix.curator/curator-x-discovery@1.1.0?classifier=sources
+- pkg:maven/com.netflix.curator/curator-x-discovery@1.0.1
+- pkg:maven/com.netflix.curator/curator-x-discovery@1.0.1?classifier=sources

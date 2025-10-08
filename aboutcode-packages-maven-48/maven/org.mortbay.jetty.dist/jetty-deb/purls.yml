@@ -20,3 +20,5 @@
 - pkg:maven/org.mortbay.jetty.dist/jetty-deb@8.1.0.RC2?classifier=sources
 - pkg:maven/org.mortbay.jetty.dist/jetty-deb@7.6.0.RC2?classifier=sources
 - pkg:maven/org.mortbay.jetty.dist/jetty-deb@7.6.0.RC3?classifier=sources
+- pkg:maven/org.mortbay.jetty.dist/jetty-deb@8.1.0.RC4?classifier=sources
+- pkg:maven/org.mortbay.jetty.dist/jetty-deb@7.6.0.RC4?classifier=sources
