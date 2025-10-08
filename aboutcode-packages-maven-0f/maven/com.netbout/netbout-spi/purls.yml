@@ -10,3 +10,5 @@
 - pkg:maven/com.netbout/netbout-spi@2.8?classifier=sources
 - pkg:maven/com.netbout/netbout-spi@2.10
 - pkg:maven/com.netbout/netbout-spi@2.10?classifier=sources
+- pkg:maven/com.netbout/netbout-spi@2.11
+- pkg:maven/com.netbout/netbout-spi@2.11?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.hazelcast/hazelcast-jca@3.3-EA2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-jca@3.2.3
 - pkg:maven/com.hazelcast/hazelcast-jca@3.2.3?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-jca@3.3-RC1
+- pkg:maven/com.hazelcast/hazelcast-jca@3.3-RC1?classifier=sources
