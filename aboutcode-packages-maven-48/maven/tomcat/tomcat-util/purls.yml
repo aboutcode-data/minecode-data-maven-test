@@ -16,3 +16,4 @@
 - pkg:maven/tomcat/tomcat-util@4.0.6
 - pkg:maven/tomcat/tomcat-util@3.3.2
 - pkg:maven/tomcat/tomcat-util@3.2.1
+- pkg:maven/tomcat/tomcat-util@5.5.4?classifier=sources

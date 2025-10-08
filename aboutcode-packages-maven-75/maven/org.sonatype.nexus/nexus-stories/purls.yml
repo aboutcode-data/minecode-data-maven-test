@@ -8,3 +8,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-stories@1.9.2-RC3?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-stories@1.9.2
 - pkg:maven/org.sonatype.nexus/nexus-stories@1.9.2?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-stories@1.9.2.4
+- pkg:maven/org.sonatype.nexus/nexus-stories@1.9.2.4?classifier=sources

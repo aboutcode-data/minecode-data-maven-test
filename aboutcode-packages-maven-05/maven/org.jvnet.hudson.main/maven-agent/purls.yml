@@ -630,3 +630,5 @@
 - pkg:maven/org.jvnet.hudson.main/maven-agent@1.100?classifier=sources
 - pkg:maven/org.jvnet.hudson.main/maven-agent@2.2.0
 - pkg:maven/org.jvnet.hudson.main/maven-agent@2.2.0?classifier=sources
+- pkg:maven/org.jvnet.hudson.main/maven-agent@2.2.0_1
+- pkg:maven/org.jvnet.hudson.main/maven-agent@2.2.0_1?classifier=sources

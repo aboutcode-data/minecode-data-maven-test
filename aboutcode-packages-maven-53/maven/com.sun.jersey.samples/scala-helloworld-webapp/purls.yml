@@ -81,3 +81,5 @@
 - pkg:maven/com.sun.jersey.samples/scala-helloworld-webapp@1.11-b04?classifier=sources
 - pkg:maven/com.sun.jersey.samples/scala-helloworld-webapp@1.11-b03?type=war
 - pkg:maven/com.sun.jersey.samples/scala-helloworld-webapp@1.11-b03?classifier=sources
+- pkg:maven/com.sun.jersey.samples/scala-helloworld-webapp@1.11?type=war
+- pkg:maven/com.sun.jersey.samples/scala-helloworld-webapp@1.11?classifier=sources

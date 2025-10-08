@@ -38,3 +38,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-web-utils@1.6.1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-web-utils@1.6.0
 - pkg:maven/org.sonatype.nexus/nexus-web-utils@1.6.0?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-web-utils@1.9.2.4
+- pkg:maven/org.sonatype.nexus/nexus-web-utils@1.9.2.4?classifier=sources
