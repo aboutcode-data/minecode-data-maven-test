@@ -220,3 +220,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-jndi@8.1.13.v20130916?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jndi@7.6.13.v20130916
 - pkg:maven/org.eclipse.jetty/jetty-jndi@7.6.13.v20130916?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jndi@9.1.0.RC0
+- pkg:maven/org.eclipse.jetty/jetty-jndi@9.1.0.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jndi@9.0.6.v20130930
+- pkg:maven/org.eclipse.jetty/jetty-jndi@9.0.6.v20130930?classifier=sources

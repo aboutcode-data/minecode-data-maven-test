@@ -68,3 +68,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-nativesocketio-chat@2.0.0?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-nativesocketio-chat@1.0.18?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-nativesocketio-chat@1.0.18?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-nativesocketio-chat@2.0.1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-nativesocketio-chat@2.0.1?classifier=sources

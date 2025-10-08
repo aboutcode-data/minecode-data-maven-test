@@ -120,3 +120,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@2.0.0?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@1.0.18?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@1.0.18?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@2.0.1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@2.0.1?classifier=sources
