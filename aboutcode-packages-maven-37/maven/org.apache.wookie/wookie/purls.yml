@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.wookie/wookie@0.14?classifier=sources
 - pkg:maven/org.apache.wookie/wookie@0.15.0?type=war
 - pkg:maven/org.apache.wookie/wookie@0.15.0?classifier=sources
+- pkg:maven/org.apache.wookie/wookie@1.0.0?type=war
+- pkg:maven/org.apache.wookie/wookie@1.0.0?classifier=sources

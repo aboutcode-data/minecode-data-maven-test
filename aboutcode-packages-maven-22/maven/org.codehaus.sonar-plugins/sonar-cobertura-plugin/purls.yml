@@ -1,1 +1,2 @@
 - pkg:maven/org.codehaus.sonar-plugins/sonar-cobertura-plugin@1.4?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-cobertura-plugin@1.5-RC1?classifier=sources

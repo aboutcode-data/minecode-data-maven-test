@@ -66,3 +66,5 @@
 - pkg:maven/org.datanucleus/datanucleus-mongodb@3.2.7?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-mongodb@3.2.8
 - pkg:maven/org.datanucleus/datanucleus-mongodb@3.2.8?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-m1
+- pkg:maven/org.datanucleus/datanucleus-mongodb@4.0.0-m1?classifier=sources

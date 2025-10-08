@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs-plugins@2.2.0?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs-plugins@0.23.10
 - pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs-plugins@0.23.10?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs-plugins@2.3.0
+- pkg:maven/org.apache.hadoop/hadoop-mapreduce-client-hs-plugins@2.3.0?classifier=sources
