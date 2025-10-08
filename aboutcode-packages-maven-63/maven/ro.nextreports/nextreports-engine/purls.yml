@@ -16,3 +16,5 @@
 - pkg:maven/ro.nextreports/nextreports-engine@8.1?classifier=sources
 - pkg:maven/ro.nextreports/nextreports-engine@8.2
 - pkg:maven/ro.nextreports/nextreports-engine@8.2?classifier=sources
+- pkg:maven/ro.nextreports/nextreports-engine@9.0
+- pkg:maven/ro.nextreports/nextreports-engine@9.0?classifier=sources

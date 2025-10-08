@@ -85,3 +85,6 @@
 - pkg:maven/org.wildfly/wildfly-dist@10.0.0.CR5?type=zip
 - pkg:maven/org.wildfly/wildfly-dist@10.0.0.CR5?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-dist@10.0.0.CR5?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-dist@10.0.0.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-dist@10.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-dist@10.0.0.Final?classifier=src&type=tar.gz
