@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.lucene/lucene-demo@4.3.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-demo@4.4.0
 - pkg:maven/org.apache.lucene/lucene-demo@4.4.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-demo@4.5.0
+- pkg:maven/org.apache.lucene/lucene-demo@4.5.0?classifier=sources

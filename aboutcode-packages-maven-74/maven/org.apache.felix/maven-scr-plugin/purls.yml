@@ -47,3 +47,6 @@
 - pkg:maven/org.apache.felix/maven-scr-plugin@1.14.0
 - pkg:maven/org.apache.felix/maven-scr-plugin@1.14.0?classifier=sources
 - pkg:maven/org.apache.felix/maven-scr-plugin@1.14.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/maven-scr-plugin@1.15.0
+- pkg:maven/org.apache.felix/maven-scr-plugin@1.15.0?classifier=sources
+- pkg:maven/org.apache.felix/maven-scr-plugin@1.15.0?classifier=source-release&type=zip

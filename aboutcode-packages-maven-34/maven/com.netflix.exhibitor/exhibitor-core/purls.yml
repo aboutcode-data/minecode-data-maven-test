@@ -54,3 +54,5 @@
 - pkg:maven/com.netflix.exhibitor/exhibitor-core@1.4.10?classifier=sources
 - pkg:maven/com.netflix.exhibitor/exhibitor-core@1.5.0
 - pkg:maven/com.netflix.exhibitor/exhibitor-core@1.5.0?classifier=sources
+- pkg:maven/com.netflix.exhibitor/exhibitor-core@1.5.1
+- pkg:maven/com.netflix.exhibitor/exhibitor-core@1.5.1?classifier=sources
