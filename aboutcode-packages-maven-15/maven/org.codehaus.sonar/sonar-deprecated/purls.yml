@@ -66,3 +66,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-deprecated@2.13-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-deprecated@2.13
 - pkg:maven/org.codehaus.sonar/sonar-deprecated@2.13?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-deprecated@2.13.1
+- pkg:maven/org.codehaus.sonar/sonar-deprecated@2.13.1?classifier=sources

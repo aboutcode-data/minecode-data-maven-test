@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qpid@0.5.0_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qpid@0.5.0_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qpid@0.12_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qpid@0.12_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qpid@0.12_2?classifier=sources

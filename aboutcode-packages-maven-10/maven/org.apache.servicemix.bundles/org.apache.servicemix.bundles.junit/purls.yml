@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@3.8.2_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@3.8.2_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@3.8.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@4.9_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@4.9_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@4.10_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit@4.10_1?classifier=sources

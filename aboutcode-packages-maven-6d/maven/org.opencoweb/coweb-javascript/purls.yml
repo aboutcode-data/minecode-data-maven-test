@@ -2,3 +2,4 @@
 - pkg:maven/org.opencoweb/coweb-javascript@0.4?type=war
 - pkg:maven/org.opencoweb/coweb-javascript@0.4?classifier=sources
 - pkg:maven/org.opencoweb/coweb-javascript@0.6?type=war
+- pkg:maven/org.opencoweb/coweb-javascript@0.7?type=war
