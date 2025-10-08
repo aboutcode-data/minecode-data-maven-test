@@ -58,3 +58,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-spring-tiles@1.0.11?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-spring-tiles@1.0.12?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-spring-tiles@1.0.12?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-spring-tiles@1.1.0.RC1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-spring-tiles@1.1.0.RC1?classifier=sources

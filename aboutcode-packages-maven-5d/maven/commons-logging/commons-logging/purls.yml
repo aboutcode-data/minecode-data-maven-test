@@ -8,3 +8,7 @@
 - pkg:maven/commons-logging/commons-logging@1.0.2
 - pkg:maven/commons-logging/commons-logging@1.0.1
 - pkg:maven/commons-logging/commons-logging@1.0
+- pkg:maven/commons-logging/commons-logging@1.1.2
+- pkg:maven/commons-logging/commons-logging@1.1.2?classifier=src&type=zip
+- pkg:maven/commons-logging/commons-logging@1.1.2?classifier=src&type=tar.gz
+- pkg:maven/commons-logging/commons-logging@1.1.2?classifier=sources

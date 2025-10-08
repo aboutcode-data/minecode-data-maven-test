@@ -20,3 +20,5 @@
 - pkg:maven/com.sun.mail/pop3@1.5.0-b01?classifier=sources
 - pkg:maven/com.sun.mail/pop3@1.4.7
 - pkg:maven/com.sun.mail/pop3@1.4.7?classifier=sources
+- pkg:maven/com.sun.mail/pop3@1.5.0-b02
+- pkg:maven/com.sun.mail/pop3@1.5.0-b02?classifier=sources

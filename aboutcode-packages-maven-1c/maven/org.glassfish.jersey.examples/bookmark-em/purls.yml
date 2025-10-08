@@ -30,3 +30,5 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m13-2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m13-3?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-m13-3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-rc1?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.0-rc1?classifier=sources

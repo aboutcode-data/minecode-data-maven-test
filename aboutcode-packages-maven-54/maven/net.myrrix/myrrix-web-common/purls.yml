@@ -2,3 +2,5 @@
 - pkg:maven/net.myrrix/myrrix-web-common@0.9?classifier=sources
 - pkg:maven/net.myrrix/myrrix-web-common@0.10
 - pkg:maven/net.myrrix/myrrix-web-common@0.10?classifier=sources
+- pkg:maven/net.myrrix/myrrix-web-common@0.11
+- pkg:maven/net.myrrix/myrrix-web-common@0.11?classifier=sources

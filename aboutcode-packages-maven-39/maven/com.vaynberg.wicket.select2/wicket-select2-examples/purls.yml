@@ -8,3 +8,5 @@
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.1?classifier=sources
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.2?type=war
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.2?classifier=sources
+- pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.2.1?type=war
+- pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.2.1?classifier=sources

@@ -46,3 +46,7 @@
 - pkg:maven/org.crsh/crsh.shell.ssh@1.2.0-cr9?classifier=sources
 - pkg:maven/org.crsh/crsh.shell.ssh@1.2.0-cr10
 - pkg:maven/org.crsh/crsh.shell.ssh@1.2.0-cr10?classifier=sources
+- pkg:maven/org.crsh/crsh.shell.ssh@1.2.0-cr11
+- pkg:maven/org.crsh/crsh.shell.ssh@1.2.0-cr11?classifier=sources
+- pkg:maven/org.crsh/crsh.shell.ssh@1.2.0
+- pkg:maven/org.crsh/crsh.shell.ssh@1.2.0?classifier=sources
