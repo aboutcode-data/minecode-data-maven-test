@@ -1,0 +1,4 @@
+- pkg:maven/com.mcxiaoke.xbus/bus@1.0.0?type=aar
+- pkg:maven/com.mcxiaoke.xbus/bus@1.0.0?classifier=sources
+- pkg:maven/com.mcxiaoke.xbus/bus@0.8.0?type=aar
+- pkg:maven/com.mcxiaoke.xbus/bus@0.8.0?classifier=sources

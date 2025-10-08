@@ -1,2 +1,4 @@
 - pkg:maven/com.newcircle/yamba-client@1.0.0?type=aar
 - pkg:maven/com.newcircle/yamba-client@1.0.0?classifier=sources
+- pkg:maven/com.newcircle/yamba-client@2.0.0?type=aar
+- pkg:maven/com.newcircle/yamba-client@2.0.0?classifier=sources

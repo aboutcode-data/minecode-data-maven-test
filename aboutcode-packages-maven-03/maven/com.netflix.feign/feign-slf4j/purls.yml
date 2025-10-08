@@ -36,3 +36,11 @@
 - pkg:maven/com.netflix.feign/feign-slf4j@7.5.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-slf4j@8.6.0
 - pkg:maven/com.netflix.feign/feign-slf4j@8.6.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-slf4j@8.7.1
+- pkg:maven/com.netflix.feign/feign-slf4j@8.7.1?classifier=sources
+- pkg:maven/com.netflix.feign/feign-slf4j@8.7.0
+- pkg:maven/com.netflix.feign/feign-slf4j@8.7.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-slf4j@8.6.1
+- pkg:maven/com.netflix.feign/feign-slf4j@8.6.1?classifier=sources
+- pkg:maven/com.netflix.feign/feign-slf4j@7.6.0
+- pkg:maven/com.netflix.feign/feign-slf4j@7.6.0?classifier=sources

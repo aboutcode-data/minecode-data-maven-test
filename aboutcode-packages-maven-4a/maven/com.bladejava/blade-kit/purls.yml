@@ -36,3 +36,5 @@
 - pkg:maven/com.bladejava/blade-kit@1.2.4?classifier=sources
 - pkg:maven/com.bladejava/blade-kit@1.2.5-beta
 - pkg:maven/com.bladejava/blade-kit@1.2.5-beta?classifier=sources
+- pkg:maven/com.bladejava/blade-kit@1.2.5
+- pkg:maven/com.bladejava/blade-kit@1.2.5?classifier=sources
