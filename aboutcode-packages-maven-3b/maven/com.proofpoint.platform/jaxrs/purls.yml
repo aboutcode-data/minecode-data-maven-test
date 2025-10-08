@@ -16,3 +16,5 @@
 - pkg:maven/com.proofpoint.platform/jaxrs@0.51?classifier=sources
 - pkg:maven/com.proofpoint.platform/jaxrs@0.52
 - pkg:maven/com.proofpoint.platform/jaxrs@0.52?classifier=sources
+- pkg:maven/com.proofpoint.platform/jaxrs@0.53
+- pkg:maven/com.proofpoint.platform/jaxrs@0.53?classifier=sources

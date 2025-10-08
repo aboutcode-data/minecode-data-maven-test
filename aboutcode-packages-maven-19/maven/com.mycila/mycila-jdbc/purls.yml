@@ -20,3 +20,5 @@
 - pkg:maven/com.mycila/mycila-jdbc@1.7.ga?classifier=sources
 - pkg:maven/com.mycila/mycila-jdbc@1.9.ga
 - pkg:maven/com.mycila/mycila-jdbc@1.9.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-jdbc@1.10.ga
+- pkg:maven/com.mycila/mycila-jdbc@1.10.ga?classifier=sources
