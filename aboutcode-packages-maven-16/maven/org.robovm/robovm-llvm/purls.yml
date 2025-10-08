@@ -58,3 +58,7 @@
 - pkg:maven/org.robovm/robovm-llvm@1.8.0?classifier=sources
 - pkg:maven/org.robovm/robovm-llvm@1.9.0
 - pkg:maven/org.robovm/robovm-llvm@1.9.0?classifier=sources
+- pkg:maven/org.robovm/robovm-llvm@1.11.0
+- pkg:maven/org.robovm/robovm-llvm@1.11.0?classifier=sources
+- pkg:maven/org.robovm/robovm-llvm@1.10.0
+- pkg:maven/org.robovm/robovm-llvm@1.10.0?classifier=sources
