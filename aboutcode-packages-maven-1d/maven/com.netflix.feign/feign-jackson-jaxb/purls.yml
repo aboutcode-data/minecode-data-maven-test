@@ -14,3 +14,5 @@
 - pkg:maven/com.netflix.feign/feign-jackson-jaxb@8.11.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-jackson-jaxb@8.12.0
 - pkg:maven/com.netflix.feign/feign-jackson-jaxb@8.12.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-jackson-jaxb@8.12.1
+- pkg:maven/com.netflix.feign/feign-jackson-jaxb@8.12.1?classifier=sources
