@@ -1,0 +1,6 @@
+- pkg:maven/com.groupbyinc/common-jackson@21
+- pkg:maven/com.groupbyinc/common-jackson@21?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@20
+- pkg:maven/com.groupbyinc/common-jackson@20?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@19
+- pkg:maven/com.groupbyinc/common-jackson@19?classifier=sources

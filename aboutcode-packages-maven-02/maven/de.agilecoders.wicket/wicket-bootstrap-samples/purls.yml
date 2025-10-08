@@ -30,3 +30,7 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.0?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.9?type=war
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.9?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.10?type=war
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.9.10?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.1?type=war
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-samples@0.10.1?classifier=sources

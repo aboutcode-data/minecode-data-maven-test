@@ -1,0 +1,6 @@
+- pkg:maven/com.groupbyinc/common-net@21
+- pkg:maven/com.groupbyinc/common-net@21?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@20
+- pkg:maven/com.groupbyinc/common-net@20?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@19
+- pkg:maven/com.groupbyinc/common-net@19?classifier=sources

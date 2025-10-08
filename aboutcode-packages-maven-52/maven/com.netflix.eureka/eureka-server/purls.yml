@@ -98,3 +98,5 @@
 - pkg:maven/com.netflix.eureka/eureka-server@1.1.154?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server@1.1.155?type=war
 - pkg:maven/com.netflix.eureka/eureka-server@1.1.155?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.156?type=war
+- pkg:maven/com.netflix.eureka/eureka-server@1.1.156?classifier=sources

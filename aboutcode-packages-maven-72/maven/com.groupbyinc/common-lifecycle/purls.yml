@@ -1,0 +1,6 @@
+- pkg:maven/com.groupbyinc/common-lifecycle@21
+- pkg:maven/com.groupbyinc/common-lifecycle@21?classifier=sources
+- pkg:maven/com.groupbyinc/common-lifecycle@20
+- pkg:maven/com.groupbyinc/common-lifecycle@20?classifier=sources
+- pkg:maven/com.groupbyinc/common-lifecycle@19
+- pkg:maven/com.groupbyinc/common-lifecycle@19?classifier=sources

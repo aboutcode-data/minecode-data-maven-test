@@ -1,0 +1,6 @@
+- pkg:maven/com.groupbyinc/common-test@21
+- pkg:maven/com.groupbyinc/common-test@21?classifier=sources
+- pkg:maven/com.groupbyinc/common-test@20
+- pkg:maven/com.groupbyinc/common-test@20?classifier=sources
+- pkg:maven/com.groupbyinc/common-test@19
+- pkg:maven/com.groupbyinc/common-test@19?classifier=sources
