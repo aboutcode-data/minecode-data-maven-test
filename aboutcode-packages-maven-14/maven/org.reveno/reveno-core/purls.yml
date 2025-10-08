@@ -2,3 +2,7 @@
 - pkg:maven/org.reveno/reveno-core@1.17?classifier=sources
 - pkg:maven/org.reveno/reveno-core@1.16
 - pkg:maven/org.reveno/reveno-core@1.16?classifier=sources
+- pkg:maven/org.reveno/reveno-core@1.19
+- pkg:maven/org.reveno/reveno-core@1.19?classifier=sources
+- pkg:maven/org.reveno/reveno-core@1.18
+- pkg:maven/org.reveno/reveno-core@1.18?classifier=sources
