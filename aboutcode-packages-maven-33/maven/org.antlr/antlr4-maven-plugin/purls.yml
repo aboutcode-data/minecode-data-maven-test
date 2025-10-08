@@ -15,3 +15,5 @@
 - pkg:maven/org.antlr/antlr4-maven-plugin@4.5
 - pkg:maven/org.antlr/antlr4-maven-plugin@4.5.1
 - pkg:maven/org.antlr/antlr4-maven-plugin@4.5.1?classifier=sources
+- pkg:maven/org.antlr/antlr4-maven-plugin@4.5.1-1
+- pkg:maven/org.antlr/antlr4-maven-plugin@4.5.1-1?classifier=sources

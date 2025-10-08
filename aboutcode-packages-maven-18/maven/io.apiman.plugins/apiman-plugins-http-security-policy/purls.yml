@@ -14,3 +14,5 @@
 - pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.5.Final?classifier=sources
 - pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.6.Final?type=war
 - pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.6.Final?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.7.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.7.Final?classifier=sources

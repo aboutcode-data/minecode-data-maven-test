@@ -118,3 +118,5 @@
 - pkg:maven/org.apache.camel/camel-example-gae@2.15.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-gae@2.14.3?type=war
 - pkg:maven/org.apache.camel/camel-example-gae@2.14.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-gae@2.15.3?type=war
+- pkg:maven/org.apache.camel/camel-example-gae@2.15.3?classifier=sources

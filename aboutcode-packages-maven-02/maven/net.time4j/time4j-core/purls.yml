@@ -36,3 +36,5 @@
 - pkg:maven/net.time4j/time4j-core@3.4?classifier=sources
 - pkg:maven/net.time4j/time4j-core@4.3
 - pkg:maven/net.time4j/time4j-core@4.3?classifier=sources
+- pkg:maven/net.time4j/time4j-core@3.5
+- pkg:maven/net.time4j/time4j-core@3.5?classifier=sources

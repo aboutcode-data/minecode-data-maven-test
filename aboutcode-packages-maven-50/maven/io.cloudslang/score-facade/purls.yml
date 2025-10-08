@@ -14,3 +14,5 @@
 - pkg:maven/io.cloudslang/score-facade@0.1.286?classifier=sources
 - pkg:maven/io.cloudslang/score-facade@0.2-rc2
 - pkg:maven/io.cloudslang/score-facade@0.2-rc2?classifier=sources
+- pkg:maven/io.cloudslang/score-facade@0.2.0
+- pkg:maven/io.cloudslang/score-facade@0.2.0?classifier=sources
