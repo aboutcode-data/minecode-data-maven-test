@@ -140,3 +140,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@7.2-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@7.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@7.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@7.3-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@7.3-milestone-1?classifier=sources

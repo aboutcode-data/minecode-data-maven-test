@@ -94,3 +94,9 @@
 - pkg:maven/org.springframework/spring-expression@4.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-expression@4.2.1.RELEASE
 - pkg:maven/org.springframework/spring-expression@4.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-expression@4.2.2.RELEASE
+- pkg:maven/org.springframework/spring-expression@4.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-expression@4.1.8.RELEASE
+- pkg:maven/org.springframework/spring-expression@4.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-expression@3.2.15.RELEASE
+- pkg:maven/org.springframework/spring-expression@3.2.15.RELEASE?classifier=sources
