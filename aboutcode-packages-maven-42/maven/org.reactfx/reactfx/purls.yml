@@ -22,3 +22,5 @@
 - pkg:maven/org.reactfx/reactfx@1.2.2?classifier=sources
 - pkg:maven/org.reactfx/reactfx@1.4
 - pkg:maven/org.reactfx/reactfx@1.4?classifier=sources
+- pkg:maven/org.reactfx/reactfx@1.4.1
+- pkg:maven/org.reactfx/reactfx@1.4.1?classifier=sources

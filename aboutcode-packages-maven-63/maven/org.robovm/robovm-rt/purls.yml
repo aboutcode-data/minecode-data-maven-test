@@ -32,3 +32,5 @@
 - pkg:maven/org.robovm/robovm-rt@1.0.0-alpha-04?classifier=sources
 - pkg:maven/org.robovm/robovm-rt@1.0.0-alpha-03
 - pkg:maven/org.robovm/robovm-rt@1.0.0-alpha-03?classifier=sources
+- pkg:maven/org.robovm/robovm-rt@1.0.0-beta-01
+- pkg:maven/org.robovm/robovm-rt@1.0.0-beta-01?classifier=sources

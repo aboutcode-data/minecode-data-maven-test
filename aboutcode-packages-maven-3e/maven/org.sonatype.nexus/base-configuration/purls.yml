@@ -64,3 +64,7 @@
 - pkg:maven/org.sonatype.nexus/base-configuration@2.10.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/base-configuration@3.0.0-b2014101001
 - pkg:maven/org.sonatype.nexus/base-configuration@3.0.0-b2014101001?classifier=sources
+- pkg:maven/org.sonatype.nexus/base-configuration@2.11.0-02
+- pkg:maven/org.sonatype.nexus/base-configuration@2.11.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/base-configuration@2.11.0-01
+- pkg:maven/org.sonatype.nexus/base-configuration@2.11.0-01?classifier=sources

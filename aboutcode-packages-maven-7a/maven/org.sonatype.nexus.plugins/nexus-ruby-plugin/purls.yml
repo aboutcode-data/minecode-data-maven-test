@@ -8,3 +8,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin@1.4.4?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin@1.4.3?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin@1.5.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin@2.11.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin@2.11.0-01?classifier=sources

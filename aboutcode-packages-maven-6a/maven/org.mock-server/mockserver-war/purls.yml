@@ -60,3 +60,7 @@
 - pkg:maven/org.mock-server/mockserver-war@3.8.2?classifier=sources
 - pkg:maven/org.mock-server/mockserver-war@3.8.1?type=war
 - pkg:maven/org.mock-server/mockserver-war@3.8.1?classifier=sources
+- pkg:maven/org.mock-server/mockserver-war@3.9.1?type=war
+- pkg:maven/org.mock-server/mockserver-war@3.9.1?classifier=sources
+- pkg:maven/org.mock-server/mockserver-war@3.9?type=war
+- pkg:maven/org.mock-server/mockserver-war@3.9?classifier=sources
