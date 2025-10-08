@@ -4,3 +4,5 @@
 - pkg:maven/net.osgiliath.framework/net.osgiliath.helpers.swagger.ui@0.0.7?classifier=sources
 - pkg:maven/net.osgiliath.framework/net.osgiliath.helpers.swagger.ui@0.1.0?type=war
 - pkg:maven/net.osgiliath.framework/net.osgiliath.helpers.swagger.ui@0.1.0?classifier=sources
+- pkg:maven/net.osgiliath.framework/net.osgiliath.helpers.swagger.ui@0.1.1?type=war
+- pkg:maven/net.osgiliath.framework/net.osgiliath.helpers.swagger.ui@0.1.1?classifier=sources
