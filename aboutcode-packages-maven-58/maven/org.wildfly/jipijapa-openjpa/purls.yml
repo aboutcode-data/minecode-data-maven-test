@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly/jipijapa-openjpa@10.0.0.Alpha4
 - pkg:maven/org.wildfly/jipijapa-openjpa@10.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly/jipijapa-openjpa@10.0.0.Alpha5
+- pkg:maven/org.wildfly/jipijapa-openjpa@10.0.0.Alpha5?classifier=sources

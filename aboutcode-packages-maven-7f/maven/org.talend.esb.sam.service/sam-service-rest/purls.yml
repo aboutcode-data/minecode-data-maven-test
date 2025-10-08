@@ -18,3 +18,5 @@
 - pkg:maven/org.talend.esb.sam.service/sam-service-rest@5.5.2?classifier=sources
 - pkg:maven/org.talend.esb.sam.service/sam-service-rest@5.6.2
 - pkg:maven/org.talend.esb.sam.service/sam-service-rest@5.6.2?classifier=sources
+- pkg:maven/org.talend.esb.sam.service/sam-service-rest@6.0.0
+- pkg:maven/org.talend.esb.sam.service/sam-service-rest@6.0.0?classifier=sources

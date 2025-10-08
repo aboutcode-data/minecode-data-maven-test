@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.bower/lodash@3.9.3-amd?classifier=sources
 - pkg:maven/org.webjars.bower/lodash@3.9.3
 - pkg:maven/org.webjars.bower/lodash@3.9.3?classifier=sources
+- pkg:maven/org.webjars.bower/lodash@3.10.0
+- pkg:maven/org.webjars.bower/lodash@3.10.0?classifier=sources
