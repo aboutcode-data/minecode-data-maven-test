@@ -221,3 +221,7 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.60?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.61?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.61?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.62?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.62?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.18-s?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-jmaki@1.9.18-s?classifier=sources

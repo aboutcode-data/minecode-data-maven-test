@@ -10,3 +10,5 @@
 - pkg:maven/de.svenkubiak/embedded-mongodb@2.1.0?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@2.0.0
 - pkg:maven/de.svenkubiak/embedded-mongodb@2.0.0?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@2.1.1
+- pkg:maven/de.svenkubiak/embedded-mongodb@2.1.1?classifier=sources

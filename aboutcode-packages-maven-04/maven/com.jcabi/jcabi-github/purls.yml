@@ -88,3 +88,7 @@
 - pkg:maven/com.jcabi/jcabi-github@0.18.9?classifier=sources
 - pkg:maven/com.jcabi/jcabi-github@0.18.10
 - pkg:maven/com.jcabi/jcabi-github@0.18.10?classifier=sources
+- pkg:maven/com.jcabi/jcabi-github@0.21
+- pkg:maven/com.jcabi/jcabi-github@0.21?classifier=sources
+- pkg:maven/com.jcabi/jcabi-github@0.20
+- pkg:maven/com.jcabi/jcabi-github@0.20?classifier=sources
