@@ -72,3 +72,5 @@
 - pkg:maven/io.airlift/log-manager@0.108?classifier=sources
 - pkg:maven/io.airlift/log-manager@0.107
 - pkg:maven/io.airlift/log-manager@0.107?classifier=sources
+- pkg:maven/io.airlift/log-manager@0.109
+- pkg:maven/io.airlift/log-manager@0.109?classifier=sources

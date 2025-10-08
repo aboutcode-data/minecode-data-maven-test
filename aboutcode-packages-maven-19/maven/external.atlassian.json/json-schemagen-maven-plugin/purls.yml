@@ -8,3 +8,5 @@
 - pkg:maven/external.atlassian.json/json-schemagen-maven-plugin@1.0.0-m4?classifier=sources
 - pkg:maven/external.atlassian.json/json-schemagen-maven-plugin@1.0.0-m5
 - pkg:maven/external.atlassian.json/json-schemagen-maven-plugin@1.0.0-m5?classifier=sources
+- pkg:maven/external.atlassian.json/json-schemagen-maven-plugin@1.0.0
+- pkg:maven/external.atlassian.json/json-schemagen-maven-plugin@1.0.0?classifier=sources

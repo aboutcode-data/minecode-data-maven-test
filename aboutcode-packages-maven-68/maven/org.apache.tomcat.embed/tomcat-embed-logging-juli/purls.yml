@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.61?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@8.0.22
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@8.0.22?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.62
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-juli@7.0.62?classifier=sources

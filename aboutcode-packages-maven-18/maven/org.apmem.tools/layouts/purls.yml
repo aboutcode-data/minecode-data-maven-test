@@ -10,3 +10,5 @@
 - pkg:maven/org.apmem.tools/layouts@1.8?classifier=sources
 - pkg:maven/org.apmem.tools/layouts@1.7?type=aar
 - pkg:maven/org.apmem.tools/layouts@1.7?classifier=sources
+- pkg:maven/org.apmem.tools/layouts@1.9?type=aar
+- pkg:maven/org.apmem.tools/layouts@1.9?classifier=sources
