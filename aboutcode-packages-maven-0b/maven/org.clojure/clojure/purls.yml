@@ -134,3 +134,5 @@
 - pkg:maven/org.clojure/clojure@1.7.0-alpha3?classifier=sources
 - pkg:maven/org.clojure/clojure@1.7.0-alpha4?type=zip
 - pkg:maven/org.clojure/clojure@1.7.0-alpha4?classifier=sources
+- pkg:maven/org.clojure/clojure@1.7.0-alpha5?type=zip
+- pkg:maven/org.clojure/clojure@1.7.0-alpha5?classifier=sources

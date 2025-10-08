@@ -12,3 +12,5 @@
 - pkg:maven/org.hidetake/groovy-ssh@0.1.8?classifier=sources
 - pkg:maven/org.hidetake/groovy-ssh@1.0.0
 - pkg:maven/org.hidetake/groovy-ssh@1.0.0?classifier=sources
+- pkg:maven/org.hidetake/groovy-ssh@1.0.1
+- pkg:maven/org.hidetake/groovy-ssh@1.0.1?classifier=sources
