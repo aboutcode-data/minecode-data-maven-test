@@ -104,3 +104,5 @@
 - pkg:maven/org.clojure/core.typed@0.2.32?classifier=sources
 - pkg:maven/org.clojure/core.typed@0.2.34
 - pkg:maven/org.clojure/core.typed@0.2.34?classifier=sources
+- pkg:maven/org.clojure/core.typed@0.2.35
+- pkg:maven/org.clojure/core.typed@0.2.35?classifier=sources
