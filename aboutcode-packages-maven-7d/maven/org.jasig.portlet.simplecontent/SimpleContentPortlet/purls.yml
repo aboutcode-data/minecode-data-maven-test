@@ -14,3 +14,5 @@
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.5?classifier=sources
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.4?type=war
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.4?classifier=sources
+- pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.6?type=war
+- pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.6?classifier=sources

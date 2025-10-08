@@ -1,0 +1,4 @@
+- pkg:maven/net.kencochrane.raven/raven-log4j2@4.0
+- pkg:maven/net.kencochrane.raven/raven-log4j2@4.0?classifier=sources
+- pkg:maven/net.kencochrane.raven/raven-log4j2@3.0
+- pkg:maven/net.kencochrane.raven/raven-log4j2@3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.maven.enforcer/enforce-managed-deps-rule@1.0
+- pkg:maven/org.commonjava.maven.enforcer/enforce-managed-deps-rule@1.0?classifier=sources

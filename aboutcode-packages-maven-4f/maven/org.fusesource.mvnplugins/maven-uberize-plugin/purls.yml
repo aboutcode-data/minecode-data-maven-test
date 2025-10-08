@@ -44,3 +44,5 @@
 - pkg:maven/org.fusesource.mvnplugins/maven-uberize-plugin@1.26?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/maven-uberize-plugin@1.29
 - pkg:maven/org.fusesource.mvnplugins/maven-uberize-plugin@1.29?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/maven-uberize-plugin@1.30
+- pkg:maven/org.fusesource.mvnplugins/maven-uberize-plugin@1.30?classifier=sources
