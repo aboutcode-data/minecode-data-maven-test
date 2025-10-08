@@ -86,3 +86,5 @@
 - pkg:maven/com.orientechnologies/orientdb-distributed@2.1-rc2?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-distributed@2.0.9
 - pkg:maven/com.orientechnologies/orientdb-distributed@2.0.9?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-distributed@2.1-rc3
+- pkg:maven/com.orientechnologies/orientdb-distributed@2.1-rc3?classifier=sources
