@@ -30,3 +30,7 @@
 - pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.23?classifier=sources
 - pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.22
 - pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.22?classifier=sources
+- pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.25
+- pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.25?classifier=sources
+- pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.24
+- pkg:maven/org.wildfly.swarm/config-api-runtime@0.3.24?classifier=sources
