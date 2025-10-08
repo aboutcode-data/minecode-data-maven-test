@@ -1,2 +1,4 @@
 - pkg:maven/org.rapidoid/rapidoid-test-commons@0.9.0
 - pkg:maven/org.rapidoid/rapidoid-test-commons@0.9.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-test-commons@1.0.1
+- pkg:maven/org.rapidoid/rapidoid-test-commons@1.0.1?classifier=sources

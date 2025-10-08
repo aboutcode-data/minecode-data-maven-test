@@ -3,3 +3,4 @@
 - pkg:maven/org.wildfly/wildfly-core@8.1.0.CR1?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-core@8.1.0.CR2?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-core@8.1.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-core@8.2.0.Final?classifier=src&type=zip
