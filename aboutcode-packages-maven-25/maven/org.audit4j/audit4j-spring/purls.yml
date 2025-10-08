@@ -14,3 +14,5 @@
 - pkg:maven/org.audit4j/audit4j-spring@2.4.0-alpha3?classifier=sources
 - pkg:maven/org.audit4j/audit4j-spring@2.4.0-alpha4
 - pkg:maven/org.audit4j/audit4j-spring@2.4.0-alpha4?classifier=sources
+- pkg:maven/org.audit4j/audit4j-spring@2.4.0
+- pkg:maven/org.audit4j/audit4j-spring@2.4.0?classifier=sources

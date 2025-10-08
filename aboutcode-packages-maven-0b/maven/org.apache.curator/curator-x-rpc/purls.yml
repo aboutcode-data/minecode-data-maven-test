@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.curator/curator-x-rpc@2.8.0?classifier=sources
 - pkg:maven/org.apache.curator/curator-x-rpc@2.9.0
 - pkg:maven/org.apache.curator/curator-x-rpc@2.9.0?classifier=sources
+- pkg:maven/org.apache.curator/curator-x-rpc@3.0.0
+- pkg:maven/org.apache.curator/curator-x-rpc@3.0.0?classifier=sources
+- pkg:maven/org.apache.curator/curator-x-rpc@2.9.1
+- pkg:maven/org.apache.curator/curator-x-rpc@2.9.1?classifier=sources

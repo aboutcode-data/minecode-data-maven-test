@@ -34,3 +34,5 @@
 - pkg:maven/org.dbflute.tomcat/tomcat-boot@0.3.8-RC9?classifier=sources
 - pkg:maven/org.dbflute.tomcat/tomcat-boot@0.3.8-RC7
 - pkg:maven/org.dbflute.tomcat/tomcat-boot@0.3.8-RC7?classifier=sources
+- pkg:maven/org.dbflute.tomcat/tomcat-boot@0.3.8
+- pkg:maven/org.dbflute.tomcat/tomcat-boot@0.3.8?classifier=sources
