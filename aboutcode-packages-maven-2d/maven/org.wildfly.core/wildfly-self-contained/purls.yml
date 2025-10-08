@@ -86,3 +86,5 @@
 - pkg:maven/org.wildfly.core/wildfly-self-contained@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-self-contained@2.0.1.Final
 - pkg:maven/org.wildfly.core/wildfly-self-contained@2.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@2.0.2.Final
+- pkg:maven/org.wildfly.core/wildfly-self-contained@2.0.2.Final?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/br.com.objectos/sql-compiler@0.10.0?classifier=sources
 - pkg:maven/br.com.objectos/sql-compiler@0.11.0
 - pkg:maven/br.com.objectos/sql-compiler@0.11.0?classifier=sources
+- pkg:maven/br.com.objectos/sql-compiler@0.11.1
+- pkg:maven/br.com.objectos/sql-compiler@0.11.1?classifier=sources

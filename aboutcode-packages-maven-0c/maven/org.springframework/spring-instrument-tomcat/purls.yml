@@ -100,3 +100,5 @@
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.1.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-instrument-tomcat@3.2.15.RELEASE
 - pkg:maven/org.springframework/spring-instrument-tomcat@3.2.15.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.2.3.RELEASE
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.2.3.RELEASE?classifier=sources

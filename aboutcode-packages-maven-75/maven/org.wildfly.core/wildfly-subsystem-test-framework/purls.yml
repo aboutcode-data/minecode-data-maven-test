@@ -130,3 +130,5 @@
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@2.0.1.Final
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@2.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@2.0.2.Final
+- pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@2.0.2.Final?classifier=sources
