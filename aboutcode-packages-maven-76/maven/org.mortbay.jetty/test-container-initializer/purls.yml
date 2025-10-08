@@ -58,3 +58,5 @@
 - pkg:maven/org.mortbay.jetty/test-container-initializer@8.1.14.v20131031?classifier=sources
 - pkg:maven/org.mortbay.jetty/test-container-initializer@8.1.15.v20140411
 - pkg:maven/org.mortbay.jetty/test-container-initializer@8.1.15.v20140411?classifier=sources
+- pkg:maven/org.mortbay.jetty/test-container-initializer@8.1.16.v20140903
+- pkg:maven/org.mortbay.jetty/test-container-initializer@8.1.16.v20140903?classifier=sources

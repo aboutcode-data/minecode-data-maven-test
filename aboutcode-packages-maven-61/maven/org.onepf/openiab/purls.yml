@@ -2,3 +2,7 @@
 - pkg:maven/org.onepf/openiab@0.9.7.1?classifier=sources
 - pkg:maven/org.onepf/openiab@0.9.7
 - pkg:maven/org.onepf/openiab@0.9.7?classifier=sources
+- pkg:maven/org.onepf/openiab@0.9.7.2-fortumo
+- pkg:maven/org.onepf/openiab@0.9.7.2-fortumo?classifier=sources
+- pkg:maven/org.onepf/openiab@0.9.7.2
+- pkg:maven/org.onepf/openiab@0.9.7.2?classifier=sources

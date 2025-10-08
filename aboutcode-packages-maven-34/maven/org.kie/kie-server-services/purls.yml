@@ -1,2 +1,4 @@
 - pkg:maven/org.kie/kie-server-services@6.2.0.Beta1?type=war
 - pkg:maven/org.kie/kie-server-services@6.2.0.Beta1?classifier=sources
+- pkg:maven/org.kie/kie-server-services@6.2.0.Beta2?type=war
+- pkg:maven/org.kie/kie-server-services@6.2.0.Beta2?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/org.kevoree.library.java/org.kevoree.library.java.hazelcast@3.7.3?classifier=sources
 - pkg:maven/org.kevoree.library.java/org.kevoree.library.java.hazelcast@4.0.0
 - pkg:maven/org.kevoree.library.java/org.kevoree.library.java.hazelcast@4.0.0?classifier=sources
+- pkg:maven/org.kevoree.library.java/org.kevoree.library.java.hazelcast@5.0.1
+- pkg:maven/org.kevoree.library.java/org.kevoree.library.java.hazelcast@5.0.1?classifier=sources

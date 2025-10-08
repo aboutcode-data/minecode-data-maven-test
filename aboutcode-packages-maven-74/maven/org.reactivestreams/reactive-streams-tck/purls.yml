@@ -1,2 +1,4 @@
 - pkg:maven/org.reactivestreams/reactive-streams-tck@0.3
 - pkg:maven/org.reactivestreams/reactive-streams-tck@0.3?classifier=sources
+- pkg:maven/org.reactivestreams/reactive-streams-tck@0.4.0.M2
+- pkg:maven/org.reactivestreams/reactive-streams-tck@0.4.0.M2?classifier=sources
