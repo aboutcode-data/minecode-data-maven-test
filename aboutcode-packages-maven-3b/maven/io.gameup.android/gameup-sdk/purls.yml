@@ -14,3 +14,5 @@
 - pkg:maven/io.gameup.android/gameup-sdk@0.7.1?classifier=sources
 - pkg:maven/io.gameup.android/gameup-sdk@0.7.0?type=aar
 - pkg:maven/io.gameup.android/gameup-sdk@0.7.0?classifier=sources
+- pkg:maven/io.gameup.android/gameup-sdk@0.7.2?type=aar
+- pkg:maven/io.gameup.android/gameup-sdk@0.7.2?classifier=sources

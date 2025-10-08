@@ -40,3 +40,5 @@
 - pkg:maven/net.openhft/chronicle@3.4.3?classifier=sources
 - pkg:maven/net.openhft/chronicle@3.4.4
 - pkg:maven/net.openhft/chronicle@3.4.4?classifier=sources
+- pkg:maven/net.openhft/chronicle@3.5.1
+- pkg:maven/net.openhft/chronicle@3.5.1?classifier=sources

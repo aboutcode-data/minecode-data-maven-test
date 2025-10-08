@@ -32,3 +32,6 @@
 - pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.cm@1.0.6
 - pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.cm@1.0.6?classifier=sources
 - pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.cm@1.0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.cm@1.0.7
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.cm@1.0.7?classifier=sources
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.cm@1.0.7?classifier=source-release&type=zip
