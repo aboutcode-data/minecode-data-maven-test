@@ -1,0 +1,4 @@
+- pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.0.RC3?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.0.RC3?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.0.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-http-security-policy@1.1.0.Final?classifier=sources

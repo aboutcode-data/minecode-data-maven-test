@@ -62,3 +62,5 @@
 - pkg:maven/com.pojosontheweb/woko-container-auth@2.4-beta2?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-container-auth@2.4-beta3?type=war
 - pkg:maven/com.pojosontheweb/woko-container-auth@2.4-beta3?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-container-auth@2.4-beta4?type=war
+- pkg:maven/com.pojosontheweb/woko-container-auth@2.4-beta4?classifier=sources

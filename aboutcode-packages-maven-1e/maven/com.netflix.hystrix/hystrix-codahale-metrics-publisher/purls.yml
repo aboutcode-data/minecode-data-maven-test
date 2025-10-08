@@ -44,3 +44,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-codahale-metrics-publisher@1.4.3?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-codahale-metrics-publisher@1.4.2
 - pkg:maven/com.netflix.hystrix/hystrix-codahale-metrics-publisher@1.4.2?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-codahale-metrics-publisher@1.4.4
+- pkg:maven/com.netflix.hystrix/hystrix-codahale-metrics-publisher@1.4.4?classifier=sources
