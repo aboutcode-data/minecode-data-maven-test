@@ -66,3 +66,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-agent@0.7-rc6?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-agent@0.7
 - pkg:maven/net.bytebuddy/byte-buddy-agent@0.7?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-agent@0.7.1
+- pkg:maven/net.bytebuddy/byte-buddy-agent@0.7.1?classifier=sources

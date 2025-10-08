@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket@8.0.27?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket@8.0.28
 - pkg:maven/org.apache.tomcat/tomcat-websocket@8.0.28?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket@9.0.0.M1
+- pkg:maven/org.apache.tomcat/tomcat-websocket@9.0.0.M1?classifier=sources

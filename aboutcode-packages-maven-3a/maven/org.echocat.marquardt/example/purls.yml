@@ -16,3 +16,5 @@
 - pkg:maven/org.echocat.marquardt/example@0.8?classifier=sources
 - pkg:maven/org.echocat.marquardt/example@0.7
 - pkg:maven/org.echocat.marquardt/example@0.7?classifier=sources
+- pkg:maven/org.echocat.marquardt/example@0.10
+- pkg:maven/org.echocat.marquardt/example@0.10?classifier=sources
