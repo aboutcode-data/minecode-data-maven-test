@@ -1,2 +1,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@1.0.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@1.0.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@1.1.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-kuromoji@1.1.0?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/org.jclouds.karaf/itests@1.5.2?classifier=sources
 - pkg:maven/org.jclouds.karaf/itests@1.5.3
 - pkg:maven/org.jclouds.karaf/itests@1.5.3?classifier=sources
+- pkg:maven/org.jclouds.karaf/itests@1.5.3_1
+- pkg:maven/org.jclouds.karaf/itests@1.5.3_1?classifier=sources
