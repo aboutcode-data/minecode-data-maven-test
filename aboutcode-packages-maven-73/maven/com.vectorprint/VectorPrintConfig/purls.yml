@@ -12,3 +12,7 @@
 - pkg:maven/com.vectorprint/VectorPrintConfig@7.11?classifier=sources
 - pkg:maven/com.vectorprint/VectorPrintConfig@7.10
 - pkg:maven/com.vectorprint/VectorPrintConfig@7.10?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintConfig@8.1
+- pkg:maven/com.vectorprint/VectorPrintConfig@8.1?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintConfig@8.0
+- pkg:maven/com.vectorprint/VectorPrintConfig@8.0?classifier=sources

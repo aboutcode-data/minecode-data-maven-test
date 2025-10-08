@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.management@2.3.8?classifier=sources
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.management@2.3.9
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.management@2.3.9?classifier=sources
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.management@2.4.1
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.management@2.4.1?classifier=sources
