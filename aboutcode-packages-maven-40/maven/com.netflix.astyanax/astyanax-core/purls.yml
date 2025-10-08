@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.astyanax/astyanax-core@1.56.28
 - pkg:maven/com.netflix.astyanax/astyanax-core@1.56.28?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-core@1.56.29
+- pkg:maven/com.netflix.astyanax/astyanax-core@1.56.29?classifier=sources

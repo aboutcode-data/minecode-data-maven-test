@@ -61,3 +61,5 @@
 - pkg:maven/org.picketbox/jbosssx-client@3.0.0.CR2
 - pkg:maven/org.picketbox/jbosssx-client@3.0.0.CR1
 - pkg:maven/org.picketbox/jbosssx-client@3.0.0.Beta6
+- pkg:maven/org.picketbox/jbosssx-client@4.0.16.Final
+- pkg:maven/org.picketbox/jbosssx-client@4.0.16.Final?classifier=sources
