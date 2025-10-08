@@ -20,3 +20,5 @@
 - pkg:maven/org.codehaus.cargo/systemproperty-war@1.4.2?classifier=sources
 - pkg:maven/org.codehaus.cargo/systemproperty-war@1.4.3?type=war
 - pkg:maven/org.codehaus.cargo/systemproperty-war@1.4.3?classifier=sources
+- pkg:maven/org.codehaus.cargo/systemproperty-war@1.4.4?type=war
+- pkg:maven/org.codehaus.cargo/systemproperty-war@1.4.4?classifier=sources
