@@ -10,3 +10,5 @@
 - pkg:maven/org.jasig.ssp.platform/platform-war@1.1.1?classifier=sources
 - pkg:maven/org.jasig.ssp.platform/platform-war@1.2.0-b2?type=war
 - pkg:maven/org.jasig.ssp.platform/platform-war@1.2.0-b2?classifier=sources
+- pkg:maven/org.jasig.ssp.platform/platform-war@1.2.0-b3?type=war
+- pkg:maven/org.jasig.ssp.platform/platform-war@1.2.0-b3?classifier=sources

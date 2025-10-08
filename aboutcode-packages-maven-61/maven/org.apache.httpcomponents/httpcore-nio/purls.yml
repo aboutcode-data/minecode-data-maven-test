@@ -47,3 +47,7 @@
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.2.4?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.3-beta2
 - pkg:maven/org.apache.httpcomponents/httpcore-nio@4.3-beta2?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.3
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.3?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.2.5
+- pkg:maven/org.apache.httpcomponents/httpcore-nio@4.2.5?classifier=sources
