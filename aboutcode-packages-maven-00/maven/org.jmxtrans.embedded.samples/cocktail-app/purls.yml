@@ -14,3 +14,5 @@
 - pkg:maven/org.jmxtrans.embedded.samples/cocktail-app@1.0.7?classifier=sources
 - pkg:maven/org.jmxtrans.embedded.samples/cocktail-app@1.0.8?type=war
 - pkg:maven/org.jmxtrans.embedded.samples/cocktail-app@1.0.8?classifier=sources
+- pkg:maven/org.jmxtrans.embedded.samples/cocktail-app@1.0.14?type=war
+- pkg:maven/org.jmxtrans.embedded.samples/cocktail-app@1.0.14?classifier=sources

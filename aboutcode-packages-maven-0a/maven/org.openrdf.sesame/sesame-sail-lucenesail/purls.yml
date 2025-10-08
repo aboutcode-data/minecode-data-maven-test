@@ -1,2 +1,4 @@
 - pkg:maven/org.openrdf.sesame/sesame-sail-lucenesail@2.8.0-beta2
 - pkg:maven/org.openrdf.sesame/sesame-sail-lucenesail@2.8.0-beta2?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-sail-lucenesail@2.8.0
+- pkg:maven/org.openrdf.sesame/sesame-sail-lucenesail@2.8.0?classifier=sources

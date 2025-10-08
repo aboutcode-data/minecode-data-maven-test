@@ -136,3 +136,5 @@
 - pkg:maven/org.jboss.xnio/xnio-nio@3.3.0.Final?classifier=sources
 - pkg:maven/org.jboss.xnio/xnio-nio@3.0.12.GA
 - pkg:maven/org.jboss.xnio/xnio-nio@3.0.12.GA?classifier=sources
+- pkg:maven/org.jboss.xnio/xnio-nio@3.0.13.GA
+- pkg:maven/org.jboss.xnio/xnio-nio@3.0.13.GA?classifier=sources

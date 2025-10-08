@@ -77,3 +77,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.9?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.9?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.9?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.10?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.10?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.10?classifier=project-src&type=zip
