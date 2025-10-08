@@ -26,3 +26,7 @@
 - pkg:maven/org.wildfly.swarm/config-api@0.3.21?classifier=sources
 - pkg:maven/org.wildfly.swarm/config-api@0.3.20
 - pkg:maven/org.wildfly.swarm/config-api@0.3.20?classifier=sources
+- pkg:maven/org.wildfly.swarm/config-api@0.3.23
+- pkg:maven/org.wildfly.swarm/config-api@0.3.23?classifier=sources
+- pkg:maven/org.wildfly.swarm/config-api@0.3.22
+- pkg:maven/org.wildfly.swarm/config-api@0.3.22?classifier=sources

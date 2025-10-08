@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/es6-shim@0.33.13
 - pkg:maven/org.webjars.npm/es6-shim@0.33.13?classifier=sources
+- pkg:maven/org.webjars.npm/es6-shim@0.34.0
+- pkg:maven/org.webjars.npm/es6-shim@0.34.0?classifier=sources
