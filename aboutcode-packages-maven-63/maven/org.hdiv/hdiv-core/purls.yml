@@ -24,3 +24,5 @@
 - pkg:maven/org.hdiv/hdiv-core@2.1.7.RC3?classifier=sources
 - pkg:maven/org.hdiv/hdiv-core@2.1.7.RC4
 - pkg:maven/org.hdiv/hdiv-core@2.1.7.RC4?classifier=sources
+- pkg:maven/org.hdiv/hdiv-core@2.1.7
+- pkg:maven/org.hdiv/hdiv-core@2.1.7?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.8?classifier=sources
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.9?type=war
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.9?classifier=sources
+- pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.1.0?type=war
+- pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.1.0?classifier=sources
