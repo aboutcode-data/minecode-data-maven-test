@@ -4,3 +4,5 @@
 - pkg:maven/org.odlabs.wiquery/wiquery-core@1.5.7?classifier=sources
 - pkg:maven/org.odlabs.wiquery/wiquery-core@6.0.0-beta3
 - pkg:maven/org.odlabs.wiquery/wiquery-core@6.0.0-beta3?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-core@6.0.0
+- pkg:maven/org.odlabs.wiquery/wiquery-core@6.0.0?classifier=sources

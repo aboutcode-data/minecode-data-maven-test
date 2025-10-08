@@ -52,3 +52,5 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@5.2.0.ALPHA2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@5.1.6.FINAL?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@5.1.6.FINAL?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@5.2.0.Alpha3?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@5.2.0.Alpha3?classifier=sources

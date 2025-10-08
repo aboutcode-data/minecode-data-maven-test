@@ -12,3 +12,5 @@
 - pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.8.201207111220?classifier=sources
 - pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.9.201207300726
 - pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.9.201207300726?classifier=sources
+- pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.10.201208310627
+- pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.10.201208310627?classifier=sources
