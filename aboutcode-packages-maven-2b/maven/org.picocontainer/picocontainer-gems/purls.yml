@@ -76,3 +76,5 @@
 - pkg:maven/org.picocontainer/picocontainer-gems@2.14.2?classifier=sources
 - pkg:maven/org.picocontainer/picocontainer-gems@2.14.3
 - pkg:maven/org.picocontainer/picocontainer-gems@2.14.3?classifier=sources
+- pkg:maven/org.picocontainer/picocontainer-gems@2.15
+- pkg:maven/org.picocontainer/picocontainer-gems@2.15?classifier=sources

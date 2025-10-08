@@ -1,2 +1,4 @@
 - pkg:maven/org.asciidoctor/asciidoctor-ant@0.1.4
 - pkg:maven/org.asciidoctor/asciidoctor-ant@0.1.4?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctor-ant@1.5.0
+- pkg:maven/org.asciidoctor/asciidoctor-ant@1.5.0?classifier=sources

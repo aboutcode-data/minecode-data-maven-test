@@ -26,3 +26,7 @@
 - pkg:maven/org.craftercms/crafter-engine@2.5.0-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-engine@2.5.0-RC3?type=war
 - pkg:maven/org.craftercms/crafter-engine@2.5.0-RC3?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC3?type=war
+- pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC3?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC2?type=war
+- pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC2?classifier=sources
