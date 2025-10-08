@@ -78,3 +78,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.2.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.3-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.3-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.3
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.2.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-properties@6.2.4?classifier=sources

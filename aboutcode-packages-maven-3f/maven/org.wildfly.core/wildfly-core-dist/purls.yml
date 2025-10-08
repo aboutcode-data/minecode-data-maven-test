@@ -9,3 +9,7 @@
 - pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha9
 - pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha11
+- pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha13?type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha13?classifier=src&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha13?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly.core/wildfly-core-dist@1.0.0.Alpha12

@@ -1,0 +1,4 @@
+- pkg:maven/org.wicketstuff/wicketstuff-jee-web@7.0.0-M4
+- pkg:maven/org.wicketstuff/wicketstuff-jee-web@7.0.0-M4?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jee-web@6.18.0
+- pkg:maven/org.wicketstuff/wicketstuff-jee-web@6.18.0?classifier=sources
