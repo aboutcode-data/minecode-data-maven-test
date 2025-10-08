@@ -138,3 +138,7 @@
 - pkg:maven/org.dasein/dasein-cloud-aws@2014.05.3?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-aws@2014.05.5
 - pkg:maven/org.dasein/dasein-cloud-aws@2014.05.5?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-aws@2014.08.2
+- pkg:maven/org.dasein/dasein-cloud-aws@2014.08.2?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-aws@2014.08.1
+- pkg:maven/org.dasein/dasein-cloud-aws@2014.08.1?classifier=sources

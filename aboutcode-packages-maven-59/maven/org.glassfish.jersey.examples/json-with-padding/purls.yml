@@ -104,3 +104,6 @@
 - pkg:maven/org.glassfish.jersey.examples/json-with-padding@2.10.2
 - pkg:maven/org.glassfish.jersey.examples/json-with-padding@2.10.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/json-with-padding@2.10.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/json-with-padding@2.10.3
+- pkg:maven/org.glassfish.jersey.examples/json-with-padding@2.10.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/json-with-padding@2.10.3?classifier=project-src&type=zip
