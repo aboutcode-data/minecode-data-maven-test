@@ -6,3 +6,5 @@
 - pkg:maven/org.sakaiproject.hybrid/sakai-hybrid@1.2.0-b05?classifier=sources
 - pkg:maven/org.sakaiproject.hybrid/sakai-hybrid@1.2.0-b06?type=war
 - pkg:maven/org.sakaiproject.hybrid/sakai-hybrid@1.2.0-b06?classifier=sources
+- pkg:maven/org.sakaiproject.hybrid/sakai-hybrid@1.2.0-b07?type=war
+- pkg:maven/org.sakaiproject.hybrid/sakai-hybrid@1.2.0-b07?classifier=sources

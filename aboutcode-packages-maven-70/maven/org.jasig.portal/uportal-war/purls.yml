@@ -67,3 +67,7 @@
 - pkg:maven/org.jasig.portal/uportal-war@3.2.5?classifier=sources
 - pkg:maven/org.jasig.portal/uportal-war@4.0.5?type=war
 - pkg:maven/org.jasig.portal/uportal-war@4.0.5?classifier=sources
+- pkg:maven/org.jasig.portal/uportal-war@4.0.6.SR1?type=war
+- pkg:maven/org.jasig.portal/uportal-war@4.0.6.SR1?classifier=sources
+- pkg:maven/org.jasig.portal/uportal-war@4.0.6?type=war
+- pkg:maven/org.jasig.portal/uportal-war@4.0.6?classifier=sources
