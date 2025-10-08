@@ -46,3 +46,5 @@
 - pkg:maven/javax.batch/javax.batch-api@1.0-b29?classifier=sources
 - pkg:maven/javax.batch/javax.batch-api@1.0
 - pkg:maven/javax.batch/javax.batch-api@1.0?classifier=sources
+- pkg:maven/javax.batch/javax.batch-api@1.0.1-b01
+- pkg:maven/javax.batch/javax.batch-api@1.0.1-b01?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/com.ontology2/bakemono@2.4?classifier=sources
 - pkg:maven/com.ontology2/bakemono@3.0
 - pkg:maven/com.ontology2/bakemono@3.0?classifier=sources
+- pkg:maven/com.ontology2/bakemono@3.1
+- pkg:maven/com.ontology2/bakemono@3.1?classifier=sources
