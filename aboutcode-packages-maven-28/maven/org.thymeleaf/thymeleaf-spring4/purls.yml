@@ -8,3 +8,5 @@
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@2.0.21?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@2.1.4.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@2.1.4.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.0.ALPHA01
+- pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.0.ALPHA01?classifier=sources

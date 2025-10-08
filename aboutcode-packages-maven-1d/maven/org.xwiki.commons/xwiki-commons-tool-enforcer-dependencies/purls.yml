@@ -248,3 +248,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@7.2-milestone-2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@7.1.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@7.1.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@7.2-milestone-3
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@7.2-milestone-3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@6.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@6.4.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.6
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.6?classifier=sources
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.5
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.5?classifier=sources
