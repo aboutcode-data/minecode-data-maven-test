@@ -1,0 +1,2 @@
+- pkg:maven/com.bazaarvoice.maven.plugins/s3-upload-maven-plugin@1.0
+- pkg:maven/com.bazaarvoice.maven.plugins/s3-upload-maven-plugin@1.0?classifier=sources

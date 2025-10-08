@@ -30,3 +30,5 @@
 - pkg:maven/com.jcraft/jsch@0.1.48?classifier=sources
 - pkg:maven/com.jcraft/jsch@0.1.49
 - pkg:maven/com.jcraft/jsch@0.1.49?classifier=sources
+- pkg:maven/com.jcraft/jsch@0.1.50
+- pkg:maven/com.jcraft/jsch@0.1.50?classifier=sources
