@@ -8,3 +8,5 @@
 - pkg:maven/org.sonarsource.java/java-jacoco@3.7?classifier=sources
 - pkg:maven/org.sonarsource.java/java-jacoco@3.7.1
 - pkg:maven/org.sonarsource.java/java-jacoco@3.7.1?classifier=sources
+- pkg:maven/org.sonarsource.java/java-jacoco@3.8
+- pkg:maven/org.sonarsource.java/java-jacoco@3.8?classifier=sources

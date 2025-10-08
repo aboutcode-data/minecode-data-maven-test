@@ -64,3 +64,5 @@
 - pkg:maven/org.keycloak/keycloak-servlet-oauth-client@1.6.0.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-servlet-oauth-client@1.6.1.Final
 - pkg:maven/org.keycloak/keycloak-servlet-oauth-client@1.6.1.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-servlet-oauth-client@1.7.0.CR1
+- pkg:maven/org.keycloak/keycloak-servlet-oauth-client@1.7.0.CR1?classifier=sources
