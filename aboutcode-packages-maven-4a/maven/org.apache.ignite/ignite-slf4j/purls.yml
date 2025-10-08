@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.ignite/ignite-slf4j@1.0.0-RC3?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-slf4j@1.0.0
 - pkg:maven/org.apache.ignite/ignite-slf4j@1.0.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-slf4j@1.1.0-incubating
+- pkg:maven/org.apache.ignite/ignite-slf4j@1.1.0-incubating?classifier=sources
