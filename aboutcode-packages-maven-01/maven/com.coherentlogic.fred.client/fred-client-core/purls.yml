@@ -1,2 +1,4 @@
 - pkg:maven/com.coherentlogic.fred.client/fred-client-core@0.9.3
 - pkg:maven/com.coherentlogic.fred.client/fred-client-core@0.9.3?classifier=sources
+- pkg:maven/com.coherentlogic.fred.client/fred-client-core@0.9.7
+- pkg:maven/com.coherentlogic.fred.client/fred-client-core@0.9.7?classifier=sources

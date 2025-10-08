@@ -2,3 +2,5 @@
 - pkg:maven/org.jboss.aesh/aesh-extensions@0.36?classifier=sources
 - pkg:maven/org.jboss.aesh/aesh-extensions@0.34
 - pkg:maven/org.jboss.aesh/aesh-extensions@0.34?classifier=sources
+- pkg:maven/org.jboss.aesh/aesh-extensions@0.38
+- pkg:maven/org.jboss.aesh/aesh-extensions@0.38?classifier=sources

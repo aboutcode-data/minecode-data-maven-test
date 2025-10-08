@@ -44,3 +44,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.5-RC2?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.5
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.5?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.5.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-core@3.5.1?classifier=sources
