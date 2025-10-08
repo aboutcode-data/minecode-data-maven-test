@@ -18,3 +18,6 @@
 - pkg:maven/org.codehaus.mojo/cobertura-maven-plugin@2.5.2
 - pkg:maven/org.codehaus.mojo/cobertura-maven-plugin@2.5.2?classifier=sources
 - pkg:maven/org.codehaus.mojo/cobertura-maven-plugin@2.5.2?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/cobertura-maven-plugin@2.6
+- pkg:maven/org.codehaus.mojo/cobertura-maven-plugin@2.6?classifier=sources
+- pkg:maven/org.codehaus.mojo/cobertura-maven-plugin@2.6?classifier=source-release&type=zip

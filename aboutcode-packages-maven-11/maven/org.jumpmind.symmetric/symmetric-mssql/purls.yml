@@ -1,2 +1,4 @@
 - pkg:maven/org.jumpmind.symmetric/symmetric-mssql@3.5.3
 - pkg:maven/org.jumpmind.symmetric/symmetric-mssql@3.5.3?classifier=sources
+- pkg:maven/org.jumpmind.symmetric/symmetric-mssql@3.5.4
+- pkg:maven/org.jumpmind.symmetric/symmetric-mssql@3.5.4?classifier=sources

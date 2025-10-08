@@ -26,3 +26,7 @@
 - pkg:maven/org.apache.hadoop/hadoop-distcp@0.23.8?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-distcp@0.23.9
 - pkg:maven/org.apache.hadoop/hadoop-distcp@0.23.9?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-distcp@2.1.0-beta
+- pkg:maven/org.apache.hadoop/hadoop-distcp@2.1.0-beta?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-distcp@2.0.6-alpha
+- pkg:maven/org.apache.hadoop/hadoop-distcp@2.0.6-alpha?classifier=sources

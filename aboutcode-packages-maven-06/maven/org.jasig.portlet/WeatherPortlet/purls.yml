@@ -12,3 +12,5 @@
 - pkg:maven/org.jasig.portlet/WeatherPortlet@1.0.3?classifier=sources
 - pkg:maven/org.jasig.portlet/WeatherPortlet@1.0.9?type=war
 - pkg:maven/org.jasig.portlet/WeatherPortlet@1.0.9?classifier=sources
+- pkg:maven/org.jasig.portlet/WeatherPortlet@1.0.10?type=war
+- pkg:maven/org.jasig.portlet/WeatherPortlet@1.0.10?classifier=sources
