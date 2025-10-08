@@ -60,3 +60,5 @@
 - pkg:maven/com.nicta/scoobi_2.10@0.8.5-cdh3?classifier=sources
 - pkg:maven/com.nicta/scoobi_2.10@0.8.5
 - pkg:maven/com.nicta/scoobi_2.10@0.8.5?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.9.0
+- pkg:maven/com.nicta/scoobi_2.10@0.9.0?classifier=sources
