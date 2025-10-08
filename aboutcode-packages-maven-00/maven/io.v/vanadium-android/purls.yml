@@ -2,3 +2,6 @@
 - pkg:maven/io.v/vanadium-android@0.2?type=aar
 - pkg:maven/io.v/vanadium-android@0.5?type=aar
 - pkg:maven/io.v/vanadium-android@0.4?type=aar
+- pkg:maven/io.v/vanadium-android@1.0?type=aar
+- pkg:maven/io.v/vanadium-android@1.0?classifier=sources
+- pkg:maven/io.v/vanadium-android@0.9?type=aar

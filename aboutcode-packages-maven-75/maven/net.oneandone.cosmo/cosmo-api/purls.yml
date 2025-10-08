@@ -1,0 +1,4 @@
+- pkg:maven/net.oneandone.cosmo/cosmo-api@0.95
+- pkg:maven/net.oneandone.cosmo/cosmo-api@0.95?classifier=sources
+- pkg:maven/net.oneandone.cosmo/cosmo-api@0.94
+- pkg:maven/net.oneandone.cosmo/cosmo-api@0.94?classifier=sources

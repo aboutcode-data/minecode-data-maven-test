@@ -33,3 +33,5 @@
 - pkg:maven/net.servicestack/client@1.0.20?classifier=sources
 - pkg:maven/net.servicestack/client@1.0.21
 - pkg:maven/net.servicestack/client@1.0.21?classifier=sources
+- pkg:maven/net.servicestack/client@1.0.22
+- pkg:maven/net.servicestack/client@1.0.22?classifier=sources

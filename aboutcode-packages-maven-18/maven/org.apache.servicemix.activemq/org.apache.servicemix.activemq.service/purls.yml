@@ -56,3 +56,7 @@
 - pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@6.1.0?classifier=sources
 - pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@5.4.2
 - pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@5.4.2?classifier=sources
+- pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@6.0.2
+- pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@6.0.2?classifier=sources
+- pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@5.5.2
+- pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@5.5.2?classifier=sources

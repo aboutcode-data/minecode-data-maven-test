@@ -100,3 +100,5 @@
 - pkg:maven/io.zipkin/zipkin-scrooge@1.25.3?classifier=sources
 - pkg:maven/io.zipkin/zipkin-scrooge@1.25.2
 - pkg:maven/io.zipkin/zipkin-scrooge@1.25.2?classifier=sources
+- pkg:maven/io.zipkin/zipkin-scrooge@1.26.0
+- pkg:maven/io.zipkin/zipkin-scrooge@1.26.0?classifier=sources
