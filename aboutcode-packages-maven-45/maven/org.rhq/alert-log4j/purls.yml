@@ -19,3 +19,5 @@
 - pkg:maven/org.rhq/alert-log4j@4.9.0?classifier=sources
 - pkg:maven/org.rhq/alert-log4j@4.10.0
 - pkg:maven/org.rhq/alert-log4j@4.10.0?classifier=sources
+- pkg:maven/org.rhq/alert-log4j@4.11.0
+- pkg:maven/org.rhq/alert-log4j@4.11.0?classifier=sources

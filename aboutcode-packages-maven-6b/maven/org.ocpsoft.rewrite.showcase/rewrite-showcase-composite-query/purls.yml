@@ -40,3 +40,5 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.10.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.11.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.11.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.12.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.12.Final?classifier=sources

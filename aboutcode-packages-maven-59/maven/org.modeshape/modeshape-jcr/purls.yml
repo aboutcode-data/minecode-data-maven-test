@@ -32,3 +32,5 @@
 - pkg:maven/org.modeshape/modeshape-jcr@3.7.2.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-jcr@4.0.0.Alpha2
 - pkg:maven/org.modeshape/modeshape-jcr@4.0.0.Alpha2?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jcr@3.7.3.Final
+- pkg:maven/org.modeshape/modeshape-jcr@3.7.3.Final?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-groovydoc@2.3.0-rc-4?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-groovydoc@2.3.0-rc-2
 - pkg:maven/org.codehaus.groovy/groovy-groovydoc@2.3.0-rc-2?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-groovydoc@2.3.0
+- pkg:maven/org.codehaus.groovy/groovy-groovydoc@2.3.0?classifier=sources

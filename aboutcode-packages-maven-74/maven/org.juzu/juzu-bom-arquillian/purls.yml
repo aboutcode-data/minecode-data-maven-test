@@ -96,3 +96,5 @@
 - pkg:maven/org.juzu/juzu-bom-arquillian@0.7.0-beta24?classifier=sources
 - pkg:maven/org.juzu/juzu-bom-arquillian@0.7.0-beta25
 - pkg:maven/org.juzu/juzu-bom-arquillian@0.7.0-beta25?classifier=sources
+- pkg:maven/org.juzu/juzu-bom-arquillian@0.6.2
+- pkg:maven/org.juzu/juzu-bom-arquillian@0.6.2?classifier=sources

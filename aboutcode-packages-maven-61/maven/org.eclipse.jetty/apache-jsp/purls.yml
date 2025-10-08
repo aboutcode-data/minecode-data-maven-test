@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.0.M0
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.0.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.2.0.M1
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.2.0.M1?classifier=sources

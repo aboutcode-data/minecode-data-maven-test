@@ -103,3 +103,5 @@
 - pkg:maven/org.grails/grails-resources@2.4.0.M2?classifier=sources
 - pkg:maven/org.grails/grails-resources@2.3.8
 - pkg:maven/org.grails/grails-resources@2.3.8?classifier=sources
+- pkg:maven/org.grails/grails-resources@2.4.0.RC1
+- pkg:maven/org.grails/grails-resources@2.4.0.RC1?classifier=sources

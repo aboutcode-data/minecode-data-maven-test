@@ -8,3 +8,5 @@
 - pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta17?classifier=sources
 - pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta16?type=war
 - pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta16?classifier=sources
+- pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta18?type=war
+- pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta18?classifier=sources
