@@ -58,3 +58,7 @@
 - pkg:maven/net.openhft/chronicle-engine@1.7.2-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-engine@1.7.0-beta
 - pkg:maven/net.openhft/chronicle-engine@1.7.0-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.7.6-beta
+- pkg:maven/net.openhft/chronicle-engine@1.7.6-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.7.5-beta
+- pkg:maven/net.openhft/chronicle-engine@1.7.5-beta?classifier=sources

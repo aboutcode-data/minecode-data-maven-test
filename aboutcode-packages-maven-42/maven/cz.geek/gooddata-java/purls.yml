@@ -24,3 +24,5 @@
 - pkg:maven/cz.geek/gooddata-java@0.18.0?classifier=sources
 - pkg:maven/cz.geek/gooddata-java@0.19.1
 - pkg:maven/cz.geek/gooddata-java@0.19.1?classifier=sources
+- pkg:maven/cz.geek/gooddata-java@0.20.0
+- pkg:maven/cz.geek/gooddata-java@0.20.0?classifier=sources

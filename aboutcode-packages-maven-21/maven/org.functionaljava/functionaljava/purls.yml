@@ -16,3 +16,5 @@
 - pkg:maven/org.functionaljava/functionaljava@4.3?classifier=sources
 - pkg:maven/org.functionaljava/functionaljava@4.4
 - pkg:maven/org.functionaljava/functionaljava@4.4?classifier=sources
+- pkg:maven/org.functionaljava/functionaljava@3.2.1
+- pkg:maven/org.functionaljava/functionaljava@3.2.1?classifier=sources
