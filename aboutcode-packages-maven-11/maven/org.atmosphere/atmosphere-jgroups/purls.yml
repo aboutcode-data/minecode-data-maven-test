@@ -184,3 +184,5 @@
 - pkg:maven/org.atmosphere/atmosphere-jgroups@2.3.0-RC4?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jgroups@2.3.0-RC5
 - pkg:maven/org.atmosphere/atmosphere-jgroups@2.3.0-RC5?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jgroups@2.3.0
+- pkg:maven/org.atmosphere/atmosphere-jgroups@2.3.0?classifier=sources

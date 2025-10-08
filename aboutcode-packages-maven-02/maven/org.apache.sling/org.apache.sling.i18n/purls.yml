@@ -31,3 +31,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.i18n@2.3.2
 - pkg:maven/org.apache.sling/org.apache.sling.i18n@2.3.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.i18n@2.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.i18n@2.4.2
+- pkg:maven/org.apache.sling/org.apache.sling.i18n@2.4.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.i18n@2.4.2?classifier=source-release&type=zip

@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.console@4.0.0.M2?classifier=sources
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.console@2.3.11
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.console@2.3.11?classifier=sources
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.console@2.4.2
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.console@2.4.2?classifier=sources
