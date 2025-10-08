@@ -222,3 +222,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@6.2.7?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@6.2.6
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@6.2.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@7.0-milestone-2
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@7.0-milestone-2?classifier=sources

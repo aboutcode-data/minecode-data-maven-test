@@ -42,3 +42,4 @@
 - pkg:maven/com.facebook.presto/presto-hive-cdh4@0.93?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-cdh4@0.95?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-cdh4@0.94?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-cdh4@0.96?classifier=sources
