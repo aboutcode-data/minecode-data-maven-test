@@ -55,3 +55,5 @@
 - pkg:maven/net.sf.itcb.common/itcb-common-business-impl@0.6.0-RC13?classifier=sources
 - pkg:maven/net.sf.itcb.common/itcb-common-business-impl@0.6.0-RC14
 - pkg:maven/net.sf.itcb.common/itcb-common-business-impl@0.6.0-RC14?classifier=sources
+- pkg:maven/net.sf.itcb.common/itcb-common-business-impl@0.6.0
+- pkg:maven/net.sf.itcb.common/itcb-common-business-impl@0.6.0?classifier=sources

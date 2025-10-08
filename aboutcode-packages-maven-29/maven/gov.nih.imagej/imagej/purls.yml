@@ -10,3 +10,5 @@
 - pkg:maven/gov.nih.imagej/imagej@1.41?classifier=sources
 - pkg:maven/gov.nih.imagej/imagej@1.40
 - pkg:maven/gov.nih.imagej/imagej@1.40?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.46
+- pkg:maven/gov.nih.imagej/imagej@1.46?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/org.datanucleus/datanucleus-odf@3.1.0-m2?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-odf@3.1.0-m3
 - pkg:maven/org.datanucleus/datanucleus-odf@3.1.0-m3?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-odf@3.1.0-release
+- pkg:maven/org.datanucleus/datanucleus-odf@3.1.0-release?classifier=sources

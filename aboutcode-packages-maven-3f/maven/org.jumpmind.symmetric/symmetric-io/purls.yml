@@ -24,3 +24,7 @@
 - pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.9?classifier=sources
 - pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.8
 - pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.8?classifier=sources
+- pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.10.1
+- pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.10.1?classifier=sources
+- pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.10
+- pkg:maven/org.jumpmind.symmetric/symmetric-io@3.0.10?classifier=sources

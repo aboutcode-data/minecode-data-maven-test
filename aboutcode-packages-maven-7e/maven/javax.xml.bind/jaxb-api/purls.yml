@@ -29,3 +29,5 @@
 - pkg:maven/javax.xml.bind/jaxb-api@2.2.6?classifier=sources
 - pkg:maven/javax.xml.bind/jaxb-api@2.2.1-promoted-b66
 - pkg:maven/javax.xml.bind/jaxb-api@2.2.1-promoted-b66?classifier=sources
+- pkg:maven/javax.xml.bind/jaxb-api@2.2.7
+- pkg:maven/javax.xml.bind/jaxb-api@2.2.7?classifier=sources

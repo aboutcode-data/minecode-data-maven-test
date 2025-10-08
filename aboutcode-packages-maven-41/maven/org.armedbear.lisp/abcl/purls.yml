@@ -4,3 +4,7 @@
 - pkg:maven/org.armedbear.lisp/abcl@0.25.0?classifier=sources
 - pkg:maven/org.armedbear.lisp/abcl@0.24.0
 - pkg:maven/org.armedbear.lisp/abcl@0.24.0?classifier=sources
+- pkg:maven/org.armedbear.lisp/abcl@1.0.1
+- pkg:maven/org.armedbear.lisp/abcl@1.0.1?classifier=sources
+- pkg:maven/org.armedbear.lisp/abcl@1.0.0
+- pkg:maven/org.armedbear.lisp/abcl@1.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-player@3.0.0.M2?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-player@2.5.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-player@2.5.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-player@3.0.0.M3
+- pkg:maven/org.ops4j.pax.exam/pax-exam-player@3.0.0.M3?classifier=sources
