@@ -72,3 +72,5 @@
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.21.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.22.Final
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.22.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@2.0.0.Beta1
+- pkg:maven/org.jboss/jboss-ejb-client@2.0.0.Beta1?classifier=sources
