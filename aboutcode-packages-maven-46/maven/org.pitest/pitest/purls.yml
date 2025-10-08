@@ -1,0 +1,8 @@
+- pkg:maven/org.pitest/pitest@0.23
+- pkg:maven/org.pitest/pitest@0.23?classifier=sources
+- pkg:maven/org.pitest/pitest@0.22
+- pkg:maven/org.pitest/pitest@0.22?classifier=sources
+- pkg:maven/org.pitest/pitest@0.21
+- pkg:maven/org.pitest/pitest@0.21?classifier=sources
+- pkg:maven/org.pitest/pitest@0.20
+- pkg:maven/org.pitest/pitest@0.20?classifier=sources
