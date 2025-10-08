@@ -40,3 +40,5 @@
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.3.0.Beta2?classifier=sources
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.3.0.CR1?type=war
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.3.0.CR1?classifier=sources
+- pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.3.0.CR2?type=war
+- pkg:maven/org.jbpm/jbpm-form-modeler-showcase@6.3.0.CR2?classifier=sources
