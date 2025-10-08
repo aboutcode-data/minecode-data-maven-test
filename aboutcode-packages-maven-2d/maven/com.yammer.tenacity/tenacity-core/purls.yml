@@ -100,3 +100,7 @@
 - pkg:maven/com.yammer.tenacity/tenacity-core@0.6.12?classifier=sources
 - pkg:maven/com.yammer.tenacity/tenacity-core@0.5.15
 - pkg:maven/com.yammer.tenacity/tenacity-core@0.5.15?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.6.13
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.6.13?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.5.16
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.5.16?classifier=sources

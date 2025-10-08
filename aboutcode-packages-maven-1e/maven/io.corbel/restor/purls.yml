@@ -1,2 +1,4 @@
 - pkg:maven/io.corbel/restor@1.21.0
 - pkg:maven/io.corbel/restor@1.21.0?classifier=sources
+- pkg:maven/io.corbel/restor@1.22.0
+- pkg:maven/io.corbel/restor@1.22.0?classifier=sources

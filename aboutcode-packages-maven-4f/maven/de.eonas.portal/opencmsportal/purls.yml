@@ -22,3 +22,5 @@
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.9?classifier=sources
 - pkg:maven/de.eonas.portal/opencmsportal@9.5.1.1?type=war
 - pkg:maven/de.eonas.portal/opencmsportal@9.5.1.1?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.5.2.0?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.5.2.0?classifier=sources

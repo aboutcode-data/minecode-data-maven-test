@@ -42,3 +42,7 @@
 - pkg:maven/net.sourceforge.argo/argo@3.14?classifier=sources
 - pkg:maven/net.sourceforge.argo/argo@3.13
 - pkg:maven/net.sourceforge.argo/argo@3.13?classifier=sources
+- pkg:maven/net.sourceforge.argo/argo@3.16
+- pkg:maven/net.sourceforge.argo/argo@3.16?classifier=sources
+- pkg:maven/net.sourceforge.argo/argo@3.15
+- pkg:maven/net.sourceforge.argo/argo@3.15?classifier=sources
