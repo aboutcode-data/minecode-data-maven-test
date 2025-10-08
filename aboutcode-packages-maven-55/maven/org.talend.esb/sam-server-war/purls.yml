@@ -37,3 +37,5 @@
 - pkg:maven/org.talend.esb/sam-server-war@5.4.2?classifier=sources
 - pkg:maven/org.talend.esb/sam-server-war@5.5.0?type=war
 - pkg:maven/org.talend.esb/sam-server-war@5.5.0?classifier=sources
+- pkg:maven/org.talend.esb/sam-server-war@5.5.1?type=war
+- pkg:maven/org.talend.esb/sam-server-war@5.5.1?classifier=sources

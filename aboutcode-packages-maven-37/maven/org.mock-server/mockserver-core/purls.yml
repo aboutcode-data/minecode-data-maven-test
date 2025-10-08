@@ -38,3 +38,7 @@
 - pkg:maven/org.mock-server/mockserver-core@2.10?classifier=sources
 - pkg:maven/org.mock-server/mockserver-core@3.0
 - pkg:maven/org.mock-server/mockserver-core@3.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-core@3.2
+- pkg:maven/org.mock-server/mockserver-core@3.2?classifier=sources
+- pkg:maven/org.mock-server/mockserver-core@3.1
+- pkg:maven/org.mock-server/mockserver-core@3.1?classifier=sources

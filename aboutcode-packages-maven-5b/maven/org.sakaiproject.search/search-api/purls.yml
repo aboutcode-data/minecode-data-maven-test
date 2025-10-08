@@ -22,3 +22,5 @@
 - pkg:maven/org.sakaiproject.search/search-api@1.4.2?classifier=sources
 - pkg:maven/org.sakaiproject.search/search-api@1.4.3
 - pkg:maven/org.sakaiproject.search/search-api@1.4.3?classifier=sources
+- pkg:maven/org.sakaiproject.search/search-api@10.0
+- pkg:maven/org.sakaiproject.search/search-api@10.0?classifier=sources
