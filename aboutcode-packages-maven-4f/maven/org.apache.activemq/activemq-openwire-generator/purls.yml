@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.activemq/activemq-openwire-generator@5.7.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-openwire-generator@5.8.0
 - pkg:maven/org.apache.activemq/activemq-openwire-generator@5.8.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-openwire-generator@5.9.0
+- pkg:maven/org.apache.activemq/activemq-openwire-generator@5.9.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/javax.cache/cache-api@0.9?classifier=sources
 - pkg:maven/javax.cache/cache-api@0.10
 - pkg:maven/javax.cache/cache-api@0.10?classifier=sources
+- pkg:maven/javax.cache/cache-api@1.0.0-PFD
+- pkg:maven/javax.cache/cache-api@1.0.0-PFD?classifier=sources

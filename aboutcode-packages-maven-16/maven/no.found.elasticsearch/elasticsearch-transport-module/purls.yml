@@ -1,0 +1,4 @@
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.0-0905
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.0-0905?classifier=sources
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.0-0903
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.0-0903?classifier=sources
