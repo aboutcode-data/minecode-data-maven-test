@@ -8,3 +8,5 @@
 - pkg:maven/io.vertx/vertx-ext-resources@8?classifier=sources
 - pkg:maven/io.vertx/vertx-ext-resources@7
 - pkg:maven/io.vertx/vertx-ext-resources@7?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-resources@9
+- pkg:maven/io.vertx/vertx-ext-resources@9?classifier=sources
