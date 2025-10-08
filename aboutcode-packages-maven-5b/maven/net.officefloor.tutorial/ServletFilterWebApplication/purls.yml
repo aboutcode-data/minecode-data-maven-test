@@ -14,3 +14,5 @@
 - pkg:maven/net.officefloor.tutorial/ServletFilterWebApplication@2.2.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/ServletFilterWebApplication@2.3.0?type=war
 - pkg:maven/net.officefloor.tutorial/ServletFilterWebApplication@2.3.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/ServletFilterWebApplication@2.4.0?type=war
+- pkg:maven/net.officefloor.tutorial/ServletFilterWebApplication@2.4.0?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/org.codehaus.fabric3/fabric3-web@0.5ALPHA2?classifier=sources
 - pkg:maven/org.codehaus.fabric3/fabric3-web@0.5.1?classifier=sources
 - pkg:maven/org.codehaus.fabric3/fabric3-web@0.5?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-web@1.9.5
+- pkg:maven/org.codehaus.fabric3/fabric3-web@1.9.5?classifier=sources
