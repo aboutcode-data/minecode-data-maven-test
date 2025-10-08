@@ -54,3 +54,5 @@
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-security-provider@2.5.0
 - pkg:maven/org.craftercms/crafter-security-provider@2.5.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-security-provider@2.4.4
+- pkg:maven/org.craftercms/crafter-security-provider@2.4.4?classifier=sources
