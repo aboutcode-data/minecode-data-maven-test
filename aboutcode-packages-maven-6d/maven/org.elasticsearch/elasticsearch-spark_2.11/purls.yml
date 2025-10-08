@@ -1,2 +1,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark_2.11@2.1.0.Beta4
 - pkg:maven/org.elasticsearch/elasticsearch-spark_2.11@2.1.0.Beta4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark_2.11@2.1.0.rc1
+- pkg:maven/org.elasticsearch/elasticsearch-spark_2.11@2.1.0.rc1?classifier=sources

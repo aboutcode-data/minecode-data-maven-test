@@ -32,3 +32,5 @@
 - pkg:maven/org.jberet/jberet-se@1.1.0.Beta1?classifier=sources
 - pkg:maven/org.jberet/jberet-se@1.1.0.Final
 - pkg:maven/org.jberet/jberet-se@1.1.0.Final?classifier=sources
+- pkg:maven/org.jberet/jberet-se@1.2.0.Alpha1
+- pkg:maven/org.jberet/jberet-se@1.2.0.Alpha1?classifier=sources

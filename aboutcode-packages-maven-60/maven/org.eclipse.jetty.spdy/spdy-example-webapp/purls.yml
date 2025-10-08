@@ -88,3 +88,5 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.11.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.11.v20150529?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.11.v20150529?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.12.M0?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.12.M0?classifier=sources

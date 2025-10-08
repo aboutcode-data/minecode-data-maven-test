@@ -6,3 +6,5 @@
 - pkg:maven/org.kitesdk/kite-data-hive@0.18.0?classifier=sources
 - pkg:maven/org.kitesdk/kite-data-hive@1.0.0
 - pkg:maven/org.kitesdk/kite-data-hive@1.0.0?classifier=sources
+- pkg:maven/org.kitesdk/kite-data-hive@1.1.0
+- pkg:maven/org.kitesdk/kite-data-hive@1.1.0?classifier=sources
