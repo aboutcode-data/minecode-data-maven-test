@@ -218,3 +218,7 @@
 - pkg:maven/org.jgroups/jgroups@3.5.0.Beta9?classifier=sources
 - pkg:maven/org.jgroups/jgroups@3.5.0.Beta8
 - pkg:maven/org.jgroups/jgroups@3.5.0.Beta8?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.5.0.CR2
+- pkg:maven/org.jgroups/jgroups@3.5.0.CR2?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.5.0.CR1
+- pkg:maven/org.jgroups/jgroups@3.5.0.CR1?classifier=sources

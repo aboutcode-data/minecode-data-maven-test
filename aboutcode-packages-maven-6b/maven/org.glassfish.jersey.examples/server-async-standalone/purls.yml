@@ -14,3 +14,5 @@
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.9.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.10?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.10.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.11?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.10.2?classifier=project-src&type=zip

@@ -21,3 +21,7 @@
 - pkg:maven/org.carrot2/elasticsearch-carrot2@1.5.0?classifier=sources
 - pkg:maven/org.carrot2/elasticsearch-carrot2@1.6.0?type=zip
 - pkg:maven/org.carrot2/elasticsearch-carrot2@1.6.0?classifier=sources
+- pkg:maven/org.carrot2/elasticsearch-carrot2@1.7.0?type=zip
+- pkg:maven/org.carrot2/elasticsearch-carrot2@1.7.0?classifier=sources
+- pkg:maven/org.carrot2/elasticsearch-carrot2@1.6.1?type=zip
+- pkg:maven/org.carrot2/elasticsearch-carrot2@1.6.1?classifier=sources
