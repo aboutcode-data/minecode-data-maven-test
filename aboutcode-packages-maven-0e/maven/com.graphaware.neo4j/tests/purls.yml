@@ -46,3 +46,5 @@
 - pkg:maven/com.graphaware.neo4j/tests@2.1.6.27?classifier=sources
 - pkg:maven/com.graphaware.neo4j/tests@2.1.7.28
 - pkg:maven/com.graphaware.neo4j/tests@2.1.7.28?classifier=sources
+- pkg:maven/com.graphaware.neo4j/tests@2.2.0.28
+- pkg:maven/com.graphaware.neo4j/tests@2.2.0.28?classifier=sources

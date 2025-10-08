@@ -10,3 +10,5 @@
 - pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha4?classifier=sources
 - pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha6?type=war
 - pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha6?classifier=sources
+- pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha7?type=war
+- pkg:maven/de.escalon.hypermedia/webapp@0.2.0-alpha7?classifier=sources

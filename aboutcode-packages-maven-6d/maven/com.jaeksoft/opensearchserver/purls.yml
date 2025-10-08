@@ -25,3 +25,5 @@
 - pkg:maven/com.jaeksoft/opensearchserver@1.5.10?classifier=sources
 - pkg:maven/com.jaeksoft/opensearchserver@1.5.11?type=war
 - pkg:maven/com.jaeksoft/opensearchserver@1.5.11?classifier=sources
+- pkg:maven/com.jaeksoft/opensearchserver@1.5.12?type=war
+- pkg:maven/com.jaeksoft/opensearchserver@1.5.12?classifier=sources

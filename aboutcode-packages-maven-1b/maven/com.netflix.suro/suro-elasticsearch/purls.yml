@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.suro/suro-elasticsearch@0.2.9
 - pkg:maven/com.netflix.suro/suro-elasticsearch@0.2.9?classifier=sources
+- pkg:maven/com.netflix.suro/suro-elasticsearch@0.2.10-rc.1
+- pkg:maven/com.netflix.suro/suro-elasticsearch@0.2.10-rc.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cisco.oss.foundation.queue/queue-rabbitmq@1.0.4-2
+- pkg:maven/com.cisco.oss.foundation.queue/queue-rabbitmq@1.0.4-2?classifier=sources
+- pkg:maven/com.cisco.oss.foundation.queue/queue-rabbitmq@1.0.3-1
+- pkg:maven/com.cisco.oss.foundation.queue/queue-rabbitmq@1.0.3-1?classifier=sources

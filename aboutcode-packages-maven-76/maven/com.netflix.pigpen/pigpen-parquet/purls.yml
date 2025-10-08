@@ -16,3 +16,5 @@
 - pkg:maven/com.netflix.pigpen/pigpen-parquet@0.2.15?classifier=sources
 - pkg:maven/com.netflix.pigpen/pigpen-parquet@0.2.14
 - pkg:maven/com.netflix.pigpen/pigpen-parquet@0.2.14?classifier=sources
+- pkg:maven/com.netflix.pigpen/pigpen-parquet@0.3.0-rc.1
+- pkg:maven/com.netflix.pigpen/pigpen-parquet@0.3.0-rc.1?classifier=sources
