@@ -74,3 +74,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam@3.5.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam@4.0.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam@4.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam@4.1.0
+- pkg:maven/org.ops4j.pax.exam/pax-exam@4.1.0?classifier=sources

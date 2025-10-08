@@ -46,3 +46,5 @@
 - pkg:maven/org.ow2.petals/petals-cdk-core@5.1.2?classifier=sources
 - pkg:maven/org.ow2.petals/petals-cdk-core@5.4.0?type=zip
 - pkg:maven/org.ow2.petals/petals-cdk-core@5.4.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-cdk-core@5.4.1?type=zip
+- pkg:maven/org.ow2.petals/petals-cdk-core@5.4.1?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/com.basho.riak/riak-client@1.4.4?classifier=sources
 - pkg:maven/com.basho.riak/riak-client@1.1.4
 - pkg:maven/com.basho.riak/riak-client@1.1.4?classifier=sources
+- pkg:maven/com.basho.riak/riak-client@2.0.0.RC1
+- pkg:maven/com.basho.riak/riak-client@2.0.0.RC1?classifier=sources
