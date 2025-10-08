@@ -2,3 +2,7 @@
 - pkg:maven/io.ifar.skid-road/skid-road-jdbi@4?classifier=sources
 - pkg:maven/io.ifar.skid-road/skid-road-jdbi@3
 - pkg:maven/io.ifar.skid-road/skid-road-jdbi@3?classifier=sources
+- pkg:maven/io.ifar.skid-road/skid-road-jdbi@6
+- pkg:maven/io.ifar.skid-road/skid-road-jdbi@6?classifier=sources
+- pkg:maven/io.ifar.skid-road/skid-road-jdbi@4.1
+- pkg:maven/io.ifar.skid-road/skid-road-jdbi@4.1?classifier=sources

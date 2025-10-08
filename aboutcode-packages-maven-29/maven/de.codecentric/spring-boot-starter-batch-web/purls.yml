@@ -1,2 +1,4 @@
 - pkg:maven/de.codecentric/spring-boot-starter-batch-web@1.0.0.RELEASE
 - pkg:maven/de.codecentric/spring-boot-starter-batch-web@1.0.0.RELEASE?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-starter-batch-web@1.1.0.RELEASE
+- pkg:maven/de.codecentric/spring-boot-starter-batch-web@1.1.0.RELEASE?classifier=sources

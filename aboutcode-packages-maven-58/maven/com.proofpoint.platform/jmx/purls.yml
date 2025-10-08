@@ -112,3 +112,5 @@
 - pkg:maven/com.proofpoint.platform/jmx@1.00?classifier=sources
 - pkg:maven/com.proofpoint.platform/jmx@1.01
 - pkg:maven/com.proofpoint.platform/jmx@1.01?classifier=sources
+- pkg:maven/com.proofpoint.platform/jmx@1.02
+- pkg:maven/com.proofpoint.platform/jmx@1.02?classifier=sources
