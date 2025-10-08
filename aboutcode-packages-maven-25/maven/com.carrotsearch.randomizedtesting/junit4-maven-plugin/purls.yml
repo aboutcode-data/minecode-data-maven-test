@@ -48,3 +48,7 @@
 - pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.10?classifier=sources
 - pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.11
 - pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.11?classifier=sources
+- pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.13
+- pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.13?classifier=sources
+- pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.12
+- pkg:maven/com.carrotsearch.randomizedtesting/junit4-maven-plugin@2.0.12?classifier=sources

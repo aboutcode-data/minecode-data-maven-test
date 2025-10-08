@@ -94,3 +94,11 @@
 - pkg:maven/org.scalatest/scalatest_2.10@2.0.RC2?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.10@2.0.RC3
 - pkg:maven/org.scalatest/scalatest_2.10@2.0.RC3?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP3
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP3?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP2
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP2?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.10@2.0
+- pkg:maven/org.scalatest/scalatest_2.10@2.0?classifier=sources
