@@ -60,3 +60,5 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.6.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.5.5.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.5.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.7.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.7.0.RELEASE?classifier=sources
