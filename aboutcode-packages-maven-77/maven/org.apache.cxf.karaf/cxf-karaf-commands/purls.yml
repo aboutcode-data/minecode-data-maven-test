@@ -76,3 +76,7 @@
 - pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@2.6.12?classifier=sources
 - pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@3.0.0-milestone2
 - pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@3.0.0-milestone2?classifier=sources
+- pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@2.7.11
+- pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@2.7.11?classifier=sources
+- pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@2.6.14
+- pkg:maven/org.apache.cxf.karaf/cxf-karaf-commands@2.6.14?classifier=sources
