@@ -123,3 +123,5 @@
 - pkg:maven/org.grails/grails-spring@2.4.3?classifier=sources
 - pkg:maven/org.grails/grails-spring@2.4.4
 - pkg:maven/org.grails/grails-spring@2.4.4?classifier=sources
+- pkg:maven/org.grails/grails-spring@3.0.0.RC2
+- pkg:maven/org.grails/grails-spring@3.0.0.RC2?classifier=sources

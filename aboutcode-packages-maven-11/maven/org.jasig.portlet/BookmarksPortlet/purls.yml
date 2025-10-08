@@ -16,3 +16,5 @@
 - pkg:maven/org.jasig.portlet/BookmarksPortlet@1.0.14?classifier=sources
 - pkg:maven/org.jasig.portlet/BookmarksPortlet@1.0.15?type=war
 - pkg:maven/org.jasig.portlet/BookmarksPortlet@1.0.15?classifier=sources
+- pkg:maven/org.jasig.portlet/BookmarksPortlet@1.1.0-M1?type=war
+- pkg:maven/org.jasig.portlet/BookmarksPortlet@1.1.0-M1?classifier=sources

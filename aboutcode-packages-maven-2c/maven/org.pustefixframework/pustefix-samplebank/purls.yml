@@ -220,3 +220,5 @@
 - pkg:maven/org.pustefixframework/pustefix-samplebank@0.19.4?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-samplebank@0.18.87?type=war
 - pkg:maven/org.pustefixframework/pustefix-samplebank@0.18.87?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-samplebank@0.18.88?type=war
+- pkg:maven/org.pustefixframework/pustefix-samplebank@0.18.88?classifier=sources

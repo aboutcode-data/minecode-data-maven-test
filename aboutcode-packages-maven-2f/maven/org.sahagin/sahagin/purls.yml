@@ -23,3 +23,4 @@
 - pkg:maven/org.sahagin/sahagin@0.5
 - pkg:maven/org.sahagin/sahagin@0.5?classifier=sources
 - pkg:maven/org.sahagin/sahagin@0.6
+- pkg:maven/org.sahagin/sahagin@0.6?classifier=sources

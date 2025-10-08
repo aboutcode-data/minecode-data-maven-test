@@ -34,3 +34,5 @@
 - pkg:maven/org.glassfish.corba/glassfish-corba-orb@4.0.0-b008?classifier=sources
 - pkg:maven/org.glassfish.corba/glassfish-corba-orb@3.1.2-b002
 - pkg:maven/org.glassfish.corba/glassfish-corba-orb@3.1.2-b002?classifier=sources
+- pkg:maven/org.glassfish.corba/glassfish-corba-orb@4.0.1
+- pkg:maven/org.glassfish.corba/glassfish-corba-orb@4.0.1?classifier=sources
