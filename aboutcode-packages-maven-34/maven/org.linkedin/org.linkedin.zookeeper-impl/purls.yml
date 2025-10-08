@@ -10,3 +10,5 @@
 - pkg:maven/org.linkedin/org.linkedin.zookeeper-impl@1.2.0?classifier=sources
 - pkg:maven/org.linkedin/org.linkedin.zookeeper-impl@1.1.0
 - pkg:maven/org.linkedin/org.linkedin.zookeeper-impl@1.1.0?classifier=sources
+- pkg:maven/org.linkedin/org.linkedin.zookeeper-impl@1.4.1
+- pkg:maven/org.linkedin/org.linkedin.zookeeper-impl@1.4.1?classifier=sources

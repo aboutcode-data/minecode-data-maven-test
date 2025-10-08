@@ -8,3 +8,5 @@
 - pkg:maven/net.disy.legato/legato-testing@0.9?classifier=sources
 - pkg:maven/net.disy.legato/legato-testing@1.1.2
 - pkg:maven/net.disy.legato/legato-testing@1.1.2?classifier=sources
+- pkg:maven/net.disy.legato/legato-testing@1.2.0
+- pkg:maven/net.disy.legato/legato-testing@1.2.0?classifier=sources
