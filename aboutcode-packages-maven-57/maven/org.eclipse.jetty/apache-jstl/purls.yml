@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.2.12.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.2.12.v20150709
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.2.12.v20150709?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jstl@9.3.1.v20150714
+- pkg:maven/org.eclipse.jetty/apache-jstl@9.3.1.v20150714?classifier=sources

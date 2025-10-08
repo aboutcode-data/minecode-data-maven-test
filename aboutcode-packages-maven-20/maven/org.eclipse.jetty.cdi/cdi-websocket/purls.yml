@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.0.RC1?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.0.v20150612
 - pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.0.v20150612?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.1.v20150714
+- pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.1.v20150714?classifier=sources

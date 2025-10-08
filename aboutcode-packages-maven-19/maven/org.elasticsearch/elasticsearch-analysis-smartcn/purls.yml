@@ -42,3 +42,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@2.4.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@2.6.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@2.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@2.7.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-smartcn@2.7.0?classifier=sources
