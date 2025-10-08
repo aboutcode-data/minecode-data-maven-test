@@ -87,3 +87,4 @@
 - pkg:maven/org.apache.tomcat/tomcat-jasper@8.0.9
 - pkg:maven/org.apache.tomcat/tomcat-jasper@8.0.9?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jasper@7.0.55
+- pkg:maven/org.apache.tomcat/tomcat-jasper@7.0.55?classifier=sources

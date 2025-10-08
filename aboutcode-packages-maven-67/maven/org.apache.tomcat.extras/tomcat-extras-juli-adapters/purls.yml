@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.54?classifier=sources
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@8.0.9
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@8.0.9?classifier=sources
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.55
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.55?classifier=sources
