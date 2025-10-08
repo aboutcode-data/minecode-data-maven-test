@@ -30,3 +30,5 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0-m10?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0-m11?type=war
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0-m11?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0-m12?type=war
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0-m12?classifier=sources
