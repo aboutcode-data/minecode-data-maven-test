@@ -1,2 +1,4 @@
 - pkg:maven/org.vertexium/vertexium-accumulo-iterators@0.10.0
 - pkg:maven/org.vertexium/vertexium-accumulo-iterators@0.10.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-accumulo-iterators@1.0.0
+- pkg:maven/org.vertexium/vertexium-accumulo-iterators@1.0.0?classifier=sources

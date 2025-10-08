@@ -1,2 +1,4 @@
 - pkg:maven/org.vertexium/vertexium-elasticsearch-plugin@0.10.0?type=zip
 - pkg:maven/org.vertexium/vertexium-elasticsearch-plugin@0.10.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch-plugin@1.0.0?type=zip
+- pkg:maven/org.vertexium/vertexium-elasticsearch-plugin@1.0.0?classifier=sources

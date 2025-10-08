@@ -100,3 +100,5 @@
 - pkg:maven/com.facebook.presto/presto-cli@0.101?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cli@0.102
 - pkg:maven/com.facebook.presto/presto-cli@0.102?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cli@0.103
+- pkg:maven/com.facebook.presto/presto-cli@0.103?classifier=sources
