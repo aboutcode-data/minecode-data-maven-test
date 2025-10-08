@@ -42,3 +42,5 @@
 - pkg:maven/org.codehaus.enunciate/enunciate-integration-jaxws-ri-rest-client@1.17-RC1?classifier=sources
 - pkg:maven/org.codehaus.enunciate/enunciate-integration-jaxws-ri-rest-client@1.17
 - pkg:maven/org.codehaus.enunciate/enunciate-integration-jaxws-ri-rest-client@1.17?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-integration-jaxws-ri-rest-client@1.25-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-integration-jaxws-ri-rest-client@1.25-RC1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.2.0-b006
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.2.0-b006?classifier=sources
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.0-b032
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.0-b032?classifier=sources

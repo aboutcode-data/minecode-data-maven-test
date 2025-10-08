@@ -121,3 +121,5 @@
 - pkg:maven/org.codehaus.enunciate/enunciate-docs@1.10?classifier=sources
 - pkg:maven/org.codehaus.enunciate/enunciate-docs@1.1-RC1
 - pkg:maven/org.codehaus.enunciate/enunciate-docs@1.1
+- pkg:maven/org.codehaus.enunciate/enunciate-docs@1.25-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-docs@1.25-RC1?classifier=sources

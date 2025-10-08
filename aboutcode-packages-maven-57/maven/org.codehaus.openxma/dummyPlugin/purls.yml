@@ -10,3 +10,5 @@
 - pkg:maven/org.codehaus.openxma/dummyPlugin@1.2.3?classifier=sources
 - pkg:maven/org.codehaus.openxma/dummyPlugin@4.1.0?type=war
 - pkg:maven/org.codehaus.openxma/dummyPlugin@4.1.0?classifier=sources
+- pkg:maven/org.codehaus.openxma/dummyPlugin@4.1.1?type=war
+- pkg:maven/org.codehaus.openxma/dummyPlugin@4.1.1?classifier=sources

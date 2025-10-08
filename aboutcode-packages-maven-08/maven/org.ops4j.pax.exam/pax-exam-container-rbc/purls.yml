@@ -32,3 +32,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@1.1.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@1.0.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@1.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@2.3.0
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@2.3.0?classifier=sources

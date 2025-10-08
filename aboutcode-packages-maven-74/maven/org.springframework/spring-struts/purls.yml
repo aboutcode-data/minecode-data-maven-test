@@ -26,3 +26,5 @@
 - pkg:maven/org.springframework/spring-struts@2.0-rc1?classifier=sources
 - pkg:maven/org.springframework/spring-struts@2.0-m5
 - pkg:maven/org.springframework/spring-struts@2.0
+- pkg:maven/org.springframework/spring-struts@3.1.0.RELEASE
+- pkg:maven/org.springframework/spring-struts@3.1.0.RELEASE?classifier=sources

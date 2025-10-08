@@ -86,3 +86,7 @@
 - pkg:maven/org.mvel/mvel2@2.1.0.drools4?classifier=sources
 - pkg:maven/org.mvel/mvel2@2.1.Beta7
 - pkg:maven/org.mvel/mvel2@2.1.Beta7?classifier=sources
+- pkg:maven/org.mvel/mvel2@2.1.0.drools6
+- pkg:maven/org.mvel/mvel2@2.1.0.drools6?classifier=sources
+- pkg:maven/org.mvel/mvel2@2.1.0.drools5
+- pkg:maven/org.mvel/mvel2@2.1.0.drools5?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.6.1?classifier=sources
 - pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.7
 - pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.7?classifier=sources
+- pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.8.2
+- pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.8.2?classifier=sources
+- pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.8
+- pkg:maven/org.leberrigaud.maven.plugins/database-maven-plugin@0.8?classifier=sources
