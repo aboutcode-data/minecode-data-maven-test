@@ -44,3 +44,5 @@
 - pkg:maven/io.airlift/bootstrap@0.86?classifier=sources
 - pkg:maven/io.airlift/bootstrap@0.87
 - pkg:maven/io.airlift/bootstrap@0.87?classifier=sources
+- pkg:maven/io.airlift/bootstrap@0.88
+- pkg:maven/io.airlift/bootstrap@0.88?classifier=sources

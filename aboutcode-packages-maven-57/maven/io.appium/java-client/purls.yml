@@ -1,2 +1,6 @@
 - pkg:maven/io.appium/java-client@1.0
 - pkg:maven/io.appium/java-client@1.0?classifier=sources
+- pkg:maven/io.appium/java-client@1.0.2
+- pkg:maven/io.appium/java-client@1.0.2?classifier=sources
+- pkg:maven/io.appium/java-client@1.0.1
+- pkg:maven/io.appium/java-client@1.0.1?classifier=sources
