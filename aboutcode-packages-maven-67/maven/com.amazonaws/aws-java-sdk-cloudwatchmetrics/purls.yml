@@ -86,3 +86,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchmetrics@1.9.40?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchmetrics@1.10.0
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchmetrics@1.10.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchmetrics@1.10.1
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchmetrics@1.10.1?classifier=sources

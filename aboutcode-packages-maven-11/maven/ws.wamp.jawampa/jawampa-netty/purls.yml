@@ -1,0 +1,4 @@
+- pkg:maven/ws.wamp.jawampa/jawampa-netty@0.4.0-STAGING
+- pkg:maven/ws.wamp.jawampa/jawampa-netty@0.4.0-STAGING?classifier=sources
+- pkg:maven/ws.wamp.jawampa/jawampa-netty@0.4.0
+- pkg:maven/ws.wamp.jawampa/jawampa-netty@0.4.0?classifier=sources
