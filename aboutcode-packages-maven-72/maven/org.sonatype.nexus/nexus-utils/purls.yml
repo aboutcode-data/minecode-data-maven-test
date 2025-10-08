@@ -96,3 +96,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-utils@2.0.4-1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-utils@2.0.5
 - pkg:maven/org.sonatype.nexus/nexus-utils@2.0.5?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-utils@2.0.6
+- pkg:maven/org.sonatype.nexus/nexus-utils@2.0.6?classifier=sources

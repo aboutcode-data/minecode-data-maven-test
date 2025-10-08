@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.tuscany.sca/tuscany-host-corba-jee@1.6
 - pkg:maven/org.apache.tuscany.sca/tuscany-host-corba-jee@1.5.1
 - pkg:maven/org.apache.tuscany.sca/tuscany-host-corba-jee@1.5
+- pkg:maven/org.apache.tuscany.sca/tuscany-host-corba-jee@2.0
+- pkg:maven/org.apache.tuscany.sca/tuscany-host-corba-jee@2.0?classifier=sources

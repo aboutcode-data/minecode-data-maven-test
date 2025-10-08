@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.tuscany.sca/tuscany-extensibility-equinox@1.6
 - pkg:maven/org.apache.tuscany.sca/tuscany-extensibility-equinox@1.5
 - pkg:maven/org.apache.tuscany.sca/tuscany-extensibility-equinox@1.4
+- pkg:maven/org.apache.tuscany.sca/tuscany-extensibility-equinox@2.0
+- pkg:maven/org.apache.tuscany.sca/tuscany-extensibility-equinox@2.0?classifier=sources

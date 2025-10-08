@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift/cassandra-experimental@0.65
+- pkg:maven/io.airlift/cassandra-experimental@0.65?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.fluentlenium/fluentlenium-core@0.6-RC2?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-core@0.6.0
 - pkg:maven/org.fluentlenium/fluentlenium-core@0.6.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-core@0.7.0
+- pkg:maven/org.fluentlenium/fluentlenium-core@0.7.0?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/org.infinispan/infinispan-distexec-demo@5.1.5.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-distexec-demo@5.1.5.FINAL
 - pkg:maven/org.infinispan/infinispan-distexec-demo@5.1.5.FINAL?classifier=sources
+- pkg:maven/org.infinispan/infinispan-distexec-demo@5.2.0.ALPHA1
+- pkg:maven/org.infinispan/infinispan-distexec-demo@5.2.0.ALPHA1?classifier=sources
