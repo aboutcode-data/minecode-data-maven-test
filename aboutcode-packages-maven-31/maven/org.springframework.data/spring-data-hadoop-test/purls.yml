@@ -1,0 +1,6 @@
+- pkg:maven/org.springframework.data/spring-data-hadoop-test@2.0.0.RELEASE-hadoop24
+- pkg:maven/org.springframework.data/spring-data-hadoop-test@2.0.0.RELEASE-hadoop24?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-test@2.0.0.RELEASE-hadoop12
+- pkg:maven/org.springframework.data/spring-data-hadoop-test@2.0.0.RELEASE-hadoop12?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-test@2.0.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop-test@2.0.0.RELEASE?classifier=sources
