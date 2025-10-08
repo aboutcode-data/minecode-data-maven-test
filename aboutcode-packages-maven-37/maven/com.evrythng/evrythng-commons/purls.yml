@@ -6,3 +6,7 @@
 - pkg:maven/com.evrythng/evrythng-commons@1.18.1-BETA?classifier=sources
 - pkg:maven/com.evrythng/evrythng-commons@1.18.1-ALPHA
 - pkg:maven/com.evrythng/evrythng-commons@1.18.1-ALPHA?classifier=sources
+- pkg:maven/com.evrythng/evrythng-commons@1.18.2
+- pkg:maven/com.evrythng/evrythng-commons@1.18.2?classifier=sources
+- pkg:maven/com.evrythng/evrythng-commons@1.18.1
+- pkg:maven/com.evrythng/evrythng-commons@1.18.1?classifier=sources

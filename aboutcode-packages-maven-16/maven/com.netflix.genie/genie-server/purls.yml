@@ -34,3 +34,5 @@
 - pkg:maven/com.netflix.genie/genie-server@2.2.0-rc.2?classifier=sources
 - pkg:maven/com.netflix.genie/genie-server@2.2.0
 - pkg:maven/com.netflix.genie/genie-server@2.2.0?classifier=sources
+- pkg:maven/com.netflix.genie/genie-server@2.2.1
+- pkg:maven/com.netflix.genie/genie-server@2.2.1?classifier=sources
