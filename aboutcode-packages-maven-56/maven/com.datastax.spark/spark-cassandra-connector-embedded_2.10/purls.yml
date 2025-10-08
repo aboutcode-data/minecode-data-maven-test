@@ -18,3 +18,5 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.1.0-rc2?classifier=sources
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.1.0
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.1.0?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.1.1
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-embedded_2.10@1.1.1?classifier=sources

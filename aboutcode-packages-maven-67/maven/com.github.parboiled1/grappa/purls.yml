@@ -20,3 +20,5 @@
 - pkg:maven/com.github.parboiled1/grappa@1.0.0-beta.11?classifier=sources
 - pkg:maven/com.github.parboiled1/grappa@1.0.0-beta.10
 - pkg:maven/com.github.parboiled1/grappa@1.0.0-beta.10?classifier=sources
+- pkg:maven/com.github.parboiled1/grappa@1.0.0
+- pkg:maven/com.github.parboiled1/grappa@1.0.0?classifier=sources

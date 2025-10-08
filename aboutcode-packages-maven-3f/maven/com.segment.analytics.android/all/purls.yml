@@ -46,3 +46,5 @@
 - pkg:maven/com.segment.analytics.android/all@2.4.4?classifier=sources
 - pkg:maven/com.segment.analytics.android/all@2.5.0?type=aar
 - pkg:maven/com.segment.analytics.android/all@2.5.0?classifier=sources
+- pkg:maven/com.segment.analytics.android/all@2.5.1?type=aar
+- pkg:maven/com.segment.analytics.android/all@2.5.1?classifier=sources
