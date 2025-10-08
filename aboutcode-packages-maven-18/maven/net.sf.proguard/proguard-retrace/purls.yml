@@ -20,3 +20,5 @@
 - pkg:maven/net.sf.proguard/proguard-retrace@4.10?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-retrace@4.11
 - pkg:maven/net.sf.proguard/proguard-retrace@4.11?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-retrace@5.0
+- pkg:maven/net.sf.proguard/proguard-retrace@5.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/net.sf.proguard/proguard-gradle@4.10?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-gradle@4.11
 - pkg:maven/net.sf.proguard/proguard-gradle@4.11?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-gradle@5.0
+- pkg:maven/net.sf.proguard/proguard-gradle@5.0?classifier=sources

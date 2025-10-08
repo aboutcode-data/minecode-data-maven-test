@@ -40,3 +40,5 @@
 - pkg:maven/org.requs/requs-core@1.14?classifier=sources
 - pkg:maven/org.requs/requs-core@1.13
 - pkg:maven/org.requs/requs-core@1.13?classifier=sources
+- pkg:maven/org.requs/requs-core@1.14.1
+- pkg:maven/org.requs/requs-core@1.14.1?classifier=sources

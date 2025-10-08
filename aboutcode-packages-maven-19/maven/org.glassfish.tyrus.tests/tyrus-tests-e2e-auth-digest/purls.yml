@@ -1,2 +1,6 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8.2
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8.2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8.1
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.keycloak/keycloak-social-github@1.0-beta-3?classifier=sources
 - pkg:maven/org.keycloak/keycloak-social-github@1.0-beta-4
 - pkg:maven/org.keycloak/keycloak-social-github@1.0-beta-4?classifier=sources
+- pkg:maven/org.keycloak/keycloak-social-github@1.0-rc-1
+- pkg:maven/org.keycloak/keycloak-social-github@1.0-rc-1?classifier=sources

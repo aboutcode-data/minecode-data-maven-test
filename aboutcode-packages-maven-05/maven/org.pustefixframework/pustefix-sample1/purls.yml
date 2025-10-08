@@ -182,3 +182,5 @@
 - pkg:maven/org.pustefixframework/pustefix-sample1@0.18.68?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-sample1@0.18.69?type=war
 - pkg:maven/org.pustefixframework/pustefix-sample1@0.18.69?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-sample1@0.18.70?type=war
+- pkg:maven/org.pustefixframework/pustefix-sample1@0.18.70?classifier=sources

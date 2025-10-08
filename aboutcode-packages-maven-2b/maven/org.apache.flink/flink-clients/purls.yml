@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.flink/flink-clients@0.6-incubating
+- pkg:maven/org.apache.flink/flink-clients@0.6-incubating?classifier=sources
+- pkg:maven/org.apache.flink/flink-clients@0.6-hadoop2-incubating
+- pkg:maven/org.apache.flink/flink-clients@0.6-hadoop2-incubating?classifier=sources

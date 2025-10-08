@@ -88,3 +88,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-coyote@8.0.9?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.55
 - pkg:maven/org.apache.tomcat/tomcat-coyote@7.0.55?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-coyote@8.0.11
+- pkg:maven/org.apache.tomcat/tomcat-coyote@8.0.11?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.7?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.8?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.8?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.8.2?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.8.2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.8.1?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-remote@1.8.1?classifier=sources
