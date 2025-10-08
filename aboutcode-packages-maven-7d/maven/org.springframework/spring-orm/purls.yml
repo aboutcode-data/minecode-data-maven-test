@@ -135,3 +135,7 @@
 - pkg:maven/org.springframework/spring-orm@4.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@4.1.6.RELEASE
 - pkg:maven/org.springframework/spring-orm@4.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@4.1.7.RELEASE
+- pkg:maven/org.springframework/spring-orm@4.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@3.2.14.RELEASE
+- pkg:maven/org.springframework/spring-orm@3.2.14.RELEASE?classifier=sources

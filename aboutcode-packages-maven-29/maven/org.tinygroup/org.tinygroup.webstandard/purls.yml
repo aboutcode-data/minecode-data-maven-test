@@ -16,3 +16,7 @@
 - pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.4?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.3?type=war
 - pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.3?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.6?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.6?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.5?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.webstandard@2.0.5?classifier=sources

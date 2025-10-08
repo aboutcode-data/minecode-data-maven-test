@@ -80,3 +80,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@1.5.13?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@6.20.0
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@6.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-push-cometd@7.0.0-M6
+- pkg:maven/org.wicketstuff/wicketstuff-push-cometd@7.0.0-M6?classifier=sources
