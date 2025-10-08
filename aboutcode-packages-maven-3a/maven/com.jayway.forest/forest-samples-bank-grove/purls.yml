@@ -16,3 +16,5 @@
 - pkg:maven/com.jayway.forest/forest-samples-bank-grove@0.2.3.RELEASE?classifier=sources
 - pkg:maven/com.jayway.forest/forest-samples-bank-grove@0.2.4.RELEASE?type=war
 - pkg:maven/com.jayway.forest/forest-samples-bank-grove@0.2.4.RELEASE?classifier=sources
+- pkg:maven/com.jayway.forest/forest-samples-bank-grove@0.3.0.M2?type=war
+- pkg:maven/com.jayway.forest/forest-samples-bank-grove@0.3.0.M2?classifier=sources

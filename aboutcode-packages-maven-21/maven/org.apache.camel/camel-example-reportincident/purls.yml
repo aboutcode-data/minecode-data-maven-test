@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.camel/camel-example-reportincident@2.8.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-reportincident@2.9.0?type=war
 - pkg:maven/org.apache.camel/camel-example-reportincident@2.9.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-reportincident@2.7.5?type=war
+- pkg:maven/org.apache.camel/camel-example-reportincident@2.7.5?classifier=sources

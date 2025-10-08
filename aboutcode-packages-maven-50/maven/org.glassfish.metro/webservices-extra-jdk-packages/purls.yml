@@ -79,3 +79,6 @@
 - pkg:maven/org.glassfish.metro/webservices-extra-jdk-packages@2.2-b11
 - pkg:maven/org.glassfish.metro/webservices-extra-jdk-packages@2.2-b11?classifier=sources
 - pkg:maven/org.glassfish.metro/webservices-extra-jdk-packages@2.3-b04
+- pkg:maven/org.glassfish.metro/webservices-extra-jdk-packages@2.3-b04?classifier=sources
+- pkg:maven/org.glassfish.metro/webservices-extra-jdk-packages@2.2-b13
+- pkg:maven/org.glassfish.metro/webservices-extra-jdk-packages@2.2-b13?classifier=sources

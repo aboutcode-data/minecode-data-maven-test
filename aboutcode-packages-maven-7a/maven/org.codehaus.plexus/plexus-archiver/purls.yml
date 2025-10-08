@@ -28,3 +28,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-archiver@1.0-alpha-10?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-archiver@1.0
 - pkg:maven/org.codehaus.plexus/plexus-archiver@1.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-archiver@2.0.2
+- pkg:maven/org.codehaus.plexus/plexus-archiver@2.0.2?classifier=sources

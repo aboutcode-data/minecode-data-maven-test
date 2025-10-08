@@ -40,3 +40,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-rcm@2.1.8?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-rcm@2.2
 - pkg:maven/org.glassfish.grizzly/grizzly-rcm@2.2?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-rcm@2.2.1
+- pkg:maven/org.glassfish.grizzly/grizzly-rcm@2.2.1?classifier=sources
