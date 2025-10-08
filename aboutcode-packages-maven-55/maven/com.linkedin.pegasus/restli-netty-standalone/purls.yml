@@ -22,3 +22,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.15.12?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.15.18
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.15.18?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.20.0
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.20.0?classifier=sources

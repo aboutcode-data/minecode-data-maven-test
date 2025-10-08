@@ -50,3 +50,5 @@
 - pkg:maven/com.qulice/qulice-findbugs@0.9?classifier=sources
 - pkg:maven/com.qulice/qulice-findbugs@0.10
 - pkg:maven/com.qulice/qulice-findbugs@0.10?classifier=sources
+- pkg:maven/com.qulice/qulice-findbugs@0.11
+- pkg:maven/com.qulice/qulice-findbugs@0.11?classifier=sources
