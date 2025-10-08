@@ -32,3 +32,5 @@
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@1.1.5?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@2.0.0
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@2.0.0?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@2.0.1
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@2.0.1?classifier=sources

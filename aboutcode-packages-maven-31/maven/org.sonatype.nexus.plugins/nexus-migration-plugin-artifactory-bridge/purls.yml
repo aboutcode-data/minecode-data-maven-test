@@ -26,3 +26,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory-bridge@1.1.1?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory-bridge@1.9.2.4
 - pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory-bridge@1.9.2.4?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory-bridge@2.0
+- pkg:maven/org.sonatype.nexus.plugins/nexus-migration-plugin-artifactory-bridge@2.0?classifier=sources

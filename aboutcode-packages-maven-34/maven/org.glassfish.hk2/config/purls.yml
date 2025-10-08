@@ -50,3 +50,7 @@
 - pkg:maven/org.glassfish.hk2/config@1.1.14?classifier=sources
 - pkg:maven/org.glassfish.hk2/config@1.6.32
 - pkg:maven/org.glassfish.hk2/config@1.6.32?classifier=sources
+- pkg:maven/org.glassfish.hk2/config@1.6.33
+- pkg:maven/org.glassfish.hk2/config@1.6.33?classifier=sources
+- pkg:maven/org.glassfish.hk2/config@1.6.34
+- pkg:maven/org.glassfish.hk2/config@1.6.34?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.clojure/tools.nrepl@0.0.3?classifier=sources
 - pkg:maven/org.clojure/tools.nrepl@0.0.2
 - pkg:maven/org.clojure/tools.nrepl@0.0.2?classifier=sources
+- pkg:maven/org.clojure/tools.nrepl@0.2.0-beta1
+- pkg:maven/org.clojure/tools.nrepl@0.2.0-beta1?classifier=sources

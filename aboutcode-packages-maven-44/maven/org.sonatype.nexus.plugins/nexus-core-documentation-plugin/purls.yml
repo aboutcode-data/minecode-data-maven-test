@@ -15,3 +15,4 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-core-documentation-plugin@1.7.2?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-core-documentation-plugin@1.7.1?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-core-documentation-plugin@1.9.2.4?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-core-documentation-plugin@2.0?classifier=sources
