@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-streaming@0.23.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-streaming@0.23.5
 - pkg:maven/org.apache.hadoop/hadoop-streaming@0.23.5?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-streaming@1.1.1

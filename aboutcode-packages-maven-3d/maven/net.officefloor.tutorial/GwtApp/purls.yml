@@ -14,3 +14,5 @@
 - pkg:maven/net.officefloor.tutorial/GwtApp@2.4.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/GwtApp@2.5.0?type=war
 - pkg:maven/net.officefloor.tutorial/GwtApp@2.5.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/GwtApp@2.6.0?type=war
+- pkg:maven/net.officefloor.tutorial/GwtApp@2.6.0?classifier=sources

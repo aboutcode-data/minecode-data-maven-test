@@ -1,2 +1,4 @@
 - pkg:maven/org.dasein/dasein-cloud-atmos@2012.09
 - pkg:maven/org.dasein/dasein-cloud-atmos@2012.09?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-atmos@2013.01
+- pkg:maven/org.dasein/dasein-cloud-atmos@2013.01?classifier=sources

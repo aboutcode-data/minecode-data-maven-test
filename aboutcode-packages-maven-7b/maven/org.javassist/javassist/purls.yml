@@ -8,3 +8,5 @@
 - pkg:maven/org.javassist/javassist@3.16.1-GA?classifier=sources
 - pkg:maven/org.javassist/javassist@3.17.0-GA
 - pkg:maven/org.javassist/javassist@3.17.0-GA?classifier=sources
+- pkg:maven/org.javassist/javassist@3.17.1-GA
+- pkg:maven/org.javassist/javassist@3.17.1-GA?classifier=sources

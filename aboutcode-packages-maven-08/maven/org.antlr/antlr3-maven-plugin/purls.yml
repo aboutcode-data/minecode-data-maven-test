@@ -17,3 +17,5 @@
 - pkg:maven/org.antlr/antlr3-maven-plugin@3.1.1.2
 - pkg:maven/org.antlr/antlr3-maven-plugin@3.1.1.1
 - pkg:maven/org.antlr/antlr3-maven-plugin@3.1.1
+- pkg:maven/org.antlr/antlr3-maven-plugin@3.5-rc-1
+- pkg:maven/org.antlr/antlr3-maven-plugin@3.5-rc-1?classifier=sources
