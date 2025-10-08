@@ -19,3 +19,5 @@
 - pkg:maven/org.graniteds/granite-datanucleus@2.0.0.GA
 - pkg:maven/org.graniteds/granite-datanucleus@2.0.0.B2
 - pkg:maven/org.graniteds/granite-datanucleus@2.0.0.B1
+- pkg:maven/org.graniteds/granite-datanucleus@2.3.0.GA
+- pkg:maven/org.graniteds/granite-datanucleus@2.3.0.GA?classifier=sources

@@ -48,3 +48,9 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.19-beta2?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.19?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.19?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.39?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.39?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.38?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.38?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.37?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-websockets-chat@1.9.37?classifier=sources

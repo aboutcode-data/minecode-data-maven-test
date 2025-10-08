@@ -20,3 +20,5 @@
 - pkg:maven/org.graniteds/granite-generator@2.0.0.B2
 - pkg:maven/org.graniteds/granite-generator@1.2.0_SP1
 - pkg:maven/org.graniteds/granite-generator@1.2.0
+- pkg:maven/org.graniteds/granite-generator@2.3.0.GA
+- pkg:maven/org.graniteds/granite-generator@2.3.0.GA?classifier=sources

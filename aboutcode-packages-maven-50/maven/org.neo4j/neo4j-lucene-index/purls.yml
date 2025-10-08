@@ -44,3 +44,5 @@
 - pkg:maven/org.neo4j/neo4j-lucene-index@0.2-1.2.M02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-lucene-index@0.2-1.2
 - pkg:maven/org.neo4j/neo4j-lucene-index@0.2-1.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-lucene-index@1.5
+- pkg:maven/org.neo4j/neo4j-lucene-index@1.5?classifier=sources

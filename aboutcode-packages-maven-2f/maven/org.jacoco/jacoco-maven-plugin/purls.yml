@@ -1,2 +1,4 @@
 - pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.3.201107060350
 - pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.3.201107060350?classifier=sources
+- pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.4.201111111111
+- pkg:maven/org.jacoco/jacoco-maven-plugin@0.5.4.201111111111?classifier=sources

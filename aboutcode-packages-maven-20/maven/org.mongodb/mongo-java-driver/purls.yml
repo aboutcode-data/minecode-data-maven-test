@@ -57,3 +57,5 @@
 - pkg:maven/org.mongodb/mongo-java-driver@2.7.0-rc2?classifier=sources
 - pkg:maven/org.mongodb/mongo-java-driver@2.7.0
 - pkg:maven/org.mongodb/mongo-java-driver@2.7.0?classifier=sources
+- pkg:maven/org.mongodb/mongo-java-driver@2.7.1
+- pkg:maven/org.mongodb/mongo-java-driver@2.7.1?classifier=sources

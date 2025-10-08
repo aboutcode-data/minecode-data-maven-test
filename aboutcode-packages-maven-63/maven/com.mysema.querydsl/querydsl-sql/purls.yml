@@ -354,3 +354,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-sql@0.2.7?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-sql@0.2.6
 - pkg:maven/com.mysema.querydsl/querydsl-sql@0.2.6?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-sql@2.2.4
+- pkg:maven/com.mysema.querydsl/querydsl-sql@2.2.4?classifier=sources

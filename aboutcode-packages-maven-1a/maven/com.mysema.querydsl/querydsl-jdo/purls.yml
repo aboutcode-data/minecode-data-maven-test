@@ -56,3 +56,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-jdo@2.0.0-alpha-1?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-jdo@2.0.0
 - pkg:maven/com.mysema.querydsl/querydsl-jdo@2.0.0?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-jdo@2.2.4
+- pkg:maven/com.mysema.querydsl/querydsl-jdo@2.2.4?classifier=sources

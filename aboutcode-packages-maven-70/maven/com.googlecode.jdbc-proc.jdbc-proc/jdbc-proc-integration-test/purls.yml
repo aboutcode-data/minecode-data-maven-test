@@ -24,3 +24,5 @@
 - pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.0-38?classifier=sources
 - pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.0-40
 - pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.0-40?classifier=sources
+- pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.1-1
+- pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.1-1?classifier=sources

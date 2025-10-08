@@ -40,3 +40,5 @@
 - pkg:maven/org.neo4j/neo4j@1.2.M04?classifier=sources
 - pkg:maven/org.neo4j/neo4j@1.2
 - pkg:maven/org.neo4j/neo4j@1.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j@1.5
+- pkg:maven/org.neo4j/neo4j@1.5?classifier=sources

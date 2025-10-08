@@ -83,3 +83,5 @@
 - pkg:maven/org.jasig.cas/cas-server-support-spnego@3.1-m1
 - pkg:maven/org.jasig.cas/cas-server-support-spnego@3.1
 - pkg:maven/org.jasig.cas/cas-server-support-spnego@3.1?classifier=sources
+- pkg:maven/org.jasig.cas/cas-server-support-spnego@3.4.11
+- pkg:maven/org.jasig.cas/cas-server-support-spnego@3.4.11?classifier=sources

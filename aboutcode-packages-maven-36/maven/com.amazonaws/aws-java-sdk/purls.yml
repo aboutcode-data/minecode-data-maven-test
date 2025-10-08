@@ -70,3 +70,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk@1.0.000?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk@1.2.10
 - pkg:maven/com.amazonaws/aws-java-sdk@1.2.10?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk@1.2.11
+- pkg:maven/com.amazonaws/aws-java-sdk@1.2.11?classifier=sources
