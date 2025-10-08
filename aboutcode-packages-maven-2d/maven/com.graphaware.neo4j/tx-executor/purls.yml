@@ -42,3 +42,5 @@
 - pkg:maven/com.graphaware.neo4j/tx-executor@2.1.5.22?classifier=sources
 - pkg:maven/com.graphaware.neo4j/tx-executor@2.1.6.26
 - pkg:maven/com.graphaware.neo4j/tx-executor@2.1.6.26?classifier=sources
+- pkg:maven/com.graphaware.neo4j/tx-executor@2.1.6.27
+- pkg:maven/com.graphaware.neo4j/tx-executor@2.1.6.27?classifier=sources

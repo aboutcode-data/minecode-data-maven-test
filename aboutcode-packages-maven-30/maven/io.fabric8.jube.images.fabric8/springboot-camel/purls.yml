@@ -1,2 +1,8 @@
 - pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.20
 - pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.20?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.24
+- pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.24?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.23
+- pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.23?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.21
+- pkg:maven/io.fabric8.jube.images.fabric8/springboot-camel@2.0.21?classifier=sources

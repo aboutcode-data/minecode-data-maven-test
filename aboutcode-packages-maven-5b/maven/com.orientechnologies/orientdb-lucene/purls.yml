@@ -16,3 +16,5 @@
 - pkg:maven/com.orientechnologies/orientdb-lucene@2.0-rc2?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-lucene@1.7.10
 - pkg:maven/com.orientechnologies/orientdb-lucene@1.7.10?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-lucene@2.0
+- pkg:maven/com.orientechnologies/orientdb-lucene@2.0?classifier=sources
