@@ -122,3 +122,7 @@
 - pkg:maven/com.hazelcast/hazelcast@3.0-RC1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@3.0-RC2
 - pkg:maven/com.hazelcast/hazelcast@3.0-RC2?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@3.0
+- pkg:maven/com.hazelcast/hazelcast@3.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@2.6.1
+- pkg:maven/com.hazelcast/hazelcast@2.6.1?classifier=sources
