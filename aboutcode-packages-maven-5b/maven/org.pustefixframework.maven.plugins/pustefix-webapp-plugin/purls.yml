@@ -50,3 +50,5 @@
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-webapp-plugin@0.15.21?classifier=sources
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-webapp-plugin@0.15.20
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-webapp-plugin@0.15.20?classifier=sources
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-webapp-plugin@0.18.2
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-webapp-plugin@0.18.2?classifier=sources

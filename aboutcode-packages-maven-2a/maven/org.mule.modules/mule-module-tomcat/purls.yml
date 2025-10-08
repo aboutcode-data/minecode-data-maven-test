@@ -23,3 +23,5 @@
 - pkg:maven/org.mule.modules/mule-module-tomcat@3.0.0-M2?classifier=sources
 - pkg:maven/org.mule.modules/mule-module-tomcat@3.0.0
 - pkg:maven/org.mule.modules/mule-module-tomcat@3.0.0?classifier=sources
+- pkg:maven/org.mule.modules/mule-module-tomcat@3.2.1
+- pkg:maven/org.mule.modules/mule-module-tomcat@3.2.1?classifier=sources

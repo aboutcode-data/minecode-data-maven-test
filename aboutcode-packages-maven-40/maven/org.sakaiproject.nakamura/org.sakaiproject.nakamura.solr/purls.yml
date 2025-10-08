@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.solr@1.1
 - pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.solr@1.1?classifier=sources
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.solr@1.2
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.solr@1.2?classifier=sources

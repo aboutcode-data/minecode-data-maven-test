@@ -2,3 +2,5 @@
 - pkg:maven/javax.cache/implementation-tester@0.3?classifier=sources
 - pkg:maven/javax.cache/implementation-tester@0.2
 - pkg:maven/javax.cache/implementation-tester@0.2?classifier=sources
+- pkg:maven/javax.cache/implementation-tester@0.4
+- pkg:maven/javax.cache/implementation-tester@0.4?classifier=sources
