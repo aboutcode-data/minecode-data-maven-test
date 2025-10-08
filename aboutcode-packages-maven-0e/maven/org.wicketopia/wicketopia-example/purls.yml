@@ -4,3 +4,7 @@
 - pkg:maven/org.wicketopia/wicketopia-example@0.9.1?classifier=sources
 - pkg:maven/org.wicketopia/wicketopia-example@0.9?type=war
 - pkg:maven/org.wicketopia/wicketopia-example@0.9?classifier=sources
+- pkg:maven/org.wicketopia/wicketopia-example@1.1?type=war
+- pkg:maven/org.wicketopia/wicketopia-example@1.1?classifier=sources
+- pkg:maven/org.wicketopia/wicketopia-example@1.0?type=war
+- pkg:maven/org.wicketopia/wicketopia-example@1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/cc.redberry/groovy@1.1-RC0
 - pkg:maven/cc.redberry/groovy@1.1-RC0?classifier=sources
+- pkg:maven/cc.redberry/groovy@1.1
+- pkg:maven/cc.redberry/groovy@1.1?classifier=sources
