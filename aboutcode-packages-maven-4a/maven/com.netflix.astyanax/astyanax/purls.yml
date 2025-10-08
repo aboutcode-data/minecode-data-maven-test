@@ -18,3 +18,5 @@
 - pkg:maven/com.netflix.astyanax/astyanax@1.0.6?classifier=sources
 - pkg:maven/com.netflix.astyanax/astyanax@1.0.5
 - pkg:maven/com.netflix.astyanax/astyanax@1.0.5?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax@1.56.16
+- pkg:maven/com.netflix.astyanax/astyanax@1.56.16?classifier=sources
