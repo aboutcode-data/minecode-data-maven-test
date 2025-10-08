@@ -32,3 +32,5 @@
 - pkg:maven/com.hazelcast/hazelcast-hibernate3@3.2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-hibernate3@3.1.7
 - pkg:maven/com.hazelcast/hazelcast-hibernate3@3.1.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-hibernate3@3.2.1
+- pkg:maven/com.hazelcast/hazelcast-hibernate3@3.2.1?classifier=sources

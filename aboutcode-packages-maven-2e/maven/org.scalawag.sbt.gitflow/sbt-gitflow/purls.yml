@@ -1,0 +1,4 @@
+- pkg:maven/org.scalawag.sbt.gitflow/sbt-gitflow@1.1.0
+- pkg:maven/org.scalawag.sbt.gitflow/sbt-gitflow@1.1.0?classifier=sources
+- pkg:maven/org.scalawag.sbt.gitflow/sbt-gitflow@1.0.0
+- pkg:maven/org.scalawag.sbt.gitflow/sbt-gitflow@1.0.0?classifier=sources

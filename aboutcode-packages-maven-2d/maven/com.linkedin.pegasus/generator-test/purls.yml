@@ -24,3 +24,5 @@
 - pkg:maven/com.linkedin.pegasus/generator-test@1.15.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/generator-test@1.15.9
 - pkg:maven/com.linkedin.pegasus/generator-test@1.15.9?classifier=sources
+- pkg:maven/com.linkedin.pegasus/generator-test@1.15.12
+- pkg:maven/com.linkedin.pegasus/generator-test@1.15.12?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/cc.concurrent/mango@1.0
 - pkg:maven/cc.concurrent/mango@1.0?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.01
+- pkg:maven/cc.concurrent/mango@1.01?classifier=sources
