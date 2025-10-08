@@ -20,3 +20,5 @@
 - pkg:maven/pl.project13.maven/git-commit-id-plugin@1.0?classifier=sources
 - pkg:maven/pl.project13.maven/git-commit-id-plugin@2.0.2
 - pkg:maven/pl.project13.maven/git-commit-id-plugin@2.0.2?classifier=sources
+- pkg:maven/pl.project13.maven/git-commit-id-plugin@2.0.3
+- pkg:maven/pl.project13.maven/git-commit-id-plugin@2.0.3?classifier=sources

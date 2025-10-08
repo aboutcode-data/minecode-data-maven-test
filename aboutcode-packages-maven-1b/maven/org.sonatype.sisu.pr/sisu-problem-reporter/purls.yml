@@ -1,2 +1,4 @@
 - pkg:maven/org.sonatype.sisu.pr/sisu-problem-reporter@1.4
 - pkg:maven/org.sonatype.sisu.pr/sisu-problem-reporter@1.4?classifier=sources
+- pkg:maven/org.sonatype.sisu.pr/sisu-problem-reporter@1.5
+- pkg:maven/org.sonatype.sisu.pr/sisu-problem-reporter@1.5?classifier=sources

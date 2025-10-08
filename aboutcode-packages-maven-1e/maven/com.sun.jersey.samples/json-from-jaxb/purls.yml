@@ -87,3 +87,5 @@
 - pkg:maven/com.sun.jersey.samples/json-from-jaxb@1.11?classifier=sources
 - pkg:maven/com.sun.jersey.samples/json-from-jaxb@1.12-b01
 - pkg:maven/com.sun.jersey.samples/json-from-jaxb@1.12-b01?classifier=sources
+- pkg:maven/com.sun.jersey.samples/json-from-jaxb@1.12
+- pkg:maven/com.sun.jersey.samples/json-from-jaxb@1.12?classifier=sources

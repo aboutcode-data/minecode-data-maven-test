@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.servicemix/apache-servicemix@4.4.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix/apache-servicemix@3.4.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix/apache-servicemix@3.4.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix/apache-servicemix@4.4.1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix/apache-servicemix@4.4.1?classifier=src&type=tar.gz
