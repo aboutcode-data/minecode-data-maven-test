@@ -1,0 +1,4 @@
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.4.Final?type=war
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.4.Final?classifier=sources
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.2.Final?type=war
+- pkg:maven/org.keycloak.secretstore/secret-store@1.0.2.Final?classifier=sources

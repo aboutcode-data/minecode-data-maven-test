@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-irc@0.7.1.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-irc@0.7.1.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-irc@0.7.0.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-irc@0.7.0.Final?classifier=sources

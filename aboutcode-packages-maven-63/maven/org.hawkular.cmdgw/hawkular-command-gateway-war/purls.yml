@@ -18,3 +18,5 @@
 - pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-war@0.10.2.Final?classifier=sources
 - pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-war@0.10.4.Final?type=war
 - pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-war@0.10.4.Final?classifier=sources
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-war@0.10.5.Final?type=war
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-war@0.10.5.Final?classifier=sources
