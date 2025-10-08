@@ -26,3 +26,5 @@
 - pkg:maven/com.trip38.trip38lib/t38sdk@0.2.9.1?classifier=sources
 - pkg:maven/com.trip38.trip38lib/t38sdk@0.2.9?type=aar
 - pkg:maven/com.trip38.trip38lib/t38sdk@0.2.9?classifier=sources
+- pkg:maven/com.trip38.trip38lib/t38sdk@0.2.9.2?type=aar
+- pkg:maven/com.trip38.trip38lib/t38sdk@0.2.9.2?classifier=sources

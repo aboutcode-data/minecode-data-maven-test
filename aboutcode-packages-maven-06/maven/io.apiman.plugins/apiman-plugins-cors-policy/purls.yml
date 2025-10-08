@@ -14,3 +14,5 @@
 - pkg:maven/io.apiman.plugins/apiman-plugins-cors-policy@1.1.4.Final?classifier=sources
 - pkg:maven/io.apiman.plugins/apiman-plugins-cors-policy@1.1.5.Final?type=war
 - pkg:maven/io.apiman.plugins/apiman-plugins-cors-policy@1.1.5.Final?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-cors-policy@1.1.6.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-cors-policy@1.1.6.Final?classifier=sources

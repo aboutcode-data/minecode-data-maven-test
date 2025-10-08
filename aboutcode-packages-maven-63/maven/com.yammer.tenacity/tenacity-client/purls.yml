@@ -92,3 +92,7 @@
 - pkg:maven/com.yammer.tenacity/tenacity-client@0.6.10?classifier=sources
 - pkg:maven/com.yammer.tenacity/tenacity-client@0.5.13
 - pkg:maven/com.yammer.tenacity/tenacity-client@0.5.13?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-client@0.6.11
+- pkg:maven/com.yammer.tenacity/tenacity-client@0.6.11?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-client@0.5.14
+- pkg:maven/com.yammer.tenacity/tenacity-client@0.5.14?classifier=sources
