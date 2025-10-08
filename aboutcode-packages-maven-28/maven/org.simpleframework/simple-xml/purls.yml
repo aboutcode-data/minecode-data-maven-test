@@ -75,3 +75,5 @@
 - pkg:maven/org.simpleframework/simple-xml@1.4?classifier=sources
 - pkg:maven/org.simpleframework/simple-xml@2.6.2
 - pkg:maven/org.simpleframework/simple-xml@2.6.2?classifier=sources
+- pkg:maven/org.simpleframework/simple-xml@2.6.3
+- pkg:maven/org.simpleframework/simple-xml@2.6.3?classifier=sources

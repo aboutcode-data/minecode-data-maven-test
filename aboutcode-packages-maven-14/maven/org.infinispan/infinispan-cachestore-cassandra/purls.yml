@@ -35,3 +35,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-cassandra@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-cassandra@5.1.4.FINAL
 - pkg:maven/org.infinispan/infinispan-cachestore-cassandra@5.1.4.FINAL?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-cassandra@5.1.5.CR1
+- pkg:maven/org.infinispan/infinispan-cachestore-cassandra@5.1.5.CR1?classifier=sources

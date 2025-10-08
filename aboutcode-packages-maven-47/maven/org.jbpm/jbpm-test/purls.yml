@@ -2,3 +2,5 @@
 - pkg:maven/org.jbpm/jbpm-test@5.2.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-test@5.3.0.CR1
 - pkg:maven/org.jbpm/jbpm-test@5.3.0.CR1?classifier=sources
+- pkg:maven/org.jbpm/jbpm-test@5.3.0.Final
+- pkg:maven/org.jbpm/jbpm-test@5.3.0.Final?classifier=sources

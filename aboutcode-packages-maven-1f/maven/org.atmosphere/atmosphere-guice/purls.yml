@@ -73,3 +73,5 @@
 - pkg:maven/org.atmosphere/atmosphere-guice@0.9.3?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-guice@0.8.7
 - pkg:maven/org.atmosphere/atmosphere-guice@0.8.7?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-guice@0.9.4
+- pkg:maven/org.atmosphere/atmosphere-guice@0.9.4?classifier=sources

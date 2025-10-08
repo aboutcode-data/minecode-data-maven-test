@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.wink.example/Asset@1.0-incubating?classifier=sources
 - pkg:maven/org.apache.wink.example/Asset@0.1-incubating?type=war
 - pkg:maven/org.apache.wink.example/Asset@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.wink.example/Asset@1.2.0-incubating?type=war
+- pkg:maven/org.apache.wink.example/Asset@1.2.0-incubating?classifier=sources
