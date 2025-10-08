@@ -31,3 +31,6 @@
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.6?classifier=src&type=zip
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.6?classifier=src&type=tar.gz
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.6?classifier=sources
+- pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.7?classifier=src&type=zip
+- pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.7?classifier=src&type=tar.gz
+- pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.7?classifier=sources
