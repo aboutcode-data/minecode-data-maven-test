@@ -1,1 +1,3 @@
 - pkg:maven/org.wildfly/wildfly-servlet-dist@10.0.0.Alpha2?type=zip
+- pkg:maven/org.wildfly/wildfly-servlet-dist@9.0.0.CR2?type=zip
+- pkg:maven/org.wildfly/wildfly-servlet-dist@10.0.0.Alpha3?type=zip

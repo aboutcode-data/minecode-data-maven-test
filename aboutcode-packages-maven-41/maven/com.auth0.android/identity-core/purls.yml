@@ -22,3 +22,7 @@
 - pkg:maven/com.auth0.android/identity-core@1.7.0?classifier=sources
 - pkg:maven/com.auth0.android/identity-core@1.8.0?type=aar
 - pkg:maven/com.auth0.android/identity-core@1.8.0?classifier=sources
+- pkg:maven/com.auth0.android/identity-core@1.9.2?type=aar
+- pkg:maven/com.auth0.android/identity-core@1.9.2?classifier=sources
+- pkg:maven/com.auth0.android/identity-core@1.9.1?type=aar
+- pkg:maven/com.auth0.android/identity-core@1.9.1?classifier=sources
