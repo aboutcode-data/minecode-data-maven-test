@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container@1.0.2
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container@1.0.2?classifier=sources
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container@1.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container@2.0.0
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container@2.0.0?classifier=sources
