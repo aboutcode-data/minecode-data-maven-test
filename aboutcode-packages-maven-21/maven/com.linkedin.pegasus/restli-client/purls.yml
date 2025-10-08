@@ -30,3 +30,7 @@
 - pkg:maven/com.linkedin.pegasus/restli-client@1.15.18?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client@1.20.0
 - pkg:maven/com.linkedin.pegasus/restli-client@1.20.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client@2.2.5
+- pkg:maven/com.linkedin.pegasus/restli-client@2.2.5?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client@2.1.0
+- pkg:maven/com.linkedin.pegasus/restli-client@2.1.0?classifier=sources
