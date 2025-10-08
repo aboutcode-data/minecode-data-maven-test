@@ -6,3 +6,5 @@
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha3?classifier=sources
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha4?type=war
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha5?type=war
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha5?classifier=sources

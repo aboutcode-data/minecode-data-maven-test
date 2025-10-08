@@ -56,3 +56,5 @@
 - pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.21?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.21.1
 - pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.21.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.22
+- pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.22?classifier=sources
