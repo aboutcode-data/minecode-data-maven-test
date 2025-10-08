@@ -34,3 +34,5 @@
 - pkg:maven/io.fabric8.jube.images.wildfly/deployer@2.0.17?classifier=sources
 - pkg:maven/io.fabric8.jube.images.wildfly/deployer@2.0.16
 - pkg:maven/io.fabric8.jube.images.wildfly/deployer@2.0.16?classifier=sources
+- pkg:maven/io.fabric8.jube.images.wildfly/deployer@2.0.18
+- pkg:maven/io.fabric8.jube.images.wildfly/deployer@2.0.18?classifier=sources
