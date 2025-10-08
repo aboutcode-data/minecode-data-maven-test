@@ -186,3 +186,5 @@
 - pkg:maven/org.pustefixframework.editor/pustefix-editor-webui@0.18.70?classifier=sources
 - pkg:maven/org.pustefixframework.editor/pustefix-editor-webui@0.18.71?type=war
 - pkg:maven/org.pustefixframework.editor/pustefix-editor-webui@0.18.71?classifier=sources
+- pkg:maven/org.pustefixframework.editor/pustefix-editor-webui@0.18.72?type=war
+- pkg:maven/org.pustefixframework.editor/pustefix-editor-webui@0.18.72?classifier=sources

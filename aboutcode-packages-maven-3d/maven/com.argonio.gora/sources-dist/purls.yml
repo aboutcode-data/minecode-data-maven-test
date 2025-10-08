@@ -1,0 +1,4 @@
+- pkg:maven/com.argonio.gora/sources-dist@0.5
+- pkg:maven/com.argonio.gora/sources-dist@0.5?classifier=src&type=zip
+- pkg:maven/com.argonio.gora/sources-dist@0.5?classifier=src&type=tar.gz
+- pkg:maven/com.argonio.gora/sources-dist@0.5?classifier=sources

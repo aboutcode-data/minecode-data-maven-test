@@ -136,3 +136,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.9.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.9.1-01
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.9.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.9.2-01
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.9.2-01?classifier=sources
