@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta8?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta9
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta9?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-rc1
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-rc1?classifier=sources
