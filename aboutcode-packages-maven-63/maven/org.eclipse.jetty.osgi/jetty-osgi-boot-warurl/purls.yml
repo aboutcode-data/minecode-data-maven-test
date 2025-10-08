@@ -74,3 +74,7 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@7.0.2.v20100331?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@7.0.2.RC0
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@7.0.2.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@8.0.4.v20111024
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@8.0.4.v20111024?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@7.5.4.v20111024
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot-warurl@7.5.4.v20111024?classifier=sources

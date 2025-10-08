@@ -82,3 +82,5 @@
 - pkg:maven/org.mvel/mvel2@2.0?classifier=sources
 - pkg:maven/org.mvel/mvel2@2.1.0.drools3
 - pkg:maven/org.mvel/mvel2@2.1.0.drools3?classifier=sources
+- pkg:maven/org.mvel/mvel2@2.1.0.drools4
+- pkg:maven/org.mvel/mvel2@2.1.0.drools4?classifier=sources

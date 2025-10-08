@@ -69,3 +69,5 @@
 - pkg:maven/com.sun.jersey.samples/simple-servlet@0.9-ea?type=war
 - pkg:maven/com.sun.jersey.samples/simple-servlet@1.10-b03?type=war
 - pkg:maven/com.sun.jersey.samples/simple-servlet@1.10-b03?classifier=sources
+- pkg:maven/com.sun.jersey.samples/simple-servlet@1.10-b04?type=war
+- pkg:maven/com.sun.jersey.samples/simple-servlet@1.10-b04?classifier=sources

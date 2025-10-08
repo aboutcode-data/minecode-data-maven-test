@@ -56,3 +56,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-jsp-2.1@7.1.0.RC1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jsp-2.1@7.1.0.RC0
 - pkg:maven/org.eclipse.jetty/jetty-jsp-2.1@7.1.0.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jsp-2.1@7.5.4.v20111024
+- pkg:maven/org.eclipse.jetty/jetty-jsp-2.1@7.5.4.v20111024?classifier=sources

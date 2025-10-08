@@ -34,3 +34,7 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@7.4.2.v20110526?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@7.4.1.v20110513?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@7.4.1.v20110513?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@8.0.4.v20111024?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@8.0.4.v20111024?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@7.5.4.v20111024?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-slf4j_1.6.1@7.5.4.v20111024?classifier=sources

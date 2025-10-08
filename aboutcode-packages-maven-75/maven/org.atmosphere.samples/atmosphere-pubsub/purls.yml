@@ -36,3 +36,4 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-pubsub@0.4.1?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-pubsub@0.4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-pubsub@0.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-pubsub@0.8.0-RC2?type=war

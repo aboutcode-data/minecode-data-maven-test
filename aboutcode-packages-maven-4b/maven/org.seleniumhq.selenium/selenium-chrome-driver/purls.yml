@@ -40,3 +40,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.0a1?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.0.0
 - pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.0.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.9.0
+- pkg:maven/org.seleniumhq.selenium/selenium-chrome-driver@2.9.0?classifier=sources

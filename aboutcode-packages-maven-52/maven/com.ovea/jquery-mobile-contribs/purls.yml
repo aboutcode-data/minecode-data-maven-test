@@ -1,2 +1,4 @@
 - pkg:maven/com.ovea/jquery-mobile-contribs@1.0
 - pkg:maven/com.ovea/jquery-mobile-contribs@1.0?classifier=sources
+- pkg:maven/com.ovea/jquery-mobile-contribs@1.1.ga
+- pkg:maven/com.ovea/jquery-mobile-contribs@1.1.ga?classifier=sources

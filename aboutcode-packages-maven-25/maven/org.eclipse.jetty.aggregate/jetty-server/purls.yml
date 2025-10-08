@@ -100,3 +100,7 @@
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-server@7.0.0.M4?classifier=sources
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-server@7.0.0.M3
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-server@7.0.0.M3?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-server@8.0.4.v20111024
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-server@8.0.4.v20111024?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-server@7.5.4.v20111024
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-server@7.5.4.v20111024?classifier=sources

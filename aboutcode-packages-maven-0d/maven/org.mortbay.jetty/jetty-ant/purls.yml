@@ -177,3 +177,5 @@
 - pkg:maven/org.mortbay.jetty/jetty-ant@6.1.11?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-ant@6.1.10
 - pkg:maven/org.mortbay.jetty/jetty-ant@6.1.10?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-ant@7.5.4.v20111024
+- pkg:maven/org.mortbay.jetty/jetty-ant@7.5.4.v20111024?classifier=sources

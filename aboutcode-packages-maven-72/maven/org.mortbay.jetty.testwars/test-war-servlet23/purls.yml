@@ -40,3 +40,7 @@
 - pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@7.4.0.RC0?classifier=sources
 - pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@7.3.1.v20110307?type=war
 - pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@7.3.1.v20110307?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@8.0.4.v20111024?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@8.0.4.v20111024?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@7.5.4.v20111024?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-war-servlet23@7.5.4.v20111024?classifier=sources
