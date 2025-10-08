@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.0.0.v20130308?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.0.1.v20130408
 - pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.0.1.v20130408?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.0.2.v20130417
+- pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.0.2.v20130417?classifier=sources

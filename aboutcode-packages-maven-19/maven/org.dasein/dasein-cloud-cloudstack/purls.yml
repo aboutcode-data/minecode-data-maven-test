@@ -32,3 +32,5 @@
 - pkg:maven/org.dasein/dasein-cloud-cloudstack@2013.02?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-cloudstack@2013.04
 - pkg:maven/org.dasein/dasein-cloud-cloudstack@2013.04?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-cloudstack@2013.02.2
+- pkg:maven/org.dasein/dasein-cloud-cloudstack@2013.02.2?classifier=sources

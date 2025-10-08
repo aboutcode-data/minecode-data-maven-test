@@ -18,3 +18,5 @@
 - pkg:maven/org.sonatype.http-testing-harness/harness-runner@0.5.3?classifier=sources
 - pkg:maven/org.sonatype.http-testing-harness/harness-runner@0.6
 - pkg:maven/org.sonatype.http-testing-harness/harness-runner@0.6?classifier=sources
+- pkg:maven/org.sonatype.http-testing-harness/harness-runner@0.7
+- pkg:maven/org.sonatype.http-testing-harness/harness-runner@0.7?classifier=sources

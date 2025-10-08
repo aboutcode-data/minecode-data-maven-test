@@ -28,3 +28,5 @@
 - pkg:maven/org.fusesource.stompjms/stompjms-website@1.13?classifier=sources
 - pkg:maven/org.fusesource.stompjms/stompjms-website@1.14?type=war
 - pkg:maven/org.fusesource.stompjms/stompjms-website@1.14?classifier=sources
+- pkg:maven/org.fusesource.stompjms/stompjms-website@1.15?type=war
+- pkg:maven/org.fusesource.stompjms/stompjms-website@1.15?classifier=sources
