@@ -4,3 +4,5 @@
 - pkg:maven/org.dspace/dspace-sword-client-xmlui-api@1.8.0-rc2?classifier=sources
 - pkg:maven/org.dspace/dspace-sword-client-xmlui-api@1.8.0-rc3
 - pkg:maven/org.dspace/dspace-sword-client-xmlui-api@1.8.0-rc3?classifier=sources
+- pkg:maven/org.dspace/dspace-sword-client-xmlui-api@1.8.0
+- pkg:maven/org.dspace/dspace-sword-client-xmlui-api@1.8.0?classifier=sources

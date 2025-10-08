@@ -6,3 +6,5 @@
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@0.2?classifier=sources
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@0.1?type=war
 - pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@0.1?classifier=sources
+- pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.2?type=war
+- pkg:maven/org.jasig.portlet.simplecontent/SimpleContentPortlet@1.0.2?classifier=sources

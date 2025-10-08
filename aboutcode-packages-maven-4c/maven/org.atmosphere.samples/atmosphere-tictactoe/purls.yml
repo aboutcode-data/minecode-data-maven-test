@@ -42,3 +42,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-tictactoe@0.3?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-tictactoe@0.8.0-RC2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-tictactoe@0.8.0-RC2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-tictactoe@0.8.0-RC3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-tictactoe@0.8.0-RC3?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.wicketstuff/wicket-eidogo-example@1.4.17.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-eidogo-example@1.4.17?type=war
 - pkg:maven/org.wicketstuff/wicket-eidogo-example@1.4.17?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-eidogo-example@1.5.2?type=war
+- pkg:maven/org.wicketstuff/wicket-eidogo-example@1.5.2?classifier=sources

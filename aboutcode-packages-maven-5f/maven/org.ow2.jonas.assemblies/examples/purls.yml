@@ -45,3 +45,5 @@
 - pkg:maven/org.ow2.jonas.assemblies/examples@5.1.0-RC3?classifier=sources
 - pkg:maven/org.ow2.jonas.assemblies/examples@5.1.0
 - pkg:maven/org.ow2.jonas.assemblies/examples@5.1.0?classifier=sources
+- pkg:maven/org.ow2.jonas.assemblies/examples@5.3.0-M5
+- pkg:maven/org.ow2.jonas.assemblies/examples@5.3.0-M5?classifier=sources

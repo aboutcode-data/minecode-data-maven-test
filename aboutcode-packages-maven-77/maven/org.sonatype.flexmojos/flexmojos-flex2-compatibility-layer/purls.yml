@@ -26,3 +26,5 @@
 - pkg:maven/org.sonatype.flexmojos/flexmojos-flex2-compatibility-layer@4.0-RC2?classifier=sources
 - pkg:maven/org.sonatype.flexmojos/flexmojos-flex2-compatibility-layer@4.0-RC1
 - pkg:maven/org.sonatype.flexmojos/flexmojos-flex2-compatibility-layer@4.0-RC1?classifier=sources
+- pkg:maven/org.sonatype.flexmojos/flexmojos-flex2-compatibility-layer@4.1-beta
+- pkg:maven/org.sonatype.flexmojos/flexmojos-flex2-compatibility-layer@4.1-beta?classifier=sources

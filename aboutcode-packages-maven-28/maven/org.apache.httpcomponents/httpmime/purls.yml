@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.httpcomponents/httpmime@4.0-alpha3
 - pkg:maven/org.apache.httpcomponents/httpmime@4.0
 - pkg:maven/org.apache.httpcomponents/httpmime@4.0?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpmime@4.2-alpha1
+- pkg:maven/org.apache.httpcomponents/httpmime@4.2-alpha1?classifier=sources

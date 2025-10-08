@@ -62,3 +62,5 @@
 - pkg:maven/org.ow2.jonas/mejb@5.0.2?classifier=sources
 - pkg:maven/org.ow2.jonas/mejb@5.0.1?classifier=sources
 - pkg:maven/org.ow2.jonas/mejb@5.0.0?classifier=sources
+- pkg:maven/org.ow2.jonas/mejb@5.3.0-M5
+- pkg:maven/org.ow2.jonas/mejb@5.3.0-M5?classifier=sources

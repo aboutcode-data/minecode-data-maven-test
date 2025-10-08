@@ -11,3 +11,5 @@
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-file@2.1.1
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-file@2.1
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-file@2.0
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-file@3.4
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-file@3.4?classifier=sources

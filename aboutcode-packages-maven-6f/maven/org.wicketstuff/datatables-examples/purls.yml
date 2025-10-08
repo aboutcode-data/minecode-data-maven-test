@@ -18,3 +18,5 @@
 - pkg:maven/org.wicketstuff/datatables-examples@1.5-RC3?classifier=sources
 - pkg:maven/org.wicketstuff/datatables-examples@1.5-RC1.1?type=war
 - pkg:maven/org.wicketstuff/datatables-examples@1.5-RC1.1?classifier=sources
+- pkg:maven/org.wicketstuff/datatables-examples@1.5.2?type=war
+- pkg:maven/org.wicketstuff/datatables-examples@1.5.2?classifier=sources

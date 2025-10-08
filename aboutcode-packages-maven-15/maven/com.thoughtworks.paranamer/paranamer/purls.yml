@@ -47,3 +47,7 @@
 - pkg:maven/com.thoughtworks.paranamer/paranamer@1.0-RC-1?classifier=sources
 - pkg:maven/com.thoughtworks.paranamer/paranamer@1.0
 - pkg:maven/com.thoughtworks.paranamer/paranamer@1.0?classifier=sources
+- pkg:maven/com.thoughtworks.paranamer/paranamer@2.4-debug
+- pkg:maven/com.thoughtworks.paranamer/paranamer@2.4-debug?classifier=sources
+- pkg:maven/com.thoughtworks.paranamer/paranamer@2.4
+- pkg:maven/com.thoughtworks.paranamer/paranamer@2.4?classifier=sources

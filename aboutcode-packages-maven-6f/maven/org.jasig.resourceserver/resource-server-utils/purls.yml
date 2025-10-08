@@ -44,3 +44,7 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.0-RC1
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.0-RC1?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.0
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.22
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.22?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.23
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.23?classifier=sources

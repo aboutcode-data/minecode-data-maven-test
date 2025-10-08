@@ -62,3 +62,5 @@
 - pkg:maven/org.jbehave/jbehave-groovy@3.1-beta-1?classifier=sources
 - pkg:maven/org.jbehave/jbehave-groovy@3.1
 - pkg:maven/org.jbehave/jbehave-groovy@3.1?classifier=sources
+- pkg:maven/org.jbehave/jbehave-groovy@3.5.2
+- pkg:maven/org.jbehave/jbehave-groovy@3.5.2?classifier=sources

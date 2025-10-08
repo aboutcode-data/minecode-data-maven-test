@@ -8,3 +8,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-pubsub-redis@0.7?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-pubsub-redis@0.8.0-RC2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-pubsub-redis@0.8.0-RC2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-pubsub-redis@0.8.0-RC3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-pubsub-redis@0.8.0-RC3?classifier=sources

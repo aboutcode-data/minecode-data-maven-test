@@ -62,3 +62,5 @@
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@2.1.4?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@2.1.10
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@2.1.10?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@2.5.0
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@2.5.0?classifier=sources

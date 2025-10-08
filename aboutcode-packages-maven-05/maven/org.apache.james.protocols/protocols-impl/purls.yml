@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.james.protocols/protocols-impl@1.2?classifier=sources
 - pkg:maven/org.apache.james.protocols/protocols-impl@1.1
 - pkg:maven/org.apache.james.protocols/protocols-impl@1.1?classifier=sources
+- pkg:maven/org.apache.james.protocols/protocols-impl@1.6-beta2
+- pkg:maven/org.apache.james.protocols/protocols-impl@1.6-beta2?classifier=sources
