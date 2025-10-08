@@ -56,3 +56,5 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.26?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.27?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.27?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.28?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.28?classifier=sources

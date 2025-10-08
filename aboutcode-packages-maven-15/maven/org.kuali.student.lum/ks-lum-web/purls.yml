@@ -18,3 +18,5 @@
 - pkg:maven/org.kuali.student.lum/ks-lum-web@1.2.2-M3?classifier=sources
 - pkg:maven/org.kuali.student.lum/ks-lum-web@1.2.2-M4?type=war
 - pkg:maven/org.kuali.student.lum/ks-lum-web@1.2.2-M4?classifier=sources
+- pkg:maven/org.kuali.student.lum/ks-lum-web@2.0.0-cm?type=war
+- pkg:maven/org.kuali.student.lum/ks-lum-web@2.0.0-cm?classifier=sources
