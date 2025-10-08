@@ -148,3 +148,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-servo-metrics-publisher@1.4.17?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-servo-metrics-publisher@1.4.18
 - pkg:maven/com.netflix.hystrix/hystrix-servo-metrics-publisher@1.4.18?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-servo-metrics-publisher@1.4.20
+- pkg:maven/com.netflix.hystrix/hystrix-servo-metrics-publisher@1.4.20?classifier=sources

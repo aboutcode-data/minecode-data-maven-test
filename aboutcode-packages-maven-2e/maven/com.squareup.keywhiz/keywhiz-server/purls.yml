@@ -16,3 +16,9 @@
 - pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.8?classifier=sources
 - pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.7-2
 - pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.7-2?classifier=sources
+- pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.9-sync
+- pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.9-sync?classifier=sources
+- pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.9-mysql
+- pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.9-mysql?classifier=sources
+- pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.9
+- pkg:maven/com.squareup.keywhiz/keywhiz-server@0.7.9?classifier=sources

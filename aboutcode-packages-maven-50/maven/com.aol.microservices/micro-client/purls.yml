@@ -12,3 +12,11 @@
 - pkg:maven/com.aol.microservices/micro-client@0.68?classifier=sources
 - pkg:maven/com.aol.microservices/micro-client@0.67
 - pkg:maven/com.aol.microservices/micro-client@0.67?classifier=sources
+- pkg:maven/com.aol.microservices/micro-client@0.72
+- pkg:maven/com.aol.microservices/micro-client@0.72?classifier=sources
+- pkg:maven/com.aol.microservices/micro-client@0.71
+- pkg:maven/com.aol.microservices/micro-client@0.71?classifier=sources
+- pkg:maven/com.aol.microservices/micro-client@0.70
+- pkg:maven/com.aol.microservices/micro-client@0.70?classifier=sources
+- pkg:maven/com.aol.microservices/micro-client@0.69
+- pkg:maven/com.aol.microservices/micro-client@0.69?classifier=sources
