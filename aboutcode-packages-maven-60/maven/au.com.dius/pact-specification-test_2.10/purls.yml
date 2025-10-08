@@ -1,2 +1,4 @@
 - pkg:maven/au.com.dius/pact-specification-test_2.10@2.0-RC5
 - pkg:maven/au.com.dius/pact-specification-test_2.10@2.0-RC5?classifier=sources
+- pkg:maven/au.com.dius/pact-specification-test_2.10@2.0.0
+- pkg:maven/au.com.dius/pact-specification-test_2.10@2.0.0?classifier=sources
