@@ -16,3 +16,7 @@
 - pkg:maven/com.google.template/soy@2015-04-03?classifier=sources
 - pkg:maven/com.google.template/soy@2015-04-10
 - pkg:maven/com.google.template/soy@2015-04-10?classifier=sources
+- pkg:maven/com.google.template/soy@v20160111
+- pkg:maven/com.google.template/soy@v20160111?classifier=sources
+- pkg:maven/com.google.template/soy@2016-01-12
+- pkg:maven/com.google.template/soy@2016-01-12?classifier=sources

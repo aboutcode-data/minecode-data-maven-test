@@ -44,3 +44,5 @@
 - pkg:maven/com.groupbyinc/common-test@41?classifier=sources
 - pkg:maven/com.groupbyinc/common-test@40
 - pkg:maven/com.groupbyinc/common-test@40?classifier=sources
+- pkg:maven/com.groupbyinc/common-test@42
+- pkg:maven/com.groupbyinc/common-test@42?classifier=sources
