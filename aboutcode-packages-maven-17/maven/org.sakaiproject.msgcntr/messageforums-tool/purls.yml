@@ -22,3 +22,5 @@
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-tool@3.0.2?classifier=sources
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-tool@3.0.3?type=war
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-tool@3.0.3?classifier=sources
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-tool@10.3?type=war
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-tool@10.3?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@3.5.3.201412180710-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@3.4.2.201412180340-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@3.4.2.201412180340-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@3.6.0.201412230720-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@3.6.0.201412230720-r?classifier=sources

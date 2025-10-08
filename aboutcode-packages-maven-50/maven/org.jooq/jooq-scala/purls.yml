@@ -54,3 +54,5 @@
 - pkg:maven/org.jooq/jooq-scala@3.4.3?classifier=sources
 - pkg:maven/org.jooq/jooq-scala@3.5.0
 - pkg:maven/org.jooq/jooq-scala@3.5.0?classifier=sources
+- pkg:maven/org.jooq/jooq-scala@3.2.7
+- pkg:maven/org.jooq/jooq-scala@3.2.7?classifier=sources

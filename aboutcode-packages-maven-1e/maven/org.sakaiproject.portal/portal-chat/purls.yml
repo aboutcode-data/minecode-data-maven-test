@@ -10,3 +10,5 @@
 - pkg:maven/org.sakaiproject.portal/portal-chat@2.9.2?classifier=sources
 - pkg:maven/org.sakaiproject.portal/portal-chat@2.9.3?type=war
 - pkg:maven/org.sakaiproject.portal/portal-chat@2.9.3?classifier=sources
+- pkg:maven/org.sakaiproject.portal/portal-chat@10.3?type=war
+- pkg:maven/org.sakaiproject.portal/portal-chat@10.3?classifier=sources

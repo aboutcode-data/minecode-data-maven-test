@@ -1,2 +1,4 @@
 - pkg:maven/org.bytedeco.javacpp-presets/llvm@3.4.2-0.9
 - pkg:maven/org.bytedeco.javacpp-presets/llvm@3.4.2-0.9?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/llvm@3.5.0-0.10
+- pkg:maven/org.bytedeco.javacpp-presets/llvm@3.5.0-0.10?classifier=sources

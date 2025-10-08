@@ -10,3 +10,5 @@
 - pkg:maven/org.crazyyak.demo/yak-demo-common-web@3.2.2?classifier=sources
 - pkg:maven/org.crazyyak.demo/yak-demo-common-web@3.2.3?type=war
 - pkg:maven/org.crazyyak.demo/yak-demo-common-web@3.2.3?classifier=sources
+- pkg:maven/org.crazyyak.demo/yak-demo-common-web@4.0.0?type=war
+- pkg:maven/org.crazyyak.demo/yak-demo-common-web@4.0.0?classifier=sources
