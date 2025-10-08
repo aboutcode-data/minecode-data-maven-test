@@ -8,3 +8,5 @@
 - pkg:maven/org.dspace/dspace-rdf@5.0-rc3?classifier=sources
 - pkg:maven/org.dspace/dspace-rdf@5.0?type=war
 - pkg:maven/org.dspace/dspace-rdf@5.0?classifier=sources
+- pkg:maven/org.dspace/dspace-rdf@5.1?type=war
+- pkg:maven/org.dspace/dspace-rdf@5.1?classifier=sources

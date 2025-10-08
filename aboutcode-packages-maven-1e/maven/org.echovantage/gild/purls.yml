@@ -1,2 +1,4 @@
 - pkg:maven/org.echovantage/gild@0.54
 - pkg:maven/org.echovantage/gild@0.54?classifier=sources
+- pkg:maven/org.echovantage/gild@0.63
+- pkg:maven/org.echovantage/gild@0.63?classifier=sources

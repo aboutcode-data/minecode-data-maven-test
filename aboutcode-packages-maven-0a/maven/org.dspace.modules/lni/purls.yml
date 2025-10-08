@@ -26,3 +26,6 @@
 - pkg:maven/org.dspace.modules/lni@5.0-rc2?type=war
 - pkg:maven/org.dspace.modules/lni@5.0-rc3?type=war
 - pkg:maven/org.dspace.modules/lni@5.0?type=war
+- pkg:maven/org.dspace.modules/lni@5.1?type=war
+- pkg:maven/org.dspace.modules/lni@4.3?type=war
+- pkg:maven/org.dspace.modules/lni@3.4?type=war

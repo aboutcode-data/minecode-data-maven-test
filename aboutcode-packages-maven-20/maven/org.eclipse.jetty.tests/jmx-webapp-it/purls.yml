@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.8.v20150217
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.8.v20150217?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.9.v20150224
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.9.v20150224?classifier=sources
