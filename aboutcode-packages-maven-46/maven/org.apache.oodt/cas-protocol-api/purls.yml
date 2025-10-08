@@ -22,3 +22,6 @@
 - pkg:maven/org.apache.oodt/cas-protocol-api@0.10
 - pkg:maven/org.apache.oodt/cas-protocol-api@0.10?classifier=sources
 - pkg:maven/org.apache.oodt/cas-protocol-api@0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.oodt/cas-protocol-api@0.11
+- pkg:maven/org.apache.oodt/cas-protocol-api@0.11?classifier=sources
+- pkg:maven/org.apache.oodt/cas-protocol-api@0.11?classifier=source-release&type=zip

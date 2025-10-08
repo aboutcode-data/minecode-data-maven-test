@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.oodt/oodt-profile@0.9?classifier=sources
 - pkg:maven/org.apache.oodt/oodt-profile@0.10
 - pkg:maven/org.apache.oodt/oodt-profile@0.10?classifier=sources
+- pkg:maven/org.apache.oodt/oodt-profile@0.11
+- pkg:maven/org.apache.oodt/oodt-profile@0.11?classifier=sources

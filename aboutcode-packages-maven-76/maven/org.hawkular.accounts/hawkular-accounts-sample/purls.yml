@@ -50,3 +50,5 @@
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@2.0.8.Final?classifier=sources
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.1.4.Final?type=war
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@1.1.4.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@2.0.10.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample@2.0.10.Final?classifier=sources

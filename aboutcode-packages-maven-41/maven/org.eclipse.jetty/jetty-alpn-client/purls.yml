@@ -66,3 +66,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.3.6.v20151106?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.2.14.v20151106
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.2.14.v20151106?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.3.7.RC0
+- pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.3.7.RC0?classifier=sources

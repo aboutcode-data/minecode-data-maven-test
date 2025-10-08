@@ -16,3 +16,5 @@
 - pkg:maven/org.hawkular/hawkular-build-tools@12?classifier=sources
 - pkg:maven/org.hawkular/hawkular-build-tools@13
 - pkg:maven/org.hawkular/hawkular-build-tools@13?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@14
+- pkg:maven/org.hawkular/hawkular-build-tools@14?classifier=sources
