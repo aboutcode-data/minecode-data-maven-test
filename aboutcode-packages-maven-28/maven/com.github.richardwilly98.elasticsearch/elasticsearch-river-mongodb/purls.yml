@@ -22,3 +22,5 @@
 - pkg:maven/com.github.richardwilly98.elasticsearch/elasticsearch-river-mongodb@1.7.2?classifier=sources
 - pkg:maven/com.github.richardwilly98.elasticsearch/elasticsearch-river-mongodb@1.7.3?type=zip
 - pkg:maven/com.github.richardwilly98.elasticsearch/elasticsearch-river-mongodb@1.7.3?classifier=sources
+- pkg:maven/com.github.richardwilly98.elasticsearch/elasticsearch-river-mongodb@1.7.4?type=zip
+- pkg:maven/com.github.richardwilly98.elasticsearch/elasticsearch-river-mongodb@1.7.4?classifier=sources

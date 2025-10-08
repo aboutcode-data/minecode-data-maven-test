@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/finagle-spdy_2.9.2@6.10.0
 - pkg:maven/com.twitter/finagle-spdy_2.9.2@6.10.0?classifier=sources
+- pkg:maven/com.twitter/finagle-spdy_2.9.2@6.11.1
+- pkg:maven/com.twitter/finagle-spdy_2.9.2@6.11.1?classifier=sources

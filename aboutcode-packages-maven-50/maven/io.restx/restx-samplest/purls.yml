@@ -1,2 +1,4 @@
 - pkg:maven/io.restx/restx-samplest@0.31?type=war
 - pkg:maven/io.restx/restx-samplest@0.31?classifier=sources
+- pkg:maven/io.restx/restx-samplest@0.31.1?type=war
+- pkg:maven/io.restx/restx-samplest@0.31.1?classifier=sources

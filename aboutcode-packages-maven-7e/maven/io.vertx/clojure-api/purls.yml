@@ -10,3 +10,5 @@
 - pkg:maven/io.vertx/clojure-api@0.3.0?classifier=sources
 - pkg:maven/io.vertx/clojure-api@0.4.0
 - pkg:maven/io.vertx/clojure-api@0.4.0?classifier=sources
+- pkg:maven/io.vertx/clojure-api@1.0.0.Beta1
+- pkg:maven/io.vertx/clojure-api@1.0.0.Beta1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.larmic/jsf2-components-showcase@1.0?type=war
 - pkg:maven/de.larmic/jsf2-components-showcase@1.0?classifier=sources
+- pkg:maven/de.larmic/jsf2-components-showcase@1.1?type=war
+- pkg:maven/de.larmic/jsf2-components-showcase@1.1?classifier=sources

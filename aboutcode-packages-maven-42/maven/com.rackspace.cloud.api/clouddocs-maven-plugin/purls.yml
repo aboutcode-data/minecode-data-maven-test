@@ -8,3 +8,5 @@
 - pkg:maven/com.rackspace.cloud.api/clouddocs-maven-plugin@1.12.2?classifier=sources
 - pkg:maven/com.rackspace.cloud.api/clouddocs-maven-plugin@1.12.1
 - pkg:maven/com.rackspace.cloud.api/clouddocs-maven-plugin@1.12.1?classifier=sources
+- pkg:maven/com.rackspace.cloud.api/clouddocs-maven-plugin@1.13.0
+- pkg:maven/com.rackspace.cloud.api/clouddocs-maven-plugin@1.13.0?classifier=sources
