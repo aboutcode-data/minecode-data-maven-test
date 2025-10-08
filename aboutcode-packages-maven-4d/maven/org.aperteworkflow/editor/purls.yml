@@ -4,3 +4,7 @@
 - pkg:maven/org.aperteworkflow/editor@1.1.1?classifier=sources
 - pkg:maven/org.aperteworkflow/editor@1.1
 - pkg:maven/org.aperteworkflow/editor@1.1?classifier=sources
+- pkg:maven/org.aperteworkflow/editor@2.0-RC1
+- pkg:maven/org.aperteworkflow/editor@2.0-RC1?classifier=sources
+- pkg:maven/org.aperteworkflow/editor@2.0
+- pkg:maven/org.aperteworkflow/editor@2.0?classifier=sources

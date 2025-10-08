@@ -46,3 +46,5 @@
 - pkg:maven/org.atmosphere/atmosphere-cometd@1.0.12?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-cometd@1.1.0.RC1
 - pkg:maven/org.atmosphere/atmosphere-cometd@1.1.0.RC1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-cometd@1.0.13
+- pkg:maven/org.atmosphere/atmosphere-cometd@1.0.13?classifier=sources
