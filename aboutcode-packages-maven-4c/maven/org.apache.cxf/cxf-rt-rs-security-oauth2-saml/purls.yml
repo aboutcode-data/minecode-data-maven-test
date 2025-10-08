@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth2-saml@2.7.9?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth2-saml@2.7.10
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth2-saml@2.7.10?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth2-saml@3.0.0-milestone2
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth2-saml@3.0.0-milestone2?classifier=sources

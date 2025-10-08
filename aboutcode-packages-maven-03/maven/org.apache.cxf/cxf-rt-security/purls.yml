@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-security@2.7.9?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-security@2.7.10
 - pkg:maven/org.apache.cxf/cxf-rt-security@2.7.10?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-security@3.0.0-milestone2
+- pkg:maven/org.apache.cxf/cxf-rt-security@3.0.0-milestone2?classifier=sources

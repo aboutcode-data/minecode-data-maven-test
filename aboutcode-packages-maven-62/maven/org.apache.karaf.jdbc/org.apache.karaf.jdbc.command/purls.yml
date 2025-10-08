@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@3.0.0
 - pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@3.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@2.3.4
+- pkg:maven/org.apache.karaf.jdbc/org.apache.karaf.jdbc.command@2.3.4?classifier=sources

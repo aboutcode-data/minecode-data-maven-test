@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.camel/camel-example-cdi@2.12.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-cdi@2.11.3?type=war
 - pkg:maven/org.apache.camel/camel-example-cdi@2.11.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-cdi@2.11.4?type=war
+- pkg:maven/org.apache.camel/camel-example-cdi@2.11.4?classifier=sources
