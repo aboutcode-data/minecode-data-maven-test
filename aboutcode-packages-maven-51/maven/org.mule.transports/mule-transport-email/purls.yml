@@ -95,3 +95,5 @@
 - pkg:maven/org.mule.transports/mule-transport-email@3.3.0-RC3?classifier=sources
 - pkg:maven/org.mule.transports/mule-transport-email@3.3.0-EA
 - pkg:maven/org.mule.transports/mule-transport-email@3.3.0-EA?classifier=sources
+- pkg:maven/org.mule.transports/mule-transport-email@3.3.0
+- pkg:maven/org.mule.transports/mule-transport-email@3.3.0?classifier=sources

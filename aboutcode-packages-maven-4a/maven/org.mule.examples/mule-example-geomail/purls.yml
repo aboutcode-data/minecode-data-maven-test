@@ -44,3 +44,5 @@
 - pkg:maven/org.mule.examples/mule-example-geomail@3.3.0-RC3?classifier=sources
 - pkg:maven/org.mule.examples/mule-example-geomail@3.3.0-EA?type=war
 - pkg:maven/org.mule.examples/mule-example-geomail@3.3.0-EA?classifier=sources
+- pkg:maven/org.mule.examples/mule-example-geomail@3.3.0?type=war
+- pkg:maven/org.mule.examples/mule-example-geomail@3.3.0?classifier=sources

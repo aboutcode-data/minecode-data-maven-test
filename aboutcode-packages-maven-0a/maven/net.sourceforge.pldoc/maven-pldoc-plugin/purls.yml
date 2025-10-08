@@ -33,3 +33,7 @@
 - pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.15?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.15.2
 - pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.15.2?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.16.0
+- pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.16.0?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.16.1
+- pkg:maven/net.sourceforge.pldoc/maven-pldoc-plugin@2.16.1?classifier=sources

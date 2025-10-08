@@ -22,3 +22,5 @@
 - pkg:maven/org.hibernate/hibernate-search-engine@4.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@4.1.1.Final
 - pkg:maven/org.hibernate/hibernate-search-engine@4.1.1.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-engine@4.2.0.Beta1
+- pkg:maven/org.hibernate/hibernate-search-engine@4.2.0.Beta1?classifier=sources

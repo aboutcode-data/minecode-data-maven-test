@@ -72,3 +72,5 @@
 - pkg:maven/org.mule.tools/mule-project-archetype@3.3.0-RC3?classifier=sources
 - pkg:maven/org.mule.tools/mule-project-archetype@3.3.0-EA
 - pkg:maven/org.mule.tools/mule-project-archetype@3.3.0-EA?classifier=sources
+- pkg:maven/org.mule.tools/mule-project-archetype@3.3.0
+- pkg:maven/org.mule.tools/mule-project-archetype@3.3.0?classifier=sources
