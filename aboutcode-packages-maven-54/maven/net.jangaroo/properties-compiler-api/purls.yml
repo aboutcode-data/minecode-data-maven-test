@@ -68,3 +68,7 @@
 - pkg:maven/net.jangaroo/properties-compiler-api@1.0.2?classifier=sources
 - pkg:maven/net.jangaroo/properties-compiler-api@2.0.9
 - pkg:maven/net.jangaroo/properties-compiler-api@2.0.9?classifier=sources
+- pkg:maven/net.jangaroo/properties-compiler-api@2.0.10
+- pkg:maven/net.jangaroo/properties-compiler-api@2.0.10?classifier=sources
+- pkg:maven/net.jangaroo/properties-compiler-api@1.0.3
+- pkg:maven/net.jangaroo/properties-compiler-api@1.0.3?classifier=sources

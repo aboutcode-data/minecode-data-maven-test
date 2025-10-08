@@ -1,2 +1,4 @@
 - pkg:maven/eu.limetri.ygg/ygg-client@0.4
 - pkg:maven/eu.limetri.ygg/ygg-client@0.4?classifier=sources
+- pkg:maven/eu.limetri.ygg/ygg-client@0.5
+- pkg:maven/eu.limetri.ygg/ygg-client@0.5?classifier=sources

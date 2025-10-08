@@ -1,2 +1,4 @@
 - pkg:maven/com.s24.search.solr/solr-jdbc-synonyms@1.0.0
 - pkg:maven/com.s24.search.solr/solr-jdbc-synonyms@1.0.0?classifier=sources
+- pkg:maven/com.s24.search.solr/solr-jdbc-synonyms@1.1.0
+- pkg:maven/com.s24.search.solr/solr-jdbc-synonyms@1.1.0?classifier=sources
