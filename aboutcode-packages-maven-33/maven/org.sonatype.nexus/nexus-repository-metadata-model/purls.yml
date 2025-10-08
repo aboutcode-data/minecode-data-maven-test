@@ -74,3 +74,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-repository-metadata-model@2.10.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-repository-metadata-model@2.10.0-01
 - pkg:maven/org.sonatype.nexus/nexus-repository-metadata-model@2.10.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-metadata-model@3.0.0-b2014101001
+- pkg:maven/org.sonatype.nexus/nexus-repository-metadata-model@3.0.0-b2014101001?classifier=sources

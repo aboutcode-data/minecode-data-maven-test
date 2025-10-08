@@ -6,3 +6,5 @@
 - pkg:maven/com.englishtown/when.java@2.0.0?classifier=sources
 - pkg:maven/com.englishtown/when.java@3.0.0-RC1
 - pkg:maven/com.englishtown/when.java@3.0.0-RC1?classifier=sources
+- pkg:maven/com.englishtown/when.java@3.0.0
+- pkg:maven/com.englishtown/when.java@3.0.0?classifier=sources
