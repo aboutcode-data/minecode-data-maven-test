@@ -86,3 +86,5 @@
 - pkg:maven/com.android.tools/sdk-common@23.2.7?classifier=sources
 - pkg:maven/com.android.tools/sdk-common@23.2.6
 - pkg:maven/com.android.tools/sdk-common@23.2.6?classifier=sources
+- pkg:maven/com.android.tools/sdk-common@24.0.0
+- pkg:maven/com.android.tools/sdk-common@24.0.0?classifier=sources

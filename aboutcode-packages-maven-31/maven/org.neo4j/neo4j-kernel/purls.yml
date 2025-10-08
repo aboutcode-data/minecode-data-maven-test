@@ -186,3 +186,5 @@
 - pkg:maven/org.neo4j/neo4j-kernel@2.1.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel@2.2.0-M01
 - pkg:maven/org.neo4j/neo4j-kernel@2.2.0-M01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-kernel@2.2.0-M02
+- pkg:maven/org.neo4j/neo4j-kernel@2.2.0-M02?classifier=sources

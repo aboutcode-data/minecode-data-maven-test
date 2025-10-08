@@ -22,3 +22,5 @@
 - pkg:maven/com.alibaba.rocketmq/rocketmq-tools@3.1.9?classifier=sources
 - pkg:maven/com.alibaba.rocketmq/rocketmq-tools@3.2.1
 - pkg:maven/com.alibaba.rocketmq/rocketmq-tools@3.2.1?classifier=sources
+- pkg:maven/com.alibaba.rocketmq/rocketmq-tools@3.2.3
+- pkg:maven/com.alibaba.rocketmq/rocketmq-tools@3.2.3?classifier=sources
