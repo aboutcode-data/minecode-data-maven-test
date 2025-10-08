@@ -80,3 +80,5 @@
 - pkg:maven/com.trueaccord.scalapb/compilerplugin_2.11@0.5.14?classifier=sources
 - pkg:maven/com.trueaccord.scalapb/compilerplugin_2.11@0.4.20
 - pkg:maven/com.trueaccord.scalapb/compilerplugin_2.11@0.4.20?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/compilerplugin_2.11@0.5.15
+- pkg:maven/com.trueaccord.scalapb/compilerplugin_2.11@0.5.15?classifier=sources
