@@ -233,3 +233,5 @@
 - pkg:maven/org.hibernate/hibernate-core@5.0.0.CR4?classifier=sources
 - pkg:maven/org.hibernate/hibernate-core@4.3.11.Final
 - pkg:maven/org.hibernate/hibernate-core@4.3.11.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-core@5.0.0.Final
+- pkg:maven/org.hibernate/hibernate-core@5.0.0.Final?classifier=sources

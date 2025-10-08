@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.karaf.itests/itests@3.0.4?classifier=sources
 - pkg:maven/org.apache.karaf.itests/itests@2.4.3
 - pkg:maven/org.apache.karaf.itests/itests@2.4.3?classifier=sources
+- pkg:maven/org.apache.karaf.itests/itests@4.0.1
+- pkg:maven/org.apache.karaf.itests/itests@4.0.1?classifier=sources
