@@ -16,3 +16,5 @@
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.8?classifier=sources
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.9
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.9?classifier=sources
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.91
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.91?classifier=sources

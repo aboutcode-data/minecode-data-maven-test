@@ -109,3 +109,5 @@
 - pkg:maven/org.mule.transports/mule-transport-udp@3.5.0-bighorn-RC3?classifier=sources
 - pkg:maven/org.mule.transports/mule-transport-udp@3.5.0-bighorn
 - pkg:maven/org.mule.transports/mule-transport-udp@3.5.0-bighorn?classifier=sources
+- pkg:maven/org.mule.transports/mule-transport-udp@3.5.0-M4
+- pkg:maven/org.mule.transports/mule-transport-udp@3.5.0-M4?classifier=sources

@@ -106,3 +106,7 @@
 - pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.0-RC5?classifier=sources
 - pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.0-RC7
 - pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.0-RC7?classifier=sources
+- pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.1
+- pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.1?classifier=sources
+- pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.0
+- pkg:maven/com.netflix.rxjava/rxjava-groovy@0.17.0?classifier=sources
