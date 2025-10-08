@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.maven.release/maven-release@2.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.release/maven-release@2.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.release/maven-release@2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.release/maven-release@2.0?classifier=source-release&type=zip

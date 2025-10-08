@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.maven.shared/maven-runtime@1.0-alpha-2
+- pkg:maven/org.apache.maven.shared/maven-runtime@1.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-runtime@1.0-alpha-2?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-runtime@1.0-alpha-1
+- pkg:maven/org.apache.maven.shared/maven-runtime@1.0-alpha-1?classifier=sources

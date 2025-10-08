@@ -1,0 +1,14 @@
+- pkg:maven/org.apache.maven.plugins/maven-plugins@22?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@21?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@20?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@19?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@18?classifier=src&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@18?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.plugins/maven-plugins@17?classifier=src&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@17?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.plugins/maven-plugins@16?classifier=src&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@16?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.plugins/maven-plugins@15?classifier=src&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@15?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.plugins/maven-plugins@14?classifier=src&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-plugins@14?classifier=src&type=tar.gz
