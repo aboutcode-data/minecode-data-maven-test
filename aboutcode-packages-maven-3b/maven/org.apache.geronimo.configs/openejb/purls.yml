@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.geronimo.configs/openejb@1.2-beta?classifier=sources
 - pkg:maven/org.apache.geronimo.configs/openejb@3.0-beta-1?classifier=sources
 - pkg:maven/org.apache.geronimo.configs/openejb@2.1.8?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/openejb@3.0.0?classifier=sources

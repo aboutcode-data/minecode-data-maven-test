@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.geronimo.plugins/debugviews-portlets@3.0-beta-1?classifier=sources
 - pkg:maven/org.apache.geronimo.plugins/debugviews-portlets@2.1.8?type=war
 - pkg:maven/org.apache.geronimo.plugins/debugviews-portlets@2.1.8?classifier=sources
+- pkg:maven/org.apache.geronimo.plugins/debugviews-portlets@3.0.0?type=war
+- pkg:maven/org.apache.geronimo.plugins/debugviews-portlets@3.0.0?classifier=sources

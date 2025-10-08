@@ -21,3 +21,5 @@
 - pkg:maven/org.aspectj/aspectjweaver@1.5.4
 - pkg:maven/org.aspectj/aspectjweaver@1.6.12
 - pkg:maven/org.aspectj/aspectjweaver@1.6.12?classifier=sources
+- pkg:maven/org.aspectj/aspectjweaver@1.7.0
+- pkg:maven/org.aspectj/aspectjweaver@1.7.0?classifier=sources

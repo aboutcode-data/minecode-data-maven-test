@@ -12,3 +12,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.0.beta2a?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.0.beta2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.0.beta2?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.0.beta3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@1.0.0.beta3?classifier=sources
