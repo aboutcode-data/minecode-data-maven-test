@@ -8,3 +8,5 @@
 - pkg:maven/com.vk/androidsdk@1.2.2?classifier=sources
 - pkg:maven/com.vk/androidsdk@1.3.3?type=aar
 - pkg:maven/com.vk/androidsdk@1.3.3?classifier=sources
+- pkg:maven/com.vk/androidsdk@1.3.4?type=aar
+- pkg:maven/com.vk/androidsdk@1.3.4?classifier=sources

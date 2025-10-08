@@ -2,3 +2,5 @@
 - pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@1.12.1?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@1.12.2
 - pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@1.12.2?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@2.0.1
+- pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@2.0.1?classifier=sources
