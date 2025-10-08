@@ -8,3 +8,7 @@
 - pkg:maven/io.fabric8/gerrit-api@2.2.2?classifier=sources
 - pkg:maven/io.fabric8/gerrit-api@2.2.5
 - pkg:maven/io.fabric8/gerrit-api@2.2.5?classifier=sources
+- pkg:maven/io.fabric8/gerrit-api@2.2.7
+- pkg:maven/io.fabric8/gerrit-api@2.2.7?classifier=sources
+- pkg:maven/io.fabric8/gerrit-api@2.2.6
+- pkg:maven/io.fabric8/gerrit-api@2.2.6?classifier=sources
