@@ -56,3 +56,5 @@
 - pkg:maven/org.codehaus.modello/modello-plugin-xdoc@1.0-alpha-1
 - pkg:maven/org.codehaus.modello/modello-plugin-xdoc@1.0
 - pkg:maven/org.codehaus.modello/modello-plugin-xdoc@1.0?classifier=sources
+- pkg:maven/org.codehaus.modello/modello-plugin-xdoc@1.6
+- pkg:maven/org.codehaus.modello/modello-plugin-xdoc@1.6?classifier=sources

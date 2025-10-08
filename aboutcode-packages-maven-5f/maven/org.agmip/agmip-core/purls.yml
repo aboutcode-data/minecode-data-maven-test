@@ -20,3 +20,5 @@
 - pkg:maven/org.agmip/agmip-core@0.10?classifier=sources
 - pkg:maven/org.agmip/agmip-core@0.14
 - pkg:maven/org.agmip/agmip-core@0.14?classifier=sources
+- pkg:maven/org.agmip/agmip-core@0.15
+- pkg:maven/org.agmip/agmip-core@0.15?classifier=sources
