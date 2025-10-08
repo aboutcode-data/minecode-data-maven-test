@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.servicemix.examples/camel-osgi@4.5.2?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-osgi@4.5.3
 - pkg:maven/org.apache.servicemix.examples/camel-osgi@4.5.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-osgi@5.0.0
+- pkg:maven/org.apache.servicemix.examples/camel-osgi@5.0.0?classifier=sources
