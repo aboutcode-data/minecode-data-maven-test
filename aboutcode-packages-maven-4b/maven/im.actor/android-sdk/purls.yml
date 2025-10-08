@@ -54,3 +54,5 @@
 - pkg:maven/im.actor/android-sdk@0.1.59?classifier=sources
 - pkg:maven/im.actor/android-sdk@0.1.57?type=aar
 - pkg:maven/im.actor/android-sdk@0.1.57?classifier=sources
+- pkg:maven/im.actor/android-sdk@0.1.62?type=aar
+- pkg:maven/im.actor/android-sdk@0.1.62?classifier=sources

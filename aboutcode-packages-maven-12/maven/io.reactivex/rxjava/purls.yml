@@ -54,3 +54,7 @@
 - pkg:maven/io.reactivex/rxjava@1.0.15?classifier=sources
 - pkg:maven/io.reactivex/rxjava@1.0.16
 - pkg:maven/io.reactivex/rxjava@1.0.16?classifier=sources
+- pkg:maven/io.reactivex/rxjava@1.1.0
+- pkg:maven/io.reactivex/rxjava@1.1.0?classifier=sources
+- pkg:maven/io.reactivex/rxjava@1.0.17
+- pkg:maven/io.reactivex/rxjava@1.0.17?classifier=sources

@@ -58,3 +58,7 @@
 - pkg:maven/net.time4j/time4j-i18n@4.8?classifier=sources
 - pkg:maven/net.time4j/time4j-i18n@3.11
 - pkg:maven/net.time4j/time4j-i18n@3.11?classifier=sources
+- pkg:maven/net.time4j/time4j-i18n@4.9
+- pkg:maven/net.time4j/time4j-i18n@4.9?classifier=sources
+- pkg:maven/net.time4j/time4j-i18n@3.12
+- pkg:maven/net.time4j/time4j-i18n@3.12?classifier=sources
