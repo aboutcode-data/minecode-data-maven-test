@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.22
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.22?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.21
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.21?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.20
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.20?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.19
+- pkg:maven/org.apache.tomcat/tomcat-jdbc@7.0.19?classifier=sources
