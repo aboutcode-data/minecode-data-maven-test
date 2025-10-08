@@ -6,3 +6,5 @@
 - pkg:maven/org.scoverage/maven-scoverage-plugin@0.98.4?classifier=sources
 - pkg:maven/org.scoverage/maven-scoverage-plugin@0.99.2
 - pkg:maven/org.scoverage/maven-scoverage-plugin@0.99.2?classifier=sources
+- pkg:maven/org.scoverage/maven-scoverage-plugin@0.99.10
+- pkg:maven/org.scoverage/maven-scoverage-plugin@0.99.10?classifier=sources

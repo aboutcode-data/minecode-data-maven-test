@@ -26,3 +26,5 @@
 - pkg:maven/org.metawidget.modules.vaadin/metawidget-vaadin@3.8?classifier=sources
 - pkg:maven/org.metawidget.modules.vaadin/metawidget-vaadin@3.9
 - pkg:maven/org.metawidget.modules.vaadin/metawidget-vaadin@3.9?classifier=sources
+- pkg:maven/org.metawidget.modules.vaadin/metawidget-vaadin@4.0
+- pkg:maven/org.metawidget.modules.vaadin/metawidget-vaadin@4.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@0.0.11?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@0.0.12?type=zip
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@0.0.12?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@0.0.13?type=zip
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@0.0.13?classifier=sources

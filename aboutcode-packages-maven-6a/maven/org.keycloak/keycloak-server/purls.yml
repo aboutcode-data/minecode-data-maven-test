@@ -14,3 +14,5 @@
 - pkg:maven/org.keycloak/keycloak-server@1.0.4.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server@1.0.3.Final?type=war
 - pkg:maven/org.keycloak/keycloak-server@1.0.3.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server@1.1.0.Beta1?type=war
+- pkg:maven/org.keycloak/keycloak-server@1.1.0.Beta1?classifier=sources
