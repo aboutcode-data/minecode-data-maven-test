@@ -6,3 +6,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-example-jndi@0.15.4.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-example-jndi@0.15.3.Final?type=war
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-example-jndi@0.15.3.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-example-jndi@0.15.6.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-example-jndi@0.15.6.Final?classifier=sources
