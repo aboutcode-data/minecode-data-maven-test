@@ -180,3 +180,5 @@
 - pkg:maven/org.neo4j/neo4j-graph-matching@2.2.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-matching@2.3.0-M02
 - pkg:maven/org.neo4j/neo4j-graph-matching@2.3.0-M02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-matching@2.2.3
+- pkg:maven/org.neo4j/neo4j-graph-matching@2.2.3?classifier=sources

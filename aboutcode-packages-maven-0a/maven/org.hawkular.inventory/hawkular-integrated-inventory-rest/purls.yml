@@ -8,3 +8,7 @@
 - pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.0.6?classifier=sources
 - pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.0.9?type=war
 - pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.0.9?classifier=sources
+- pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.1.0.Alpha2?type=war
+- pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.1.0.Alpha2?classifier=sources
+- pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.1.0.Alpha1?type=war
+- pkg:maven/org.hawkular.inventory/hawkular-integrated-inventory-rest@0.1.0.Alpha1?classifier=sources

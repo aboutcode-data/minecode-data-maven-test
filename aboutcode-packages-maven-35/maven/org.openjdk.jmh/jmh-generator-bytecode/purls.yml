@@ -98,3 +98,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-generator-bytecode@1.9.3?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-generator-bytecode@1.10
 - pkg:maven/org.openjdk.jmh/jmh-generator-bytecode@1.10?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-generator-bytecode@1.10.1
+- pkg:maven/org.openjdk.jmh/jmh-generator-bytecode@1.10.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.hawkular.metrics/schema-manager@0.3.4
 - pkg:maven/org.hawkular.metrics/schema-manager@0.3.4?classifier=sources
+- pkg:maven/org.hawkular.metrics/schema-manager@0.4.0.Final
+- pkg:maven/org.hawkular.metrics/schema-manager@0.4.0.Final?classifier=sources

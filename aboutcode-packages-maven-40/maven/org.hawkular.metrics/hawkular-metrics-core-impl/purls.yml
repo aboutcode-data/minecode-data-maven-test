@@ -6,3 +6,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.3.4?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.3.2
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.3.2?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.4.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.4.0.Final?classifier=sources

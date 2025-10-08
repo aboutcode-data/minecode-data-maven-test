@@ -8,3 +8,5 @@
 - pkg:maven/org.hawkular.alerts/hawkular-actions-aerogear@0.0.4?classifier=sources
 - pkg:maven/org.hawkular.alerts/hawkular-actions-aerogear@0.1.0.Final?type=war
 - pkg:maven/org.hawkular.alerts/hawkular-actions-aerogear@0.1.0.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-actions-aerogear@0.2.0.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-actions-aerogear@0.2.0.Final?classifier=sources
