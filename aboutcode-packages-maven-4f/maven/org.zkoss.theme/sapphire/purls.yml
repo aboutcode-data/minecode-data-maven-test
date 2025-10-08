@@ -42,3 +42,5 @@
 - pkg:maven/org.zkoss.theme/sapphire@7.0.3?classifier=sources
 - pkg:maven/org.zkoss.theme/sapphire@8.0.0-RC
 - pkg:maven/org.zkoss.theme/sapphire@8.0.0-RC?classifier=sources
+- pkg:maven/org.zkoss.theme/sapphire@8.0.0
+- pkg:maven/org.zkoss.theme/sapphire@8.0.0?classifier=sources
