@@ -20,3 +20,5 @@
 - pkg:maven/com.github.sviperll/coreext-maven-plugin@0.12?classifier=sources
 - pkg:maven/com.github.sviperll/coreext-maven-plugin@0.16
 - pkg:maven/com.github.sviperll/coreext-maven-plugin@0.16?classifier=sources
+- pkg:maven/com.github.sviperll/coreext-maven-plugin@0.20
+- pkg:maven/com.github.sviperll/coreext-maven-plugin@0.20?classifier=sources

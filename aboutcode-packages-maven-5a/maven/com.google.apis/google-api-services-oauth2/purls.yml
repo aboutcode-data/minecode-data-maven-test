@@ -922,3 +922,7 @@
 - pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev100-1.19.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev100-1.19.0
 - pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev100-1.19.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oauth2@v2-rev98-1.21.0
+- pkg:maven/com.google.apis/google-api-services-oauth2@v2-rev98-1.21.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev100-1.21.0
+- pkg:maven/com.google.apis/google-api-services-oauth2@v1-rev100-1.21.0?classifier=sources

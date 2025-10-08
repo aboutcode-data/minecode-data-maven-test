@@ -24,3 +24,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticsearch@1.10.34?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticsearch@1.10.33
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticsearch@1.10.33?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticsearch@1.10.35
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticsearch@1.10.35?classifier=sources
