@@ -87,3 +87,4 @@
 - pkg:maven/org.jclouds.api/cloudfiles@1.5.3
 - pkg:maven/org.jclouds.api/cloudfiles@1.5.3?classifier=sources
 - pkg:maven/org.jclouds.api/cloudfiles@1.5.4
+- pkg:maven/org.jclouds.api/cloudfiles@1.5.4?classifier=sources

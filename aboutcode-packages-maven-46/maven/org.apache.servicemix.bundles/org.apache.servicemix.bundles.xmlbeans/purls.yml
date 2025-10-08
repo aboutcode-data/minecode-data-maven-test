@@ -5,3 +5,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.4.0_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.4.0_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.4.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.6.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.6.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.6.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlbeans@2.6.0_1?classifier=sources

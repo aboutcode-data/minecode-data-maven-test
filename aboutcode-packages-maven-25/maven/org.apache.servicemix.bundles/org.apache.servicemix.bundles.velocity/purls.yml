@@ -18,3 +18,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_5?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_5?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_5?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_6?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_6?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.velocity@1.7_6?classifier=sources

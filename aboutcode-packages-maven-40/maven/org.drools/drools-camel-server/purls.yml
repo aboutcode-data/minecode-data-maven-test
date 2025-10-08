@@ -28,3 +28,5 @@
 - pkg:maven/org.drools/drools-camel-server@5.3.3.Final?classifier=sources
 - pkg:maven/org.drools/drools-camel-server@5.3.4.Final?type=war
 - pkg:maven/org.drools/drools-camel-server@5.3.4.Final?classifier=sources
+- pkg:maven/org.drools/drools-camel-server@5.3.5.Final?type=war
+- pkg:maven/org.drools/drools-camel-server@5.3.5.Final?classifier=sources

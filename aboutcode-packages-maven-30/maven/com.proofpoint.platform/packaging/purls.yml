@@ -46,3 +46,5 @@
 - pkg:maven/com.proofpoint.platform/packaging@0.66?classifier=sources
 - pkg:maven/com.proofpoint.platform/packaging@0.67
 - pkg:maven/com.proofpoint.platform/packaging@0.67?classifier=sources
+- pkg:maven/com.proofpoint.platform/packaging@0.69
+- pkg:maven/com.proofpoint.platform/packaging@0.69?classifier=sources

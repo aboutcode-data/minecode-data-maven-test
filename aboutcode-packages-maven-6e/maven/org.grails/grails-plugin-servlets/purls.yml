@@ -22,3 +22,7 @@
 - pkg:maven/org.grails/grails-plugin-servlets@2.2.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-plugin-servlets@2.1.2
 - pkg:maven/org.grails/grails-plugin-servlets@2.1.2?classifier=sources
+- pkg:maven/org.grails/grails-plugin-servlets@2.2.0.RC4
+- pkg:maven/org.grails/grails-plugin-servlets@2.2.0.RC4?classifier=sources
+- pkg:maven/org.grails/grails-plugin-servlets@2.2.0.RC3
+- pkg:maven/org.grails/grails-plugin-servlets@2.2.0.RC3?classifier=sources
