@@ -212,3 +212,5 @@
 - pkg:maven/org.jgroups/jgroups@3.5.0.Beta6?classifier=sources
 - pkg:maven/org.jgroups/jgroups@3.4.4.Final
 - pkg:maven/org.jgroups/jgroups@3.4.4.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@3.5.0.Beta7
+- pkg:maven/org.jgroups/jgroups@3.5.0.Beta7?classifier=sources

@@ -92,3 +92,5 @@
 - pkg:maven/org.jboss.aesh/aesh@0.53?classifier=sources
 - pkg:maven/org.jboss.aesh/aesh@0.54
 - pkg:maven/org.jboss.aesh/aesh@0.54?classifier=sources
+- pkg:maven/org.jboss.aesh/aesh@0.55
+- pkg:maven/org.jboss.aesh/aesh@0.55?classifier=sources
