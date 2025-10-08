@@ -14,3 +14,5 @@
 - pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.11?classifier=sources
 - pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.14
 - pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.14?classifier=sources
+- pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.16
+- pkg:maven/com.netflix.fabricator/fabricator-guice@0.0.16?classifier=sources

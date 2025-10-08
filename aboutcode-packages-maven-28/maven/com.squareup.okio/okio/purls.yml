@@ -10,3 +10,5 @@
 - pkg:maven/com.squareup.okio/okio@0.8.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio@0.9.0
 - pkg:maven/com.squareup.okio/okio@0.9.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio@1.0.0
+- pkg:maven/com.squareup.okio/okio@1.0.0?classifier=sources
