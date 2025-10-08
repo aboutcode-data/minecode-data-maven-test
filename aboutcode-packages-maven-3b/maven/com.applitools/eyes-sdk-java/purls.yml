@@ -64,3 +64,5 @@
 - pkg:maven/com.applitools/eyes-sdk-java@2.10?classifier=sources
 - pkg:maven/com.applitools/eyes-sdk-java@2.12
 - pkg:maven/com.applitools/eyes-sdk-java@2.12?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java@2.13
+- pkg:maven/com.applitools/eyes-sdk-java@2.13?classifier=sources

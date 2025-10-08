@@ -14,3 +14,5 @@
 - pkg:maven/com.aol.microservices/microserver-core@0.53.2?classifier=sources
 - pkg:maven/com.aol.microservices/microserver-core@0.53
 - pkg:maven/com.aol.microservices/microserver-core@0.53?classifier=sources
+- pkg:maven/com.aol.microservices/microserver-core@0.55
+- pkg:maven/com.aol.microservices/microserver-core@0.55?classifier=sources
