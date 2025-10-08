@@ -48,3 +48,5 @@
 - pkg:maven/com.mitchellbosecke/pebble@1.5.2?classifier=sources
 - pkg:maven/com.mitchellbosecke/pebble@1.6.0
 - pkg:maven/com.mitchellbosecke/pebble@1.6.0?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble@2.0.0
+- pkg:maven/com.mitchellbosecke/pebble@2.0.0?classifier=sources
