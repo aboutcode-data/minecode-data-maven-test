@@ -6,3 +6,5 @@
 - pkg:maven/org.robospock/robospock-plugin@0.2?classifier=sources
 - pkg:maven/org.robospock/robospock-plugin@0.3.0
 - pkg:maven/org.robospock/robospock-plugin@0.3.0?classifier=sources
+- pkg:maven/org.robospock/robospock-plugin@0.3.1
+- pkg:maven/org.robospock/robospock-plugin@0.3.1?classifier=sources

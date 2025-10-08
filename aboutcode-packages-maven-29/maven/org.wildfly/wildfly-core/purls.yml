@@ -1,1 +1,2 @@
 - pkg:maven/org.wildfly/wildfly-core@8.0.0.CR1?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-core@8.0.0.Final?classifier=src&type=zip

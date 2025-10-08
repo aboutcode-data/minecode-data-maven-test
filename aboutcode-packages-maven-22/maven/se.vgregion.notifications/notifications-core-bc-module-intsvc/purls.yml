@@ -14,3 +14,5 @@
 - pkg:maven/se.vgregion.notifications/notifications-core-bc-module-intsvc@1.8?classifier=sources
 - pkg:maven/se.vgregion.notifications/notifications-core-bc-module-intsvc@1.9?type=war
 - pkg:maven/se.vgregion.notifications/notifications-core-bc-module-intsvc@1.9?classifier=sources
+- pkg:maven/se.vgregion.notifications/notifications-core-bc-module-intsvc@1.10?type=war
+- pkg:maven/se.vgregion.notifications/notifications-core-bc-module-intsvc@1.10?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.infinispan/infinispan-upgrade-tools@6.0.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-upgrade-tools@6.0.0.Alpha3
 - pkg:maven/org.infinispan/infinispan-upgrade-tools@6.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-upgrade-tools@5.2.8.CR1
+- pkg:maven/org.infinispan/infinispan-upgrade-tools@5.2.8.CR1?classifier=sources
