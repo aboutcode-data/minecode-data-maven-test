@@ -7,3 +7,4 @@
 - pkg:maven/com.facebook.presto/presto-server-rpm@0.115?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server-rpm@0.117?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server-rpm@0.116?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server-rpm@0.118?classifier=sources

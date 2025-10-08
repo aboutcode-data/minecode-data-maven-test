@@ -34,3 +34,5 @@
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@2.0.3?classifier=sources
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@2.0.2?type=war
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@2.0.2?classifier=sources
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@2.0.4?type=war
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@2.0.4?classifier=sources
