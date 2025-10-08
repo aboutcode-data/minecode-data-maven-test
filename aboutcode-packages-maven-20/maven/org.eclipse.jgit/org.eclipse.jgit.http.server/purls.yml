@@ -62,3 +62,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.0.0.201505260635-rc2?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.0.0.201506020755-rc3
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.0.0.201506020755-rc3?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.0.0.201506090130-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.0.0.201506090130-r?classifier=sources

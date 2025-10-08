@@ -218,3 +218,4 @@
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-soap@3.0.5?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-soap@2.7.16
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-soap@2.7.16?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-soap@3.1.1

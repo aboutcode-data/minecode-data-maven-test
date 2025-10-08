@@ -130,3 +130,7 @@
 - pkg:maven/org.jboss.as/jboss-as-console-flow@2.7.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console-flow@2.7.0.Alpha0
 - pkg:maven/org.jboss.as/jboss-as-console-flow@2.7.0.Alpha0?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console-flow@2.8.0.Alpha0
+- pkg:maven/org.jboss.as/jboss-as-console-flow@2.8.0.Alpha0?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console-flow@2.5.6.Final
+- pkg:maven/org.jboss.as/jboss-as-console-flow@2.5.6.Final?classifier=sources

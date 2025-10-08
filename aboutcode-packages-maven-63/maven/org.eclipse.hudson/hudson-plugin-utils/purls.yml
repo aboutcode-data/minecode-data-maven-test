@@ -50,3 +50,5 @@
 - pkg:maven/org.eclipse.hudson/hudson-plugin-utils@3.2.2?classifier=sources
 - pkg:maven/org.eclipse.hudson/hudson-plugin-utils@3.3.0-M0
 - pkg:maven/org.eclipse.hudson/hudson-plugin-utils@3.3.0-M0?classifier=sources
+- pkg:maven/org.eclipse.hudson/hudson-plugin-utils@3.3.0-RC1
+- pkg:maven/org.eclipse.hudson/hudson-plugin-utils@3.3.0-RC1?classifier=sources

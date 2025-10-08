@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.0.5?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@2.7.16?type=war
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@2.7.16?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.1.1?type=war
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.1.1?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/org.jbehave/jbehave-google@4.0?classifier=sources
 - pkg:maven/org.jbehave/jbehave-google@3.10
 - pkg:maven/org.jbehave/jbehave-google@3.10?classifier=sources
+- pkg:maven/org.jbehave/jbehave-google@4.0.1
+- pkg:maven/org.jbehave/jbehave-google@4.0.1?classifier=sources

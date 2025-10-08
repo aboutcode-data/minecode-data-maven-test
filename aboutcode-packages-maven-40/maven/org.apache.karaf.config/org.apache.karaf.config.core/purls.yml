@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.karaf.config/org.apache.karaf.config.core@3.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.config/org.apache.karaf.config.core@4.0.0.M2
 - pkg:maven/org.apache.karaf.config/org.apache.karaf.config.core@4.0.0.M2?classifier=sources
+- pkg:maven/org.apache.karaf.config/org.apache.karaf.config.core@4.0.0.M3
+- pkg:maven/org.apache.karaf.config/org.apache.karaf.config.core@4.0.0.M3?classifier=sources

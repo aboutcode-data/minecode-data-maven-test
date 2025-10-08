@@ -58,3 +58,5 @@
 - pkg:maven/org.jbehave/jbehave-gherkin@4.0?classifier=sources
 - pkg:maven/org.jbehave/jbehave-gherkin@3.10
 - pkg:maven/org.jbehave/jbehave-gherkin@3.10?classifier=sources
+- pkg:maven/org.jbehave/jbehave-gherkin@4.0.1
+- pkg:maven/org.jbehave/jbehave-gherkin@4.0.1?classifier=sources

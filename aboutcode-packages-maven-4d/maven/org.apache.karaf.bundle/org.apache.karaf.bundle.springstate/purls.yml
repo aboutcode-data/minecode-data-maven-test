@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@3.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.0.0.M2
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.0.0.M2?classifier=sources
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.0.0.M3
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.0.0.M3?classifier=sources
