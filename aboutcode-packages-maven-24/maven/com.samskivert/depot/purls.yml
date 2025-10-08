@@ -18,3 +18,5 @@
 - pkg:maven/com.samskivert/depot@1.6.4?classifier=sources
 - pkg:maven/com.samskivert/depot@1.7
 - pkg:maven/com.samskivert/depot@1.7?classifier=sources
+- pkg:maven/com.samskivert/depot@1.7.2
+- pkg:maven/com.samskivert/depot@1.7.2?classifier=sources
