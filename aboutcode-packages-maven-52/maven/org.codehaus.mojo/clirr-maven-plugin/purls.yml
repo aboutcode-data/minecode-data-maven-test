@@ -19,3 +19,6 @@
 - pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.4
 - pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.4?classifier=sources
 - pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.4?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.5
+- pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.5?classifier=sources
+- pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.5?classifier=source-release&type=zip

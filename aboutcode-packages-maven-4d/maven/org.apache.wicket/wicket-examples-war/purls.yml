@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.2?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.3?type=war
 - pkg:maven/org.apache.wicket/wicket-examples-war@0.3?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples-war@0.3.1?type=war
+- pkg:maven/org.apache.wicket/wicket-examples-war@0.3.1?classifier=sources

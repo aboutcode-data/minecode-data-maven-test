@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.1.v20120502-0834?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.1.v20120531-0637
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.1.v20120531-0637?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.2.v20120814-155456
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.8.2.v20120814-155456?classifier=sources

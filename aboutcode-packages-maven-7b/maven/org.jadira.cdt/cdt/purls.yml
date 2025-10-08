@@ -1,2 +1,4 @@
 - pkg:maven/org.jadira.cdt/cdt@3.0.0.CR4
 - pkg:maven/org.jadira.cdt/cdt@3.0.0.CR4?classifier=sources
+- pkg:maven/org.jadira.cdt/cdt@3.0.0.CR5
+- pkg:maven/org.jadira.cdt/cdt@3.0.0.CR5?classifier=sources
