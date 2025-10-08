@@ -4,3 +4,5 @@
 - pkg:maven/com.spikeify/cron@0.0.2?classifier=sources
 - pkg:maven/com.spikeify/cron@0.0.3
 - pkg:maven/com.spikeify/cron@0.0.3?classifier=sources
+- pkg:maven/com.spikeify/cron@0.2.19
+- pkg:maven/com.spikeify/cron@0.2.19?classifier=sources
