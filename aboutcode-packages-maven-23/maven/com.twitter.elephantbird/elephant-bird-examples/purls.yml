@@ -10,3 +10,5 @@
 - pkg:maven/com.twitter.elephantbird/elephant-bird-examples@3.0.8?classifier=sources
 - pkg:maven/com.twitter.elephantbird/elephant-bird-examples@3.0.9
 - pkg:maven/com.twitter.elephantbird/elephant-bird-examples@3.0.9?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-examples@4.0
+- pkg:maven/com.twitter.elephantbird/elephant-bird-examples@4.0?classifier=sources

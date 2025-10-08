@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.jackrabbit/oak-mk@0.5?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-mk@0.6
 - pkg:maven/org.apache.jackrabbit/oak-mk@0.6?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-mk@0.7
+- pkg:maven/org.apache.jackrabbit/oak-mk@0.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-mk@0.7?classifier=source-release&type=zip

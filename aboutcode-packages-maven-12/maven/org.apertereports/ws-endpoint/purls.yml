@@ -12,3 +12,7 @@
 - pkg:maven/org.apertereports/ws-endpoint@2.3-RC1?classifier=sources
 - pkg:maven/org.apertereports/ws-endpoint@2.3?type=war
 - pkg:maven/org.apertereports/ws-endpoint@2.3?classifier=sources
+- pkg:maven/org.apertereports/ws-endpoint@2.4-RC1?type=war
+- pkg:maven/org.apertereports/ws-endpoint@2.4-RC1?classifier=sources
+- pkg:maven/org.apertereports/ws-endpoint@2.4?type=war
+- pkg:maven/org.apertereports/ws-endpoint@2.4?classifier=sources

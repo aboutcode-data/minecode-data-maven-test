@@ -10,3 +10,5 @@
 - pkg:maven/de.spinscale/elasticsearch-plugin-suggest@0.20.5-0.5?classifier=sources
 - pkg:maven/de.spinscale/elasticsearch-plugin-suggest@0.90.0-0.6?type=zip
 - pkg:maven/de.spinscale/elasticsearch-plugin-suggest@0.90.0-0.6?classifier=sources
+- pkg:maven/de.spinscale/elasticsearch-plugin-suggest@0.90.0-0.6.1?type=zip
+- pkg:maven/de.spinscale/elasticsearch-plugin-suggest@0.90.0-0.6.1?classifier=sources

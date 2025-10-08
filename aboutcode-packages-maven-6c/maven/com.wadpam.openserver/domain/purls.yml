@@ -6,3 +6,5 @@
 - pkg:maven/com.wadpam.openserver/domain@22?classifier=sources
 - pkg:maven/com.wadpam.openserver/domain@25
 - pkg:maven/com.wadpam.openserver/domain@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/domain@26
+- pkg:maven/com.wadpam.openserver/domain@26?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/scalding-args_2.9.2@0.8.4
 - pkg:maven/com.twitter/scalding-args_2.9.2@0.8.4?classifier=sources
+- pkg:maven/com.twitter/scalding-args_2.9.2@0.8.5
+- pkg:maven/com.twitter/scalding-args_2.9.2@0.8.5?classifier=sources
