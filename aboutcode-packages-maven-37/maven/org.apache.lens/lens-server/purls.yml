@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.lens/lens-server@2.0.1-beta-incubating?type=war
+- pkg:maven/org.apache.lens/lens-server@2.0.1-beta-incubating?classifier=sources

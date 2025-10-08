@@ -55,3 +55,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@2.4.4
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@2.4.4?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@2.4.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@2.5.0
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@2.5.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@2.5.0?classifier=source-release&type=zip

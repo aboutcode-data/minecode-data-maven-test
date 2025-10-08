@@ -1,2 +1,4 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-jetty-embedded-websocket@2.3.0-RC3
 - pkg:maven/org.atmosphere.samples/atmosphere-jetty-embedded-websocket@2.3.0-RC3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-jetty-embedded-websocket@2.3.0-RC4
+- pkg:maven/org.atmosphere.samples/atmosphere-jetty-embedded-websocket@2.3.0-RC4?classifier=sources
