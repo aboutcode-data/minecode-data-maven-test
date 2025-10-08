@@ -22,3 +22,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-h2@0.2.21?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-h2@0.2.23
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-h2@0.2.23?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-h2@0.2.24
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-h2@0.2.24?classifier=sources

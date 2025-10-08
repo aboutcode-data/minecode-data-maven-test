@@ -16,3 +16,5 @@
 - pkg:maven/org.jinq/jinq-jpa@0.8?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa@0.9
 - pkg:maven/org.jinq/jinq-jpa@0.9?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa@1.0rc1
+- pkg:maven/org.jinq/jinq-jpa@1.0rc1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.2.v20140723?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.3.v20140905?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.3.0.M0
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.3.0.M0?classifier=sources
