@@ -1,1 +1,3 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hadoop-core@0.20.203.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hadoop-core@1.0.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hadoop-core@1.0.0_1?classifier=sources
