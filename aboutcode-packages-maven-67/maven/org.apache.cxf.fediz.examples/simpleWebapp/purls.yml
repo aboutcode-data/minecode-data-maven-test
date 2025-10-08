@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.1.1?classifier=sources
 - pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.0.4?type=war
 - pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.0.4?classifier=sources
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.1.2?type=war
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.1.2?classifier=sources

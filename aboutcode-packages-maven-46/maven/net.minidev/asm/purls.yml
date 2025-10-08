@@ -4,3 +4,5 @@
 - pkg:maven/net.minidev/asm@1.0-RC3?classifier=sources
 - pkg:maven/net.minidev/asm@1.0
 - pkg:maven/net.minidev/asm@1.0?classifier=sources
+- pkg:maven/net.minidev/asm@1.0.2
+- pkg:maven/net.minidev/asm@1.0.2?classifier=sources
