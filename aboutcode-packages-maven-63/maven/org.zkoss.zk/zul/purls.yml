@@ -95,3 +95,5 @@
 - pkg:maven/org.zkoss.zk/zul@6.5.3?classifier=sources
 - pkg:maven/org.zkoss.zk/zul@6.5.4
 - pkg:maven/org.zkoss.zk/zul@6.5.4?classifier=sources
+- pkg:maven/org.zkoss.zk/zul@7.0.0
+- pkg:maven/org.zkoss.zk/zul@7.0.0?classifier=sources

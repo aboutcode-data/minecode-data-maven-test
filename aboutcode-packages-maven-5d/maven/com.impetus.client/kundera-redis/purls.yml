@@ -18,3 +18,5 @@
 - pkg:maven/com.impetus.client/kundera-redis@2.7.1?classifier=sources
 - pkg:maven/com.impetus.client/kundera-redis@2.8
 - pkg:maven/com.impetus.client/kundera-redis@2.8?classifier=sources
+- pkg:maven/com.impetus.client/kundera-redis@2.8.1
+- pkg:maven/com.impetus.client/kundera-redis@2.8.1?classifier=sources
