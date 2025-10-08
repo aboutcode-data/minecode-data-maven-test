@@ -10,3 +10,5 @@
 - pkg:maven/com.tunnelvisionlabs/antlr4-runtime@4.2.2?classifier=sources
 - pkg:maven/com.tunnelvisionlabs/antlr4-runtime@4.3
 - pkg:maven/com.tunnelvisionlabs/antlr4-runtime@4.3?classifier=sources
+- pkg:maven/com.tunnelvisionlabs/antlr4-runtime@4.3.1
+- pkg:maven/com.tunnelvisionlabs/antlr4-runtime@4.3.1?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/com.ibm.sbt/grantaccess.webapp@1.0.1?classifier=sources
 - pkg:maven/com.ibm.sbt/grantaccess.webapp@1.0.2.20140527-1807?type=war
 - pkg:maven/com.ibm.sbt/grantaccess.webapp@1.0.2.20140527-1807?classifier=sources
+- pkg:maven/com.ibm.sbt/grantaccess.webapp@1.1.0.20140717-1200?type=war
+- pkg:maven/com.ibm.sbt/grantaccess.webapp@1.1.0.20140717-1200?classifier=sources
+- pkg:maven/com.ibm.sbt/grantaccess.webapp@1.0.3.20140717-1200?type=war
+- pkg:maven/com.ibm.sbt/grantaccess.webapp@1.0.3.20140717-1200?classifier=sources
