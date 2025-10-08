@@ -2,3 +2,5 @@
 - pkg:maven/com.fasterxml/jackson-module-hibernate@0.7.0?classifier=sources
 - pkg:maven/com.fasterxml/jackson-module-hibernate@0.6.0
 - pkg:maven/com.fasterxml/jackson-module-hibernate@0.6.0?classifier=sources
+- pkg:maven/com.fasterxml/jackson-module-hibernate@1.9.0
+- pkg:maven/com.fasterxml/jackson-module-hibernate@1.9.0?classifier=sources

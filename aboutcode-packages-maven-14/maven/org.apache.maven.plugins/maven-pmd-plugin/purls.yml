@@ -21,3 +21,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@2.7
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@2.7?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@2.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@2.7.1
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@2.7.1?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@2.7.1?classifier=source-release&type=zip

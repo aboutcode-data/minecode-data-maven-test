@@ -1,2 +1,4 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@1.9.4
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@1.9.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.0.0-RC1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-csv@2.0.0-RC1?classifier=sources

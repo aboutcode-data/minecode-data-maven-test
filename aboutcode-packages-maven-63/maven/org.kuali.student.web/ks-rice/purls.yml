@@ -12,3 +12,5 @@
 - pkg:maven/org.kuali.student.web/ks-rice@1.1?classifier=sources
 - pkg:maven/org.kuali.student.web/ks-rice@1.2.1?type=war
 - pkg:maven/org.kuali.student.web/ks-rice@1.2.1?classifier=sources
+- pkg:maven/org.kuali.student.web/ks-rice@1.2.2-M2?type=war
+- pkg:maven/org.kuali.student.web/ks-rice@1.2.2-M2?classifier=sources

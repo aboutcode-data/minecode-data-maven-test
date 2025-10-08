@@ -74,3 +74,5 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@1.0.7?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@0.8.10
 - pkg:maven/org.apache.cassandra/cassandra-all@0.8.10?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@1.1.0-beta1
+- pkg:maven/org.apache.cassandra/cassandra-all@1.1.0-beta1?classifier=sources
