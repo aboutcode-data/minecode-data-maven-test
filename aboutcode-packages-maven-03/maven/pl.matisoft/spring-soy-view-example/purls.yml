@@ -14,3 +14,5 @@
 - pkg:maven/pl.matisoft/spring-soy-view-example@1.2?classifier=sources
 - pkg:maven/pl.matisoft/spring-soy-view-example@1.1?type=war
 - pkg:maven/pl.matisoft/spring-soy-view-example@1.1?classifier=sources
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.8?type=war
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.8?classifier=sources

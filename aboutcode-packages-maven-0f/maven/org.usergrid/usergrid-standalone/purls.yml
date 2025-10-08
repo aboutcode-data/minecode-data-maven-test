@@ -8,3 +8,5 @@
 - pkg:maven/org.usergrid/usergrid-standalone@0.0.15?classifier=sources
 - pkg:maven/org.usergrid/usergrid-standalone@0.0.26
 - pkg:maven/org.usergrid/usergrid-standalone@0.0.26?classifier=sources
+- pkg:maven/org.usergrid/usergrid-standalone@0.0.26.1
+- pkg:maven/org.usergrid/usergrid-standalone@0.0.26.1?classifier=sources

@@ -5,3 +5,6 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-jetty-websocketdraft8@1.0.14-vaadin2
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-jetty-websocketdraft8@1.0.14-vaadin2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-jetty-websocketdraft8@1.0.14.vaadin3
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-jetty-websocketdraft8@1.0.14.vaadin3?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-jetty-websocketdraft8@1.0.14.vaadin2
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-jetty-websocketdraft8@1.0.14.vaadin2?classifier=sources

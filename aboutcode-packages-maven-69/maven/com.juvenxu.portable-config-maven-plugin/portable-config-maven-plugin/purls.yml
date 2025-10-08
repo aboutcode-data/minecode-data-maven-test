@@ -1,0 +1,4 @@
+- pkg:maven/com.juvenxu.portable-config-maven-plugin/portable-config-maven-plugin@1.0.1
+- pkg:maven/com.juvenxu.portable-config-maven-plugin/portable-config-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/com.juvenxu.portable-config-maven-plugin/portable-config-maven-plugin@1.0.0
+- pkg:maven/com.juvenxu.portable-config-maven-plugin/portable-config-maven-plugin@1.0.0?classifier=sources
