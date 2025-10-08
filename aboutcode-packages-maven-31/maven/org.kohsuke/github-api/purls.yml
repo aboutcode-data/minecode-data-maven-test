@@ -80,3 +80,5 @@
 - pkg:maven/org.kohsuke/github-api@1.45?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.46
 - pkg:maven/org.kohsuke/github-api@1.46?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.47
+- pkg:maven/org.kohsuke/github-api@1.47?classifier=sources

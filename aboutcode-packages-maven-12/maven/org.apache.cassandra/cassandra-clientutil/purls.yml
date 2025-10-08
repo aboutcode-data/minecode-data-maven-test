@@ -95,3 +95,7 @@
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@1.2.11?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.0.2
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.0.2?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@2.0.3
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@2.0.3?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@1.2.12
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@1.2.12?classifier=sources

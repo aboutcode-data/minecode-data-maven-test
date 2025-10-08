@@ -170,3 +170,9 @@
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.7.7?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.6.10
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.6.10?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@3.0.0-milestone1
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@3.0.0-milestone1?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.7.8
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.7.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.6.11
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-xml@2.6.11?classifier=sources

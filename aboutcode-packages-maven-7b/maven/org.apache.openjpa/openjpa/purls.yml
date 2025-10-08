@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.openjpa/openjpa@1.2.3?classifier=sources
 - pkg:maven/org.apache.openjpa/openjpa@2.2.2
 - pkg:maven/org.apache.openjpa/openjpa@2.2.2?classifier=sources
+- pkg:maven/org.apache.openjpa/openjpa@2.3.0
+- pkg:maven/org.apache.openjpa/openjpa@2.3.0?classifier=sources

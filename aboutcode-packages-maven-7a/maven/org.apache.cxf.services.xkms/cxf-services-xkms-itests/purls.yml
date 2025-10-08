@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-itests@2.7.7
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-itests@2.7.7?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-itests@3.0.0-milestone1
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-itests@3.0.0-milestone1?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-itests@2.7.8
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-itests@2.7.8?classifier=sources
