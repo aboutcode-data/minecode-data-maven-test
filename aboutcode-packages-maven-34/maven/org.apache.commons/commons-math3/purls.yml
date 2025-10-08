@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.commons/commons-math3@3.3?classifier=sources
 - pkg:maven/org.apache.commons/commons-math3@3.4
 - pkg:maven/org.apache.commons/commons-math3@3.4?classifier=sources
+- pkg:maven/org.apache.commons/commons-math3@3.4.1
+- pkg:maven/org.apache.commons/commons-math3@3.4.1?classifier=sources

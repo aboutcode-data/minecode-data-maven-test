@@ -146,3 +146,5 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-api@2.1.17?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-api@2.0.23
 - pkg:maven/org.apache.myfaces.core/myfaces-api@2.0.23?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-api@2.2.7
+- pkg:maven/org.apache.myfaces.core/myfaces-api@2.2.7?classifier=sources

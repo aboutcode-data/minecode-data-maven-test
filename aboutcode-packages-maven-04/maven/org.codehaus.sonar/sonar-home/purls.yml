@@ -118,3 +118,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-home@5.0-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-home@4.5.2
 - pkg:maven/org.codehaus.sonar/sonar-home@4.5.2?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-home@5.0
+- pkg:maven/org.codehaus.sonar/sonar-home@5.0?classifier=sources
