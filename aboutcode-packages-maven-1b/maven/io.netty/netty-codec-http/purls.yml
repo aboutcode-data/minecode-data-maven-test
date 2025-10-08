@@ -14,3 +14,5 @@
 - pkg:maven/io.netty/netty-codec-http@4.0.0.Alpha7?classifier=sources
 - pkg:maven/io.netty/netty-codec-http@4.0.0.Alpha8
 - pkg:maven/io.netty/netty-codec-http@4.0.0.Alpha8?classifier=sources
+- pkg:maven/io.netty/netty-codec-http@4.0.0.Beta1
+- pkg:maven/io.netty/netty-codec-http@4.0.0.Beta1?classifier=sources

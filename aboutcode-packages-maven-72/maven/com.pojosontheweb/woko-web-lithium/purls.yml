@@ -32,3 +32,5 @@
 - pkg:maven/com.pojosontheweb/woko-web-lithium@2.1?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-web-lithium@2.2-beta?type=war
 - pkg:maven/com.pojosontheweb/woko-web-lithium@2.2-beta?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-web-lithium@2.2-beta2?type=war
+- pkg:maven/com.pojosontheweb/woko-web-lithium@2.2-beta2?classifier=sources
