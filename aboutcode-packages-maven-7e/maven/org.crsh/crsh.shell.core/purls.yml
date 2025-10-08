@@ -13,3 +13,5 @@
 - pkg:maven/org.crsh/crsh.shell.core@1.0.0-beta18
 - pkg:maven/org.crsh/crsh.shell.core@1.0.0-beta18?classifier=sources
 - pkg:maven/org.crsh/crsh.shell.core@1.0.0-beta17?classifier=sources
+- pkg:maven/org.crsh/crsh.shell.core@1.0.0-cr1
+- pkg:maven/org.crsh/crsh.shell.core@1.0.0-cr1?classifier=sources

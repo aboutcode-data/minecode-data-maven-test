@@ -53,3 +53,5 @@
 - pkg:maven/org.testng/testng@6.3.1?classifier=sources
 - pkg:maven/org.testng/testng@6.4
 - pkg:maven/org.testng/testng@6.4?classifier=sources
+- pkg:maven/org.testng/testng@6.5.1
+- pkg:maven/org.testng/testng@6.5.1?classifier=sources

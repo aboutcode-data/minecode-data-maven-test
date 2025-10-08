@@ -41,3 +41,5 @@
 - pkg:maven/org.datanucleus/datanucleus-cache@3.0.3?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-cache@3.0.4
 - pkg:maven/org.datanucleus/datanucleus-cache@3.0.4?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-cache@3.1.1
+- pkg:maven/org.datanucleus/datanucleus-cache@3.1.1?classifier=sources

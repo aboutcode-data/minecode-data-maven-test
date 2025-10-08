@@ -95,3 +95,7 @@
 - pkg:maven/org.hibernate/hibernate-envers@3.6.10.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-envers@4.1.1.Final
 - pkg:maven/org.hibernate/hibernate-envers@4.1.1.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-envers@4.1.2
+- pkg:maven/org.hibernate/hibernate-envers@4.1.2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-envers@4.1.2.Final
+- pkg:maven/org.hibernate/hibernate-envers@4.1.2.Final?classifier=sources

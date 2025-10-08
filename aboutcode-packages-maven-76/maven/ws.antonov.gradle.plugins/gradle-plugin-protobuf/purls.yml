@@ -1,2 +1,4 @@
 - pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.4
 - pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.4?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.5
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.5?classifier=sources
