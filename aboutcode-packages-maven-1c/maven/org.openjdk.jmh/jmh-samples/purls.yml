@@ -42,3 +42,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-samples@0.7.3?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-samples@0.8
 - pkg:maven/org.openjdk.jmh/jmh-samples@0.8?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-samples@0.9
+- pkg:maven/org.openjdk.jmh/jmh-samples@0.9?classifier=sources

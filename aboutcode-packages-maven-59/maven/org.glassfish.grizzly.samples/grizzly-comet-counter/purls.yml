@@ -44,3 +44,5 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-counter@2.3.12?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-counter@2.3.13?type=war
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-counter@2.3.13?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-counter@2.3.14?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-comet-counter@2.3.14?classifier=sources

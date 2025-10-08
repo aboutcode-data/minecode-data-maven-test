@@ -98,3 +98,5 @@
 - pkg:maven/org.drools/drools-persistence-jpa@5.0.1?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@5.0.0.CR1
 - pkg:maven/org.drools/drools-persistence-jpa@5.0.0.CR1?classifier=sources
+- pkg:maven/org.drools/drools-persistence-jpa@6.1.0.CR1
+- pkg:maven/org.drools/drools-persistence-jpa@6.1.0.CR1?classifier=sources
