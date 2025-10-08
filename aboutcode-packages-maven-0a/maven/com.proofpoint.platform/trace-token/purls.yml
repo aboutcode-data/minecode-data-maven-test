@@ -70,3 +70,5 @@
 - pkg:maven/com.proofpoint.platform/trace-token@0.84?classifier=sources
 - pkg:maven/com.proofpoint.platform/trace-token@0.87
 - pkg:maven/com.proofpoint.platform/trace-token@0.87?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@0.88
+- pkg:maven/com.proofpoint.platform/trace-token@0.88?classifier=sources
