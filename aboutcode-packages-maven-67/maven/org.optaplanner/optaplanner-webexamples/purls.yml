@@ -16,3 +16,5 @@
 - pkg:maven/org.optaplanner/optaplanner-webexamples@6.0.0.CR3?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-webexamples@6.0.0.CR4-Pre1?type=war
 - pkg:maven/org.optaplanner/optaplanner-webexamples@6.0.0.CR4-Pre1?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-webexamples@6.0.0.CR4?type=war
+- pkg:maven/org.optaplanner/optaplanner-webexamples@6.0.0.CR4?classifier=sources

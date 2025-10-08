@@ -18,3 +18,5 @@
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3?type=war
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3.1?type=war
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3.1?classifier=sources

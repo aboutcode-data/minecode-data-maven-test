@@ -6,3 +6,5 @@
 - pkg:maven/org.ninjaframework/ninja-ebean-demo@1.2?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-ebean-demo@1.2.2?type=war
 - pkg:maven/org.ninjaframework/ninja-ebean-demo@1.2.2?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-ebean-demo@1.3?type=war
+- pkg:maven/org.ninjaframework/ninja-ebean-demo@1.3?classifier=sources
