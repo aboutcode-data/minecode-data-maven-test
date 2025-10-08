@@ -24,3 +24,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@1.8.5?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@1.8.6
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@1.8.6?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac@1.9
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac@1.9?classifier=sources
