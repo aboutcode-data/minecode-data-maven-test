@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jsp-api@8.0.18?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jsp-api@7.0.59
 - pkg:maven/org.apache.tomcat/tomcat-jsp-api@7.0.59?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jsp-api@8.0.20
+- pkg:maven/org.apache.tomcat/tomcat-jsp-api@8.0.20?classifier=sources

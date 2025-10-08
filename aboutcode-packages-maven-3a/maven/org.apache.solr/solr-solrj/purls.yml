@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.solr/solr-solrj@4.10.2?classifier=sources
 - pkg:maven/org.apache.solr/solr-solrj@4.10.3
 - pkg:maven/org.apache.solr/solr-solrj@4.10.3?classifier=sources
+- pkg:maven/org.apache.solr/solr-solrj@5.0.0
+- pkg:maven/org.apache.solr/solr-solrj@5.0.0?classifier=sources
