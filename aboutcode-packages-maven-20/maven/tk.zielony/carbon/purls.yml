@@ -38,3 +38,5 @@
 - pkg:maven/tk.zielony/carbon@0.10.0.1?classifier=sources
 - pkg:maven/tk.zielony/carbon@0.10.0?type=aar
 - pkg:maven/tk.zielony/carbon@0.10.0?classifier=sources
+- pkg:maven/tk.zielony/carbon@0.10.1?type=aar
+- pkg:maven/tk.zielony/carbon@0.10.1?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/com.facebook.presto/presto-benchmark@0.114?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchmark@0.113
 - pkg:maven/com.facebook.presto/presto-benchmark@0.113?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.115
+- pkg:maven/com.facebook.presto/presto-benchmark@0.115?classifier=sources

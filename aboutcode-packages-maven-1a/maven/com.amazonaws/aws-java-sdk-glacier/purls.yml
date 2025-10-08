@@ -110,3 +110,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-glacier@1.10.9?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-glacier@1.10.10
 - pkg:maven/com.amazonaws/aws-java-sdk-glacier@1.10.10?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-glacier@1.10.11
+- pkg:maven/com.amazonaws/aws-java-sdk-glacier@1.10.11?classifier=sources
