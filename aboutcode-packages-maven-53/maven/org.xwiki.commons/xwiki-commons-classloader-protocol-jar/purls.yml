@@ -124,3 +124,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-classloader-protocol-jar@5.4.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-classloader-protocol-jar@6.0-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-classloader-protocol-jar@6.0-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-classloader-protocol-jar@5.4.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-classloader-protocol-jar@5.4.4?classifier=sources

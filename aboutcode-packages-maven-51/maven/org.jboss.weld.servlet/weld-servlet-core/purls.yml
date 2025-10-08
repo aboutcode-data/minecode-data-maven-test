@@ -102,3 +102,5 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-core@2.2.0.CR1?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-core@1.1.19.Final
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-core@1.1.19.Final?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-core@2.2.0.CR2
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-core@2.2.0.CR2?classifier=sources

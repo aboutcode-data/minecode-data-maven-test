@@ -22,3 +22,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-locks@2.7.2-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-locks@2.7.2-01
 - pkg:maven/org.sonatype.nexus/nexus-locks@2.7.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-locks@2.8.0-05
+- pkg:maven/org.sonatype.nexus/nexus-locks@2.8.0-05?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-locks@2.8.0-01
+- pkg:maven/org.sonatype.nexus/nexus-locks@2.8.0-01?classifier=sources
