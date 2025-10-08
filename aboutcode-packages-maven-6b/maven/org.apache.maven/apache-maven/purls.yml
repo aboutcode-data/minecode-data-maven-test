@@ -51,3 +51,5 @@
 - pkg:maven/org.apache.maven/apache-maven@2.0.10?classifier=sources
 - pkg:maven/org.apache.maven/apache-maven@3.0.4?classifier=src&type=zip
 - pkg:maven/org.apache.maven/apache-maven@3.0.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/apache-maven@3.0.5?classifier=src&type=zip
+- pkg:maven/org.apache.maven/apache-maven@3.0.5?classifier=src&type=tar.gz

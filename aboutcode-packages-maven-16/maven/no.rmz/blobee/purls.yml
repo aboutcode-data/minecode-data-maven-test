@@ -1,0 +1,4 @@
+- pkg:maven/no.rmz/blobee@1.2
+- pkg:maven/no.rmz/blobee@1.2?classifier=sources
+- pkg:maven/no.rmz/blobee@0.1
+- pkg:maven/no.rmz/blobee@0.1?classifier=sources

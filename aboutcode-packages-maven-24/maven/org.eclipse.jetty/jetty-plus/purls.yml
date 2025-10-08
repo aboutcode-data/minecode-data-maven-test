@@ -186,3 +186,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-plus@8.1.9.v20130131?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-plus@7.6.9.v20130131
 - pkg:maven/org.eclipse.jetty/jetty-plus@7.6.9.v20130131?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-plus@9.0.0.RC1
+- pkg:maven/org.eclipse.jetty/jetty-plus@9.0.0.RC1?classifier=sources

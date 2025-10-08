@@ -16,3 +16,5 @@
 - pkg:maven/org.codenarc/CodeNarc@0.17
 - pkg:maven/org.codenarc/CodeNarc@0.18
 - pkg:maven/org.codenarc/CodeNarc@0.18?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@0.18.1
+- pkg:maven/org.codenarc/CodeNarc@0.18.1?classifier=sources
