@@ -113,3 +113,4 @@
 - pkg:maven/org.sonatype.nexus/nexus-testsuite-client@2.11.0-01
 - pkg:maven/org.sonatype.nexus/nexus-testsuite-client@2.11.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-testsuite-client@2.11.1-01
+- pkg:maven/org.sonatype.nexus/nexus-testsuite-client@2.11.1-01?classifier=sources

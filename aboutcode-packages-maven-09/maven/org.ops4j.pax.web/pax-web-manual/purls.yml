@@ -1,2 +1,4 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@4.0.0?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@5.0.0.M1?type=war
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@4.0.1?type=war
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@4.0.1?classifier=sources

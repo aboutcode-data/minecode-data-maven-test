@@ -1,2 +1,4 @@
 - pkg:maven/org.onosproject/openflowj@0.3.7.oe
 - pkg:maven/org.onosproject/openflowj@0.3.7.oe?classifier=sources
+- pkg:maven/org.onosproject/openflowj@0.3.8.oe
+- pkg:maven/org.onosproject/openflowj@0.3.8.oe?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.inferred/freebuilder@1.0-rc2
+- pkg:maven/org.inferred/freebuilder@1.0-rc2?classifier=sources
+- pkg:maven/org.inferred/freebuilder@1.0-rc1
+- pkg:maven/org.inferred/freebuilder@1.0-rc1?classifier=sources

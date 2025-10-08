@@ -8,3 +8,5 @@
 - pkg:maven/org.neo4j.build.plugins/neo4j-doctools@26?classifier=sources
 - pkg:maven/org.neo4j.build.plugins/neo4j-doctools@27
 - pkg:maven/org.neo4j.build.plugins/neo4j-doctools@27?classifier=sources
+- pkg:maven/org.neo4j.build.plugins/neo4j-doctools@28
+- pkg:maven/org.neo4j.build.plugins/neo4j-doctools@28?classifier=sources
