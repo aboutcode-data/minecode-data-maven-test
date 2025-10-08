@@ -4,3 +4,9 @@
 - pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.0.RELEASE-hadoop24?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.1.RELEASE-hadoop25
+- pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.1.RELEASE-hadoop25?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.1.RELEASE-hadoop24
+- pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.1.RELEASE-hadoop24?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop-pig@2.1.1.RELEASE?classifier=sources

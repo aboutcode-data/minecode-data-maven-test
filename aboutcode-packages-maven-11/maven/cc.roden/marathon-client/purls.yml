@@ -1,0 +1,4 @@
+- pkg:maven/cc.roden/marathon-client@0.4.5
+- pkg:maven/cc.roden/marathon-client@0.4.5?classifier=sources
+- pkg:maven/cc.roden/marathon-client@0.4.4
+- pkg:maven/cc.roden/marathon-client@0.4.4?classifier=sources
