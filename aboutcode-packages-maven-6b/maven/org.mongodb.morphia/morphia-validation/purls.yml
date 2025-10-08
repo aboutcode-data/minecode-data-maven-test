@@ -12,3 +12,5 @@
 - pkg:maven/org.mongodb.morphia/morphia-validation@0.110?classifier=sources
 - pkg:maven/org.mongodb.morphia/morphia-validation@0.111
 - pkg:maven/org.mongodb.morphia/morphia-validation@0.111?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-validation@1.0.0-rc0
+- pkg:maven/org.mongodb.morphia/morphia-validation@1.0.0-rc0?classifier=sources
