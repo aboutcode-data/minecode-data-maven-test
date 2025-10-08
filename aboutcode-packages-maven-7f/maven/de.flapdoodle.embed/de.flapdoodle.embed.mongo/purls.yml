@@ -6,3 +6,5 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.20?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.19
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.19?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.23
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.23?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.novocode/junit-interface@0.9-RC2?classifier=sources
 - pkg:maven/com.novocode/junit-interface@0.9-RC3
 - pkg:maven/com.novocode/junit-interface@0.9-RC3?classifier=sources
+- pkg:maven/com.novocode/junit-interface@0.10-M1
+- pkg:maven/com.novocode/junit-interface@0.10-M1?classifier=sources

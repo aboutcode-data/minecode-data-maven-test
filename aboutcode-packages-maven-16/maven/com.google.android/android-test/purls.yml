@@ -16,3 +16,5 @@
 - pkg:maven/com.google.android/android-test@1.5_r3?classifier=sources
 - pkg:maven/com.google.android/android-test@4.0.1.2
 - pkg:maven/com.google.android/android-test@4.0.1.2?classifier=sources
+- pkg:maven/com.google.android/android-test@4.1.1.4
+- pkg:maven/com.google.android/android-test@4.1.1.4?classifier=sources
