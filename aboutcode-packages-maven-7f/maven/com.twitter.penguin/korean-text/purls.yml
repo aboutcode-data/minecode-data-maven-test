@@ -52,3 +52,7 @@
 - pkg:maven/com.twitter.penguin/korean-text@4.1.3?classifier=sources
 - pkg:maven/com.twitter.penguin/korean-text@4.1.4
 - pkg:maven/com.twitter.penguin/korean-text@4.1.4?classifier=sources
+- pkg:maven/com.twitter.penguin/korean-text@4.1.5-twitter
+- pkg:maven/com.twitter.penguin/korean-text@4.1.5-twitter?classifier=sources
+- pkg:maven/com.twitter.penguin/korean-text@4.1.5
+- pkg:maven/com.twitter.penguin/korean-text@4.1.5?classifier=sources
