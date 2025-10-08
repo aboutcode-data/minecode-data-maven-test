@@ -41,3 +41,5 @@
 - pkg:maven/net.java.dev.jna/jna@3.5.2?classifier=sources
 - pkg:maven/net.java.dev.jna/jna@4.0.0
 - pkg:maven/net.java.dev.jna/jna@4.0.0?classifier=sources
+- pkg:maven/net.java.dev.jna/jna@4.1.0
+- pkg:maven/net.java.dev.jna/jna@4.1.0?classifier=sources

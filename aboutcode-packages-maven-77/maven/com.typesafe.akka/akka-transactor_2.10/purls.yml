@@ -38,3 +38,7 @@
 - pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.3.0-RC3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.3.0-RC4
 - pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.3.0-RC4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.3.0
+- pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.3.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.2.4
+- pkg:maven/com.typesafe.akka/akka-transactor_2.10@2.2.4?classifier=sources

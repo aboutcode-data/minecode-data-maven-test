@@ -1,2 +1,6 @@
 - pkg:maven/net.openhft/collections@2.0
 - pkg:maven/net.openhft/collections@2.0?classifier=sources
+- pkg:maven/net.openhft/collections@3.0b
+- pkg:maven/net.openhft/collections@3.0b?classifier=sources
+- pkg:maven/net.openhft/collections@3.0a
+- pkg:maven/net.openhft/collections@3.0a?classifier=sources

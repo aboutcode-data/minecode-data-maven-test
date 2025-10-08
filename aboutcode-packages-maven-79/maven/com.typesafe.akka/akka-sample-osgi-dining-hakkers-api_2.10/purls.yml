@@ -11,3 +11,5 @@
 - pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-api_2.10@2.3.0-RC2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-api_2.10@2.3.0-RC3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-api_2.10@2.3.0-RC4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-api_2.10@2.3.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-api_2.10@2.2.4?classifier=sources
