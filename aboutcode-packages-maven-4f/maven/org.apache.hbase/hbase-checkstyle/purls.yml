@@ -60,3 +60,7 @@
 - pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16-hadoop2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16-hadoop1
 - pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16-hadoop1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16.1-hadoop2
+- pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16.1-hadoop2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16.1-hadoop1
+- pkg:maven/org.apache.hbase/hbase-checkstyle@0.98.16.1-hadoop1?classifier=sources
