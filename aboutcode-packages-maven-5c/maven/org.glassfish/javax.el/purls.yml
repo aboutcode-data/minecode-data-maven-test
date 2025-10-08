@@ -14,3 +14,5 @@
 - pkg:maven/org.glassfish/javax.el@3.0-b07?classifier=sources
 - pkg:maven/org.glassfish/javax.el@3.0.0
 - pkg:maven/org.glassfish/javax.el@3.0.0?classifier=sources
+- pkg:maven/org.glassfish/javax.el@3.0.1-b01
+- pkg:maven/org.glassfish/javax.el@3.0.1-b01?classifier=sources

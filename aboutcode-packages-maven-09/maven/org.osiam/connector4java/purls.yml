@@ -22,3 +22,5 @@
 - pkg:maven/org.osiam/connector4java@0.14?classifier=sources
 - pkg:maven/org.osiam/connector4java@0.15
 - pkg:maven/org.osiam/connector4java@0.15?classifier=sources
+- pkg:maven/org.osiam/connector4java@1.0
+- pkg:maven/org.osiam/connector4java@1.0?classifier=sources

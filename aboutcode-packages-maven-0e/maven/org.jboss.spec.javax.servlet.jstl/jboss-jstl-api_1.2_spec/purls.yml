@@ -29,3 +29,6 @@
 - pkg:maven/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec@1.0.6.Final
 - pkg:maven/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec@1.0.6.Final?classifier=sources
 - pkg:maven/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec@1.0.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec@1.1.1.Final
+- pkg:maven/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec@1.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec@1.1.1.Final?classifier=source-release&type=zip

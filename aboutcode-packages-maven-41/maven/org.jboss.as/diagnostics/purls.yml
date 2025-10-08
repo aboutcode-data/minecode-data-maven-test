@@ -68,3 +68,7 @@
 - pkg:maven/org.jboss.as/diagnostics@2.2.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/diagnostics@2.2.4.Final
 - pkg:maven/org.jboss.as/diagnostics@2.2.4.Final?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.2.6.Final
+- pkg:maven/org.jboss.as/diagnostics@2.2.6.Final?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.2.5.Final
+- pkg:maven/org.jboss.as/diagnostics@2.2.5.Final?classifier=sources

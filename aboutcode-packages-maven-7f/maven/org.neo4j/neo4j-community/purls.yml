@@ -136,3 +136,5 @@
 - pkg:maven/org.neo4j/neo4j-community@2.1.0-M02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-community@2.0.3
 - pkg:maven/org.neo4j/neo4j-community@2.0.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-community@2.1.0-RC1
+- pkg:maven/org.neo4j/neo4j-community@2.1.0-RC1?classifier=sources
