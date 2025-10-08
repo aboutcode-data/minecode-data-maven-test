@@ -74,3 +74,5 @@
 - pkg:maven/com.sun.jersey.samples/jersey-server-linking-sample@1.11.1?classifier=sources
 - pkg:maven/com.sun.jersey.samples/jersey-server-linking-sample@1.13?type=war
 - pkg:maven/com.sun.jersey.samples/jersey-server-linking-sample@1.13?classifier=sources
+- pkg:maven/com.sun.jersey.samples/jersey-server-linking-sample@1.14?type=war
+- pkg:maven/com.sun.jersey.samples/jersey-server-linking-sample@1.14?classifier=sources

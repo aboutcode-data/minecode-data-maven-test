@@ -147,3 +147,5 @@
 - pkg:maven/com.sun.jersey.contribs/jersey-guice@1.1.5.2?classifier=sources
 - pkg:maven/com.sun.jersey.contribs/jersey-guice@1.13
 - pkg:maven/com.sun.jersey.contribs/jersey-guice@1.13?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-guice@1.14
+- pkg:maven/com.sun.jersey.contribs/jersey-guice@1.14?classifier=sources

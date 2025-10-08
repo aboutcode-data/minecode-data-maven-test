@@ -30,3 +30,5 @@
 - pkg:maven/org.ow2.util/util-geolocation-gwt@1.0.34?classifier=sources
 - pkg:maven/org.ow2.util/util-geolocation-gwt@1.0.35?type=war
 - pkg:maven/org.ow2.util/util-geolocation-gwt@1.0.35?classifier=sources
+- pkg:maven/org.ow2.util/util-geolocation-gwt@1.0.36?type=war
+- pkg:maven/org.ow2.util/util-geolocation-gwt@1.0.36?classifier=sources
