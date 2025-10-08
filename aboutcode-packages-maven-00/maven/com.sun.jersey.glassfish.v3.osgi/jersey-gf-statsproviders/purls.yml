@@ -64,3 +64,5 @@
 - pkg:maven/com.sun.jersey.glassfish.v3.osgi/jersey-gf-statsproviders@1.11
 - pkg:maven/com.sun.jersey.glassfish.v3.osgi/jersey-gf-statsproviders@1.12-b01
 - pkg:maven/com.sun.jersey.glassfish.v3.osgi/jersey-gf-statsproviders@1.12
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jersey-gf-statsproviders@1.13-b01
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jersey-gf-statsproviders@1.13-b01?classifier=sources

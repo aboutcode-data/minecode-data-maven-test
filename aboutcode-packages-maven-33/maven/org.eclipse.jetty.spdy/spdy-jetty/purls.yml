@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@8.1.2.v20120308
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@8.1.2.v20120308?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@7.6.2.v20120308
+- pkg:maven/org.eclipse.jetty.spdy/spdy-jetty@7.6.2.v20120308?classifier=sources

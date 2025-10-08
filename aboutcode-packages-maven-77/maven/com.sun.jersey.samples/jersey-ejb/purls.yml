@@ -82,3 +82,5 @@
 - pkg:maven/com.sun.jersey.samples/jersey-ejb@1.12-b01?classifier=sources
 - pkg:maven/com.sun.jersey.samples/jersey-ejb@1.12?type=war
 - pkg:maven/com.sun.jersey.samples/jersey-ejb@1.12?classifier=sources
+- pkg:maven/com.sun.jersey.samples/jersey-ejb@1.13-b01?type=war
+- pkg:maven/com.sun.jersey.samples/jersey-ejb@1.13-b01?classifier=sources
