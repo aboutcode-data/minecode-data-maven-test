@@ -40,3 +40,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-update-center-common@1.11?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-update-center-common@1.12
 - pkg:maven/org.codehaus.sonar/sonar-update-center-common@1.12?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-update-center-common@1.12.1
+- pkg:maven/org.codehaus.sonar/sonar-update-center-common@1.12.1?classifier=sources
