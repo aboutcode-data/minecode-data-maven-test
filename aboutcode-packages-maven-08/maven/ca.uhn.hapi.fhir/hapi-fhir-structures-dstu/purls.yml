@@ -2,3 +2,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu@0.8?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu@0.9
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu@0.9?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu@1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu@1.0?classifier=sources

@@ -108,3 +108,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-authentication@4.1.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-authentication@3.2.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-authentication@3.2.2?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-authentication@3.2.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-authentication@3.2.3?classifier=sources

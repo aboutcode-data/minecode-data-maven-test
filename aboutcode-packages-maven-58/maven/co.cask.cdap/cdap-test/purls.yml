@@ -4,3 +4,5 @@
 - pkg:maven/co.cask.cdap/cdap-test@2.7.0?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-test@2.8.0
 - pkg:maven/co.cask.cdap/cdap-test@2.8.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-test@3.0.0
+- pkg:maven/co.cask.cdap/cdap-test@3.0.0?classifier=sources
