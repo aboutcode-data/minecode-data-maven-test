@@ -1,2 +1,4 @@
 - pkg:maven/org.owasp.appsensor/appsensor-reporting-websocket@2.0.0-beta
 - pkg:maven/org.owasp.appsensor/appsensor-reporting-websocket@2.0.0-beta?classifier=sources
+- pkg:maven/org.owasp.appsensor/appsensor-reporting-websocket@2.0.0-RC1
+- pkg:maven/org.owasp.appsensor/appsensor-reporting-websocket@2.0.0-RC1?classifier=sources
