@@ -234,3 +234,5 @@
 - pkg:maven/org.pustefixframework/pustefix-hangman@0.18.89?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-hangman@0.19.9?type=war
 - pkg:maven/org.pustefixframework/pustefix-hangman@0.19.9?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-hangman@0.19.10?type=war
+- pkg:maven/org.pustefixframework/pustefix-hangman@0.19.10?classifier=sources
