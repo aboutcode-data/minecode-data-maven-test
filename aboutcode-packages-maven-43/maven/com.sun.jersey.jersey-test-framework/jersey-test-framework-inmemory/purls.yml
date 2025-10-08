@@ -122,3 +122,5 @@
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-inmemory@1.13-b01?classifier=sources
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-inmemory@1.11.1
 - pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-inmemory@1.11.1?classifier=sources
+- pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-inmemory@1.13
+- pkg:maven/com.sun.jersey.jersey-test-framework/jersey-test-framework-inmemory@1.13?classifier=sources

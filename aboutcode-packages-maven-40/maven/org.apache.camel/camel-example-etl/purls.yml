@@ -69,3 +69,5 @@
 - pkg:maven/org.apache.camel/camel-example-etl@2.9.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-etl@2.8.5
 - pkg:maven/org.apache.camel/camel-example-etl@2.8.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-etl@2.10.0
+- pkg:maven/org.apache.camel/camel-example-etl@2.10.0?classifier=sources

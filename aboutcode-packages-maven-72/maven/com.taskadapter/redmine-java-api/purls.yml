@@ -4,3 +4,5 @@
 - pkg:maven/com.taskadapter/redmine-java-api@1.12.0?classifier=sources
 - pkg:maven/com.taskadapter/redmine-java-api@1.13
 - pkg:maven/com.taskadapter/redmine-java-api@1.13?classifier=sources
+- pkg:maven/com.taskadapter/redmine-java-api@1.14
+- pkg:maven/com.taskadapter/redmine-java-api@1.14?classifier=sources

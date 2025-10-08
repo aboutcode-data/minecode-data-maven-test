@@ -10,3 +10,5 @@
 - pkg:maven/com.google.appengine.orm/datanucleus-appengine@2.0.0-RC3
 - pkg:maven/com.google.appengine.orm/datanucleus-appengine@2.0.0
 - pkg:maven/com.google.appengine.orm/datanucleus-appengine@2.0.1
+- pkg:maven/com.google.appengine.orm/datanucleus-appengine@2.0.1.1
+- pkg:maven/com.google.appengine.orm/datanucleus-appengine@2.0.1.1?classifier=sources

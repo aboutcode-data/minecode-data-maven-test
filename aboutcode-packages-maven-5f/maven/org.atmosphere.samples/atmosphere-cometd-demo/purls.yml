@@ -1,2 +1,6 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-cometd-demo@1.0.0.beta1?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-cometd-demo@1.0.0.beta1?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-cometd-demo@1.0.0.beta2a?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-cometd-demo@1.0.0.beta2a?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-cometd-demo@1.0.0.beta2?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-cometd-demo@1.0.0.beta2?classifier=sources

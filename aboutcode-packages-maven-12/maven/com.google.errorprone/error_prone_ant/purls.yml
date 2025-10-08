@@ -2,3 +2,7 @@
 - pkg:maven/com.google.errorprone/error_prone_ant@0.8?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_ant@0.9
 - pkg:maven/com.google.errorprone/error_prone_ant@0.9?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_ant@0.92
+- pkg:maven/com.google.errorprone/error_prone_ant@0.92?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_ant@0.9.3
+- pkg:maven/com.google.errorprone/error_prone_ant@0.9.3?classifier=sources

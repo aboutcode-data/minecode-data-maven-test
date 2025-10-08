@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.lucene/lucene-facet@3.5.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-facet@3.6.0
 - pkg:maven/org.apache.lucene/lucene-facet@3.6.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-facet@4.0.0-ALPHA
+- pkg:maven/org.apache.lucene/lucene-facet@4.0.0-ALPHA?classifier=sources
