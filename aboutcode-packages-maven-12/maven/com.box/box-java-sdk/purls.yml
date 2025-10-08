@@ -4,3 +4,5 @@
 - pkg:maven/com.box/box-java-sdk@0.6.0?classifier=sources
 - pkg:maven/com.box/box-java-sdk@0.7.0
 - pkg:maven/com.box/box-java-sdk@0.7.0?classifier=sources
+- pkg:maven/com.box/box-java-sdk@1.0.0
+- pkg:maven/com.box/box-java-sdk@1.0.0?classifier=sources

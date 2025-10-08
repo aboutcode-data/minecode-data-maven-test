@@ -16,3 +16,7 @@
 - pkg:maven/com.roomorama/caldroid@1.1.7?classifier=sources
 - pkg:maven/com.roomorama/caldroid@1.1.8?type=aar
 - pkg:maven/com.roomorama/caldroid@1.1.8?classifier=sources
+- pkg:maven/com.roomorama/caldroid@2.0.0?type=aar
+- pkg:maven/com.roomorama/caldroid@2.0.0?classifier=sources
+- pkg:maven/com.roomorama/caldroid@2.0?type=aar
+- pkg:maven/com.roomorama/caldroid@2.0?classifier=sources

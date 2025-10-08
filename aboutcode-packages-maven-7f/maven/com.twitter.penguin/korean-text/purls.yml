@@ -32,3 +32,7 @@
 - pkg:maven/com.twitter.penguin/korean-text@2.5.1?classifier=sources
 - pkg:maven/com.twitter.penguin/korean-text@2.5
 - pkg:maven/com.twitter.penguin/korean-text@2.5?classifier=sources
+- pkg:maven/com.twitter.penguin/korean-text@3.1
+- pkg:maven/com.twitter.penguin/korean-text@3.1?classifier=sources
+- pkg:maven/com.twitter.penguin/korean-text@3.0
+- pkg:maven/com.twitter.penguin/korean-text@3.0?classifier=sources

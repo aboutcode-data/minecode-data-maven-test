@@ -68,3 +68,7 @@
 - pkg:maven/com.xebialabs.overthere/overthere@2.4.8?classifier=sources
 - pkg:maven/com.xebialabs.overthere/overthere@2.4.7
 - pkg:maven/com.xebialabs.overthere/overthere@2.4.7?classifier=sources
+- pkg:maven/com.xebialabs.overthere/overthere@4.0.0
+- pkg:maven/com.xebialabs.overthere/overthere@4.0.0?classifier=sources
+- pkg:maven/com.xebialabs.overthere/overthere@3.0.0
+- pkg:maven/com.xebialabs.overthere/overthere@3.0.0?classifier=sources

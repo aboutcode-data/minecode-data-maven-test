@@ -64,3 +64,5 @@
 - pkg:maven/com.netflix.feign/feign-jaxrs@8.0.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-jaxrs@7.4.0
 - pkg:maven/com.netflix.feign/feign-jaxrs@7.4.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-jaxrs@8.1.1
+- pkg:maven/com.netflix.feign/feign-jaxrs@8.1.1?classifier=sources
