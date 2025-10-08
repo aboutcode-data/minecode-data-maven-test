@@ -70,3 +70,5 @@
 - pkg:maven/com.vaadin/vaadin-client@7.1.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@7.1.13
 - pkg:maven/com.vaadin/vaadin-client@7.1.13?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@7.2.0.beta1
+- pkg:maven/com.vaadin/vaadin-client@7.2.0.beta1?classifier=sources
