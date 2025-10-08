@@ -1,2 +1,4 @@
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.6.0
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.6.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.6.1
+- pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.6.1?classifier=sources

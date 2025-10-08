@@ -44,3 +44,5 @@
 - pkg:maven/co.stateful/java-sdk@0.12.1?classifier=sources
 - pkg:maven/co.stateful/java-sdk@0.12
 - pkg:maven/co.stateful/java-sdk@0.12?classifier=sources
+- pkg:maven/co.stateful/java-sdk@0.12.4
+- pkg:maven/co.stateful/java-sdk@0.12.4?classifier=sources
