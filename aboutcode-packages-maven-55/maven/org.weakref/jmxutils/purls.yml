@@ -22,3 +22,5 @@
 - pkg:maven/org.weakref/jmxutils@1.12?classifier=sources
 - pkg:maven/org.weakref/jmxutils@1.13
 - pkg:maven/org.weakref/jmxutils@1.13?classifier=sources
+- pkg:maven/org.weakref/jmxutils@1.14
+- pkg:maven/org.weakref/jmxutils@1.14?classifier=sources
