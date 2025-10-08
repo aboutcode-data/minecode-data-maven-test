@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/jsonp@20
 - pkg:maven/com.wadpam.openserver/jsonp@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@21
+- pkg:maven/com.wadpam.openserver/jsonp@21?classifier=sources

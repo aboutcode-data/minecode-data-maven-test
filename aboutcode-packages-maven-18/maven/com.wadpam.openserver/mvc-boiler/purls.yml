@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/mvc-boiler@20
 - pkg:maven/com.wadpam.openserver/mvc-boiler@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@21
+- pkg:maven/com.wadpam.openserver/mvc-boiler@21?classifier=sources

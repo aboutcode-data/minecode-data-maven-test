@@ -4,3 +4,5 @@
 - pkg:maven/io.airlift/log-manager@0.73?classifier=sources
 - pkg:maven/io.airlift/log-manager@0.74
 - pkg:maven/io.airlift/log-manager@0.74?classifier=sources
+- pkg:maven/io.airlift/log-manager@0.75
+- pkg:maven/io.airlift/log-manager@0.75?classifier=sources

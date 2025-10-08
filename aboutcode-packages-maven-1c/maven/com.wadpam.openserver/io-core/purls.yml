@@ -1,2 +1,4 @@
 - pkg:maven/com.wadpam.openserver/io-core@20
 - pkg:maven/com.wadpam.openserver/io-core@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/io-core@21
+- pkg:maven/com.wadpam.openserver/io-core@21?classifier=sources
