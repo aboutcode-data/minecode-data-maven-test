@@ -24,3 +24,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.6.594?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.6.786
 - pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.6.786?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.6.800
+- pkg:maven/org.jetbrains.kotlin/kotlin-runtime@0.6.800?classifier=sources

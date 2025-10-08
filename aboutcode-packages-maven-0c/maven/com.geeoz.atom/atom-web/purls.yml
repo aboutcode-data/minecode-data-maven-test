@@ -1,2 +1,4 @@
 - pkg:maven/com.geeoz.atom/atom-web@1.0d10?type=war
 - pkg:maven/com.geeoz.atom/atom-web@1.0d10?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-web@1.0d11?type=war
+- pkg:maven/com.geeoz.atom/atom-web@1.0d11?classifier=sources
