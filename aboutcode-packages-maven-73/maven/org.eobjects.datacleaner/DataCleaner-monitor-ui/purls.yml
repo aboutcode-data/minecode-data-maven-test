@@ -10,3 +10,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@3.0.2?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@3.0.3?type=war
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@3.0.3?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@3.1-RC1?type=war
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-monitor-ui@3.1-RC1?classifier=sources

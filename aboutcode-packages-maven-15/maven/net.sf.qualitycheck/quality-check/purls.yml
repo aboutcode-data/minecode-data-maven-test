@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.qualitycheck/quality-check@0.9?classifier=sources
 - pkg:maven/net.sf.qualitycheck/quality-check@0.10
 - pkg:maven/net.sf.qualitycheck/quality-check@0.10?classifier=sources
+- pkg:maven/net.sf.qualitycheck/quality-check@1.0-RC1
+- pkg:maven/net.sf.qualitycheck/quality-check@1.0-RC1?classifier=sources
