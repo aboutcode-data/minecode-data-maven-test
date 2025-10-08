@@ -24,3 +24,5 @@
 - pkg:maven/org.codenarc/CodeNarc@0.20?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@0.21
 - pkg:maven/org.codenarc/CodeNarc@0.21?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@0.22
+- pkg:maven/org.codenarc/CodeNarc@0.22?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/org.jolokia/docker-maven-plugin@0.9.9?classifier=sources
 - pkg:maven/org.jolokia/docker-maven-plugin@0.9.10
 - pkg:maven/org.jolokia/docker-maven-plugin@0.9.10?classifier=sources
+- pkg:maven/org.jolokia/docker-maven-plugin@0.10.1
+- pkg:maven/org.jolokia/docker-maven-plugin@0.10.1?classifier=sources

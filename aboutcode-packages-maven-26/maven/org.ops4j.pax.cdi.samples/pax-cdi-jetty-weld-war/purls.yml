@@ -10,3 +10,5 @@
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-jetty-weld-war@0.7.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-jetty-weld-war@0.8.0?type=war
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-jetty-weld-war@0.8.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-jetty-weld-war@0.9.0?type=war
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-jetty-weld-war@0.9.0?classifier=sources

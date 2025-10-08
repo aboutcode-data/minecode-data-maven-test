@@ -86,3 +86,5 @@
 - pkg:maven/org.jetbrains.kotlin/kdoc@0.8.679?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kdoc@0.8.1527
 - pkg:maven/org.jetbrains.kotlin/kdoc@0.8.1527?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kdoc@0.9.66
+- pkg:maven/org.jetbrains.kotlin/kdoc@0.9.66?classifier=sources
