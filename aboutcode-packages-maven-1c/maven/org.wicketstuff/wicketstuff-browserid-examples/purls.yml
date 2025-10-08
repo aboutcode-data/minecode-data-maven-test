@@ -58,3 +58,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-browserid-examples@6.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-browserid-examples@6.13.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-browserid-examples@6.13.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-browserid-examples@6.14.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-browserid-examples@6.14.0?classifier=sources

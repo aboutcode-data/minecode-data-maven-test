@@ -94,3 +94,7 @@
 - pkg:maven/org.scalautils/scalautils_2.10@2.0.1-SNAP6?classifier=sources
 - pkg:maven/org.scalautils/scalautils_2.10@2.1.0-RC2
 - pkg:maven/org.scalautils/scalautils_2.10@2.1.0-RC2?classifier=sources
+- pkg:maven/org.scalautils/scalautils_2.10@2.1.0-RC3
+- pkg:maven/org.scalautils/scalautils_2.10@2.1.0-RC3?classifier=sources
+- pkg:maven/org.scalautils/scalautils_2.10@2.1.0
+- pkg:maven/org.scalautils/scalautils_2.10@2.1.0?classifier=sources
