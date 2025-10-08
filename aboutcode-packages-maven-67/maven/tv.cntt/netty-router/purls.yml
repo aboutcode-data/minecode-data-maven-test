@@ -16,3 +16,7 @@
 - pkg:maven/tv.cntt/netty-router@1.1?classifier=sources
 - pkg:maven/tv.cntt/netty-router@1.0
 - pkg:maven/tv.cntt/netty-router@1.0?classifier=sources
+- pkg:maven/tv.cntt/netty-router@1.9
+- pkg:maven/tv.cntt/netty-router@1.9?classifier=sources
+- pkg:maven/tv.cntt/netty-router@1.10
+- pkg:maven/tv.cntt/netty-router@1.10?classifier=sources

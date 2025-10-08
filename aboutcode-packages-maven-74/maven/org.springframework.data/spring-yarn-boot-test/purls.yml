@@ -10,3 +10,9 @@
 - pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.2.RELEASE-hadoop24?classifier=sources
 - pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.3.RELEASE-hadoop25
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.3.RELEASE-hadoop25?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.3.RELEASE-hadoop24
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.3.RELEASE-hadoop24?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.3.RELEASE
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.0.3.RELEASE?classifier=sources

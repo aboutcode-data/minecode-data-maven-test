@@ -188,3 +188,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-api@6.2.2?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-api@5.4.6
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-api@5.4.6?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-api@6.3-milestone-2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-api@6.3-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-api@6.2.3
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-api@6.2.3?classifier=sources
