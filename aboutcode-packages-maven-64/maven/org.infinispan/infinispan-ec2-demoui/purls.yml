@@ -180,3 +180,5 @@
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.13.Final?type=war
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.13.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.14.Final?type=war
+- pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.14.Final?classifier=sources

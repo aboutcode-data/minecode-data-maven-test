@@ -1,2 +1,4 @@
 - pkg:maven/org.simpleflatmapper/sfm@1.11b1
 - pkg:maven/org.simpleflatmapper/sfm@1.11b1?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm@2.0
+- pkg:maven/org.simpleflatmapper/sfm@2.0?classifier=sources

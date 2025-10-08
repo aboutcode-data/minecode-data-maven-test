@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.uima/jcasgen-maven-plugin@2.6.0?classifier=sources
 - pkg:maven/org.apache.uima/jcasgen-maven-plugin@2.7.0
 - pkg:maven/org.apache.uima/jcasgen-maven-plugin@2.7.0?classifier=sources
+- pkg:maven/org.apache.uima/jcasgen-maven-plugin@2.8.0
+- pkg:maven/org.apache.uima/jcasgen-maven-plugin@2.8.0?classifier=sources

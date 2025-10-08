@@ -108,3 +108,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.5.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.6.0?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.7.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.7.0?classifier=sources

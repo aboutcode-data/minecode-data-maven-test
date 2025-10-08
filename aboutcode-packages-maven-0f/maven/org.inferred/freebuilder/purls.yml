@@ -22,3 +22,5 @@
 - pkg:maven/org.inferred/freebuilder@1.0-rc10?classifier=sources
 - pkg:maven/org.inferred/freebuilder@1.0-rc11
 - pkg:maven/org.inferred/freebuilder@1.0-rc11?classifier=sources
+- pkg:maven/org.inferred/freebuilder@1.0
+- pkg:maven/org.inferred/freebuilder@1.0?classifier=sources
