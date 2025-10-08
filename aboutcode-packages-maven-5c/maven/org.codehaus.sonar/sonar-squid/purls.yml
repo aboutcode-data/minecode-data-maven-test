@@ -252,3 +252,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-squid@4.1-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-squid@3.7.4
 - pkg:maven/org.codehaus.sonar/sonar-squid@3.7.4?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-squid@4.1-RC4
+- pkg:maven/org.codehaus.sonar/sonar-squid@4.1-RC4?classifier=sources

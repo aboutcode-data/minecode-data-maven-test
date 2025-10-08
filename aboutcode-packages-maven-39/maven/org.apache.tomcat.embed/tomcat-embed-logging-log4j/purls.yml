@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.47?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.0-RC10
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.0-RC10?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.50
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@7.0.50?classifier=sources
