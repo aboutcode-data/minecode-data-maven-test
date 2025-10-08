@@ -1,2 +1,4 @@
 - pkg:maven/com.gwtplatform/gwtp-build-tools@0.7
 - pkg:maven/com.gwtplatform/gwtp-build-tools@0.7?classifier=sources
+- pkg:maven/com.gwtplatform/gwtp-build-tools@0.8a1
+- pkg:maven/com.gwtplatform/gwtp-build-tools@0.8a1?classifier=sources

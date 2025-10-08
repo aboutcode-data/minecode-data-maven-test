@@ -1,2 +1,4 @@
 - pkg:maven/com.github.jeluard/plantuml-maven-plugin@7941
 - pkg:maven/com.github.jeluard/plantuml-maven-plugin@7941?classifier=sources
+- pkg:maven/com.github.jeluard/plantuml-maven-plugin@7947
+- pkg:maven/com.github.jeluard/plantuml-maven-plugin@7947?classifier=sources

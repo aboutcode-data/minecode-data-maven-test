@@ -102,3 +102,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-http@2.3-beta7?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-http@2.3-beta9
 - pkg:maven/org.glassfish.grizzly/grizzly-http@2.3-beta9?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-http@2.3-rc1
+- pkg:maven/org.glassfish.grizzly/grizzly-http@2.3-rc1?classifier=sources
