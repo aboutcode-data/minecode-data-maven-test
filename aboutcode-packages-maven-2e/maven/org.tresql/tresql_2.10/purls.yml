@@ -14,3 +14,5 @@
 - pkg:maven/org.tresql/tresql_2.10@3.6?classifier=sources
 - pkg:maven/org.tresql/tresql_2.10@3.8
 - pkg:maven/org.tresql/tresql_2.10@3.8?classifier=sources
+- pkg:maven/org.tresql/tresql_2.10@3.9
+- pkg:maven/org.tresql/tresql_2.10@3.9?classifier=sources
