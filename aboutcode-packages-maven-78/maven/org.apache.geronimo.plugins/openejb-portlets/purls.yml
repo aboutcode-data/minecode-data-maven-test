@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.geronimo.plugins/openejb-portlets@2.2.1?classifier=sources
 - pkg:maven/org.apache.geronimo.plugins/openejb-portlets@2.2?type=war
 - pkg:maven/org.apache.geronimo.plugins/openejb-portlets@2.2?classifier=sources
+- pkg:maven/org.apache.geronimo.plugins/openejb-portlets@3.0-beta-1?type=war
+- pkg:maven/org.apache.geronimo.plugins/openejb-portlets@3.0-beta-1?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.8.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.7.4?type=war
 - pkg:maven/org.apache.camel/camel-example-spring-security@2.7.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-spring-security@2.9.0-RC1?type=war
+- pkg:maven/org.apache.camel/camel-example-spring-security@2.9.0-RC1?classifier=sources

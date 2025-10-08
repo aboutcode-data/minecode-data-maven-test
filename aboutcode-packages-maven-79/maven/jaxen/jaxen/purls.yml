@@ -22,3 +22,5 @@
 - pkg:maven/jaxen/jaxen@1.1
 - pkg:maven/jaxen/jaxen@1.0-FCS
 - pkg:maven/jaxen/jaxen@1.0-FCS?classifier=sources
+- pkg:maven/jaxen/jaxen@1.1.3
+- pkg:maven/jaxen/jaxen@1.1.3?classifier=sources
