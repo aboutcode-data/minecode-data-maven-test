@@ -88,3 +88,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher@2.0.0-M02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher@1.9.RC2
 - pkg:maven/org.neo4j/neo4j-cypher@1.9.RC2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher@1.9
+- pkg:maven/org.neo4j/neo4j-cypher@1.9?classifier=sources

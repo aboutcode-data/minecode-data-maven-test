@@ -34,3 +34,5 @@
 - pkg:maven/com.github.jknack/handlebars-springmvc@0.11.0?classifier=sources
 - pkg:maven/com.github.jknack/handlebars-springmvc@0.12.0
 - pkg:maven/com.github.jknack/handlebars-springmvc@0.12.0?classifier=sources
+- pkg:maven/com.github.jknack/handlebars-springmvc@1.0.0
+- pkg:maven/com.github.jknack/handlebars-springmvc@1.0.0?classifier=sources

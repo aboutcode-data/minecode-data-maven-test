@@ -1,2 +1,4 @@
 - pkg:maven/com.codahale.metrics/metrics-httpclient@3.0.0-BETA2
 - pkg:maven/com.codahale.metrics/metrics-httpclient@3.0.0-BETA2?classifier=sources
+- pkg:maven/com.codahale.metrics/metrics-httpclient@3.0.0-BETA3
+- pkg:maven/com.codahale.metrics/metrics-httpclient@3.0.0-BETA3?classifier=sources

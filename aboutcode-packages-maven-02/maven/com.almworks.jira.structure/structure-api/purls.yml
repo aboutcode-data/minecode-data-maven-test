@@ -32,3 +32,7 @@
 - pkg:maven/com.almworks.jira.structure/structure-api@6.2.0?classifier=sources
 - pkg:maven/com.almworks.jira.structure/structure-api@7.3.0
 - pkg:maven/com.almworks.jira.structure/structure-api@7.3.0?classifier=sources
+- pkg:maven/com.almworks.jira.structure/structure-api@8.0.0
+- pkg:maven/com.almworks.jira.structure/structure-api@8.0.0?classifier=sources
+- pkg:maven/com.almworks.jira.structure/structure-api@7.4.0
+- pkg:maven/com.almworks.jira.structure/structure-api@7.4.0?classifier=sources

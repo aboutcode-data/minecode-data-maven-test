@@ -38,3 +38,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-atomikos@8.1.10.v20130312?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-atomikos@7.6.10.v20130312
 - pkg:maven/org.mortbay.jetty/jetty-atomikos@7.6.10.v20130312?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-atomikos@8.1.11.v20130520
+- pkg:maven/org.mortbay.jetty/jetty-atomikos@8.1.11.v20130520?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-atomikos@7.6.11.v20130520
+- pkg:maven/org.mortbay.jetty/jetty-atomikos@7.6.11.v20130520?classifier=sources

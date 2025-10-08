@@ -64,3 +64,5 @@
 - pkg:maven/org.springframework/spring-jms@3.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-jms@3.2.2.RELEASE
 - pkg:maven/org.springframework/spring-jms@3.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-jms@3.2.3.RELEASE
+- pkg:maven/org.springframework/spring-jms@3.2.3.RELEASE?classifier=sources

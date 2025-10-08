@@ -50,3 +50,7 @@
 - pkg:maven/com.proofpoint.platform/dbpool@0.69?classifier=sources
 - pkg:maven/com.proofpoint.platform/dbpool@0.70
 - pkg:maven/com.proofpoint.platform/dbpool@0.70?classifier=sources
+- pkg:maven/com.proofpoint.platform/dbpool@0.72
+- pkg:maven/com.proofpoint.platform/dbpool@0.72?classifier=sources
+- pkg:maven/com.proofpoint.platform/dbpool@0.71
+- pkg:maven/com.proofpoint.platform/dbpool@0.71?classifier=sources
