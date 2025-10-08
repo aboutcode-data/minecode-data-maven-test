@@ -1,2 +1,4 @@
 - pkg:maven/net.donky/donky-module-messaging-logic@2.1.0.16?type=aar
 - pkg:maven/net.donky/donky-module-messaging-logic@2.1.0.16?classifier=sources
+- pkg:maven/net.donky/donky-module-messaging-logic@2.2.0.0?type=aar
+- pkg:maven/net.donky/donky-module-messaging-logic@2.2.0.0?classifier=sources

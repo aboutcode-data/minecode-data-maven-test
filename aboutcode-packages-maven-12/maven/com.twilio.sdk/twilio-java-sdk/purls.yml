@@ -60,3 +60,5 @@
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@4.4.4?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@4.4.3
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@4.4.3?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@4.4.5
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@4.4.5?classifier=sources

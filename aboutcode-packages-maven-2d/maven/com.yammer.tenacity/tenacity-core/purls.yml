@@ -88,3 +88,7 @@
 - pkg:maven/com.yammer.tenacity/tenacity-core@0.6.9?classifier=sources
 - pkg:maven/com.yammer.tenacity/tenacity-core@0.5.12
 - pkg:maven/com.yammer.tenacity/tenacity-core@0.5.12?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.6.10
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.6.10?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.5.13
+- pkg:maven/com.yammer.tenacity/tenacity-core@0.5.13?classifier=sources

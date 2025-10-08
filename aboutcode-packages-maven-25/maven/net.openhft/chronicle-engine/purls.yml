@@ -38,3 +38,5 @@
 - pkg:maven/net.openhft/chronicle-engine@1.5.31-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-engine@1.5.30-beta
 - pkg:maven/net.openhft/chronicle-engine@1.5.30-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine@1.6.0-beta
+- pkg:maven/net.openhft/chronicle-engine@1.6.0-beta?classifier=sources
