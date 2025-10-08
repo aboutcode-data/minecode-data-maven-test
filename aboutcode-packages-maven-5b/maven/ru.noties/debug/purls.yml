@@ -1,2 +1,4 @@
 - pkg:maven/ru.noties/debug@1.1.0?type=aar
 - pkg:maven/ru.noties/debug@1.1.0?classifier=sources
+- pkg:maven/ru.noties/debug@1.1.1?type=aar
+- pkg:maven/ru.noties/debug@1.1.1?classifier=sources

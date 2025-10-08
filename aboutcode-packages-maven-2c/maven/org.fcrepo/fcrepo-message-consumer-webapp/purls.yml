@@ -4,3 +4,5 @@
 - pkg:maven/org.fcrepo/fcrepo-message-consumer-webapp@4.0.0-beta-03?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-message-consumer-webapp@4.0.0-beta-04?type=war
 - pkg:maven/org.fcrepo/fcrepo-message-consumer-webapp@4.0.0-beta-04?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-message-consumer-webapp@4.0.0?type=war
+- pkg:maven/org.fcrepo/fcrepo-message-consumer-webapp@4.0.0?classifier=sources

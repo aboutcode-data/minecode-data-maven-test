@@ -120,3 +120,5 @@
 - pkg:maven/org.ninjaframework/ninja-core@3.3.3?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-core@4.0.0
 - pkg:maven/org.ninjaframework/ninja-core@4.0.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-core@4.0.1
+- pkg:maven/org.ninjaframework/ninja-core@4.0.1?classifier=sources
