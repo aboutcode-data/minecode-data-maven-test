@@ -4,3 +4,5 @@
 - pkg:maven/no.digipost/digipost-api-client-java@1.0?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@1.2?type=zip
 - pkg:maven/no.digipost/digipost-api-client-java@1.2?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@1.5?type=zip
+- pkg:maven/no.digipost/digipost-api-client-java@1.5?classifier=sources
