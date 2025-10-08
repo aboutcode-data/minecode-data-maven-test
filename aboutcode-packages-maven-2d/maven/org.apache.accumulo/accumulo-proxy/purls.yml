@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.5.3?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.6.3
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.6.3?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-proxy@1.5.4
+- pkg:maven/org.apache.accumulo/accumulo-proxy@1.5.4?classifier=sources

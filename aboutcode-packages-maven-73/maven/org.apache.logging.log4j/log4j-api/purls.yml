@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.logging.log4j/log4j-api@2.2?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-api@2.3
 - pkg:maven/org.apache.logging.log4j/log4j-api@2.3?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-api@2.4
+- pkg:maven/org.apache.logging.log4j/log4j-api@2.4?classifier=sources
