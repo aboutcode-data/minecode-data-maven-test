@@ -20,3 +20,5 @@
 - pkg:maven/io.vertx/vertx-core@2.0.1-final?classifier=sources
 - pkg:maven/io.vertx/vertx-core@2.0.2-final
 - pkg:maven/io.vertx/vertx-core@2.0.2-final?classifier=sources
+- pkg:maven/io.vertx/vertx-core@2.1M1
+- pkg:maven/io.vertx/vertx-core@2.1M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dspace/dspace-rest@4.0-rc1?type=war
+- pkg:maven/org.dspace/dspace-rest@4.0-rc1?classifier=sources

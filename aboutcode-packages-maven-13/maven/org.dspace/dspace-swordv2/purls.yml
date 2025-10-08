@@ -24,3 +24,5 @@
 - pkg:maven/org.dspace/dspace-swordv2@3.2?classifier=sources
 - pkg:maven/org.dspace/dspace-swordv2@1.8.3?type=war
 - pkg:maven/org.dspace/dspace-swordv2@1.8.3?classifier=sources
+- pkg:maven/org.dspace/dspace-swordv2@4.0-rc1?type=war
+- pkg:maven/org.dspace/dspace-swordv2@4.0-rc1?classifier=sources
