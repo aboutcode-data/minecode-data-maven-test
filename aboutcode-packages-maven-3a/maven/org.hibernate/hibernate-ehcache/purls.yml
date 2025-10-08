@@ -239,3 +239,5 @@
 - pkg:maven/org.hibernate/hibernate-ehcache@5.0.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-ehcache@5.0.2.Final
 - pkg:maven/org.hibernate/hibernate-ehcache@5.0.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-ehcache@4.2.21.Final
+- pkg:maven/org.hibernate/hibernate-ehcache@4.2.21.Final?classifier=sources

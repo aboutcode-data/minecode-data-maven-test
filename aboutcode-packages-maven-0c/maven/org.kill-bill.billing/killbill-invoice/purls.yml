@@ -68,3 +68,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-invoice@0.15.4?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-invoice@0.15.6
 - pkg:maven/org.kill-bill.billing/killbill-invoice@0.15.6?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-invoice@0.15.7
+- pkg:maven/org.kill-bill.billing/killbill-invoice@0.15.7?classifier=sources

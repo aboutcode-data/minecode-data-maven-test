@@ -8,3 +8,5 @@
 - pkg:maven/org.hawkular/hawkular-avail-creator@1.0.0.Alpha4?classifier=sources
 - pkg:maven/org.hawkular/hawkular-avail-creator@1.0.0.Alpha5?type=war
 - pkg:maven/org.hawkular/hawkular-avail-creator@1.0.0.Alpha5?classifier=sources
+- pkg:maven/org.hawkular/hawkular-avail-creator@1.0.0.Alpha6?type=war
+- pkg:maven/org.hawkular/hawkular-avail-creator@1.0.0.Alpha6?classifier=sources

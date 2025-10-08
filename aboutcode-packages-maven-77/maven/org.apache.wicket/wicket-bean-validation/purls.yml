@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.0.0-M6?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.0.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.0.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@7.1.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@7.1.0?classifier=sources
