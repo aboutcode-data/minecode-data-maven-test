@@ -49,3 +49,5 @@
 - pkg:maven/org.infinispan/infinispan-server-core@5.2.0.Alpha3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-core@5.1.7.Final
 - pkg:maven/org.infinispan/infinispan-server-core@5.1.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-core@5.2.0.Alpha4
+- pkg:maven/org.infinispan/infinispan-server-core@5.2.0.Alpha4?classifier=sources
