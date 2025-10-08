@@ -194,3 +194,5 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-base@2.3.0.Beta2?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-base@2.3.0.Beta3
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-base@2.3.0.Beta3?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-base@2.2.15.Final
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-base@2.2.15.Final?classifier=sources

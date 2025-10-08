@@ -30,3 +30,5 @@
 - pkg:maven/org.liquibase/liquibase-cdi@3.3.4?classifier=sources
 - pkg:maven/org.liquibase/liquibase-cdi@3.4.0
 - pkg:maven/org.liquibase/liquibase-cdi@3.4.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-cdi@3.4.1
+- pkg:maven/org.liquibase/liquibase-cdi@3.4.1?classifier=sources
