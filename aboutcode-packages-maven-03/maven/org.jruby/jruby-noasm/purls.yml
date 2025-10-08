@@ -36,3 +36,5 @@
 - pkg:maven/org.jruby/jruby-noasm@1.7.19?classifier=sources
 - pkg:maven/org.jruby/jruby-noasm@1.7.20
 - pkg:maven/org.jruby/jruby-noasm@1.7.20?classifier=sources
+- pkg:maven/org.jruby/jruby-noasm@1.7.20.1
+- pkg:maven/org.jruby/jruby-noasm@1.7.20.1?classifier=sources
