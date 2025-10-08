@@ -194,3 +194,5 @@
 - pkg:maven/com.vaadin/vaadin-client@7.5.0.rc2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@7.5.0
 - pkg:maven/com.vaadin/vaadin-client@7.5.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@7.6.0.alpha2
+- pkg:maven/com.vaadin/vaadin-client@7.6.0.alpha2?classifier=sources
