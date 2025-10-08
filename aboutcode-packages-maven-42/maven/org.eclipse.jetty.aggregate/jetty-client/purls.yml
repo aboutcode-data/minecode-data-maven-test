@@ -146,3 +146,7 @@
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-client@8.1.4.v20120524?classifier=sources
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-client@7.6.4.v20120524
 - pkg:maven/org.eclipse.jetty.aggregate/jetty-client@7.6.4.v20120524?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-client@8.1.5.v20120716
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-client@8.1.5.v20120716?classifier=sources
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-client@7.6.5.v20120716
+- pkg:maven/org.eclipse.jetty.aggregate/jetty-client@7.6.5.v20120716?classifier=sources

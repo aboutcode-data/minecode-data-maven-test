@@ -27,3 +27,5 @@
 - pkg:maven/com.thoughtworks.xstream/xstream@0.1
 - pkg:maven/com.thoughtworks.xstream/xstream@1.4.2
 - pkg:maven/com.thoughtworks.xstream/xstream@1.4.2?classifier=sources
+- pkg:maven/com.thoughtworks.xstream/xstream@1.4.3
+- pkg:maven/com.thoughtworks.xstream/xstream@1.4.3?classifier=sources

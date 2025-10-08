@@ -1,2 +1,4 @@
 - pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.12
 - pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.12?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.13
+- pkg:maven/com.sun.istack/istack-commons-maven-plugin@2.13?classifier=sources

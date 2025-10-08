@@ -6,3 +6,7 @@
 - pkg:maven/com.devbliss.doctest/doctest@0.2.0?classifier=sources
 - pkg:maven/com.devbliss.doctest/doctest@0.1
 - pkg:maven/com.devbliss.doctest/doctest@0.1?classifier=sources
+- pkg:maven/com.devbliss.doctest/doctest@0.4.1
+- pkg:maven/com.devbliss.doctest/doctest@0.4.1?classifier=sources
+- pkg:maven/com.devbliss.doctest/doctest@0.4
+- pkg:maven/com.devbliss.doctest/doctest@0.4?classifier=sources

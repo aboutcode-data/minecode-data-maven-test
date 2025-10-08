@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.solr/solr-cell@3.6.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-cell@4.0.0-ALPHA
 - pkg:maven/org.apache.solr/solr-cell@4.0.0-ALPHA?classifier=sources
+- pkg:maven/org.apache.solr/solr-cell@3.6.1
+- pkg:maven/org.apache.solr/solr-cell@3.6.1?classifier=sources
