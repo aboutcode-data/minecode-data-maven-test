@@ -4,3 +4,5 @@
 - pkg:maven/io.dropwizard/dropwizard-views-freemarker@0.7.0-rc2?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-freemarker@0.7.0-rc3
 - pkg:maven/io.dropwizard/dropwizard-views-freemarker@0.7.0-rc3?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-freemarker@0.7.0
+- pkg:maven/io.dropwizard/dropwizard-views-freemarker@0.7.0?classifier=sources

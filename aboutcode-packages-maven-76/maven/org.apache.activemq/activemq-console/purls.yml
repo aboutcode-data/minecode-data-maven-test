@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.activemq/activemq-console@5.8.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-console@5.9.0
 - pkg:maven/org.apache.activemq/activemq-console@5.9.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-console@5.9.1
+- pkg:maven/org.apache.activemq/activemq-console@5.9.1?classifier=sources
