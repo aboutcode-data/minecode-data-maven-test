@@ -24,3 +24,5 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@0.9.3?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.alpha
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.alpha?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.beta
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-httpclient@1.0.beta?classifier=sources
