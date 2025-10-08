@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.wicket/wicket-cdi@7.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-cdi@7.1.0
 - pkg:maven/org.apache.wicket/wicket-cdi@7.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-cdi@6.21.0
+- pkg:maven/org.apache.wicket/wicket-cdi@6.21.0?classifier=sources

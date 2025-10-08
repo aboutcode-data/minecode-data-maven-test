@@ -70,3 +70,5 @@
 - pkg:maven/org.grouplens.lenskit/lenskit-api@3.0-T1?classifier=sources
 - pkg:maven/org.grouplens.lenskit/lenskit-api@3.0-T2
 - pkg:maven/org.grouplens.lenskit/lenskit-api@3.0-T2?classifier=sources
+- pkg:maven/org.grouplens.lenskit/lenskit-api@2.2.1
+- pkg:maven/org.grouplens.lenskit/lenskit-api@2.2.1?classifier=sources

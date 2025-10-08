@@ -57,3 +57,5 @@
 - pkg:maven/org.craftercms/crafter-profile@2.4.4?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile@2.5.0.e?type=war
 - pkg:maven/org.craftercms/crafter-profile@2.5.0.e?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile@2.5.0.1.e?type=war
+- pkg:maven/org.craftercms/crafter-profile@2.5.0.1.e?classifier=sources

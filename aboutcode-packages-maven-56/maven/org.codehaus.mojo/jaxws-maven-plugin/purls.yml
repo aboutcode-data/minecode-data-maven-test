@@ -20,3 +20,6 @@
 - pkg:maven/org.codehaus.mojo/jaxws-maven-plugin@1.10?classifier=sources
 - pkg:maven/org.codehaus.mojo/jaxws-maven-plugin@1.0
 - pkg:maven/org.codehaus.mojo/jaxws-maven-plugin@1.0?classifier=sources
+- pkg:maven/org.codehaus.mojo/jaxws-maven-plugin@2.4
+- pkg:maven/org.codehaus.mojo/jaxws-maven-plugin@2.4?classifier=sources
+- pkg:maven/org.codehaus.mojo/jaxws-maven-plugin@2.4?classifier=source-release&type=zip

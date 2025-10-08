@@ -40,3 +40,9 @@
 - pkg:maven/org.dspace/dspace-lni@5.2?classifier=sources
 - pkg:maven/org.dspace/dspace-lni@5.3?type=war
 - pkg:maven/org.dspace/dspace-lni@5.3?classifier=sources
+- pkg:maven/org.dspace/dspace-lni@5.4?type=war
+- pkg:maven/org.dspace/dspace-lni@5.4?classifier=sources
+- pkg:maven/org.dspace/dspace-lni@4.4?type=war
+- pkg:maven/org.dspace/dspace-lni@4.4?classifier=sources
+- pkg:maven/org.dspace/dspace-lni@3.5?type=war
+- pkg:maven/org.dspace/dspace-lni@3.5?classifier=sources

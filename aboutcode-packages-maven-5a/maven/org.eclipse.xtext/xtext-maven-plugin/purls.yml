@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.9.0.beta4?classifier=sources
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.9.0.beta6
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.9.0.beta6?classifier=sources
+- pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.9.0.rc1
+- pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.9.0.rc1?classifier=sources

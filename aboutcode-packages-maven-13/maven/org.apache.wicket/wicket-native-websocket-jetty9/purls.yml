@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-jetty9@7.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-jetty9@7.1.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-jetty9@7.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-jetty9@6.21.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-jetty9@6.21.0?classifier=sources
