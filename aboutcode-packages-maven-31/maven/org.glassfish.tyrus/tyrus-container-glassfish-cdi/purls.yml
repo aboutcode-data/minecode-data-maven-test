@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.0-b11
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.0-b11?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.0-b12
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.0-b12?classifier=sources
