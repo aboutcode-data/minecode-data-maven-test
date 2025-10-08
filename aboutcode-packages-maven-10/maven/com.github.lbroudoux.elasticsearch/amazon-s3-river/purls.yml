@@ -12,3 +12,5 @@
 - pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.3.0?classifier=sources
 - pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.0?type=zip
 - pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.0?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.1?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.1?classifier=sources

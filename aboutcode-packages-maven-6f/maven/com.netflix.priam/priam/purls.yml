@@ -22,3 +22,7 @@
 - pkg:maven/com.netflix.priam/priam@2.0.5?classifier=sources
 - pkg:maven/com.netflix.priam/priam@2.0.16
 - pkg:maven/com.netflix.priam/priam@2.0.16?classifier=sources
+- pkg:maven/com.netflix.priam/priam@2.2.0
+- pkg:maven/com.netflix.priam/priam@2.2.0?classifier=sources
+- pkg:maven/com.netflix.priam/priam@2.1.0
+- pkg:maven/com.netflix.priam/priam@2.1.0?classifier=sources
