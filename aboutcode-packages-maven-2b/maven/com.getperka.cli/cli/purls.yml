@@ -2,3 +2,5 @@
 - pkg:maven/com.getperka.cli/cli@1.13?classifier=sources
 - pkg:maven/com.getperka.cli/cli@1.14
 - pkg:maven/com.getperka.cli/cli@1.14?classifier=sources
+- pkg:maven/com.getperka.cli/cli@1.15
+- pkg:maven/com.getperka.cli/cli@1.15?classifier=sources

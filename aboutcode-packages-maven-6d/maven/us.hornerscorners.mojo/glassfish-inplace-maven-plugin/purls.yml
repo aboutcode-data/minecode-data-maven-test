@@ -1,2 +1,4 @@
 - pkg:maven/us.hornerscorners.mojo/glassfish-inplace-maven-plugin@1.0
 - pkg:maven/us.hornerscorners.mojo/glassfish-inplace-maven-plugin@1.0?classifier=sources
+- pkg:maven/us.hornerscorners.mojo/glassfish-inplace-maven-plugin@1.1
+- pkg:maven/us.hornerscorners.mojo/glassfish-inplace-maven-plugin@1.1?classifier=sources
