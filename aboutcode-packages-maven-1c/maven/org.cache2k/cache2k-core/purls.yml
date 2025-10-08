@@ -4,3 +4,5 @@
 - pkg:maven/org.cache2k/cache2k-core@0.19.2?classifier=sources
 - pkg:maven/org.cache2k/cache2k-core@0.20
 - pkg:maven/org.cache2k/cache2k-core@0.20?classifier=sources
+- pkg:maven/org.cache2k/cache2k-core@0.21
+- pkg:maven/org.cache2k/cache2k-core@0.21?classifier=sources
