@@ -158,3 +158,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-markdown@4.0-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-markdown@4.0
 - pkg:maven/org.codehaus.sonar/sonar-markdown@4.0?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-markdown@4.1-RC2
+- pkg:maven/org.codehaus.sonar/sonar-markdown@4.1-RC2?classifier=sources
