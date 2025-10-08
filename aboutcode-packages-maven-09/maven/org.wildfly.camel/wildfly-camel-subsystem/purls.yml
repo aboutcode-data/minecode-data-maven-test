@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem@3.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem@3.2.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem@3.2.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem@2.3.0.redhat-621084
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem@2.3.0.redhat-621084?classifier=sources

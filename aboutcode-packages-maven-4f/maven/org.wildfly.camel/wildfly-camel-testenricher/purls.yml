@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@3.2.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@3.2.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621084
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621084?classifier=sources
