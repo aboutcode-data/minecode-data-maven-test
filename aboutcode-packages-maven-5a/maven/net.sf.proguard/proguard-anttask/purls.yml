@@ -22,3 +22,5 @@
 - pkg:maven/net.sf.proguard/proguard-anttask@4.11?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-anttask@5.0
 - pkg:maven/net.sf.proguard/proguard-anttask@5.0?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-anttask@5.1
+- pkg:maven/net.sf.proguard/proguard-anttask@5.1?classifier=sources
