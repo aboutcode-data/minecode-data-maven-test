@@ -2,3 +2,5 @@
 - pkg:maven/com.orientechnologies/orientdb-graphdb@1.0rc9?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-graphdb@1.0
 - pkg:maven/com.orientechnologies/orientdb-graphdb@1.0?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-graphdb@1.1.0
+- pkg:maven/com.orientechnologies/orientdb-graphdb@1.1.0?classifier=sources

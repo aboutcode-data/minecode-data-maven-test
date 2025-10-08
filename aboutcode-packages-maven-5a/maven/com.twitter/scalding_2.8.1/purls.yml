@@ -26,3 +26,5 @@
 - pkg:maven/com.twitter/scalding_2.8.1@0.7.0?classifier=sources
 - pkg:maven/com.twitter/scalding_2.8.1@0.7.2
 - pkg:maven/com.twitter/scalding_2.8.1@0.7.2?classifier=sources
+- pkg:maven/com.twitter/scalding_2.8.1@0.7.3
+- pkg:maven/com.twitter/scalding_2.8.1@0.7.3?classifier=sources
