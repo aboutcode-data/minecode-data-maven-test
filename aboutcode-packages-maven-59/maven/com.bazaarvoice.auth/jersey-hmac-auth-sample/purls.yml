@@ -1,2 +1,4 @@
 - pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample@0.10
 - pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample@0.10?classifier=sources
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample@0.13
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample@0.13?classifier=sources

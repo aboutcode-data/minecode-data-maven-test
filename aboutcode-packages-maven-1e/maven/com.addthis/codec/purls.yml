@@ -36,3 +36,5 @@
 - pkg:maven/com.addthis/codec@3.0.11?classifier=sources
 - pkg:maven/com.addthis/codec@3.0.10
 - pkg:maven/com.addthis/codec@3.0.10?classifier=sources
+- pkg:maven/com.addthis/codec@3.1.0
+- pkg:maven/com.addthis/codec@3.1.0?classifier=sources
