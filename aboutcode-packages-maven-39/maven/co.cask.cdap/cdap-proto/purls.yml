@@ -30,3 +30,5 @@
 - pkg:maven/co.cask.cdap/cdap-proto@2.8.2?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-proto@2.8.1
 - pkg:maven/co.cask.cdap/cdap-proto@2.8.1?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-proto@3.1.0
+- pkg:maven/co.cask.cdap/cdap-proto@3.1.0?classifier=sources
