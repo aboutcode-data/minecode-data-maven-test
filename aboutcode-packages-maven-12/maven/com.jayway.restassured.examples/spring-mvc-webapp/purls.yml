@@ -14,3 +14,5 @@
 - pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.5.0?classifier=sources
 - pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.6.0?type=war
 - pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.6.0?classifier=sources
+- pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.7.0?type=war
+- pkg:maven/com.jayway.restassured.examples/spring-mvc-webapp@2.7.0?classifier=sources
