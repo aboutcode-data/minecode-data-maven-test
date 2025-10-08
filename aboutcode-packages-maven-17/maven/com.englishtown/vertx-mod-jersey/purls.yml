@@ -18,3 +18,5 @@
 - pkg:maven/com.englishtown/vertx-mod-jersey@2.2.0-final?classifier=sources
 - pkg:maven/com.englishtown/vertx-mod-jersey@2.1.0-final?type=zip
 - pkg:maven/com.englishtown/vertx-mod-jersey@2.1.0-final?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jersey@2.3.0-final
+- pkg:maven/com.englishtown/vertx-mod-jersey@2.3.0-final?classifier=sources

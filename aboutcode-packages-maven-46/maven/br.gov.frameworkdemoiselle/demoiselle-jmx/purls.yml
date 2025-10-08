@@ -1,2 +1,4 @@
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-jmx@2.4.0-BETA3
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-jmx@2.4.0-BETA3?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-jmx@2.4.0-RC1
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-jmx@2.4.0-RC1?classifier=sources
