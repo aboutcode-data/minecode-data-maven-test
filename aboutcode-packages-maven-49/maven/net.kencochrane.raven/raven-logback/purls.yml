@@ -16,3 +16,7 @@
 - pkg:maven/net.kencochrane.raven/raven-logback@4.1.2?classifier=sources
 - pkg:maven/net.kencochrane.raven/raven-logback@3.1.2
 - pkg:maven/net.kencochrane.raven/raven-logback@3.1.2?classifier=sources
+- pkg:maven/net.kencochrane.raven/raven-logback@5.0
+- pkg:maven/net.kencochrane.raven/raven-logback@5.0?classifier=sources
+- pkg:maven/net.kencochrane.raven/raven-logback@4.2
+- pkg:maven/net.kencochrane.raven/raven-logback@4.2?classifier=sources

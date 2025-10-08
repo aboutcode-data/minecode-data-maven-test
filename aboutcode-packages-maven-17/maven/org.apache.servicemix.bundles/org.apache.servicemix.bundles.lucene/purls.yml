@@ -98,3 +98,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.0.0_2?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.0.0_2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.0.0_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.8.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.8.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.8.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene@4.8.1_1?classifier=sources

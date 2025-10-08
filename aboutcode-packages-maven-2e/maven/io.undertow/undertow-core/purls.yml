@@ -152,3 +152,5 @@
 - pkg:maven/io.undertow/undertow-core@1.0.12.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-core@1.0.15.Final
 - pkg:maven/io.undertow/undertow-core@1.0.15.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-core@1.1.0.Beta2
+- pkg:maven/io.undertow/undertow-core@1.1.0.Beta2?classifier=sources

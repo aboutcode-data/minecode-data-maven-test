@@ -24,3 +24,11 @@
 - pkg:maven/org.apache.crunch/crunch-contrib@0.8.2-hadoop2?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-contrib@0.8.2
 - pkg:maven/org.apache.crunch/crunch-contrib@0.8.2?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-contrib@0.8.3-hadoop2
+- pkg:maven/org.apache.crunch/crunch-contrib@0.8.3-hadoop2?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-contrib@0.8.3
+- pkg:maven/org.apache.crunch/crunch-contrib@0.8.3?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-contrib@0.10.0-hadoop2
+- pkg:maven/org.apache.crunch/crunch-contrib@0.10.0-hadoop2?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-contrib@0.10.0
+- pkg:maven/org.apache.crunch/crunch-contrib@0.10.0?classifier=sources
