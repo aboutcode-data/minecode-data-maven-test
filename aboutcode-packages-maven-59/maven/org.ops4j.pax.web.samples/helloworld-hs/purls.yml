@@ -104,3 +104,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-hs@2.1.5?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-hs@1.1.15
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-hs@1.1.15?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-hs@3.0.4
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-hs@3.0.4?classifier=sources

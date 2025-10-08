@@ -87,3 +87,5 @@
 - pkg:maven/com.sun.jersey.samples/guicefilter-webapp@1.17.1?classifier=sources
 - pkg:maven/com.sun.jersey.samples/guicefilter-webapp@1.11.2?type=war
 - pkg:maven/com.sun.jersey.samples/guicefilter-webapp@1.11.2?classifier=sources
+- pkg:maven/com.sun.jersey.samples/guicefilter-webapp@1.18?type=war
+- pkg:maven/com.sun.jersey.samples/guicefilter-webapp@1.18?classifier=sources

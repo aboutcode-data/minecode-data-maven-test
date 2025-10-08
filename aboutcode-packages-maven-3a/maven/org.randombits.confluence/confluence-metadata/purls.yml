@@ -5,3 +5,5 @@
 - pkg:maven/org.randombits.confluence/confluence-metadata@5.0.8?classifier=sources
 - pkg:maven/org.randombits.confluence/confluence-metadata@5.0.9?classifier=sources
 - pkg:maven/org.randombits.confluence/confluence-metadata@5.0.10?classifier=sources
+- pkg:maven/org.randombits.confluence/confluence-metadata@6.0.0?classifier=sources
+- pkg:maven/org.randombits.confluence/confluence-metadata@5.11?classifier=sources

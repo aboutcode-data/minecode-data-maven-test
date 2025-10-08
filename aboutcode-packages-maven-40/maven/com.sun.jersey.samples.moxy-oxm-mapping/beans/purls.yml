@@ -30,3 +30,5 @@
 - pkg:maven/com.sun.jersey.samples.moxy-oxm-mapping/beans@1.17.1?classifier=sources
 - pkg:maven/com.sun.jersey.samples.moxy-oxm-mapping/beans@1.11.2
 - pkg:maven/com.sun.jersey.samples.moxy-oxm-mapping/beans@1.11.2?classifier=sources
+- pkg:maven/com.sun.jersey.samples.moxy-oxm-mapping/beans@1.18
+- pkg:maven/com.sun.jersey.samples.moxy-oxm-mapping/beans@1.18?classifier=sources

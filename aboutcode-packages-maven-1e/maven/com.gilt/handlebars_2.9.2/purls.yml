@@ -1,2 +1,4 @@
 - pkg:maven/com.gilt/handlebars_2.9.2@0.0.19-20131031112233
 - pkg:maven/com.gilt/handlebars_2.9.2@0.0.19-20131031112233?classifier=sources
+- pkg:maven/com.gilt/handlebars_2.9.2@0.0.19
+- pkg:maven/com.gilt/handlebars_2.9.2@0.0.19?classifier=sources

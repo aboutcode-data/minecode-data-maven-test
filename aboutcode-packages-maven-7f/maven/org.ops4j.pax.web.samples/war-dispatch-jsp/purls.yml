@@ -8,3 +8,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatch-jsp@3.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatch-jsp@3.0.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatch-jsp@3.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-dispatch-jsp@3.0.4?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-dispatch-jsp@3.0.4?classifier=sources

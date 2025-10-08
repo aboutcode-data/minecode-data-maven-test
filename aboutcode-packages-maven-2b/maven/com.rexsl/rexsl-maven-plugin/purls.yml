@@ -86,3 +86,5 @@
 - pkg:maven/com.rexsl/rexsl-maven-plugin@0.8?classifier=sources
 - pkg:maven/com.rexsl/rexsl-maven-plugin@0.10
 - pkg:maven/com.rexsl/rexsl-maven-plugin@0.10?classifier=sources
+- pkg:maven/com.rexsl/rexsl-maven-plugin@0.10.1
+- pkg:maven/com.rexsl/rexsl-maven-plugin@0.10.1?classifier=sources
