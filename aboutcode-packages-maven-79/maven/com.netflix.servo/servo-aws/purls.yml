@@ -18,3 +18,7 @@
 - pkg:maven/com.netflix.servo/servo-aws@0.4.31?classifier=sources
 - pkg:maven/com.netflix.servo/servo-aws@0.4.34
 - pkg:maven/com.netflix.servo/servo-aws@0.4.34?classifier=sources
+- pkg:maven/com.netflix.servo/servo-aws@0.4.36
+- pkg:maven/com.netflix.servo/servo-aws@0.4.36?classifier=sources
+- pkg:maven/com.netflix.servo/servo-aws@0.4.35
+- pkg:maven/com.netflix.servo/servo-aws@0.4.35?classifier=sources

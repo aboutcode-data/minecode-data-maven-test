@@ -1,0 +1,4 @@
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC1-cdh4
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC1-cdh4?classifier=sources
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC1-cdh3
+- pkg:maven/com.nicta/scoobi_2.10@0.7.0-RC1-cdh3?classifier=sources
