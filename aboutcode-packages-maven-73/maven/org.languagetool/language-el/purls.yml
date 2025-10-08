@@ -18,3 +18,5 @@
 - pkg:maven/org.languagetool/language-el@2.9?classifier=sources
 - pkg:maven/org.languagetool/language-el@3.0
 - pkg:maven/org.languagetool/language-el@3.0?classifier=sources
+- pkg:maven/org.languagetool/language-el@3.1
+- pkg:maven/org.languagetool/language-el@3.1?classifier=sources

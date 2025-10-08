@@ -8,3 +8,7 @@
 - pkg:maven/org.wildfly.configuration/generator@0.2.0?classifier=sources
 - pkg:maven/org.wildfly.configuration/generator@0.2.4
 - pkg:maven/org.wildfly.configuration/generator@0.2.4?classifier=sources
+- pkg:maven/org.wildfly.configuration/generator@0.3.0
+- pkg:maven/org.wildfly.configuration/generator@0.3.0?classifier=sources
+- pkg:maven/org.wildfly.configuration/generator@0.2.5
+- pkg:maven/org.wildfly.configuration/generator@0.2.5?classifier=sources
