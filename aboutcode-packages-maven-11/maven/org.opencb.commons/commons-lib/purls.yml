@@ -2,3 +2,5 @@
 - pkg:maven/org.opencb.commons/commons-lib@2.0.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@3.0.0
 - pkg:maven/org.opencb.commons/commons-lib@3.0.0?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@3.1.0
+- pkg:maven/org.opencb.commons/commons-lib@3.1.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.keycloak/keycloak-parent@1.7.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.keycloak/keycloak-parent@1.8.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.keycloak/keycloak-parent@1.8.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.keycloak/keycloak-parent@1.8.0.CR3?classifier=source-release&type=zip
+- pkg:maven/org.keycloak/keycloak-parent@1.8.0.CR2?classifier=source-release&type=zip
