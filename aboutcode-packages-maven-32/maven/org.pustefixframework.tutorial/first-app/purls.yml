@@ -232,3 +232,5 @@
 - pkg:maven/org.pustefixframework.tutorial/first-app@0.19.8?classifier=sources
 - pkg:maven/org.pustefixframework.tutorial/first-app@0.18.89?type=war
 - pkg:maven/org.pustefixframework.tutorial/first-app@0.18.89?classifier=sources
+- pkg:maven/org.pustefixframework.tutorial/first-app@0.19.9?type=war
+- pkg:maven/org.pustefixframework.tutorial/first-app@0.19.9?classifier=sources

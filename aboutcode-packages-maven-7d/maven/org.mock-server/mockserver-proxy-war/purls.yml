@@ -56,3 +56,7 @@
 - pkg:maven/org.mock-server/mockserver-proxy-war@3.9.8?classifier=sources
 - pkg:maven/org.mock-server/mockserver-proxy-war@3.9.9?type=war
 - pkg:maven/org.mock-server/mockserver-proxy-war@3.9.9?classifier=sources
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.9.11?type=war
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.9.11?classifier=sources
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.9.10?type=war
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.9.10?classifier=sources

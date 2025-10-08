@@ -36,3 +36,7 @@
 - pkg:maven/org.omnifaces/omnifaces@1.10?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@1.11-M1
 - pkg:maven/org.omnifaces/omnifaces@1.11-M1?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces@2.1-RC1
+- pkg:maven/org.omnifaces/omnifaces@2.1-RC1?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces@1.11-RC1
+- pkg:maven/org.omnifaces/omnifaces@1.11-RC1?classifier=sources
