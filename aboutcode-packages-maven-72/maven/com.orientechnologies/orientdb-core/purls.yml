@@ -60,3 +60,7 @@
 - pkg:maven/com.orientechnologies/orientdb-core@1.7.9?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-core@2.0-M2
 - pkg:maven/com.orientechnologies/orientdb-core@2.0-M2?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-core@2.0-M3
+- pkg:maven/com.orientechnologies/orientdb-core@2.0-M3?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-core@1.7.10
+- pkg:maven/com.orientechnologies/orientdb-core@1.7.10?classifier=sources

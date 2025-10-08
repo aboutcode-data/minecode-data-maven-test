@@ -1,2 +1,4 @@
 - pkg:maven/com.orientechnologies/orientdb-jdbc@1.7
 - pkg:maven/com.orientechnologies/orientdb-jdbc@1.7?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-jdbc@2.0-M3
+- pkg:maven/com.orientechnologies/orientdb-jdbc@2.0-M3?classifier=sources
