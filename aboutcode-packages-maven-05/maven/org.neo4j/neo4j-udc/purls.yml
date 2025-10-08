@@ -100,3 +100,5 @@
 - pkg:maven/org.neo4j/neo4j-udc@1.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-udc@1.9.M01
 - pkg:maven/org.neo4j/neo4j-udc@1.9.M01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-udc@1.9.M02
+- pkg:maven/org.neo4j/neo4j-udc@1.9.M02?classifier=sources

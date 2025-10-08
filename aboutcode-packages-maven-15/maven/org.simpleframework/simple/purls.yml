@@ -49,3 +49,5 @@
 - pkg:maven/org.simpleframework/simple@4.0.5
 - pkg:maven/org.simpleframework/simple@4.0.5?classifier=sources
 - pkg:maven/org.simpleframework/simple@2.7
+- pkg:maven/org.simpleframework/simple@5.0
+- pkg:maven/org.simpleframework/simple@5.0?classifier=sources

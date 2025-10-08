@@ -99,3 +99,5 @@
 - pkg:maven/com.sun.jersey.samples/groovy@1.14?classifier=sources
 - pkg:maven/com.sun.jersey.samples/groovy@1.15
 - pkg:maven/com.sun.jersey.samples/groovy@1.15?classifier=sources
+- pkg:maven/com.sun.jersey.samples/groovy@1.16
+- pkg:maven/com.sun.jersey.samples/groovy@1.16?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/com.sun.jersey.samples/bookmark@1.14?classifier=sources
 - pkg:maven/com.sun.jersey.samples/bookmark@1.15?type=war
 - pkg:maven/com.sun.jersey.samples/bookmark@1.15?classifier=sources
+- pkg:maven/com.sun.jersey.samples/bookmark@1.16?type=war
+- pkg:maven/com.sun.jersey.samples/bookmark@1.16?classifier=sources
