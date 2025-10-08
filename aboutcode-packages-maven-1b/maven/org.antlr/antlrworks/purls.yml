@@ -1,2 +1,4 @@
 - pkg:maven/org.antlr/antlrworks@1.5-rc-2
 - pkg:maven/org.antlr/antlrworks@1.5-rc-2?classifier=sources
+- pkg:maven/org.antlr/antlrworks@1.5
+- pkg:maven/org.antlr/antlrworks@1.5?classifier=sources

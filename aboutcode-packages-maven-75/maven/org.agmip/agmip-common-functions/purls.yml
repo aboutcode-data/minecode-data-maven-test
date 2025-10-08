@@ -1,2 +1,4 @@
 - pkg:maven/org.agmip/agmip-common-functions@1.0
 - pkg:maven/org.agmip/agmip-common-functions@1.0?classifier=sources
+- pkg:maven/org.agmip/agmip-common-functions@1.1
+- pkg:maven/org.agmip/agmip-common-functions@1.1?classifier=sources

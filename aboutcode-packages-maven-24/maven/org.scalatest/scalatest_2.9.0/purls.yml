@@ -38,3 +38,5 @@
 - pkg:maven/org.scalatest/scalatest_2.9.0@2.0.M6-SNAP2?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.9.0@2.0.M6-SNAP4
 - pkg:maven/org.scalatest/scalatest_2.9.0@2.0.M6-SNAP4?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.9.0@1.9.1
+- pkg:maven/org.scalatest/scalatest_2.9.0@1.9.1?classifier=sources

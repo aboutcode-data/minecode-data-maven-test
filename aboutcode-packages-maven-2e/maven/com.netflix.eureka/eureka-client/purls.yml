@@ -8,3 +8,5 @@
 - pkg:maven/com.netflix.eureka/eureka-client@1.1.22?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-client@1.1.26
 - pkg:maven/com.netflix.eureka/eureka-client@1.1.26?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client@1.1.37
+- pkg:maven/com.netflix.eureka/eureka-client@1.1.37?classifier=sources

@@ -112,3 +112,7 @@
 - pkg:maven/org.pustefixframework/pustefix-sample1@0.18.31?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-sample1@0.18.32?type=war
 - pkg:maven/org.pustefixframework/pustefix-sample1@0.18.32?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-sample1@0.18.34?type=war
+- pkg:maven/org.pustefixframework/pustefix-sample1@0.18.34?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-sample1@0.18.33?type=war
+- pkg:maven/org.pustefixframework/pustefix-sample1@0.18.33?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/com.googlecode.mapperdao/mapperdao@1.0.0.rc17-2.10.0-RC5?classifier=sources
 - pkg:maven/com.googlecode.mapperdao/mapperdao@1.0.0.rc17-2.10.0-RC1
 - pkg:maven/com.googlecode.mapperdao/mapperdao@1.0.0.rc17-2.10.0-RC1?classifier=sources
+- pkg:maven/com.googlecode.mapperdao/mapperdao@1.0.0.rc17-2.10.0
+- pkg:maven/com.googlecode.mapperdao/mapperdao@1.0.0.rc17-2.10.0?classifier=sources

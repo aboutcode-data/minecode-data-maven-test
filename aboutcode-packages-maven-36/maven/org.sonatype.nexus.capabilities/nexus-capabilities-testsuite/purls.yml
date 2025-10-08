@@ -1,2 +1,4 @@
 - pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite@2.1
 - pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite@2.1.1
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite@2.2
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite@2.2?classifier=sources
