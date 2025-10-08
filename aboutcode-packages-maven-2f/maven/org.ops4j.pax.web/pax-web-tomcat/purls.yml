@@ -78,3 +78,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@4.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@4.2.4
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@4.2.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat@3.2.7
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat@3.2.7?classifier=sources

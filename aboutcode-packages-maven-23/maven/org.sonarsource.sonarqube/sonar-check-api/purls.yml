@@ -6,3 +6,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-check-api@5.2-RC4?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-check-api@5.2
 - pkg:maven/org.sonarsource.sonarqube/sonar-check-api@5.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-check-api@5.3-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-check-api@5.3-RC1?classifier=sources
