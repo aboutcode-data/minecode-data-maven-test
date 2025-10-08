@@ -42,3 +42,5 @@
 - pkg:maven/com.google.javascript/closure-compiler@v20130823?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler@v20131014
 - pkg:maven/com.google.javascript/closure-compiler@v20131014?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20140407
+- pkg:maven/com.google.javascript/closure-compiler@v20140407?classifier=sources

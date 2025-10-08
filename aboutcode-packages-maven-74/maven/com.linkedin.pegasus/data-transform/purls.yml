@@ -20,3 +20,5 @@
 - pkg:maven/com.linkedin.pegasus/data-transform@1.15.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/data-transform@1.15.2
 - pkg:maven/com.linkedin.pegasus/data-transform@1.15.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/data-transform@1.15.7
+- pkg:maven/com.linkedin.pegasus/data-transform@1.15.7?classifier=sources
