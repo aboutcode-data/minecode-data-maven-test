@@ -1,2 +1,4 @@
 - pkg:maven/org.lucee/lucee@5.0.0.22
 - pkg:maven/org.lucee/lucee@5.0.0.22?classifier=sources
+- pkg:maven/org.lucee/lucee@5.0.0.60-BETA
+- pkg:maven/org.lucee/lucee@5.0.0.60-BETA?classifier=sources
