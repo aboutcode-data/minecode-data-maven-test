@@ -170,3 +170,7 @@
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@3.0.0.Alpha5?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@3.0.0.Alpha6?type=war
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@3.0.0.Alpha6?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@2.2.10.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@2.2.10.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@1.1.29.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@1.1.29.Final?classifier=sources

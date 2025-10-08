@@ -170,3 +170,7 @@
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@3.0.0.Alpha5?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@3.0.0.Alpha6?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@3.0.0.Alpha6?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@2.2.10.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@2.2.10.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@1.1.29.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-war@1.1.29.Final?classifier=sources

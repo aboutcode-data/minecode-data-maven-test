@@ -188,3 +188,5 @@
 - pkg:maven/org.neo4j/neo4j-ha@2.2.0-M04?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ha@2.2.0-RC01
 - pkg:maven/org.neo4j/neo4j-ha@2.2.0-RC01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ha@2.2.0
+- pkg:maven/org.neo4j/neo4j-ha@2.2.0?classifier=sources

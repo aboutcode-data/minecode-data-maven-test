@@ -98,3 +98,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-sample-extension@4.0-RC4?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-sample-extension@4.0-RC5
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-sample-extension@4.0-RC5?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-sample-extension@4.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-sample-extension@4.0?classifier=sources

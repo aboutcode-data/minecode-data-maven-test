@@ -160,3 +160,7 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet@2.2.8.Final?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet@2.2.9.Final
 - pkg:maven/org.jboss.weld.servlet/weld-servlet@2.2.9.Final?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet@2.2.10.Final
+- pkg:maven/org.jboss.weld.servlet/weld-servlet@2.2.10.Final?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet@1.1.29.Final
+- pkg:maven/org.jboss.weld.servlet/weld-servlet@1.1.29.Final?classifier=sources
