@@ -2,3 +2,5 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b07?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b08?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b08?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b09?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b09?classifier=sources

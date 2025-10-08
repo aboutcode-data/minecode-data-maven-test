@@ -74,3 +74,5 @@
 - pkg:maven/org.infinispan/infinispan-gridfs-webdav@5.2.0.Beta6?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gridfs-webdav@5.2.0.CR1?type=war
 - pkg:maven/org.infinispan/infinispan-gridfs-webdav@5.2.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gridfs-webdav@5.2.0.CR2?type=war
+- pkg:maven/org.infinispan/infinispan-gridfs-webdav@5.2.0.CR2?classifier=sources

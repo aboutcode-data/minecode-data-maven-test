@@ -114,3 +114,7 @@
 - pkg:maven/org.glassfish.metro/wsit-impl@2.3-b100?classifier=sources
 - pkg:maven/org.glassfish.metro/wsit-impl@2.2.0-2
 - pkg:maven/org.glassfish.metro/wsit-impl@2.2.0-2?classifier=sources
+- pkg:maven/org.glassfish.metro/wsit-impl@2.3-b77
+- pkg:maven/org.glassfish.metro/wsit-impl@2.3-b77?classifier=sources
+- pkg:maven/org.glassfish.metro/wsit-impl@2.3-b189
+- pkg:maven/org.glassfish.metro/wsit-impl@2.3-b189?classifier=sources
