@@ -1,2 +1,4 @@
 - pkg:maven/com.enioka.jqm/jqm-ws@1.1.6?type=war
 - pkg:maven/com.enioka.jqm/jqm-ws@1.1.6?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-ws@1.2.1?type=war
+- pkg:maven/com.enioka.jqm/jqm-ws@1.2.1?classifier=sources
