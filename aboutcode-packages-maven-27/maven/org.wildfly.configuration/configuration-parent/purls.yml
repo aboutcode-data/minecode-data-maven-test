@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.configuration/configuration-parent@0.2.3?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.configuration/configuration-parent@0.2.2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.configuration/configuration-parent@0.2.1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.configuration/configuration-parent@0.2.0?classifier=source-release&type=zip

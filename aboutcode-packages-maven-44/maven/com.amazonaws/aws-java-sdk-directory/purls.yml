@@ -48,3 +48,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-directory@1.10.16?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-directory@1.10.15
 - pkg:maven/com.amazonaws/aws-java-sdk-directory@1.10.15?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-directory@1.10.17
+- pkg:maven/com.amazonaws/aws-java-sdk-directory@1.10.17?classifier=sources
