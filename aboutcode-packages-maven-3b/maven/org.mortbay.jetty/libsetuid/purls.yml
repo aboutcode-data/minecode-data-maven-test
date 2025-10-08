@@ -111,3 +111,5 @@
 - pkg:maven/org.mortbay.jetty/libsetuid@7.6.8.v20121106?classifier=sources
 - pkg:maven/org.mortbay.jetty/libsetuid@8.1.9.v20130131?classifier=sources
 - pkg:maven/org.mortbay.jetty/libsetuid@7.6.9.v20130131?classifier=sources
+- pkg:maven/org.mortbay.jetty/libsetuid@8.1.10.v20130312?classifier=sources
+- pkg:maven/org.mortbay.jetty/libsetuid@7.6.10.v20130312?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.solr/solr-clustering@3.6.2?classifier=sources
 - pkg:maven/org.apache.solr/solr-clustering@4.1.0
 - pkg:maven/org.apache.solr/solr-clustering@4.1.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-clustering@4.2.0
+- pkg:maven/org.apache.solr/solr-clustering@4.2.0?classifier=sources
