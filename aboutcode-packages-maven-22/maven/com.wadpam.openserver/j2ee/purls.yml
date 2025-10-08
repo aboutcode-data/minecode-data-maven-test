@@ -2,3 +2,5 @@
 - pkg:maven/com.wadpam.openserver/j2ee@20?classifier=sources
 - pkg:maven/com.wadpam.openserver/j2ee@21
 - pkg:maven/com.wadpam.openserver/j2ee@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@22
+- pkg:maven/com.wadpam.openserver/j2ee@22?classifier=sources

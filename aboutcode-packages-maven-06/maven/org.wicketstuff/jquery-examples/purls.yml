@@ -102,3 +102,5 @@
 - pkg:maven/org.wicketstuff/jquery-examples@6.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/jquery-examples@1.5.9.1?type=war
 - pkg:maven/org.wicketstuff/jquery-examples@1.5.9.1?classifier=sources
+- pkg:maven/org.wicketstuff/jquery-examples@6.7.0?type=war
+- pkg:maven/org.wicketstuff/jquery-examples@6.7.0?classifier=sources

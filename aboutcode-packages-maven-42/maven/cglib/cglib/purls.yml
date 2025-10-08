@@ -13,3 +13,5 @@
 - pkg:maven/cglib/cglib@2.0.1
 - pkg:maven/cglib/cglib@2.0-rc2
 - pkg:maven/cglib/cglib@1.0
+- pkg:maven/cglib/cglib@3.0
+- pkg:maven/cglib/cglib@3.0?classifier=sources
