@@ -54,3 +54,5 @@
 - pkg:maven/org.uberfire/uberfire-wires-webapp@0.7.3.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-wires-webapp@0.7.4.Final?type=war
 - pkg:maven/org.uberfire/uberfire-wires-webapp@0.7.4.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-wires-webapp@0.8.0.Beta1?type=war
+- pkg:maven/org.uberfire/uberfire-wires-webapp@0.8.0.Beta1?classifier=sources

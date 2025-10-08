@@ -14,3 +14,5 @@
 - pkg:maven/org.tinylog/slf4j-binding@1.1-beta-2?classifier=sources
 - pkg:maven/org.tinylog/slf4j-binding@1.1-beta-3
 - pkg:maven/org.tinylog/slf4j-binding@1.1-beta-3?classifier=sources
+- pkg:maven/org.tinylog/slf4j-binding@1.0.3
+- pkg:maven/org.tinylog/slf4j-binding@1.0.3?classifier=sources
