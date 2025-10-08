@@ -18,3 +18,5 @@
 - pkg:maven/com.neovisionaries/nv-jdo@1.9?classifier=sources
 - pkg:maven/com.neovisionaries/nv-jdo@1.8
 - pkg:maven/com.neovisionaries/nv-jdo@1.8?classifier=sources
+- pkg:maven/com.neovisionaries/nv-jdo@1.10
+- pkg:maven/com.neovisionaries/nv-jdo@1.10?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.3.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.4.0-rc2
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.4.0-rc2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.4.0-rc3
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-mrbean@2.4.0-rc3?classifier=sources

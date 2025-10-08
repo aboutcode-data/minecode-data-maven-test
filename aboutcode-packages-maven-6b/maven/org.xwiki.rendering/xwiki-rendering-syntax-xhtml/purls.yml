@@ -158,3 +158,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml@5.4.4?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml@6.0-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml@6.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml@6.0
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml@6.0?classifier=sources

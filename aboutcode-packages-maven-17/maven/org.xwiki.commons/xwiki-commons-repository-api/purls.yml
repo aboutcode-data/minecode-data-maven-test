@@ -102,3 +102,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-repository-api@5.4.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-repository-api@6.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-repository-api@6.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-repository-api@6.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-repository-api@6.0?classifier=sources
