@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.lens/lens-storage-db@2.0.1-beta-incubating
 - pkg:maven/org.apache.lens/lens-storage-db@2.0.1-beta-incubating?classifier=sources
+- pkg:maven/org.apache.lens/lens-storage-db@2.1.0-beta-incubating
+- pkg:maven/org.apache.lens/lens-storage-db@2.1.0-beta-incubating?classifier=sources

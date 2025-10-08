@@ -133,3 +133,5 @@
 - pkg:maven/org.apache.camel/camel-jt400@2.13.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-jt400@2.15.1
 - pkg:maven/org.apache.camel/camel-jt400@2.15.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-jt400@2.15.2
+- pkg:maven/org.apache.camel/camel-jt400@2.15.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.djodjo.tarator/runner@0.1.0?type=aar
 - pkg:maven/org.djodjo.tarator/runner@0.1.0?classifier=sources
+- pkg:maven/org.djodjo.tarator/runner@0.1.2?type=aar
+- pkg:maven/org.djodjo.tarator/runner@0.1.2?classifier=sources
