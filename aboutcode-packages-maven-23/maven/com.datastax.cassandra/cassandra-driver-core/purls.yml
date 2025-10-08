@@ -20,3 +20,5 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-core@1.0.3-dse?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-core@1.0.3
 - pkg:maven/com.datastax.cassandra/cassandra-driver-core@1.0.3?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-core@2.0.0-beta1
+- pkg:maven/com.datastax.cassandra/cassandra-driver-core@2.0.0-beta1?classifier=sources

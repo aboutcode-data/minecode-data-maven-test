@@ -6,3 +6,5 @@
 - pkg:maven/com.thinkaurelius.thrift/thrift-server@0.2?classifier=sources
 - pkg:maven/com.thinkaurelius.thrift/thrift-server@0.3.0
 - pkg:maven/com.thinkaurelius.thrift/thrift-server@0.3.0?classifier=sources
+- pkg:maven/com.thinkaurelius.thrift/thrift-server@0.3.1
+- pkg:maven/com.thinkaurelius.thrift/thrift-server@0.3.1?classifier=sources

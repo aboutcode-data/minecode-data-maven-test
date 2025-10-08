@@ -14,3 +14,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-examples@6.9.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-examples@6.10.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-examples@6.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-examples@1.5.10?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-examples@1.5.10?classifier=sources
