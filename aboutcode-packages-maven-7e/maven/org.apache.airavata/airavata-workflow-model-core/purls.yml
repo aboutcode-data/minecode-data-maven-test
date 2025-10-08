@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.airavata/airavata-workflow-model-core@0.4-incubating
 - pkg:maven/org.apache.airavata/airavata-workflow-model-core@0.4-incubating?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-workflow-model-core@0.5
+- pkg:maven/org.apache.airavata/airavata-workflow-model-core@0.5?classifier=sources

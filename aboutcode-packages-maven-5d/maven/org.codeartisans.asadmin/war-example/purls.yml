@@ -4,3 +4,5 @@
 - pkg:maven/org.codeartisans.asadmin/war-example@0.7?classifier=sources
 - pkg:maven/org.codeartisans.asadmin/war-example@0.9?type=war
 - pkg:maven/org.codeartisans.asadmin/war-example@0.9?classifier=sources
+- pkg:maven/org.codeartisans.asadmin/war-example@0.10?type=war
+- pkg:maven/org.codeartisans.asadmin/war-example@0.10?classifier=sources

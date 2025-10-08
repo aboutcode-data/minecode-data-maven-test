@@ -14,3 +14,5 @@
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@1.5.0-rc02?classifier=sources
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@1.5.0-rc03
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@1.5.0-rc03?classifier=sources
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@1.5.0
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@1.5.0?classifier=sources

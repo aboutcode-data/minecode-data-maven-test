@@ -2,3 +2,5 @@
 - pkg:maven/org.batoo.jpa/batoo-maven-plugin@0.1.3?classifier=sources
 - pkg:maven/org.batoo.jpa/batoo-maven-plugin@0.1.6
 - pkg:maven/org.batoo.jpa/batoo-maven-plugin@0.1.6?classifier=sources
+- pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.0.RC1
+- pkg:maven/org.batoo.jpa/batoo-maven-plugin@2.0.0.RC1?classifier=sources
