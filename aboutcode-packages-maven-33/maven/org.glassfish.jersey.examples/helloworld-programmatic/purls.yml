@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-programmatic@2.0-m01
 - pkg:maven/org.glassfish.jersey.examples/helloworld-programmatic@2.0-m01?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-programmatic@2.0-m02
+- pkg:maven/org.glassfish.jersey.examples/helloworld-programmatic@2.0-m02?classifier=sources

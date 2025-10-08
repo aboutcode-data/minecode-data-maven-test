@@ -19,3 +19,5 @@
 - pkg:maven/org.grails/grails-docs@1.2-M4
 - pkg:maven/org.grails/grails-docs@1.2-M3
 - pkg:maven/org.grails/grails-docs@1.2-M2
+- pkg:maven/org.grails/grails-docs@2.0.1
+- pkg:maven/org.grails/grails-docs@2.0.1?classifier=sources
