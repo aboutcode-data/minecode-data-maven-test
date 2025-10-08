@@ -27,3 +27,5 @@
 - pkg:maven/joda-time/joda-time@2.3?classifier=sources
 - pkg:maven/joda-time/joda-time@2.4
 - pkg:maven/joda-time/joda-time@2.4?classifier=sources
+- pkg:maven/joda-time/joda-time@2.5
+- pkg:maven/joda-time/joda-time@2.5?classifier=sources

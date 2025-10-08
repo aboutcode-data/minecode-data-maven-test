@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.tez/tez-dag@0.4.1-incubating?classifier=sources
 - pkg:maven/org.apache.tez/tez-dag@0.5.0
 - pkg:maven/org.apache.tez/tez-dag@0.5.0?classifier=sources
+- pkg:maven/org.apache.tez/tez-dag@0.5.1
+- pkg:maven/org.apache.tez/tez-dag@0.5.1?classifier=sources

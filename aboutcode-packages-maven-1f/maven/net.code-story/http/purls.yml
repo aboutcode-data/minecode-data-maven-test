@@ -111,3 +111,7 @@
 - pkg:maven/net.code-story/http@2.9?classifier=sources
 - pkg:maven/net.code-story/http@2.10
 - pkg:maven/net.code-story/http@2.10?classifier=sources
+- pkg:maven/net.code-story/http@2.12
+- pkg:maven/net.code-story/http@2.12?classifier=sources
+- pkg:maven/net.code-story/http@2.11
+- pkg:maven/net.code-story/http@2.11?classifier=sources
