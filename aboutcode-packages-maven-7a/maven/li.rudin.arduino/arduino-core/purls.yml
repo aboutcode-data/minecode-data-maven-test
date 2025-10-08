@@ -18,3 +18,5 @@
 - pkg:maven/li.rudin.arduino/arduino-core@2.7?classifier=sources
 - pkg:maven/li.rudin.arduino/arduino-core@2.9
 - pkg:maven/li.rudin.arduino/arduino-core@2.9?classifier=sources
+- pkg:maven/li.rudin.arduino/arduino-core@2.10
+- pkg:maven/li.rudin.arduino/arduino-core@2.10?classifier=sources

@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-unmanaged-am-launcher@2.3.0?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-unmanaged-am-launcher@2.4.0
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-unmanaged-am-launcher@2.4.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-applications-unmanaged-am-launcher@2.4.1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-applications-unmanaged-am-launcher@2.4.1?classifier=sources

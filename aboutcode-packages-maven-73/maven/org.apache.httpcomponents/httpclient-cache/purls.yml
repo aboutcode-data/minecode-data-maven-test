@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.httpcomponents/httpclient-cache@4.3.3?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpclient-cache@4.3.4
 - pkg:maven/org.apache.httpcomponents/httpclient-cache@4.3.4?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpclient-cache@4.4-alpha1
+- pkg:maven/org.apache.httpcomponents/httpclient-cache@4.4-alpha1?classifier=sources
