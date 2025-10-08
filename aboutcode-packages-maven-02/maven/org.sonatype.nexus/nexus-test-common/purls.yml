@@ -1,0 +1,10 @@
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2.3
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2.3?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2.2
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2.2?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2.1
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2.1?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2-RC3
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2-RC3?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2
+- pkg:maven/org.sonatype.nexus/nexus-test-common@1.9.2?classifier=sources

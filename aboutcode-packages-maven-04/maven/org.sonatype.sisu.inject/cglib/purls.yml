@@ -1,0 +1,8 @@
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.2
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.2?classifier=sources
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.1-v20090111
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.1-v20090111?classifier=sources
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.1-GUICE
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.1-GUICE?classifier=sources
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.1
+- pkg:maven/org.sonatype.sisu.inject/cglib@2.2.1?classifier=sources
