@@ -36,3 +36,5 @@
 - pkg:maven/org.grails/grails-datastore-simple@2.0.0.M3?classifier=sources
 - pkg:maven/org.grails/grails-datastore-simple@2.0.0.M2
 - pkg:maven/org.grails/grails-datastore-simple@2.0.0.M2?classifier=sources
+- pkg:maven/org.grails/grails-datastore-simple@1.1.8.RELEASE
+- pkg:maven/org.grails/grails-datastore-simple@1.1.8.RELEASE?classifier=sources

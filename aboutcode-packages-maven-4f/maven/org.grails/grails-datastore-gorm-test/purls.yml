@@ -38,3 +38,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-test@2.0.0.M3?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-test@2.0.0.M2
 - pkg:maven/org.grails/grails-datastore-gorm-test@2.0.0.M2?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-test@1.1.8.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-test@1.1.8.RELEASE?classifier=sources
