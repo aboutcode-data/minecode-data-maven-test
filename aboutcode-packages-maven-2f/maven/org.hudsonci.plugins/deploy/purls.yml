@@ -1,1 +1,2 @@
 - pkg:maven/org.hudsonci.plugins/deploy@1.7?classifier=sources
+- pkg:maven/org.hudsonci.plugins/deploy@1.8?classifier=sources

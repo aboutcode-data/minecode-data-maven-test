@@ -2,3 +2,5 @@
 - pkg:maven/biz.massive-dynamics/Versioneer@1.1.2.2?classifier=sources
 - pkg:maven/biz.massive-dynamics/Versioneer@1.2.0.0-ALPHA
 - pkg:maven/biz.massive-dynamics/Versioneer@1.2.0.0-ALPHA?classifier=sources
+- pkg:maven/biz.massive-dynamics/Versioneer@1.2.0.0
+- pkg:maven/biz.massive-dynamics/Versioneer@1.2.0.0?classifier=sources
