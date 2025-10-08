@@ -42,3 +42,5 @@
 - pkg:maven/com.proofpoint.platform/cassandra-experimental@0.64?classifier=sources
 - pkg:maven/com.proofpoint.platform/cassandra-experimental@0.65
 - pkg:maven/com.proofpoint.platform/cassandra-experimental@0.65?classifier=sources
+- pkg:maven/com.proofpoint.platform/cassandra-experimental@0.66
+- pkg:maven/com.proofpoint.platform/cassandra-experimental@0.66?classifier=sources

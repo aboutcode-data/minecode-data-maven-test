@@ -6,3 +6,5 @@
 - pkg:maven/com.connorgarvey.gradle/gradle-grails-wrapper@0.4.1?classifier=sources
 - pkg:maven/com.connorgarvey.gradle/gradle-grails-wrapper@1.0
 - pkg:maven/com.connorgarvey.gradle/gradle-grails-wrapper@1.0?classifier=sources
+- pkg:maven/com.connorgarvey.gradle/gradle-grails-wrapper@1.0.1
+- pkg:maven/com.connorgarvey.gradle/gradle-grails-wrapper@1.0.1?classifier=sources

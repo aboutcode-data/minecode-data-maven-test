@@ -76,3 +76,5 @@
 - pkg:maven/org.ow2.jonas.osgi/javaee-api@5.2.3
 - pkg:maven/org.ow2.jonas.osgi/javaee-api@5.2.3?classifier=sources
 - pkg:maven/org.ow2.jonas.osgi/javaee-api@5.3.0-M6
+- pkg:maven/org.ow2.jonas.osgi/javaee-api@5.1.7
+- pkg:maven/org.ow2.jonas.osgi/javaee-api@5.1.7?classifier=sources

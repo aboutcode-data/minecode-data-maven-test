@@ -29,3 +29,5 @@
 - pkg:maven/org.ow2.jonas.osgi/springframework@5.1.0-M1?classifier=sources
 - pkg:maven/org.ow2.jonas.osgi/springframework@5.1.0
 - pkg:maven/org.ow2.jonas.osgi/springframework@5.1.0?classifier=sources
+- pkg:maven/org.ow2.jonas.osgi/springframework@5.1.7
+- pkg:maven/org.ow2.jonas.osgi/springframework@5.1.7?classifier=sources

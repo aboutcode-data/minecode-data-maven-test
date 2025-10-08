@@ -70,3 +70,5 @@
 - pkg:maven/org.ow2.jonas/mejb@5.2.3?classifier=sources
 - pkg:maven/org.ow2.jonas/mejb@5.3.0-M6
 - pkg:maven/org.ow2.jonas/mejb@5.3.0-M6?classifier=sources
+- pkg:maven/org.ow2.jonas/mejb@5.1.7
+- pkg:maven/org.ow2.jonas/mejb@5.1.7?classifier=sources
