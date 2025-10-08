@@ -112,3 +112,5 @@
 - pkg:maven/org.wicketstuff/wicket-shiro-example-spring-hibernate-native@6.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-shiro-example-spring-hibernate-native@6.14.0?type=war
 - pkg:maven/org.wicketstuff/wicket-shiro-example-spring-hibernate-native@6.14.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-shiro-example-spring-hibernate-native@6.15.0?type=war
+- pkg:maven/org.wicketstuff/wicket-shiro-example-spring-hibernate-native@6.15.0?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/org.jboss.errai/errai-weld-integration@2.4.4.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-weld-integration@3.0.0.20140325-M5
 - pkg:maven/org.jboss.errai/errai-weld-integration@3.0.0.20140325-M5?classifier=sources
+- pkg:maven/org.jboss.errai/errai-weld-integration@3.0.0.CR1
+- pkg:maven/org.jboss.errai/errai-weld-integration@3.0.0.CR1?classifier=sources

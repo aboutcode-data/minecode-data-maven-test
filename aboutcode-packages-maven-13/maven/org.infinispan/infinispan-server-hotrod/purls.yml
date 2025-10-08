@@ -128,3 +128,5 @@
 - pkg:maven/org.infinispan/infinispan-server-hotrod@7.0.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-hotrod@7.0.0.Alpha3
 - pkg:maven/org.infinispan/infinispan-server-hotrod@7.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod@5.2.9.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod@5.2.9.Final?classifier=sources

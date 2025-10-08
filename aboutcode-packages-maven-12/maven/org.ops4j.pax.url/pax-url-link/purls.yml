@@ -60,3 +60,5 @@
 - pkg:maven/org.ops4j.pax.url/pax-url-link@1.6.0?classifier=sources
 - pkg:maven/org.ops4j.pax.url/pax-url-link@1.3.7
 - pkg:maven/org.ops4j.pax.url/pax-url-link@1.3.7?classifier=sources
+- pkg:maven/org.ops4j.pax.url/pax-url-link@2.0.0
+- pkg:maven/org.ops4j.pax.url/pax-url-link@2.0.0?classifier=sources
