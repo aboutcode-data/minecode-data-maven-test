@@ -22,3 +22,5 @@
 - pkg:maven/io.undertow/undertow-http2-test-suite@1.2.0.Beta9?classifier=sources
 - pkg:maven/io.undertow/undertow-http2-test-suite@1.2.0.Beta10
 - pkg:maven/io.undertow/undertow-http2-test-suite@1.2.0.Beta10?classifier=sources
+- pkg:maven/io.undertow/undertow-http2-test-suite@1.2.0.CR1
+- pkg:maven/io.undertow/undertow-http2-test-suite@1.2.0.CR1?classifier=sources

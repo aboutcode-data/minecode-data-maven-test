@@ -1,0 +1,2 @@
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-app@2.2.4?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-app@2.2.4?classifier=sources

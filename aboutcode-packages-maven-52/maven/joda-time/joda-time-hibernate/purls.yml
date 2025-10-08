@@ -5,3 +5,5 @@
 - pkg:maven/joda-time/joda-time-hibernate@1.1
 - pkg:maven/joda-time/joda-time-hibernate@1.0
 - pkg:maven/joda-time/joda-time-hibernate@0.8
+- pkg:maven/joda-time/joda-time-hibernate@1.4
+- pkg:maven/joda-time/joda-time-hibernate@1.4?classifier=sources
