@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.0.0-beta-1038
 - pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.0.0-beta-1038?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.0.0-beta-1103
+- pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.0.0-beta-1103?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/org.hibernate/hibernate-osgi@5.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@4.2.21.Final
 - pkg:maven/org.hibernate/hibernate-osgi@4.2.21.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.0.3.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.0.3.Final?classifier=sources

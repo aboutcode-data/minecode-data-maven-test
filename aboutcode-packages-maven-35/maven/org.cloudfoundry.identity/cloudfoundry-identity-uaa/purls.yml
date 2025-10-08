@@ -20,3 +20,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@2.7.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@2.7.0.3?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@2.7.0.3?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@2.7.1?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@2.7.1?classifier=sources

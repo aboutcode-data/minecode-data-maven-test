@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.tapestry/tapestry-hibernate@5.4-beta-26?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-hibernate@5.4-beta-35
 - pkg:maven/org.apache.tapestry/tapestry-hibernate@5.4-beta-35?classifier=sources
+- pkg:maven/org.apache.tapestry/tapestry-hibernate@5.4-rc-1
+- pkg:maven/org.apache.tapestry/tapestry-hibernate@5.4-rc-1?classifier=sources
