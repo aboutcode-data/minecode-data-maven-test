@@ -102,3 +102,7 @@
 - pkg:maven/org.jclouds.provider/cloudonestorage@1.6.0-alpha.3?classifier=sources
 - pkg:maven/org.jclouds.provider/cloudonestorage@1.5.8
 - pkg:maven/org.jclouds.provider/cloudonestorage@1.5.8?classifier=sources
+- pkg:maven/org.jclouds.provider/cloudonestorage@1.6.0-rc.1
+- pkg:maven/org.jclouds.provider/cloudonestorage@1.6.0-rc.1?classifier=sources
+- pkg:maven/org.jclouds.provider/cloudonestorage@1.6.0-alpha.4
+- pkg:maven/org.jclouds.provider/cloudonestorage@1.6.0-alpha.4?classifier=sources

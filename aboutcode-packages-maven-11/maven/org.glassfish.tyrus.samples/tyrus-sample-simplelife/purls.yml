@@ -10,3 +10,5 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b11?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b12?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b12?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b13?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.0-b13?classifier=sources
