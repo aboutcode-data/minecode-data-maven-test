@@ -6,3 +6,5 @@
 - pkg:maven/org.kuali.rice/rice-web@1.0.3.1-BX?classifier=sources
 - pkg:maven/org.kuali.rice/rice-web@2.0.0-b1?type=war
 - pkg:maven/org.kuali.rice/rice-web@2.0.0-b1?classifier=sources
+- pkg:maven/org.kuali.rice/rice-web@2.0.0-b3?type=war
+- pkg:maven/org.kuali.rice/rice-web@2.0.0-b3?classifier=sources

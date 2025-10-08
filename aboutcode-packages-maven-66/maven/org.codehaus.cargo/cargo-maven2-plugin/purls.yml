@@ -54,3 +54,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@0.3?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@0.2
 - pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@0.1
+- pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.1.4
+- pkg:maven/org.codehaus.cargo/cargo-maven2-plugin@1.1.4?classifier=sources

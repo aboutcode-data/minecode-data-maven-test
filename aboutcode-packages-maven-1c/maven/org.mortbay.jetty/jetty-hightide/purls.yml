@@ -26,3 +26,5 @@
 - pkg:maven/org.mortbay.jetty/jetty-hightide@7.5.4.v20111024?classifier=src&type=zip
 - pkg:maven/org.mortbay.jetty/jetty-hightide@8.1.0.RC0?classifier=src&type=zip
 - pkg:maven/org.mortbay.jetty/jetty-hightide@7.6.0.RC0?classifier=src&type=zip
+- pkg:maven/org.mortbay.jetty/jetty-hightide@8.1.0.RC1?classifier=src&type=zip
+- pkg:maven/org.mortbay.jetty/jetty-hightide@7.6.0.RC1?classifier=src&type=zip

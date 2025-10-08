@@ -52,3 +52,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-ant@0.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-ant@0.8
 - pkg:maven/org.codehaus.cargo/cargo-ant@0.7
+- pkg:maven/org.codehaus.cargo/cargo-ant@1.1.4
+- pkg:maven/org.codehaus.cargo/cargo-ant@1.1.4?classifier=sources

@@ -28,3 +28,6 @@
 - pkg:maven/org.apache.cassandra/apache-cassandra@0.7.10?classifier=src&type=tar.gz
 - pkg:maven/org.apache.cassandra/apache-cassandra@1.0.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.cassandra/apache-cassandra@1.0.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cassandra/apache-cassandra@1.0.5?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cassandra/apache-cassandra@1.0.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cassandra/apache-cassandra@0.8.8?classifier=src&type=tar.gz

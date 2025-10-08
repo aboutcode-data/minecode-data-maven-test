@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-security@1.0.38?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-security@1.5.0-beta-2
 - pkg:maven/org.apache.myfaces.tobago/tobago-security@1.5.0-beta-2?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-security@1.5.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-security@1.5.0?classifier=sources

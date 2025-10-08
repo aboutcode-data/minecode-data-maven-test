@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.shindig/shindig-server@1.0-incubating?classifier=sources
 - pkg:maven/org.apache.shindig/shindig-server@3.0.0-beta3?type=war
 - pkg:maven/org.apache.shindig/shindig-server@3.0.0-beta3?classifier=sources
+- pkg:maven/org.apache.shindig/shindig-server@3.0.0-beta4?type=war
+- pkg:maven/org.apache.shindig/shindig-server@3.0.0-beta4?classifier=sources

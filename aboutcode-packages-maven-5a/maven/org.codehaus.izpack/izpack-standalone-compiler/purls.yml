@@ -14,3 +14,5 @@
 - pkg:maven/org.codehaus.izpack/izpack-standalone-compiler@4.1.1?classifier=sources
 - pkg:maven/org.codehaus.izpack/izpack-standalone-compiler@4.0.1
 - pkg:maven/org.codehaus.izpack/izpack-standalone-compiler@4.0.1?classifier=sources
+- pkg:maven/org.codehaus.izpack/izpack-standalone-compiler@4.3.5
+- pkg:maven/org.codehaus.izpack/izpack-standalone-compiler@4.3.5?classifier=sources

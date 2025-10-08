@@ -48,3 +48,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-geronimo@0.9
 - pkg:maven/org.codehaus.cargo/cargo-core-container-geronimo@0.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-geronimo@0.8
+- pkg:maven/org.codehaus.cargo/cargo-core-container-geronimo@1.1.4
+- pkg:maven/org.codehaus.cargo/cargo-core-container-geronimo@1.1.4?classifier=sources

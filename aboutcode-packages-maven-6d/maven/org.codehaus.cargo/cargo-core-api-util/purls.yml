@@ -50,3 +50,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-api-util@0.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-api-util@0.8
 - pkg:maven/org.codehaus.cargo/cargo-core-api-util@0.7
+- pkg:maven/org.codehaus.cargo/cargo-core-api-util@1.1.4
+- pkg:maven/org.codehaus.cargo/cargo-core-api-util@1.1.4?classifier=sources
