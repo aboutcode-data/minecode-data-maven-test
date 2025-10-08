@@ -16,3 +16,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-jdk-client@1.10?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-jdk-client@1.11
 - pkg:maven/org.glassfish.tyrus/tyrus-container-jdk-client@1.11?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-jdk-client@1.12
+- pkg:maven/org.glassfish.tyrus/tyrus-container-jdk-client@1.12?classifier=sources

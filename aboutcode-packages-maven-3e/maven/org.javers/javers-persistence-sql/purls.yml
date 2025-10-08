@@ -42,3 +42,7 @@
 - pkg:maven/org.javers/javers-persistence-sql@1.3.3?classifier=sources
 - pkg:maven/org.javers/javers-persistence-sql@1.3.4
 - pkg:maven/org.javers/javers-persistence-sql@1.3.4?classifier=sources
+- pkg:maven/org.javers/javers-persistence-sql@1.3.8
+- pkg:maven/org.javers/javers-persistence-sql@1.3.8?classifier=sources
+- pkg:maven/org.javers/javers-persistence-sql@1.3.5
+- pkg:maven/org.javers/javers-persistence-sql@1.3.5?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.molgenis/molgenis-catalogue@1.8.1?classifier=sources
 - pkg:maven/org.molgenis/molgenis-catalogue@1.8.2
 - pkg:maven/org.molgenis/molgenis-catalogue@1.8.2?classifier=sources
+- pkg:maven/org.molgenis/molgenis-catalogue@1.9.0
+- pkg:maven/org.molgenis/molgenis-catalogue@1.9.0?classifier=sources
