@@ -76,3 +76,5 @@
 - pkg:maven/com.google.guava/guava@18.0-rc2?classifier=sources
 - pkg:maven/com.google.guava/guava@18.0
 - pkg:maven/com.google.guava/guava@18.0?classifier=sources
+- pkg:maven/com.google.guava/guava@19.0-rc1
+- pkg:maven/com.google.guava/guava@19.0-rc1?classifier=sources
