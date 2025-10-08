@@ -46,3 +46,7 @@
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.8-maven3.0?classifier=sources
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.8
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.8?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9-maven3.0
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9-maven3.0?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.8.9?classifier=sources

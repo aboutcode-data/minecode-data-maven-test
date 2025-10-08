@@ -8,3 +8,5 @@
 - pkg:maven/de.crowdcode.kissmda.maven/kissmda-maven-plugin@1.2.0?classifier=sources
 - pkg:maven/de.crowdcode.kissmda.maven/kissmda-maven-plugin@1.4.0
 - pkg:maven/de.crowdcode.kissmda.maven/kissmda-maven-plugin@1.4.0?classifier=sources
+- pkg:maven/de.crowdcode.kissmda.maven/kissmda-maven-plugin@2.0.0
+- pkg:maven/de.crowdcode.kissmda.maven/kissmda-maven-plugin@2.0.0?classifier=sources

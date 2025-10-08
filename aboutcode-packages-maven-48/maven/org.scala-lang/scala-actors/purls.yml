@@ -64,3 +64,7 @@
 - pkg:maven/org.scala-lang/scala-actors@2.11.0-M7?classifier=sources
 - pkg:maven/org.scala-lang/scala-actors@2.10.4-RC1
 - pkg:maven/org.scala-lang/scala-actors@2.10.4-RC1?classifier=sources
+- pkg:maven/org.scala-lang/scala-actors@2.11.0-M8
+- pkg:maven/org.scala-lang/scala-actors@2.11.0-M8?classifier=sources
+- pkg:maven/org.scala-lang/scala-actors@2.10.4-RC2
+- pkg:maven/org.scala-lang/scala-actors@2.10.4-RC2?classifier=sources
