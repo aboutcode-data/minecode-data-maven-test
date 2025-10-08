@@ -16,3 +16,5 @@
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta8?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@2.5.0
 - pkg:maven/org.craftercms/crafter-virus-scanner@2.5.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@2.5.0.e
+- pkg:maven/org.craftercms/crafter-virus-scanner@2.5.0.e?classifier=sources

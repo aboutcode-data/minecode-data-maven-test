@@ -68,3 +68,7 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.0.1.201506240215-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.0.2.201509141540-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.0.2.201509141540-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.1.0.201509280440-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.1.0.201509280440-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.0.3.201509231615-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ui@4.0.3.201509231615-r?classifier=sources

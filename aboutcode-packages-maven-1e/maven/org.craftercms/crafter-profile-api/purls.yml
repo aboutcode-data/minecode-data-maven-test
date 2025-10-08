@@ -20,3 +20,5 @@
 - pkg:maven/org.craftercms/crafter-profile-api@v2.5.0-Beta8?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-api@2.5.0
 - pkg:maven/org.craftercms/crafter-profile-api@2.5.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-api@2.5.0.e
+- pkg:maven/org.craftercms/crafter-profile-api@2.5.0.e?classifier=sources
