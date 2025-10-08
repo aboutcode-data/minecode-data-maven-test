@@ -119,3 +119,5 @@
 - pkg:maven/org.jasig.cas/cas-server-webapp@4.0.2?classifier=sources
 - pkg:maven/org.jasig.cas/cas-server-webapp@3.6.0?type=war
 - pkg:maven/org.jasig.cas/cas-server-webapp@3.6.0?classifier=sources
+- pkg:maven/org.jasig.cas/cas-server-webapp@4.0.3?type=war
+- pkg:maven/org.jasig.cas/cas-server-webapp@4.0.3?classifier=sources

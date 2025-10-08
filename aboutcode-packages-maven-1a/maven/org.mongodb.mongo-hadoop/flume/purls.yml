@@ -4,3 +4,5 @@
 - pkg:maven/org.mongodb.mongo-hadoop/flume@1.3.2?classifier=sources
 - pkg:maven/org.mongodb.mongo-hadoop/flume@1.4-rc0
 - pkg:maven/org.mongodb.mongo-hadoop/flume@1.4-rc0?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/flume@1.4.0
+- pkg:maven/org.mongodb.mongo-hadoop/flume@1.4.0?classifier=sources

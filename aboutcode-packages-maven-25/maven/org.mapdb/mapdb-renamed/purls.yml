@@ -1,2 +1,6 @@
 - pkg:maven/org.mapdb/mapdb-renamed@1.0.6
 - pkg:maven/org.mapdb/mapdb-renamed@1.0.6?classifier=sources
+- pkg:maven/org.mapdb/mapdb-renamed@2.0-beta2
+- pkg:maven/org.mapdb/mapdb-renamed@2.0-beta2?classifier=sources
+- pkg:maven/org.mapdb/mapdb-renamed@1.0.8
+- pkg:maven/org.mapdb/mapdb-renamed@1.0.8?classifier=sources
