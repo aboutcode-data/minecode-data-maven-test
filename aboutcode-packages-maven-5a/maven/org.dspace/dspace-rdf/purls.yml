@@ -1,2 +1,4 @@
 - pkg:maven/org.dspace/dspace-rdf@1.5.1
 - pkg:maven/org.dspace/dspace-rdf@1.5.1?classifier=sources
+- pkg:maven/org.dspace/dspace-rdf@5.0-rc1?type=war
+- pkg:maven/org.dspace/dspace-rdf@5.0-rc1?classifier=sources

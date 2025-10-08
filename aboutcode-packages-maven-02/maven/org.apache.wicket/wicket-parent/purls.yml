@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.wicket/wicket-parent@6.16.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@7.0.0-M3?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@6.17.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@7.0.0-M4?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@6.18.0?classifier=source-release&type=zip

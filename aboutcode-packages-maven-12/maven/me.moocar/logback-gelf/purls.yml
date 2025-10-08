@@ -10,3 +10,5 @@
 - pkg:maven/me.moocar/logback-gelf@0.10p2?classifier=sources
 - pkg:maven/me.moocar/logback-gelf@0.11
 - pkg:maven/me.moocar/logback-gelf@0.11?classifier=sources
+- pkg:maven/me.moocar/logback-gelf@0.12
+- pkg:maven/me.moocar/logback-gelf@0.12?classifier=sources
