@@ -1,2 +1,4 @@
 - pkg:maven/com.eclipsesource.jaxrs/swagger-all@1.5.4
 - pkg:maven/com.eclipsesource.jaxrs/swagger-all@1.5.4?classifier=sources
+- pkg:maven/com.eclipsesource.jaxrs/swagger-all@1.5.5
+- pkg:maven/com.eclipsesource.jaxrs/swagger-all@1.5.5?classifier=sources

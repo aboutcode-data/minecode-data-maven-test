@@ -46,3 +46,5 @@
 - pkg:maven/com.contentful.java/java-sdk@5.0.0?classifier=sources
 - pkg:maven/com.contentful.java/java-sdk@6.0.0
 - pkg:maven/com.contentful.java/java-sdk@6.0.0?classifier=sources
+- pkg:maven/com.contentful.java/java-sdk@6.1.0
+- pkg:maven/com.contentful.java/java-sdk@6.1.0?classifier=sources

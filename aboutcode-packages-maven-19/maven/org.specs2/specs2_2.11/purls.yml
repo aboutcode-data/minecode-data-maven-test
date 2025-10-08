@@ -118,3 +118,7 @@
 - pkg:maven/org.specs2/specs2_2.11@3.3?classifier=sources
 - pkg:maven/org.specs2/specs2_2.11@3.2-20150329233502-0653950
 - pkg:maven/org.specs2/specs2_2.11@3.2-20150329233502-0653950?classifier=sources
+- pkg:maven/org.specs2/specs2_2.11@2.5-scalaz-7.1.6
+- pkg:maven/org.specs2/specs2_2.11@2.5-scalaz-7.1.6?classifier=sources
+- pkg:maven/org.specs2/specs2_2.11@2.5
+- pkg:maven/org.specs2/specs2_2.11@2.5?classifier=sources
