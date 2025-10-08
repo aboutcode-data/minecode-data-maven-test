@@ -30,3 +30,7 @@
 - pkg:maven/com.netflix.feign/feign-slf4j@8.4.1?classifier=sources
 - pkg:maven/com.netflix.feign/feign-slf4j@8.4.0
 - pkg:maven/com.netflix.feign/feign-slf4j@8.4.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-slf4j@8.5.0
+- pkg:maven/com.netflix.feign/feign-slf4j@8.5.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-slf4j@7.5.0
+- pkg:maven/com.netflix.feign/feign-slf4j@7.5.0?classifier=sources

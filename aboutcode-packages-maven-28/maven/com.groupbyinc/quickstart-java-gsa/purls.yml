@@ -14,3 +14,5 @@
 - pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.161?classifier=sources
 - pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.160?type=war
 - pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.160?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.168?type=war
+- pkg:maven/com.groupbyinc/quickstart-java-gsa@2.0.168?classifier=sources

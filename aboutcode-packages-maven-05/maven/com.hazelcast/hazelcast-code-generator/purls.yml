@@ -1,2 +1,4 @@
 - pkg:maven/com.hazelcast/hazelcast-code-generator@3.5-EA
 - pkg:maven/com.hazelcast/hazelcast-code-generator@3.5-EA?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-code-generator@3.5
+- pkg:maven/com.hazelcast/hazelcast-code-generator@3.5?classifier=sources
