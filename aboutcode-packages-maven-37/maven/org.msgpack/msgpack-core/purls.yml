@@ -28,3 +28,5 @@
 - pkg:maven/org.msgpack/msgpack-core@0.7.0-p9?classifier=sources
 - pkg:maven/org.msgpack/msgpack-core@0.7.0-M6
 - pkg:maven/org.msgpack/msgpack-core@0.7.0-M6?classifier=sources
+- pkg:maven/org.msgpack/msgpack-core@0.7.0
+- pkg:maven/org.msgpack/msgpack-core@0.7.0?classifier=sources

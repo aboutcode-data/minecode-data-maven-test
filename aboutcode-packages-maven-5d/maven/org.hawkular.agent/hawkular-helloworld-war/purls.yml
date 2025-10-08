@@ -14,3 +14,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-helloworld-war@0.11.1.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-helloworld-war@0.11.0.Final?type=war
 - pkg:maven/org.hawkular.agent/hawkular-helloworld-war@0.11.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-helloworld-war@0.12.0.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-helloworld-war@0.12.0.Final?classifier=sources
