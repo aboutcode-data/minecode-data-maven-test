@@ -4,3 +4,5 @@
 - pkg:maven/org.rhq/rhq-arquillian-agent-plugin-container-embedded@4.5.1?classifier=sources
 - pkg:maven/org.rhq/rhq-arquillian-agent-plugin-container-embedded@4.6.0
 - pkg:maven/org.rhq/rhq-arquillian-agent-plugin-container-embedded@4.6.0?classifier=sources
+- pkg:maven/org.rhq/rhq-arquillian-agent-plugin-container-embedded@4.7.0
+- pkg:maven/org.rhq/rhq-arquillian-agent-plugin-container-embedded@4.7.0?classifier=sources

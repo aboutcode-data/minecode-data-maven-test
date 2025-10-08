@@ -30,3 +30,5 @@
 - pkg:maven/org.sonatype.security/security-web@3.0?classifier=sources
 - pkg:maven/org.sonatype.security/security-web@3.0.2
 - pkg:maven/org.sonatype.security/security-web@3.0.2?classifier=sources
+- pkg:maven/org.sonatype.security/security-web@3.1
+- pkg:maven/org.sonatype.security/security-web@3.1?classifier=sources

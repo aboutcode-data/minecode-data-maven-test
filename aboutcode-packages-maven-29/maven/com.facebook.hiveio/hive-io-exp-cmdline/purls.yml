@@ -1,2 +1,4 @@
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.8
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.8?classifier=sources
+- pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.9
+- pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.9?classifier=sources
