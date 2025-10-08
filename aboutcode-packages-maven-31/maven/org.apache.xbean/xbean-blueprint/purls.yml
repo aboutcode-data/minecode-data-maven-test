@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.xbean/xbean-blueprint@3.7?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-blueprint@3.9
 - pkg:maven/org.apache.xbean/xbean-blueprint@3.9?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-blueprint@3.10
+- pkg:maven/org.apache.xbean/xbean-blueprint@3.10?classifier=sources

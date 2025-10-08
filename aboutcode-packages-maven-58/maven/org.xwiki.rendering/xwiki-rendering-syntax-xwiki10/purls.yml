@@ -28,3 +28,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@3.5?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@4.0-milestone-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@4.0-milestone-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@4.0-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@4.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@4.0-milestone-2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xwiki10@4.0-milestone-2?classifier=sources
