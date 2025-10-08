@@ -111,3 +111,5 @@
 - pkg:maven/org.hibernate/hibernate-search-testing@4.4.4.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-testing@5.0.0.Alpha7
 - pkg:maven/org.hibernate/hibernate-search-testing@5.0.0.Alpha7?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-testing@5.0.0.Beta1
+- pkg:maven/org.hibernate/hibernate-search-testing@5.0.0.Beta1?classifier=sources
