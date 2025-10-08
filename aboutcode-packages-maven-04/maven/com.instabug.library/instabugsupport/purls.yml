@@ -24,3 +24,5 @@
 - pkg:maven/com.instabug.library/instabugsupport@1.3.8?classifier=sources
 - pkg:maven/com.instabug.library/instabugsupport@1.3.9?type=aar
 - pkg:maven/com.instabug.library/instabugsupport@1.3.9?classifier=sources
+- pkg:maven/com.instabug.library/instabugsupport@1.4?type=aar
+- pkg:maven/com.instabug.library/instabugsupport@1.4?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/co.cask.cdap/cdap-cli@3.0.0?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-cli@2.6.3
 - pkg:maven/co.cask.cdap/cdap-cli@2.6.3?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-cli@3.0.1
+- pkg:maven/co.cask.cdap/cdap-cli@3.0.1?classifier=sources

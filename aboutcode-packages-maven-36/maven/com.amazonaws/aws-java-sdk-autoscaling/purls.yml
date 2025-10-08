@@ -88,3 +88,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-autoscaling@1.10.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-autoscaling@1.10.1
 - pkg:maven/com.amazonaws/aws-java-sdk-autoscaling@1.10.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-autoscaling@1.10.2
+- pkg:maven/com.amazonaws/aws-java-sdk-autoscaling@1.10.2?classifier=sources

@@ -76,3 +76,5 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-guava@2.6.0-rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-guava@2.5.4
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-guava@2.5.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-guava@2.6.0-rc3
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-guava@2.6.0-rc3?classifier=sources
