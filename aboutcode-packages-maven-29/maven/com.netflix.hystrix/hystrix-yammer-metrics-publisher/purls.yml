@@ -140,3 +140,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-yammer-metrics-publisher@1.4.14?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-yammer-metrics-publisher@1.4.15
 - pkg:maven/com.netflix.hystrix/hystrix-yammer-metrics-publisher@1.4.15?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-yammer-metrics-publisher@1.4.16
+- pkg:maven/com.netflix.hystrix/hystrix-yammer-metrics-publisher@1.4.16?classifier=sources

@@ -78,3 +78,7 @@
 - pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.199?classifier=sources
 - pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.198?type=war
 - pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.198?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.204?type=war
+- pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.204?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.203?type=war
+- pkg:maven/com.groupbyinc/quickstart-java-flux@2.0.203?classifier=sources

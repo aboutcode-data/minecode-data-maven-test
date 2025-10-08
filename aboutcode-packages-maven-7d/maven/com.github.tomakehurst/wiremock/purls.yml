@@ -83,3 +83,5 @@
 - pkg:maven/com.github.tomakehurst/wiremock@2.0.2-beta?classifier=sources
 - pkg:maven/com.github.tomakehurst/wiremock@2.0.1-beta?classifier=sources
 - pkg:maven/com.github.tomakehurst/wiremock@2.0.3-beta?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock@2.0.5-beta?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock@2.0.4-beta?classifier=sources
