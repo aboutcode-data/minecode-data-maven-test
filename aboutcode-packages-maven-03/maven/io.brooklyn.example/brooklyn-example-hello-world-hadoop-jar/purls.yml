@@ -1,0 +1,2 @@
+- pkg:maven/io.brooklyn.example/brooklyn-example-hello-world-hadoop-jar@0.4.0
+- pkg:maven/io.brooklyn.example/brooklyn-example-hello-world-hadoop-jar@0.4.0?classifier=sources

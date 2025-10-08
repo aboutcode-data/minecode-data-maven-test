@@ -10,3 +10,5 @@
 - pkg:maven/com.netflix.archaius/archaius-scala@0.4.0?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius-scala@0.5.3
 - pkg:maven/com.netflix.archaius/archaius-scala@0.5.3?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius-scala@0.5.4
+- pkg:maven/com.netflix.archaius/archaius-scala@0.5.4?classifier=sources

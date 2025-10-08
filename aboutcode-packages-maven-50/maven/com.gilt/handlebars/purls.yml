@@ -2,3 +2,7 @@
 - pkg:maven/com.gilt/handlebars@1.0?classifier=sources
 - pkg:maven/com.gilt/handlebars@0.0.2
 - pkg:maven/com.gilt/handlebars@0.0.2?classifier=sources
+- pkg:maven/com.gilt/handlebars@0.0.3-perf
+- pkg:maven/com.gilt/handlebars@0.0.3-perf?classifier=sources
+- pkg:maven/com.gilt/handlebars@0.0.3
+- pkg:maven/com.gilt/handlebars@0.0.3?classifier=sources
