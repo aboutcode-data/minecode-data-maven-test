@@ -2,3 +2,5 @@
 - pkg:maven/com.netflix.servo/servo-core@0.1.0?classifier=sources
 - pkg:maven/com.netflix.servo/servo-core@0.4.10
 - pkg:maven/com.netflix.servo/servo-core@0.4.10?classifier=sources
+- pkg:maven/com.netflix.servo/servo-core@0.4.15
+- pkg:maven/com.netflix.servo/servo-core@0.4.15?classifier=sources

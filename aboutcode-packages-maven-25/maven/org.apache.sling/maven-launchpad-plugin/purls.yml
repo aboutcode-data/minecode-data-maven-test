@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.sling/maven-launchpad-plugin@2.0.10
 - pkg:maven/org.apache.sling/maven-launchpad-plugin@2.0.10?classifier=sources
 - pkg:maven/org.apache.sling/maven-launchpad-plugin@2.0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/maven-launchpad-plugin@2.1.2
+- pkg:maven/org.apache.sling/maven-launchpad-plugin@2.1.2?classifier=sources
+- pkg:maven/org.apache.sling/maven-launchpad-plugin@2.1.2?classifier=source-release&type=zip

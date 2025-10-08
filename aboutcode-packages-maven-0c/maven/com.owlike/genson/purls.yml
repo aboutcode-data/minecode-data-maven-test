@@ -1,2 +1,4 @@
 - pkg:maven/com.owlike/genson@0.9
 - pkg:maven/com.owlike/genson@0.9?classifier=sources
+- pkg:maven/com.owlike/genson@0.91
+- pkg:maven/com.owlike/genson@0.91?classifier=sources

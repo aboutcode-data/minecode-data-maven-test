@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.wicket/wicket-util@1.5.7?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@6.0.0-beta3
 - pkg:maven/org.apache.wicket/wicket-util@6.0.0-beta3?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@1.5.8
+- pkg:maven/org.apache.wicket/wicket-util@1.5.8?classifier=sources

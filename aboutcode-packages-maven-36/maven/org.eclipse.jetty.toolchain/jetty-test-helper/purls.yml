@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@1.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@1.6.1
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@1.6.1?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@1.8
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@1.8?classifier=sources

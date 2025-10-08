@@ -2,3 +2,5 @@
 - pkg:maven/com.timgroup/karg@0.2?classifier=sources
 - pkg:maven/com.timgroup/karg@0.7
 - pkg:maven/com.timgroup/karg@0.7?classifier=sources
+- pkg:maven/com.timgroup/karg@0.8
+- pkg:maven/com.timgroup/karg@0.8?classifier=sources

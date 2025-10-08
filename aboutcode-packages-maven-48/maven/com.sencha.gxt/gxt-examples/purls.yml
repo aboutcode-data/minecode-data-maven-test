@@ -14,3 +14,5 @@
 - pkg:maven/com.sencha.gxt/gxt-examples@3.0.0b?classifier=sources
 - pkg:maven/com.sencha.gxt/gxt-examples@3.0.0?type=war
 - pkg:maven/com.sencha.gxt/gxt-examples@3.0.0?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt-examples@3.0.1?type=war
+- pkg:maven/com.sencha.gxt/gxt-examples@3.0.1?classifier=sources
