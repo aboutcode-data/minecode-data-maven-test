@@ -22,3 +22,5 @@
 - pkg:maven/net.boreeas/riotapi.rest@1.6.0?classifier=sources
 - pkg:maven/net.boreeas/riotapi.rest@1.5.7
 - pkg:maven/net.boreeas/riotapi.rest@1.5.7?classifier=sources
+- pkg:maven/net.boreeas/riotapi.rest@2.0.0
+- pkg:maven/net.boreeas/riotapi.rest@2.0.0?classifier=sources
