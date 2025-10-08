@@ -22,3 +22,5 @@
 - pkg:maven/com.github.chrischristo/capsule-maven-plugin@0.10.8?classifier=sources
 - pkg:maven/com.github.chrischristo/capsule-maven-plugin@0.10.7
 - pkg:maven/com.github.chrischristo/capsule-maven-plugin@0.10.7?classifier=sources
+- pkg:maven/com.github.chrischristo/capsule-maven-plugin@1.0.0
+- pkg:maven/com.github.chrischristo/capsule-maven-plugin@1.0.0?classifier=sources

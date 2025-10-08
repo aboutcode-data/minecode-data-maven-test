@@ -32,3 +32,7 @@
 - pkg:maven/biz.paluch.redis/lettuce@3.3.1.Final?classifier=sources
 - pkg:maven/biz.paluch.redis/lettuce@4.0.1.Final
 - pkg:maven/biz.paluch.redis/lettuce@4.0.1.Final?classifier=sources
+- pkg:maven/biz.paluch.redis/lettuce@4.0.2.Final
+- pkg:maven/biz.paluch.redis/lettuce@4.0.2.Final?classifier=sources
+- pkg:maven/biz.paluch.redis/lettuce@3.3.2.Final
+- pkg:maven/biz.paluch.redis/lettuce@3.3.2.Final?classifier=sources
