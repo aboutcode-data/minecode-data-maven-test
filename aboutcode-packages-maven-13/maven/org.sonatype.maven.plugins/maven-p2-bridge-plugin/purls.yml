@@ -12,3 +12,7 @@
 - pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@0.1.2?classifier=sources
 - pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@0.1.0
 - pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@0.1.0?classifier=sources
+- pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@1.0.9
+- pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@1.0.9?classifier=sources
+- pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@1.0.8
+- pkg:maven/org.sonatype.maven.plugins/maven-p2-bridge-plugin@1.0.8?classifier=sources

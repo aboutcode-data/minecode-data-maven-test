@@ -6,3 +6,5 @@
 - pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.12?classifier=sources
 - pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.14
 - pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.14?classifier=sources
+- pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.15
+- pkg:maven/org.quattor.maven/quattor-build-maven-plugin@1.15?classifier=sources

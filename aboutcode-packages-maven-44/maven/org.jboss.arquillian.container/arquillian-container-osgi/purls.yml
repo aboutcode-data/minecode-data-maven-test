@@ -10,3 +10,5 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi@1.0.0.CR5?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi@1.0.0.CR6
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi@1.0.0.CR6?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi@1.0.0
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi@1.0.0?classifier=sources
