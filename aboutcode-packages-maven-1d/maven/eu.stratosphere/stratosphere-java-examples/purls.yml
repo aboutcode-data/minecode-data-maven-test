@@ -12,3 +12,11 @@
 - pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc2-hadoop2?classifier=sources
 - pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc2
 - pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc2?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc3-hadoop2
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc3-hadoop2?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc3
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-rc3?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-hadoop2
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5-hadoop2?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5
+- pkg:maven/eu.stratosphere/stratosphere-java-examples@0.5?classifier=sources

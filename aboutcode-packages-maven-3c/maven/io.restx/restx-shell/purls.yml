@@ -22,3 +22,7 @@
 - pkg:maven/io.restx/restx-shell@0.31.1?classifier=sources
 - pkg:maven/io.restx/restx-shell@0.32
 - pkg:maven/io.restx/restx-shell@0.32?classifier=sources
+- pkg:maven/io.restx/restx-shell@0.33.1
+- pkg:maven/io.restx/restx-shell@0.33.1?classifier=sources
+- pkg:maven/io.restx/restx-shell@0.33
+- pkg:maven/io.restx/restx-shell@0.33?classifier=sources
