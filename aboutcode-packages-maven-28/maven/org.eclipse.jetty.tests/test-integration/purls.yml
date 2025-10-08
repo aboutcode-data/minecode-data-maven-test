@@ -114,3 +114,7 @@
 - pkg:maven/org.eclipse.jetty.tests/test-integration@9.1.4.v20140401?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/test-integration@9.2.0.M0
 - pkg:maven/org.eclipse.jetty.tests/test-integration@9.2.0.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-integration@8.1.15.v20140411
+- pkg:maven/org.eclipse.jetty.tests/test-integration@8.1.15.v20140411?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-integration@7.6.15.v20140411
+- pkg:maven/org.eclipse.jetty.tests/test-integration@7.6.15.v20140411?classifier=sources

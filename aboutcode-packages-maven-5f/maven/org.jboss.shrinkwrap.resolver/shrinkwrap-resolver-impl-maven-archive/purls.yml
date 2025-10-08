@@ -32,3 +32,5 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-impl-maven-archive@2.0.2?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-impl-maven-archive@2.1.0
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-impl-maven-archive@2.1.0?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-impl-maven-archive@2.2.0-alpha-1
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-impl-maven-archive@2.2.0-alpha-1?classifier=sources

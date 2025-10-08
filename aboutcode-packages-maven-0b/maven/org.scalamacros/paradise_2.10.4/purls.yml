@@ -10,3 +10,5 @@
 - pkg:maven/org.scalamacros/paradise_2.10.4@2.0.0-M7?classifier=sources
 - pkg:maven/org.scalamacros/paradise_2.10.4@2.0.0-M8
 - pkg:maven/org.scalamacros/paradise_2.10.4@2.0.0-M8?classifier=sources
+- pkg:maven/org.scalamacros/paradise_2.10.4@2.0.0
+- pkg:maven/org.scalamacros/paradise_2.10.4@2.0.0?classifier=sources
