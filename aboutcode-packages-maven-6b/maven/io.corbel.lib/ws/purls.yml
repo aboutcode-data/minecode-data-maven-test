@@ -6,3 +6,5 @@
 - pkg:maven/io.corbel.lib/ws@0.10.0?classifier=sources
 - pkg:maven/io.corbel.lib/ws@0.12.0
 - pkg:maven/io.corbel.lib/ws@0.12.0?classifier=sources
+- pkg:maven/io.corbel.lib/ws@0.13.0
+- pkg:maven/io.corbel.lib/ws@0.13.0?classifier=sources
