@@ -54,3 +54,5 @@
 - pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@2.9?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@3.0
 - pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@3.0?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@3.1
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-listeners@3.1?classifier=sources

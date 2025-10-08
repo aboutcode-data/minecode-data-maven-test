@@ -4,3 +4,5 @@
 - pkg:maven/org.bytedeco.javacpp-presets/opencv@2.4.9-0.9?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/opencv@2.4.10-0.10
 - pkg:maven/org.bytedeco.javacpp-presets/opencv@2.4.10-0.10?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/opencv@2.4.11-0.11
+- pkg:maven/org.bytedeco.javacpp-presets/opencv@2.4.11-0.11?classifier=sources

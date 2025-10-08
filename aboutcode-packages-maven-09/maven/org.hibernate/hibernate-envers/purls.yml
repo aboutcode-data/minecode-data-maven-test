@@ -199,3 +199,5 @@
 - pkg:maven/org.hibernate/hibernate-envers@4.2.17.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-envers@4.2.18.Final
 - pkg:maven/org.hibernate/hibernate-envers@4.2.18.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-envers@5.0.0.Beta1
+- pkg:maven/org.hibernate/hibernate-envers@5.0.0.Beta1?classifier=sources

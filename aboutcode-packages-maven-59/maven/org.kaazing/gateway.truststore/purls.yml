@@ -26,3 +26,5 @@
 - pkg:maven/org.kaazing/gateway.truststore@1.0.0.81?classifier=sources
 - pkg:maven/org.kaazing/gateway.truststore@5.0.1.20
 - pkg:maven/org.kaazing/gateway.truststore@5.0.1.20?classifier=sources
+- pkg:maven/org.kaazing/gateway.truststore@5.0.1.21
+- pkg:maven/org.kaazing/gateway.truststore@5.0.1.21?classifier=sources

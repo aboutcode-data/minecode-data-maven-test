@@ -1,0 +1,2 @@
+- pkg:maven/org.keycloak.subsystem/keycloak-server@1.2.0.Beta1?type=war
+- pkg:maven/org.keycloak.subsystem/keycloak-server@1.2.0.Beta1?classifier=sources

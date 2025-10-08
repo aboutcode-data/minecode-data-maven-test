@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-base@5.3.1?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-base@6.0.0.M1
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-base@6.0.0.M1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-base@5.1.5
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-base@5.1.5?classifier=sources
