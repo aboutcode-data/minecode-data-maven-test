@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.archaius/archaius2-guice@2.0.0-rc.8
 - pkg:maven/com.netflix.archaius/archaius2-guice@2.0.0-rc.8?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-guice@2.0.0-rc.9
+- pkg:maven/com.netflix.archaius/archaius2-guice@2.0.0-rc.9?classifier=sources

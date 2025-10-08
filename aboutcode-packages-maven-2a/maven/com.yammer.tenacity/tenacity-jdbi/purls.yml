@@ -62,3 +62,5 @@
 - pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.6.4?classifier=sources
 - pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.5.7
 - pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.5.7?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.6.5
+- pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.6.5?classifier=sources
