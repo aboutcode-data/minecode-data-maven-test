@@ -14,3 +14,5 @@
 - pkg:maven/com.netflix.eureka/eureka-core@1.1.73?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-core@1.1.97
 - pkg:maven/com.netflix.eureka/eureka-core@1.1.97?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-core@1.1.103
+- pkg:maven/com.netflix.eureka/eureka-core@1.1.103?classifier=sources

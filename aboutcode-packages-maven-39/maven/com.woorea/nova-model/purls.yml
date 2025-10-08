@@ -1,2 +1,4 @@
 - pkg:maven/com.woorea/nova-model@3.0.0
 - pkg:maven/com.woorea/nova-model@3.0.0?classifier=sources
+- pkg:maven/com.woorea/nova-model@3.2.1
+- pkg:maven/com.woorea/nova-model@3.2.1?classifier=sources

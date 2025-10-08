@@ -18,3 +18,9 @@
 - pkg:maven/pl.matisoft/spring-soy-view-example@1.8?classifier=sources
 - pkg:maven/pl.matisoft/spring-soy-view-example@1.9?type=war
 - pkg:maven/pl.matisoft/spring-soy-view-example@1.9?classifier=sources
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.12.1?type=war
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.12.1?classifier=sources
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.11?type=war
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.11?classifier=sources
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.10?type=war
+- pkg:maven/pl.matisoft/spring-soy-view-example@1.10?classifier=sources

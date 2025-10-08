@@ -26,3 +26,5 @@
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.14.1-beta?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.15.0-rc
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.15.0-rc?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-appengine@1.16.0-rc
+- pkg:maven/com.google.http-client/google-http-client-appengine@1.16.0-rc?classifier=sources
