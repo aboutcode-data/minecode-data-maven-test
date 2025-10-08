@@ -58,3 +58,5 @@
 - pkg:maven/org.igniterealtime.smack/smack-bosh@4.1.4?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-bosh@4.2.0-alpha2
 - pkg:maven/org.igniterealtime.smack/smack-bosh@4.2.0-alpha2?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-bosh@4.1.5
+- pkg:maven/org.igniterealtime.smack/smack-bosh@4.1.5?classifier=sources

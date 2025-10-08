@@ -18,3 +18,9 @@
 - pkg:maven/org.echocat.marquardt/client@0.7?classifier=sources
 - pkg:maven/org.echocat.marquardt/client@0.10
 - pkg:maven/org.echocat.marquardt/client@0.10?classifier=sources
+- pkg:maven/org.echocat.marquardt/client@0.14
+- pkg:maven/org.echocat.marquardt/client@0.14?classifier=sources
+- pkg:maven/org.echocat.marquardt/client@0.13
+- pkg:maven/org.echocat.marquardt/client@0.13?classifier=sources
+- pkg:maven/org.echocat.marquardt/client@0.11
+- pkg:maven/org.echocat.marquardt/client@0.11?classifier=sources

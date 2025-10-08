@@ -14,3 +14,5 @@
 - pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.GA?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.1.0.RELEASE
 - pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.grails/gorm-hibernate4-spring-boot@5.0.0.RC1
+- pkg:maven/org.grails/gorm-hibernate4-spring-boot@5.0.0.RC1?classifier=sources
