@@ -1,2 +1,6 @@
 - pkg:maven/org.coursera.courier/courier-grammar@0.16.8
 - pkg:maven/org.coursera.courier/courier-grammar@0.16.8?classifier=sources
+- pkg:maven/org.coursera.courier/courier-grammar@1.0.0
+- pkg:maven/org.coursera.courier/courier-grammar@1.0.0?classifier=sources
+- pkg:maven/org.coursera.courier/courier-grammar@0.21.2
+- pkg:maven/org.coursera.courier/courier-grammar@0.21.2?classifier=sources

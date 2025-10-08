@@ -74,3 +74,7 @@
 - pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@4.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@4.0.4
 - pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@4.0.4?classifier=sources
+- pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@2.4.4
+- pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@2.4.4?classifier=sources
+- pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@2.3.12
+- pkg:maven/org.apache.karaf.demos/org.apache.karaf.demos.command@2.3.12?classifier=sources
