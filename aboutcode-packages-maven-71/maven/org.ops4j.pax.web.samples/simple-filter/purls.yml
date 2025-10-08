@@ -18,3 +18,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/simple-filter@4.2.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/simple-filter@4.2.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/simple-filter@4.2.1?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/simple-filter@4.2.2?type=war
+- pkg:maven/org.ops4j.pax.web.samples/simple-filter@4.2.2?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/org.jlot/jlot-web@0.87?classifier=sources
 - pkg:maven/org.jlot/jlot-web@0.93?type=war
 - pkg:maven/org.jlot/jlot-web@0.93?classifier=sources
+- pkg:maven/org.jlot/jlot-web@0.95?type=war
+- pkg:maven/org.jlot/jlot-web@0.95?classifier=sources
+- pkg:maven/org.jlot/jlot-web@0.94?type=war
+- pkg:maven/org.jlot/jlot-web@0.94?classifier=sources
