@@ -97,3 +97,5 @@
 - pkg:maven/org.infinispan/infinispan-cli-server@5.2.11.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-server@7.0.0.CR1
 - pkg:maven/org.infinispan/infinispan-cli-server@7.0.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-server@5.2.11.Final
+- pkg:maven/org.infinispan/infinispan-cli-server@5.2.11.Final?classifier=sources
