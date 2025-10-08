@@ -192,3 +192,5 @@
 - pkg:maven/com.sun.xml.bind/jaxb-impl@2.1.15?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-impl@2.1.16
 - pkg:maven/com.sun.xml.bind/jaxb-impl@2.1.16?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-impl@2.2.10-b140310.1920
+- pkg:maven/com.sun.xml.bind/jaxb-impl@2.2.10-b140310.1920?classifier=sources
