@@ -4,3 +4,5 @@
 - pkg:maven/de.ppi.oss/webtest@0.4?classifier=sources
 - pkg:maven/de.ppi.oss/webtest@0.7
 - pkg:maven/de.ppi.oss/webtest@0.7?classifier=sources
+- pkg:maven/de.ppi.oss/webtest@0.8
+- pkg:maven/de.ppi.oss/webtest@0.8?classifier=sources

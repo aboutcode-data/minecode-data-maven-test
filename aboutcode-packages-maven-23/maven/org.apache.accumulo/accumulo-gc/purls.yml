@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.accumulo/accumulo-gc@1.6.3
 - pkg:maven/org.apache.accumulo/accumulo-gc@1.6.3?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-gc@1.6.4
+- pkg:maven/org.apache.accumulo/accumulo-gc@1.6.4?classifier=sources
