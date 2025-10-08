@@ -28,3 +28,5 @@
 - pkg:maven/com.baidu/jprotobuf-rpc-socket@2.11?classifier=sources
 - pkg:maven/com.baidu/jprotobuf-rpc-socket@2.10
 - pkg:maven/com.baidu/jprotobuf-rpc-socket@2.10?classifier=sources
+- pkg:maven/com.baidu/jprotobuf-rpc-socket@2.14
+- pkg:maven/com.baidu/jprotobuf-rpc-socket@2.14?classifier=sources

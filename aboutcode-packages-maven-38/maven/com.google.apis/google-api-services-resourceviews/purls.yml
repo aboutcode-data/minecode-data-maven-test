@@ -160,3 +160,7 @@
 - pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta1-rev14-1.16.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta1-rev14-1.15.0-rc
 - pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta1-rev14-1.15.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta2-rev4-1.19.1
+- pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta2-rev4-1.19.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta1-rev14-1.19.1
+- pkg:maven/com.google.apis/google-api-services-resourceviews@v1beta1-rev14-1.19.1?classifier=sources
