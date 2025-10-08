@@ -38,3 +38,5 @@
 - pkg:maven/org.kuali.rice/rice-web@2.0.2?classifier=sources
 - pkg:maven/org.kuali.rice/rice-web@1.0.4?type=war
 - pkg:maven/org.kuali.rice/rice-web@1.0.4?classifier=sources
+- pkg:maven/org.kuali.rice/rice-web@2.1.1?type=war
+- pkg:maven/org.kuali.rice/rice-web@2.1.1?classifier=sources

@@ -286,3 +286,7 @@
 - pkg:maven/org.mortbay.jetty/jetty-spring@8.1.5.v20120716?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-spring@7.6.5.v20120716
 - pkg:maven/org.mortbay.jetty/jetty-spring@7.6.5.v20120716?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-spring@8.1.6.v20120903
+- pkg:maven/org.mortbay.jetty/jetty-spring@8.1.6.v20120903?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-spring@7.6.6.v20120903
+- pkg:maven/org.mortbay.jetty/jetty-spring@7.6.6.v20120903?classifier=sources

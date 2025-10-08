@@ -47,3 +47,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.1.6.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.2.0.Alpha3
 - pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.2.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.1.7.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.1.7.Final?classifier=sources

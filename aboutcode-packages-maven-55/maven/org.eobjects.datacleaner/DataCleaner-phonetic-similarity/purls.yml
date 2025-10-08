@@ -16,3 +16,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-phonetic-similarity@2.5.2?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-phonetic-similarity@3.0-alpha
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-phonetic-similarity@3.0-alpha?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-phonetic-similarity@3.0-beta
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-phonetic-similarity@3.0-beta?classifier=sources
