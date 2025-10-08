@@ -1,2 +1,4 @@
 - pkg:maven/com.skadistats/clarity@1.0
 - pkg:maven/com.skadistats/clarity@1.0?classifier=sources
+- pkg:maven/com.skadistats/clarity@1.1
+- pkg:maven/com.skadistats/clarity@1.1?classifier=sources

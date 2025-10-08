@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/finagle-memcachedx_2.10@6.22.1-MONOCACHE
 - pkg:maven/com.twitter/finagle-memcachedx_2.10@6.22.1-MONOCACHE?classifier=sources
+- pkg:maven/com.twitter/finagle-memcachedx_2.10@6.24.0
+- pkg:maven/com.twitter/finagle-memcachedx_2.10@6.24.0?classifier=sources

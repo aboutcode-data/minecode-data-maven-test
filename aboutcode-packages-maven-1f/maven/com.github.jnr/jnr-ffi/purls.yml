@@ -46,3 +46,5 @@
 - pkg:maven/com.github.jnr/jnr-ffi@1.0.10?classifier=sources
 - pkg:maven/com.github.jnr/jnr-ffi@2.0.0
 - pkg:maven/com.github.jnr/jnr-ffi@2.0.0?classifier=sources
+- pkg:maven/com.github.jnr/jnr-ffi@2.0.1
+- pkg:maven/com.github.jnr/jnr-ffi@2.0.1?classifier=sources

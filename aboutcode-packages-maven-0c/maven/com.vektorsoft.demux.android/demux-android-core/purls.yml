@@ -40,3 +40,5 @@
 - pkg:maven/com.vektorsoft.demux.android/demux-android-core@0.9.2?classifier=sources
 - pkg:maven/com.vektorsoft.demux.android/demux-android-core@0.10.0
 - pkg:maven/com.vektorsoft.demux.android/demux-android-core@0.10.0?classifier=sources
+- pkg:maven/com.vektorsoft.demux.android/demux-android-core@0.10.1?type=aar
+- pkg:maven/com.vektorsoft.demux.android/demux-android-core@0.10.1?classifier=sources
