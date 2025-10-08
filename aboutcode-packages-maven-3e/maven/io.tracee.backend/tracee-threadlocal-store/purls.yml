@@ -12,3 +12,5 @@
 - pkg:maven/io.tracee.backend/tracee-threadlocal-store@0.8.0?classifier=sources
 - pkg:maven/io.tracee.backend/tracee-threadlocal-store@0.9.0
 - pkg:maven/io.tracee.backend/tracee-threadlocal-store@0.9.0?classifier=sources
+- pkg:maven/io.tracee.backend/tracee-threadlocal-store@0.10.0
+- pkg:maven/io.tracee.backend/tracee-threadlocal-store@0.10.0?classifier=sources

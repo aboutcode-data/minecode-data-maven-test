@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.oodt/cas-cli@0.8
 - pkg:maven/org.apache.oodt/cas-cli@0.8?classifier=sources
 - pkg:maven/org.apache.oodt/cas-cli@0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.oodt/cas-cli@0.8.1
+- pkg:maven/org.apache.oodt/cas-cli@0.8.1?classifier=sources
+- pkg:maven/org.apache.oodt/cas-cli@0.8.1?classifier=source-release&type=zip
