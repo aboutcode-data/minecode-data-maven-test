@@ -16,3 +16,5 @@
 - pkg:maven/com.stackmob/customcode@0.4.4?classifier=sources
 - pkg:maven/com.stackmob/customcode@0.5.0
 - pkg:maven/com.stackmob/customcode@0.5.0?classifier=sources
+- pkg:maven/com.stackmob/customcode@0.5.2
+- pkg:maven/com.stackmob/customcode@0.5.2?classifier=sources

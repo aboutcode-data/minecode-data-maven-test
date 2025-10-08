@@ -166,3 +166,5 @@
 - pkg:maven/org.jbehave/jbehave-spring@3.7.2?classifier=sources
 - pkg:maven/org.jbehave/jbehave-spring@3.7.3
 - pkg:maven/org.jbehave/jbehave-spring@3.7.3?classifier=sources
+- pkg:maven/org.jbehave/jbehave-spring@4.0-beta-2
+- pkg:maven/org.jbehave/jbehave-spring@4.0-beta-2?classifier=sources
