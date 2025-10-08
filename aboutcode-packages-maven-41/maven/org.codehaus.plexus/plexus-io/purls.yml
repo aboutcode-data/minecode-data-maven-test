@@ -1,0 +1,17 @@
+- pkg:maven/org.codehaus.plexus/plexus-io@2.0.1
+- pkg:maven/org.codehaus.plexus/plexus-io@2.0.1?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@2.0
+- pkg:maven/org.codehaus.plexus/plexus-io@2.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0.1
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0.1?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-5
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-5?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-4
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-4?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-3
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-3?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-2
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-1
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0-alpha-1?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0
+- pkg:maven/org.codehaus.plexus/plexus-io@1.0?classifier=sources
