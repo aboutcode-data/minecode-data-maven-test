@@ -16,3 +16,5 @@
 - pkg:maven/info.johtani/elasticsearch-extended-analyze@1.4.0-beta1?classifier=sources
 - pkg:maven/info.johtani/elasticsearch-extended-analyze@1.4.1?type=zip
 - pkg:maven/info.johtani/elasticsearch-extended-analyze@1.4.1?classifier=sources
+- pkg:maven/info.johtani/elasticsearch-extended-analyze@1.4.3?type=zip
+- pkg:maven/info.johtani/elasticsearch-extended-analyze@1.4.3?classifier=sources
