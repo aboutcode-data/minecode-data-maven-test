@@ -2,3 +2,5 @@
 - pkg:maven/org.virtualbox/vboxjws@4.1.4?classifier=sources
 - pkg:maven/org.virtualbox/vboxjws@4.2.0
 - pkg:maven/org.virtualbox/vboxjws@4.2.0?classifier=sources
+- pkg:maven/org.virtualbox/vboxjws@4.2.0-80737
+- pkg:maven/org.virtualbox/vboxjws@4.2.0-80737?classifier=sources

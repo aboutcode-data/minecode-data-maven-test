@@ -1,2 +1,4 @@
 - pkg:maven/com.fasterxml.storemate/storemate-shared@0.1.0
 - pkg:maven/com.fasterxml.storemate/storemate-shared@0.1.0?classifier=sources
+- pkg:maven/com.fasterxml.storemate/storemate-shared@0.4.0
+- pkg:maven/com.fasterxml.storemate/storemate-shared@0.4.0?classifier=sources
