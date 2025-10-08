@@ -84,3 +84,9 @@
 - pkg:maven/io.netty/netty-transport-udt@4.0.24.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.0.25.Final
 - pkg:maven/io.netty/netty-transport-udt@4.0.25.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-udt@5.0.0.Alpha2
+- pkg:maven/io.netty/netty-transport-udt@5.0.0.Alpha2?classifier=sources
+- pkg:maven/io.netty/netty-transport-udt@4.1.0.Beta4
+- pkg:maven/io.netty/netty-transport-udt@4.1.0.Beta4?classifier=sources
+- pkg:maven/io.netty/netty-transport-udt@4.0.26.Final
+- pkg:maven/io.netty/netty-transport-udt@4.0.26.Final?classifier=sources

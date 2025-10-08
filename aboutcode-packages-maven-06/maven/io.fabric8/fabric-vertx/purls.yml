@@ -72,3 +72,5 @@
 - pkg:maven/io.fabric8/fabric-vertx@2.0.27?classifier=sources
 - pkg:maven/io.fabric8/fabric-vertx@2.0.26
 - pkg:maven/io.fabric8/fabric-vertx@2.0.26?classifier=sources
+- pkg:maven/io.fabric8/fabric-vertx@2.0.30
+- pkg:maven/io.fabric8/fabric-vertx@2.0.30?classifier=sources
