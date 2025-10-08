@@ -96,3 +96,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@4.5.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@5.0-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@5.0-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@5.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-logging-logback@5.0-rc-1?classifier=sources

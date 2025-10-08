@@ -56,3 +56,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-docbook@4.5.3?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-docbook@5.0-milestone-2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-docbook@5.0-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-docbook@5.0-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-docbook@5.0-rc-1?classifier=sources
