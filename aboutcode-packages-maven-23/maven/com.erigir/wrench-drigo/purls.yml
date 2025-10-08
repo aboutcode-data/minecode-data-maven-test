@@ -1,2 +1,4 @@
 - pkg:maven/com.erigir/wrench-drigo@0.921
 - pkg:maven/com.erigir/wrench-drigo@0.921?classifier=sources
+- pkg:maven/com.erigir/wrench-drigo@1.000
+- pkg:maven/com.erigir/wrench-drigo@1.000?classifier=sources

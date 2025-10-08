@@ -18,3 +18,5 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-tdigest@0.28.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-tdigest@0.29.1
 - pkg:maven/com.netflix.spectator/spectator-reg-tdigest@0.29.1?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-tdigest@0.30.0
+- pkg:maven/com.netflix.spectator/spectator-reg-tdigest@0.30.0?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.threewks.thundr/thundr-gae@2.0.3?classifier=sources
 - pkg:maven/com.threewks.thundr/thundr-gae@2.0.4
 - pkg:maven/com.threewks.thundr/thundr-gae@2.0.4?classifier=sources
+- pkg:maven/com.threewks.thundr/thundr-gae@3.0.0-beta-1
+- pkg:maven/com.threewks.thundr/thundr-gae@3.0.0-beta-1?classifier=sources

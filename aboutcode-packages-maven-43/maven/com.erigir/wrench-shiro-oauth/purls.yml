@@ -12,3 +12,5 @@
 - pkg:maven/com.erigir/wrench-shiro-oauth@0.92?classifier=sources
 - pkg:maven/com.erigir/wrench-shiro-oauth@0.91
 - pkg:maven/com.erigir/wrench-shiro-oauth@0.91?classifier=sources
+- pkg:maven/com.erigir/wrench-shiro-oauth@1.000
+- pkg:maven/com.erigir/wrench-shiro-oauth@1.000?classifier=sources

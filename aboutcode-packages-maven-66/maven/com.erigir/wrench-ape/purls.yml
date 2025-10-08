@@ -4,3 +4,5 @@
 - pkg:maven/com.erigir/wrench-ape@0.92?classifier=sources
 - pkg:maven/com.erigir/wrench-ape@0.91
 - pkg:maven/com.erigir/wrench-ape@0.91?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@1.000
+- pkg:maven/com.erigir/wrench-ape@1.000?classifier=sources
