@@ -15,3 +15,9 @@
 - pkg:maven/org.mock-server/mockserver-vertx@1.10?classifier=sources
 - pkg:maven/org.mock-server/mockserver-vertx@1.12
 - pkg:maven/org.mock-server/mockserver-vertx@1.12?classifier=sources
+- pkg:maven/org.mock-server/mockserver-vertx@2.3
+- pkg:maven/org.mock-server/mockserver-vertx@2.3?classifier=sources
+- pkg:maven/org.mock-server/mockserver-vertx@2.1
+- pkg:maven/org.mock-server/mockserver-vertx@2.1?classifier=sources
+- pkg:maven/org.mock-server/mockserver-vertx@2.0
+- pkg:maven/org.mock-server/mockserver-vertx@2.0?classifier=sources

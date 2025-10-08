@@ -104,3 +104,5 @@
 - pkg:maven/org.scalatest/scalatest_2.10@2.0?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP4
 - pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP4?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP5
+- pkg:maven/org.scalatest/scalatest_2.10@2.0.1-SNAP5?classifier=sources

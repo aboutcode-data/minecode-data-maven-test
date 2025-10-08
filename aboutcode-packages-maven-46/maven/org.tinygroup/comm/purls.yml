@@ -6,3 +6,5 @@
 - pkg:maven/org.tinygroup/comm@0.0.9?classifier=sources
 - pkg:maven/org.tinygroup/comm@0.0.8
 - pkg:maven/org.tinygroup/comm@0.0.8?classifier=sources
+- pkg:maven/org.tinygroup/comm@0.0.12
+- pkg:maven/org.tinygroup/comm@0.0.12?classifier=sources
