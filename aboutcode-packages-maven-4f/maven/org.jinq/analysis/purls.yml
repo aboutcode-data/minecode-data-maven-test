@@ -1,2 +1,6 @@
 - pkg:maven/org.jinq/analysis@0.2.1
 - pkg:maven/org.jinq/analysis@0.2.1?classifier=sources
+- pkg:maven/org.jinq/analysis@0.3.1
+- pkg:maven/org.jinq/analysis@0.3.1?classifier=sources
+- pkg:maven/org.jinq/analysis@0.3
+- pkg:maven/org.jinq/analysis@0.3?classifier=sources

@@ -128,3 +128,5 @@
 - pkg:maven/org.neo4j/neo4j-graphviz@2.1.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graphviz@2.1.2
 - pkg:maven/org.neo4j/neo4j-graphviz@2.1.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graphviz@1.9.8
+- pkg:maven/org.neo4j/neo4j-graphviz@1.9.8?classifier=sources

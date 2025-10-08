@@ -24,3 +24,5 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-salesforce-datastore-wizard@3.5.10?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-salesforce-datastore-wizard@3.6
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-salesforce-datastore-wizard@3.6?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-salesforce-datastore-wizard@3.6.1-RC1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-salesforce-datastore-wizard@3.6.1-RC1?classifier=sources
