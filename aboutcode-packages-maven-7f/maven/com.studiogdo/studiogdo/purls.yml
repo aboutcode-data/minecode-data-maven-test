@@ -30,3 +30,7 @@
 - pkg:maven/com.studiogdo/studiogdo@2.2.12?classifier=sources
 - pkg:maven/com.studiogdo/studiogdo@2.2.11
 - pkg:maven/com.studiogdo/studiogdo@2.2.11?classifier=sources
+- pkg:maven/com.studiogdo/studiogdo@3.2
+- pkg:maven/com.studiogdo/studiogdo@3.2?classifier=sources
+- pkg:maven/com.studiogdo/studiogdo@2.2.13
+- pkg:maven/com.studiogdo/studiogdo@2.2.13?classifier=sources
