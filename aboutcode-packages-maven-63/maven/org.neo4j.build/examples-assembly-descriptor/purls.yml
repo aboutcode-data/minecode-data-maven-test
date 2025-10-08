@@ -23,3 +23,7 @@
 - pkg:maven/org.neo4j.build/examples-assembly-descriptor@36
 - pkg:maven/org.neo4j.build/examples-assembly-descriptor@37
 - pkg:maven/org.neo4j.build/examples-assembly-descriptor@37?classifier=sources
+- pkg:maven/org.neo4j.build/examples-assembly-descriptor@39
+- pkg:maven/org.neo4j.build/examples-assembly-descriptor@39?classifier=sources
+- pkg:maven/org.neo4j.build/examples-assembly-descriptor@38
+- pkg:maven/org.neo4j.build/examples-assembly-descriptor@38?classifier=sources

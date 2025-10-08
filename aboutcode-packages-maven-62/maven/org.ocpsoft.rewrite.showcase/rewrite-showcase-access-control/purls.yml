@@ -10,3 +10,5 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Alpha5?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Alpha6?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Alpha6?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Beta1?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-access-control@2.0.0.Beta1?classifier=sources
