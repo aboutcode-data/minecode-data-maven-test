@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.myfaces.extensions.cdi.examples/hello-myfaces-codi-jsf20-example@0.9.4?classifier=sources
 - pkg:maven/org.apache.myfaces.extensions.cdi.examples/hello-myfaces-codi-jsf20-example@0.9.3?type=war
 - pkg:maven/org.apache.myfaces.extensions.cdi.examples/hello-myfaces-codi-jsf20-example@0.9.3?classifier=sources
+- pkg:maven/org.apache.myfaces.extensions.cdi.examples/hello-myfaces-codi-jsf20-example@1.0.2?type=war
+- pkg:maven/org.apache.myfaces.extensions.cdi.examples/hello-myfaces-codi-jsf20-example@1.0.2?classifier=sources

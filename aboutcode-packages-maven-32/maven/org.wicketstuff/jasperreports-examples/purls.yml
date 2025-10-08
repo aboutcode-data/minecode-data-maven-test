@@ -58,3 +58,5 @@
 - pkg:maven/org.wicketstuff/jasperreports-examples@1.5.2?classifier=sources
 - pkg:maven/org.wicketstuff/jasperreports-examples@1.5.3?type=war
 - pkg:maven/org.wicketstuff/jasperreports-examples@1.5.3?classifier=sources
+- pkg:maven/org.wicketstuff/jasperreports-examples@1.4.19?type=war
+- pkg:maven/org.wicketstuff/jasperreports-examples@1.4.19?classifier=sources

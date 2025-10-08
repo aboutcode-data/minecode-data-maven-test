@@ -1,2 +1,4 @@
 - pkg:maven/com.force.api/force-wsc@22.0.0
 - pkg:maven/com.force.api/force-wsc@22.0.0?classifier=sources
+- pkg:maven/com.force.api/force-wsc@23.0.0
+- pkg:maven/com.force.api/force-wsc@23.0.0?classifier=sources

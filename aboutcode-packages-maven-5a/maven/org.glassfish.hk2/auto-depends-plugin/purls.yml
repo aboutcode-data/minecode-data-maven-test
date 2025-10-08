@@ -30,3 +30,5 @@
 - pkg:maven/org.glassfish.hk2/auto-depends-plugin@1.1.10?classifier=sources
 - pkg:maven/org.glassfish.hk2/auto-depends-plugin@1.6.25
 - pkg:maven/org.glassfish.hk2/auto-depends-plugin@1.6.25?classifier=sources
+- pkg:maven/org.glassfish.hk2/auto-depends-plugin@1.1.12
+- pkg:maven/org.glassfish.hk2/auto-depends-plugin@1.1.12?classifier=sources

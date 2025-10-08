@@ -12,3 +12,5 @@
 - pkg:maven/org.jvnet.hudson.main/hudson-inject@1.398?classifier=sources
 - pkg:maven/org.jvnet.hudson.main/hudson-inject@1.397
 - pkg:maven/org.jvnet.hudson.main/hudson-inject@1.397?classifier=sources
+- pkg:maven/org.jvnet.hudson.main/hudson-inject@2.2.0
+- pkg:maven/org.jvnet.hudson.main/hudson-inject@2.2.0?classifier=sources
