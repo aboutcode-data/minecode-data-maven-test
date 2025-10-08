@@ -1,2 +1,4 @@
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.7.3
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.7.3?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.7.4
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.7.4?classifier=sources

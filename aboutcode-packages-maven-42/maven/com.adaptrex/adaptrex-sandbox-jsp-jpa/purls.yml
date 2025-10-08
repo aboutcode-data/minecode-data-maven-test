@@ -2,3 +2,5 @@
 - pkg:maven/com.adaptrex/adaptrex-sandbox-jsp-jpa@0.9.14?classifier=sources
 - pkg:maven/com.adaptrex/adaptrex-sandbox-jsp-jpa@0.9.13?type=war
 - pkg:maven/com.adaptrex/adaptrex-sandbox-jsp-jpa@0.9.13?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsp-jpa@1.0-Alpha?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsp-jpa@1.0-Alpha?classifier=sources

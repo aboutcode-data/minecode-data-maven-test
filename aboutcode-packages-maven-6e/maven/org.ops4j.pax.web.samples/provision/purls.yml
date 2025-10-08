@@ -70,3 +70,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/provision@1.1.9?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@1.1.8
 - pkg:maven/org.ops4j.pax.web.samples/provision@1.1.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/provision@2.1.2
+- pkg:maven/org.ops4j.pax.web.samples/provision@2.1.2?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/provision@1.1.10
+- pkg:maven/org.ops4j.pax.web.samples/provision@1.1.10?classifier=sources

@@ -64,3 +64,7 @@
 - pkg:maven/com.ning.billing/killbill-server@0.1.46?classifier=sources
 - pkg:maven/com.ning.billing/killbill-server@0.1.45?type=war
 - pkg:maven/com.ning.billing/killbill-server@0.1.45?classifier=sources
+- pkg:maven/com.ning.billing/killbill-server@0.1.48?type=war
+- pkg:maven/com.ning.billing/killbill-server@0.1.48?classifier=sources
+- pkg:maven/com.ning.billing/killbill-server@0.1.47?type=war
+- pkg:maven/com.ning.billing/killbill-server@0.1.47?classifier=sources
