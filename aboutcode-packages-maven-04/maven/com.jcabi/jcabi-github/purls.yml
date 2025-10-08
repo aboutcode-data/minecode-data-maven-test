@@ -92,3 +92,5 @@
 - pkg:maven/com.jcabi/jcabi-github@0.21?classifier=sources
 - pkg:maven/com.jcabi/jcabi-github@0.20
 - pkg:maven/com.jcabi/jcabi-github@0.20?classifier=sources
+- pkg:maven/com.jcabi/jcabi-github@0.21.1
+- pkg:maven/com.jcabi/jcabi-github@0.21.1?classifier=sources

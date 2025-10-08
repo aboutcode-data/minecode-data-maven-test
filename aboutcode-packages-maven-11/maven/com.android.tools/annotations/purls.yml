@@ -4,3 +4,5 @@
 - pkg:maven/com.android.tools/annotations@24.1.0-rc1?classifier=sources
 - pkg:maven/com.android.tools/annotations@24.1.0-rc3
 - pkg:maven/com.android.tools/annotations@24.1.0-rc3?classifier=sources
+- pkg:maven/com.android.tools/annotations@24.1.0
+- pkg:maven/com.android.tools/annotations@24.1.0?classifier=sources
