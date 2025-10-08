@@ -24,3 +24,5 @@
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.4.Final?classifier=sources
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.2.Final?type=war
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.2.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.6.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-sample-websocket-backend@2.0.6.Final?classifier=sources

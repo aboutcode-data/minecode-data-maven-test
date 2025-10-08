@@ -36,3 +36,5 @@
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-events-backend@2.0.2.Final?classifier=sources
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-events-backend@2.0.0.Final?type=war
 - pkg:maven/org.hawkular.accounts/hawkular-accounts-events-backend@2.0.0.Final?classifier=sources
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-events-backend@2.0.6.Final?type=war
+- pkg:maven/org.hawkular.accounts/hawkular-accounts-events-backend@2.0.6.Final?classifier=sources
