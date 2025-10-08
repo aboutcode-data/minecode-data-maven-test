@@ -28,3 +28,5 @@
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.6?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.7
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.7?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.8
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi@2.8?classifier=sources
