@@ -86,3 +86,5 @@
 - pkg:maven/org.neo4j/neo4j-com@1.9.M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-com@1.9.M02
 - pkg:maven/org.neo4j/neo4j-com@1.9.M02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-com@1.8.1
+- pkg:maven/org.neo4j/neo4j-com@1.8.1?classifier=sources
