@@ -3,3 +3,5 @@
 - pkg:maven/xmlunit/xmlunit@1.1
 - pkg:maven/xmlunit/xmlunit@1.0
 - pkg:maven/xmlunit/xmlunit@0.8
+- pkg:maven/xmlunit/xmlunit@1.4
+- pkg:maven/xmlunit/xmlunit@1.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.ovea.tajin.server/tajin-server-tomcat6@1.0.b1
 - pkg:maven/com.ovea.tajin.server/tajin-server-tomcat6@1.0.b1?classifier=sources
+- pkg:maven/com.ovea.tajin.server/tajin-server-tomcat6@1.0.b2
+- pkg:maven/com.ovea.tajin.server/tajin-server-tomcat6@1.0.b2?classifier=sources
