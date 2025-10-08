@@ -112,3 +112,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-meteor-pubsub@2.0.0?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-meteor-pubsub@1.0.18?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-meteor-pubsub@1.0.18?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-meteor-pubsub@2.0.3?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-meteor-pubsub@2.0.3?classifier=sources

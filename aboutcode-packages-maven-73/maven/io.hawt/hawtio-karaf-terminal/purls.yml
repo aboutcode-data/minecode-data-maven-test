@@ -2,3 +2,7 @@
 - pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M19?classifier=sources
 - pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M20?type=war
 - pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M20?classifier=sources
+- pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M23?type=war
+- pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M23?classifier=sources
+- pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M22?type=war
+- pkg:maven/io.hawt/hawtio-karaf-terminal@1.2-M22?classifier=sources

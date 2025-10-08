@@ -1,2 +1,4 @@
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@4.3.0.Beta4
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@4.3.0.Beta4?classifier=sources
+- pkg:maven/org.hibernate/hibernate-gradle-plugin@4.3.0.Beta5
+- pkg:maven/org.hibernate/hibernate-gradle-plugin@4.3.0.Beta5?classifier=sources

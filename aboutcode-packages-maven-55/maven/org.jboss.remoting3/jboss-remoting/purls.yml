@@ -71,3 +71,6 @@
 - pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.17.GA
 - pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.17.GA?classifier=sources
 - pkg:maven/org.jboss.remoting3/jboss-remoting@3.2.17.GA?classifier=source-release&type=zip
+- pkg:maven/org.jboss.remoting3/jboss-remoting@3.3.0.CR1
+- pkg:maven/org.jboss.remoting3/jboss-remoting@3.3.0.CR1?classifier=sources
+- pkg:maven/org.jboss.remoting3/jboss-remoting@3.3.0.CR1?classifier=source-release&type=zip
