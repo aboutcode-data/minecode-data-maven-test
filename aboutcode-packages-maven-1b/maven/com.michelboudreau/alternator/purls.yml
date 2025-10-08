@@ -24,3 +24,5 @@
 - pkg:maven/com.michelboudreau/alternator@0.6.8?classifier=sources
 - pkg:maven/com.michelboudreau/alternator@0.7.1
 - pkg:maven/com.michelboudreau/alternator@0.7.1?classifier=sources
+- pkg:maven/com.michelboudreau/alternator@0.8.0
+- pkg:maven/com.michelboudreau/alternator@0.8.0?classifier=sources

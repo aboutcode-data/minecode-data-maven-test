@@ -78,3 +78,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@5.2.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@5.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@5.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@5.4-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@5.4-milestone-1?classifier=sources

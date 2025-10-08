@@ -98,3 +98,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-configuration@5.2.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-configuration@5.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-configuration@5.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-configuration@5.4-milestone-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-configuration@5.4-milestone-1?classifier=sources
