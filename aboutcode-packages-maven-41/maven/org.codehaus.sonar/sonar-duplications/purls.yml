@@ -194,3 +194,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-duplications@3.7?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-duplications@3.6.3
 - pkg:maven/org.codehaus.sonar/sonar-duplications@3.6.3?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-duplications@3.7.1-RC1
+- pkg:maven/org.codehaus.sonar/sonar-duplications@3.7.1-RC1?classifier=sources

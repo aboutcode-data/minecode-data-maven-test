@@ -26,3 +26,5 @@
 - pkg:maven/org.dasein/dasein-cloud-joyent@2013.02.4?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-joyent@2013.07
 - pkg:maven/org.dasein/dasein-cloud-joyent@2013.07?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-joyent@2013.07.1
+- pkg:maven/org.dasein/dasein-cloud-joyent@2013.07.1?classifier=sources
