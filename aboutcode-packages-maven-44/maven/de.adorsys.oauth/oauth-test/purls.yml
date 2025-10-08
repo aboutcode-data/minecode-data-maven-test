@@ -1,2 +1,4 @@
 - pkg:maven/de.adorsys.oauth/oauth-test@0.10?type=war
 - pkg:maven/de.adorsys.oauth/oauth-test@0.10?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test@0.11?type=war
+- pkg:maven/de.adorsys.oauth/oauth-test@0.11?classifier=sources

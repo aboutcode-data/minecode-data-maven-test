@@ -20,3 +20,5 @@
 - pkg:maven/edu.wisc.my.apps/uw-frame@1.4.0?classifier=sources
 - pkg:maven/edu.wisc.my.apps/uw-frame@2.0.1?type=war
 - pkg:maven/edu.wisc.my.apps/uw-frame@2.0.1?classifier=sources
+- pkg:maven/edu.wisc.my.apps/uw-frame@2.0.2?type=war
+- pkg:maven/edu.wisc.my.apps/uw-frame@2.0.2?classifier=sources

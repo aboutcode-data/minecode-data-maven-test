@@ -64,3 +64,5 @@
 - pkg:maven/com.saucelabs/ci-sauce@1.109?classifier=sources
 - pkg:maven/com.saucelabs/ci-sauce@1.110
 - pkg:maven/com.saucelabs/ci-sauce@1.110?classifier=sources
+- pkg:maven/com.saucelabs/ci-sauce@1.111
+- pkg:maven/com.saucelabs/ci-sauce@1.111?classifier=sources
