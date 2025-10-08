@@ -23,3 +23,5 @@
 - pkg:maven/org.ikasan.demo/demoTransformationRouting-war@0.7.11?classifier=sources
 - pkg:maven/org.ikasan.demo/demoTransformationRouting-war@0.7.10?type=war
 - pkg:maven/org.ikasan.demo/demoTransformationRouting-war@0.7.10?classifier=sources
+- pkg:maven/org.ikasan.demo/demoTransformationRouting-war@0.8.4?type=war
+- pkg:maven/org.ikasan.demo/demoTransformationRouting-war@0.8.4?classifier=sources

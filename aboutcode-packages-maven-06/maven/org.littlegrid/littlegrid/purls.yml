@@ -1,2 +1,4 @@
 - pkg:maven/org.littlegrid/littlegrid@2.4.8
 - pkg:maven/org.littlegrid/littlegrid@2.4.8?classifier=sources
+- pkg:maven/org.littlegrid/littlegrid@2.5.1
+- pkg:maven/org.littlegrid/littlegrid@2.5.1?classifier=sources
