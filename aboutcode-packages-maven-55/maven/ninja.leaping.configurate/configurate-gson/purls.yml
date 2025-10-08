@@ -1,2 +1,4 @@
 - pkg:maven/ninja.leaping.configurate/configurate-gson@1.0
 - pkg:maven/ninja.leaping.configurate/configurate-gson@1.0?classifier=sources
+- pkg:maven/ninja.leaping.configurate/configurate-gson@1.0.1
+- pkg:maven/ninja.leaping.configurate/configurate-gson@1.0.1?classifier=sources

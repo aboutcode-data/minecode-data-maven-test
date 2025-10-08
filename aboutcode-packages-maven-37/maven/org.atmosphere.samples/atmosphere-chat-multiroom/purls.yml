@@ -60,3 +60,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.3.0-RC4?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.2.6?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.2.6?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.3.0-RC5?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-multiroom@2.3.0-RC5?classifier=sources

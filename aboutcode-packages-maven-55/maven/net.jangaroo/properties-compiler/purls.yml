@@ -102,3 +102,5 @@
 - pkg:maven/net.jangaroo/properties-compiler@2.0.11?classifier=sources
 - pkg:maven/net.jangaroo/properties-compiler@2.0.12
 - pkg:maven/net.jangaroo/properties-compiler@2.0.12?classifier=sources
+- pkg:maven/net.jangaroo/properties-compiler@3-preview-1
+- pkg:maven/net.jangaroo/properties-compiler@3-preview-1?classifier=sources
