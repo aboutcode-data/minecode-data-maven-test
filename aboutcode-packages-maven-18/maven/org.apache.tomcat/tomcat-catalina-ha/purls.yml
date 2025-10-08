@@ -136,3 +136,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ha@9.0.0.M1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ha@8.0.29
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ha@8.0.29?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ha@8.0.30
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ha@8.0.30?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ha@7.0.67
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ha@7.0.67?classifier=sources
