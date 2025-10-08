@@ -22,3 +22,5 @@
 - pkg:maven/org.mule.common/mule-common@3.5.0-M4-RC2
 - pkg:maven/org.mule.common/mule-common@3.5.0-M4
 - pkg:maven/org.mule.common/mule-common@3.5.0-M4?classifier=sources
+- pkg:maven/org.mule.common/mule-common@3.5.0
+- pkg:maven/org.mule.common/mule-common@3.5.0?classifier=sources
