@@ -202,3 +202,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-plain@7.1.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-plain@7.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-plain@7.1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-plain@7.2-milestone-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-plain@7.2-milestone-1?classifier=sources

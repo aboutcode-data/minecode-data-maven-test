@@ -30,3 +30,7 @@
 - pkg:maven/com.github.tonybaines/gestalt@0.8.9?classifier=sources
 - pkg:maven/com.github.tonybaines/gestalt@0.8.8
 - pkg:maven/com.github.tonybaines/gestalt@0.8.8?classifier=sources
+- pkg:maven/com.github.tonybaines/gestalt@1.0.1
+- pkg:maven/com.github.tonybaines/gestalt@1.0.1?classifier=sources
+- pkg:maven/com.github.tonybaines/gestalt@1.0.0
+- pkg:maven/com.github.tonybaines/gestalt@1.0.0?classifier=sources

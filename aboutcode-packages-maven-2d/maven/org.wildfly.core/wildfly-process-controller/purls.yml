@@ -82,3 +82,7 @@
 - pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.0.Alpha7?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.0.Alpha6
 - pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.0.Alpha6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.0.Alpha10
+- pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.0.Alpha10?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-process-controller@1.0.1.Final
+- pkg:maven/org.wildfly.core/wildfly-process-controller@1.0.1.Final?classifier=sources

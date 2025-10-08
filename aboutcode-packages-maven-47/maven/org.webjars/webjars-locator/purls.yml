@@ -52,3 +52,5 @@
 - pkg:maven/org.webjars/webjars-locator@0.24?classifier=sources
 - pkg:maven/org.webjars/webjars-locator@0.26
 - pkg:maven/org.webjars/webjars-locator@0.26?classifier=sources
+- pkg:maven/org.webjars/webjars-locator@0.27
+- pkg:maven/org.webjars/webjars-locator@0.27?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.fimtra/datafission@0.9.8?classifier=sources
 - pkg:maven/com.fimtra/datafission@0.9.9
 - pkg:maven/com.fimtra/datafission@0.9.9?classifier=sources
+- pkg:maven/com.fimtra/datafission@1.0.0
+- pkg:maven/com.fimtra/datafission@1.0.0?classifier=sources
