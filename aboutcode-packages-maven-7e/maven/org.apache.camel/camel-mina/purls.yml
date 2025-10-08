@@ -52,3 +52,7 @@
 - pkg:maven/org.apache.camel/camel-mina@1.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mina@1.0.0
 - pkg:maven/org.apache.camel/camel-mina@1.0.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-mina@2.8.2
+- pkg:maven/org.apache.camel/camel-mina@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-mina@2.7.4
+- pkg:maven/org.apache.camel/camel-mina@2.7.4?classifier=sources

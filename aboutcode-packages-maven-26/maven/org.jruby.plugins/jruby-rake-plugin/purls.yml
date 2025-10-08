@@ -53,3 +53,5 @@
 - pkg:maven/org.jruby.plugins/jruby-rake-plugin@1.0
 - pkg:maven/org.jruby.plugins/jruby-rake-plugin@0.9.9
 - pkg:maven/org.jruby.plugins/jruby-rake-plugin@0.9.8
+- pkg:maven/org.jruby.plugins/jruby-rake-plugin@1.6.5
+- pkg:maven/org.jruby.plugins/jruby-rake-plugin@1.6.5?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@1.6.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@1.5.0
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@1.5.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-component@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-component@2.7.4?classifier=sources

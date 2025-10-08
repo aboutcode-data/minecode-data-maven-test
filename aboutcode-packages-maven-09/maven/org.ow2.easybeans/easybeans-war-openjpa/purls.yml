@@ -49,3 +49,4 @@
 - pkg:maven/org.ow2.easybeans/easybeans-war-openjpa@1.0.0-JONAS?classifier=sources
 - pkg:maven/org.ow2.easybeans/easybeans-war-openjpa@1.0.0?type=war
 - pkg:maven/org.ow2.easybeans/easybeans-war-openjpa@1.0.0?classifier=sources
+- pkg:maven/org.ow2.easybeans/easybeans-war-openjpa@1.2.3?type=war

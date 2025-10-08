@@ -40,3 +40,7 @@
 - pkg:maven/org.apache.camel/camel-tagsoup@1.6.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@1.6.0
 - pkg:maven/org.apache.camel/camel-tagsoup@1.6.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-tagsoup@2.8.2
+- pkg:maven/org.apache.camel/camel-tagsoup@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-tagsoup@2.7.4
+- pkg:maven/org.apache.camel/camel-tagsoup@2.7.4?classifier=sources

@@ -52,3 +52,6 @@
 - pkg:maven/org.apache.camel/apache-camel@1.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@1.0.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.camel/apache-camel@1.0.0?classifier=sources
+- pkg:maven/org.apache.camel/apache-camel@2.8.2?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.7.4?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.7.4?classifier=src&type=tar.gz

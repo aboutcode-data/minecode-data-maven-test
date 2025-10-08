@@ -10,3 +10,5 @@
 - pkg:maven/com.espertech/esper@3.2.0
 - pkg:maven/com.espertech/esper@3.0.0
 - pkg:maven/com.espertech/esper@2.3.0
+- pkg:maven/com.espertech/esper@4.4.0
+- pkg:maven/com.espertech/esper@4.4.0?classifier=sources

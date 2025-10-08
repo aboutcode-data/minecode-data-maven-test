@@ -18,3 +18,7 @@
 - pkg:maven/org.apache.camel/camel-eclipse@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-eclipse@2.3.0
 - pkg:maven/org.apache.camel/camel-eclipse@2.3.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-eclipse@2.8.2
+- pkg:maven/org.apache.camel/camel-eclipse@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-eclipse@2.7.4
+- pkg:maven/org.apache.camel/camel-eclipse@2.7.4?classifier=sources

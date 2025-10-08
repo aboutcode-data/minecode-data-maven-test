@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.camel/camel-sip@2.6.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-sip@2.5.0
 - pkg:maven/org.apache.camel/camel-sip@2.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-sip@2.8.2
+- pkg:maven/org.apache.camel/camel-sip@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-sip@2.7.4
+- pkg:maven/org.apache.camel/camel-sip@2.7.4?classifier=sources

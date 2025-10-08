@@ -44,3 +44,7 @@
 - pkg:maven/org.apache.camel/camel-buildtools@1.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@1.4.0
 - pkg:maven/org.apache.camel/camel-buildtools@1.4.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-buildtools@2.8.2
+- pkg:maven/org.apache.camel/camel-buildtools@2.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-buildtools@2.7.4
+- pkg:maven/org.apache.camel/camel-buildtools@2.7.4?classifier=sources

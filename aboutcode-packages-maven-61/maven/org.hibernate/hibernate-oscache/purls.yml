@@ -63,3 +63,5 @@
 - pkg:maven/org.hibernate/hibernate-oscache@3.3.0.CR2?classifier=sources
 - pkg:maven/org.hibernate/hibernate-oscache@3.3.0.CR1
 - pkg:maven/org.hibernate/hibernate-oscache@3.3.0.CR1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-oscache@3.6.8.Final
+- pkg:maven/org.hibernate/hibernate-oscache@3.6.8.Final?classifier=sources

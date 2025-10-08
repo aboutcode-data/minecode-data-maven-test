@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.archiva/archiva-security@1.1.1?classifier=sources
 - pkg:maven/org.apache.archiva/archiva-security@1.1
 - pkg:maven/org.apache.archiva/archiva-security@1.1?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-security@1.4-M1
+- pkg:maven/org.apache.archiva/archiva-security@1.4-M1?classifier=sources

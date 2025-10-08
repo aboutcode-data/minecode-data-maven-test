@@ -72,3 +72,5 @@
 - pkg:maven/org.ow2.util/util-ee-deploy-impl@1.0-M2?classifier=sources
 - pkg:maven/org.ow2.util/util-ee-deploy-impl@1.0-M1
 - pkg:maven/org.ow2.util/util-ee-deploy-impl@1.0-M1?classifier=sources
+- pkg:maven/org.ow2.util/util-ee-deploy-impl@1.0.33
+- pkg:maven/org.ow2.util/util-ee-deploy-impl@1.0.33?classifier=sources

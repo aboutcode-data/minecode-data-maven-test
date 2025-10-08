@@ -10,3 +10,5 @@
 - pkg:maven/com.sun.codemodel/codemodel@2.1?classifier=sources
 - pkg:maven/com.sun.codemodel/codemodel@2.0
 - pkg:maven/com.sun.codemodel/codemodel@2.0?classifier=sources
+- pkg:maven/com.sun.codemodel/codemodel@2.5
+- pkg:maven/com.sun.codemodel/codemodel@2.5?classifier=sources

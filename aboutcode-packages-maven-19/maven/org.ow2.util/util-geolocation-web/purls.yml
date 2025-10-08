@@ -24,3 +24,5 @@
 - pkg:maven/org.ow2.util/util-geolocation-web@1.0.21?classifier=sources
 - pkg:maven/org.ow2.util/util-geolocation-web@1.0.20?type=war
 - pkg:maven/org.ow2.util/util-geolocation-web@1.0.20?classifier=sources
+- pkg:maven/org.ow2.util/util-geolocation-web@1.0.33?type=war
+- pkg:maven/org.ow2.util/util-geolocation-web@1.0.33?classifier=sources
