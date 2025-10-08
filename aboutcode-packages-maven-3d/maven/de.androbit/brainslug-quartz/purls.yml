@@ -1,2 +1,4 @@
 - pkg:maven/de.androbit/brainslug-quartz@0.11
 - pkg:maven/de.androbit/brainslug-quartz@0.11?classifier=sources
+- pkg:maven/de.androbit/brainslug-quartz@0.12
+- pkg:maven/de.androbit/brainslug-quartz@0.12?classifier=sources

@@ -14,3 +14,9 @@
 - pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@2.0.6.0?classifier=sources
 - pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.2.9.0
 - pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.2.9.0?classifier=sources
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.2.5.1
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.2.5.1?classifier=sources
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.1.12.1
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.1.12.1?classifier=sources
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.0.12.1
+- pkg:maven/com.googlecode.cassandra-jca/cassandra-jca-api@1.0.12.1?classifier=sources

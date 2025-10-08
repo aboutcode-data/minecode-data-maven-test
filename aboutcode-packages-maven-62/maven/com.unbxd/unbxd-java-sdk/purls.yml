@@ -2,3 +2,5 @@
 - pkg:maven/com.unbxd/unbxd-java-sdk@1.0?classifier=sources
 - pkg:maven/com.unbxd/unbxd-java-sdk@2.0
 - pkg:maven/com.unbxd/unbxd-java-sdk@2.0?classifier=sources
+- pkg:maven/com.unbxd/unbxd-java-sdk@2.1
+- pkg:maven/com.unbxd/unbxd-java-sdk@2.1?classifier=sources
