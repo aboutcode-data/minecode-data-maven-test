@@ -1,2 +1,3 @@
 - pkg:maven/io.brooklyn/brooklyn-jmxrmi-agent@0.5.0-M2
 - pkg:maven/io.brooklyn/brooklyn-jmxrmi-agent@0.5.0-M2?classifier=sources
+- pkg:maven/io.brooklyn/brooklyn-jmxrmi-agent@0.5.0-rc.1

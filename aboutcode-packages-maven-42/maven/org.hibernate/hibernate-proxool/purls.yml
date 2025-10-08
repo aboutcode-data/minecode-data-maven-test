@@ -137,3 +137,5 @@
 - pkg:maven/org.hibernate/hibernate-proxool@4.2.0.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-proxool@4.1.11.Final
 - pkg:maven/org.hibernate/hibernate-proxool@4.1.11.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-proxool@4.3.0.Beta1
+- pkg:maven/org.hibernate/hibernate-proxool@4.3.0.Beta1?classifier=sources
