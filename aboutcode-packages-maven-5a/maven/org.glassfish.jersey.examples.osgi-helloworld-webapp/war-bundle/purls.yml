@@ -60,3 +60,7 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.4.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.5?type=war
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.5?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.5.1?type=war
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.5.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0.1?type=war
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/war-bundle@2.0.1?classifier=sources

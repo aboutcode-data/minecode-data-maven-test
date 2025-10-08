@@ -4,3 +4,5 @@
 - pkg:maven/org.languagetool/language-lt@2.2?classifier=sources
 - pkg:maven/org.languagetool/language-lt@2.3.1
 - pkg:maven/org.languagetool/language-lt@2.3.1?classifier=sources
+- pkg:maven/org.languagetool/language-lt@2.4
+- pkg:maven/org.languagetool/language-lt@2.4?classifier=sources
