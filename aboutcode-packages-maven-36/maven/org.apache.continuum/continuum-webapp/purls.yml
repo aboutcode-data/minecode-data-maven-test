@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.continuum/continuum-webapp@1.2.2?classifier=sources
 - pkg:maven/org.apache.continuum/continuum-webapp@1.2?type=war
 - pkg:maven/org.apache.continuum/continuum-webapp@1.2?classifier=sources
+- pkg:maven/org.apache.continuum/continuum-webapp@1.4.1?type=war
+- pkg:maven/org.apache.continuum/continuum-webapp@1.4.1?classifier=sources

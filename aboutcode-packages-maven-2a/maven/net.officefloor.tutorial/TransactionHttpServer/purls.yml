@@ -14,3 +14,5 @@
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.6.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.7.0?type=war
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.7.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.8.0?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.8.0?classifier=sources

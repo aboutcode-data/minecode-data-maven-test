@@ -382,3 +382,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-collections@2.8.2?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-collections@2.9.0
 - pkg:maven/com.mysema.querydsl/querydsl-collections@2.9.0?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-collections@3.0.0.BETA1
+- pkg:maven/com.mysema.querydsl/querydsl-collections@3.0.0.BETA1?classifier=sources
