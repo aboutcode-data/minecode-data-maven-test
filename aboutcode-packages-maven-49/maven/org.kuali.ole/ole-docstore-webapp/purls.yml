@@ -22,3 +22,5 @@
 - pkg:maven/org.kuali.ole/ole-docstore-webapp@1.5.6.1?classifier=sources
 - pkg:maven/org.kuali.ole/ole-docstore-webapp@1.5.6.2?type=war
 - pkg:maven/org.kuali.ole/ole-docstore-webapp@1.5.6.2?classifier=sources
+- pkg:maven/org.kuali.ole/ole-docstore-webapp@1.5.7?type=war
+- pkg:maven/org.kuali.ole/ole-docstore-webapp@1.5.7?classifier=sources

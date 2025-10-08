@@ -1,2 +1,4 @@
 - pkg:maven/org.keycloak/keycloak-proxy-server@1.1.0.Beta2
 - pkg:maven/org.keycloak/keycloak-proxy-server@1.1.0.Beta2?classifier=sources
+- pkg:maven/org.keycloak/keycloak-proxy-server@1.1.0.Final
+- pkg:maven/org.keycloak/keycloak-proxy-server@1.1.0.Final?classifier=sources

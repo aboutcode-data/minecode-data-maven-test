@@ -8,3 +8,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-mongodb@3.0.1.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-mongodb@3.0.2.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-mongodb@3.0.2.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-mongodb@4.0.0.M1
+- pkg:maven/org.grails/grails-datastore-gorm-mongodb@4.0.0.M1?classifier=sources

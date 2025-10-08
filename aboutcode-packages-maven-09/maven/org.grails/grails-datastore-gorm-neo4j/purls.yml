@@ -22,3 +22,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@2.0.0-M01?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@2.0.0-M02
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@2.0.0-M02?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@4.0.0.M1
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@4.0.0.M1?classifier=sources
