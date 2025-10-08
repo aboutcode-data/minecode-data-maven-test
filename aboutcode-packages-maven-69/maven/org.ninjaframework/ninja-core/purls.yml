@@ -90,3 +90,7 @@
 - pkg:maven/org.ninjaframework/ninja-core@3.0.0-rc2?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-core@3.0.0
 - pkg:maven/org.ninjaframework/ninja-core@3.0.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-core@3.0.2
+- pkg:maven/org.ninjaframework/ninja-core@3.0.2?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-core@3.0.1
+- pkg:maven/org.ninjaframework/ninja-core@3.0.1?classifier=sources

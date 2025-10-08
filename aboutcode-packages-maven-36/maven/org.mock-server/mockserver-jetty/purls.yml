@@ -28,3 +28,7 @@
 - pkg:maven/org.mock-server/mockserver-jetty@2.6?classifier=sources
 - pkg:maven/org.mock-server/mockserver-jetty@2.5
 - pkg:maven/org.mock-server/mockserver-jetty@2.5?classifier=sources
+- pkg:maven/org.mock-server/mockserver-jetty@2.8
+- pkg:maven/org.mock-server/mockserver-jetty@2.8?classifier=sources
+- pkg:maven/org.mock-server/mockserver-jetty@2.7
+- pkg:maven/org.mock-server/mockserver-jetty@2.7?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.facebook.presto/presto-spi@0.58?classifier=sources
 - pkg:maven/com.facebook.presto/presto-spi@0.59
 - pkg:maven/com.facebook.presto/presto-spi@0.59?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spi@0.60
+- pkg:maven/com.facebook.presto/presto-spi@0.60?classifier=sources
