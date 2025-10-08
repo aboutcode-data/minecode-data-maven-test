@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.shindig/sample-maven-archetype@2.5.0-beta6?classifier=sources
+- pkg:maven/org.apache.shindig/sample-maven-archetype@2.5.0?classifier=sources

@@ -43,3 +43,5 @@
 - pkg:maven/org.codehaus.fabric3/fabric3-junit@1.9.5?classifier=sources
 - pkg:maven/org.codehaus.fabric3/fabric3-junit@1.9.6
 - pkg:maven/org.codehaus.fabric3/fabric3-junit@1.9.6?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-junit@2.0.0
+- pkg:maven/org.codehaus.fabric3/fabric3-junit@2.0.0?classifier=sources

@@ -96,3 +96,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-blank@1.0.40?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-blank@1.5.10?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-blank@1.5.10?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-blank@2.0.0-alpha-1?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-blank@2.0.0-alpha-1?classifier=sources

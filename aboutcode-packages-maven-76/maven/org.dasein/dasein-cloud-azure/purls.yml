@@ -8,3 +8,5 @@
 - pkg:maven/org.dasein/dasein-cloud-azure@2013.02.2?classifier=sources
 - pkg:maven/org.dasein/dasein-cloud-azure@2013.02.storage
 - pkg:maven/org.dasein/dasein-cloud-azure@2013.02.storage?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-azure@2013.07
+- pkg:maven/org.dasein/dasein-cloud-azure@2013.07?classifier=sources

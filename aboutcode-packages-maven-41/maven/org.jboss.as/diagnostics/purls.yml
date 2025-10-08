@@ -20,3 +20,7 @@
 - pkg:maven/org.jboss.as/diagnostics@1.6.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/diagnostics@2.0.0.Beta1
 - pkg:maven/org.jboss.as/diagnostics@2.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@2.0.0.Beta2
+- pkg:maven/org.jboss.as/diagnostics@2.0.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.as/diagnostics@1.5.5.Final
+- pkg:maven/org.jboss.as/diagnostics@1.5.5.Final?classifier=sources

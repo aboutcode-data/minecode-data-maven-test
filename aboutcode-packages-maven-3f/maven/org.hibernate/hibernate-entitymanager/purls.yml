@@ -150,3 +150,5 @@
 - pkg:maven/org.hibernate/hibernate-entitymanager@4.2.3.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-entitymanager@4.2.0.SP1
 - pkg:maven/org.hibernate/hibernate-entitymanager@4.2.0.SP1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-entitymanager@4.2.4.Final
+- pkg:maven/org.hibernate/hibernate-entitymanager@4.2.4.Final?classifier=sources
