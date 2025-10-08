@@ -21,3 +21,7 @@
 - pkg:maven/com.liferay.portal/util-slf4j@7.0.0-nightly
 - pkg:maven/com.liferay.portal/util-slf4j@6.2.2
 - pkg:maven/com.liferay.portal/util-slf4j@6.2.2?classifier=sources
+- pkg:maven/com.liferay.portal/util-slf4j@6.2.3
+- pkg:maven/com.liferay.portal/util-slf4j@6.2.3?classifier=sources
+- pkg:maven/com.liferay.portal/util-slf4j@6.2.0-ga1
+- pkg:maven/com.liferay.portal/util-slf4j@6.2.0-ga1?classifier=sources
