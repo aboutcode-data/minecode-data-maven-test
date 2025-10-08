@@ -178,3 +178,7 @@
 - pkg:maven/io.fabric8/gateway-servlet-example@2.2.18?classifier=sources
 - pkg:maven/io.fabric8/gateway-servlet-example@2.2.17?type=war
 - pkg:maven/io.fabric8/gateway-servlet-example@2.2.17?classifier=sources
+- pkg:maven/io.fabric8/gateway-servlet-example@2.2.21?type=war
+- pkg:maven/io.fabric8/gateway-servlet-example@2.2.21?classifier=sources
+- pkg:maven/io.fabric8/gateway-servlet-example@2.2.20?type=war
+- pkg:maven/io.fabric8/gateway-servlet-example@2.2.20?classifier=sources
