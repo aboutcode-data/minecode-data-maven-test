@@ -14,3 +14,5 @@
 - pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta20?classifier=sources
 - pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta19?type=war
 - pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta19?classifier=sources
+- pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta21?type=war
+- pkg:maven/org.crashub/crash.connectors.web@1.3.0-beta21?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.RC3?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.RC4
 - pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.RC4?classifier=sources
+- pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.RELEASE
+- pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.GA
+- pkg:maven/org.grails/gorm-hibernate4-spring-boot@1.0.0.GA?classifier=sources

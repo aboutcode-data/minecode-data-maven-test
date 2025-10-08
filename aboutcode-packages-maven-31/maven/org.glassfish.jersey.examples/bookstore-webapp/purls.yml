@@ -46,3 +46,6 @@
 - pkg:maven/org.glassfish.jersey.examples/bookstore-webapp@2.8?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookstore-webapp@2.8?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookstore-webapp@2.8?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/bookstore-webapp@2.9?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookstore-webapp@2.9?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookstore-webapp@2.9?classifier=project-src&type=zip

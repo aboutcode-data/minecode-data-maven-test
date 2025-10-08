@@ -86,3 +86,6 @@
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.8
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.8?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.8?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.9
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.9?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.9?classifier=project-src&type=zip

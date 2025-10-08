@@ -16,3 +16,5 @@
 - pkg:maven/org.glassfish.jersey.examples/oauth2-client-google-webapp@2.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/oauth2-client-google-webapp@2.8?type=war
 - pkg:maven/org.glassfish.jersey.examples/oauth2-client-google-webapp@2.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/oauth2-client-google-webapp@2.9?type=war
+- pkg:maven/org.glassfish.jersey.examples/oauth2-client-google-webapp@2.9?classifier=sources
