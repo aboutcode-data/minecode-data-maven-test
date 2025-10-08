@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/moment@2.9.0
 - pkg:maven/org.webjars.npm/moment@2.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/moment@2.10.3
+- pkg:maven/org.webjars.npm/moment@2.10.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.robospock/robospock@0.4.4?classifier=sources
 - pkg:maven/org.robospock/robospock@0.5.0
 - pkg:maven/org.robospock/robospock@0.5.0?classifier=sources
+- pkg:maven/org.robospock/robospock@0.6.0-rc
+- pkg:maven/org.robospock/robospock@0.6.0-rc?classifier=sources

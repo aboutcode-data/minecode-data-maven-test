@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/react-router@0.13.2
 - pkg:maven/org.webjars.bower/react-router@0.13.2?classifier=sources
+- pkg:maven/org.webjars.bower/react-router@1.0.0-beta1
+- pkg:maven/org.webjars.bower/react-router@1.0.0-beta1?classifier=sources
