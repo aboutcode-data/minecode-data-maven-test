@@ -134,3 +134,5 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-api@3.23.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-api@3.24.0
 - pkg:maven/com.newrelic.agent.java/newrelic-api@3.24.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-api@3.24.1
+- pkg:maven/com.newrelic.agent.java/newrelic-api@3.24.1?classifier=sources
