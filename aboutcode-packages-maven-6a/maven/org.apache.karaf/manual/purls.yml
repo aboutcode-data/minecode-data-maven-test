@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.karaf/manual@2.3.0?classifier=sources
 - pkg:maven/org.apache.karaf/manual@2.2.10?type=war
 - pkg:maven/org.apache.karaf/manual@2.2.10?classifier=sources
+- pkg:maven/org.apache.karaf/manual@2.3.1?type=war
+- pkg:maven/org.apache.karaf/manual@2.3.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.hudson/hudson-service@3.0.0?classifier=sources
 - pkg:maven/org.eclipse.hudson/hudson-service@3.0.0-bundled
 - pkg:maven/org.eclipse.hudson/hudson-service@3.0.0-bundled?classifier=sources
+- pkg:maven/org.eclipse.hudson/hudson-service@3.0.1-M1
+- pkg:maven/org.eclipse.hudson/hudson-service@3.0.1-M1?classifier=sources

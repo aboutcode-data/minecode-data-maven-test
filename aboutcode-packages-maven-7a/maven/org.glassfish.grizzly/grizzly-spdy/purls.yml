@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3-rc6
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3-rc6?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3-rc5
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3-rc5?classifier=sources

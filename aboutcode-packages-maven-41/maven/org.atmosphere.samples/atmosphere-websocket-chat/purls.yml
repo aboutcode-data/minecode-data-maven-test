@@ -60,3 +60,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@1.0.10?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@1.0.11?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@1.0.11?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@1.0.12?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-websocket-chat@1.0.12?classifier=sources
