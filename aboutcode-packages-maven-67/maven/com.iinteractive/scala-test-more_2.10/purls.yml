@@ -1,2 +1,4 @@
 - pkg:maven/com.iinteractive/scala-test-more_2.10@0.01
 - pkg:maven/com.iinteractive/scala-test-more_2.10@0.01?classifier=sources
+- pkg:maven/com.iinteractive/scala-test-more_2.10@0.02
+- pkg:maven/com.iinteractive/scala-test-more_2.10@0.02?classifier=sources

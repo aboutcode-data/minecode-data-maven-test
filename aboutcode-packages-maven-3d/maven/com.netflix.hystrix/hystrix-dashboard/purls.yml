@@ -34,3 +34,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.2.10?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.2.12?type=war
 - pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.2.12?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.2.13?type=war
+- pkg:maven/com.netflix.hystrix/hystrix-dashboard@1.2.13?classifier=sources

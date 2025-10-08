@@ -1,2 +1,8 @@
 - pkg:maven/net.adamcin/vltpack-maven-plugin@0.6.0
 - pkg:maven/net.adamcin/vltpack-maven-plugin@0.6.0?classifier=sources
+- pkg:maven/net.adamcin/vltpack-maven-plugin@0.8.0
+- pkg:maven/net.adamcin/vltpack-maven-plugin@0.8.0?classifier=sources
+- pkg:maven/net.adamcin/vltpack-maven-plugin@0.6.6
+- pkg:maven/net.adamcin/vltpack-maven-plugin@0.6.6?classifier=sources
+- pkg:maven/net.adamcin/vltpack-maven-plugin@0.6.5
+- pkg:maven/net.adamcin/vltpack-maven-plugin@0.6.5?classifier=sources

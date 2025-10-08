@@ -88,3 +88,5 @@
 - pkg:maven/com.mysema.querydsl/querydsl-mongodb@3.0.0.BETA1?classifier=sources
 - pkg:maven/com.mysema.querydsl/querydsl-mongodb@3.0.0.BETA2
 - pkg:maven/com.mysema.querydsl/querydsl-mongodb@3.0.0.BETA2?classifier=sources
+- pkg:maven/com.mysema.querydsl/querydsl-mongodb@3.0.0
+- pkg:maven/com.mysema.querydsl/querydsl-mongodb@3.0.0?classifier=sources
