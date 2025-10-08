@@ -1,2 +1,4 @@
 - pkg:maven/org.graylog2/gelfclient@1.0.0
 - pkg:maven/org.graylog2/gelfclient@1.0.0?classifier=sources
+- pkg:maven/org.graylog2/gelfclient@1.1.0
+- pkg:maven/org.graylog2/gelfclient@1.1.0?classifier=sources
