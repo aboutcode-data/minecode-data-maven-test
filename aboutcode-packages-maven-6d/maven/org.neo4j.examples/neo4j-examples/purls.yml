@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j.examples/neo4j-examples@1.8.M02
 - pkg:maven/org.neo4j.examples/neo4j-examples@1.8.M02?classifier=sources
+- pkg:maven/org.neo4j.examples/neo4j-examples@1.8.M03
+- pkg:maven/org.neo4j.examples/neo4j-examples@1.8.M03?classifier=sources

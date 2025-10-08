@@ -16,3 +16,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-spring-websocket@0.9.3?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-spring-websocket@0.9.4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-spring-websocket@0.9.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-spring-websocket@0.9.5?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-spring-websocket@0.9.5?classifier=sources

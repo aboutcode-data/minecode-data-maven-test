@@ -44,3 +44,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.8.7?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.9.4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.9.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.9.5?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-di-guice-sample@0.9.5?classifier=sources

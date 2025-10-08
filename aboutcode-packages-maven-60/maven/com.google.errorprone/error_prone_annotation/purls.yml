@@ -1,2 +1,4 @@
 - pkg:maven/com.google.errorprone/error_prone_annotation@0.8
 - pkg:maven/com.google.errorprone/error_prone_annotation@0.8?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_annotation@0.9
+- pkg:maven/com.google.errorprone/error_prone_annotation@0.9?classifier=sources

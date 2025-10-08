@@ -1,1 +1,2 @@
 - pkg:maven/sk.seges.acris/acris-pivo@1.2.1
+- pkg:maven/sk.seges.acris/acris-pivo@1.2.1?classifier=sources

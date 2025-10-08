@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.solr-solrj@3.4.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.solr-solrj@3.5.0_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.solr-solrj@3.5.0_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.solr-solrj@3.6.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.solr-solrj@3.6.0_1?classifier=sources
