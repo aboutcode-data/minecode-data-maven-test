@@ -4,3 +4,7 @@
 - pkg:maven/com.netflix.astyanax/astyanax-test@1.56.29?classifier=sources
 - pkg:maven/com.netflix.astyanax/astyanax-test@1.56.31
 - pkg:maven/com.netflix.astyanax/astyanax-test@1.56.31?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-test@2.0.1
+- pkg:maven/com.netflix.astyanax/astyanax-test@2.0.1?classifier=sources
+- pkg:maven/com.netflix.astyanax/astyanax-test@2.0.0
+- pkg:maven/com.netflix.astyanax/astyanax-test@2.0.0?classifier=sources

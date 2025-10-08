@@ -28,3 +28,5 @@
 - pkg:maven/biz.paluch.logging/logstash-gelf@1.4.2?classifier=sources
 - pkg:maven/biz.paluch.logging/logstash-gelf@1.5.0
 - pkg:maven/biz.paluch.logging/logstash-gelf@1.5.0?classifier=sources
+- pkg:maven/biz.paluch.logging/logstash-gelf@1.5.1
+- pkg:maven/biz.paluch.logging/logstash-gelf@1.5.1?classifier=sources
