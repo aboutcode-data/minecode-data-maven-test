@@ -66,3 +66,7 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@8.1.17.v20150415?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@7.6.17.v20150415
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@7.6.17.v20150415?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@8.1.18.v20150929
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@8.1.18.v20150929?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@7.6.18.v20150929
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-context@7.6.18.v20150929?classifier=sources

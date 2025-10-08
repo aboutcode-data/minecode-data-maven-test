@@ -44,3 +44,7 @@
 - pkg:maven/org.eclipse.jetty/test-quickstart@9.3.4.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-quickstart@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty/test-quickstart@9.3.3.v20150827?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-quickstart@9.3.4.v20151007
+- pkg:maven/org.eclipse.jetty/test-quickstart@9.3.4.v20151007?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-quickstart@9.3.4.RC1
+- pkg:maven/org.eclipse.jetty/test-quickstart@9.3.4.RC1?classifier=sources

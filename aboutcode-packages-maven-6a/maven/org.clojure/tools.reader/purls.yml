@@ -78,3 +78,5 @@
 - pkg:maven/org.clojure/tools.reader@0.10.0-alpha3?classifier=sources
 - pkg:maven/org.clojure/tools.reader@0.10.0-alpha2
 - pkg:maven/org.clojure/tools.reader@0.10.0-alpha2?classifier=sources
+- pkg:maven/org.clojure/tools.reader@0.10.0
+- pkg:maven/org.clojure/tools.reader@0.10.0?classifier=sources

@@ -136,3 +136,7 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-nested@8.1.17.v20150415?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-nested@7.6.17.v20150415?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-nested@7.6.17.v20150415?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-nested@8.1.18.v20150929?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-nested@8.1.18.v20150929?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-nested@7.6.18.v20150929?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-nested@7.6.18.v20150929?classifier=sources

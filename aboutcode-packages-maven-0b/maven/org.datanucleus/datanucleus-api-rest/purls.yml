@@ -60,3 +60,7 @@
 - pkg:maven/org.datanucleus/datanucleus-api-rest@4.2.0-m2?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-api-rest@4.1.1
 - pkg:maven/org.datanucleus/datanucleus-api-rest@4.1.1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-api-rest@4.2.0-release
+- pkg:maven/org.datanucleus/datanucleus-api-rest@4.2.0-release?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-api-rest@4.1.2
+- pkg:maven/org.datanucleus/datanucleus-api-rest@4.1.2?classifier=sources
