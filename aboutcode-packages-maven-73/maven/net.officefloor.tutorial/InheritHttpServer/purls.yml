@@ -4,3 +4,5 @@
 - pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.12.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.13.0?type=war
 - pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.13.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.14.0?type=war
+- pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.14.0?classifier=sources

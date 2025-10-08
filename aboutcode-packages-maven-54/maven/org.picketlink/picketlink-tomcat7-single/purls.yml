@@ -28,3 +28,5 @@
 - pkg:maven/org.picketlink/picketlink-tomcat7-single@2.5.0.CR2?classifier=sources
 - pkg:maven/org.picketlink/picketlink-tomcat7-single@2.1.8.Final
 - pkg:maven/org.picketlink/picketlink-tomcat7-single@2.1.8.Final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-tomcat7-single@2.5.0.Final
+- pkg:maven/org.picketlink/picketlink-tomcat7-single@2.5.0.Final?classifier=sources
