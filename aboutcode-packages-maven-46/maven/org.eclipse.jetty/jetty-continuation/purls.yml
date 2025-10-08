@@ -152,3 +152,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-continuation@8.1.4.v20120524?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-continuation@7.6.4.v20120524
 - pkg:maven/org.eclipse.jetty/jetty-continuation@7.6.4.v20120524?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-continuation@8.1.5.v20120716
+- pkg:maven/org.eclipse.jetty/jetty-continuation@8.1.5.v20120716?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-continuation@7.6.5.v20120716
+- pkg:maven/org.eclipse.jetty/jetty-continuation@7.6.5.v20120716?classifier=sources

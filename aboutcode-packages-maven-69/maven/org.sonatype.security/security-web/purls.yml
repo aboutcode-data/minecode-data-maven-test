@@ -18,3 +18,7 @@
 - pkg:maven/org.sonatype.security/security-web@2.7?classifier=sources
 - pkg:maven/org.sonatype.security/security-web@2.4.1
 - pkg:maven/org.sonatype.security/security-web@2.4.1?classifier=sources
+- pkg:maven/org.sonatype.security/security-web@2.8.1
+- pkg:maven/org.sonatype.security/security-web@2.8.1?classifier=sources
+- pkg:maven/org.sonatype.security/security-web@2.8
+- pkg:maven/org.sonatype.security/security-web@2.8?classifier=sources
