@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.camel/camel-hdfs@2.8.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-hdfs@2.9.0
 - pkg:maven/org.apache.camel/camel-hdfs@2.9.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-hdfs@2.8.4
+- pkg:maven/org.apache.camel/camel-hdfs@2.8.4?classifier=sources

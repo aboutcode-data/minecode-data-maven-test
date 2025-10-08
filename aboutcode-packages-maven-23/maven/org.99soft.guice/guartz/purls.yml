@@ -1,2 +1,4 @@
 - pkg:maven/org.99soft.guice/guartz@1.0
 - pkg:maven/org.99soft.guice/guartz@1.0?classifier=sources
+- pkg:maven/org.99soft.guice/guartz@1.1
+- pkg:maven/org.99soft.guice/guartz@1.1?classifier=sources

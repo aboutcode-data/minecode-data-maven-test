@@ -33,3 +33,5 @@
 - pkg:maven/org.apache.camel/camel-printer@2.9.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-printer@2.7.5
 - pkg:maven/org.apache.camel/camel-printer@2.7.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-printer@2.8.4
+- pkg:maven/org.apache.camel/camel-printer@2.8.4?classifier=sources

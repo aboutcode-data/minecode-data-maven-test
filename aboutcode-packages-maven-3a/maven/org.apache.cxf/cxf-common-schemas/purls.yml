@@ -80,3 +80,5 @@
 - pkg:maven/org.apache.cxf/cxf-common-schemas@2.0.10?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-common-schemas@2.3.8
 - pkg:maven/org.apache.cxf/cxf-common-schemas@2.3.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-common-schemas@2.3.9
+- pkg:maven/org.apache.cxf/cxf-common-schemas@2.3.9?classifier=sources

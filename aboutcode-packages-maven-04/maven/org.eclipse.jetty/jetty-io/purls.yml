@@ -132,3 +132,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-io@8.1.0.RC5?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-io@7.6.0.RC5
 - pkg:maven/org.eclipse.jetty/jetty-io@7.6.0.RC5?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-io@8.1.0.v20120127
+- pkg:maven/org.eclipse.jetty/jetty-io@8.1.0.v20120127?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-io@7.6.0.v20120127
+- pkg:maven/org.eclipse.jetty/jetty-io@7.6.0.v20120127?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.fusesource.fabric/fabric-launcher@1.1?type=war
+- pkg:maven/org.fusesource.fabric/fabric-launcher@1.1?classifier=sources
