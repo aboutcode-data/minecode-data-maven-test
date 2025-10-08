@@ -18,3 +18,5 @@
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-chat@2.0.0.RC3?classifier=sources
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-chat@2.0.0.RC4
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-chat@2.0.0.RC4?classifier=sources
+- pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-chat@2.0.0
+- pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-chat@2.0.0?classifier=sources

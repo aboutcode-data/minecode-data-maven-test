@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.karaf.itests/itests@3.0.0.RC1?classifier=sources
 - pkg:maven/org.apache.karaf.itests/itests@2.3.2
 - pkg:maven/org.apache.karaf.itests/itests@2.3.2?classifier=sources
+- pkg:maven/org.apache.karaf.itests/itests@2.3.3
+- pkg:maven/org.apache.karaf.itests/itests@2.3.3?classifier=sources

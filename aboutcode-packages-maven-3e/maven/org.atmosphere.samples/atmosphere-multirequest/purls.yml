@@ -94,3 +94,7 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-multirequest@2.0.0.RC4?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-multirequest@1.0.17?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-multirequest@1.0.17?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-multirequest@2.0.0?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-multirequest@2.0.0?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-multirequest@1.0.18?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-multirequest@1.0.18?classifier=sources

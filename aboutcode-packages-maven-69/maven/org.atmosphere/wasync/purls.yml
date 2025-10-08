@@ -10,3 +10,5 @@
 - pkg:maven/org.atmosphere/wasync@1.0.0.RC4?classifier=sources
 - pkg:maven/org.atmosphere/wasync@1.0.0.RC5
 - pkg:maven/org.atmosphere/wasync@1.0.0.RC5?classifier=sources
+- pkg:maven/org.atmosphere/wasync@1.0.0
+- pkg:maven/org.atmosphere/wasync@1.0.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.common@2.2.11?classifier=sources
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.common@2.3.2
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.common@2.3.2?classifier=sources
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.common@2.3.3
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.common@2.3.3?classifier=sources

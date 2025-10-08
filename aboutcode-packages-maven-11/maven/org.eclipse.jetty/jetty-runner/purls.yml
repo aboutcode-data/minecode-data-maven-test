@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.0.4.v20130625?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.0.5.v20130815
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.0.5.v20130815?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-runner@9.1.0.M0
+- pkg:maven/org.eclipse.jetty/jetty-runner@9.1.0.M0?classifier=sources
