@@ -1,2 +1,4 @@
 - pkg:maven/com.cocosw/undobar@0.3?classifier=sources
 - pkg:maven/com.cocosw/undobar@0.4?classifier=sources
+- pkg:maven/com.cocosw/undobar@0.5
+- pkg:maven/com.cocosw/undobar@0.5?classifier=sources
