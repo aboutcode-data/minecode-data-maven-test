@@ -14,3 +14,5 @@
 - pkg:maven/com.ffbit.maven.plugins/solr-maven-plugin@0.0.7.1?classifier=sources
 - pkg:maven/com.ffbit.maven.plugins/solr-maven-plugin@0.0.7
 - pkg:maven/com.ffbit.maven.plugins/solr-maven-plugin@0.0.7?classifier=sources
+- pkg:maven/com.ffbit.maven.plugins/solr-maven-plugin@0.0.7.2
+- pkg:maven/com.ffbit.maven.plugins/solr-maven-plugin@0.0.7.2?classifier=sources

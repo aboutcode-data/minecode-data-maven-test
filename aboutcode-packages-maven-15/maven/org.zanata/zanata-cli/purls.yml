@@ -4,3 +4,5 @@
 - pkg:maven/org.zanata/zanata-cli@2.3.0?classifier=sources
 - pkg:maven/org.zanata/zanata-cli@3.0.0
 - pkg:maven/org.zanata/zanata-cli@3.0.0?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@3.0.1
+- pkg:maven/org.zanata/zanata-cli@3.0.1?classifier=sources
