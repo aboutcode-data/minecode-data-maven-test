@@ -16,3 +16,9 @@
 - pkg:maven/com.ning.billing/killbill-util@0.0.7?classifier=sources
 - pkg:maven/com.ning.billing/killbill-util@0.0.11
 - pkg:maven/com.ning.billing/killbill-util@0.0.11?classifier=sources
+- pkg:maven/com.ning.billing/killbill-util@0.0.13-lifecycle
+- pkg:maven/com.ning.billing/killbill-util@0.0.13-lifecycle?classifier=sources
+- pkg:maven/com.ning.billing/killbill-util@0.0.13
+- pkg:maven/com.ning.billing/killbill-util@0.0.13?classifier=sources
+- pkg:maven/com.ning.billing/killbill-util@0.0.12
+- pkg:maven/com.ning.billing/killbill-util@0.0.12?classifier=sources

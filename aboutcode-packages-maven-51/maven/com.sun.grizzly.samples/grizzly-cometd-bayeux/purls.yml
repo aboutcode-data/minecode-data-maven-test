@@ -157,3 +157,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-cometd-bayeux@1.9.37?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-cometd-bayeux@1.9.40?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-cometd-bayeux@1.9.40?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-cometd-bayeux@1.9.41?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-cometd-bayeux@1.9.41?classifier=sources

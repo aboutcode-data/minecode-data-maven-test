@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr2spi@2.3.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr2spi@2.3.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr2spi@2.3.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr2spi@2.2.10
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr2spi@2.2.10?classifier=sources

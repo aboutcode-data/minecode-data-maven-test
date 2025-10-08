@@ -48,3 +48,7 @@
 - pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.0-RC2?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.0-RC3
 - pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.0-RC3?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.1
+- pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.1?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.0
+- pkg:maven/org.atmosphere/atmosphere-jgroups@0.8.0?classifier=sources

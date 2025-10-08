@@ -12,3 +12,6 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-core-project@2.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-project@1.2.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-project@1.1.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-project@2.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-project@2.0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-project@1.2.11?classifier=source-release&type=zip
