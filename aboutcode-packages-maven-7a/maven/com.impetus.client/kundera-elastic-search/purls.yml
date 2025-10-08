@@ -1,2 +1,4 @@
 - pkg:maven/com.impetus.client/kundera-elastic-search@2.7
 - pkg:maven/com.impetus.client/kundera-elastic-search@2.7?classifier=sources
+- pkg:maven/com.impetus.client/kundera-elastic-search@2.7.1
+- pkg:maven/com.impetus.client/kundera-elastic-search@2.7.1?classifier=sources

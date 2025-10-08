@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.jena/jena-fuseki@0.2.6?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki@0.2.7
 - pkg:maven/org.apache.jena/jena-fuseki@0.2.7?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki@1.0.0
+- pkg:maven/org.apache.jena/jena-fuseki@1.0.0?classifier=sources

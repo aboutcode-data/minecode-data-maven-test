@@ -24,3 +24,9 @@
 - pkg:maven/com.netflix.feign/feign-core@4.3.0?classifier=sources
 - pkg:maven/com.netflix.feign/feign-core@4.4.0
 - pkg:maven/com.netflix.feign/feign-core@4.4.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-core@5.1.0
+- pkg:maven/com.netflix.feign/feign-core@5.1.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-core@5.0.1
+- pkg:maven/com.netflix.feign/feign-core@5.0.1?classifier=sources
+- pkg:maven/com.netflix.feign/feign-core@5.0.0
+- pkg:maven/com.netflix.feign/feign-core@5.0.0?classifier=sources

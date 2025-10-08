@@ -18,3 +18,5 @@
 - pkg:maven/com.twitter/finagle-redis_2.10@6.5.2?classifier=sources
 - pkg:maven/com.twitter/finagle-redis_2.10@6.6.0
 - pkg:maven/com.twitter/finagle-redis_2.10@6.6.0?classifier=sources
+- pkg:maven/com.twitter/finagle-redis_2.10@6.6.2
+- pkg:maven/com.twitter/finagle-redis_2.10@6.6.2?classifier=sources
