@@ -1,1 +1,5 @@
 - pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.0.0.Beta1?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.0.0.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.0.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.0.0.Beta2?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.0.0.Beta2?classifier=sources

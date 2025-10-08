@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.13.3?type=war
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.13.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.14.1?type=war
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.14.1?classifier=sources
