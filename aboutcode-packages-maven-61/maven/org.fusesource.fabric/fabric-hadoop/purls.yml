@@ -10,3 +10,5 @@
 - pkg:maven/org.fusesource.fabric/fabric-hadoop@7.0.2.fuse-097?classifier=sources
 - pkg:maven/org.fusesource.fabric/fabric-hadoop@7.1.0.fuse-047
 - pkg:maven/org.fusesource.fabric/fabric-hadoop@7.1.0.fuse-047?classifier=sources
+- pkg:maven/org.fusesource.fabric/fabric-hadoop@7.2.0.redhat-024
+- pkg:maven/org.fusesource.fabric/fabric-hadoop@7.2.0.redhat-024?classifier=sources

@@ -5,3 +5,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@4.0.7_4
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@4.0.7_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@4.0.7_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@5.5.0.Final_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@5.5.0.Final_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@5.5.0.Final_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.drools@5.5.0.Final_1?classifier=sources

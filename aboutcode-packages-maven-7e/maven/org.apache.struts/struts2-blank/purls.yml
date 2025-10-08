@@ -45,3 +45,5 @@
 - pkg:maven/org.apache.struts/struts2-blank@2.3.8?classifier=sources
 - pkg:maven/org.apache.struts/struts2-blank@2.3.12?type=war
 - pkg:maven/org.apache.struts/struts2-blank@2.3.12?classifier=sources
+- pkg:maven/org.apache.struts/struts2-blank@2.3.14?type=war
+- pkg:maven/org.apache.struts/struts2-blank@2.3.14?classifier=sources
