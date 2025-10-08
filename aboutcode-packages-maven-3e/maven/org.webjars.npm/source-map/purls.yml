@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/source-map@0.4.2
 - pkg:maven/org.webjars.npm/source-map@0.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/source-map@0.1.31
+- pkg:maven/org.webjars.npm/source-map@0.1.31?classifier=sources
