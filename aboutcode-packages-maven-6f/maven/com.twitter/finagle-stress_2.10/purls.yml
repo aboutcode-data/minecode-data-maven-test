@@ -22,3 +22,7 @@
 - pkg:maven/com.twitter/finagle-stress_2.10@6.6.0?classifier=sources
 - pkg:maven/com.twitter/finagle-stress_2.10@6.6.2
 - pkg:maven/com.twitter/finagle-stress_2.10@6.6.2?classifier=sources
+- pkg:maven/com.twitter/finagle-stress_2.10@6.7.4
+- pkg:maven/com.twitter/finagle-stress_2.10@6.7.4?classifier=sources
+- pkg:maven/com.twitter/finagle-stress_2.10@6.7.1
+- pkg:maven/com.twitter/finagle-stress_2.10@6.7.1?classifier=sources
