@@ -20,3 +20,7 @@
 - pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@4.0.1?classifier=sources
 - pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@2.8.8
 - pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@2.8.8?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@4.0.2
+- pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@4.0.2?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@2.8.9
+- pkg:maven/org.openrdf.sesame/sesame-sail-lucene4@2.8.9?classifier=sources

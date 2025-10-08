@@ -8,3 +8,5 @@
 - pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.7?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.8
 - pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.8?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.9
+- pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.9?classifier=sources
