@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.camel/camel-base64@2.16.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-base64@2.15.4
 - pkg:maven/org.apache.camel/camel-base64@2.15.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-base64@2.14.4
+- pkg:maven/org.apache.camel/camel-base64@2.14.4?classifier=sources
