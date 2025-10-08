@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch-runtime@1.0-b08
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch-runtime@1.0-b08?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch-runtime@1.0-b07
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch-runtime@1.0-b07?classifier=sources

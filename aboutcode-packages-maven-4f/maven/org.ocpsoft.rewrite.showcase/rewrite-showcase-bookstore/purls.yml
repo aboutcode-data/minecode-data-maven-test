@@ -2,3 +2,5 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.0.Alpha3?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.0.Alpha4?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.0.Alpha4?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.0.Alpha5?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@2.0.0.Alpha5?classifier=sources
