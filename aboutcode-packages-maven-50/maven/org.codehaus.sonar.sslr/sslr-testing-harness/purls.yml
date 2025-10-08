@@ -12,3 +12,5 @@
 - pkg:maven/org.codehaus.sonar.sslr/sslr-testing-harness@1.18?classifier=sources
 - pkg:maven/org.codehaus.sonar.sslr/sslr-testing-harness@1.19
 - pkg:maven/org.codehaus.sonar.sslr/sslr-testing-harness@1.19?classifier=sources
+- pkg:maven/org.codehaus.sonar.sslr/sslr-testing-harness@1.19.1
+- pkg:maven/org.codehaus.sonar.sslr/sslr-testing-harness@1.19.1?classifier=sources
