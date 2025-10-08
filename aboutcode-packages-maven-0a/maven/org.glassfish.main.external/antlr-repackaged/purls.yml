@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.main.external/antlr-repackaged@3.1.2
 - pkg:maven/org.glassfish.main.external/antlr-repackaged@3.1.2?classifier=sources
+- pkg:maven/org.glassfish.main.external/antlr-repackaged@4.0-b33
+- pkg:maven/org.glassfish.main.external/antlr-repackaged@4.0-b33?classifier=sources

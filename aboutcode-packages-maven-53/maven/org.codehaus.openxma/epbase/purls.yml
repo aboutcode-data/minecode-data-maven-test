@@ -20,3 +20,5 @@
 - pkg:maven/org.codehaus.openxma/epbase@4.1.6?classifier=sources
 - pkg:maven/org.codehaus.openxma/epbase@4.1.7
 - pkg:maven/org.codehaus.openxma/epbase@4.1.7?classifier=sources
+- pkg:maven/org.codehaus.openxma/epbase@5.0.0
+- pkg:maven/org.codehaus.openxma/epbase@5.0.0?classifier=sources
