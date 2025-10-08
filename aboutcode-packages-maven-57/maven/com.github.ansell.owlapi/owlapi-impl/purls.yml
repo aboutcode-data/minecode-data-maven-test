@@ -1,2 +1,4 @@
 - pkg:maven/com.github.ansell.owlapi/owlapi-impl@3.4.3.1-ansell
 - pkg:maven/com.github.ansell.owlapi/owlapi-impl@3.4.3.1-ansell?classifier=sources
+- pkg:maven/com.github.ansell.owlapi/owlapi-impl@3.4.3.2-ansell
+- pkg:maven/com.github.ansell.owlapi/owlapi-impl@3.4.3.2-ansell?classifier=sources

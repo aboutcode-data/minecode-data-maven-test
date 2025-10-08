@@ -20,3 +20,7 @@
 - pkg:maven/com.smith9.simply/simply-runner@1.5.13?classifier=sources
 - pkg:maven/com.smith9.simply/simply-runner@1.5.12?type=zip
 - pkg:maven/com.smith9.simply/simply-runner@1.5.12?classifier=sources
+- pkg:maven/com.smith9.simply/simply-runner@1.5.15?type=zip
+- pkg:maven/com.smith9.simply/simply-runner@1.5.15?classifier=sources
+- pkg:maven/com.smith9.simply/simply-runner@1.5.14?type=zip
+- pkg:maven/com.smith9.simply/simply-runner@1.5.14?classifier=sources

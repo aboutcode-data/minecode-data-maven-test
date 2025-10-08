@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.lucene/lucene-highlighter@4.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-highlighter@3.6.2
 - pkg:maven/org.apache.lucene/lucene-highlighter@3.6.2?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-highlighter@4.1.0
+- pkg:maven/org.apache.lucene/lucene-highlighter@4.1.0?classifier=sources
