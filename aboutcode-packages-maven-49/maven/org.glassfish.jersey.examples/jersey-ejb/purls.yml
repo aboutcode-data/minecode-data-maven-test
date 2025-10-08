@@ -120,3 +120,6 @@
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.18?type=war
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.18?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.18?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.19?type=war
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.19?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.19?classifier=project-src&type=zip

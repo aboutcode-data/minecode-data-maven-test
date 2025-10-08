@@ -70,3 +70,5 @@
 - pkg:maven/org.atmosphere.samples/gwt20-jersey-rpc@2.2.7?classifier=sources
 - pkg:maven/org.atmosphere.samples/gwt20-jersey-rpc@2.3.2?type=war
 - pkg:maven/org.atmosphere.samples/gwt20-jersey-rpc@2.3.2?classifier=sources
+- pkg:maven/org.atmosphere.samples/gwt20-jersey-rpc@2.3.3?type=war
+- pkg:maven/org.atmosphere.samples/gwt20-jersey-rpc@2.3.3?classifier=sources

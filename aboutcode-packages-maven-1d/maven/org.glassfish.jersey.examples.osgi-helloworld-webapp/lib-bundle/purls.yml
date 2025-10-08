@@ -86,3 +86,5 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/lib-bundle@2.5.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/lib-bundle@2.18
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/lib-bundle@2.18?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/lib-bundle@2.19
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/lib-bundle@2.19?classifier=sources
