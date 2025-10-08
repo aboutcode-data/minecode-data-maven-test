@@ -10,3 +10,5 @@
 - pkg:maven/li.rudin.arduino/arduino-managed@2.5?classifier=sources
 - pkg:maven/li.rudin.arduino/arduino-managed@2.4
 - pkg:maven/li.rudin.arduino/arduino-managed@2.4?classifier=sources
+- pkg:maven/li.rudin.arduino/arduino-managed@2.6
+- pkg:maven/li.rudin.arduino/arduino-managed@2.6?classifier=sources

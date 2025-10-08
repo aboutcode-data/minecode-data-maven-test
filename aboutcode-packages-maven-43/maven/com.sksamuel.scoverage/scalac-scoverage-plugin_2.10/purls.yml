@@ -20,3 +20,5 @@
 - pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.10@0.95.2?classifier=sources
 - pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.10@0.95.9
 - pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.10@0.95.9?classifier=sources
+- pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.10@0.96.0
+- pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.10@0.96.0?classifier=sources

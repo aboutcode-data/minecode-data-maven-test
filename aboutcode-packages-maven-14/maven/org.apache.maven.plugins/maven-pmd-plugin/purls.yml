@@ -30,3 +30,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.0.1
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.0.1?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.1
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.1?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.1?classifier=source-release&type=zip
