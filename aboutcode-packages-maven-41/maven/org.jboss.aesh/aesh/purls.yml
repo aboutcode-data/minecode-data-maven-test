@@ -77,3 +77,5 @@
 - pkg:maven/org.jboss.aesh/aesh@0.47
 - pkg:maven/org.jboss.aesh/aesh@0.47?classifier=sources
 - pkg:maven/org.jboss.aesh/aesh@0.47?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aesh/aesh@0.33.12
+- pkg:maven/org.jboss.aesh/aesh@0.33.12?classifier=sources

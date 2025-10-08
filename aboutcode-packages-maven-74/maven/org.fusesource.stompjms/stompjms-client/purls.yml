@@ -36,3 +36,5 @@
 - pkg:maven/org.fusesource.stompjms/stompjms-client@1.17?classifier=sources
 - pkg:maven/org.fusesource.stompjms/stompjms-client@1.18
 - pkg:maven/org.fusesource.stompjms/stompjms-client@1.18?classifier=sources
+- pkg:maven/org.fusesource.stompjms/stompjms-client@1.19
+- pkg:maven/org.fusesource.stompjms/stompjms-client@1.19?classifier=sources

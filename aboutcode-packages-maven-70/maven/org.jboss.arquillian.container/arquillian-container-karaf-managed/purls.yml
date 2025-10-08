@@ -6,3 +6,5 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-karaf-managed@2.1.0.CR8?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-karaf-managed@2.1.0.CR7
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-karaf-managed@2.1.0.CR7?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-karaf-managed@2.1.0.CR9
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-karaf-managed@2.1.0.CR9?classifier=sources
