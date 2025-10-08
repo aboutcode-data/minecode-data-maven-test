@@ -20,3 +20,5 @@
 - pkg:maven/com.jetdrone/yoke.middleware.swagger@1.0.15?classifier=sources
 - pkg:maven/com.jetdrone/yoke.middleware.swagger@1.0.14
 - pkg:maven/com.jetdrone/yoke.middleware.swagger@1.0.14?classifier=sources
+- pkg:maven/com.jetdrone/yoke.middleware.swagger@2.0.0
+- pkg:maven/com.jetdrone/yoke.middleware.swagger@2.0.0?classifier=sources

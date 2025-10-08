@@ -12,3 +12,5 @@
 - pkg:maven/com.impetus.kundera.core/kundera-core@2.12-1.x?classifier=sources
 - pkg:maven/com.impetus.kundera.core/kundera-core@2.12
 - pkg:maven/com.impetus.kundera.core/kundera-core@2.12?classifier=sources
+- pkg:maven/com.impetus.kundera.core/kundera-core@2.13
+- pkg:maven/com.impetus.kundera.core/kundera-core@2.13?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/com.geeoz.atom/atom-web@1.0d21?classifier=sources
 - pkg:maven/com.geeoz.atom/atom-web@1.0d23?type=war
 - pkg:maven/com.geeoz.atom/atom-web@1.0d23?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-web@1.0d25?type=war
+- pkg:maven/com.geeoz.atom/atom-web@1.0d25?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-web@1.0d24?type=war
+- pkg:maven/com.geeoz.atom/atom-web@1.0d24?classifier=sources
