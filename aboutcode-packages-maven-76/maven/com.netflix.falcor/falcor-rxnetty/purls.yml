@@ -40,3 +40,5 @@
 - pkg:maven/com.netflix.falcor/falcor-rxnetty@0.16.0?classifier=sources
 - pkg:maven/com.netflix.falcor/falcor-rxnetty@0.15.0
 - pkg:maven/com.netflix.falcor/falcor-rxnetty@0.15.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-rxnetty@0.20.0
+- pkg:maven/com.netflix.falcor/falcor-rxnetty@0.20.0?classifier=sources

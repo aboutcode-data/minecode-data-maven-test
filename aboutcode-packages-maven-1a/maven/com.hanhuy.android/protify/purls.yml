@@ -16,3 +16,7 @@
 - pkg:maven/com.hanhuy.android/protify@0.8?classifier=sources
 - pkg:maven/com.hanhuy.android/protify@0.7
 - pkg:maven/com.hanhuy.android/protify@0.7?classifier=sources
+- pkg:maven/com.hanhuy.android/protify@1.0.0
+- pkg:maven/com.hanhuy.android/protify@1.0.0?classifier=sources
+- pkg:maven/com.hanhuy.android/protify@0.9.1
+- pkg:maven/com.hanhuy.android/protify@0.9.1?classifier=sources

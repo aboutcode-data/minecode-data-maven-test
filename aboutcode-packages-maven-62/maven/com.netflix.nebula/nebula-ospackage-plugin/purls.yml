@@ -10,3 +10,5 @@
 - pkg:maven/com.netflix.nebula/nebula-ospackage-plugin@1.12.3?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-ospackage-plugin@2.2.1
 - pkg:maven/com.netflix.nebula/nebula-ospackage-plugin@2.2.1?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-ospackage-plugin@3.0.0
+- pkg:maven/com.netflix.nebula/nebula-ospackage-plugin@3.0.0?classifier=sources
