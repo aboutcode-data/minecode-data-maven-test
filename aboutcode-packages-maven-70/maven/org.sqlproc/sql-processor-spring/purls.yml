@@ -78,3 +78,5 @@
 - pkg:maven/org.sqlproc/sql-processor-spring@2.6.2?classifier=sources
 - pkg:maven/org.sqlproc/sql-processor-spring@2.7.0
 - pkg:maven/org.sqlproc/sql-processor-spring@2.7.0?classifier=sources
+- pkg:maven/org.sqlproc/sql-processor-spring@2.8.0
+- pkg:maven/org.sqlproc/sql-processor-spring@2.8.0?classifier=sources

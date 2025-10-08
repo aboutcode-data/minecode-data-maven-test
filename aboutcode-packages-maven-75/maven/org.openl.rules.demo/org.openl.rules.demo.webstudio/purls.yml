@@ -15,3 +15,5 @@
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webstudio@5.12.2?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webstudio@5.15.1?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webstudio@5.15.1?classifier=sources
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webstudio@5.15.2?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webstudio@5.15.2?classifier=sources
