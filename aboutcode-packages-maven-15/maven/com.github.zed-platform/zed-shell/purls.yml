@@ -10,3 +10,5 @@
 - pkg:maven/com.github.zed-platform/zed-shell@0.0.8?classifier=sources
 - pkg:maven/com.github.zed-platform/zed-shell@0.0.9?type=war
 - pkg:maven/com.github.zed-platform/zed-shell@0.0.9?classifier=sources
+- pkg:maven/com.github.zed-platform/zed-shell@0.0.10?type=war
+- pkg:maven/com.github.zed-platform/zed-shell@0.0.10?classifier=sources

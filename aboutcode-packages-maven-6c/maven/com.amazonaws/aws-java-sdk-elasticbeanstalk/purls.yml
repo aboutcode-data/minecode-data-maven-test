@@ -28,3 +28,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticbeanstalk@1.9.12?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticbeanstalk@1.9.14
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticbeanstalk@1.9.14?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticbeanstalk@1.9.15
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticbeanstalk@1.9.15?classifier=sources
