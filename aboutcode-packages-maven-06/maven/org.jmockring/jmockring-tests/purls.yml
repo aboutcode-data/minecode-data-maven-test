@@ -9,3 +9,5 @@
 - pkg:maven/org.jmockring/jmockring-tests@0.5.3?classifier=sources
 - pkg:maven/org.jmockring/jmockring-tests@0.5.2?type=war
 - pkg:maven/org.jmockring/jmockring-tests@0.5.2?classifier=sources
+- pkg:maven/org.jmockring/jmockring-tests@0.5.4?type=war
+- pkg:maven/org.jmockring/jmockring-tests@0.5.4?classifier=sources

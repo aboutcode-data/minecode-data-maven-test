@@ -1,0 +1,3 @@
+- pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.2?type=war
+- pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.2?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.2?classifier=project-src&type=zip

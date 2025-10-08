@@ -16,3 +16,5 @@
 - pkg:maven/org.hornetq/hornetq-jms-server@2.4.0.Alpha1?classifier=sources
 - pkg:maven/org.hornetq/hornetq-jms-server@2.3.3.Final
 - pkg:maven/org.hornetq/hornetq-jms-server@2.3.3.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-jms-server@2.3.4.Final
+- pkg:maven/org.hornetq/hornetq-jms-server@2.3.4.Final?classifier=sources

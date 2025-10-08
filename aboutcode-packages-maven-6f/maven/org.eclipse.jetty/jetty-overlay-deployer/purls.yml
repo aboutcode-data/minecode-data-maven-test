@@ -118,3 +118,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-overlay-deployer@8.1.12.v20130726?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-overlay-deployer@7.6.12.v20130726
 - pkg:maven/org.eclipse.jetty/jetty-overlay-deployer@7.6.12.v20130726?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-overlay-deployer@9.0.5.v20130815
+- pkg:maven/org.eclipse.jetty/jetty-overlay-deployer@9.0.5.v20130815?classifier=sources

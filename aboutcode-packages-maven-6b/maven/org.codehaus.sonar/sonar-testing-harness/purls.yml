@@ -181,3 +181,7 @@
 - pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.7-RC2?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.7-RC3
 - pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.7-RC3?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.7
+- pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.7?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.6.3
+- pkg:maven/org.codehaus.sonar/sonar-testing-harness@3.6.3?classifier=sources

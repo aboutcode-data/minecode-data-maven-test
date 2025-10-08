@@ -8,3 +8,5 @@
 - pkg:maven/io.vertx/testtools@2.0.0-CR2?classifier=sources
 - pkg:maven/io.vertx/testtools@2.0.0-final
 - pkg:maven/io.vertx/testtools@2.0.0-final?classifier=sources
+- pkg:maven/io.vertx/testtools@2.0.1-final
+- pkg:maven/io.vertx/testtools@2.0.1-final?classifier=sources

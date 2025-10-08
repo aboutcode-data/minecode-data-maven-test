@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.0.3.v20130506?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.0.4.v20130625
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.0.4.v20130625?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.0.5.v20130815
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.0.5.v20130815?classifier=sources
