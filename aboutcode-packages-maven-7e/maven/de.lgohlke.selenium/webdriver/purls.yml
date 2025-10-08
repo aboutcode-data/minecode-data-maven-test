@@ -1,0 +1,4 @@
+- pkg:maven/de.lgohlke.selenium/webdriver@0.2
+- pkg:maven/de.lgohlke.selenium/webdriver@0.2?classifier=sources
+- pkg:maven/de.lgohlke.selenium/webdriver@0.1
+- pkg:maven/de.lgohlke.selenium/webdriver@0.1?classifier=sources
