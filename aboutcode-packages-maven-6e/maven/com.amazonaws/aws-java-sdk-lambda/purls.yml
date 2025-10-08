@@ -10,3 +10,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.11?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.10
 - pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.10?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.13
+- pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.13?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.12
+- pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.9.12?classifier=sources
