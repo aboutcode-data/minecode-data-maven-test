@@ -31,3 +31,5 @@
 - pkg:maven/org.rhq.server/alert-email@4.8.0?classifier=sources
 - pkg:maven/org.rhq.server/alert-email@4.9.0
 - pkg:maven/org.rhq.server/alert-email@4.9.0?classifier=sources
+- pkg:maven/org.rhq.server/alert-email@4.10.0
+- pkg:maven/org.rhq.server/alert-email@4.10.0?classifier=sources
