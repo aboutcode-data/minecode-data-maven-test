@@ -20,3 +20,5 @@
 - pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/ehcache@0.9.4?classifier=sources
 - pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/ehcache@0.10.0
 - pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/ehcache@0.10.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/ehcache@0.10.1
+- pkg:maven/io.joynr.java.messaging.bounceproxy.bounceproxy-controller-persistence/ehcache@0.10.1?classifier=sources

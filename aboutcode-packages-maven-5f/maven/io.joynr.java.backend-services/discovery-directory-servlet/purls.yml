@@ -22,3 +22,5 @@
 - pkg:maven/io.joynr.java.backend-services/discovery-directory-servlet@0.9.4?classifier=sources
 - pkg:maven/io.joynr.java.backend-services/discovery-directory-servlet@0.10.0?type=war
 - pkg:maven/io.joynr.java.backend-services/discovery-directory-servlet@0.10.0?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/discovery-directory-servlet@0.10.1?type=war
+- pkg:maven/io.joynr.java.backend-services/discovery-directory-servlet@0.10.1?classifier=sources
