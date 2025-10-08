@@ -56,3 +56,5 @@
 - pkg:maven/com.rexsl/rexsl-standalone@0.12?classifier=sources
 - pkg:maven/com.rexsl/rexsl-standalone@0.13
 - pkg:maven/com.rexsl/rexsl-standalone@0.13?classifier=sources
+- pkg:maven/com.rexsl/rexsl-standalone@0.13.1
+- pkg:maven/com.rexsl/rexsl-standalone@0.13.1?classifier=sources
