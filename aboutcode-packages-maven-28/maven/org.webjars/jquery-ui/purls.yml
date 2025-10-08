@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars/jquery-ui@1.9.1
 - pkg:maven/org.webjars/jquery-ui@1.9.2
 - pkg:maven/org.webjars/jquery-ui@1.10.2
+- pkg:maven/org.webjars/jquery-ui@1.10.2-1
+- pkg:maven/org.webjars/jquery-ui@1.10.2-1?classifier=sources

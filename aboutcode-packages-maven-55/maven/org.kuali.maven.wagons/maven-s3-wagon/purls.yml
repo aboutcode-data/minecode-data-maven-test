@@ -54,3 +54,5 @@
 - pkg:maven/org.kuali.maven.wagons/maven-s3-wagon@1.1.18?classifier=sources
 - pkg:maven/org.kuali.maven.wagons/maven-s3-wagon@1.1.17
 - pkg:maven/org.kuali.maven.wagons/maven-s3-wagon@1.1.17?classifier=sources
+- pkg:maven/org.kuali.maven.wagons/maven-s3-wagon@1.1.20
+- pkg:maven/org.kuali.maven.wagons/maven-s3-wagon@1.1.20?classifier=sources

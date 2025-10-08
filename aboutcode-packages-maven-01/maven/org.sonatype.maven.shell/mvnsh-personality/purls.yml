@@ -4,3 +4,5 @@
 - pkg:maven/org.sonatype.maven.shell/mvnsh-personality@1.0?classifier=sources
 - pkg:maven/org.sonatype.maven.shell/mvnsh-personality@0.10
 - pkg:maven/org.sonatype.maven.shell/mvnsh-personality@0.10?classifier=sources
+- pkg:maven/org.sonatype.maven.shell/mvnsh-personality@1.1.0
+- pkg:maven/org.sonatype.maven.shell/mvnsh-personality@1.1.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.0?classifier=sources
 - pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.2?type=war
 - pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.2?classifier=sources
+- pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.3?type=war
+- pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.3?classifier=sources
