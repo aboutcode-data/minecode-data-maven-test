@@ -40,3 +40,5 @@
 - pkg:maven/org.jboss.arquillian.testng/arquillian-testng-core@1.1.4.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.testng/arquillian-testng-core@1.1.5.Final
 - pkg:maven/org.jboss.arquillian.testng/arquillian-testng-core@1.1.5.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.testng/arquillian-testng-core@1.1.2.Final-wildfly-2
+- pkg:maven/org.jboss.arquillian.testng/arquillian-testng-core@1.1.2.Final-wildfly-2?classifier=sources

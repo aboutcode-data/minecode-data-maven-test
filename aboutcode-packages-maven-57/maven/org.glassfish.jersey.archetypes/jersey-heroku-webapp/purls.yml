@@ -26,3 +26,5 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.10.4
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.10.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.13
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.13?classifier=sources

@@ -210,3 +210,5 @@
 - pkg:maven/org.codehaus.sonar/sonar-markdown@4.5-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar/sonar-markdown@4.4.1
 - pkg:maven/org.codehaus.sonar/sonar-markdown@4.4.1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-markdown@4.5
+- pkg:maven/org.codehaus.sonar/sonar-markdown@4.5?classifier=sources

@@ -61,3 +61,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-hbase@5.2.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-hbase@5.2.10.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-hbase@5.2.10.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-hbase@5.2.11.CR1
+- pkg:maven/org.infinispan/infinispan-cachestore-hbase@5.2.11.CR1?classifier=sources
