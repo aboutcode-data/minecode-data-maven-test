@@ -28,3 +28,5 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-examples-stress@1.0.4?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-examples-stress@1.0.4-dse
 - pkg:maven/com.datastax.cassandra/cassandra-driver-examples-stress@1.0.4-dse?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-examples-stress@2.0.0-rc1
+- pkg:maven/com.datastax.cassandra/cassandra-driver-examples-stress@2.0.0-rc1?classifier=sources

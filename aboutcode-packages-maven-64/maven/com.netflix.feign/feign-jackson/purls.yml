@@ -1,0 +1,4 @@
+- pkg:maven/com.netflix.feign/feign-jackson@6.0.0
+- pkg:maven/com.netflix.feign/feign-jackson@6.0.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-jackson@5.4.0
+- pkg:maven/com.netflix.feign/feign-jackson@5.4.0?classifier=sources

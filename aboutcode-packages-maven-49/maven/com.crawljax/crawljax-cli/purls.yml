@@ -6,3 +6,5 @@
 - pkg:maven/com.crawljax/crawljax-cli@3.2?classifier=sources
 - pkg:maven/com.crawljax/crawljax-cli@3.3?type=zip
 - pkg:maven/com.crawljax/crawljax-cli@3.3?classifier=sources
+- pkg:maven/com.crawljax/crawljax-cli@3.4?type=zip
+- pkg:maven/com.crawljax/crawljax-cli@3.4?classifier=sources

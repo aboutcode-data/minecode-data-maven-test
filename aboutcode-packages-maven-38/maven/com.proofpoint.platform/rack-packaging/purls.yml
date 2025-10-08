@@ -22,3 +22,5 @@
 - pkg:maven/com.proofpoint.platform/rack-packaging@0.85?classifier=sources
 - pkg:maven/com.proofpoint.platform/rack-packaging@0.84
 - pkg:maven/com.proofpoint.platform/rack-packaging@0.84?classifier=sources
+- pkg:maven/com.proofpoint.platform/rack-packaging@0.87
+- pkg:maven/com.proofpoint.platform/rack-packaging@0.87?classifier=sources

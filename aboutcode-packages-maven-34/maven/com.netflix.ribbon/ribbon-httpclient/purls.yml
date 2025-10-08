@@ -28,3 +28,5 @@
 - pkg:maven/com.netflix.ribbon/ribbon-httpclient@0.2.4?classifier=sources
 - pkg:maven/com.netflix.ribbon/ribbon-httpclient@0.3.0
 - pkg:maven/com.netflix.ribbon/ribbon-httpclient@0.3.0?classifier=sources
+- pkg:maven/com.netflix.ribbon/ribbon-httpclient@0.3.1
+- pkg:maven/com.netflix.ribbon/ribbon-httpclient@0.3.1?classifier=sources
