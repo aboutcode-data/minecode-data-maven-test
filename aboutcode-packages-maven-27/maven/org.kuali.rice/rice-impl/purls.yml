@@ -102,3 +102,7 @@
 - pkg:maven/org.kuali.rice/rice-impl@2.5.3?classifier=sources
 - pkg:maven/org.kuali.rice/rice-impl@2.1.10
 - pkg:maven/org.kuali.rice/rice-impl@2.1.10?classifier=sources
+- pkg:maven/org.kuali.rice/rice-impl@2.3.7
+- pkg:maven/org.kuali.rice/rice-impl@2.3.7?classifier=sources
+- pkg:maven/org.kuali.rice/rice-impl@1.0.8
+- pkg:maven/org.kuali.rice/rice-impl@1.0.8?classifier=sources

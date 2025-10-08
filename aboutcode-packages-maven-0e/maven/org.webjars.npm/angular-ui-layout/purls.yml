@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/angular-ui-layout@1.0.5-requirejs
+- pkg:maven/org.webjars.npm/angular-ui-layout@1.0.5-requirejs?classifier=sources
+- pkg:maven/org.webjars.npm/angular-ui-layout@1.0.5-commonjs
+- pkg:maven/org.webjars.npm/angular-ui-layout@1.0.5-commonjs?classifier=sources
