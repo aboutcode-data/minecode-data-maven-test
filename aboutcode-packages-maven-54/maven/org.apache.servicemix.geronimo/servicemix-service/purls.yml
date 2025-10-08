@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.servicemix.geronimo/servicemix-service@3.2?classifier=sources
 - pkg:maven/org.apache.servicemix.geronimo/servicemix-service@3.1.2
 - pkg:maven/org.apache.servicemix.geronimo/servicemix-service@3.1.2?classifier=sources
+- pkg:maven/org.apache.servicemix.geronimo/servicemix-service@3.4.0
+- pkg:maven/org.apache.servicemix.geronimo/servicemix-service@3.4.0?classifier=sources

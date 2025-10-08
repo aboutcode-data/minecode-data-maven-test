@@ -34,3 +34,5 @@
 - pkg:maven/com.jayway.restassured/rest-assured@1.0?classifier=sources
 - pkg:maven/com.jayway.restassured/rest-assured@1.4.5
 - pkg:maven/com.jayway.restassured/rest-assured@1.4.5?classifier=sources
+- pkg:maven/com.jayway.restassured/rest-assured@1.5
+- pkg:maven/com.jayway.restassured/rest-assured@1.5?classifier=sources

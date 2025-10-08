@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.xbean/xbean-naming@2.8?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-naming@2.7
 - pkg:maven/org.apache.xbean/xbean-naming@2.7?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-naming@3.9
+- pkg:maven/org.apache.xbean/xbean-naming@3.9?classifier=sources

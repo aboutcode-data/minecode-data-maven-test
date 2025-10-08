@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.poi/poi-excelant@3.8-beta2?classifier=sources
 - pkg:maven/org.apache.poi/poi-excelant@3.8-beta1
 - pkg:maven/org.apache.poi/poi-excelant@3.8-beta1?classifier=sources
+- pkg:maven/org.apache.poi/poi-excelant@3.8-beta5
+- pkg:maven/org.apache.poi/poi-excelant@3.8-beta5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.karaf.management.mbeans/org.apache.karaf.management.mbeans.log@2.2.4
 - pkg:maven/org.apache.karaf.management.mbeans/org.apache.karaf.management.mbeans.log@2.2.4?classifier=sources
+- pkg:maven/org.apache.karaf.management.mbeans/org.apache.karaf.management.mbeans.log@2.2.5
+- pkg:maven/org.apache.karaf.management.mbeans/org.apache.karaf.management.mbeans.log@2.2.5?classifier=sources
