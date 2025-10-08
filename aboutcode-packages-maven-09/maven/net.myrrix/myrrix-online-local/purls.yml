@@ -14,3 +14,5 @@
 - pkg:maven/net.myrrix/myrrix-online-local@0.11?classifier=sources
 - pkg:maven/net.myrrix/myrrix-online-local@1.0.0-beta-1
 - pkg:maven/net.myrrix/myrrix-online-local@1.0.0-beta-1?classifier=sources
+- pkg:maven/net.myrrix/myrrix-online-local@1.0.0
+- pkg:maven/net.myrrix/myrrix-online-local@1.0.0?classifier=sources

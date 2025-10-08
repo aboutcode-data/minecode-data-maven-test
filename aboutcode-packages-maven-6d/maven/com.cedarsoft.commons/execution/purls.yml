@@ -78,3 +78,5 @@
 - pkg:maven/com.cedarsoft.commons/execution@5.1.7?classifier=sources
 - pkg:maven/com.cedarsoft.commons/execution@5.1.6
 - pkg:maven/com.cedarsoft.commons/execution@5.1.6?classifier=sources
+- pkg:maven/com.cedarsoft.commons/execution@6.0.0
+- pkg:maven/com.cedarsoft.commons/execution@6.0.0?classifier=sources

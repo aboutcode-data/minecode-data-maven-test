@@ -10,3 +10,5 @@
 - pkg:maven/org.skyscreamer/yoga-jaxrs@1.0.0-RC1?classifier=sources
 - pkg:maven/org.skyscreamer/yoga-jaxrs@1.0.0-RC2
 - pkg:maven/org.skyscreamer/yoga-jaxrs@1.0.0-RC2?classifier=sources
+- pkg:maven/org.skyscreamer/yoga-jaxrs@1.0.0
+- pkg:maven/org.skyscreamer/yoga-jaxrs@1.0.0?classifier=sources

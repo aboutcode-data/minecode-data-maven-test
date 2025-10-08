@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.bigtop.itest/package-smoke-execution@0.3.0-incubating?classifier=sources
 - pkg:maven/org.apache.bigtop.itest/package-smoke-execution@0.3.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.bigtop.itest/package-smoke-execution@0.5.0
+- pkg:maven/org.apache.bigtop.itest/package-smoke-execution@0.6.0

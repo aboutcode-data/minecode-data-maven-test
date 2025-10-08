@@ -7,3 +7,6 @@
 - pkg:maven/uk.co.javahelp.fitnesse/fitnesse-launcher-webapp-example@1.2.1?type=war
 - pkg:maven/uk.co.javahelp.fitnesse/fitnesse-launcher-webapp-example@1.2.1?classifier=src&type=zip
 - pkg:maven/uk.co.javahelp.fitnesse/fitnesse-launcher-webapp-example@1.2.1?classifier=src&type=tar.gz
+- pkg:maven/uk.co.javahelp.fitnesse/fitnesse-launcher-webapp-example@1.2.2?type=war
+- pkg:maven/uk.co.javahelp.fitnesse/fitnesse-launcher-webapp-example@1.2.2?classifier=src&type=zip
+- pkg:maven/uk.co.javahelp.fitnesse/fitnesse-launcher-webapp-example@1.2.2?classifier=src&type=tar.gz
