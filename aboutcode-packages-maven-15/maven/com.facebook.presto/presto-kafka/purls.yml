@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.presto/presto-kafka@0.76?classifier=sources
+- pkg:maven/com.facebook.presto/presto-kafka@0.77?classifier=sources

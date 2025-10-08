@@ -14,3 +14,5 @@
 - pkg:maven/org.wildfly.core/wildfly-protocol@1.0.0.Alpha7?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-protocol@1.0.0.Alpha6
 - pkg:maven/org.wildfly.core/wildfly-protocol@1.0.0.Alpha6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-protocol@1.0.0.Alpha9
+- pkg:maven/org.wildfly.core/wildfly-protocol@1.0.0.Alpha9?classifier=sources

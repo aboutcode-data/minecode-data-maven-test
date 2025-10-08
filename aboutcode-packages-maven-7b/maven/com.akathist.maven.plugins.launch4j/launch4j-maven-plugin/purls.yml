@@ -6,3 +6,7 @@
 - pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.2?classifier=src&type=zip
 - pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.2?classifier=src&type=tar.gz
 - pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.5.2?classifier=sources
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.6
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.6?classifier=src&type=zip
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.6?classifier=src&type=tar.gz
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.6?classifier=sources

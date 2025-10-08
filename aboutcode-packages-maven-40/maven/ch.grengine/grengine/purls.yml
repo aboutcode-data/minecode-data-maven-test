@@ -1,0 +1,4 @@
+- pkg:maven/ch.grengine/grengine@1.0.1
+- pkg:maven/ch.grengine/grengine@1.0.1?classifier=sources
+- pkg:maven/ch.grengine/grengine@1.0.0
+- pkg:maven/ch.grengine/grengine@1.0.0?classifier=sources
