@@ -32,3 +32,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.4.0-rc3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.4.0
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.4.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.4.1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-avro@2.4.1?classifier=sources

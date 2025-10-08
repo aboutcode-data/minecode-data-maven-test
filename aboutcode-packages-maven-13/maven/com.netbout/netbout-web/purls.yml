@@ -6,3 +6,7 @@
 - pkg:maven/com.netbout/netbout-web@2.4?classifier=sources
 - pkg:maven/com.netbout/netbout-web@2.3?type=war
 - pkg:maven/com.netbout/netbout-web@2.3?classifier=sources
+- pkg:maven/com.netbout/netbout-web@2.8?type=war
+- pkg:maven/com.netbout/netbout-web@2.8?classifier=sources
+- pkg:maven/com.netbout/netbout-web@2.10?type=war
+- pkg:maven/com.netbout/netbout-web@2.10?classifier=sources

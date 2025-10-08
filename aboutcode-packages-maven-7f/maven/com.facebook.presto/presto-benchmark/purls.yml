@@ -1,2 +1,6 @@
 - pkg:maven/com.facebook.presto/presto-benchmark@0.69
 - pkg:maven/com.facebook.presto/presto-benchmark@0.69?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.71
+- pkg:maven/com.facebook.presto/presto-benchmark@0.71?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.70
+- pkg:maven/com.facebook.presto/presto-benchmark@0.70?classifier=sources

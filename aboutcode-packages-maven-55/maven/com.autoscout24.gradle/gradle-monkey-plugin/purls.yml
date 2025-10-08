@@ -12,3 +12,5 @@
 - pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.6?classifier=sources
 - pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.7
 - pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.7?classifier=sources
+- pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.7.1
+- pkg:maven/com.autoscout24.gradle/gradle-monkey-plugin@0.7.1?classifier=sources
