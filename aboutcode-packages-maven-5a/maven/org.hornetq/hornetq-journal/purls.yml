@@ -36,3 +36,5 @@
 - pkg:maven/org.hornetq/hornetq-journal@2.4.0.Beta2?classifier=sources
 - pkg:maven/org.hornetq/hornetq-journal@2.3.9.Final
 - pkg:maven/org.hornetq/hornetq-journal@2.3.9.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-journal@2.3.10.Final
+- pkg:maven/org.hornetq/hornetq-journal@2.3.10.Final?classifier=sources

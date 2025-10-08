@@ -28,3 +28,5 @@
 - pkg:maven/org.jboss.as.plugins/jboss-as-maven-plugin@7.3.Final?classifier=sources
 - pkg:maven/org.jboss.as.plugins/jboss-as-maven-plugin@7.4.Final
 - pkg:maven/org.jboss.as.plugins/jboss-as-maven-plugin@7.4.Final?classifier=sources
+- pkg:maven/org.jboss.as.plugins/jboss-as-maven-plugin@7.5.Final
+- pkg:maven/org.jboss.as.plugins/jboss-as-maven-plugin@7.5.Final?classifier=sources

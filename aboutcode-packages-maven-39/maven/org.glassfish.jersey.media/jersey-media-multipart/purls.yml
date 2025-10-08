@@ -52,3 +52,5 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.3.1
 - pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.3.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.4
+- pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.4?classifier=sources
