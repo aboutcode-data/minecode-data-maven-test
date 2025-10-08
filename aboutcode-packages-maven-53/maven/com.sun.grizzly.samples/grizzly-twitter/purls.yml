@@ -174,3 +174,5 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-twitter@1.9.62?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-twitter@1.9.18-s?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-twitter@1.9.18-s?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-twitter@1.9.63?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-twitter@1.9.63?classifier=sources

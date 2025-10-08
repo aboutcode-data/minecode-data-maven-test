@@ -6,3 +6,5 @@
 - pkg:maven/gr.skroutz/elasticsearch-analysis-greeklish@0.9?classifier=sources
 - pkg:maven/gr.skroutz/elasticsearch-analysis-greeklish@0.10?type=zip
 - pkg:maven/gr.skroutz/elasticsearch-analysis-greeklish@0.10?classifier=sources
+- pkg:maven/gr.skroutz/elasticsearch-analysis-greeklish@0.11?type=zip
+- pkg:maven/gr.skroutz/elasticsearch-analysis-greeklish@0.11?classifier=sources
