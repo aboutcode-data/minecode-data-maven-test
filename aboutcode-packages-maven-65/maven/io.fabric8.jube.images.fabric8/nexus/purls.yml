@@ -40,3 +40,5 @@
 - pkg:maven/io.fabric8.jube.images.fabric8/nexus@2.2.18?classifier=sources
 - pkg:maven/io.fabric8.jube.images.fabric8/nexus@2.2.17
 - pkg:maven/io.fabric8.jube.images.fabric8/nexus@2.2.17?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/nexus@2.2.23.1
+- pkg:maven/io.fabric8.jube.images.fabric8/nexus@2.2.23.1?classifier=sources

@@ -36,3 +36,7 @@
 - pkg:maven/io.apiman/apiman-manager-api-gateway@1.1.6.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-gateway@1.1.7.Final
 - pkg:maven/io.apiman/apiman-manager-api-gateway@1.1.7.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-gateway@1.2.0.Alpha1
+- pkg:maven/io.apiman/apiman-manager-api-gateway@1.2.0.Alpha1?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-gateway@1.1.8.Final
+- pkg:maven/io.apiman/apiman-manager-api-gateway@1.1.8.Final?classifier=sources

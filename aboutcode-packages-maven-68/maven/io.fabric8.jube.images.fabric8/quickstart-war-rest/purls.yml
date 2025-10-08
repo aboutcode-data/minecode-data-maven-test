@@ -120,3 +120,7 @@
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.18?classifier=sources
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.17?type=war
 - pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.17?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.26.1?type=war
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.26.1?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.23.1?type=war
+- pkg:maven/io.fabric8.jube.images.fabric8/quickstart-war-rest@2.2.23.1?classifier=sources
