@@ -97,3 +97,5 @@
 - pkg:maven/ch.qos.logback/logback-classic@1.0.8?classifier=sources
 - pkg:maven/ch.qos.logback/logback-classic@1.0.10
 - pkg:maven/ch.qos.logback/logback-classic@1.0.10?classifier=sources
+- pkg:maven/ch.qos.logback/logback-classic@1.0.11
+- pkg:maven/ch.qos.logback/logback-classic@1.0.11?classifier=sources

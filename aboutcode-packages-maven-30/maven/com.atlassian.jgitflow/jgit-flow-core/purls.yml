@@ -1,0 +1,4 @@
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.5
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.5?classifier=sources
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.4
+- pkg:maven/com.atlassian.jgitflow/jgit-flow-core@0.4?classifier=sources

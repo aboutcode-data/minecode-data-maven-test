@@ -133,3 +133,7 @@
 - pkg:maven/org.jdbi/jdbi@2.47?classifier=sources
 - pkg:maven/org.jdbi/jdbi@2.48
 - pkg:maven/org.jdbi/jdbi@2.48?classifier=sources
+- pkg:maven/org.jdbi/jdbi@2.48.2
+- pkg:maven/org.jdbi/jdbi@2.48.2?classifier=sources
+- pkg:maven/org.jdbi/jdbi@2.48.1
+- pkg:maven/org.jdbi/jdbi@2.48.1?classifier=sources

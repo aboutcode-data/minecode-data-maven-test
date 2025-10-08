@@ -1,2 +1,4 @@
 - pkg:maven/com.googlecode.objectify/objectify@4.0b1
 - pkg:maven/com.googlecode.objectify/objectify@4.0b1?classifier=sources
+- pkg:maven/com.googlecode.objectify/objectify@4.0b2
+- pkg:maven/com.googlecode.objectify/objectify@4.0b2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta4
 - pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta4?classifier=sources
+- pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta5
+- pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta5?classifier=sources

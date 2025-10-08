@@ -70,3 +70,5 @@
 - pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.1.10?classifier=sources
 - pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.1.10.1
 - pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.1.10.1?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.1.11
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.1.11?classifier=sources
