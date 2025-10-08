@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.hbase/hbase@0.90.4?type=zip
+- pkg:maven/org.apache.hbase/hbase@0.90.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase@0.90.3?type=zip
+- pkg:maven/org.apache.hbase/hbase@0.90.3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase@0.90.2?type=zip
+- pkg:maven/org.apache.hbase/hbase@0.90.2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase@0.90.0?type=zip
+- pkg:maven/org.apache.hbase/hbase@0.90.0?classifier=sources
