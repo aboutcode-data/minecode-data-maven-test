@@ -123,3 +123,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch@0.90.6?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@0.90.7?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@1.0.0.Beta2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@0.90.8?classifier=sources

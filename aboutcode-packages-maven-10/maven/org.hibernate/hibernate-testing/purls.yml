@@ -173,3 +173,5 @@
 - pkg:maven/org.hibernate/hibernate-testing@4.3.0.CR2?classifier=sources
 - pkg:maven/org.hibernate/hibernate-testing@4.2.8.Final
 - pkg:maven/org.hibernate/hibernate-testing@4.2.8.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-testing@4.3.0.Final
+- pkg:maven/org.hibernate/hibernate-testing@4.3.0.Final?classifier=sources

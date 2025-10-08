@@ -58,3 +58,5 @@
 - pkg:maven/org.drools/knowledge-api@5.6.0.CR1?classifier=sources
 - pkg:maven/org.drools/knowledge-api@6.0.0.Final
 - pkg:maven/org.drools/knowledge-api@6.0.0.Final?classifier=sources
+- pkg:maven/org.drools/knowledge-api@6.0.1.Final
+- pkg:maven/org.drools/knowledge-api@6.0.1.Final?classifier=sources
