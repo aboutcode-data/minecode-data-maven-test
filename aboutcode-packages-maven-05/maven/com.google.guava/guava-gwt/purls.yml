@@ -60,3 +60,5 @@
 - pkg:maven/com.google.guava/guava-gwt@17.0-rc1?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@17.0
 - pkg:maven/com.google.guava/guava-gwt@17.0?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@18.0-rc1
+- pkg:maven/com.google.guava/guava-gwt@18.0-rc1?classifier=sources

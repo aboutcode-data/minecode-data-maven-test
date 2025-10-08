@@ -14,3 +14,5 @@
 - pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-core@0.9?classifier=sources
 - pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-core@0.10
 - pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-core@0.10?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-core@0.11.0%2Bwicket-7
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-core@0.11.0%2Bwicket-7?classifier=sources
