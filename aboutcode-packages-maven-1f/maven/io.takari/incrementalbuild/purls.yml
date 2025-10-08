@@ -26,3 +26,4 @@
 - pkg:maven/io.takari/incrementalbuild@0.10.0?classifier=sources
 - pkg:maven/io.takari/incrementalbuild@0.10.1?classifier=sources
 - pkg:maven/io.takari/incrementalbuild@0.20.1?classifier=sources
+- pkg:maven/io.takari/incrementalbuild@0.20.2?classifier=sources

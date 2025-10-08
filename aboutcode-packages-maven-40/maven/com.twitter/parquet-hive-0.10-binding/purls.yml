@@ -32,3 +32,5 @@
 - pkg:maven/com.twitter/parquet-hive-0.10-binding@1.6.0rc5?classifier=sources
 - pkg:maven/com.twitter/parquet-hive-0.10-binding@1.6.0rc7
 - pkg:maven/com.twitter/parquet-hive-0.10-binding@1.6.0rc7?classifier=sources
+- pkg:maven/com.twitter/parquet-hive-0.10-binding@1.6.0
+- pkg:maven/com.twitter/parquet-hive-0.10-binding@1.6.0?classifier=sources

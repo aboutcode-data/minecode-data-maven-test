@@ -4,3 +4,5 @@
 - pkg:maven/io.apiman/apiman-quickstarts-elasticsearch@1.1.0.RC2?classifier=sources
 - pkg:maven/io.apiman/apiman-quickstarts-elasticsearch@1.1.0.Final?type=war
 - pkg:maven/io.apiman/apiman-quickstarts-elasticsearch@1.1.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-quickstarts-elasticsearch@1.1.1.Final?type=war
+- pkg:maven/io.apiman/apiman-quickstarts-elasticsearch@1.1.1.Final?classifier=sources
