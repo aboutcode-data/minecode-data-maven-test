@@ -55,3 +55,6 @@
 - pkg:maven/org.glassfish.jersey.examples/http-patch@2.19
 - pkg:maven/org.glassfish.jersey.examples/http-patch@2.19?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/http-patch@2.19?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/http-patch@2.20
+- pkg:maven/org.glassfish.jersey.examples/http-patch@2.20?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/http-patch@2.20?classifier=project-src&type=zip

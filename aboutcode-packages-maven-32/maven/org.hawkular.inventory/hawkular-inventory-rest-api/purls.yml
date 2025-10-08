@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.inventory/hawkular-inventory-rest-api@0.2.0.Final?type=war
+- pkg:maven/org.hawkular.inventory/hawkular-inventory-rest-api@0.2.0.Final?classifier=sources
+- pkg:maven/org.hawkular.inventory/hawkular-inventory-rest-api@0.2.0-Final?type=war
+- pkg:maven/org.hawkular.inventory/hawkular-inventory-rest-api@0.2.0-Final?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.tika/tika-batch@1.8?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.9
 - pkg:maven/org.apache.tika/tika-batch@1.9?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@1.10
+- pkg:maven/org.apache.tika/tika-batch@1.10?classifier=sources
