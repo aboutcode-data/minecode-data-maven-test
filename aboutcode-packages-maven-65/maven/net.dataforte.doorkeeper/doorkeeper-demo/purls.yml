@@ -8,3 +8,5 @@
 - pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.15?classifier=sources
 - pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.14?type=war
 - pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.14?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.19?type=war
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.19?classifier=sources

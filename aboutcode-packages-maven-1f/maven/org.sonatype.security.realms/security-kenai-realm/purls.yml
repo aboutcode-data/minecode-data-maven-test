@@ -1,2 +1,4 @@
 - pkg:maven/org.sonatype.security.realms/security-kenai-realm@2.4
 - pkg:maven/org.sonatype.security.realms/security-kenai-realm@2.4?classifier=sources
+- pkg:maven/org.sonatype.security.realms/security-kenai-realm@2.5
+- pkg:maven/org.sonatype.security.realms/security-kenai-realm@2.5?classifier=sources

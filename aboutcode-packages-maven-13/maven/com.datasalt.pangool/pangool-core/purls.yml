@@ -1,2 +1,4 @@
 - pkg:maven/com.datasalt.pangool/pangool-core@0.40
 - pkg:maven/com.datasalt.pangool/pangool-core@0.40?classifier=sources
+- pkg:maven/com.datasalt.pangool/pangool-core@0.40.1
+- pkg:maven/com.datasalt.pangool/pangool-core@0.40.1?classifier=sources

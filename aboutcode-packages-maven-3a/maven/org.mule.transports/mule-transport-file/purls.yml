@@ -87,3 +87,5 @@
 - pkg:maven/org.mule.transports/mule-transport-file@3.3-M1?classifier=sources
 - pkg:maven/org.mule.transports/mule-transport-file@3.3-M2
 - pkg:maven/org.mule.transports/mule-transport-file@3.3-M2?classifier=sources
+- pkg:maven/org.mule.transports/mule-transport-file@3.3.0-RC1
+- pkg:maven/org.mule.transports/mule-transport-file@3.3.0-RC1?classifier=sources

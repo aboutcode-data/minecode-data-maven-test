@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.poi/poi-scratchpad@3.0.1-FINAL
 - pkg:maven/org.apache.poi/poi-scratchpad@3.8-beta5
 - pkg:maven/org.apache.poi/poi-scratchpad@3.8-beta5?classifier=sources
+- pkg:maven/org.apache.poi/poi-scratchpad@3.8
+- pkg:maven/org.apache.poi/poi-scratchpad@3.8?classifier=sources

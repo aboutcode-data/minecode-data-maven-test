@@ -28,3 +28,7 @@
 - pkg:maven/info.cukes/cucumber-weld@1.0.0.RC23?classifier=sources
 - pkg:maven/info.cukes/cucumber-weld@1.0.0.RC24
 - pkg:maven/info.cukes/cucumber-weld@1.0.0.RC24?classifier=sources
+- pkg:maven/info.cukes/cucumber-weld@1.0.0
+- pkg:maven/info.cukes/cucumber-weld@1.0.0?classifier=sources
+- pkg:maven/info.cukes/cucumber-weld@1.0.1
+- pkg:maven/info.cukes/cucumber-weld@1.0.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.poi/poi@3.0-FINAL?classifier=sources
 - pkg:maven/org.apache.poi/poi@3.8-beta5
 - pkg:maven/org.apache.poi/poi@3.8-beta5?classifier=sources
+- pkg:maven/org.apache.poi/poi@3.8
+- pkg:maven/org.apache.poi/poi@3.8?classifier=sources
