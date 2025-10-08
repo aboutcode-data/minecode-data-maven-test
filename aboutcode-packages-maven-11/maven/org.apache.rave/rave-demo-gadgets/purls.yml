@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.8-incubating?classifier=sources
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.9-incubating?type=war
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.9-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-demo-gadgets@0.10.1?type=war
+- pkg:maven/org.apache.rave/rave-demo-gadgets@0.10.1?classifier=sources
