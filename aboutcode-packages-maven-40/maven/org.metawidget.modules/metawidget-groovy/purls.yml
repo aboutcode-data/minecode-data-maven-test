@@ -26,3 +26,5 @@
 - pkg:maven/org.metawidget.modules/metawidget-groovy@2.5?classifier=sources
 - pkg:maven/org.metawidget.modules/metawidget-groovy@3.0
 - pkg:maven/org.metawidget.modules/metawidget-groovy@3.0?classifier=sources
+- pkg:maven/org.metawidget.modules/metawidget-groovy@3.1
+- pkg:maven/org.metawidget.modules/metawidget-groovy@3.1?classifier=sources

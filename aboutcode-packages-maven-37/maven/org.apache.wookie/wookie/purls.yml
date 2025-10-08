@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.wookie/wookie@0.10.0-incubating?classifier=sources
 - pkg:maven/org.apache.wookie/wookie@0.11.0-incubating?type=war
 - pkg:maven/org.apache.wookie/wookie@0.11.0-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie@0.13.1?type=war
+- pkg:maven/org.apache.wookie/wookie@0.13.1?classifier=sources

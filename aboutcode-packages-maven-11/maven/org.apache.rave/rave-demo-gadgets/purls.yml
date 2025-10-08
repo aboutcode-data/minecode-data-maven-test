@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.18?classifier=sources
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.19?type=war
 - pkg:maven/org.apache.rave/rave-demo-gadgets@0.19?classifier=sources
+- pkg:maven/org.apache.rave/rave-demo-gadgets@0.20?type=war
+- pkg:maven/org.apache.rave/rave-demo-gadgets@0.20?classifier=sources

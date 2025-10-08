@@ -6,3 +6,5 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-chat@1.0-b09?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-chat@1.0-b10?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-chat@1.0-b10?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-chat@1.0-b11?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-chat@1.0-b11?classifier=sources
