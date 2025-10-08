@@ -1,0 +1,4 @@
+- pkg:maven/nz.ac.auckland.groupapps.common/runnable-war@1.2
+- pkg:maven/nz.ac.auckland.groupapps.common/runnable-war@1.2?classifier=sources
+- pkg:maven/nz.ac.auckland.groupapps.common/runnable-war@1.1
+- pkg:maven/nz.ac.auckland.groupapps.common/runnable-war@1.1?classifier=sources

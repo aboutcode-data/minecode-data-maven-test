@@ -1,2 +1,4 @@
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.0
 - pkg:maven/li.rudin.arduino/arduino-testsuite@2.0?classifier=sources
+- pkg:maven/li.rudin.arduino/arduino-testsuite@2.1
+- pkg:maven/li.rudin.arduino/arduino-testsuite@2.1?classifier=sources

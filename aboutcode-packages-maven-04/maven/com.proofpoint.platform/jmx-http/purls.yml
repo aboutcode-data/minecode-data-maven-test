@@ -28,3 +28,5 @@
 - pkg:maven/com.proofpoint.platform/jmx-http@0.88?classifier=sources
 - pkg:maven/com.proofpoint.platform/jmx-http@0.89
 - pkg:maven/com.proofpoint.platform/jmx-http@0.89?classifier=sources
+- pkg:maven/com.proofpoint.platform/jmx-http@0.90
+- pkg:maven/com.proofpoint.platform/jmx-http@0.90?classifier=sources

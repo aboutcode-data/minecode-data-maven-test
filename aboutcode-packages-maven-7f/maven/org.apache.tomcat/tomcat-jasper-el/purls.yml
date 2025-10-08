@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jasper-el@8.0.0-RC10?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jasper-el@7.0.50
 - pkg:maven/org.apache.tomcat/tomcat-jasper-el@7.0.50?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jasper-el@8.0.1
+- pkg:maven/org.apache.tomcat/tomcat-jasper-el@8.0.1?classifier=sources

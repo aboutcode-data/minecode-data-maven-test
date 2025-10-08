@@ -18,3 +18,5 @@
 - pkg:maven/org.atmosphere/nettosphere-assembly@2.0.2?classifier=sources
 - pkg:maven/org.atmosphere/nettosphere-assembly@2.1.0-RC2
 - pkg:maven/org.atmosphere/nettosphere-assembly@2.1.0-RC2?classifier=sources
+- pkg:maven/org.atmosphere/nettosphere-assembly@2.1.0
+- pkg:maven/org.atmosphere/nettosphere-assembly@2.1.0?classifier=sources

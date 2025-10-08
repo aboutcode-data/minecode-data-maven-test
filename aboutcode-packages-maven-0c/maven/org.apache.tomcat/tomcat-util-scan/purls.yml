@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.0-RC10
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.0-RC10?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.1
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.1?classifier=sources
