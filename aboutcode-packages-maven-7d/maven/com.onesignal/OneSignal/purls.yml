@@ -10,3 +10,7 @@
 - pkg:maven/com.onesignal/OneSignal@1.9.3?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@1.10.0?type=aar
 - pkg:maven/com.onesignal/OneSignal@1.10.0?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@1.10.3?type=aar
+- pkg:maven/com.onesignal/OneSignal@1.10.3?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@1.10.2?type=aar
+- pkg:maven/com.onesignal/OneSignal@1.10.2?classifier=sources

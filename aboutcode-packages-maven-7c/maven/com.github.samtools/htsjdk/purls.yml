@@ -14,3 +14,5 @@
 - pkg:maven/com.github.samtools/htsjdk@1.134?classifier=sources
 - pkg:maven/com.github.samtools/htsjdk@1.135
 - pkg:maven/com.github.samtools/htsjdk@1.135?classifier=sources
+- pkg:maven/com.github.samtools/htsjdk@1.136
+- pkg:maven/com.github.samtools/htsjdk@1.136?classifier=sources

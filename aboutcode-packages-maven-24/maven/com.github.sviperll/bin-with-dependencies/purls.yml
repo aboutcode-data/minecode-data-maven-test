@@ -4,3 +4,9 @@
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.7?classifier=sources
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.8
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.8?classifier=sources
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.9
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.9?classifier=sources
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.11
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.11?classifier=sources
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.10
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.10?classifier=sources
