@@ -14,3 +14,5 @@
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.1?classifier=sources
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.1.1?type=war
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.1.1?classifier=sources
+- pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.1.2?type=war
+- pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.1.2?classifier=sources

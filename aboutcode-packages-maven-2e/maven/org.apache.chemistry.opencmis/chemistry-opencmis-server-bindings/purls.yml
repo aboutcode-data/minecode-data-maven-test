@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-bindings@0.6.0?classifier=sources
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-bindings@0.7.0?type=war
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-bindings@0.7.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-bindings@0.8.0?type=war
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-bindings@0.8.0?classifier=sources

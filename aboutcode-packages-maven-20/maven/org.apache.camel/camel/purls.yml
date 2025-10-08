@@ -25,3 +25,5 @@
 - pkg:maven/org.apache.camel/camel@2.8.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.9.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.10.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.9.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.10.2?classifier=source-release&type=zip
