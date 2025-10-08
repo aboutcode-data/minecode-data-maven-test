@@ -50,3 +50,5 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.45?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.44
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.44?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.46.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@1.46.0?classifier=sources

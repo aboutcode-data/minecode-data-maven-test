@@ -1,2 +1,4 @@
 - pkg:maven/co.leantechniques/maven-buildtime-extension@1.0
 - pkg:maven/co.leantechniques/maven-buildtime-extension@1.0?classifier=sources
+- pkg:maven/co.leantechniques/maven-buildtime-extension@2.0
+- pkg:maven/co.leantechniques/maven-buildtime-extension@2.0?classifier=sources
