@@ -48,3 +48,5 @@
 - pkg:maven/org.wildfly/wildfly-embedded@8.2.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-embedded@10.0.0.Alpha6
 - pkg:maven/org.wildfly/wildfly-embedded@10.0.0.Alpha6?classifier=sources
+- pkg:maven/org.wildfly/wildfly-embedded@9.0.2.Final
+- pkg:maven/org.wildfly/wildfly-embedded@9.0.2.Final?classifier=sources
