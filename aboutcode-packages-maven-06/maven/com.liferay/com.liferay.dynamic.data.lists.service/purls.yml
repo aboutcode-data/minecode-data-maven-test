@@ -423,3 +423,6 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@1.3.16
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@1.3.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@1.3.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.39
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.39?classifier=sources-commercial

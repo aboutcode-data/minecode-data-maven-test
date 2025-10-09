@@ -238,3 +238,5 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner@1.41.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner@1.42.0
 - pkg:maven/com.google.cloud/google-cloud-spanner@1.42.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner@1.43.0
+- pkg:maven/com.google.cloud/google-cloud-spanner@1.43.0?classifier=sources

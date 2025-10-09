@@ -56,3 +56,7 @@
 - pkg:maven/com.landawn/abacus-util-se@1.9.8?classifier=sources
 - pkg:maven/com.landawn/abacus-util-se@1.9.7
 - pkg:maven/com.landawn/abacus-util-se@1.9.7?classifier=sources
+- pkg:maven/com.landawn/abacus-util-se@1.9.9
+- pkg:maven/com.landawn/abacus-util-se@1.9.9?classifier=sources
+- pkg:maven/com.landawn/abacus-util-se@1.9.10
+- pkg:maven/com.landawn/abacus-util-se@1.9.10?classifier=sources

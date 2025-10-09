@@ -26,3 +26,5 @@
 - pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@2.1.2?classifier=sources
 - pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@2.1.4
 - pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@2.1.4?classifier=sources
+- pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@2.2.0
+- pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@2.2.0?classifier=sources

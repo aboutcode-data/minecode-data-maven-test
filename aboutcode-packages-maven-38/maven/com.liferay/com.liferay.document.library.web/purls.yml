@@ -627,3 +627,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.web@2.0.54
 - pkg:maven/com.liferay/com.liferay.document.library.web@2.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@2.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.web@3.0.62
+- pkg:maven/com.liferay/com.liferay.document.library.web@3.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.web@3.0.62?classifier=sources-commercial

@@ -62,3 +62,5 @@
 - pkg:maven/com.github.oshi/oshi-core@4.0.0?classifier=sources
 - pkg:maven/com.github.oshi/oshi-core@3.13.4
 - pkg:maven/com.github.oshi/oshi-core@3.13.4?classifier=sources
+- pkg:maven/com.github.oshi/oshi-core@4.1.0
+- pkg:maven/com.github.oshi/oshi-core@4.1.0?classifier=sources

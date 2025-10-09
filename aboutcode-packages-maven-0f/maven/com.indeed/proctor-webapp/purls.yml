@@ -84,3 +84,7 @@
 - pkg:maven/com.indeed/proctor-webapp@1.8.1?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp@1.9.1?type=war
 - pkg:maven/com.indeed/proctor-webapp@1.9.1?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.4?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.4?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.3?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.3?classifier=sources
