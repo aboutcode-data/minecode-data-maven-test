@@ -24,3 +24,5 @@
 - pkg:maven/com.github.reinert/jjschema@1.7?classifier=sources
 - pkg:maven/com.github.reinert/jjschema@1.8
 - pkg:maven/com.github.reinert/jjschema@1.8?classifier=sources
+- pkg:maven/com.github.reinert/jjschema@1.10
+- pkg:maven/com.github.reinert/jjschema@1.10?classifier=sources

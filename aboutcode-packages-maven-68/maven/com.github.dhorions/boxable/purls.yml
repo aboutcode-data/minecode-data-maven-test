@@ -4,3 +4,5 @@
 - pkg:maven/com.github.dhorions/boxable@1.4?classifier=sources
 - pkg:maven/com.github.dhorions/boxable@1.5-RC
 - pkg:maven/com.github.dhorions/boxable@1.5-RC?classifier=sources
+- pkg:maven/com.github.dhorions/boxable@1.5
+- pkg:maven/com.github.dhorions/boxable@1.5?classifier=sources
