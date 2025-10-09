@@ -144,3 +144,7 @@
 - pkg:maven/org.onosproject/onos-incubator-rpc@1.11.2-rc6?classifier=sources
 - pkg:maven/org.onosproject/onos-incubator-rpc@1.10.12
 - pkg:maven/org.onosproject/onos-incubator-rpc@1.10.12?classifier=sources
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.12.1-rc2
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.12.1-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.12.1-rc1
+- pkg:maven/org.onosproject/onos-incubator-rpc@1.12.1-rc1?classifier=sources

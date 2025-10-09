@@ -22,3 +22,5 @@
 - pkg:maven/org.seleniumhq.selenium/lift@3.9.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/lift@3.10.0
 - pkg:maven/org.seleniumhq.selenium/lift@3.10.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.11.0
+- pkg:maven/org.seleniumhq.selenium/lift@3.11.0?classifier=sources

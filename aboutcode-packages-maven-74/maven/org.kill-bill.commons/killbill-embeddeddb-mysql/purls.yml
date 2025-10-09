@@ -132,3 +132,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-mysql@0.21.8?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-mysql@0.21.7
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-mysql@0.21.7?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-mysql@0.21.9
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-mysql@0.21.9?classifier=sources

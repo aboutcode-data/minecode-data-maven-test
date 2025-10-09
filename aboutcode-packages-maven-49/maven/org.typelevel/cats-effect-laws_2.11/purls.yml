@@ -46,3 +46,5 @@
 - pkg:maven/org.typelevel/cats-effect-laws_2.11@0.10-c64e7c9?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-laws_2.11@0.10-4e98208
 - pkg:maven/org.typelevel/cats-effect-laws_2.11@0.10-4e98208?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-laws_2.11@0.10
+- pkg:maven/org.typelevel/cats-effect-laws_2.11@0.10?classifier=sources

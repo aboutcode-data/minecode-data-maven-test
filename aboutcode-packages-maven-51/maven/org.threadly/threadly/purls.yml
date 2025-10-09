@@ -136,3 +136,5 @@
 - pkg:maven/org.threadly/threadly@5.13?classifier=sources
 - pkg:maven/org.threadly/threadly@5.14
 - pkg:maven/org.threadly/threadly@5.14?classifier=sources
+- pkg:maven/org.threadly/threadly@4.10.0
+- pkg:maven/org.threadly/threadly@4.10.0?classifier=sources

@@ -112,3 +112,7 @@
 - pkg:maven/org.redisson/redisson-all@3.6.2?classifier=sources
 - pkg:maven/org.redisson/redisson-all@2.11.2
 - pkg:maven/org.redisson/redisson-all@2.11.2?classifier=sources
+- pkg:maven/org.redisson/redisson-all@3.6.3
+- pkg:maven/org.redisson/redisson-all@3.6.3?classifier=sources
+- pkg:maven/org.redisson/redisson-all@2.11.3
+- pkg:maven/org.redisson/redisson-all@2.11.3?classifier=sources

@@ -78,3 +78,7 @@
 - pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.4.0-alpha08?classifier=sources
 - pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.4.0-alpha09
 - pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.4.0-alpha09?classifier=sources
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.3.4
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.3.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.2.10
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher@3.2.10?classifier=sources
