@@ -1,2 +1,4 @@
 - pkg:maven/ar.com.siripo/arcache-backend-jedis@0.0.2
 - pkg:maven/ar.com.siripo/arcache-backend-jedis@0.0.2?classifier=sources
+- pkg:maven/ar.com.siripo/arcache-backend-jedis@0.0.3
+- pkg:maven/ar.com.siripo/arcache-backend-jedis@0.0.3?classifier=sources

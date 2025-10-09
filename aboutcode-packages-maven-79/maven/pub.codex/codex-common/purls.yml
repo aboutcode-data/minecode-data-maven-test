@@ -6,3 +6,5 @@
 - pkg:maven/pub.codex/codex-common@2.2.0?classifier=sources
 - pkg:maven/pub.codex/codex-common@3.0.0.release
 - pkg:maven/pub.codex/codex-common@3.0.0.release?classifier=sources
+- pkg:maven/pub.codex/codex-common@3.0.0
+- pkg:maven/pub.codex/codex-common@3.0.0?classifier=sources

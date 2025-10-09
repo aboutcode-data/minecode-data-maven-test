@@ -26,3 +26,5 @@
 - pkg:maven/software.amazon.awssdk/codedeploy@2.0.0-preview-13?classifier=sources
 - pkg:maven/software.amazon.awssdk/codedeploy@2.1.4
 - pkg:maven/software.amazon.awssdk/codedeploy@2.1.4?classifier=sources
+- pkg:maven/software.amazon.awssdk/codedeploy@2.2.0
+- pkg:maven/software.amazon.awssdk/codedeploy@2.2.0?classifier=sources

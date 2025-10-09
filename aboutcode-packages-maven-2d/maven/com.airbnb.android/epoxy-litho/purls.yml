@@ -60,3 +60,5 @@
 - pkg:maven/com.airbnb.android/epoxy-litho@2.19.0?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-litho@3.0.0?type=aar
 - pkg:maven/com.airbnb.android/epoxy-litho@3.0.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-litho@3.1.0?type=aar
+- pkg:maven/com.airbnb.android/epoxy-litho@3.1.0?classifier=sources

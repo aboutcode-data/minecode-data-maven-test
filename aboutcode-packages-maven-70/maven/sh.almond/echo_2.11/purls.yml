@@ -18,3 +18,5 @@
 - pkg:maven/sh.almond/echo_2.11@0.1.11?classifier=sources
 - pkg:maven/sh.almond/echo_2.11@0.1.12
 - pkg:maven/sh.almond/echo_2.11@0.1.12?classifier=sources
+- pkg:maven/sh.almond/echo_2.11@0.2.0
+- pkg:maven/sh.almond/echo_2.11@0.2.0?classifier=sources
