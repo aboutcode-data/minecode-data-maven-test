@@ -72,3 +72,5 @@
 - pkg:maven/io.debezium/debezium-connector-mongodb@0.9.3.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connector-mongodb@0.9.4.Final
 - pkg:maven/io.debezium/debezium-connector-mongodb@0.9.4.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-mongodb@0.9.5.Final
+- pkg:maven/io.debezium/debezium-connector-mongodb@0.9.5.Final?classifier=sources

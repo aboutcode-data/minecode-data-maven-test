@@ -44,3 +44,5 @@
 - pkg:maven/io.aeron/aeron-cluster@1.16.0?classifier=sources
 - pkg:maven/io.aeron/aeron-cluster@1.17.0
 - pkg:maven/io.aeron/aeron-cluster@1.17.0?classifier=sources
+- pkg:maven/io.aeron/aeron-cluster@1.18.0
+- pkg:maven/io.aeron/aeron-cluster@1.18.0?classifier=sources
