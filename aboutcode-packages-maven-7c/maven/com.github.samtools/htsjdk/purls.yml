@@ -98,3 +98,5 @@
 - pkg:maven/com.github.samtools/htsjdk@2.15.0?classifier=sources
 - pkg:maven/com.github.samtools/htsjdk@2.15.1
 - pkg:maven/com.github.samtools/htsjdk@2.15.1?classifier=sources
+- pkg:maven/com.github.samtools/htsjdk@2.16.0
+- pkg:maven/com.github.samtools/htsjdk@2.16.0?classifier=sources

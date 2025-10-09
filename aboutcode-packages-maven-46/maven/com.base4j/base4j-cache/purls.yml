@@ -30,3 +30,7 @@
 - pkg:maven/com.base4j/base4j-cache@1.1.10?classifier=sources
 - pkg:maven/com.base4j/base4j-cache@1.2.2
 - pkg:maven/com.base4j/base4j-cache@1.2.2?classifier=sources
+- pkg:maven/com.base4j/base4j-cache@1.2.4-SNAPSHOT1
+- pkg:maven/com.base4j/base4j-cache@1.2.4-SNAPSHOT1?classifier=sources
+- pkg:maven/com.base4j/base4j-cache@1.2.4
+- pkg:maven/com.base4j/base4j-cache@1.2.4?classifier=sources

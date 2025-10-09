@@ -1,2 +1,4 @@
 - pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.0-testing
 - pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.0-testing?classifier=sources
+- pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.1-testing
+- pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.1-testing?classifier=sources

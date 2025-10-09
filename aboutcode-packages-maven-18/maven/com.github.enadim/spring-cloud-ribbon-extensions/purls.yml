@@ -20,3 +20,5 @@
 - pkg:maven/com.github.enadim/spring-cloud-ribbon-extensions@1.4.4?classifier=sources
 - pkg:maven/com.github.enadim/spring-cloud-ribbon-extensions@1.4.5
 - pkg:maven/com.github.enadim/spring-cloud-ribbon-extensions@1.4.5?classifier=sources
+- pkg:maven/com.github.enadim/spring-cloud-ribbon-extensions@2.0.0
+- pkg:maven/com.github.enadim/spring-cloud-ribbon-extensions@2.0.0?classifier=sources
