@@ -122,3 +122,7 @@
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.5?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.4
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.4?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.9
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.9?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.10
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.8.10?classifier=sources
