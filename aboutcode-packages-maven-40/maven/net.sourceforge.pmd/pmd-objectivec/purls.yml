@@ -56,3 +56,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-objectivec@5.8.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-objectivec@5.8.1
 - pkg:maven/net.sourceforge.pmd/pmd-objectivec@5.8.1?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-objectivec@6.0.0
+- pkg:maven/net.sourceforge.pmd/pmd-objectivec@6.0.0?classifier=sources

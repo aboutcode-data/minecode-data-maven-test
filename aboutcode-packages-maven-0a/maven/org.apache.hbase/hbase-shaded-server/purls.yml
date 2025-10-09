@@ -28,3 +28,4 @@
 - pkg:maven/org.apache.hbase/hbase-shaded-server@2.0.0-alpha2
 - pkg:maven/org.apache.hbase/hbase-shaded-server@2.0.0-alpha2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shaded-server@1.1.12
+- pkg:maven/org.apache.hbase/hbase-shaded-server@1.1.13
