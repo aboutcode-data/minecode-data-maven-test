@@ -34,3 +34,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@7.0?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@6.7.3
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@6.7.3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@7.1
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@7.1?classifier=sources

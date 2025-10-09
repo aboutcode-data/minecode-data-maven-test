@@ -1,2 +1,6 @@
 - pkg:maven/org.opensingular/singular-requirement-module@1.7.1-RC1
 - pkg:maven/org.opensingular/singular-requirement-module@1.7.1-RC1?classifier=sources
+- pkg:maven/org.opensingular/singular-requirement-module@1.7.1-RC3
+- pkg:maven/org.opensingular/singular-requirement-module@1.7.1-RC3?classifier=sources
+- pkg:maven/org.opensingular/singular-requirement-module@1.7.1-RC2
+- pkg:maven/org.opensingular/singular-requirement-module@1.7.1-RC2?classifier=sources
