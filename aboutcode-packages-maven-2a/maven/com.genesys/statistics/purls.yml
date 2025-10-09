@@ -582,3 +582,5 @@
 - pkg:maven/com.genesys/statistics@1.0.367?classifier=sources
 - pkg:maven/com.genesys/statistics@1.0.369
 - pkg:maven/com.genesys/statistics@1.0.369?classifier=sources
+- pkg:maven/com.genesys/statistics@9.0.0
+- pkg:maven/com.genesys/statistics@9.0.0?classifier=sources

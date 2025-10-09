@@ -356,3 +356,5 @@
 - pkg:maven/com.genesys/authentication@1.0.389?classifier=sources
 - pkg:maven/com.genesys/authentication@1.0.390
 - pkg:maven/com.genesys/authentication@1.0.390?classifier=sources
+- pkg:maven/com.genesys/authentication@9.0.0
+- pkg:maven/com.genesys/authentication@9.0.0?classifier=sources
