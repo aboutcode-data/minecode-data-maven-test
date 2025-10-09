@@ -64,3 +64,5 @@
 - pkg:maven/software.amazon.awscdk/cloudtrail@0.27.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudtrail@0.28.0
 - pkg:maven/software.amazon.awscdk/cloudtrail@0.28.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudtrail@0.29.0
+- pkg:maven/software.amazon.awscdk/cloudtrail@0.29.0?classifier=sources
