@@ -75,3 +75,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@2.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@2.3.0
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@2.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@3.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@3.0.0?classifier=sources
