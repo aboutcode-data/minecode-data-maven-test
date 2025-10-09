@@ -8,3 +8,9 @@
 - pkg:maven/software.amazon.awssdk/sdk-core@2.0.2?classifier=sources
 - pkg:maven/software.amazon.awssdk/sdk-core@2.0.0-preview-12
 - pkg:maven/software.amazon.awssdk/sdk-core@2.0.0-preview-12?classifier=sources
+- pkg:maven/software.amazon.awssdk/sdk-core@2.0.5
+- pkg:maven/software.amazon.awssdk/sdk-core@2.0.5?classifier=sources
+- pkg:maven/software.amazon.awssdk/sdk-core@2.0.4
+- pkg:maven/software.amazon.awssdk/sdk-core@2.0.4?classifier=sources
+- pkg:maven/software.amazon.awssdk/sdk-core@2.0.3
+- pkg:maven/software.amazon.awssdk/sdk-core@2.0.3?classifier=sources

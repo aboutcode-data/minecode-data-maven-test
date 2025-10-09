@@ -74,3 +74,5 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@6.6.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@6.7.0-rc2
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@6.7.0-rc2?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs@6.6.3
+- pkg:maven/com.atlassian.bamboo/bamboo-specs@6.6.3?classifier=sources

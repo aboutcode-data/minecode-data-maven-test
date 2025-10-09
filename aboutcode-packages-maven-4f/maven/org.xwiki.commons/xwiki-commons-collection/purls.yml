@@ -1,2 +1,4 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@10.8-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@10.8-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-collection@10.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-collection@10.8?classifier=sources

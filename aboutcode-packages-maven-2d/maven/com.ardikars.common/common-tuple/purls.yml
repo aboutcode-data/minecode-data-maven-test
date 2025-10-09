@@ -1,2 +1,4 @@
 - pkg:maven/com.ardikars.common/common-tuple@1.2.0.RC4
 - pkg:maven/com.ardikars.common/common-tuple@1.2.0.RC4?classifier=sources
+- pkg:maven/com.ardikars.common/common-tuple@1.2.0.Final
+- pkg:maven/com.ardikars.common/common-tuple@1.2.0.Final?classifier=sources
