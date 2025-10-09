@@ -302,3 +302,6 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.service@4.2.7
 - pkg:maven/com.liferay/com.liferay.exportimport.service@4.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.service@4.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.service@4.2.8
+- pkg:maven/com.liferay/com.liferay.exportimport.service@4.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.service@4.2.8?classifier=sources-commercial

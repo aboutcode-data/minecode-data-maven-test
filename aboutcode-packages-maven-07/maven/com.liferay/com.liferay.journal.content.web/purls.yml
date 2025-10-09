@@ -192,3 +192,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.content.web@2.0.29
 - pkg:maven/com.liferay/com.liferay.journal.content.web@2.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.web@2.0.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.content.web@3.0.18
+- pkg:maven/com.liferay/com.liferay.journal.content.web@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.content.web@3.0.18?classifier=sources-commercial

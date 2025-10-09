@@ -3940,3 +3940,7 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20181101-1.26.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20181101-1.26.0
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20181101-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20181101-1.27.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20181101-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20181101-1.27.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20181101-1.27.0?classifier=sources
