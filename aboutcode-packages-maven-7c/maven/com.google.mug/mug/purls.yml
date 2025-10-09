@@ -24,3 +24,5 @@
 - pkg:maven/com.google.mug/mug@1.12?classifier=sources
 - pkg:maven/com.google.mug/mug@1.14
 - pkg:maven/com.google.mug/mug@1.14?classifier=sources
+- pkg:maven/com.google.mug/mug@2.0
+- pkg:maven/com.google.mug/mug@2.0?classifier=sources

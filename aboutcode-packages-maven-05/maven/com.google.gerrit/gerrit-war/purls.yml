@@ -97,3 +97,5 @@
 - pkg:maven/com.google.gerrit/gerrit-war@2.12.9?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.11.12?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.10.8?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.16.4?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.15.9?type=war
