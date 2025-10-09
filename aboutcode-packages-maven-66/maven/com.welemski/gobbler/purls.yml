@@ -34,3 +34,5 @@
 - pkg:maven/com.welemski/gobbler@1.0.15-RELEASE?classifier=sources
 - pkg:maven/com.welemski/gobbler@1.0.17-RELEASE
 - pkg:maven/com.welemski/gobbler@1.0.17-RELEASE?classifier=sources
+- pkg:maven/com.welemski/gobbler@1.0.18
+- pkg:maven/com.welemski/gobbler@1.0.18?classifier=sources
