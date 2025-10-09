@@ -36,3 +36,5 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.9.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.10.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.10.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.11.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.11.0.RELEASE?classifier=sources

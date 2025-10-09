@@ -4,3 +4,7 @@
 - pkg:maven/org.datasyslab/babylon@0.1.2-snapshot?classifier=sources
 - pkg:maven/org.datasyslab/babylon@0.1.1-spark-1.x
 - pkg:maven/org.datasyslab/babylon@0.1.1-spark-1.x?classifier=sources
+- pkg:maven/org.datasyslab/babylon@0.2.0-spark-1.x
+- pkg:maven/org.datasyslab/babylon@0.2.0-spark-1.x?classifier=sources
+- pkg:maven/org.datasyslab/babylon@0.2.0
+- pkg:maven/org.datasyslab/babylon@0.2.0?classifier=sources

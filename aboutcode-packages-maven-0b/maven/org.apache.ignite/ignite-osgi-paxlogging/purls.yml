@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.ignite/ignite-osgi-paxlogging@1.8.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-osgi-paxlogging@1.9.0
 - pkg:maven/org.apache.ignite/ignite-osgi-paxlogging@1.9.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-osgi-paxlogging@2.0.0
+- pkg:maven/org.apache.ignite/ignite-osgi-paxlogging@2.0.0?classifier=sources

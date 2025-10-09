@@ -1,2 +1,4 @@
 - pkg:maven/org.clojure/spec.alpha@0.1.94
 - pkg:maven/org.clojure/spec.alpha@0.1.94?classifier=sources
+- pkg:maven/org.clojure/spec.alpha@0.1.108
+- pkg:maven/org.clojure/spec.alpha@0.1.108?classifier=sources
