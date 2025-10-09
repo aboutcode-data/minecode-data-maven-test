@@ -1,2 +1,6 @@
 - pkg:maven/ru.i-novus.components/versioned-data-storage-spring-adapter@2.8
 - pkg:maven/ru.i-novus.components/versioned-data-storage-spring-adapter@2.8?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-spring-adapter@2.10
+- pkg:maven/ru.i-novus.components/versioned-data-storage-spring-adapter@2.10?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-spring-adapter@1.9
+- pkg:maven/ru.i-novus.components/versioned-data-storage-spring-adapter@1.9?classifier=sources

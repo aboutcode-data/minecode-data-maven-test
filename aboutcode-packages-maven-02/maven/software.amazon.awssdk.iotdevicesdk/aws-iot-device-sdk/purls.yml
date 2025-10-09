@@ -10,3 +10,7 @@
 - pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.2.7?classifier=sources
 - pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.2.8
 - pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.2.8?classifier=sources
+- pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.3.1
+- pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.3.1?classifier=sources
+- pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.3.0
+- pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk@0.3.0?classifier=sources

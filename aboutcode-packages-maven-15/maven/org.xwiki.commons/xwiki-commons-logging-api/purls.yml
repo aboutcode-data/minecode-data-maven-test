@@ -550,3 +550,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-api@11.9?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-api@11.3.6
 - pkg:maven/org.xwiki.commons/xwiki-commons-logging-api@11.3.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-logging-api@10.11.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-logging-api@10.11.10?classifier=sources

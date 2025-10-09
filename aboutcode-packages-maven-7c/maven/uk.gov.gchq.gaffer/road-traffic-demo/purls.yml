@@ -130,3 +130,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.10.1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.10.2?type=war
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.10.2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.10.3?type=war
+- pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.10.3?classifier=sources
