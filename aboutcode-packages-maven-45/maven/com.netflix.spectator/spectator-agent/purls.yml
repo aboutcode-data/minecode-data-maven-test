@@ -146,3 +146,5 @@
 - pkg:maven/com.netflix.spectator/spectator-agent@0.98.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-agent@0.99.0
 - pkg:maven/com.netflix.spectator/spectator-agent@0.99.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-agent@0.99.1
+- pkg:maven/com.netflix.spectator/spectator-agent@0.99.1?classifier=sources

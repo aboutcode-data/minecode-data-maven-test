@@ -1,0 +1,4 @@
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.4.6
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.4.6?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.4.0
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.4.0?classifier=sources

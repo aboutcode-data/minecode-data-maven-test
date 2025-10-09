@@ -60,3 +60,5 @@
 - pkg:maven/com.netflix.eureka/eureka-core-jersey2@1.9.11?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-core-jersey2@1.9.13
 - pkg:maven/com.netflix.eureka/eureka-core-jersey2@1.9.13?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-core-jersey2@1.9.14
+- pkg:maven/com.netflix.eureka/eureka-core-jersey2@1.9.14?classifier=sources

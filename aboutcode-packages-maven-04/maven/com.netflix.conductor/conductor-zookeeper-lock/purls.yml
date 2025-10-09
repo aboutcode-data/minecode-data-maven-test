@@ -24,3 +24,7 @@
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.16.6-alpha?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.18.1-alpha.4
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.18.1-alpha.4?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.21.0
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.21.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.20.0
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.20.0?classifier=sources

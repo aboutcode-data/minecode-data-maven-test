@@ -396,3 +396,7 @@
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.18.1-alpha.5?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.18.1-alpha.4
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.18.1-alpha.4?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.21.0
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.21.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.20.0
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.20.0?classifier=sources

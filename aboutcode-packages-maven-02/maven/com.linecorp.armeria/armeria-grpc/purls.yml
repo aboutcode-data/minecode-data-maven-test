@@ -146,3 +146,4 @@
 - pkg:maven/com.linecorp.armeria/armeria-grpc@0.94.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-grpc@0.95.0
 - pkg:maven/com.linecorp.armeria/armeria-grpc@0.95.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-grpc@0.96.0?classifier=sources
