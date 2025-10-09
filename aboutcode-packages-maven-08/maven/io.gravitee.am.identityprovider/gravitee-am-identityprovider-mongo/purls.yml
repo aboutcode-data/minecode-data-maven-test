@@ -28,3 +28,5 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@2.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@2.3.0?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@2.3.0?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@2.4.0?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@2.4.0?classifier=sources

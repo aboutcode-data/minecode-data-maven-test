@@ -201,3 +201,5 @@
 - pkg:maven/io.jboot/jboot@2.0-rc.14?classifier=sources
 - pkg:maven/io.jboot/jboot@2.0-rc.13
 - pkg:maven/io.jboot/jboot@2.0-rc.13?classifier=sources
+- pkg:maven/io.jboot/jboot@2.0
+- pkg:maven/io.jboot/jboot@2.0?classifier=sources
