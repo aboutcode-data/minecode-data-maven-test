@@ -118,3 +118,5 @@
 - pkg:maven/com.scireum/sirius-search@9.3?classifier=sources
 - pkg:maven/com.scireum/sirius-search@1.12
 - pkg:maven/com.scireum/sirius-search@1.12?classifier=sources
+- pkg:maven/com.scireum/sirius-search@8.0.3
+- pkg:maven/com.scireum/sirius-search@8.0.3?classifier=sources

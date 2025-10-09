@@ -32,3 +32,5 @@
 - pkg:maven/com.infotel.seleniumRobot/core@2.7.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@3.0.0?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@3.0.0?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@3.1.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@3.1.0?classifier=sources

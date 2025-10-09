@@ -47,3 +47,5 @@
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@3.9.1?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@3.9.0
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@3.9.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/java-sdk@4.0.0
+- pkg:maven/com.ibm.watson.developer_cloud/java-sdk@4.0.0?classifier=sources

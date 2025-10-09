@@ -6,3 +6,5 @@
 - pkg:maven/com.redfin/insist@0.2.0-beta?classifier=sources
 - pkg:maven/com.redfin/insist@1.1.0
 - pkg:maven/com.redfin/insist@1.1.0?classifier=sources
+- pkg:maven/com.redfin/insist@1.2.0
+- pkg:maven/com.redfin/insist@1.2.0?classifier=sources
