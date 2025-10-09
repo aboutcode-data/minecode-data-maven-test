@@ -190,3 +190,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.91.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.92.0
 - pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.92.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.92.1
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.92.1?classifier=sources
