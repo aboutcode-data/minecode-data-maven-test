@@ -90,3 +90,7 @@
 - pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.12?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.12-standalone
 - pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.12-standalone?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.13-standalone
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.13-standalone?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.13
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.1.13?classifier=sources

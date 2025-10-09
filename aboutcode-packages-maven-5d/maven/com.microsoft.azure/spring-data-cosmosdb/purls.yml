@@ -16,3 +16,5 @@
 - pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.1.2?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.7
 - pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.7?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.1.7
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.1.7?classifier=sources

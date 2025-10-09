@@ -93,3 +93,5 @@
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.14?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.15
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.15?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.0.0
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.0.0?classifier=sources
