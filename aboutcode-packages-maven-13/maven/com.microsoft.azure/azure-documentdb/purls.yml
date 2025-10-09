@@ -56,3 +56,5 @@
 - pkg:maven/com.microsoft.azure/azure-documentdb@1.12.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-documentdb@1.13.0
 - pkg:maven/com.microsoft.azure/azure-documentdb@1.13.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.14.0
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.14.0?classifier=sources

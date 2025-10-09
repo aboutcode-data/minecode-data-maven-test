@@ -26,3 +26,5 @@
 - pkg:maven/com.linecorp.bot/line-bot-servlet@1.9.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-servlet@1.10.0
 - pkg:maven/com.linecorp.bot/line-bot-servlet@1.10.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-servlet@1.11.0
+- pkg:maven/com.linecorp.bot/line-bot-servlet@1.11.0?classifier=sources

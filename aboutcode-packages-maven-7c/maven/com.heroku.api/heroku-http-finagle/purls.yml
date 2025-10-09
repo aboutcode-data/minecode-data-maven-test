@@ -32,3 +32,11 @@
 - pkg:maven/com.heroku.api/heroku-http-finagle@0.26?classifier=sources
 - pkg:maven/com.heroku.api/heroku-http-finagle@0.25
 - pkg:maven/com.heroku.api/heroku-http-finagle@0.25?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.30
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.30?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.29
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.29?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.28
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.28?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.27
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.27?classifier=sources
