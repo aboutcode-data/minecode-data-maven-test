@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.che.docs/che-docs@7.0.0-beta-4.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che.docs/che-docs@7.0.0-beta-5.0?type=war
 - pkg:maven/org.eclipse.che.docs/che-docs@7.0.0-beta-5.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.docs/che-docs@7.0.0-RC-1.0?type=war
+- pkg:maven/org.eclipse.che.docs/che-docs@7.0.0-RC-1.0?classifier=source-release&type=zip

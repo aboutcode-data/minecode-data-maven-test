@@ -175,3 +175,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@7.2.9?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@7.2.10?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@7.2.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@6.0.12?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@6.0.12?classifier=sources

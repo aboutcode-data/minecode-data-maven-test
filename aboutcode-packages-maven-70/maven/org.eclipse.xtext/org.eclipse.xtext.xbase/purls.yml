@@ -90,3 +90,5 @@
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase@2.18.0.M2?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase@2.18.0.M3
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase@2.18.0.M3?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase@2.18.0
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase@2.18.0?classifier=sources

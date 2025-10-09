@@ -56,3 +56,5 @@
 - pkg:maven/org.eclipse.che.core/che-core-api-ssh@6.19.4?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-api-ssh@6.19.5
 - pkg:maven/org.eclipse.che.core/che-core-api-ssh@6.19.5?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-ssh@7.0.0-RC-1.0
+- pkg:maven/org.eclipse.che.core/che-core-api-ssh@7.0.0-RC-1.0?classifier=sources

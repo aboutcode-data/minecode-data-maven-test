@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@7.0.0-beta-4.0?classifier=sources
 - pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@7.0.0-beta-5.0?type=zip
 - pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@7.0.0-beta-5.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@7.0.0-RC-1.0?type=zip
+- pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@7.0.0-RC-1.0?classifier=sources

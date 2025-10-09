@@ -96,3 +96,5 @@
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.gwt@2.18.0.M2?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.gwt@2.18.0.M3
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.gwt@2.18.0.M3?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.gwt@2.18.0
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.gwt@2.18.0?classifier=sources
