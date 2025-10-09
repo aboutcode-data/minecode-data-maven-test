@@ -17,3 +17,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.3.0-rc1
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.2.6
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.1.7
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.3.0
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.3.0?classifier=sources

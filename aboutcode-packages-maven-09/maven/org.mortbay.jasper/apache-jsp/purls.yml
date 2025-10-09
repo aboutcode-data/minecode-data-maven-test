@@ -28,3 +28,5 @@
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.9.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.20
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.20?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-jsp@8.5.23
+- pkg:maven/org.mortbay.jasper/apache-jsp@8.5.23?classifier=sources

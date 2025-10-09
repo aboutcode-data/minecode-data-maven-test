@@ -304,3 +304,5 @@
 - pkg:maven/org.scala-lang/scala-compiler@2.13.0-M2?classifier=sources
 - pkg:maven/org.scala-lang/scala-compiler@2.12.3
 - pkg:maven/org.scala-lang/scala-compiler@2.12.3?classifier=sources
+- pkg:maven/org.scala-lang/scala-compiler@2.12.4
+- pkg:maven/org.scala-lang/scala-compiler@2.12.4?classifier=sources

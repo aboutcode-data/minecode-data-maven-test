@@ -8,3 +8,5 @@
 - pkg:maven/org.vivoweb/orcid-api-client@0.5.1?classifier=sources
 - pkg:maven/org.vivoweb/orcid-api-client@0.6.0
 - pkg:maven/org.vivoweb/orcid-api-client@0.6.0?classifier=sources
+- pkg:maven/org.vivoweb/orcid-api-client@0.6.0-hc425
+- pkg:maven/org.vivoweb/orcid-api-client@0.6.0-hc425?classifier=sources

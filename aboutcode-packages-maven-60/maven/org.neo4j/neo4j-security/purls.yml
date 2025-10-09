@@ -130,3 +130,5 @@
 - pkg:maven/org.neo4j/neo4j-security@3.1.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-security@3.0.12
 - pkg:maven/org.neo4j/neo4j-security@3.0.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j-security@3.3.0
+- pkg:maven/org.neo4j/neo4j-security@3.3.0?classifier=sources
