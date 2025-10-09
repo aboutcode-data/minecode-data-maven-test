@@ -1,0 +1,4 @@
+- pkg:maven/com.iheart/thomas-mongo_2.12@0.13
+- pkg:maven/com.iheart/thomas-mongo_2.12@0.13?classifier=sources
+- pkg:maven/com.iheart/thomas-mongo_2.12@0.12
+- pkg:maven/com.iheart/thomas-mongo_2.12@0.12?classifier=sources

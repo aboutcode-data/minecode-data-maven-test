@@ -534,3 +534,7 @@
 - pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20180801-1.26.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20180801-1.27.0
 - pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20180801-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20181114-1.27.0
+- pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20181114-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20181114-1.26.0
+- pkg:maven/com.google.apis/google-api-services-clouddebugger@v2-rev20181114-1.26.0?classifier=sources

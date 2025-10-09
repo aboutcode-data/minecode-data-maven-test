@@ -1688,3 +1688,7 @@
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20181015-1.27.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20180813-1.27.0
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20180813-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20181115-1.27.0
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20181115-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20181115-1.26.0
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20181115-1.26.0?classifier=sources

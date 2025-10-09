@@ -135,3 +135,6 @@
 - pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.0.11?type=aar
 - pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.0.11?classifier=sources
 - pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.0.13?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.0.13?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.0.12?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.0.12?classifier=sources
