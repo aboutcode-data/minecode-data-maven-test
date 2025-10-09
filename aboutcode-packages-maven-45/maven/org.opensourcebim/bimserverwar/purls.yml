@@ -124,3 +124,5 @@
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.71?classifier=sources
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.72?type=war
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.72?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.74?type=war
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.74?classifier=sources
