@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-bdb-link-store@7.0.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-bdb-link-store@7.0.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-bdb-link-store@7.0.1
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-bdb-link-store@7.0.1?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-transports-websocket@3.1.14?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-transports-websocket@3.0.16
 - pkg:maven/org.apache.cxf/cxf-rt-transports-websocket@3.0.16?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-transports-websocket@3.2.2
+- pkg:maven/org.apache.cxf/cxf-rt-transports-websocket@3.2.2?classifier=sources

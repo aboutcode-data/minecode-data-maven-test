@@ -90,3 +90,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@4.7.4?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@4.9.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@4.9.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@4.10.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-model@4.10.0?classifier=sources

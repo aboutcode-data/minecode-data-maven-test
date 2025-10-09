@@ -346,3 +346,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-lucene@1.8.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-lucene@1.0.41
 - pkg:maven/org.apache.jackrabbit/oak-lucene@1.0.41?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-lucene@1.8.2
+- pkg:maven/org.apache.jackrabbit/oak-lucene@1.8.2?classifier=sources
