@@ -6,3 +6,4 @@
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@3.8?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@3.9?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@3.10?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-java-plugin@3.11?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.sonarsource.java/java-squid@3.9?classifier=sources
 - pkg:maven/org.sonarsource.java/java-squid@3.10
 - pkg:maven/org.sonarsource.java/java-squid@3.10?classifier=sources
+- pkg:maven/org.sonarsource.java/java-squid@3.11
+- pkg:maven/org.sonarsource.java/java-squid@3.11?classifier=sources
