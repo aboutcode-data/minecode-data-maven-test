@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.3.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20170414
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20170414?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.5.v20170502
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.5.v20170502?classifier=sources

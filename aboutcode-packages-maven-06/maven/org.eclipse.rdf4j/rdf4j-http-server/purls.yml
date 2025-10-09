@@ -44,3 +44,5 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-http-server@2.1.5?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-http-server@2.2?type=war
 - pkg:maven/org.eclipse.rdf4j/rdf4j-http-server@2.2?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-http-server@2.2.1?type=war
+- pkg:maven/org.eclipse.rdf4j/rdf4j-http-server@2.2.1?classifier=sources

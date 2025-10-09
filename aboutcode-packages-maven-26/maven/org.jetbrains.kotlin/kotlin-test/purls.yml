@@ -40,3 +40,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.2-2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.2
 - pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.2-3
+- pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.2-3?classifier=sources
