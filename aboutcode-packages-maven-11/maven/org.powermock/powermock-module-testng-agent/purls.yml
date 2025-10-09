@@ -56,3 +56,5 @@
 - pkg:maven/org.powermock/powermock-module-testng-agent@2.0.0-RC.4?classifier=sources
 - pkg:maven/org.powermock/powermock-module-testng-agent@2.0.0
 - pkg:maven/org.powermock/powermock-module-testng-agent@2.0.0?classifier=sources
+- pkg:maven/org.powermock/powermock-module-testng-agent@2.0.2
+- pkg:maven/org.powermock/powermock-module-testng-agent@2.0.2?classifier=sources

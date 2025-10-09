@@ -108,3 +108,7 @@
 - pkg:maven/org.spincast/spincast-plugins-http-client@1.4.1?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-http-client@1.4.0
 - pkg:maven/org.spincast/spincast-plugins-http-client@1.4.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client@1.6.0
+- pkg:maven/org.spincast/spincast-plugins-http-client@1.6.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client@1.5.1
+- pkg:maven/org.spincast/spincast-plugins-http-client@1.5.1?classifier=sources

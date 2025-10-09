@@ -110,3 +110,5 @@
 - pkg:maven/org.zalando/logbook-servlet@1.12.0?classifier=sources
 - pkg:maven/org.zalando/logbook-servlet@1.13.0
 - pkg:maven/org.zalando/logbook-servlet@1.13.0?classifier=sources
+- pkg:maven/org.zalando/logbook-servlet@2.0.0-RC.0
+- pkg:maven/org.zalando/logbook-servlet@2.0.0-RC.0?classifier=sources

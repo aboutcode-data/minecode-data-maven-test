@@ -34,3 +34,7 @@
 - pkg:maven/org.protelis/protelis-test@11.0.0-beta%2B145.6451?classifier=sources
 - pkg:maven/org.protelis/protelis-test@10.7.0%2B145.bdbf132
 - pkg:maven/org.protelis/protelis-test@10.7.0%2B145.bdbf132?classifier=sources
+- pkg:maven/org.protelis/protelis-test@11.0.0-j7
+- pkg:maven/org.protelis/protelis-test@11.0.0-j7?classifier=sources
+- pkg:maven/org.protelis/protelis-test@11.0.0
+- pkg:maven/org.protelis/protelis-test@11.0.0?classifier=sources

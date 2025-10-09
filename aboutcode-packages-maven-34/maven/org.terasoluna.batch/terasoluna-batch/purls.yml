@@ -52,3 +52,5 @@
 - pkg:maven/org.terasoluna.batch/terasoluna-batch@5.2.1.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.batch/terasoluna-batch@5.1.2.RC4
 - pkg:maven/org.terasoluna.batch/terasoluna-batch@5.1.2.RC4?classifier=sources
+- pkg:maven/org.terasoluna.batch/terasoluna-batch@5.1.2.RELEASE
+- pkg:maven/org.terasoluna.batch/terasoluna-batch@5.1.2.RELEASE?classifier=sources

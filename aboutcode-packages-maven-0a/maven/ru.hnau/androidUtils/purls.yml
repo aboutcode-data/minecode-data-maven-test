@@ -158,3 +158,5 @@
 - pkg:maven/ru.hnau/androidUtils@1.7.9?classifier=sources
 - pkg:maven/ru.hnau/androidUtils@1.7.8?type=aar
 - pkg:maven/ru.hnau/androidUtils@1.7.8?classifier=sources
+- pkg:maven/ru.hnau/androidUtils@1.8.0?type=aar
+- pkg:maven/ru.hnau/androidUtils@1.8.0?classifier=sources

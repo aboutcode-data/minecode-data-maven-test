@@ -5,3 +5,5 @@
 - pkg:maven/pl.droidsonroids.foqa/deviceinfo@0.0.7?classifier=sources
 - pkg:maven/pl.droidsonroids.foqa/deviceinfo@0.0.9?type=aar
 - pkg:maven/pl.droidsonroids.foqa/deviceinfo@0.0.9?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/deviceinfo@0.0.10?type=aar
+- pkg:maven/pl.droidsonroids.foqa/deviceinfo@0.0.10?classifier=sources

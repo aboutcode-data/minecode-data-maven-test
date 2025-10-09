@@ -156,3 +156,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@8.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.12.0
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@8.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@8.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@7.13.0
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@7.13.0?classifier=sources
