@@ -1,2 +1,4 @@
 - pkg:maven/org.molgenis/molgenis-frontend@8.0.4
 - pkg:maven/org.molgenis/molgenis-frontend@8.0.4?classifier=sources
+- pkg:maven/org.molgenis/molgenis-frontend@8.1.1
+- pkg:maven/org.molgenis/molgenis-frontend@8.1.1?classifier=sources

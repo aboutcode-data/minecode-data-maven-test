@@ -22,3 +22,5 @@
 - pkg:maven/org.opencms/opencms-test@10.5.3?classifier=sources
 - pkg:maven/org.opencms/opencms-test@10.5.4
 - pkg:maven/org.opencms/opencms-test@10.5.4?classifier=sources
+- pkg:maven/org.opencms/opencms-test@11.0.0
+- pkg:maven/org.opencms/opencms-test@11.0.0?classifier=sources
