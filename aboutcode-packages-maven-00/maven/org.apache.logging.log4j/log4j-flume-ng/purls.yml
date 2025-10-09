@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.logging.log4j/log4j-flume-ng@2.6.2?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-flume-ng@2.7
 - pkg:maven/org.apache.logging.log4j/log4j-flume-ng@2.7?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-flume-ng@2.8
+- pkg:maven/org.apache.logging.log4j/log4j-flume-ng@2.8?classifier=sources
