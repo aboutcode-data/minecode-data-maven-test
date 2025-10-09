@@ -42,3 +42,5 @@
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.5.0-alpha4?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.5.0-alpha5
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.5.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.5.0
+- pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.5.0?classifier=sources
