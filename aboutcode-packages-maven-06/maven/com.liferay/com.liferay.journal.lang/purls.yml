@@ -77,3 +77,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.lang@2.0.17
 - pkg:maven/com.liferay/com.liferay.journal.lang@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.lang@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.lang@3.0.13
+- pkg:maven/com.liferay/com.liferay.journal.lang@3.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.lang@3.0.13?classifier=sources-commercial
