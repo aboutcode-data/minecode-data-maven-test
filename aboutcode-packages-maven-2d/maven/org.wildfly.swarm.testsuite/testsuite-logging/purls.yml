@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly.swarm.testsuite/testsuite-logging@2017.9.4
 - pkg:maven/org.wildfly.swarm.testsuite/testsuite-logging@2017.9.4?classifier=sources
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-logging@2017.9.5
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-logging@2017.9.5?classifier=sources

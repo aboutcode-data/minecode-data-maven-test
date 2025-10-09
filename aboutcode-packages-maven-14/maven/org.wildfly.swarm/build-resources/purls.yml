@@ -16,3 +16,5 @@
 - pkg:maven/org.wildfly.swarm/build-resources@2017.8.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/build-resources@2017.9.4
 - pkg:maven/org.wildfly.swarm/build-resources@2017.9.4?classifier=sources
+- pkg:maven/org.wildfly.swarm/build-resources@2017.9.5
+- pkg:maven/org.wildfly.swarm/build-resources@2017.9.5?classifier=sources

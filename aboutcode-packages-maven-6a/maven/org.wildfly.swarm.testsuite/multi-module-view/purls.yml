@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly.swarm.testsuite/multi-module-view@2017.9.4?type=war
 - pkg:maven/org.wildfly.swarm.testsuite/multi-module-view@2017.9.4?classifier=sources
+- pkg:maven/org.wildfly.swarm.testsuite/multi-module-view@2017.9.5?type=war
+- pkg:maven/org.wildfly.swarm.testsuite/multi-module-view@2017.9.5?classifier=sources
