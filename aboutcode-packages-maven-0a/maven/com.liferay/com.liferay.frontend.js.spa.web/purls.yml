@@ -267,3 +267,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.13
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.23
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.23?classifier=sources-commercial

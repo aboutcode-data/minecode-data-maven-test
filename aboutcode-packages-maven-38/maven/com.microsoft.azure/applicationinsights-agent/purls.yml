@@ -2,3 +2,5 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@2.5.0-BETA?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@2.5.0-BETA.2
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@2.5.0-BETA.2?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@2.4.1
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@2.4.1?classifier=sources

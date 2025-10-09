@@ -190,3 +190,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.api@2.13.11
 - pkg:maven/com.liferay/com.liferay.journal.api@2.13.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.api@2.13.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.api@2.13.12
+- pkg:maven/com.liferay/com.liferay.journal.api@2.13.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.api@2.13.12?classifier=sources-commercial

@@ -76,3 +76,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@2.0.12
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@1.0.15
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@1.0.15?classifier=sources-commercial

@@ -370,3 +370,9 @@
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@2.0.46
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@2.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@2.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.26
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.25
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.25?classifier=sources-commercial

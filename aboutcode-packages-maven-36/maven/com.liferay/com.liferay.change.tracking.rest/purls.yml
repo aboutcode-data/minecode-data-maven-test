@@ -58,3 +58,6 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.rest@1.0.17
 - pkg:maven/com.liferay/com.liferay.change.tracking.rest@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.rest@1.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.change.tracking.rest@1.0.20
+- pkg:maven/com.liferay/com.liferay.change.tracking.rest@1.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.rest@1.0.20?classifier=sources-commercial
