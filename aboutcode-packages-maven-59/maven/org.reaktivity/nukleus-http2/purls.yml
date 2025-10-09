@@ -200,3 +200,5 @@
 - pkg:maven/org.reaktivity/nukleus-http2@0.99?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-http2@0.100
 - pkg:maven/org.reaktivity/nukleus-http2@0.100?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-http2@0.101
+- pkg:maven/org.reaktivity/nukleus-http2@0.101?classifier=sources

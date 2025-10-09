@@ -38,3 +38,5 @@
 - pkg:maven/org.seleniumhq.selenium/lift@3.141.59?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/lift@4.0.0-alpha-1
 - pkg:maven/org.seleniumhq.selenium/lift@4.0.0-alpha-1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@4.0.0-alpha-2
+- pkg:maven/org.seleniumhq.selenium/lift@4.0.0-alpha-2?classifier=sources

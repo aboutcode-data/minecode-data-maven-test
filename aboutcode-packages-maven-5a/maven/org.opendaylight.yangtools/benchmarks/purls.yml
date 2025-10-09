@@ -30,3 +30,5 @@
 - pkg:maven/org.opendaylight.yangtools/benchmarks@3.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/benchmarks@2.0.21
 - pkg:maven/org.opendaylight.yangtools/benchmarks@2.0.21?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/benchmarks@2.1.11
+- pkg:maven/org.opendaylight.yangtools/benchmarks@2.1.11?classifier=sources

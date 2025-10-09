@@ -24,3 +24,5 @@
 - pkg:maven/org.tentackle/tentackle-database@8.2.4.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-database@8.2.5.0
 - pkg:maven/org.tentackle/tentackle-database@8.2.5.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-database@11.4.0.0
+- pkg:maven/org.tentackle/tentackle-database@11.4.0.0?classifier=sources
