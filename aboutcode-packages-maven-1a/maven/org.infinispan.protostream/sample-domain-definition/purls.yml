@@ -128,3 +128,5 @@
 - pkg:maven/org.infinispan.protostream/sample-domain-definition@4.1.4.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/sample-domain-definition@4.2.0.CR2
 - pkg:maven/org.infinispan.protostream/sample-domain-definition@4.2.0.CR2?classifier=sources
+- pkg:maven/org.infinispan.protostream/sample-domain-definition@4.2.0.Final
+- pkg:maven/org.infinispan.protostream/sample-domain-definition@4.2.0.Final?classifier=sources

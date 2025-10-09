@@ -58,3 +58,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.1.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.2.1.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.3.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.3.0.Alpha1?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.elasticsearch.plugin/transport-netty3-client@5.6.7?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/transport-netty3-client@5.6.8
 - pkg:maven/org.elasticsearch.plugin/transport-netty3-client@5.6.8?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/transport-netty3-client@5.6.9
+- pkg:maven/org.elasticsearch.plugin/transport-netty3-client@5.6.9?classifier=sources

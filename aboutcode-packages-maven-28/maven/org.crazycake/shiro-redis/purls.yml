@@ -60,3 +60,5 @@
 - pkg:maven/org.crazycake/shiro-redis@2.8.14?classifier=sources
 - pkg:maven/org.crazycake/shiro-redis@2.8.12
 - pkg:maven/org.crazycake/shiro-redis@2.8.12?classifier=sources
+- pkg:maven/org.crazycake/shiro-redis@3.0.0
+- pkg:maven/org.crazycake/shiro-redis@3.0.0?classifier=sources

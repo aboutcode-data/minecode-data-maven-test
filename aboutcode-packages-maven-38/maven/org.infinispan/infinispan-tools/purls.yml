@@ -343,3 +343,5 @@
 - pkg:maven/org.infinispan/infinispan-tools@8.2.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@9.2.1.Final
 - pkg:maven/org.infinispan/infinispan-tools@9.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tools@9.3.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-tools@9.3.0.Alpha1?classifier=sources

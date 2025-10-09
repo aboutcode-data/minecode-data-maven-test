@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.accumulo/accumulo-shell@1.7.3?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-shell@1.7.4
 - pkg:maven/org.apache.accumulo/accumulo-shell@1.7.4?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-shell@1.9.0
+- pkg:maven/org.apache.accumulo/accumulo-shell@1.9.0?classifier=sources

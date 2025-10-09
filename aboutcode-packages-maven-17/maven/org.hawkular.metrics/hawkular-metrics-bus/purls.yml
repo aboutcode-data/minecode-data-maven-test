@@ -122,3 +122,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-bus@0.21.11.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-bus@0.21.12.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-bus@0.21.12.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-bus@0.27.7.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-bus@0.27.7.Final?classifier=sources

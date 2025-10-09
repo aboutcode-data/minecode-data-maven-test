@@ -292,3 +292,7 @@
 - pkg:maven/org.jbehave/jbehave-core@4.3-beta-3?classifier=sources
 - pkg:maven/org.jbehave/jbehave-core@4.3-beta-2
 - pkg:maven/org.jbehave/jbehave-core@4.3-beta-2?classifier=sources
+- pkg:maven/org.jbehave/jbehave-core@4.3.1
+- pkg:maven/org.jbehave/jbehave-core@4.3.1?classifier=sources
+- pkg:maven/org.jbehave/jbehave-core@4.3
+- pkg:maven/org.jbehave/jbehave-core@4.3?classifier=sources

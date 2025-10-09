@@ -56,3 +56,5 @@
 - pkg:maven/org.apache.pdfbox/pdfbox-examples@2.0.8?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-examples@2.0.9
 - pkg:maven/org.apache.pdfbox/pdfbox-examples@2.0.9?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox-examples@1.8.14
+- pkg:maven/org.apache.pdfbox/pdfbox-examples@1.8.14?classifier=sources

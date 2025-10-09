@@ -22,3 +22,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/analysis-common@6.2.3?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/analysis-common@6.1.4
 - pkg:maven/org.codelibs.elasticsearch.module/analysis-common@6.1.4?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/analysis-common@6.2.4
+- pkg:maven/org.codelibs.elasticsearch.module/analysis-common@6.2.4?classifier=sources
