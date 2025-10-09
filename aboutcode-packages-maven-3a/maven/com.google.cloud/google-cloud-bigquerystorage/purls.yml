@@ -44,3 +44,5 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@0.92.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@0.93.0-beta
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@0.93.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@0.94.0-beta
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@0.94.0-beta?classifier=sources
