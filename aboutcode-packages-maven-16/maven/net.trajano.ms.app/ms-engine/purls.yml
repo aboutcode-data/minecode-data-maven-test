@@ -8,3 +8,5 @@
 - pkg:maven/net.trajano.ms.app/ms-engine@0.0.8?classifier=sources
 - pkg:maven/net.trajano.ms.app/ms-engine@0.0.9
 - pkg:maven/net.trajano.ms.app/ms-engine@0.0.9?classifier=sources
+- pkg:maven/net.trajano.ms.app/ms-engine@1.0.0
+- pkg:maven/net.trajano.ms.app/ms-engine@1.0.0?classifier=sources

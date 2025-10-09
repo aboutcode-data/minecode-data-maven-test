@@ -8,3 +8,5 @@
 - pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.1.0.RC1
 - pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.7.0
 - pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.7.0?classifier=sources
+- pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.7.1
+- pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.7.1?classifier=sources

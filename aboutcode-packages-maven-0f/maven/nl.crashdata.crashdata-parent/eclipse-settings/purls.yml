@@ -1,2 +1,4 @@
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.7
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.7?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.11
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.11?classifier=sources
