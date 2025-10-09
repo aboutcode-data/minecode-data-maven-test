@@ -34,3 +34,5 @@
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.0.0-M02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@2.0.7
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@2.0.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.0.0-RC1
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.0.0-RC1?classifier=sources

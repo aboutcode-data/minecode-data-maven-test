@@ -126,3 +126,5 @@
 - pkg:maven/org.http4k/http4k-client-apache@2.10.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-apache@2.11.2
 - pkg:maven/org.http4k/http4k-client-apache@2.11.2?classifier=sources
+- pkg:maven/org.http4k/http4k-client-apache@2.11.3
+- pkg:maven/org.http4k/http4k-client-apache@2.11.3?classifier=sources

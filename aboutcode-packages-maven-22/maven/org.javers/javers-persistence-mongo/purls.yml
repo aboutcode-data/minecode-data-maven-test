@@ -242,3 +242,5 @@
 - pkg:maven/org.javers/javers-persistence-mongo@3.3.2?classifier=sources
 - pkg:maven/org.javers/javers-persistence-mongo@3.3.4
 - pkg:maven/org.javers/javers-persistence-mongo@3.3.4?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@3.3.5
+- pkg:maven/org.javers/javers-persistence-mongo@3.3.5?classifier=sources

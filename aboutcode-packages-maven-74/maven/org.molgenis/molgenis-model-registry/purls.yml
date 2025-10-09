@@ -100,3 +100,5 @@
 - pkg:maven/org.molgenis/molgenis-model-registry@3.0.2?classifier=sources
 - pkg:maven/org.molgenis/molgenis-model-registry@4.1.0
 - pkg:maven/org.molgenis/molgenis-model-registry@4.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-model-registry@5.0.0
+- pkg:maven/org.molgenis/molgenis-model-registry@5.0.0?classifier=sources
