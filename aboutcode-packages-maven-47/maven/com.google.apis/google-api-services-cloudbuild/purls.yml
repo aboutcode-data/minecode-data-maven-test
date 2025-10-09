@@ -2980,3 +2980,7 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20181211-1.26.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev5-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev5-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20181215-1.27.0
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20181215-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20181215-1.26.0
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20181215-1.26.0?classifier=sources

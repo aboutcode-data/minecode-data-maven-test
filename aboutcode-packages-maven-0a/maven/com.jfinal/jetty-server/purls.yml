@@ -6,3 +6,5 @@
 - pkg:maven/com.jfinal/jetty-server@2018.10?classifier=sources
 - pkg:maven/com.jfinal/jetty-server@2018.11
 - pkg:maven/com.jfinal/jetty-server@2018.11?classifier=sources
+- pkg:maven/com.jfinal/jetty-server@2019.1
+- pkg:maven/com.jfinal/jetty-server@2019.1?classifier=sources

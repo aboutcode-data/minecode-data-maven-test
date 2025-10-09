@@ -4,3 +4,7 @@
 - pkg:maven/com.jakewharton/butterknife-runtime@9.0.0-rc2?classifier=sources
 - pkg:maven/com.jakewharton/butterknife-runtime@9.0.0-rc3?type=aar
 - pkg:maven/com.jakewharton/butterknife-runtime@9.0.0-rc3?classifier=sources
+- pkg:maven/com.jakewharton/butterknife-runtime@9.0.0?type=aar
+- pkg:maven/com.jakewharton/butterknife-runtime@9.0.0?classifier=sources
+- pkg:maven/com.jakewharton/butterknife-runtime@10.0.0?type=aar
+- pkg:maven/com.jakewharton/butterknife-runtime@10.0.0?classifier=sources
