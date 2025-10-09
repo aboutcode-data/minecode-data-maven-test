@@ -1,2 +1,4 @@
 - pkg:maven/com.jfireframework/allSql@1.0
 - pkg:maven/com.jfireframework/allSql@1.0?classifier=sources
+- pkg:maven/com.jfireframework/allSql@1.0.1.M1
+- pkg:maven/com.jfireframework/allSql@1.0.1.M1?classifier=sources

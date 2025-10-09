@@ -49,3 +49,6 @@
 - pkg:maven/com.thoughtworks.binding/binding_2.10@11.0.0-M3
 - pkg:maven/com.thoughtworks.binding/binding_2.10@11.0.0-M3?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_2.10@11.0.0-M4
+- pkg:maven/com.thoughtworks.binding/binding_2.10@11.0.0-M4?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_2.10@10.0.3
+- pkg:maven/com.thoughtworks.binding/binding_2.10@10.0.3?classifier=sources

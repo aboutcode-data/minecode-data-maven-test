@@ -32,3 +32,5 @@
 - pkg:maven/com.netease.nimlib/nrtc@3.9.1?classifier=sources
 - pkg:maven/com.netease.nimlib/nrtc@4.0.0?type=aar
 - pkg:maven/com.netease.nimlib/nrtc@4.0.0?classifier=sources
+- pkg:maven/com.netease.nimlib/nrtc@4.1.0?type=aar
+- pkg:maven/com.netease.nimlib/nrtc@4.1.0?classifier=sources
