@@ -10,3 +10,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.1.0?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.1.1
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.1.1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.2.0-m7
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.2.0-m7?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.2.0-eap
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.2.0-eap?classifier=sources
