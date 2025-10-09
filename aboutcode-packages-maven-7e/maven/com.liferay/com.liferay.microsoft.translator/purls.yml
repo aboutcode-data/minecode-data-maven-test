@@ -39,3 +39,6 @@
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.6
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microsoft.translator@1.0.10
+- pkg:maven/com.liferay/com.liferay.microsoft.translator@1.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microsoft.translator@1.0.10?classifier=sources-commercial

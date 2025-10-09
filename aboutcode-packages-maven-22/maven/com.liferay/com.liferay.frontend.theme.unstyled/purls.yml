@@ -209,3 +209,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.21
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.19
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.19?classifier=sources-commercial

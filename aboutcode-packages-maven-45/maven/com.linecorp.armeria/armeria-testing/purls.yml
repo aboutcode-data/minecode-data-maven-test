@@ -75,3 +75,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-testing@0.81.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-testing@0.82.0
 - pkg:maven/com.linecorp.armeria/armeria-testing@0.82.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.83.0
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.83.0?classifier=sources

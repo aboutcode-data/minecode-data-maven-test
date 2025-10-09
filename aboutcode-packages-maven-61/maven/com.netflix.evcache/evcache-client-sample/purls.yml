@@ -326,3 +326,7 @@
 - pkg:maven/com.netflix.evcache/evcache-client-sample@5.0.42-rc.1?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-client-sample@5.0.41-rc.1
 - pkg:maven/com.netflix.evcache/evcache-client-sample@5.0.41-rc.1?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-client-sample@5.2.0
+- pkg:maven/com.netflix.evcache/evcache-client-sample@5.2.0?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-client-sample@4.148.0
+- pkg:maven/com.netflix.evcache/evcache-client-sample@4.148.0?classifier=sources

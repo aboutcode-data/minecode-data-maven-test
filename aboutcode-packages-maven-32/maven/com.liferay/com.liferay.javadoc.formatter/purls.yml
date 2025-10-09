@@ -55,3 +55,5 @@
 - pkg:maven/com.liferay/com.liferay.javadoc.formatter@1.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.javadoc.formatter@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.javadoc.formatter@1.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.javadoc.formatter@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.javadoc.formatter@1.0.31?classifier=sources-commercial
