@@ -6,3 +6,5 @@
 - pkg:maven/com.coreoz/wisp@1.0.0-rc4?classifier=sources
 - pkg:maven/com.coreoz/wisp@1.0.0
 - pkg:maven/com.coreoz/wisp@1.0.0?classifier=sources
+- pkg:maven/com.coreoz/wisp@2.0.0-beta1
+- pkg:maven/com.coreoz/wisp@2.0.0-beta1?classifier=sources

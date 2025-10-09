@@ -1,0 +1,4 @@
+- pkg:maven/xyz.jetdrone/openfaas.vertx.svm.entrypoint@1.0.0-rc11
+- pkg:maven/xyz.jetdrone/openfaas.vertx.svm.entrypoint@1.0.0-rc11?classifier=sources
+- pkg:maven/xyz.jetdrone/openfaas.vertx.svm.entrypoint@0.0.1
+- pkg:maven/xyz.jetdrone/openfaas.vertx.svm.entrypoint@0.0.1?classifier=sources

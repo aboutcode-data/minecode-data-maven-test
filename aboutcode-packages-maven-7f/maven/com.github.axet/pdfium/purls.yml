@@ -31,3 +31,7 @@
 - pkg:maven/com.github.axet/pdfium@2.0.10?classifier=sources
 - pkg:maven/com.github.axet/pdfium@2.0.11?type=aar
 - pkg:maven/com.github.axet/pdfium@2.0.11?classifier=sources
+- pkg:maven/com.github.axet/pdfium@2.0.14?type=aar
+- pkg:maven/com.github.axet/pdfium@2.0.14?classifier=sources
+- pkg:maven/com.github.axet/pdfium@2.0.12?type=aar
+- pkg:maven/com.github.axet/pdfium@2.0.12?classifier=sources
