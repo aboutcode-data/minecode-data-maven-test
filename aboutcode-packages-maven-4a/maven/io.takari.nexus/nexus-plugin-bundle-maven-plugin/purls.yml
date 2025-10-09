@@ -11,3 +11,5 @@
 - pkg:maven/io.takari.nexus/nexus-plugin-bundle-maven-plugin@1.8?classifier=sources
 - pkg:maven/io.takari.nexus/nexus-plugin-bundle-maven-plugin@1.9
 - pkg:maven/io.takari.nexus/nexus-plugin-bundle-maven-plugin@1.9?classifier=sources
+- pkg:maven/io.takari.nexus/nexus-plugin-bundle-maven-plugin@1.10
+- pkg:maven/io.takari.nexus/nexus-plugin-bundle-maven-plugin@1.10?classifier=sources

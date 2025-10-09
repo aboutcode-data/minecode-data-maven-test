@@ -16,3 +16,5 @@
 - pkg:maven/io.prometheus/simpleclient_hotspot@0.0.13?classifier=sources
 - pkg:maven/io.prometheus/simpleclient_hotspot@0.0.14
 - pkg:maven/io.prometheus/simpleclient_hotspot@0.0.14?classifier=sources
+- pkg:maven/io.prometheus/simpleclient_hotspot@0.0.15
+- pkg:maven/io.prometheus/simpleclient_hotspot@0.0.15?classifier=sources

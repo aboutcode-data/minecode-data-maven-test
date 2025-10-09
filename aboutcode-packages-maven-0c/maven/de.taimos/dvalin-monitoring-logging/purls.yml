@@ -1,2 +1,4 @@
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.8
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.8?classifier=sources
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.9
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.9?classifier=sources
