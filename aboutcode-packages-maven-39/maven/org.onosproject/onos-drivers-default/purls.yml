@@ -23,3 +23,5 @@
 - pkg:maven/org.onosproject/onos-drivers-default@1.8.8?classifier=sources
 - pkg:maven/org.onosproject/onos-drivers-default@2.0.0-rc2
 - pkg:maven/org.onosproject/onos-drivers-default@2.0.0-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-drivers-default@2.0.0
+- pkg:maven/org.onosproject/onos-drivers-default@2.0.0?classifier=sources

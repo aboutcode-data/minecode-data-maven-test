@@ -34,3 +34,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-blobstore@3.14.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore@3.15.0-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore@3.15.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore@3.15.1-01
+- pkg:maven/org.sonatype.nexus/nexus-blobstore@3.15.1-01?classifier=sources

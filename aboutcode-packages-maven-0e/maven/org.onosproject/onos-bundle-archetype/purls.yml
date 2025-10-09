@@ -105,3 +105,4 @@
 - pkg:maven/org.onosproject/onos-bundle-archetype@1.13.7?classifier=sources
 - pkg:maven/org.onosproject/onos-bundle-archetype@2.0.0-rc1?classifier=sources
 - pkg:maven/org.onosproject/onos-bundle-archetype@2.0.0-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-bundle-archetype@2.0.0?classifier=sources

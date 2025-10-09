@@ -67,3 +67,4 @@
 - pkg:maven/org.teiid.connectors/infinispan-tasks@11.1.2
 - pkg:maven/org.teiid.connectors/infinispan-tasks@11.1.2?classifier=sources
 - pkg:maven/org.teiid.connectors/infinispan-tasks@12.0.0
+- pkg:maven/org.teiid.connectors/infinispan-tasks@12.0.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@1.0.0.RC2?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@1.0.0
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@1.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@1.1.0
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@1.1.0?classifier=sources

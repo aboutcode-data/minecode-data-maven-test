@@ -44,3 +44,5 @@
 - pkg:maven/org.mortbay.jasper/apache-el@8.5.35?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@8.5.35.1
 - pkg:maven/org.mortbay.jasper/apache-el@8.5.35.1?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-el@9.0.14
+- pkg:maven/org.mortbay.jasper/apache-el@9.0.14?classifier=sources
