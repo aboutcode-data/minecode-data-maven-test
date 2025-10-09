@@ -48,3 +48,5 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@3.0.0?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@2.1.10
 - pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@2.1.10?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@2.1.10.1
+- pkg:maven/com.datastax.cassandra/cassandra-driver-mapping@2.1.10.1?classifier=sources
