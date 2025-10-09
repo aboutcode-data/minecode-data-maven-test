@@ -32,3 +32,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-dao@7.1?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-dao@6.7.4
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-dao@6.7.4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-dao@7.2
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-dao@7.2?classifier=sources

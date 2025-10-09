@@ -22,3 +22,5 @@
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.1?classifier=sources
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.3?type=war
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.3?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.4?type=war
+- pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.4?classifier=sources

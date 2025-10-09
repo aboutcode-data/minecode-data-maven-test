@@ -58,3 +58,5 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/adyen-plugin@0.5.9?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin.java/adyen-plugin@0.5.10
 - pkg:maven/org.kill-bill.billing.plugin.java/adyen-plugin@0.5.10?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/adyen-plugin@0.6.0
+- pkg:maven/org.kill-bill.billing.plugin.java/adyen-plugin@0.6.0?classifier=sources
