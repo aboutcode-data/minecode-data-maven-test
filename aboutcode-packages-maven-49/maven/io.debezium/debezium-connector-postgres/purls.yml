@@ -42,3 +42,5 @@
 - pkg:maven/io.debezium/debezium-connector-postgres@0.8.3.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connector-postgres@0.9.0.Alpha2
 - pkg:maven/io.debezium/debezium-connector-postgres@0.9.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-postgres@0.9.0.Beta1
+- pkg:maven/io.debezium/debezium-connector-postgres@0.9.0.Beta1?classifier=sources
