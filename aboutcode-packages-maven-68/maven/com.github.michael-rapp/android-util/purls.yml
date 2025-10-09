@@ -112,3 +112,5 @@
 - pkg:maven/com.github.michael-rapp/android-util@1.20.2?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-util@1.20.3?type=aar
 - pkg:maven/com.github.michael-rapp/android-util@1.20.3?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-util@1.21.0?type=aar
+- pkg:maven/com.github.michael-rapp/android-util@1.21.0?classifier=sources

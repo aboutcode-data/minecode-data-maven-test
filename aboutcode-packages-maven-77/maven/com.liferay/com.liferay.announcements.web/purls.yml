@@ -132,3 +132,9 @@
 - pkg:maven/com.liferay/com.liferay.announcements.web@3.0.10
 - pkg:maven/com.liferay/com.liferay.announcements.web@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.announcements.web@3.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@3.0.12
+- pkg:maven/com.liferay/com.liferay.announcements.web@3.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@3.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.18?classifier=sources-commercial

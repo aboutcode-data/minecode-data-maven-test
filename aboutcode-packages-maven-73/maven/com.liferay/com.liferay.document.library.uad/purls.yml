@@ -7,3 +7,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.uad@1.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.uad@1.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.uad@1.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.uad@3.0.0
+- pkg:maven/com.liferay/com.liferay.document.library.uad@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.uad@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.uad@2.0.0
+- pkg:maven/com.liferay/com.liferay.document.library.uad@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.uad@2.0.0?classifier=sources-commercial
