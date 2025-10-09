@@ -386,3 +386,11 @@
 - pkg:maven/com.yahoo.vespa/vespa-hadoop@7.81.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-hadoop@7.80.70
 - pkg:maven/com.yahoo.vespa/vespa-hadoop@7.80.70?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.86.9
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.86.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.85.11
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.85.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.83.27
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.83.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.82.31
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.82.31?classifier=sources

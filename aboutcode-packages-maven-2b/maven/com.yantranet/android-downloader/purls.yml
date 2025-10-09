@@ -10,3 +10,5 @@
 - pkg:maven/com.yantranet/android-downloader@1.0.21?classifier=sources
 - pkg:maven/com.yantranet/android-downloader@1.0.22?type=aar
 - pkg:maven/com.yantranet/android-downloader@1.0.22?classifier=sources
+- pkg:maven/com.yantranet/android-downloader@1.1.0?type=aar
+- pkg:maven/com.yantranet/android-downloader@1.1.0?classifier=sources

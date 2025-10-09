@@ -94,3 +94,7 @@
 - pkg:maven/de.adorsys.psd2/spi-api@3.8?classifier=sources
 - pkg:maven/de.adorsys.psd2/spi-api@2.10
 - pkg:maven/de.adorsys.psd2/spi-api@2.10?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-api@3.9
+- pkg:maven/de.adorsys.psd2/spi-api@3.9?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-api@2.11
+- pkg:maven/de.adorsys.psd2/spi-api@2.11?classifier=sources

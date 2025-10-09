@@ -193,3 +193,7 @@
 - pkg:maven/com.yahoo.vespa/zkfacade@7.75.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/zkfacade@7.81.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/zkfacade@7.80.70?classifier=sources
+- pkg:maven/com.yahoo.vespa/zkfacade@7.86.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/zkfacade@7.85.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/zkfacade@7.83.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/zkfacade@7.82.31?classifier=sources

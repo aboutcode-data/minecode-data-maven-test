@@ -26,3 +26,5 @@
 - pkg:maven/in.erail/glue@6.7.8?classifier=sources
 - pkg:maven/in.erail/glue@2.5.0
 - pkg:maven/in.erail/glue@2.5.0?classifier=sources
+- pkg:maven/in.erail/glue@2.5.1
+- pkg:maven/in.erail/glue@2.5.1?classifier=sources

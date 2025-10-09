@@ -88,3 +88,7 @@
 - pkg:maven/de.adorsys.psd2/cms-db-schema@3.8?classifier=sources
 - pkg:maven/de.adorsys.psd2/cms-db-schema@2.10
 - pkg:maven/de.adorsys.psd2/cms-db-schema@2.10?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-db-schema@3.9
+- pkg:maven/de.adorsys.psd2/cms-db-schema@3.9?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-db-schema@2.11
+- pkg:maven/de.adorsys.psd2/cms-db-schema@2.11?classifier=sources

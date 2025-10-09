@@ -62,3 +62,7 @@
 - pkg:maven/com.yahoo.vespa/flags@7.75.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.81.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.80.70?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.86.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.85.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.83.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.82.31?classifier=sources
