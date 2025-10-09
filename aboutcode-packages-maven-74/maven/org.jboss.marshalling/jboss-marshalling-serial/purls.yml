@@ -96,3 +96,7 @@
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@1.4.10.SP2?classifier=sources
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@1.4.10.SP1
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@1.4.10.SP1?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@2.0.0.CR1
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@2.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@1.4.10.SP3
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-serial@1.4.10.SP3?classifier=sources

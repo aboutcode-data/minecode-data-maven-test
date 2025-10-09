@@ -116,3 +116,5 @@
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-atomic-factory@8.2.7.Final
 - pkg:maven/org.infinispan/infinispan-atomic-factory@8.2.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-atomic-factory@9.1.0.CR1
+- pkg:maven/org.infinispan/infinispan-atomic-factory@9.1.0.CR1?classifier=sources
