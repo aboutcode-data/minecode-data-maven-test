@@ -1,2 +1,6 @@
 - pkg:maven/io.atlasmap/atlas-itests@1.17.0?type=war
 - pkg:maven/io.atlasmap/atlas-itests@1.17.0?classifier=sources
+- pkg:maven/io.atlasmap/atlas-itests@1.19.0?type=war
+- pkg:maven/io.atlasmap/atlas-itests@1.19.0?classifier=sources
+- pkg:maven/io.atlasmap/atlas-itests@1.18.0?type=war
+- pkg:maven/io.atlasmap/atlas-itests@1.18.0?classifier=sources

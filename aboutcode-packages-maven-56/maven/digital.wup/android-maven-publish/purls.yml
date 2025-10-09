@@ -1,2 +1,4 @@
 - pkg:maven/digital.wup/android-maven-publish@1.0.0
 - pkg:maven/digital.wup/android-maven-publish@1.0.0?classifier=sources
+- pkg:maven/digital.wup/android-maven-publish@2.0.0
+- pkg:maven/digital.wup/android-maven-publish@2.0.0?classifier=sources

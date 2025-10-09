@@ -36,3 +36,5 @@
 - pkg:maven/io.atlassian.aws-scala/aws-scala-swf_2.11@6.1.7?classifier=sources
 - pkg:maven/io.atlassian.aws-scala/aws-scala-swf_2.11@6.1.8
 - pkg:maven/io.atlassian.aws-scala/aws-scala-swf_2.11@6.1.8?classifier=sources
+- pkg:maven/io.atlassian.aws-scala/aws-scala-swf_2.11@8.0.1
+- pkg:maven/io.atlassian.aws-scala/aws-scala-swf_2.11@8.0.1?classifier=sources
