@@ -34,3 +34,5 @@
 - pkg:maven/org.guvnor/guvnor-ala-distribution@7.3.0.Final?classifier=sources
 - pkg:maven/org.guvnor/guvnor-ala-distribution@7.4.0.Final?type=war
 - pkg:maven/org.guvnor/guvnor-ala-distribution@7.4.0.Final?classifier=sources
+- pkg:maven/org.guvnor/guvnor-ala-distribution@7.4.1.Final?type=war
+- pkg:maven/org.guvnor/guvnor-ala-distribution@7.4.1.Final?classifier=sources
