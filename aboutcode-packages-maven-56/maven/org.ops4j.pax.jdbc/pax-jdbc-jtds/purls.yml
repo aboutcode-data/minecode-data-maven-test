@@ -29,3 +29,4 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-jtds@1.4.3
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-jtds@1.4.3?classifier=sources
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-jtds@1.4.4
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-jtds@1.4.4?classifier=sources

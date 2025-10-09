@@ -60,3 +60,7 @@
 - pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.7.1?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.7.0
 - pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.7.0?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.9.0
+- pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.9.0?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.10.0
+- pkg:maven/org.mockito/mockito-scala-scalatest_2.11@1.10.0?classifier=sources
