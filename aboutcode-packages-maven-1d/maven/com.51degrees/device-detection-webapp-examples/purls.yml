@@ -22,3 +22,5 @@
 - pkg:maven/com.51degrees/device-detection-webapp-examples@v3.2.11.3?classifier=sources
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.12.4?type=war
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.12.4?classifier=sources
+- pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.13.9?type=war
+- pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.13.9?classifier=sources

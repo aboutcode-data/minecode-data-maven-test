@@ -22,3 +22,7 @@
 - pkg:maven/com.clarifai.clarifai-api2/core@2.2.2?classifier=sources
 - pkg:maven/com.clarifai.clarifai-api2/core@2.2.3
 - pkg:maven/com.clarifai.clarifai-api2/core@2.2.3?classifier=sources
+- pkg:maven/com.clarifai.clarifai-api2/core@2.2.5.dirty
+- pkg:maven/com.clarifai.clarifai-api2/core@2.2.5.dirty?classifier=sources
+- pkg:maven/com.clarifai.clarifai-api2/core@2.2.5
+- pkg:maven/com.clarifai.clarifai-api2/core@2.2.5?classifier=sources
