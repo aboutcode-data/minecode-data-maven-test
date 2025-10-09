@@ -1,0 +1,8 @@
+- pkg:maven/io.getstream.client/stream-java@3.0.0-BETA3
+- pkg:maven/io.getstream.client/stream-java@3.0.0-BETA3?classifier=sources
+- pkg:maven/io.getstream.client/stream-java@3.0.0-BETA2
+- pkg:maven/io.getstream.client/stream-java@3.0.0-BETA2?classifier=sources
+- pkg:maven/io.getstream.client/stream-java@3.0.0-BETA
+- pkg:maven/io.getstream.client/stream-java@3.0.0-BETA?classifier=sources
+- pkg:maven/io.getstream.client/stream-java@3.0.0
+- pkg:maven/io.getstream.client/stream-java@3.0.0?classifier=sources

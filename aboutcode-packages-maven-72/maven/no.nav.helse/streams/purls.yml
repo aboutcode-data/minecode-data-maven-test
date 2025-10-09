@@ -10,3 +10,7 @@
 - pkg:maven/no.nav.helse/streams@11?classifier=sources
 - pkg:maven/no.nav.helse/streams@10
 - pkg:maven/no.nav.helse/streams@10?classifier=sources
+- pkg:maven/no.nav.helse/streams@15
+- pkg:maven/no.nav.helse/streams@15?classifier=sources
+- pkg:maven/no.nav.helse/streams@14
+- pkg:maven/no.nav.helse/streams@14?classifier=sources

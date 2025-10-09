@@ -52,3 +52,5 @@
 - pkg:maven/io.vertx/vertx-mysql-postgresql-client@3.6.0.CR2?classifier=sources
 - pkg:maven/io.vertx/vertx-mysql-postgresql-client@3.6.0
 - pkg:maven/io.vertx/vertx-mysql-postgresql-client@3.6.0?classifier=sources
+- pkg:maven/io.vertx/vertx-mysql-postgresql-client@3.6.1
+- pkg:maven/io.vertx/vertx-mysql-postgresql-client@3.6.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/net.reini/rabbitmq-cdi@0.9.9?classifier=sources
 - pkg:maven/net.reini/rabbitmq-cdi@0.9.8
 - pkg:maven/net.reini/rabbitmq-cdi@0.9.8?classifier=sources
+- pkg:maven/net.reini/rabbitmq-cdi@0.9.10
+- pkg:maven/net.reini/rabbitmq-cdi@0.9.10?classifier=sources
