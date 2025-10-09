@@ -215,3 +215,6 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.21
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.19
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.19?classifier=sources-commercial

@@ -50,3 +50,5 @@
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-authentication@0.15.4?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-authentication@0.16.0
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-authentication@0.16.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.configuration/configuration-authentication@0.16.1
+- pkg:maven/com.hp.autonomy.frontend.configuration/configuration-authentication@0.16.1?classifier=sources

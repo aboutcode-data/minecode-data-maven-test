@@ -14,3 +14,9 @@
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.16.4?classifier=sources
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.17.0
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.17.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.18.0
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.18.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.17.3
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.17.3?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.17.1
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.17.1?classifier=sources

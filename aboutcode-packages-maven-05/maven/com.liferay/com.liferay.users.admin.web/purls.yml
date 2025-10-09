@@ -438,3 +438,6 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.web@2.5.17
 - pkg:maven/com.liferay/com.liferay.users.admin.web@2.5.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@2.5.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.28
+- pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.28?classifier=sources-commercial

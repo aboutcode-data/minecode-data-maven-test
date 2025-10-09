@@ -222,3 +222,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.compiler@2.0.43
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.compiler@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.compiler@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.compiler@4.0.14
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.compiler@4.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.compiler@4.0.14?classifier=sources-commercial

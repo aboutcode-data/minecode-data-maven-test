@@ -535,3 +535,7 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.2.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.2.67
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.2.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@3.0.1
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@3.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@3.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@3.0.0?classifier=sources

@@ -502,3 +502,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.9.18
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.9.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.9.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.service@3.0.24
+- pkg:maven/com.liferay/com.liferay.wiki.service@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@3.0.24?classifier=sources-commercial

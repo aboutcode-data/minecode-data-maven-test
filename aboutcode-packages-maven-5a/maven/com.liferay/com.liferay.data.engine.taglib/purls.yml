@@ -76,3 +76,6 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.24
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.26
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.26?classifier=sources-commercial

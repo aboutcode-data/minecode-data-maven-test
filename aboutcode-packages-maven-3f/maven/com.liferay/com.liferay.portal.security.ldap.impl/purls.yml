@@ -154,3 +154,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap.impl@1.0.39
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap.impl@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap.impl@1.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap.impl@2.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap.impl@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap.impl@2.0.16?classifier=sources-commercial
