@@ -72,3 +72,5 @@
 - pkg:maven/org.typelevel/cats-laws_sjs0.6_2.11@2.0.0-RC2?classifier=sources
 - pkg:maven/org.typelevel/cats-laws_sjs0.6_2.11@2.0.0-RC3
 - pkg:maven/org.typelevel/cats-laws_sjs0.6_2.11@2.0.0-RC3?classifier=sources
+- pkg:maven/org.typelevel/cats-laws_sjs0.6_2.11@2.0.0
+- pkg:maven/org.typelevel/cats-laws_sjs0.6_2.11@2.0.0?classifier=sources

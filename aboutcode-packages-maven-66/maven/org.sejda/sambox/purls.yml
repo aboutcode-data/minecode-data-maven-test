@@ -106,3 +106,7 @@
 - pkg:maven/org.sejda/sambox@1.1.58?classifier=sources
 - pkg:maven/org.sejda/sambox@1.1.60
 - pkg:maven/org.sejda/sambox@1.1.60?classifier=sources
+- pkg:maven/org.sejda/sambox@2.0.0
+- pkg:maven/org.sejda/sambox@2.0.0?classifier=sources
+- pkg:maven/org.sejda/sambox@1.1.61
+- pkg:maven/org.sejda/sambox@1.1.61?classifier=sources

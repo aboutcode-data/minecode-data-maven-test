@@ -112,3 +112,7 @@
 - pkg:maven/org.sejda/sejda-image-writers@3.2.84?classifier=sources
 - pkg:maven/org.sejda/sejda-image-writers@3.2.85
 - pkg:maven/org.sejda/sejda-image-writers@3.2.85?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@4.0.0.M2
+- pkg:maven/org.sejda/sejda-image-writers@4.0.0.M2?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@4.0.0.M1
+- pkg:maven/org.sejda/sejda-image-writers@4.0.0.M1?classifier=sources

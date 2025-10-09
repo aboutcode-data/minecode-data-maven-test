@@ -329,3 +329,4 @@
 - pkg:maven/software.amazon.awssdk/storagegateway@2.8.0
 - pkg:maven/software.amazon.awssdk/storagegateway@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awssdk/storagegateway@2.8.4
+- pkg:maven/software.amazon.awssdk/storagegateway@2.8.4?classifier=sources

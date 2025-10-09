@@ -130,3 +130,7 @@
 - pkg:maven/org.xutils/xutils@3.5.1?classifier=sources
 - pkg:maven/org.xutils/xutils@3.5.3?type=aar
 - pkg:maven/org.xutils/xutils@3.5.3?classifier=sources
+- pkg:maven/org.xutils/xutils@3.6.8?type=aar
+- pkg:maven/org.xutils/xutils@3.6.8?classifier=sources
+- pkg:maven/org.xutils/xutils@3.6.7?type=aar
+- pkg:maven/org.xutils/xutils@3.6.7?classifier=sources
