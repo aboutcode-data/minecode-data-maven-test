@@ -12,3 +12,5 @@
 - pkg:maven/com.chain/chain-sdk-java@1.0.2?classifier=sources
 - pkg:maven/com.chain/chain-sdk-java@1.0.4
 - pkg:maven/com.chain/chain-sdk-java@1.0.4?classifier=sources
+- pkg:maven/com.chain/chain-sdk-java@1.2.0rc2
+- pkg:maven/com.chain/chain-sdk-java@1.2.0rc2?classifier=sources

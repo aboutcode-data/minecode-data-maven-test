@@ -58,3 +58,7 @@
 - pkg:maven/com.aegisql/conveyor@c?classifier=sources
 - pkg:maven/com.aegisql/conveyor@1.2.3
 - pkg:maven/com.aegisql/conveyor@1.2.3?classifier=sources
+- pkg:maven/com.aegisql/conveyor@1.2.5
+- pkg:maven/com.aegisql/conveyor@1.2.5?classifier=sources
+- pkg:maven/com.aegisql/conveyor@1.2.4
+- pkg:maven/com.aegisql/conveyor@1.2.4?classifier=sources

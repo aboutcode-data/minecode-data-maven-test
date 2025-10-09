@@ -63,3 +63,6 @@
 - pkg:maven/com.fireflysource/firefly-common@4.0.23
 - pkg:maven/com.fireflysource/firefly-common@4.0.23?classifier=sources
 - pkg:maven/com.fireflysource/firefly-common@4.0.25
+- pkg:maven/com.fireflysource/firefly-common@4.0.25?classifier=sources
+- pkg:maven/com.fireflysource/firefly-common@4.0.24
+- pkg:maven/com.fireflysource/firefly-common@4.0.24?classifier=sources
