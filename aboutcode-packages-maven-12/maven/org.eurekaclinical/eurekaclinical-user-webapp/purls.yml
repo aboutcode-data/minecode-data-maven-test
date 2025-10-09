@@ -88,3 +88,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-46?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-45?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-45?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0?classifier=sources

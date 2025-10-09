@@ -70,3 +70,7 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.18?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.7
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.7?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.21
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.21?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.20
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.20?classifier=sources

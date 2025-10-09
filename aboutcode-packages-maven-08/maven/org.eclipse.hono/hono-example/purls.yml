@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.hono/hono-example@0.5-M9?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-example@0.5-M10
 - pkg:maven/org.eclipse.hono/hono-example@0.5-M10?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-example@0.5
+- pkg:maven/org.eclipse.hono/hono-example@0.5?classifier=sources

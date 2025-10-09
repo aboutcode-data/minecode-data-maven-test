@@ -6,3 +6,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-4?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-3
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0?classifier=sources

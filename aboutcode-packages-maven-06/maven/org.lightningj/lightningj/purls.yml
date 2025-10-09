@@ -1,2 +1,4 @@
 - pkg:maven/org.lightningj/lightningj@0.1-Beta
 - pkg:maven/org.lightningj/lightningj@0.1-Beta?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.2-Beta
+- pkg:maven/org.lightningj/lightningj@0.2-Beta?classifier=sources
