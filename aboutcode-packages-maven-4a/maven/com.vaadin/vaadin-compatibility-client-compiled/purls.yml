@@ -6,3 +6,5 @@
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.0.5
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.0.6
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.0.7
+- pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.1.0
+- pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.1.0?classifier=sources

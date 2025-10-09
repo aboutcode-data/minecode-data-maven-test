@@ -84,3 +84,5 @@
 - pkg:maven/com.wavefront/java-lib@4.14?classifier=sources
 - pkg:maven/com.wavefront/java-lib@4.16
 - pkg:maven/com.wavefront/java-lib@4.16?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.17
+- pkg:maven/com.wavefront/java-lib@4.17?classifier=sources

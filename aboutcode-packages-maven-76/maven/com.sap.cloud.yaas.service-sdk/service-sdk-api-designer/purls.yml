@@ -44,3 +44,5 @@
 - pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-api-designer@4.14.0?classifier=sources
 - pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-api-designer@4.15.0?type=war
 - pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-api-designer@4.15.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-api-designer@4.16.0?type=war
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-api-designer@4.16.0?classifier=sources

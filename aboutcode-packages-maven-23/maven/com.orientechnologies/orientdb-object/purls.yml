@@ -226,3 +226,5 @@
 - pkg:maven/com.orientechnologies/orientdb-object@2.2.23?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-object@2.2.24
 - pkg:maven/com.orientechnologies/orientdb-object@2.2.24?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-object@3.0.0m2
+- pkg:maven/com.orientechnologies/orientdb-object@3.0.0m2?classifier=sources
