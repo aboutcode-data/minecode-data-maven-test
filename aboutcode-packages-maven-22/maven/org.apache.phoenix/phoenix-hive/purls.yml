@@ -56,3 +56,5 @@
 - pkg:maven/org.apache.phoenix/phoenix-hive@4.13.1-HBase-0.98?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-hive@4.13.2-cdh5.11.2
 - pkg:maven/org.apache.phoenix/phoenix-hive@4.13.2-cdh5.11.2?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-hive@5.0.0-alpha-HBase-2.0
+- pkg:maven/org.apache.phoenix/phoenix-hive@5.0.0-alpha-HBase-2.0?classifier=sources

@@ -358,3 +358,5 @@
 - pkg:maven/org.atmosphere/atmosphere-runtime@2.4.19?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-runtime@2.4.20
 - pkg:maven/org.atmosphere/atmosphere-runtime@2.4.20?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-runtime@2.2.11
+- pkg:maven/org.atmosphere/atmosphere-runtime@2.2.11?classifier=sources

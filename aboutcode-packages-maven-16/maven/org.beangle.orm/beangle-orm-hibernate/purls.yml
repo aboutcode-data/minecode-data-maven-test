@@ -60,3 +60,5 @@
 - pkg:maven/org.beangle.orm/beangle-orm-hibernate@3.5.3?classifier=sources
 - pkg:maven/org.beangle.orm/beangle-orm-hibernate@3.5.2
 - pkg:maven/org.beangle.orm/beangle-orm-hibernate@3.5.2?classifier=sources
+- pkg:maven/org.beangle.orm/beangle-orm-hibernate@3.6.0.M2
+- pkg:maven/org.beangle.orm/beangle-orm-hibernate@3.6.0.M2?classifier=sources

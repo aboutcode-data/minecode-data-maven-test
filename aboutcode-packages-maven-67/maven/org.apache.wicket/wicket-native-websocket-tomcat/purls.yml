@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@7.9.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@6.28.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@6.28.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@7.10.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-tomcat@7.10.0?classifier=sources

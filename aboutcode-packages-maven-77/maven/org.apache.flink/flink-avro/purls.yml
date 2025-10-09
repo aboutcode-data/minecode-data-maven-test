@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.flink/flink-avro@0.10.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-avro@1.4.0
 - pkg:maven/org.apache.flink/flink-avro@1.4.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-avro@1.4.1
+- pkg:maven/org.apache.flink/flink-avro@1.4.1?classifier=sources
