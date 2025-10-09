@@ -93,3 +93,6 @@
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.common/wildfly-common@1.2.1.Final
 - pkg:maven/org.wildfly.common/wildfly-common@1.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha4
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha4?classifier=source-release&type=zip

@@ -70,3 +70,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@7.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@8.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@9.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@9.0.0?classifier=sources

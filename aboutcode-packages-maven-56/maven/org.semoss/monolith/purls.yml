@@ -22,3 +22,7 @@
 - pkg:maven/org.semoss/monolith@3.3.6.3?classifier=sources
 - pkg:maven/org.semoss/monolith@3.3.6.2?type=war
 - pkg:maven/org.semoss/monolith@3.3.6.2?classifier=sources
+- pkg:maven/org.semoss/monolith@3.3.7.1?type=war
+- pkg:maven/org.semoss/monolith@3.3.7.1?classifier=sources
+- pkg:maven/org.semoss/monolith@3.3.7?type=war
+- pkg:maven/org.semoss/monolith@3.3.7?classifier=sources

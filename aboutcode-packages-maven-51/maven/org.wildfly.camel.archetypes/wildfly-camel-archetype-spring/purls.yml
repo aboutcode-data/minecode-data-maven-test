@@ -32,3 +32,4 @@
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@6.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@7.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@9.0.0?classifier=sources
