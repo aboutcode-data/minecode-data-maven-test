@@ -21,3 +21,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit5@2.3.14
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit5@2.3.14?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit5@2.3.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit5@2.3.16
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit5@2.3.16?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit5@2.3.16?classifier=source-release&type=zip

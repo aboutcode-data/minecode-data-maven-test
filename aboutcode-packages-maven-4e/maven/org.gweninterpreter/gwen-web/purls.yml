@@ -202,3 +202,5 @@
 - pkg:maven/org.gweninterpreter/gwen-web@2.34.2?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@2.34.1?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.34.1?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.35.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.35.0?classifier=sources

@@ -120,3 +120,5 @@
 - pkg:maven/org.opensingular/singular-sso-analysis@1.9.1-RC9?classifier=sources
 - pkg:maven/org.opensingular/singular-sso-analysis@1.9.1-RC8?type=war
 - pkg:maven/org.opensingular/singular-sso-analysis@1.9.1-RC8?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-analysis@1.9.1-RC10?type=war
+- pkg:maven/org.opensingular/singular-sso-analysis@1.9.1-RC10?classifier=sources
