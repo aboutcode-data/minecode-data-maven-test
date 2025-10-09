@@ -144,3 +144,7 @@
 - pkg:maven/io.netty/netty-common@4.1.0.CR6?classifier=sources
 - pkg:maven/io.netty/netty-common@4.1.0.CR5
 - pkg:maven/io.netty/netty-common@4.1.0.CR5?classifier=sources
+- pkg:maven/io.netty/netty-common@4.1.0.CR7
+- pkg:maven/io.netty/netty-common@4.1.0.CR7?classifier=sources
+- pkg:maven/io.netty/netty-common@4.0.36.Final
+- pkg:maven/io.netty/netty-common@4.0.36.Final?classifier=sources

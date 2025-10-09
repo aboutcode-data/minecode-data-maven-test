@@ -18,3 +18,7 @@
 - pkg:maven/fm.jiecao/jiecaovideoplayer@1.8?classifier=sources
 - pkg:maven/fm.jiecao/jiecaovideoplayer@1.10?type=aar
 - pkg:maven/fm.jiecao/jiecaovideoplayer@1.10?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@2.0_preview?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@2.0_preview?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@2.0?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@2.0?classifier=sources
