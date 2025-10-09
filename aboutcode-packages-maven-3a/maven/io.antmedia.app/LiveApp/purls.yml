@@ -14,3 +14,5 @@
 - pkg:maven/io.antmedia.app/LiveApp@1.3.5?type=war
 - pkg:maven/io.antmedia.app/LiveApp@1.3.4?type=war
 - pkg:maven/io.antmedia.app/LiveApp@1.3.3?type=war
+- pkg:maven/io.antmedia.app/LiveApp@1.3.6.1?type=war
+- pkg:maven/io.antmedia.app/LiveApp@1.3.6.1?classifier=sources

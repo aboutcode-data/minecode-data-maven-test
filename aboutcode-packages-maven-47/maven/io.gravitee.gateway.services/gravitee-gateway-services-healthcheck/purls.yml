@@ -70,3 +70,6 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-healthcheck@1.15.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-healthcheck@1.15.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-healthcheck@1.16.3?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-healthcheck@1.17.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-healthcheck@1.16.4?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-healthcheck@1.15.4?classifier=sources

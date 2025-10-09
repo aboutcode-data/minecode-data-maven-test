@@ -22,3 +22,5 @@
 - pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.3.3?classifier=sources
 - pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.3.2?type=war
 - pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.3.2?classifier=sources
+- pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.3.6.1?type=war
+- pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.3.6.1?classifier=sources
