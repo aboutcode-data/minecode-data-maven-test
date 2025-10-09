@@ -1,3 +1,5 @@
 - pkg:maven/io.quarkus/quarkus-caffeine@0.11.0
 - pkg:maven/io.quarkus/quarkus-caffeine@0.12.0
 - pkg:maven/io.quarkus/quarkus-caffeine@0.12.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-caffeine@0.13.0
+- pkg:maven/io.quarkus/quarkus-caffeine@0.13.0?classifier=sources
