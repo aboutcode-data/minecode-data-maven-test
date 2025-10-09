@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.pulsar/pulsar@1.22.1-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.0.1-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.1.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@2.1.1-incubating?classifier=source-release&type=zip

@@ -128,3 +128,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-common@7.4.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-common@6.6.5
 - pkg:maven/org.apache.lucene/lucene-analyzers-common@6.6.5?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-common@7.5.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-common@7.5.0?classifier=sources

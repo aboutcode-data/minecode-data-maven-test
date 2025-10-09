@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.pulsar/pulsar-server-distribution@2.1.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.pulsar/pulsar-server-distribution@2.1.1-incubating?classifier=src&type=tar.gz

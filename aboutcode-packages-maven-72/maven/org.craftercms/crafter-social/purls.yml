@@ -104,3 +104,5 @@
 - pkg:maven/org.craftercms/crafter-social@3.0.15?classifier=sources
 - pkg:maven/org.craftercms/crafter-social@3.0.16?type=war
 - pkg:maven/org.craftercms/crafter-social@3.0.16?classifier=sources
+- pkg:maven/org.craftercms/crafter-social@3.0.17?type=war
+- pkg:maven/org.craftercms/crafter-social@3.0.17?classifier=sources

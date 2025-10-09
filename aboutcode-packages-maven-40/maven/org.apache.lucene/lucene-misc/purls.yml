@@ -176,3 +176,5 @@
 - pkg:maven/org.apache.lucene/lucene-misc@7.4.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-misc@6.6.5
 - pkg:maven/org.apache.lucene/lucene-misc@6.6.5?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-misc@7.5.0
+- pkg:maven/org.apache.lucene/lucene-misc@7.5.0?classifier=sources

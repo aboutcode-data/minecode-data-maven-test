@@ -136,3 +136,5 @@
 - pkg:maven/org.apache.solr/solr-langid@7.4.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-langid@6.6.5
 - pkg:maven/org.apache.solr/solr-langid@6.6.5?classifier=sources
+- pkg:maven/org.apache.solr/solr-langid@7.5.0
+- pkg:maven/org.apache.solr/solr-langid@7.5.0?classifier=sources
