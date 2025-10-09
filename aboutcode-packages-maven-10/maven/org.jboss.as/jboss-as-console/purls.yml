@@ -328,3 +328,5 @@
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.3.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.3.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.9.4.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.9.4.Final?classifier=sources

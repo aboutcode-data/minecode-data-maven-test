@@ -54,3 +54,5 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.test@6.1.0.B006?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.test@6.0.300.0
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.test@6.0.300.0?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.test@6.1.0.M6
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.test@6.1.0.M6?classifier=sources

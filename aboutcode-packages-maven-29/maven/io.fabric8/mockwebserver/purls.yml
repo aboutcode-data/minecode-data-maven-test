@@ -10,3 +10,5 @@
 - pkg:maven/io.fabric8/mockwebserver@0.0.8?classifier=sources
 - pkg:maven/io.fabric8/mockwebserver@0.0.12
 - pkg:maven/io.fabric8/mockwebserver@0.0.12?classifier=sources
+- pkg:maven/io.fabric8/mockwebserver@0.0.13
+- pkg:maven/io.fabric8/mockwebserver@0.0.13?classifier=sources

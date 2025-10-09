@@ -90,3 +90,5 @@
 - pkg:maven/org.infinispan.protostream/protostream@4.0.0.Alpha9?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream@4.0.0.Alpha8
 - pkg:maven/org.infinispan.protostream/protostream@4.0.0.Alpha8?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream@4.0.0.CR1
+- pkg:maven/org.infinispan.protostream/protostream@4.0.0.CR1?classifier=sources
