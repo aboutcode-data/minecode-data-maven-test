@@ -10,3 +10,5 @@
 - pkg:maven/se.ansman.kotshi/compiler@0.3.0-beta2?classifier=sources
 - pkg:maven/se.ansman.kotshi/compiler@0.3.0-beta3
 - pkg:maven/se.ansman.kotshi/compiler@0.3.0-beta3?classifier=sources
+- pkg:maven/se.ansman.kotshi/compiler@1.0.0
+- pkg:maven/se.ansman.kotshi/compiler@1.0.0?classifier=sources

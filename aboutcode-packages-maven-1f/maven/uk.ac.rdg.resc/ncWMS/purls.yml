@@ -50,3 +50,5 @@
 - pkg:maven/uk.ac.rdg.resc/ncWMS@2.2.13?classifier=sources
 - pkg:maven/uk.ac.rdg.resc/ncWMS@2.3.0?type=war
 - pkg:maven/uk.ac.rdg.resc/ncWMS@2.3.0?classifier=sources
+- pkg:maven/uk.ac.rdg.resc/ncWMS@2.3.1?type=war
+- pkg:maven/uk.ac.rdg.resc/ncWMS@2.3.1?classifier=sources

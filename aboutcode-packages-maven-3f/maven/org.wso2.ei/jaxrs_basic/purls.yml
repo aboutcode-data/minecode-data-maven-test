@@ -24,3 +24,5 @@
 - pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update18?classifier=sources
 - pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update19?type=war
 - pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update19?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update20?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update20?classifier=sources
