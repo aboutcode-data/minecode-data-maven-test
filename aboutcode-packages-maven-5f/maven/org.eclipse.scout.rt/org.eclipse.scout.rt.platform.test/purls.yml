@@ -126,3 +126,7 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@7.1.0.004_Photon_M4?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@7.0.300.001
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@7.0.300.001?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@7.1.0.005_Photon_M5
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@7.1.0.005_Photon_M5?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@6.1.0.B021
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.platform.test@6.1.0.B021?classifier=sources

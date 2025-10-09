@@ -178,3 +178,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-apt@3.0.6?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-apt@4.0.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-apt@4.0.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-apt@2.1.1
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-apt@2.1.1?classifier=sources

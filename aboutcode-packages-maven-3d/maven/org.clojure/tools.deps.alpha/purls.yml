@@ -94,3 +94,5 @@
 - pkg:maven/org.clojure/tools.deps.alpha@0.5.334?classifier=sources
 - pkg:maven/org.clojure/tools.deps.alpha@0.5.329
 - pkg:maven/org.clojure/tools.deps.alpha@0.5.329?classifier=sources
+- pkg:maven/org.clojure/tools.deps.alpha@0.5.351
+- pkg:maven/org.clojure/tools.deps.alpha@0.5.351?classifier=sources

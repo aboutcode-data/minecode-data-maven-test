@@ -54,3 +54,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.8
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.8?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.9.0
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.9.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-pmd-plugin@3.9.0?classifier=source-release&type=zip
