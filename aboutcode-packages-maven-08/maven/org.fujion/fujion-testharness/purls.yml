@@ -58,3 +58,5 @@
 - pkg:maven/org.fujion/fujion-testharness@1.1.4?classifier=sources
 - pkg:maven/org.fujion/fujion-testharness@1.0.19?type=war
 - pkg:maven/org.fujion/fujion-testharness@1.0.19?classifier=sources
+- pkg:maven/org.fujion/fujion-testharness@1.1.5?type=war
+- pkg:maven/org.fujion/fujion-testharness@1.1.5?classifier=sources

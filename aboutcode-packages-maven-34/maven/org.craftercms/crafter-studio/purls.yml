@@ -6,3 +6,5 @@
 - pkg:maven/org.craftercms/crafter-studio@3.0.3?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@3.0.2?type=war
 - pkg:maven/org.craftercms/crafter-studio@3.0.2?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@3.0.4?type=war
+- pkg:maven/org.craftercms/crafter-studio@3.0.4?classifier=sources

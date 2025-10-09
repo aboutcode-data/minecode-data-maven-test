@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.13.0.v20170516-1929?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.13.50.v20171007-0855
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.13.50.v20171007-0855?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.14.0.v20171206-0802
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.14.0.v20171206-0802?classifier=sources

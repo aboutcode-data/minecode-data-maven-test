@@ -70,3 +70,7 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.3.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.23.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.23.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.4.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.4.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.24.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.24.0.RELEASE?classifier=sources

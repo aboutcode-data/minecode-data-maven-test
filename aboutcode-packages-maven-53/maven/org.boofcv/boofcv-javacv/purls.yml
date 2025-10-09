@@ -1,2 +1,4 @@
 - pkg:maven/org.boofcv/boofcv-javacv@0.27
 - pkg:maven/org.boofcv/boofcv-javacv@0.27?classifier=sources
+- pkg:maven/org.boofcv/boofcv-javacv@0.28
+- pkg:maven/org.boofcv/boofcv-javacv@0.28?classifier=sources

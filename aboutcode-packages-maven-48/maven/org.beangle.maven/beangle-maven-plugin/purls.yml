@@ -52,3 +52,5 @@
 - pkg:maven/org.beangle.maven/beangle-maven-plugin@0.3.8?classifier=sources
 - pkg:maven/org.beangle.maven/beangle-maven-plugin@0.3.7
 - pkg:maven/org.beangle.maven/beangle-maven-plugin@0.3.7?classifier=sources
+- pkg:maven/org.beangle.maven/beangle-maven-plugin@0.3.9
+- pkg:maven/org.beangle.maven/beangle-maven-plugin@0.3.9?classifier=sources

@@ -46,3 +46,7 @@
 - pkg:maven/net.time4j/time4j-tzdata@1.10-2017b?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@1.10-2017c
 - pkg:maven/net.time4j/time4j-tzdata@1.10-2017c?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@2.1-2018b
+- pkg:maven/net.time4j/time4j-tzdata@2.1-2018b?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@2.0-2018a
+- pkg:maven/net.time4j/time4j-tzdata@2.0-2018a?classifier=sources

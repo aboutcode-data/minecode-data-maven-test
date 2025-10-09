@@ -178,3 +178,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-sse@2.2.10?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-sse@2.4.18?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-sse@2.4.18?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-sse@2.4.19?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-sse@2.4.19?classifier=sources
