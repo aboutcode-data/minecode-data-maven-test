@@ -1,2 +1,4 @@
 - pkg:maven/com.bq.corbel/event-bus@1.27.1
 - pkg:maven/com.bq.corbel/event-bus@1.27.1?classifier=sources
+- pkg:maven/com.bq.corbel/event-bus@1.31.1
+- pkg:maven/com.bq.corbel/event-bus@1.31.1?classifier=sources

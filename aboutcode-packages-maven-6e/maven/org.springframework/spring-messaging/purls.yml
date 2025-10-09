@@ -52,3 +52,5 @@
 - pkg:maven/org.springframework/spring-messaging@4.2.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-messaging@4.2.6.RELEASE
 - pkg:maven/org.springframework/spring-messaging@4.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-messaging@4.3.0.RELEASE
+- pkg:maven/org.springframework/spring-messaging@4.3.0.RELEASE?classifier=sources
