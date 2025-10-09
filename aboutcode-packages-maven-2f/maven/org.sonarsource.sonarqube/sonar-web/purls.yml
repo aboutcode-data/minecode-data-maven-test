@@ -12,3 +12,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@5.4-RC3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@5.4?type=war
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@5.4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@5.5-RC1?type=war
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@5.5-RC1?classifier=sources

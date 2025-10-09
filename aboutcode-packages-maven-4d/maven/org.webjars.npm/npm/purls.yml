@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/npm@3.3.9?classifier=sources
 - pkg:maven/org.webjars.npm/npm@2.14.8
 - pkg:maven/org.webjars.npm/npm@2.14.8?classifier=sources
+- pkg:maven/org.webjars.npm/npm@3.8.3
+- pkg:maven/org.webjars.npm/npm@3.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/npm@3.8.0
+- pkg:maven/org.webjars.npm/npm@3.8.0?classifier=sources
