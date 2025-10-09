@@ -40,3 +40,5 @@
 - pkg:maven/org.zalando/tracer-aspectj@0.16.0?classifier=sources
 - pkg:maven/org.zalando/tracer-aspectj@0.17.0
 - pkg:maven/org.zalando/tracer-aspectj@0.17.0?classifier=sources
+- pkg:maven/org.zalando/tracer-aspectj@0.17.1
+- pkg:maven/org.zalando/tracer-aspectj@0.17.1?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.authenticators@5.7.0-alpha2?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.authenticators@5.7.0-alpha3
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.authenticators@5.7.0-alpha3?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.authenticators@5.7.0-beta
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.authenticators@5.7.0-beta?classifier=sources
