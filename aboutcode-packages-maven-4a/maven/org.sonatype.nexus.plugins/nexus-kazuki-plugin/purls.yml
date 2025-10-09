@@ -18,3 +18,6 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-kazuki-plugin@2.12.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-kazuki-plugin@2.12.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-kazuki-plugin@2.13.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-kazuki-plugin@2.14.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-kazuki-plugin@2.11.2-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-kazuki-plugin@2.11.2-01?classifier=sources

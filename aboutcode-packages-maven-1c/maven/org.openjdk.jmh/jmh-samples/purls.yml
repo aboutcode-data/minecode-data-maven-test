@@ -140,3 +140,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-samples@1.13?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-samples@1.14
 - pkg:maven/org.openjdk.jmh/jmh-samples@1.14?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-samples@1.14.1
+- pkg:maven/org.openjdk.jmh/jmh-samples@1.14.1?classifier=sources

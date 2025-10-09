@@ -34,3 +34,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-core@5.6.1?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-core@6.0
 - pkg:maven/org.sonarsource.sonarqube/sonar-core@6.0?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-core@6.1-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-core@6.1-RC1?classifier=sources

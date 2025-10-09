@@ -152,3 +152,11 @@
 - pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.12.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.13.0-01
 - pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.13.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@3.0.0-b2015020701
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@3.0.0-b2015020701?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.0-01
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.11.2-03
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.11.2-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.11.2-01
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.11.2-01?classifier=sources
