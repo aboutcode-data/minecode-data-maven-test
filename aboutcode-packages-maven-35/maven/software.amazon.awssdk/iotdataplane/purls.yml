@@ -72,3 +72,5 @@
 - pkg:maven/software.amazon.awssdk/iotdataplane@2.4.16?classifier=sources
 - pkg:maven/software.amazon.awssdk/iotdataplane@2.4.15
 - pkg:maven/software.amazon.awssdk/iotdataplane@2.4.15?classifier=sources
+- pkg:maven/software.amazon.awssdk/iotdataplane@2.5.2
+- pkg:maven/software.amazon.awssdk/iotdataplane@2.5.2?classifier=sources
