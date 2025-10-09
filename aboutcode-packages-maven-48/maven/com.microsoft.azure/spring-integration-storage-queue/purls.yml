@@ -18,3 +18,5 @@
 - pkg:maven/com.microsoft.azure/spring-integration-storage-queue@1.1.0.M4?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-integration-storage-queue@1.1.0.M5
 - pkg:maven/com.microsoft.azure/spring-integration-storage-queue@1.1.0.M5?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-integration-storage-queue@1.2.0
+- pkg:maven/com.microsoft.azure/spring-integration-storage-queue@1.2.0?classifier=sources

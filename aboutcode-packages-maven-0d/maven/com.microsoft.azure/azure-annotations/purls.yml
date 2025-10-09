@@ -20,3 +20,5 @@
 - pkg:maven/com.microsoft.azure/azure-annotations@1.8.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-annotations@1.9.0
 - pkg:maven/com.microsoft.azure/azure-annotations@1.9.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-annotations@1.10.0
+- pkg:maven/com.microsoft.azure/azure-annotations@1.10.0?classifier=sources

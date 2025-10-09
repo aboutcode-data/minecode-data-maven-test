@@ -414,3 +414,5 @@
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.21.0-hotfix?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.21.0-alpha
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.21.0-alpha?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.22.2
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.22.2?classifier=sources
