@@ -146,3 +146,5 @@
 - pkg:maven/org.simpleflatmapper/sfm-jdbi@6.0.12?classifier=sources
 - pkg:maven/org.simpleflatmapper/sfm-jdbi@6.0.13
 - pkg:maven/org.simpleflatmapper/sfm-jdbi@6.0.13?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-jdbi@6.1.0
+- pkg:maven/org.simpleflatmapper/sfm-jdbi@6.1.0?classifier=sources

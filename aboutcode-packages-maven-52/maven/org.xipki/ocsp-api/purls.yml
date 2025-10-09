@@ -1,2 +1,4 @@
 - pkg:maven/org.xipki/ocsp-api@4.0.0
 - pkg:maven/org.xipki/ocsp-api@4.0.0?classifier=sources
+- pkg:maven/org.xipki/ocsp-api@5.0.0
+- pkg:maven/org.xipki/ocsp-api@5.0.0?classifier=sources

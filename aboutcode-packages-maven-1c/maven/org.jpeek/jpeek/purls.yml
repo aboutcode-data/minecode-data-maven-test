@@ -102,3 +102,5 @@
 - pkg:maven/org.jpeek/jpeek@0.25?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.26.3
 - pkg:maven/org.jpeek/jpeek@0.26.3?classifier=sources
+- pkg:maven/org.jpeek/jpeek@0.27
+- pkg:maven/org.jpeek/jpeek@0.27?classifier=sources
