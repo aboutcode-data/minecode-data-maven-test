@@ -18,3 +18,8 @@
 - pkg:maven/com.greengrowapps/ggarest@0.9?classifier=sources
 - pkg:maven/com.greengrowapps/ggarest@0.10?type=aar
 - pkg:maven/com.greengrowapps/ggarest@0.10?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.13?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.13?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.12?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.11?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.11?classifier=sources
