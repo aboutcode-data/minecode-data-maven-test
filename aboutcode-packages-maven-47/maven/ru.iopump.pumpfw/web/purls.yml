@@ -2,3 +2,5 @@
 - pkg:maven/ru.iopump.pumpfw/web@0.1?classifier=sources
 - pkg:maven/ru.iopump.pumpfw/web@0.2
 - pkg:maven/ru.iopump.pumpfw/web@0.2?classifier=sources
+- pkg:maven/ru.iopump.pumpfw/web@0.2.1
+- pkg:maven/ru.iopump.pumpfw/web@0.2.1?classifier=sources
