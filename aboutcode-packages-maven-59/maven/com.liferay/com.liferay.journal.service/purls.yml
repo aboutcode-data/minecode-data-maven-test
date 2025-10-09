@@ -229,3 +229,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@3.24.7
 - pkg:maven/com.liferay/com.liferay.journal.service@3.24.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@3.24.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.service@3.24.8
+- pkg:maven/com.liferay/com.liferay.journal.service@3.24.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@3.24.8?classifier=sources-commercial

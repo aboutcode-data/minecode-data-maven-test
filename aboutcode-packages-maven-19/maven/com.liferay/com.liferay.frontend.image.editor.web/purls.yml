@@ -54,3 +54,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.23
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.24
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.24?classifier=sources-commercial
