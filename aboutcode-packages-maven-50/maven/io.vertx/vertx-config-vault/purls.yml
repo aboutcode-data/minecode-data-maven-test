@@ -46,3 +46,5 @@
 - pkg:maven/io.vertx/vertx-config-vault@4.0.0-milestone3?classifier=sources
 - pkg:maven/io.vertx/vertx-config-vault@3.8.2
 - pkg:maven/io.vertx/vertx-config-vault@3.8.2?classifier=sources
+- pkg:maven/io.vertx/vertx-config-vault@3.8.3
+- pkg:maven/io.vertx/vertx-config-vault@3.8.3?classifier=sources

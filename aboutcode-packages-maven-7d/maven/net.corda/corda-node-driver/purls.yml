@@ -16,3 +16,5 @@
 - pkg:maven/net.corda/corda-node-driver@4.0?classifier=sources
 - pkg:maven/net.corda/corda-node-driver@3.4-corda
 - pkg:maven/net.corda/corda-node-driver@3.4-corda?classifier=sources
+- pkg:maven/net.corda/corda-node-driver@4.1
+- pkg:maven/net.corda/corda-node-driver@4.1?classifier=sources

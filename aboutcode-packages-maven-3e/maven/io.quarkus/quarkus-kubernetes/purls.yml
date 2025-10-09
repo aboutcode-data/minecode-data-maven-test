@@ -19,3 +19,5 @@
 - pkg:maven/io.quarkus/quarkus-kubernetes@0.23.0
 - pkg:maven/io.quarkus/quarkus-kubernetes@0.23.2
 - pkg:maven/io.quarkus/quarkus-kubernetes@0.24.0
+- pkg:maven/io.quarkus/quarkus-kubernetes@0.25.0
+- pkg:maven/io.quarkus/quarkus-kubernetes@0.25.0?classifier=sources

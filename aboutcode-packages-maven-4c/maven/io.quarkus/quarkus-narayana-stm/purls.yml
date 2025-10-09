@@ -1,1 +1,3 @@
 - pkg:maven/io.quarkus/quarkus-narayana-stm@0.24.0
+- pkg:maven/io.quarkus/quarkus-narayana-stm@0.25.0
+- pkg:maven/io.quarkus/quarkus-narayana-stm@0.25.0?classifier=sources

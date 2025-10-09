@@ -102,3 +102,7 @@
 - pkg:maven/net.sourceforge.urin/urin@2.22?classifier=sources
 - pkg:maven/net.sourceforge.urin/urin@3.0
 - pkg:maven/net.sourceforge.urin/urin@3.0?classifier=sources
+- pkg:maven/net.sourceforge.urin/urin@3.2
+- pkg:maven/net.sourceforge.urin/urin@3.2?classifier=sources
+- pkg:maven/net.sourceforge.urin/urin@3.1
+- pkg:maven/net.sourceforge.urin/urin@3.1?classifier=sources

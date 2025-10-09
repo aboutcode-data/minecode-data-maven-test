@@ -9,3 +9,5 @@
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-mqtt@0.23.0
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-mqtt@0.23.2
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-mqtt@0.24.0
+- pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-mqtt@0.25.0
+- pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-mqtt@0.25.0?classifier=sources

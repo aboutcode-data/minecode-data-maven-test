@@ -2,3 +2,5 @@
 - pkg:maven/io.quarkus/quarkus-scala@0.23.0
 - pkg:maven/io.quarkus/quarkus-scala@0.23.2
 - pkg:maven/io.quarkus/quarkus-scala@0.24.0
+- pkg:maven/io.quarkus/quarkus-scala@0.25.0
+- pkg:maven/io.quarkus/quarkus-scala@0.25.0?classifier=sources

@@ -23,3 +23,5 @@
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-type-converters@0.23.0
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-type-converters@0.23.2
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-type-converters@0.24.0
+- pkg:maven/io.quarkus/quarkus-smallrye-reactive-type-converters@0.25.0
+- pkg:maven/io.quarkus/quarkus-smallrye-reactive-type-converters@0.25.0?classifier=sources
