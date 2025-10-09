@@ -288,3 +288,5 @@
 - pkg:maven/com.chargebee/chargebee-java@2.5.9?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@2.6.0
 - pkg:maven/com.chargebee/chargebee-java@2.6.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@2.6.1
+- pkg:maven/com.chargebee/chargebee-java@2.6.1?classifier=sources
