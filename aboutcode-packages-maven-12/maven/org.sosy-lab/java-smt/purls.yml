@@ -2,3 +2,11 @@
 - pkg:maven/org.sosy-lab/java-smt@0.4?classifier=sources
 - pkg:maven/org.sosy-lab/java-smt@0.3-121-g8371696
 - pkg:maven/org.sosy-lab/java-smt@0.3-121-g8371696?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@0.51
+- pkg:maven/org.sosy-lab/java-smt@0.51?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@0.5-3-g103d67f
+- pkg:maven/org.sosy-lab/java-smt@0.5-3-g103d67f?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@0.5-1-g9d26410
+- pkg:maven/org.sosy-lab/java-smt@0.5-1-g9d26410?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@0.5
+- pkg:maven/org.sosy-lab/java-smt@0.5?classifier=sources
