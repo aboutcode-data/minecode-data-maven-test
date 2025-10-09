@@ -42,3 +42,5 @@
 - pkg:maven/org.red5/red5-client@1.0.8-M10?classifier=sources
 - pkg:maven/org.red5/red5-client@1.0.8-M13
 - pkg:maven/org.red5/red5-client@1.0.8-M13?classifier=sources
+- pkg:maven/org.red5/red5-client@1.0.8-RELEASE
+- pkg:maven/org.red5/red5-client@1.0.8-RELEASE?classifier=sources

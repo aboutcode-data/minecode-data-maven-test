@@ -88,3 +88,5 @@
 - pkg:maven/org.ninjaframework/ninja-maven-plugin@5.7.0?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-maven-plugin@5.8.0
 - pkg:maven/org.ninjaframework/ninja-maven-plugin@5.8.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-maven-plugin@6.0.0-beta1
+- pkg:maven/org.ninjaframework/ninja-maven-plugin@6.0.0-beta1?classifier=sources
