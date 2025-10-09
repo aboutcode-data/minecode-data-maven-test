@@ -18,3 +18,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-file@3.0.0-b2015020701?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-file@3.1.0-04
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-file@3.1.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-file@3.2.0-01
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-file@3.2.0-01?classifier=sources
