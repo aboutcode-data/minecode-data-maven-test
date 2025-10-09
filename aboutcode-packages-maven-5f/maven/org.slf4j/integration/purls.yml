@@ -64,3 +64,5 @@
 - pkg:maven/org.slf4j/integration@1.7.22?classifier=sources
 - pkg:maven/org.slf4j/integration@1.7.23
 - pkg:maven/org.slf4j/integration@1.7.23?classifier=sources
+- pkg:maven/org.slf4j/integration@1.7.24
+- pkg:maven/org.slf4j/integration@1.7.24?classifier=sources

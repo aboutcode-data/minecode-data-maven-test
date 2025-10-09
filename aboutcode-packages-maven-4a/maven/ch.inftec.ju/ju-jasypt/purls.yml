@@ -28,3 +28,7 @@
 - pkg:maven/ch.inftec.ju/ju-jasypt@4.5.1-SNAPSHOT-27?classifier=sources
 - pkg:maven/ch.inftec.ju/ju-jasypt@4.5.1-11
 - pkg:maven/ch.inftec.ju/ju-jasypt@4.5.1-11?classifier=sources
+- pkg:maven/ch.inftec.ju/ju-jasypt@6.1-4
+- pkg:maven/ch.inftec.ju/ju-jasypt@6.1-4?classifier=sources
+- pkg:maven/ch.inftec.ju/ju-jasypt@6.1
+- pkg:maven/ch.inftec.ju/ju-jasypt@6.1?classifier=sources

@@ -110,3 +110,7 @@
 - pkg:maven/com.bladejava/blade-core@1.7.0-alpha?classifier=sources
 - pkg:maven/com.bladejava/blade-core@1.7.0-beta
 - pkg:maven/com.bladejava/blade-core@1.7.0-beta?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.7.1-alpha
+- pkg:maven/com.bladejava/blade-core@1.7.1-alpha?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.7.0
+- pkg:maven/com.bladejava/blade-core@1.7.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/com.atlassian.asap/asap-client-core@2.10.4-test?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-core@2.10.4
 - pkg:maven/com.atlassian.asap/asap-client-core@2.10.4?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-core@2.11.0
+- pkg:maven/com.atlassian.asap/asap-client-core@2.11.0?classifier=sources
