@@ -28,3 +28,5 @@
 - pkg:maven/org.ddogleg/ddogleg@0.14?classifier=sources
 - pkg:maven/org.ddogleg/ddogleg@0.15
 - pkg:maven/org.ddogleg/ddogleg@0.15?classifier=sources
+- pkg:maven/org.ddogleg/ddogleg@0.15.1
+- pkg:maven/org.ddogleg/ddogleg@0.15.1?classifier=sources

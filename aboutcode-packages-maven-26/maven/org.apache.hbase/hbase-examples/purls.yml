@@ -248,3 +248,5 @@
 - pkg:maven/org.apache.hbase/hbase-examples@1.2.7?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@1.4.8
 - pkg:maven/org.apache.hbase/hbase-examples@1.4.8?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-examples@1.2.8
+- pkg:maven/org.apache.hbase/hbase-examples@1.2.8?classifier=sources

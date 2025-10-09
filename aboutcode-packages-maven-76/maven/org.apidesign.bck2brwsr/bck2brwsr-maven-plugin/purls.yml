@@ -36,3 +36,5 @@
 - pkg:maven/org.apidesign.bck2brwsr/bck2brwsr-maven-plugin@0.22?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/bck2brwsr-maven-plugin@0.23
 - pkg:maven/org.apidesign.bck2brwsr/bck2brwsr-maven-plugin@0.23?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/bck2brwsr-maven-plugin@0.30
+- pkg:maven/org.apidesign.bck2brwsr/bck2brwsr-maven-plugin@0.30?classifier=sources
