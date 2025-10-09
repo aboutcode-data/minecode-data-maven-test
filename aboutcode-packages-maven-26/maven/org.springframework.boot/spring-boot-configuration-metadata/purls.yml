@@ -60,3 +60,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-configuration-metadata@2.0.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-metadata@1.5.11.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-configuration-metadata@1.5.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-configuration-metadata@1.5.12.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-configuration-metadata@1.5.12.RELEASE?classifier=sources
