@@ -64,3 +64,5 @@
 - pkg:maven/org.infinispan/infinispan-spring4-embedded@9.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring4-embedded@9.0.1.Final
 - pkg:maven/org.infinispan/infinispan-spring4-embedded@9.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring4-embedded@9.1.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-spring4-embedded@9.1.0.Alpha1?classifier=sources

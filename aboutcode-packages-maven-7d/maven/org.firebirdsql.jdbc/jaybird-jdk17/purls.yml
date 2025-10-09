@@ -38,3 +38,5 @@
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.13?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.0
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.0?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.1
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.1?classifier=sources
