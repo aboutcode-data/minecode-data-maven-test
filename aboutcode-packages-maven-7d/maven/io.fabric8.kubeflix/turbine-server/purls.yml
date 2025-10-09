@@ -18,3 +18,5 @@
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.17?classifier=sources
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.18
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.18?classifier=sources
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.20
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.20?classifier=sources

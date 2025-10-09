@@ -1,0 +1,4 @@
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.9.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.9.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.10.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.10.0?classifier=sources

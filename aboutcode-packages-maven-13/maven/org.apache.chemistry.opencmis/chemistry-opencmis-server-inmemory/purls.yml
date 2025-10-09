@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-inmemory@0.13.0?classifier=sources
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-inmemory@0.14.0?type=war
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-inmemory@0.14.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-inmemory@1.0.0?type=war
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-inmemory@1.0.0?classifier=sources

@@ -42,3 +42,7 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.12.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.13.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.13.2?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.12.4
+- pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.12.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.10.4
+- pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.10.4?classifier=sources

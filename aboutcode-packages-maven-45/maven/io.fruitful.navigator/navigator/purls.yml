@@ -14,3 +14,5 @@
 - pkg:maven/io.fruitful.navigator/navigator@0.5.4?classifier=sources
 - pkg:maven/io.fruitful.navigator/navigator@0.5.3?type=aar
 - pkg:maven/io.fruitful.navigator/navigator@0.5.3?classifier=sources
+- pkg:maven/io.fruitful.navigator/navigator@0.5.5?type=aar
+- pkg:maven/io.fruitful.navigator/navigator@0.5.5?classifier=sources
