@@ -1,2 +1,4 @@
 - pkg:maven/org.reactivecommons.utils/object-mapper@0.0.5-beta2
 - pkg:maven/org.reactivecommons.utils/object-mapper@0.0.5-beta2?classifier=sources
+- pkg:maven/org.reactivecommons.utils/object-mapper@0.0.6-beta1
+- pkg:maven/org.reactivecommons.utils/object-mapper@0.0.6-beta1?classifier=sources

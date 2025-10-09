@@ -8,3 +8,5 @@
 - pkg:maven/org.noorm/noorm-postgresql-platform@1.3.3?classifier=sources
 - pkg:maven/org.noorm/noorm-postgresql-platform@1.3.4
 - pkg:maven/org.noorm/noorm-postgresql-platform@1.3.4?classifier=sources
+- pkg:maven/org.noorm/noorm-postgresql-platform@1.4.0
+- pkg:maven/org.noorm/noorm-postgresql-platform@1.4.0?classifier=sources

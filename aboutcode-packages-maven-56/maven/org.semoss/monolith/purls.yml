@@ -30,3 +30,5 @@
 - pkg:maven/org.semoss/monolith@3.3.7.3?classifier=sources
 - pkg:maven/org.semoss/monolith@3.3.7.2?type=war
 - pkg:maven/org.semoss/monolith@3.3.7.2?classifier=sources
+- pkg:maven/org.semoss/monolith@3.3.8.9?type=war
+- pkg:maven/org.semoss/monolith@3.3.8.9?classifier=sources

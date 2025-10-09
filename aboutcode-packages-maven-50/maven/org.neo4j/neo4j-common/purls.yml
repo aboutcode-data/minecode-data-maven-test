@@ -250,3 +250,5 @@
 - pkg:maven/org.neo4j/neo4j-common@3.4.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-common@3.4.12
 - pkg:maven/org.neo4j/neo4j-common@3.4.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j-common@3.5.2
+- pkg:maven/org.neo4j/neo4j-common@3.5.2?classifier=sources
