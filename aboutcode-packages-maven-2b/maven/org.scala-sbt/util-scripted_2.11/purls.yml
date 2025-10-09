@@ -52,3 +52,5 @@
 - pkg:maven/org.scala-sbt/util-scripted_2.11@1.1.0?classifier=sources
 - pkg:maven/org.scala-sbt/util-scripted_2.11@1.0.3
 - pkg:maven/org.scala-sbt/util-scripted_2.11@1.0.3?classifier=sources
+- pkg:maven/org.scala-sbt/util-scripted_2.11@1.1.1
+- pkg:maven/org.scala-sbt/util-scripted_2.11@1.1.1?classifier=sources
