@@ -38,3 +38,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.14?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.16
 - pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.16?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.18
+- pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.18?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.17
+- pkg:maven/com.google.api.grpc/grpc-google-common-protos@0.1.17?classifier=sources
