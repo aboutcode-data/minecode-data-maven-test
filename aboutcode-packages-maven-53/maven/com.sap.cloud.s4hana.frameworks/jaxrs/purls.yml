@@ -82,3 +82,5 @@
 - pkg:maven/com.sap.cloud.s4hana.frameworks/jaxrs@2.22.0?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.frameworks/jaxrs@2.22.1
 - pkg:maven/com.sap.cloud.s4hana.frameworks/jaxrs@2.22.1?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.frameworks/jaxrs@2.23.0
+- pkg:maven/com.sap.cloud.s4hana.frameworks/jaxrs@2.23.0?classifier=sources

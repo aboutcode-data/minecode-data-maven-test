@@ -40,3 +40,5 @@
 - pkg:maven/com.metaring/platform-client@1.2.8?classifier=sources
 - pkg:maven/com.metaring/platform-client@1.2.7
 - pkg:maven/com.metaring/platform-client@1.2.7?classifier=sources
+- pkg:maven/com.metaring/platform-client@1.5.1
+- pkg:maven/com.metaring/platform-client@1.5.1?classifier=sources
