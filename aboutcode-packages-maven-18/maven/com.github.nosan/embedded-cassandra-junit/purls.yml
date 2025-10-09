@@ -22,3 +22,5 @@
 - pkg:maven/com.github.nosan/embedded-cassandra-junit@0.0.10?classifier=sources
 - pkg:maven/com.github.nosan/embedded-cassandra-junit@0.0.12
 - pkg:maven/com.github.nosan/embedded-cassandra-junit@0.0.12?classifier=sources
+- pkg:maven/com.github.nosan/embedded-cassandra-junit@0.0.13
+- pkg:maven/com.github.nosan/embedded-cassandra-junit@0.0.13?classifier=sources

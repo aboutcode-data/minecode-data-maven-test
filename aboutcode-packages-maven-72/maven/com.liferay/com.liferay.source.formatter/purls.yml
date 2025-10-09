@@ -1276,3 +1276,7 @@
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.720?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.719?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.719?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.724?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.724?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.723?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.723?classifier=sources-commercial
