@@ -80,3 +80,5 @@
 - pkg:maven/org.elasticsearch.plugin/rank-eval-client@6.8.3?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/rank-eval-client@7.3.2
 - pkg:maven/org.elasticsearch.plugin/rank-eval-client@7.3.2?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/rank-eval-client@7.4.0
+- pkg:maven/org.elasticsearch.plugin/rank-eval-client@7.4.0?classifier=sources

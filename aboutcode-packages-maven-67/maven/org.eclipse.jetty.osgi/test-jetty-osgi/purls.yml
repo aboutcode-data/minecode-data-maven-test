@@ -424,3 +424,5 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@10.0.0-alpha0?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.20.v20190813
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.20.v20190813?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.21.v20190926
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.21.v20190926?classifier=sources

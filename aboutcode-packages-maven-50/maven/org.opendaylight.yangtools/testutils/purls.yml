@@ -122,3 +122,7 @@
 - pkg:maven/org.opendaylight.yangtools/testutils@1.0.2-Boron-SR2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/testutils@1.0.1-Boron-SR1
 - pkg:maven/org.opendaylight.yangtools/testutils@1.0.1-Boron-SR1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/testutils@4.0.1
+- pkg:maven/org.opendaylight.yangtools/testutils@4.0.1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/testutils@4.0.0
+- pkg:maven/org.opendaylight.yangtools/testutils@4.0.0?classifier=sources

@@ -96,3 +96,7 @@
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@2.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@2.0.0
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@2.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@4.0.1
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@4.0.1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@4.0.0
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@4.0.0?classifier=sources

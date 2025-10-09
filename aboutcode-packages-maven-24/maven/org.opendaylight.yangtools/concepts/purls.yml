@@ -162,3 +162,7 @@
 - pkg:maven/org.opendaylight.yangtools/concepts@0.6.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/concepts@0.1.0
 - pkg:maven/org.opendaylight.yangtools/concepts@0.1.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/concepts@4.0.1
+- pkg:maven/org.opendaylight.yangtools/concepts@4.0.1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/concepts@4.0.0
+- pkg:maven/org.opendaylight.yangtools/concepts@4.0.0?classifier=sources

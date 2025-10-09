@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-openshift-all@3.5.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-openshift-all@3.5.1?type=war
 - pkg:maven/org.eclipse.dirigible/dirigible-openshift-all@3.5.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-openshift-all@3.5.2?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-openshift-all@3.5.2?classifier=sources
