@@ -188,3 +188,5 @@
 - pkg:maven/org.reaktivity/nukleus-tls@0.92?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-tls@0.95
 - pkg:maven/org.reaktivity/nukleus-tls@0.95?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tls@0.96
+- pkg:maven/org.reaktivity/nukleus-tls@0.96?classifier=sources

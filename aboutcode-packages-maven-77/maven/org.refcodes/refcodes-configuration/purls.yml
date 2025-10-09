@@ -46,3 +46,5 @@
 - pkg:maven/org.refcodes/refcodes-configuration@1.10.3?classifier=sources
 - pkg:maven/org.refcodes/refcodes-configuration@2.0.0
 - pkg:maven/org.refcodes/refcodes-configuration@2.0.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-configuration@2.0.1
+- pkg:maven/org.refcodes/refcodes-configuration@2.0.1?classifier=sources

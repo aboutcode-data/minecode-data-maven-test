@@ -107,3 +107,5 @@
 - pkg:maven/org.onosproject/onos-rest-archetype@2.1.0-rc6?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@2.1.0-rc3?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@1.13.9-rc4?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.1.0-rc7?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.1.0?classifier=sources
