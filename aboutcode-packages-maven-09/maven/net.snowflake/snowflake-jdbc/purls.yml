@@ -94,3 +94,5 @@
 - pkg:maven/net.snowflake/snowflake-jdbc@3.5.3?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc@3.5.4
 - pkg:maven/net.snowflake/snowflake-jdbc@3.5.4?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.5.5
+- pkg:maven/net.snowflake/snowflake-jdbc@3.5.5?classifier=sources
