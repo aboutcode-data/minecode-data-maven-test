@@ -62,3 +62,5 @@
 - pkg:maven/com.alpinenow/plugin-io-impl@1.8?classifier=sources
 - pkg:maven/com.alpinenow/plugin-io-impl@1.9-alpha
 - pkg:maven/com.alpinenow/plugin-io-impl@1.9-alpha?classifier=sources
+- pkg:maven/com.alpinenow/plugin-io-impl@1.9-alpha-1
+- pkg:maven/com.alpinenow/plugin-io-impl@1.9-alpha-1?classifier=sources
