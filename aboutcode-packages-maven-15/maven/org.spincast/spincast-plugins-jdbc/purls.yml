@@ -1,0 +1,4 @@
+- pkg:maven/org.spincast/spincast-plugins-jdbc@0.9.36
+- pkg:maven/org.spincast/spincast-plugins-jdbc@0.9.36?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-jdbc@0.9.35
+- pkg:maven/org.spincast/spincast-plugins-jdbc@0.9.35?classifier=sources

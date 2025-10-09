@@ -58,3 +58,6 @@
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.windows.api@4.0.102?type=war
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.windows.api@4.0.102?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.windows.api@4.0.102?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.windows.api@4.0.107?type=war
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.windows.api@4.0.107?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.windows.api@4.0.107?classifier=source-release&type=zip

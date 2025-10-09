@@ -38,3 +38,5 @@
 - pkg:maven/org.languagetool/languagetool-core@3.8?classifier=sources
 - pkg:maven/org.languagetool/languagetool-core@3.9
 - pkg:maven/org.languagetool/languagetool-core@3.9?classifier=sources
+- pkg:maven/org.languagetool/languagetool-core@4.0
+- pkg:maven/org.languagetool/languagetool-core@4.0?classifier=sources
