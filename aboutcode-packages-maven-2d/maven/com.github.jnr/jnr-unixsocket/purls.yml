@@ -24,3 +24,5 @@
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.11?classifier=sources
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.13
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.13?classifier=sources
+- pkg:maven/com.github.jnr/jnr-unixsocket@0.14
+- pkg:maven/com.github.jnr/jnr-unixsocket@0.14?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.geirsson/scalafmt-cli_2.11@0.4.6?classifier=sources
 - pkg:maven/com.geirsson/scalafmt-cli_2.11@0.4.5
 - pkg:maven/com.geirsson/scalafmt-cli_2.11@0.4.5?classifier=sources
+- pkg:maven/com.geirsson/scalafmt-cli_2.11@0.4.8
+- pkg:maven/com.geirsson/scalafmt-cli_2.11@0.4.8?classifier=sources
