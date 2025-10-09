@@ -20,3 +20,5 @@
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.0.0-rc.8?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.0.0
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.0.0?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-jmx@1.0.1
+- pkg:maven/io.micrometer/micrometer-registry-jmx@1.0.1?classifier=sources

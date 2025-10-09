@@ -8,3 +8,9 @@
 - pkg:maven/io.bloombox/java-client@1.0-beta4?classifier=sources
 - pkg:maven/io.bloombox/java-client@1.0-rc7
 - pkg:maven/io.bloombox/java-client@1.0-rc7?classifier=sources
+- pkg:maven/io.bloombox/java-client@1.0-rc9
+- pkg:maven/io.bloombox/java-client@1.0-rc9?classifier=sources
+- pkg:maven/io.bloombox/java-client@1.0-rc8
+- pkg:maven/io.bloombox/java-client@1.0-rc8?classifier=sources
+- pkg:maven/io.bloombox/java-client@1.0
+- pkg:maven/io.bloombox/java-client@1.0?classifier=sources

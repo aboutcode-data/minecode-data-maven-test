@@ -112,3 +112,5 @@
 - pkg:maven/io.fabric8.tenant.apps/jenkins@4.0.50?classifier=sources
 - pkg:maven/io.fabric8.tenant.apps/jenkins@4.0.49
 - pkg:maven/io.fabric8.tenant.apps/jenkins@4.0.49?classifier=sources
+- pkg:maven/io.fabric8.tenant.apps/jenkins@4.0.57
+- pkg:maven/io.fabric8.tenant.apps/jenkins@4.0.57?classifier=sources
