@@ -30,3 +30,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.5.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.4.5.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.4.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.5.3.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.5.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.4.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-launch-script-tests@1.4.6.RELEASE?classifier=sources

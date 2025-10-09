@@ -62,3 +62,5 @@
 - pkg:maven/org.neo4j.client/neo4j-browser@3.0.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.client/neo4j-browser@3.0.0-alpha01
 - pkg:maven/org.neo4j.client/neo4j-browser@3.0.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.client/neo4j-browser@3.0.0-RC1
+- pkg:maven/org.neo4j.client/neo4j-browser@3.0.0-RC1?classifier=sources
