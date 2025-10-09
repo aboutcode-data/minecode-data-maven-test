@@ -12,3 +12,5 @@
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.1?type=war
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.1?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.3?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.3?classifier=sources

@@ -230,3 +230,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-core@3.19.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-core@3.19.1-01
 - pkg:maven/org.sonatype.nexus/nexus-core@3.19.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-core@2.14.15-01
+- pkg:maven/org.sonatype.nexus/nexus-core@2.14.15-01?classifier=sources

@@ -168,3 +168,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-loader@2.1.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-loader@2.1.9.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-loader@2.1.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-loader@2.2.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-loader@2.2.0.RELEASE?classifier=sources

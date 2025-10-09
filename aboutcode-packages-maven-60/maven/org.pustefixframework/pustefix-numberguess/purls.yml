@@ -380,3 +380,9 @@
 - pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.11?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.12?type=war
 - pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.12?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.15?type=war
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.15?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.14?type=war
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.14?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.13?type=war
+- pkg:maven/org.pustefixframework/pustefix-numberguess@0.22.13?classifier=sources

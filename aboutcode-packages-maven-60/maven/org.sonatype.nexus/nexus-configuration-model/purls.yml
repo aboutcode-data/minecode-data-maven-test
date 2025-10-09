@@ -190,3 +190,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.13-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.14-01
 - pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.14-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.15-01
+- pkg:maven/org.sonatype.nexus/nexus-configuration-model@2.14.15-01?classifier=sources
