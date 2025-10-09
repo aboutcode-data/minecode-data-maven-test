@@ -73,3 +73,6 @@
 - pkg:maven/com.groupbyinc/common-flux@80
 - pkg:maven/com.groupbyinc/common-flux@80?classifier=sources
 - pkg:maven/com.groupbyinc/common-flux@87
+- pkg:maven/com.groupbyinc/common-flux@87?classifier=sources
+- pkg:maven/com.groupbyinc/common-flux@86
+- pkg:maven/com.groupbyinc/common-flux@86?classifier=sources

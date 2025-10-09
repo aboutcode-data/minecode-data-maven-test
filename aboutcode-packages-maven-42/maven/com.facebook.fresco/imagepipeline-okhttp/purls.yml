@@ -42,3 +42,5 @@
 - pkg:maven/com.facebook.fresco/imagepipeline-okhttp@1.0.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-okhttp@1.0?type=aar
 - pkg:maven/com.facebook.fresco/imagepipeline-okhttp@1.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-okhttp@1.0.1?type=aar
+- pkg:maven/com.facebook.fresco/imagepipeline-okhttp@1.0.1?classifier=sources
