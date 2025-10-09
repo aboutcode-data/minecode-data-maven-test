@@ -196,3 +196,5 @@
 - pkg:maven/com.netflix.conductor/conductor-redis-persistence@2.1.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-redis-persistence@1.12.4
 - pkg:maven/com.netflix.conductor/conductor-redis-persistence@1.12.4?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-redis-persistence@2.1.1
+- pkg:maven/com.netflix.conductor/conductor-redis-persistence@2.1.1?classifier=sources

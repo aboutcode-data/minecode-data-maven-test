@@ -60,3 +60,7 @@
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.88?classifier=sources
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.87
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.87?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.91
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.91?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.90
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.90?classifier=sources

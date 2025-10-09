@@ -28,3 +28,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.16.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.17.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.17.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.17.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.17.1?classifier=sources

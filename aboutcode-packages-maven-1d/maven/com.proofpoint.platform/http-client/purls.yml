@@ -234,3 +234,5 @@
 - pkg:maven/com.proofpoint.platform/http-client@1.92?classifier=sources
 - pkg:maven/com.proofpoint.platform/http-client@1.91
 - pkg:maven/com.proofpoint.platform/http-client@1.91?classifier=sources
+- pkg:maven/com.proofpoint.platform/http-client@1.93
+- pkg:maven/com.proofpoint.platform/http-client@1.93?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-services@3.4.1?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-services@4.0.0
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-services@4.0.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-services@4.1.0
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-services@4.1.0?classifier=sources
