@@ -1,2 +1,4 @@
 - pkg:maven/org.web3j/contracts@4.2.0-android
 - pkg:maven/org.web3j/contracts@4.2.0-android?classifier=sources
+- pkg:maven/org.web3j/contracts@4.2.0
+- pkg:maven/org.web3j/contracts@4.2.0?classifier=sources
