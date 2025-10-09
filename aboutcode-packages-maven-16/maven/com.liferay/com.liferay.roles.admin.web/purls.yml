@@ -64,3 +64,6 @@
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.30
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.32
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.32?classifier=sources-commercial

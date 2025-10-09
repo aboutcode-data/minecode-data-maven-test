@@ -136,3 +136,5 @@
 - pkg:maven/com.google.api/gax@1.8.0?classifier=sources
 - pkg:maven/com.google.api/gax@1.9.0
 - pkg:maven/com.google.api/gax@1.9.0?classifier=sources
+- pkg:maven/com.google.api/gax@1.10.0
+- pkg:maven/com.google.api/gax@1.10.0?classifier=sources
