@@ -26,3 +26,5 @@
 - pkg:maven/io.prestosql/presto-matching@313?classifier=sources
 - pkg:maven/io.prestosql/presto-matching@312
 - pkg:maven/io.prestosql/presto-matching@312?classifier=sources
+- pkg:maven/io.prestosql/presto-matching@314
+- pkg:maven/io.prestosql/presto-matching@314?classifier=sources

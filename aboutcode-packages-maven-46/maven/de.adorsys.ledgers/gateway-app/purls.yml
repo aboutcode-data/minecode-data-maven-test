@@ -12,3 +12,5 @@
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.4?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.3.2
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.3.2?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@3.5
+- pkg:maven/de.adorsys.ledgers/gateway-app@3.5?classifier=sources

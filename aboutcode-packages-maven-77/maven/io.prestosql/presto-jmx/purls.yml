@@ -12,3 +12,4 @@
 - pkg:maven/io.prestosql/presto-jmx@311?classifier=sources
 - pkg:maven/io.prestosql/presto-jmx@313?classifier=sources
 - pkg:maven/io.prestosql/presto-jmx@312?classifier=sources
+- pkg:maven/io.prestosql/presto-jmx@314?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.zeebe/zeebe-logstreams@0.17.0
 - pkg:maven/io.zeebe/zeebe-logstreams@0.17.0?classifier=sources
+- pkg:maven/io.zeebe/zeebe-logstreams@0.18.0
+- pkg:maven/io.zeebe/zeebe-logstreams@0.18.0?classifier=sources

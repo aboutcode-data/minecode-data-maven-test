@@ -1,2 +1,6 @@
 - pkg:maven/io.get-coursier/coursier-cli-native_0.3_2.12@1.1.0-M14-7
 - pkg:maven/io.get-coursier/coursier-cli-native_0.3_2.12@1.1.0-M14-7?classifier=sources
+- pkg:maven/io.get-coursier/coursier-cli-native_0.3_2.12@2.0.0-RC2
+- pkg:maven/io.get-coursier/coursier-cli-native_0.3_2.12@2.0.0-RC2?classifier=sources
+- pkg:maven/io.get-coursier/coursier-cli-native_0.3_2.12@2.0.0-RC1
+- pkg:maven/io.get-coursier/coursier-cli-native_0.3_2.12@2.0.0-RC1?classifier=sources

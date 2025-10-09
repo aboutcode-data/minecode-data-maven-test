@@ -50,3 +50,7 @@
 - pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.4?classifier=sources
 - pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.5
 - pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.5?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.5-2
+- pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.5-2?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.5-1
+- pkg:maven/de.adorsys.sts/sts-persistence-mongo@0.29.5-1?classifier=sources
