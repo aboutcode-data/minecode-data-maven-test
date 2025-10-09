@@ -1,2 +1,4 @@
 - pkg:maven/software.reinvent/commons@0.3.4
 - pkg:maven/software.reinvent/commons@0.3.4?classifier=sources
+- pkg:maven/software.reinvent/commons@0.3.5
+- pkg:maven/software.reinvent/commons@0.3.5?classifier=sources

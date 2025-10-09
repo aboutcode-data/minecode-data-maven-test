@@ -4,3 +4,7 @@
 - pkg:maven/com.github.eliayng/compress-maven-plugin@1.0.0?classifier=sources
 - pkg:maven/com.github.eliayng/compress-maven-plugin@1.0.2
 - pkg:maven/com.github.eliayng/compress-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/com.github.eliayng/compress-maven-plugin@M1.0.1-releases
+- pkg:maven/com.github.eliayng/compress-maven-plugin@M1.0.1-releases?classifier=sources
+- pkg:maven/com.github.eliayng/compress-maven-plugin@1.0.1
+- pkg:maven/com.github.eliayng/compress-maven-plugin@1.0.1?classifier=sources
