@@ -1,2 +1,3 @@
 - pkg:maven/io.datakernel/archetype-http@3.0.0-rc?classifier=sources
 - pkg:maven/io.datakernel/archetype-http@3.0.0?classifier=sources
+- pkg:maven/io.datakernel/archetype-http@3.0.1?classifier=sources

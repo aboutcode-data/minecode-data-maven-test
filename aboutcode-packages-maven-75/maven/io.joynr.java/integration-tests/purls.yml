@@ -234,3 +234,5 @@
 - pkg:maven/io.joynr.java/integration-tests@1.7.3?classifier=sources
 - pkg:maven/io.joynr.java/integration-tests@1.9.2
 - pkg:maven/io.joynr.java/integration-tests@1.9.2?classifier=sources
+- pkg:maven/io.joynr.java/integration-tests@1.8.6
+- pkg:maven/io.joynr.java/integration-tests@1.8.6?classifier=sources
