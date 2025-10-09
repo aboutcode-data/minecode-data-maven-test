@@ -108,3 +108,5 @@
 - pkg:maven/com.wavefront/java-lib@4.27?classifier=sources
 - pkg:maven/com.wavefront/java-lib@4.28
 - pkg:maven/com.wavefront/java-lib@4.28?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.29
+- pkg:maven/com.wavefront/java-lib@4.29?classifier=sources

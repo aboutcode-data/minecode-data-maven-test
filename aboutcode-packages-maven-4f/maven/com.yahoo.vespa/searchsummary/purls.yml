@@ -190,3 +190,7 @@
 - pkg:maven/com.yahoo.vespa/searchsummary@6.254.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/searchsummary@6.252.3
 - pkg:maven/com.yahoo.vespa/searchsummary@6.252.3?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchsummary@6.257.14
+- pkg:maven/com.yahoo.vespa/searchsummary@6.257.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchsummary@6.255.2
+- pkg:maven/com.yahoo.vespa/searchsummary@6.255.2?classifier=sources

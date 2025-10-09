@@ -46,3 +46,5 @@
 - pkg:maven/com.wavefront/yammer-metrics@4.27?classifier=sources
 - pkg:maven/com.wavefront/yammer-metrics@4.28
 - pkg:maven/com.wavefront/yammer-metrics@4.28?classifier=sources
+- pkg:maven/com.wavefront/yammer-metrics@4.29
+- pkg:maven/com.wavefront/yammer-metrics@4.29?classifier=sources
