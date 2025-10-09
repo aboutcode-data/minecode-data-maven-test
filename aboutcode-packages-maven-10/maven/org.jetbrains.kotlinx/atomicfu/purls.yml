@@ -30,3 +30,5 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu@0.11.7-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu@0.11.10-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu@0.11.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu@0.11.11
+- pkg:maven/org.jetbrains.kotlinx/atomicfu@0.11.11?classifier=sources
