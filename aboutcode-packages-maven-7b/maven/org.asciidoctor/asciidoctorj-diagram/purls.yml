@@ -21,3 +21,5 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram@1.5.16?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram@1.5.18
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram@1.5.18?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-diagram@2.0.0
+- pkg:maven/org.asciidoctor/asciidoctorj-diagram@2.0.0?classifier=sources

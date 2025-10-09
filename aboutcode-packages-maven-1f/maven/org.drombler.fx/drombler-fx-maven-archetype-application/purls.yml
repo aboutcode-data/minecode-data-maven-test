@@ -12,3 +12,5 @@
 - pkg:maven/org.drombler.fx/drombler-fx-maven-archetype-application@0.12?classifier=sources
 - pkg:maven/org.drombler.fx/drombler-fx-maven-archetype-application@0.13?classifier=sources
 - pkg:maven/org.drombler.fx/drombler-fx-maven-archetype-application@0.14?classifier=sources
+- pkg:maven/org.drombler.fx/drombler-fx-maven-archetype-application@1.0?classifier=sources
+- pkg:maven/org.drombler.fx/drombler-fx-maven-archetype-application@0.14.1?classifier=sources

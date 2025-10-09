@@ -94,3 +94,5 @@
 - pkg:maven/org.codelibs/elasticsearch-configsync@7.3.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-configsync@7.4.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-configsync@7.4.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-configsync@7.5.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-configsync@7.5.0?classifier=sources
