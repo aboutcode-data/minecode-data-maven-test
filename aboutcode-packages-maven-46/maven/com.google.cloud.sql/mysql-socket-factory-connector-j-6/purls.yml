@@ -12,3 +12,5 @@
 - pkg:maven/com.google.cloud.sql/mysql-socket-factory-connector-j-6@1.0.7?classifier=sources
 - pkg:maven/com.google.cloud.sql/mysql-socket-factory-connector-j-6@1.0.9
 - pkg:maven/com.google.cloud.sql/mysql-socket-factory-connector-j-6@1.0.9?classifier=sources
+- pkg:maven/com.google.cloud.sql/mysql-socket-factory-connector-j-6@1.0.10
+- pkg:maven/com.google.cloud.sql/mysql-socket-factory-connector-j-6@1.0.10?classifier=sources
