@@ -24,3 +24,5 @@
 - pkg:maven/pl.wrzasq.lambda/lambda-dynamodb@1.0.40?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-dynamodb@1.0.39
 - pkg:maven/pl.wrzasq.lambda/lambda-dynamodb@1.0.39?classifier=sources
+- pkg:maven/pl.wrzasq.lambda/lambda-dynamodb@1.0.41
+- pkg:maven/pl.wrzasq.lambda/lambda-dynamodb@1.0.41?classifier=sources

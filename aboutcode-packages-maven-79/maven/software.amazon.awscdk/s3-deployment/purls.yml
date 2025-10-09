@@ -106,3 +106,5 @@
 - pkg:maven/software.amazon.awscdk/s3-deployment@1.13.1.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/s3-deployment@1.13.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/s3-deployment@1.13.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/s3-deployment@1.14.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/s3-deployment@1.14.0.DEVPREVIEW?classifier=sources
