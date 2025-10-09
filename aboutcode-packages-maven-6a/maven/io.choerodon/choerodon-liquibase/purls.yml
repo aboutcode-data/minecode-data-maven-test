@@ -26,3 +26,5 @@
 - pkg:maven/io.choerodon/choerodon-liquibase@0.9.3.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-liquibase@0.10.0.RELEASE
 - pkg:maven/io.choerodon/choerodon-liquibase@0.10.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.10.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.10.1.RELEASE?classifier=sources

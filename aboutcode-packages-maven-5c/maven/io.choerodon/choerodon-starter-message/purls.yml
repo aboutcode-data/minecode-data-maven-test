@@ -1,2 +1,4 @@
 - pkg:maven/io.choerodon/choerodon-starter-message@0.9.3.RELEASE
 - pkg:maven/io.choerodon/choerodon-starter-message@0.9.3.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-message@0.10.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-message@0.10.1.RELEASE?classifier=sources

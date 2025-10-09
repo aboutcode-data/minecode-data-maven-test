@@ -10,3 +10,5 @@
 - pkg:maven/io.quarkus/quarkus-resteasy@0.13.3?classifier=sources
 - pkg:maven/io.quarkus/quarkus-resteasy@0.13.2
 - pkg:maven/io.quarkus/quarkus-resteasy@0.13.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-resteasy@0.14.0
+- pkg:maven/io.quarkus/quarkus-resteasy@0.14.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.nextflow/nf-commons@19.03.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@19.04.0
 - pkg:maven/io.nextflow/nf-commons@19.04.0?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@19.04.0-edge
+- pkg:maven/io.nextflow/nf-commons@19.04.0-edge?classifier=sources
