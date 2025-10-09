@@ -46,3 +46,5 @@
 - pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_2.12@2.5.26?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_2.12@2.6.0-RC2
 - pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_2.12@2.6.0-RC2?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_2.12@2.6.0
+- pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_2.12@2.6.0?classifier=sources

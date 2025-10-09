@@ -60,3 +60,7 @@
 - pkg:maven/de.adorsys.psd2/spi-stub@4.3?classifier=sources
 - pkg:maven/de.adorsys.psd2/spi-stub@5.1.1
 - pkg:maven/de.adorsys.psd2/spi-stub@5.1.1?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-stub@5.4
+- pkg:maven/de.adorsys.psd2/spi-stub@5.4?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-stub@4.4
+- pkg:maven/de.adorsys.psd2/spi-stub@4.4?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-db@1.8?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-db@1.9
 - pkg:maven/de.adorsys.ledgers/ledgers-db@1.9?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-db@2.0
+- pkg:maven/de.adorsys.ledgers/ledgers-db@2.0?classifier=sources
