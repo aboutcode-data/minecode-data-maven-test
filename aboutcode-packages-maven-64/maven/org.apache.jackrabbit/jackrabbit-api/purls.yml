@@ -316,3 +316,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.14.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.5
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.5?classifier=sources
