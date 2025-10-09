@@ -372,3 +372,5 @@
 - pkg:maven/org.wildfly.core/wildfly-embedded@7.0.0.Alpha4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-embedded@7.0.0.Alpha3
 - pkg:maven/org.wildfly.core/wildfly-embedded@7.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-embedded@7.0.0.Alpha5
+- pkg:maven/org.wildfly.core/wildfly-embedded@7.0.0.Alpha5?classifier=sources

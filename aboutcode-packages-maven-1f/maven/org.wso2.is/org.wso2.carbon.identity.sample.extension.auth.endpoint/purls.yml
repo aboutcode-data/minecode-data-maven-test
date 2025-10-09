@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.auth.endpoint@5.8.0-m6?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.auth.endpoint@5.8.0-m7?type=war
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.auth.endpoint@5.8.0-m7?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.auth.endpoint@5.8.0-m8?type=war
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.sample.extension.auth.endpoint@5.8.0-m8?classifier=sources
