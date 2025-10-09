@@ -24,3 +24,5 @@
 - pkg:maven/dk.nodes.nstack/nstack-kotlin@2.0.8?classifier=sources
 - pkg:maven/dk.nodes.nstack/nstack-kotlin@2.0.9?type=aar
 - pkg:maven/dk.nodes.nstack/nstack-kotlin@2.0.9?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@2.0.10?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@2.0.10?classifier=sources

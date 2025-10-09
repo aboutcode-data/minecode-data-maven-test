@@ -64,3 +64,5 @@
 - pkg:maven/io.get-coursier/coursier-okhttp_2.12@1.0.3?classifier=sources
 - pkg:maven/io.get-coursier/coursier-okhttp_2.12@1.1.0-M2
 - pkg:maven/io.get-coursier/coursier-okhttp_2.12@1.1.0-M2?classifier=sources
+- pkg:maven/io.get-coursier/coursier-okhttp_2.12@1.1.0-M3
+- pkg:maven/io.get-coursier/coursier-okhttp_2.12@1.1.0-M3?classifier=sources

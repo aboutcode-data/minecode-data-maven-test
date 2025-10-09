@@ -42,3 +42,5 @@
 - pkg:maven/io.dropwizard.metrics/metrics-annotation@4.0.2?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-annotation@4.1.0-rc0
 - pkg:maven/io.dropwizard.metrics/metrics-annotation@4.1.0-rc0?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-annotation@4.1.0-rc2
+- pkg:maven/io.dropwizard.metrics/metrics-annotation@4.1.0-rc2?classifier=sources

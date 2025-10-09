@@ -64,3 +64,5 @@
 - pkg:maven/io.minio/minio@3.0.11?classifier=sources
 - pkg:maven/io.minio/minio@3.0.12
 - pkg:maven/io.minio/minio@3.0.12?classifier=sources
+- pkg:maven/io.minio/minio@4.0.0
+- pkg:maven/io.minio/minio@4.0.0?classifier=sources
