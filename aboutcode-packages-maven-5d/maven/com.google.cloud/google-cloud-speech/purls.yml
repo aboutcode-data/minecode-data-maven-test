@@ -84,3 +84,7 @@
 - pkg:maven/com.google.cloud/google-cloud-speech@0.28.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-speech@0.27.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-speech@0.27.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-speech@0.30.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-speech@0.30.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-speech@0.29.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-speech@0.29.0-alpha?classifier=sources

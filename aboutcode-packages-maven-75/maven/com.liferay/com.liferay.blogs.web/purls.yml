@@ -99,3 +99,6 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@1.1.27
 - pkg:maven/com.liferay/com.liferay.blogs.web@1.1.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@1.1.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.web@1.1.29
+- pkg:maven/com.liferay/com.liferay.blogs.web@1.1.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@1.1.29?classifier=sources-commercial
