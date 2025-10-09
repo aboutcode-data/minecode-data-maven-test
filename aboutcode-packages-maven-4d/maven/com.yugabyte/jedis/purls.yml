@@ -1,2 +1,4 @@
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-1
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-1?classifier=sources
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-2
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-2?classifier=sources

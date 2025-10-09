@@ -1,0 +1,4 @@
+- pkg:maven/com.thomaskint/minidao@0.0.1-alpha
+- pkg:maven/com.thomaskint/minidao@0.0.1-alpha?classifier=sources
+- pkg:maven/com.thomaskint/minidao@0.0.0
+- pkg:maven/com.thomaskint/minidao@0.0.0?classifier=sources

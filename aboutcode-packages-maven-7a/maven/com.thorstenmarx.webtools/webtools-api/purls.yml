@@ -26,3 +26,5 @@
 - pkg:maven/com.thorstenmarx.webtools/webtools-api@1.13.0?classifier=sources
 - pkg:maven/com.thorstenmarx.webtools/webtools-api@1.14.0
 - pkg:maven/com.thorstenmarx.webtools/webtools-api@1.14.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-api@2.0.0
+- pkg:maven/com.thorstenmarx.webtools/webtools-api@2.0.0?classifier=sources
