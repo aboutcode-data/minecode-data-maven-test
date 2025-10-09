@@ -70,3 +70,6 @@
 - pkg:maven/com.liferay/com.liferay.reading.time.service@2.0.4
 - pkg:maven/com.liferay/com.liferay.reading.time.service@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.reading.time.service@2.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.20
+- pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.20?classifier=sources-commercial

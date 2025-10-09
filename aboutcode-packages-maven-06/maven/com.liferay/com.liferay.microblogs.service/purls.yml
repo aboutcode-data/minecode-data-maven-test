@@ -180,3 +180,9 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.service@4.0.6
 - pkg:maven/com.liferay/com.liferay.microblogs.service@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.service@3.0.17
+- pkg:maven/com.liferay/com.liferay.microblogs.service@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.38
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.38?classifier=sources-commercial

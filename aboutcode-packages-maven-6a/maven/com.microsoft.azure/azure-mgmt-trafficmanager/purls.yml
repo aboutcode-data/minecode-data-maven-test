@@ -66,3 +66,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.21.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.22.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.22.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.23.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.23.0?classifier=sources

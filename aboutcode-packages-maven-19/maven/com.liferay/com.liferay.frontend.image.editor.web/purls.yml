@@ -168,3 +168,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.38
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.9
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.9?classifier=sources-commercial

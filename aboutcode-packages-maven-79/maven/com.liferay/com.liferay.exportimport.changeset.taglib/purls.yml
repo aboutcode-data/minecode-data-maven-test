@@ -46,3 +46,6 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.changeset.taglib@2.0.4
 - pkg:maven/com.liferay/com.liferay.exportimport.changeset.taglib@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.changeset.taglib@2.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.changeset.taglib@1.0.15
+- pkg:maven/com.liferay/com.liferay.exportimport.changeset.taglib@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.changeset.taglib@1.0.15?classifier=sources-commercial

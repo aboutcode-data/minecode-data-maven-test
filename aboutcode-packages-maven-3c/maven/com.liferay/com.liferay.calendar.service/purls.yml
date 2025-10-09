@@ -399,3 +399,12 @@
 - pkg:maven/com.liferay/com.liferay.calendar.service@4.0.10
 - pkg:maven/com.liferay/com.liferay.calendar.service@4.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.calendar.service@4.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.service@4.0.11
+- pkg:maven/com.liferay/com.liferay.calendar.service@4.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.service@4.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.service@3.0.37
+- pkg:maven/com.liferay/com.liferay.calendar.service@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.service@3.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.service@2.8.11
+- pkg:maven/com.liferay/com.liferay.calendar.service@2.8.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.service@2.8.11?classifier=sources-commercial

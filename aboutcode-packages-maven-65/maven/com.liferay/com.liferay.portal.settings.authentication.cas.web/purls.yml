@@ -66,3 +66,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@3.0.3
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@2.0.7
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@1.0.14
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@1.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.cas.web@1.0.14?classifier=sources-commercial
