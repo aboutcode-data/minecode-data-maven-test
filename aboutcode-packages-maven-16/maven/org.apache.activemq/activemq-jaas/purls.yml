@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.activemq/activemq-jaas@5.11.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-jaas@5.13.2
 - pkg:maven/org.apache.activemq/activemq-jaas@5.13.2?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-jaas@5.13.3
+- pkg:maven/org.apache.activemq/activemq-jaas@5.13.3?classifier=sources

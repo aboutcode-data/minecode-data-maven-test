@@ -16,3 +16,5 @@
 - pkg:maven/io.v/vanadium-without-natives@1.6?classifier=sources
 - pkg:maven/io.v/vanadium-without-natives@2.0
 - pkg:maven/io.v/vanadium-without-natives@2.0?classifier=sources
+- pkg:maven/io.v/vanadium-without-natives@2.1.2
+- pkg:maven/io.v/vanadium-without-natives@2.1.2?classifier=sources

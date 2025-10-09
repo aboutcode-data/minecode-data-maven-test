@@ -54,3 +54,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-json@3.0-alpha.2?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-json@3.0-alpha.1
 - pkg:maven/net.nemerosa.ontrack/ontrack-json@3.0-alpha.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-json@3.0-beta.0
+- pkg:maven/net.nemerosa.ontrack/ontrack-json@3.0-beta.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-json@2.20.8
+- pkg:maven/net.nemerosa.ontrack/ontrack-json@2.20.8?classifier=sources

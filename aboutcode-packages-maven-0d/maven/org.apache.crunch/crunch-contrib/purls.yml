@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.crunch/crunch-contrib@0.12.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-contrib@0.13.0
 - pkg:maven/org.apache.crunch/crunch-contrib@0.13.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-contrib@0.14.0
+- pkg:maven/org.apache.crunch/crunch-contrib@0.14.0?classifier=sources

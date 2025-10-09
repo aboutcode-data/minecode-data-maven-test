@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@5.5.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@6.0.0
 - pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@6.0.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@5.5.1
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@5.5.1?classifier=sources

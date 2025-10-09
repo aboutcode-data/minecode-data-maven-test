@@ -86,3 +86,5 @@
 - pkg:maven/org.apache.solr/solr-uima@5.5.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-uima@6.0.0
 - pkg:maven/org.apache.solr/solr-uima@6.0.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-uima@5.5.1
+- pkg:maven/org.apache.solr/solr-uima@5.5.1?classifier=sources
