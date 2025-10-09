@@ -56,3 +56,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.28
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.28?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.28?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.30
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.30?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.30?classifier=source-release&type=zip
