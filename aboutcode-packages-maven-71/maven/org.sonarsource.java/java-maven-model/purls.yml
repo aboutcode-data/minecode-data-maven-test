@@ -4,3 +4,5 @@
 - pkg:maven/org.sonarsource.java/java-maven-model@3.10?classifier=sources
 - pkg:maven/org.sonarsource.java/java-maven-model@3.11
 - pkg:maven/org.sonarsource.java/java-maven-model@3.11?classifier=sources
+- pkg:maven/org.sonarsource.java/java-maven-model@3.12
+- pkg:maven/org.sonarsource.java/java-maven-model@3.12?classifier=sources

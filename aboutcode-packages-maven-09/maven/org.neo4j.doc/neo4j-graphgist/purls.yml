@@ -74,3 +74,5 @@
 - pkg:maven/org.neo4j.doc/neo4j-graphgist@3.0.0-M04?classifier=sources
 - pkg:maven/org.neo4j.doc/neo4j-graphgist@3.0.0-M05
 - pkg:maven/org.neo4j.doc/neo4j-graphgist@3.0.0-M05?classifier=sources
+- pkg:maven/org.neo4j.doc/neo4j-graphgist@2.3.3
+- pkg:maven/org.neo4j.doc/neo4j-graphgist@2.3.3?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.reactivestreams/reactive-streams@1.0.0.RC5?classifier=sources
 - pkg:maven/org.reactivestreams/reactive-streams@1.0.0
 - pkg:maven/org.reactivestreams/reactive-streams@1.0.0?classifier=sources
+- pkg:maven/org.reactivestreams/reactive-streams@1.0.0.final
+- pkg:maven/org.reactivestreams/reactive-streams@1.0.0.final?classifier=sources
