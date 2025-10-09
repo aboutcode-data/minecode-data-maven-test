@@ -39,3 +39,5 @@
 - pkg:maven/org.apache.tika/tika-core@1.12?classifier=sources
 - pkg:maven/org.apache.tika/tika-core@1.13
 - pkg:maven/org.apache.tika/tika-core@1.13?classifier=sources
+- pkg:maven/org.apache.tika/tika-core@1.14
+- pkg:maven/org.apache.tika/tika-core@1.14?classifier=sources

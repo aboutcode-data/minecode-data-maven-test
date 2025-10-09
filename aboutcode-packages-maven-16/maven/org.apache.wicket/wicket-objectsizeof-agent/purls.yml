@@ -232,3 +232,5 @@
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.25.0
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.25.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.17
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.17?classifier=sources

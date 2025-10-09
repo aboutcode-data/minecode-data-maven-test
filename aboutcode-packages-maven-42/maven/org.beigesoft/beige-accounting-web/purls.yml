@@ -1,2 +1,4 @@
 - pkg:maven/org.beigesoft/beige-accounting-web@1.1.0?type=war
 - pkg:maven/org.beigesoft/beige-accounting-web@1.1.0?classifier=sources
+- pkg:maven/org.beigesoft/beige-accounting-web@1.1.1?type=war
+- pkg:maven/org.beigesoft/beige-accounting-web@1.1.1?classifier=sources

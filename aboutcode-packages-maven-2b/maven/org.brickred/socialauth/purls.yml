@@ -42,3 +42,5 @@
 - pkg:maven/org.brickred/socialauth@1.2-beta1?classifier=sources
 - pkg:maven/org.brickred/socialauth@1.1-beta1
 - pkg:maven/org.brickred/socialauth@1.1-beta1?classifier=sources
+- pkg:maven/org.brickred/socialauth@4.14
+- pkg:maven/org.brickred/socialauth@4.14?classifier=sources
