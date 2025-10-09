@@ -28,3 +28,5 @@
 - pkg:maven/com.facebook.testing.screenshot/core@0.8.0?classifier=sources
 - pkg:maven/com.facebook.testing.screenshot/core@0.9.0
 - pkg:maven/com.facebook.testing.screenshot/core@0.9.0?classifier=sources
+- pkg:maven/com.facebook.testing.screenshot/core@0.10.0?type=aar
+- pkg:maven/com.facebook.testing.screenshot/core@0.10.0?classifier=sources

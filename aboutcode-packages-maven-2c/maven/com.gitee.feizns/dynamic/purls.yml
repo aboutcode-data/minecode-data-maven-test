@@ -1,0 +1,8 @@
+- pkg:maven/com.gitee.feizns/dynamic@1.3-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@1.3-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@1.2-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@1.2-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@1.1-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@1.1-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@1.0-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@1.0-RELEASE?classifier=sources
