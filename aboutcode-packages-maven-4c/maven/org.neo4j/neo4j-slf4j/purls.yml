@@ -232,3 +232,5 @@
 - pkg:maven/org.neo4j/neo4j-slf4j@3.5.0-alpha05?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j@3.4.5
 - pkg:maven/org.neo4j/neo4j-slf4j@3.4.5?classifier=sources
+- pkg:maven/org.neo4j/neo4j-slf4j@3.5.0-alpha06
+- pkg:maven/org.neo4j/neo4j-slf4j@3.5.0-alpha06?classifier=sources
