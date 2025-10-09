@@ -26,3 +26,5 @@
 - pkg:maven/com.sun.xml.ws/rt@2.2.10-b140803.1500?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt@2.2.10
 - pkg:maven/com.sun.xml.ws/rt@2.2.10?classifier=sources
+- pkg:maven/com.sun.xml.ws/rt@2.3.0
+- pkg:maven/com.sun.xml.ws/rt@2.3.0?classifier=sources

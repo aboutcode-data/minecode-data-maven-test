@@ -126,3 +126,5 @@
 - pkg:maven/com.zaxxer/HikariCP@2.6.2?classifier=sources
 - pkg:maven/com.zaxxer/HikariCP@2.6.3
 - pkg:maven/com.zaxxer/HikariCP@2.6.3?classifier=sources
+- pkg:maven/com.zaxxer/HikariCP@2.7.0
+- pkg:maven/com.zaxxer/HikariCP@2.7.0?classifier=sources

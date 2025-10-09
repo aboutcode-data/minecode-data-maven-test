@@ -1,2 +1,4 @@
 - pkg:maven/com.proofpoint.platform/audit@1.59
 - pkg:maven/com.proofpoint.platform/audit@1.59?classifier=sources
+- pkg:maven/com.proofpoint.platform/audit@1.60
+- pkg:maven/com.proofpoint.platform/audit@1.60?classifier=sources
