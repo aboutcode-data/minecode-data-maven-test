@@ -64,3 +64,5 @@
 - pkg:maven/com.yahoo.vespa/application-deploy-plugin@6.175.31?classifier=sources
 - pkg:maven/com.yahoo.vespa/application-deploy-plugin@6.179.30
 - pkg:maven/com.yahoo.vespa/application-deploy-plugin@6.179.30?classifier=sources
+- pkg:maven/com.yahoo.vespa/application-deploy-plugin@6.182.28
+- pkg:maven/com.yahoo.vespa/application-deploy-plugin@6.182.28?classifier=sources

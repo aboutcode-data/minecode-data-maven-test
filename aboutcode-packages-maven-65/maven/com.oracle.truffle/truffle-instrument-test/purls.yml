@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.truffle/truffle-instrument-test@0.29?classifier=sources
 - pkg:maven/com.oracle.truffle/truffle-instrument-test@0.28.1
 - pkg:maven/com.oracle.truffle/truffle-instrument-test@0.28.1?classifier=sources
+- pkg:maven/com.oracle.truffle/truffle-instrument-test@0.30
+- pkg:maven/com.oracle.truffle/truffle-instrument-test@0.30?classifier=sources

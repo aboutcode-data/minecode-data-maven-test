@@ -160,3 +160,5 @@
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@5.17.2?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@5.18.0
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@5.18.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@5.19.0-rc.1
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@5.19.0-rc.1?classifier=sources
