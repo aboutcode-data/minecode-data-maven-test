@@ -422,3 +422,7 @@
 - pkg:maven/com.yahoo.vespa/logd@7.113.28?classifier=sources
 - pkg:maven/com.yahoo.vespa/logd@7.117.37
 - pkg:maven/com.yahoo.vespa/logd@7.117.37?classifier=sources
+- pkg:maven/com.yahoo.vespa/logd@7.120.13
+- pkg:maven/com.yahoo.vespa/logd@7.120.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/logd@7.119.4
+- pkg:maven/com.yahoo.vespa/logd@7.119.4?classifier=sources

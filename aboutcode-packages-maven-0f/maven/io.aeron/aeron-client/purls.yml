@@ -118,3 +118,5 @@
 - pkg:maven/io.aeron/aeron-client@1.21.2?classifier=sources
 - pkg:maven/io.aeron/aeron-client@1.22.0
 - pkg:maven/io.aeron/aeron-client@1.22.0?classifier=sources
+- pkg:maven/io.aeron/aeron-client@1.22.1
+- pkg:maven/io.aeron/aeron-client@1.22.1?classifier=sources
