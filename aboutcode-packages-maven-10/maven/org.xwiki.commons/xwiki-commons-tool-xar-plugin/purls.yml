@@ -502,3 +502,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-xar-plugin@10.11.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-xar-plugin@11.4-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-xar-plugin@11.4-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-xar-plugin@11.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-xar-plugin@11.4?classifier=sources

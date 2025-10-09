@@ -48,3 +48,5 @@
 - pkg:maven/software.amazon.awscdk/lambda-event-sources@0.31.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-event-sources@0.32.0
 - pkg:maven/software.amazon.awscdk/lambda-event-sources@0.32.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-event-sources@0.33.0
+- pkg:maven/software.amazon.awscdk/lambda-event-sources@0.33.0?classifier=sources
