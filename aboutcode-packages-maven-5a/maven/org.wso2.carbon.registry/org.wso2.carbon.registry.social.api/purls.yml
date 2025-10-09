@@ -49,3 +49,6 @@
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.social.api@4.6.27
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.social.api@4.6.27?classifier=sources
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.social.api@4.6.27?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.social.api@4.6.28
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.social.api@4.6.28?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.social.api@4.6.28?classifier=source-release&type=zip
