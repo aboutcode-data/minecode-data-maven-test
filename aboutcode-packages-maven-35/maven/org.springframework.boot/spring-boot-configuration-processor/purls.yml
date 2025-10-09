@@ -84,3 +84,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@1.5.13.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@1.5.13.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.0.3.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-configuration-processor@1.5.14.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-configuration-processor@1.5.14.RELEASE?classifier=sources

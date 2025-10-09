@@ -72,3 +72,7 @@
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.0.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.12.RELEASE
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@2.0.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-keyvalue@2.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.13.RELEASE
+- pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.13.RELEASE?classifier=sources

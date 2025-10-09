@@ -176,3 +176,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-http@5.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.16.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-http@5.0.6.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-http@5.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-http@4.3.17.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-http@4.3.17.RELEASE?classifier=sources
