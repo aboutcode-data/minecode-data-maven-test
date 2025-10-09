@@ -62,3 +62,5 @@
 - pkg:maven/com.addthis/bundle@2.10.2?classifier=sources
 - pkg:maven/com.addthis/bundle@2.11.0
 - pkg:maven/com.addthis/bundle@2.11.0?classifier=sources
+- pkg:maven/com.addthis/bundle@2.11.4
+- pkg:maven/com.addthis/bundle@2.11.4?classifier=sources

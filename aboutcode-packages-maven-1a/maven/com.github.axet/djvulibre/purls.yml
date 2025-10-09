@@ -22,3 +22,5 @@
 - pkg:maven/com.github.axet/djvulibre@0.0.11?classifier=sources
 - pkg:maven/com.github.axet/djvulibre@0.0.10?type=aar
 - pkg:maven/com.github.axet/djvulibre@0.0.10?classifier=sources
+- pkg:maven/com.github.axet/djvulibre@0.1.0?type=aar
+- pkg:maven/com.github.axet/djvulibre@0.1.0?classifier=sources

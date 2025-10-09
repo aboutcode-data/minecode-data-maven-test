@@ -24,3 +24,4 @@
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.203?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.204?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.205?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.206?classifier=sources

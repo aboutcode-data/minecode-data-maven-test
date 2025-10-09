@@ -144,3 +144,5 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@2.15.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@3.0.0
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@3.0.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@3.0.1
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-spring-boot@3.0.1?classifier=sources
