@@ -1,0 +1,2 @@
+- pkg:maven/io.prestosql/presto-memory-context@300
+- pkg:maven/io.prestosql/presto-memory-context@300?classifier=sources

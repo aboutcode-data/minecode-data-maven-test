@@ -128,3 +128,5 @@
 - pkg:maven/io.github.classgraph/classgraph@4.6.15?classifier=sources
 - pkg:maven/io.github.classgraph/classgraph@4.6.14
 - pkg:maven/io.github.classgraph/classgraph@4.6.14?classifier=sources
+- pkg:maven/io.github.classgraph/classgraph@4.6.19
+- pkg:maven/io.github.classgraph/classgraph@4.6.19?classifier=sources

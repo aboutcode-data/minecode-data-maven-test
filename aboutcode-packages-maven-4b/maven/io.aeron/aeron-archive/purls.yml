@@ -50,3 +50,5 @@
 - pkg:maven/io.aeron/aeron-archive@1.13.0?classifier=sources
 - pkg:maven/io.aeron/aeron-archive@1.14.0
 - pkg:maven/io.aeron/aeron-archive@1.14.0?classifier=sources
+- pkg:maven/io.aeron/aeron-archive@1.15.0
+- pkg:maven/io.aeron/aeron-archive@1.15.0?classifier=sources

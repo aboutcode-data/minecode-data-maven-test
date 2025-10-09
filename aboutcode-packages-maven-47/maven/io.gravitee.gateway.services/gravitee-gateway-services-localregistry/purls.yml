@@ -106,3 +106,5 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-localregistry@1.20.9?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-localregistry@1.21.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-localregistry@1.20.10?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-localregistry@1.22.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-localregistry@1.20.11?classifier=sources

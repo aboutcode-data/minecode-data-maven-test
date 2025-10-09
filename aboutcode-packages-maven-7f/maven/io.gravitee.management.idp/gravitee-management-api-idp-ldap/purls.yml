@@ -95,3 +95,5 @@
 - pkg:maven/io.gravitee.management.idp/gravitee-management-api-idp-ldap@1.20.9?classifier=sources
 - pkg:maven/io.gravitee.management.idp/gravitee-management-api-idp-ldap@1.21.3?classifier=sources
 - pkg:maven/io.gravitee.management.idp/gravitee-management-api-idp-ldap@1.20.10?classifier=sources
+- pkg:maven/io.gravitee.management.idp/gravitee-management-api-idp-ldap@1.22.0?classifier=sources
+- pkg:maven/io.gravitee.management.idp/gravitee-management-api-idp-ldap@1.20.11?classifier=sources

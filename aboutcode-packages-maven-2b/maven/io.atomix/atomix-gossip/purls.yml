@@ -120,3 +120,5 @@
 - pkg:maven/io.atomix/atomix-gossip@3.0.9?classifier=sources
 - pkg:maven/io.atomix/atomix-gossip@3.0.10
 - pkg:maven/io.atomix/atomix-gossip@3.0.10?classifier=sources
+- pkg:maven/io.atomix/atomix-gossip@2.0.25
+- pkg:maven/io.atomix/atomix-gossip@2.0.25?classifier=sources

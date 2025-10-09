@@ -22,3 +22,7 @@
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.8?classifier=sources
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.9
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.9?classifier=sources
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@1.11
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@1.11?classifier=sources
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@1.10
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@1.10?classifier=sources

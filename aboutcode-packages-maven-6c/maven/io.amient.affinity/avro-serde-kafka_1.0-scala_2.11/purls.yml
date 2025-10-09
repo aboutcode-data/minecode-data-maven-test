@@ -64,3 +64,5 @@
 - pkg:maven/io.amient.affinity/avro-serde-kafka_1.0-scala_2.11@0.9.11?classifier=sources
 - pkg:maven/io.amient.affinity/avro-serde-kafka_1.0-scala_2.11@0.9.10
 - pkg:maven/io.amient.affinity/avro-serde-kafka_1.0-scala_2.11@0.9.10?classifier=sources
+- pkg:maven/io.amient.affinity/avro-serde-kafka_1.0-scala_2.11@0.10.0
+- pkg:maven/io.amient.affinity/avro-serde-kafka_1.0-scala_2.11@0.10.0?classifier=sources
