@@ -26,3 +26,5 @@
 - pkg:maven/org.bitbucket.cowwoc/requirements-core@3.0.12?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc/requirements-core@3.0.13
 - pkg:maven/org.bitbucket.cowwoc/requirements-core@3.0.13?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc/requirements-core@4.0.0-RC
+- pkg:maven/org.bitbucket.cowwoc/requirements-core@4.0.0-RC?classifier=sources

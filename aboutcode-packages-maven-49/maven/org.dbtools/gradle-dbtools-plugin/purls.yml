@@ -80,3 +80,5 @@
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@9.0.0?classifier=sources
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@10.0.0
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@10.0.0?classifier=sources
+- pkg:maven/org.dbtools/gradle-dbtools-plugin@10.0.1
+- pkg:maven/org.dbtools/gradle-dbtools-plugin@10.0.1?classifier=sources

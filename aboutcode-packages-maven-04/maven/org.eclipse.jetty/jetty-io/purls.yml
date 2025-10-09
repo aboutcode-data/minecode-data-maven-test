@@ -436,3 +436,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-io@9.3.20.v20170531?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-io@9.2.22.v20170606
 - pkg:maven/org.eclipse.jetty/jetty-io@9.2.22.v20170606?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-io@9.3.21.M0
+- pkg:maven/org.eclipse.jetty/jetty-io@9.3.21.M0?classifier=sources
