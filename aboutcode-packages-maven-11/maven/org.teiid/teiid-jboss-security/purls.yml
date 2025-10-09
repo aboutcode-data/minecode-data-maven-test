@@ -58,3 +58,7 @@
 - pkg:maven/org.teiid/teiid-jboss-security@11.0.2?classifier=sources
 - pkg:maven/org.teiid/teiid-jboss-security@11.1.1
 - pkg:maven/org.teiid/teiid-jboss-security@11.1.1?classifier=sources
+- pkg:maven/org.teiid/teiid-jboss-security@11.2.0
+- pkg:maven/org.teiid/teiid-jboss-security@11.2.0?classifier=sources
+- pkg:maven/org.teiid/teiid-jboss-security@10.3.5
+- pkg:maven/org.teiid/teiid-jboss-security@10.3.5?classifier=sources

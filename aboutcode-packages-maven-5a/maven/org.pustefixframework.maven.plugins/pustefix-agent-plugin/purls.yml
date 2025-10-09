@@ -320,3 +320,5 @@
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-agent-plugin@0.22.6?classifier=sources
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-agent-plugin@0.20.32
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-agent-plugin@0.20.32?classifier=sources
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-agent-plugin@0.22.7
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-agent-plugin@0.22.7?classifier=sources

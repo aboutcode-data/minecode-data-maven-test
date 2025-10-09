@@ -68,3 +68,5 @@
 - pkg:maven/org.web3j/core@3.5.0?classifier=sources
 - pkg:maven/org.web3j/core@3.6.0
 - pkg:maven/org.web3j/core@3.6.0?classifier=sources
+- pkg:maven/org.web3j/core@4.0.0-alpha-1
+- pkg:maven/org.web3j/core@4.0.0-alpha-1?classifier=sources

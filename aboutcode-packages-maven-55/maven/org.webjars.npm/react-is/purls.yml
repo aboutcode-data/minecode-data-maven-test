@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/react-is@16.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/react-is@16.6.0-alpha.8af6728
 - pkg:maven/org.webjars.npm/react-is@16.6.0-alpha.8af6728?classifier=sources
+- pkg:maven/org.webjars.npm/react-is@16.6.0
+- pkg:maven/org.webjars.npm/react-is@16.6.0?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@2.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@2.0.2.Final
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@2.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.0.Alpha2
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.0.Alpha2?classifier=sources
