@@ -12,3 +12,5 @@
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.0-alpha08?classifier=sources
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.0-alpha09
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.0-alpha09?classifier=sources
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.0-beta01
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.0-beta01?classifier=sources

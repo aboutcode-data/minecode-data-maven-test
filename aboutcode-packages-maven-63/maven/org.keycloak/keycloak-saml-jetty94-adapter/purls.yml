@@ -48,3 +48,5 @@
 - pkg:maven/org.keycloak/keycloak-saml-jetty94-adapter@4.3.0.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-saml-jetty94-adapter@4.4.0.Final
 - pkg:maven/org.keycloak/keycloak-saml-jetty94-adapter@4.4.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-jetty94-adapter@4.5.0.Final
+- pkg:maven/org.keycloak/keycloak-saml-jetty94-adapter@4.5.0.Final?classifier=sources

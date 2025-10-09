@@ -7,3 +7,8 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.5?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.7?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.9-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.9?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.7-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.10-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-native@0.11.10?classifier=sources
