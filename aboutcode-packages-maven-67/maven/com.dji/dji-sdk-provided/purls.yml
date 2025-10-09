@@ -10,3 +10,5 @@
 - pkg:maven/com.dji/dji-sdk-provided@4.6?classifier=sources
 - pkg:maven/com.dji/dji-sdk-provided@4.7
 - pkg:maven/com.dji/dji-sdk-provided@4.7?classifier=sources
+- pkg:maven/com.dji/dji-sdk-provided@4.7.1
+- pkg:maven/com.dji/dji-sdk-provided@4.7.1?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.fizzed/rocker-compiler@0.24.0?classifier=sources
 - pkg:maven/com.fizzed/rocker-compiler@1.0.0
 - pkg:maven/com.fizzed/rocker-compiler@1.0.0?classifier=sources
+- pkg:maven/com.fizzed/rocker-compiler@1.1.0
+- pkg:maven/com.fizzed/rocker-compiler@1.1.0?classifier=sources

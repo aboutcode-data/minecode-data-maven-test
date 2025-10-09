@@ -148,3 +148,7 @@
 - pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@hadoop2-0.13.6?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@hadoop1-0.13.6
 - pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@hadoop1-0.13.6?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@0.10.10-hadoop2
+- pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@0.10.10-hadoop2?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@0.10.10-hadoop1
+- pkg:maven/com.google.cloud.bigdataoss/bigquery-connector@0.10.10-hadoop1?classifier=sources
