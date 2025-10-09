@@ -46,3 +46,5 @@
 - pkg:maven/com.docusign/docusign-esign-java@2.9.0?classifier=sources
 - pkg:maven/com.docusign/docusign-esign-java@2.10.0-RC1
 - pkg:maven/com.docusign/docusign-esign-java@2.10.0-RC1?classifier=sources
+- pkg:maven/com.docusign/docusign-esign-java@2.10.0-RC2
+- pkg:maven/com.docusign/docusign-esign-java@2.10.0-RC2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.stoyicker.test-accessors/processor-kotlin@1.0.0
+- pkg:maven/com.github.stoyicker.test-accessors/processor-kotlin@1.0.0?classifier=sources
+- pkg:maven/com.github.stoyicker.test-accessors/processor-kotlin@0.0.7
+- pkg:maven/com.github.stoyicker.test-accessors/processor-kotlin@0.0.7?classifier=sources
