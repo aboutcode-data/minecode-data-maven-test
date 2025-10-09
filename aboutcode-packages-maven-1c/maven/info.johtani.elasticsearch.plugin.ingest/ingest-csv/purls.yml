@@ -35,3 +35,5 @@
 - pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@7.4.0.0?classifier=sources
 - pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@7.4.1.0?classifier=sources
 - pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@7.4.2.0?classifier=sources
+- pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@6.8.5.0?classifier=sources
+- pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@6.8.4.0?classifier=sources

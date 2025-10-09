@@ -75,3 +75,7 @@
 - pkg:maven/com.vaadin/vaadin-core@14.0.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-core@14.0.15
 - pkg:maven/com.vaadin/vaadin-core@14.0.15?classifier=sources
+- pkg:maven/com.vaadin/vaadin-core@14.1.1
+- pkg:maven/com.vaadin/vaadin-core@14.1.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-core@14.1.0
+- pkg:maven/com.vaadin/vaadin-core@14.1.0?classifier=sources

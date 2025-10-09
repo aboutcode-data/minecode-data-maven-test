@@ -8,3 +8,5 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-zookeeper@1.4.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-zookeeper@1.4.0
 - pkg:maven/io.smallrye.config/smallrye-config-source-zookeeper@1.4.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-zookeeper@1.5.0
+- pkg:maven/io.smallrye.config/smallrye-config-source-zookeeper@1.5.0?classifier=sources

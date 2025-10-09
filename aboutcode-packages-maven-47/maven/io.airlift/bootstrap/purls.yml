@@ -242,3 +242,5 @@
 - pkg:maven/io.airlift/bootstrap@0.185?classifier=sources
 - pkg:maven/io.airlift/bootstrap@0.186
 - pkg:maven/io.airlift/bootstrap@0.186?classifier=sources
+- pkg:maven/io.airlift/bootstrap@0.187
+- pkg:maven/io.airlift/bootstrap@0.187?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.zeebe/atomix-raft@3.2.0-alpha8?classifier=sources
 - pkg:maven/io.zeebe/atomix-raft@3.2.0-alpha7
 - pkg:maven/io.zeebe/atomix-raft@3.2.0-alpha7?classifier=sources
+- pkg:maven/io.zeebe/atomix-raft@3.2.0-alpha9
+- pkg:maven/io.zeebe/atomix-raft@3.2.0-alpha9?classifier=sources
