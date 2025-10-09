@@ -50,3 +50,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.test@6.1.0.B002?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.test@6.0.200.RC3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.test@6.0.200.RC3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.test@6.0.200.0
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.test@6.0.200.0?classifier=sources

@@ -38,3 +38,7 @@
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.1.7?classifier=sources
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.0.9
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.0.9?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.1.8
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.1.8?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.0.10
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-common@2.0.10?classifier=sources

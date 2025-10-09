@@ -59,3 +59,5 @@
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.2?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.3
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.3?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox@1.8.13
+- pkg:maven/org.apache.pdfbox/pdfbox@1.8.13?classifier=sources
