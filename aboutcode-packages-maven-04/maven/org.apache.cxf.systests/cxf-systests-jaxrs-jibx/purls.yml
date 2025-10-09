@@ -28,3 +28,7 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.1.6?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.0.9
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.0.9?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.1.7
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.1.7?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.0.10
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs-jibx@3.0.10?classifier=sources
