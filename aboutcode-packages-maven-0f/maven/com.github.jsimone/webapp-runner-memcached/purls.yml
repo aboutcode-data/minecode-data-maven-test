@@ -88,3 +88,7 @@
 - pkg:maven/com.github.jsimone/webapp-runner-memcached@9.0.24.0?classifier=sources
 - pkg:maven/com.github.jsimone/webapp-runner-memcached@8.5.43.1
 - pkg:maven/com.github.jsimone/webapp-runner-memcached@8.5.43.1?classifier=sources
+- pkg:maven/com.github.jsimone/webapp-runner-memcached@9.0.24.1
+- pkg:maven/com.github.jsimone/webapp-runner-memcached@9.0.24.1?classifier=sources
+- pkg:maven/com.github.jsimone/webapp-runner-memcached@8.5.45.0
+- pkg:maven/com.github.jsimone/webapp-runner-memcached@8.5.45.0?classifier=sources
