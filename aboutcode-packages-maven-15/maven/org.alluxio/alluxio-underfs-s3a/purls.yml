@@ -24,3 +24,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@2.0.0?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@1.8.2
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@1.8.2?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@2.0.1
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@2.0.1?classifier=sources

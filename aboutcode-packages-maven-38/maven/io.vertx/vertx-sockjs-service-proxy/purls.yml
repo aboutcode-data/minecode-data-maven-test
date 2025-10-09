@@ -60,3 +60,7 @@
 - pkg:maven/io.vertx/vertx-sockjs-service-proxy@3.8.0?classifier=sources
 - pkg:maven/io.vertx/vertx-sockjs-service-proxy@4.0.0-milestone1
 - pkg:maven/io.vertx/vertx-sockjs-service-proxy@4.0.0-milestone1?classifier=sources
+- pkg:maven/io.vertx/vertx-sockjs-service-proxy@4.0.0-milestone2
+- pkg:maven/io.vertx/vertx-sockjs-service-proxy@4.0.0-milestone2?classifier=sources
+- pkg:maven/io.vertx/vertx-sockjs-service-proxy@3.8.1
+- pkg:maven/io.vertx/vertx-sockjs-service-proxy@3.8.1?classifier=sources
