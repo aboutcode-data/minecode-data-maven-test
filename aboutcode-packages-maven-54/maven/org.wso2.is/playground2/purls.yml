@@ -126,3 +126,5 @@
 - pkg:maven/org.wso2.is/playground2@5.8.0-m11?classifier=sources
 - pkg:maven/org.wso2.is/playground2@5.8.0-m10?type=war
 - pkg:maven/org.wso2.is/playground2@5.8.0-m10?classifier=sources
+- pkg:maven/org.wso2.is/playground2@5.8.0-m12?type=war
+- pkg:maven/org.wso2.is/playground2@5.8.0-m12?classifier=sources

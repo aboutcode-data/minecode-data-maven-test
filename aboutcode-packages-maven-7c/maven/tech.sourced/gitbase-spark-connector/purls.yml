@@ -1,0 +1,4 @@
+- pkg:maven/tech.sourced/gitbase-spark-connector@0.0.2
+- pkg:maven/tech.sourced/gitbase-spark-connector@0.0.2?classifier=sources
+- pkg:maven/tech.sourced/gitbase-spark-connector@0.0.1
+- pkg:maven/tech.sourced/gitbase-spark-connector@0.0.1?classifier=sources

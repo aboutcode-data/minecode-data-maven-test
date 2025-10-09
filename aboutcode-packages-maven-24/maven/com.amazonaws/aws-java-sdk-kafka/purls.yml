@@ -1,2 +1,4 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-kafka@1.11.461
 - pkg:maven/com.amazonaws/aws-java-sdk-kafka@1.11.461?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-kafka@1.11.462
+- pkg:maven/com.amazonaws/aws-java-sdk-kafka@1.11.462?classifier=sources

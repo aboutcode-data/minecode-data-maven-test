@@ -32,3 +32,5 @@
 - pkg:maven/software.amazon.awscdk/s3-notifications@0.18.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/s3-notifications@0.18.0
 - pkg:maven/software.amazon.awscdk/s3-notifications@0.18.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/s3-notifications@0.19.0
+- pkg:maven/software.amazon.awscdk/s3-notifications@0.19.0?classifier=sources
