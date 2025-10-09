@@ -360,3 +360,9 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.8.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.9
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.9?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.8.2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.8.2?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.10-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.10
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-xml@10.10?classifier=sources

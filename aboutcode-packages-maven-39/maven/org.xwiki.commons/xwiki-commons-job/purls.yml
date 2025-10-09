@@ -430,3 +430,9 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.8.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.9
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.9?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.8.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.8.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.10-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.10?classifier=sources
