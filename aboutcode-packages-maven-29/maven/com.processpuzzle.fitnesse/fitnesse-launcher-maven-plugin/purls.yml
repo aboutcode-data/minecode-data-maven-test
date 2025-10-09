@@ -18,3 +18,7 @@
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.4-RELEASE?classifier=src&type=zip
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.4-RELEASE?classifier=src&type=tar.gz
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.4-RELEASE?classifier=sources
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.5
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.5?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.5?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-maven-plugin@1.6.5?classifier=sources
