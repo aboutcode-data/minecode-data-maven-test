@@ -38,3 +38,5 @@
 - pkg:maven/io.grpc/grpc-netty-shaded@1.20.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.21.0
 - pkg:maven/io.grpc/grpc-netty-shaded@1.21.0?classifier=sources
+- pkg:maven/io.grpc/grpc-netty-shaded@1.22.0
+- pkg:maven/io.grpc/grpc-netty-shaded@1.22.0?classifier=sources
