@@ -1,2 +1,6 @@
 - pkg:maven/de.dentrassi.flow/flow-core@0.0.1
 - pkg:maven/de.dentrassi.flow/flow-core@0.0.1?classifier=sources
+- pkg:maven/de.dentrassi.flow/flow-core@0.0.4
+- pkg:maven/de.dentrassi.flow/flow-core@0.0.4?classifier=sources
+- pkg:maven/de.dentrassi.flow/flow-core@0.0.3
+- pkg:maven/de.dentrassi.flow/flow-core@0.0.3?classifier=sources

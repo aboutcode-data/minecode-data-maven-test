@@ -22,3 +22,5 @@
 - pkg:maven/io.github.anderscheow/application-service@1.0.11?classifier=sources
 - pkg:maven/io.github.anderscheow/application-service@1.0.10?type=aar
 - pkg:maven/io.github.anderscheow/application-service@1.0.10?classifier=sources
+- pkg:maven/io.github.anderscheow/application-service@1.0.12?type=aar
+- pkg:maven/io.github.anderscheow/application-service@1.0.12?classifier=sources

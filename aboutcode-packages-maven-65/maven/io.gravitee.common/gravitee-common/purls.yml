@@ -34,3 +34,5 @@
 - pkg:maven/io.gravitee.common/gravitee-common@1.5.0?classifier=sources
 - pkg:maven/io.gravitee.common/gravitee-common@1.6.0
 - pkg:maven/io.gravitee.common/gravitee-common@1.6.0?classifier=sources
+- pkg:maven/io.gravitee.common/gravitee-common@1.7.0
+- pkg:maven/io.gravitee.common/gravitee-common@1.7.0?classifier=sources
