@@ -204,3 +204,5 @@
 - pkg:maven/io.nextflow/nextflow@0.28.0-RC2?classifier=sources
 - pkg:maven/io.nextflow/nextflow@0.28.0
 - pkg:maven/io.nextflow/nextflow@0.28.0?classifier=sources
+- pkg:maven/io.nextflow/nextflow@0.28.1
+- pkg:maven/io.nextflow/nextflow@0.28.1?classifier=sources

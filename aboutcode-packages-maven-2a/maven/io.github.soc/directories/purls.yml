@@ -16,3 +16,5 @@
 - pkg:maven/io.github.soc/directories@9?classifier=sources
 - pkg:maven/io.github.soc/directories@8
 - pkg:maven/io.github.soc/directories@8?classifier=sources
+- pkg:maven/io.github.soc/directories@10
+- pkg:maven/io.github.soc/directories@10?classifier=sources

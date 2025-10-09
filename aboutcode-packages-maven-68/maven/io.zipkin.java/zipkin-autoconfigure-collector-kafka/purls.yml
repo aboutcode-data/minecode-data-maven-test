@@ -214,3 +214,5 @@
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka@2.5.2?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka@2.6.1
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka@2.6.1?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka@2.7.0
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka@2.7.0?classifier=sources
