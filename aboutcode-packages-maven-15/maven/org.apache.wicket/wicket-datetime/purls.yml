@@ -270,3 +270,5 @@
 - pkg:maven/org.apache.wicket/wicket-datetime@6.30.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@7.12.0
 - pkg:maven/org.apache.wicket/wicket-datetime@7.12.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-datetime@7.13.0
+- pkg:maven/org.apache.wicket/wicket-datetime@7.13.0?classifier=sources

@@ -108,3 +108,5 @@
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client-sniffer@7.0.0-rc2?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client-sniffer@6.7.1
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client-sniffer@6.7.1?classifier=sources
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client-sniffer@7.0.0
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client-sniffer@7.0.0?classifier=sources

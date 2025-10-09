@@ -158,3 +158,5 @@
 - pkg:maven/org.elasticsearch.client/transport@7.0.0-rc2?classifier=sources
 - pkg:maven/org.elasticsearch.client/transport@6.7.1
 - pkg:maven/org.elasticsearch.client/transport@6.7.1?classifier=sources
+- pkg:maven/org.elasticsearch.client/transport@7.0.0
+- pkg:maven/org.elasticsearch.client/transport@7.0.0?classifier=sources

@@ -228,3 +228,5 @@
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.3.26.v20190403?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.27.v20190403
 - pkg:maven/org.eclipse.jetty/apache-jsp@9.2.27.v20190403?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.4.16.v20190411
+- pkg:maven/org.eclipse.jetty/apache-jsp@9.4.16.v20190411?classifier=sources

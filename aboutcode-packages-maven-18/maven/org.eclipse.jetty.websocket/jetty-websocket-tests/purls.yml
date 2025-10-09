@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.15.v20190215
 - pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.15.v20190215?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.16.v20190411
+- pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.16.v20190411?classifier=sources

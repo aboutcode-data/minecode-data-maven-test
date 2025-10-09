@@ -70,3 +70,5 @@
 - pkg:maven/org.codelibs/elasticsearch-dataformat@6.6.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-dataformat@6.7.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-dataformat@6.7.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-dataformat@7.0.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-dataformat@7.0.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.0.0.CR1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.0.0.CR2
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.0.0.CR2?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.6.3.SP1
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.6.3.SP1?classifier=sources
