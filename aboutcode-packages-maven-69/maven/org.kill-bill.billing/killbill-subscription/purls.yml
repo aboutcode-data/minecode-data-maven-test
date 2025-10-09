@@ -122,3 +122,7 @@
 - pkg:maven/org.kill-bill.billing/killbill-subscription@0.16.11?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-subscription@0.16.10
 - pkg:maven/org.kill-bill.billing/killbill-subscription@0.16.10?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-subscription@0.17.2.3
+- pkg:maven/org.kill-bill.billing/killbill-subscription@0.17.2.3?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-subscription@0.16.12
+- pkg:maven/org.kill-bill.billing/killbill-subscription@0.16.12?classifier=sources

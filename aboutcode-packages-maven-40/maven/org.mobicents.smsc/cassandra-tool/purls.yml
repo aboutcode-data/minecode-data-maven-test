@@ -68,3 +68,5 @@
 - pkg:maven/org.mobicents.smsc/cassandra-tool@7.1.93?classifier=sources
 - pkg:maven/org.mobicents.smsc/cassandra-tool@7.1.91
 - pkg:maven/org.mobicents.smsc/cassandra-tool@7.1.91?classifier=sources
+- pkg:maven/org.mobicents.smsc/cassandra-tool@7.2.95
+- pkg:maven/org.mobicents.smsc/cassandra-tool@7.2.95?classifier=sources

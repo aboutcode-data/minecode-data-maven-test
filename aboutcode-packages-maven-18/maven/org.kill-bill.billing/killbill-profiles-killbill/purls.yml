@@ -106,3 +106,7 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.11?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.10?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.10?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.17.2.3?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.17.2.3?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.12?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.16.12?classifier=sources
