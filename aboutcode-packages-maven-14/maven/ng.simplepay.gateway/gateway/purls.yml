@@ -16,3 +16,5 @@
 - pkg:maven/ng.simplepay.gateway/gateway@0.0.8?classifier=sources
 - pkg:maven/ng.simplepay.gateway/gateway@2.0.0?type=aar
 - pkg:maven/ng.simplepay.gateway/gateway@2.0.0?classifier=sources
+- pkg:maven/ng.simplepay.gateway/gateway@2.0.1?type=aar
+- pkg:maven/ng.simplepay.gateway/gateway@2.0.1?classifier=sources

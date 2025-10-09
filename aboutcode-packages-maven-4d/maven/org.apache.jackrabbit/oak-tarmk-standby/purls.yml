@@ -166,3 +166,7 @@
 - pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.0.33?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.5.9
 - pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.5.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.4.7
+- pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.4.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.2.19
+- pkg:maven/org.apache.jackrabbit/oak-tarmk-standby@1.2.19?classifier=sources

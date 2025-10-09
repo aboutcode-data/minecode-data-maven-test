@@ -148,3 +148,9 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.12.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.10.4
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.10.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.8.3
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.8.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.6.6
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.6.6?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.13.3
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.13.3?classifier=sources
