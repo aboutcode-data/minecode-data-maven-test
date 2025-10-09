@@ -84,3 +84,9 @@
 - pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@2.2.38?classifier=sources
 - pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@2.2.37
 - pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@2.2.37?classifier=sources
+- pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@v2.3.hack-for-spark-aggregator.2
+- pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@v2.3.hack-for-spark-aggregator.2?classifier=sources
+- pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@v2.3.hack-for-spark-aggregator.1
+- pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@v2.3.hack-for-spark-aggregator.1?classifier=sources
+- pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@2.3.42
+- pkg:maven/io.github.tilumi/azure-eventhubs-spark_2.11@2.3.42?classifier=sources
