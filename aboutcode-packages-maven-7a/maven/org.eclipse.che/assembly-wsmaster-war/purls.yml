@@ -68,3 +68,5 @@
 - pkg:maven/org.eclipse.che/assembly-wsmaster-war@7.0.0-rc-4.0?classifier=sources
 - pkg:maven/org.eclipse.che/assembly-wsmaster-war@7.0.0?type=war
 - pkg:maven/org.eclipse.che/assembly-wsmaster-war@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsmaster-war@7.1.0?type=war
+- pkg:maven/org.eclipse.che/assembly-wsmaster-war@7.1.0?classifier=sources

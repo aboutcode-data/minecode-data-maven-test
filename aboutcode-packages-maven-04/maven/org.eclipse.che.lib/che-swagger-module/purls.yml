@@ -40,3 +40,5 @@
 - pkg:maven/org.eclipse.che.lib/che-swagger-module@7.0.0-rc-4.0?classifier=sources
 - pkg:maven/org.eclipse.che.lib/che-swagger-module@7.0.0
 - pkg:maven/org.eclipse.che.lib/che-swagger-module@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/che-swagger-module@7.1.0
+- pkg:maven/org.eclipse.che.lib/che-swagger-module@7.1.0?classifier=sources

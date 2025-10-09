@@ -66,3 +66,7 @@
 - pkg:maven/org.httprpc/httprpc@6.3.2?classifier=sources
 - pkg:maven/org.httprpc/httprpc@6.3.4
 - pkg:maven/org.httprpc/httprpc@6.3.4?classifier=sources
+- pkg:maven/org.httprpc/httprpc@6.4
+- pkg:maven/org.httprpc/httprpc@6.4?classifier=sources
+- pkg:maven/org.httprpc/httprpc@6.3.5
+- pkg:maven/org.httprpc/httprpc@6.3.5?classifier=sources
