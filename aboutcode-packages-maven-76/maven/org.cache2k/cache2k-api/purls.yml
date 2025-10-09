@@ -40,3 +40,5 @@
 - pkg:maven/org.cache2k/cache2k-api@1.0.1.Final?classifier=sources
 - pkg:maven/org.cache2k/cache2k-api@1.0.2.Final
 - pkg:maven/org.cache2k/cache2k-api@1.0.2.Final?classifier=sources
+- pkg:maven/org.cache2k/cache2k-api@1.1.1.Alpha
+- pkg:maven/org.cache2k/cache2k-api@1.1.1.Alpha?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.xbean/xbean-finder-shaded@4.7?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-finder-shaded@4.8
 - pkg:maven/org.apache.xbean/xbean-finder-shaded@4.8?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-finder-shaded@4.9
+- pkg:maven/org.apache.xbean/xbean-finder-shaded@4.9?classifier=sources
