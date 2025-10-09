@@ -26,3 +26,5 @@
 - pkg:maven/com.github.akinaru/speedtest@1.13?classifier=sources
 - pkg:maven/com.github.akinaru/speedtest@1.12
 - pkg:maven/com.github.akinaru/speedtest@1.12?classifier=sources
+- pkg:maven/com.github.akinaru/speedtest@1.16
+- pkg:maven/com.github.akinaru/speedtest@1.16?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.152
 - pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.152?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.152.1
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.152.1?classifier=sources

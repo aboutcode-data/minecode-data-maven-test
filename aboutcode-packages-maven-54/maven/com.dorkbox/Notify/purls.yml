@@ -16,3 +16,5 @@
 - pkg:maven/com.dorkbox/Notify@2.14?classifier=sources
 - pkg:maven/com.dorkbox/Notify@2.13
 - pkg:maven/com.dorkbox/Notify@2.13?classifier=sources
+- pkg:maven/com.dorkbox/Notify@2.15
+- pkg:maven/com.dorkbox/Notify@2.15?classifier=sources
