@@ -60,3 +60,5 @@
 - pkg:maven/io.grpc/grpc-netty-shaded@1.25.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.24.2
 - pkg:maven/io.grpc/grpc-netty-shaded@1.24.2?classifier=sources
+- pkg:maven/io.grpc/grpc-netty-shaded@1.26.0
+- pkg:maven/io.grpc/grpc-netty-shaded@1.26.0?classifier=sources
