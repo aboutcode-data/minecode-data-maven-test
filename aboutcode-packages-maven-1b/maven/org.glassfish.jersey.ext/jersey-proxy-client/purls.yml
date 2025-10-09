@@ -124,3 +124,5 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-proxy-client@2.25?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-proxy-client@2.26-b01
 - pkg:maven/org.glassfish.jersey.ext/jersey-proxy-client@2.26-b01?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-proxy-client@2.25.1
+- pkg:maven/org.glassfish.jersey.ext/jersey-proxy-client@2.25.1?classifier=sources

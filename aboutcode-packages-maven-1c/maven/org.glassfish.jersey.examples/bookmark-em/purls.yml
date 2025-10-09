@@ -166,3 +166,6 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.26-b01?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.26-b01?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.26-b01?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.25.1?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.25.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.25.1?classifier=project-src&type=zip
