@@ -28,3 +28,5 @@
 - pkg:maven/com.google.auto.value/auto-value@1.4-rc3?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value@1.4
 - pkg:maven/com.google.auto.value/auto-value@1.4?classifier=sources
+- pkg:maven/com.google.auto.value/auto-value@1.4.1
+- pkg:maven/com.google.auto.value/auto-value@1.4.1?classifier=sources

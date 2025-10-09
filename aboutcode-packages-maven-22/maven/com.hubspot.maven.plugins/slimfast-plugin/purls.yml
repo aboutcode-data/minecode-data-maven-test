@@ -16,3 +16,5 @@
 - pkg:maven/com.hubspot.maven.plugins/slimfast-plugin@0.11?classifier=sources
 - pkg:maven/com.hubspot.maven.plugins/slimfast-plugin@0.12
 - pkg:maven/com.hubspot.maven.plugins/slimfast-plugin@0.12?classifier=sources
+- pkg:maven/com.hubspot.maven.plugins/slimfast-plugin@0.14
+- pkg:maven/com.hubspot.maven.plugins/slimfast-plugin@0.14?classifier=sources
