@@ -208,3 +208,5 @@
 - pkg:maven/org.glassfish.hk2/caching-aop-example-runner@2.5.0-b62?classifier=sources
 - pkg:maven/org.glassfish.hk2/caching-aop-example-runner@2.5.0-b63
 - pkg:maven/org.glassfish.hk2/caching-aop-example-runner@2.5.0-b63?classifier=sources
+- pkg:maven/org.glassfish.hk2/caching-aop-example-runner@2.5.0
+- pkg:maven/org.glassfish.hk2/caching-aop-example-runner@2.5.0?classifier=sources
