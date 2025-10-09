@@ -80,3 +80,5 @@
 - pkg:maven/io.syndesis.server/syndesis-cli@1.6.11?classifier=sources
 - pkg:maven/io.syndesis.server/syndesis-cli@1.6.10
 - pkg:maven/io.syndesis.server/syndesis-cli@1.6.10?classifier=sources
+- pkg:maven/io.syndesis.server/syndesis-cli@1.6.13
+- pkg:maven/io.syndesis.server/syndesis-cli@1.6.13?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/io.scalecube/scalecube-services-gateway-rsocket@2.5.11?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-gateway-rsocket@2.5.10
 - pkg:maven/io.scalecube/scalecube-services-gateway-rsocket@2.5.10?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-gateway-rsocket@2.6.0
+- pkg:maven/io.scalecube/scalecube-services-gateway-rsocket@2.6.0?classifier=sources

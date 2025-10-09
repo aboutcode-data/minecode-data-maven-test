@@ -98,3 +98,5 @@
 - pkg:maven/io.syndesis.connector/connector-http@1.6.11?classifier=sources
 - pkg:maven/io.syndesis.connector/connector-http@1.6.10
 - pkg:maven/io.syndesis.connector/connector-http@1.6.10?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-http@1.6.13
+- pkg:maven/io.syndesis.connector/connector-http@1.6.13?classifier=sources
