@@ -8,3 +8,5 @@
 - pkg:maven/no.ssb.rawdata/rawdata-client-provider-postgres@0.4?classifier=sources
 - pkg:maven/no.ssb.rawdata/rawdata-client-provider-postgres@0.7
 - pkg:maven/no.ssb.rawdata/rawdata-client-provider-postgres@0.7?classifier=sources
+- pkg:maven/no.ssb.rawdata/rawdata-client-provider-postgres@0.8
+- pkg:maven/no.ssb.rawdata/rawdata-client-provider-postgres@0.8?classifier=sources

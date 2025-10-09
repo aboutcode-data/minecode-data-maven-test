@@ -168,3 +168,5 @@
 - pkg:maven/org.apache.camel/camel-couchdb@2.23.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-couchdb@3.0.0-RC2
 - pkg:maven/org.apache.camel/camel-couchdb@3.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel/camel-couchdb@3.0.0-RC3
+- pkg:maven/org.apache.camel/camel-couchdb@3.0.0-RC3?classifier=sources

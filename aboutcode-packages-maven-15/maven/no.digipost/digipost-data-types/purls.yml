@@ -58,3 +58,7 @@
 - pkg:maven/no.digipost/digipost-data-types@0.21?classifier=sources
 - pkg:maven/no.digipost/digipost-data-types@0.23
 - pkg:maven/no.digipost/digipost-data-types@0.23?classifier=sources
+- pkg:maven/no.digipost/digipost-data-types@0.24-RC2
+- pkg:maven/no.digipost/digipost-data-types@0.24-RC2?classifier=sources
+- pkg:maven/no.digipost/digipost-data-types@0.24-RC1
+- pkg:maven/no.digipost/digipost-data-types@0.24-RC1?classifier=sources

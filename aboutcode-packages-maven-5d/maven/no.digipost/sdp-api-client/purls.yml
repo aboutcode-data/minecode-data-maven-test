@@ -76,3 +76,7 @@
 - pkg:maven/no.digipost/sdp-api-client@2.13?classifier=sources
 - pkg:maven/no.digipost/sdp-api-client@2.12
 - pkg:maven/no.digipost/sdp-api-client@2.12?classifier=sources
+- pkg:maven/no.digipost/sdp-api-client@2.14.1
+- pkg:maven/no.digipost/sdp-api-client@2.14.1?classifier=sources
+- pkg:maven/no.digipost/sdp-api-client@2.14
+- pkg:maven/no.digipost/sdp-api-client@2.14?classifier=sources
