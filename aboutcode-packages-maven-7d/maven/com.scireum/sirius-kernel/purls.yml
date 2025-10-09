@@ -158,3 +158,5 @@
 - pkg:maven/com.scireum/sirius-kernel@6.21?classifier=sources
 - pkg:maven/com.scireum/sirius-kernel@6.20
 - pkg:maven/com.scireum/sirius-kernel@6.20?classifier=sources
+- pkg:maven/com.scireum/sirius-kernel@7.2.1
+- pkg:maven/com.scireum/sirius-kernel@7.2.1?classifier=sources
