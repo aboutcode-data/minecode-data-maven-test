@@ -12,3 +12,7 @@
 - pkg:maven/io.github.scouter-project/scouter-common@1.7.2?classifier=sources
 - pkg:maven/io.github.scouter-project/scouter-common@1.7.3
 - pkg:maven/io.github.scouter-project/scouter-common@1.7.3?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-common@v1.8.0
+- pkg:maven/io.github.scouter-project/scouter-common@v1.8.0?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-common@1.8.0
+- pkg:maven/io.github.scouter-project/scouter-common@1.8.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.1.31?classifier=sources
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.1.33
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.1.33?classifier=sources
+- pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.1.34
+- pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.1.34?classifier=sources

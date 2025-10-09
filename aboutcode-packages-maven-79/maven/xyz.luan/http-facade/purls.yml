@@ -18,3 +18,5 @@
 - pkg:maven/xyz.luan/http-facade@1.6?classifier=sources
 - pkg:maven/xyz.luan/http-facade@1.7
 - pkg:maven/xyz.luan/http-facade@1.7?classifier=sources
+- pkg:maven/xyz.luan/http-facade@2.0
+- pkg:maven/xyz.luan/http-facade@2.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/software.amazon.awssdk/storagegateway@2.0.0-preview-4?classifier=sources
 - pkg:maven/software.amazon.awssdk/storagegateway@2.0.0-preview-3
 - pkg:maven/software.amazon.awssdk/storagegateway@2.0.0-preview-3?classifier=sources
+- pkg:maven/software.amazon.awssdk/storagegateway@2.0.0-preview-5
+- pkg:maven/software.amazon.awssdk/storagegateway@2.0.0-preview-5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/za.co.absa.spline/spline-web@0.2.3?type=war
+- pkg:maven/za.co.absa.spline/spline-web@0.2.3?classifier=sources
+- pkg:maven/za.co.absa.spline/spline-web@0.2.2?type=war
+- pkg:maven/za.co.absa.spline/spline-web@0.2.2?classifier=sources

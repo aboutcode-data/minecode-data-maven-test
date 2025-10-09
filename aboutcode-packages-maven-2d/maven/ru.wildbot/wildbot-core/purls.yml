@@ -2,3 +2,5 @@
 - pkg:maven/ru.wildbot/wildbot-core@0.1.0-beta?classifier=sources
 - pkg:maven/ru.wildbot/wildbot-core@0.1.1-beta
 - pkg:maven/ru.wildbot/wildbot-core@0.1.1-beta?classifier=sources
+- pkg:maven/ru.wildbot/wildbot-core@0.1.2
+- pkg:maven/ru.wildbot/wildbot-core@0.1.2?classifier=sources
