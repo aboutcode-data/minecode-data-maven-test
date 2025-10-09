@@ -1,2 +1,4 @@
 - pkg:maven/org.sedlakovi.celery/celery-java@1.0
 - pkg:maven/org.sedlakovi.celery/celery-java@1.0?classifier=sources
+- pkg:maven/org.sedlakovi.celery/celery-java@1.1
+- pkg:maven/org.sedlakovi.celery/celery-java@1.1?classifier=sources
