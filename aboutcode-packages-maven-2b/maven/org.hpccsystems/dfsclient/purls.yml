@@ -18,3 +18,7 @@
 - pkg:maven/org.hpccsystems/dfsclient@7.2.20?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@7.2.22
 - pkg:maven/org.hpccsystems/dfsclient@7.2.22?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@7.4.0
+- pkg:maven/org.hpccsystems/dfsclient@7.4.0?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@7.2.24
+- pkg:maven/org.hpccsystems/dfsclient@7.2.24?classifier=sources

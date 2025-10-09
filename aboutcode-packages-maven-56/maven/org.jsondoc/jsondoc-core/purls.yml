@@ -88,3 +88,7 @@
 - pkg:maven/org.jsondoc/jsondoc-core@1.2.19?classifier=sources
 - pkg:maven/org.jsondoc/jsondoc-core@1.2.20
 - pkg:maven/org.jsondoc/jsondoc-core@1.2.20?classifier=sources
+- pkg:maven/org.jsondoc/jsondoc-core@1.2.21.RELEASE
+- pkg:maven/org.jsondoc/jsondoc-core@1.2.21.RELEASE?classifier=sources
+- pkg:maven/org.jsondoc/jsondoc-core@1.2.21
+- pkg:maven/org.jsondoc/jsondoc-core@1.2.21?classifier=sources

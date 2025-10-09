@@ -16,3 +16,7 @@
 - pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@4.2.2?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@3.8.1
 - pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@3.8.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@4.3.0
+- pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@4.3.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@3.9.0
+- pkg:maven/org.fluentlenium/fluentlenium-junit-jupiter@3.9.0?classifier=sources
