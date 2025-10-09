@@ -56,3 +56,5 @@
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.0.9?classifier=sources
 - pkg:maven/com.netflix.priam/priam-cass-extensions@2.7.0
 - pkg:maven/com.netflix.priam/priam-cass-extensions@2.7.0?classifier=sources
+- pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.0
+- pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.0?classifier=sources
