@@ -8,3 +8,5 @@
 - pkg:maven/com.hubspot.maven.plugins/dependency-management-maven-plugin@0.8?classifier=sources
 - pkg:maven/com.hubspot.maven.plugins/dependency-management-maven-plugin@0.9
 - pkg:maven/com.hubspot.maven.plugins/dependency-management-maven-plugin@0.9?classifier=sources
+- pkg:maven/com.hubspot.maven.plugins/dependency-management-maven-plugin@0.10
+- pkg:maven/com.hubspot.maven.plugins/dependency-management-maven-plugin@0.10?classifier=sources
