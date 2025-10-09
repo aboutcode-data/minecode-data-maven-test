@@ -36,3 +36,5 @@
 - pkg:maven/ch.sahits.game/OpenPatricianServer@1.0.0_RC3?classifier=sources
 - pkg:maven/ch.sahits.game/OpenPatricianServer@1.0.0_RC2
 - pkg:maven/ch.sahits.game/OpenPatricianServer@1.0.0_RC2?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianServer@1.0.0
+- pkg:maven/ch.sahits.game/OpenPatricianServer@1.0.0?classifier=sources

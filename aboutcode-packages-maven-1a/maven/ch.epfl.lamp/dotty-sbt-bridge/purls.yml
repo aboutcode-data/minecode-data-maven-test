@@ -626,3 +626,15 @@
 - pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.13.0-RC1
 - pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.13.0-RC1?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.12.0?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190302-45af82c-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190302-45af82c-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190301-21a2cd8-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190301-21a2cd8-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190228-df8f79f-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190228-df8f79f-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190227-c1c1db7-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190227-c1c1db7-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190226-afc03c9-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190226-afc03c9-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190225-7343e23-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.14.0-bin-20190225-7343e23-NIGHTLY?classifier=sources
