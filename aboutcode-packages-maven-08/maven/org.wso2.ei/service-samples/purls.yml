@@ -88,3 +88,5 @@
 - pkg:maven/org.wso2.ei/service-samples@6.5.0-m3?classifier=sources
 - pkg:maven/org.wso2.ei/service-samples@6.5.0
 - pkg:maven/org.wso2.ei/service-samples@6.5.0?classifier=sources
+- pkg:maven/org.wso2.ei/service-samples@1.1.0
+- pkg:maven/org.wso2.ei/service-samples@1.1.0?classifier=sources

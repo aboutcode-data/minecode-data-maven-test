@@ -88,3 +88,5 @@
 - pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.sample@6.5.0-m3?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.sample@6.5.0
 - pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.sample@6.5.0?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.sample@1.1.0
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.sample@1.1.0?classifier=sources
