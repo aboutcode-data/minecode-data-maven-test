@@ -4,3 +4,5 @@
 - pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.19?classifier=sources
 - pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.20
 - pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.20?classifier=sources
+- pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.24
+- pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.24?classifier=sources

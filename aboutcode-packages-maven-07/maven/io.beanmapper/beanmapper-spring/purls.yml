@@ -16,3 +16,5 @@
 - pkg:maven/io.beanmapper/beanmapper-spring@0.1.8?classifier=sources
 - pkg:maven/io.beanmapper/beanmapper-spring@1.0.0
 - pkg:maven/io.beanmapper/beanmapper-spring@1.0.0?classifier=sources
+- pkg:maven/io.beanmapper/beanmapper-spring@2.0.0
+- pkg:maven/io.beanmapper/beanmapper-spring@2.0.0?classifier=sources

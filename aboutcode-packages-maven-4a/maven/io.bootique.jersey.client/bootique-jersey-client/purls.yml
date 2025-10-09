@@ -8,3 +8,5 @@
 - pkg:maven/io.bootique.jersey.client/bootique-jersey-client@0.9?classifier=sources
 - pkg:maven/io.bootique.jersey.client/bootique-jersey-client@0.10
 - pkg:maven/io.bootique.jersey.client/bootique-jersey-client@0.10?classifier=sources
+- pkg:maven/io.bootique.jersey.client/bootique-jersey-client@0.24
+- pkg:maven/io.bootique.jersey.client/bootique-jersey-client@0.24?classifier=sources

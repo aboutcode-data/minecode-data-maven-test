@@ -134,3 +134,7 @@
 - pkg:maven/com.vmware.xenon/xenon-common@1.5.4-CR5?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-common@1.5.7
 - pkg:maven/com.vmware.xenon/xenon-common@1.5.7?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-common@1.5.7-CR1
+- pkg:maven/com.vmware.xenon/xenon-common@1.5.7-CR1?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-common@1.1.0-CR0-2
+- pkg:maven/com.vmware.xenon/xenon-common@1.1.0-CR0-2?classifier=sources

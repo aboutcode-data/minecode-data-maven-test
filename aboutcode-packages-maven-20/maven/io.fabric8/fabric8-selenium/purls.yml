@@ -340,3 +340,5 @@
 - pkg:maven/io.fabric8/fabric8-selenium@2.3.7?classifier=sources
 - pkg:maven/io.fabric8/fabric8-selenium@2.3.6
 - pkg:maven/io.fabric8/fabric8-selenium@2.3.6?classifier=sources
+- pkg:maven/io.fabric8/fabric8-selenium@3.0.1
+- pkg:maven/io.fabric8/fabric8-selenium@3.0.1?classifier=sources

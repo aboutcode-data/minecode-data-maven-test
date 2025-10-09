@@ -210,3 +210,5 @@
 - pkg:maven/com.spotify/styx-common@1.0.57?classifier=sources
 - pkg:maven/com.spotify/styx-common@1.0.56
 - pkg:maven/com.spotify/styx-common@1.0.56?classifier=sources
+- pkg:maven/com.spotify/styx-common@1.0.58
+- pkg:maven/com.spotify/styx-common@1.0.58?classifier=sources

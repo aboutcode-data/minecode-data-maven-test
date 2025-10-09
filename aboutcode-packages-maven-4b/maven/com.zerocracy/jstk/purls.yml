@@ -50,3 +50,5 @@
 - pkg:maven/com.zerocracy/jstk@0.15?classifier=sources
 - pkg:maven/com.zerocracy/jstk@0.14.9
 - pkg:maven/com.zerocracy/jstk@0.14.9?classifier=sources
+- pkg:maven/com.zerocracy/jstk@0.16
+- pkg:maven/com.zerocracy/jstk@0.16?classifier=sources

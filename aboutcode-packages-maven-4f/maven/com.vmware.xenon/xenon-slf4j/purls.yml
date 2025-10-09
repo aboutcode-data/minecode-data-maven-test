@@ -74,3 +74,5 @@
 - pkg:maven/com.vmware.xenon/xenon-slf4j@1.1.0-CR5?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-slf4j@1.1.0-CR6
 - pkg:maven/com.vmware.xenon/xenon-slf4j@1.1.0-CR6?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-slf4j@1.1.0-CR0-2
+- pkg:maven/com.vmware.xenon/xenon-slf4j@1.1.0-CR0-2?classifier=sources
