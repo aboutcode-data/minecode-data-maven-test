@@ -22,3 +22,7 @@
 - pkg:maven/org.reaktivity/nukleus-oauth.spec@0.32?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-oauth.spec@0.31
 - pkg:maven/org.reaktivity/nukleus-oauth.spec@0.31?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-oauth.spec@0.34
+- pkg:maven/org.reaktivity/nukleus-oauth.spec@0.34?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-oauth.spec@0.33
+- pkg:maven/org.reaktivity/nukleus-oauth.spec@0.33?classifier=sources
