@@ -38,3 +38,5 @@
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.3?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@6.0
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@6.0?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@6.0.1
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@6.0.1?classifier=sources
