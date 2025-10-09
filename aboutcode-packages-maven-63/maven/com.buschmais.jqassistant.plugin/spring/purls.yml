@@ -1,2 +1,4 @@
 - pkg:maven/com.buschmais.jqassistant.plugin/spring@1.4
 - pkg:maven/com.buschmais.jqassistant.plugin/spring@1.4?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/spring@1.5-RC-1
+- pkg:maven/com.buschmais.jqassistant.plugin/spring@1.5-RC-1?classifier=sources

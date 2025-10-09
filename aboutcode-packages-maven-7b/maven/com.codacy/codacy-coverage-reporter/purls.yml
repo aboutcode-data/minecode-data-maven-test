@@ -42,3 +42,5 @@
 - pkg:maven/com.codacy/codacy-coverage-reporter@5.0.291?classifier=sources
 - pkg:maven/com.codacy/codacy-coverage-reporter@5.0.274
 - pkg:maven/com.codacy/codacy-coverage-reporter@5.0.274?classifier=sources
+- pkg:maven/com.codacy/codacy-coverage-reporter@4.0.3
+- pkg:maven/com.codacy/codacy-coverage-reporter@4.0.3?classifier=sources
