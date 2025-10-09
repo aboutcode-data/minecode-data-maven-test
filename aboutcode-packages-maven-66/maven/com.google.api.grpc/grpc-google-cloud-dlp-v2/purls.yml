@@ -156,3 +156,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@0.81.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@0.82.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@0.82.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@0.83.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@0.83.0?classifier=sources

@@ -168,3 +168,6 @@
 - pkg:maven/com.liferay/com.liferay.directory.web@1.0.36
 - pkg:maven/com.liferay/com.liferay.directory.web@1.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.directory.web@1.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.directory.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.directory.web@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.directory.web@3.0.17?classifier=sources-commercial

@@ -108,3 +108,5 @@
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.13?classifier=sources
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.12?type=war
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.12?classifier=sources
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.9.14?type=war
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.9.14?classifier=sources

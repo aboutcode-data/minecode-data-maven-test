@@ -40,3 +40,11 @@
 - pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.0-jre12?classifier=sources
 - pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.0
 - pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.0?classifier=sources
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1-jre8
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1-jre8?classifier=sources
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1-jre13
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1-jre13?classifier=sources
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1-jre12
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1-jre12?classifier=sources
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1
+- pkg:maven/com.guicedee.services/hibernate-commons-annotations@1.0.1.1?classifier=sources
