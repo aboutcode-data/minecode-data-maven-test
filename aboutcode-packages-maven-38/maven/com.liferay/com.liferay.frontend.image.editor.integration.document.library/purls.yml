@@ -49,3 +49,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.20
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.0
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.0?classifier=sources-commercial

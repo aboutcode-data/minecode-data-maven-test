@@ -30,3 +30,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.module.configuration@2.0.12
 - pkg:maven/com.liferay/com.liferay.portal.configuration.module.configuration@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.module.configuration@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.configuration.module.configuration@3.0.0
+- pkg:maven/com.liferay/com.liferay.portal.configuration.module.configuration@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.module.configuration@3.0.0?classifier=sources-commercial

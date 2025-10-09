@@ -120,3 +120,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.53
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.0
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.0?classifier=sources-commercial

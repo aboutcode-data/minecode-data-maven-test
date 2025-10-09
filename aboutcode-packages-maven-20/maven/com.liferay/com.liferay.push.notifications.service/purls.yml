@@ -55,3 +55,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.22
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.0
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.24
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.24?classifier=sources-commercial

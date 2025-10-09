@@ -92,3 +92,9 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@1.2.31
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@1.2.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@1.2.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@2.0.0
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@1.2.33
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@1.2.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@1.2.33?classifier=sources-commercial

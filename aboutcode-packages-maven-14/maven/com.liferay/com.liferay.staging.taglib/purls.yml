@@ -63,3 +63,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.22
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.taglib@4.0.0
+- pkg:maven/com.liferay/com.liferay.staging.taglib@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@4.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.23
+- pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.23?classifier=sources-commercial

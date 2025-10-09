@@ -45,3 +45,6 @@
 - pkg:maven/com.liferay/com.liferay.site.teams.web@1.0.19
 - pkg:maven/com.liferay/com.liferay.site.teams.web@1.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.teams.web@1.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.teams.web@2.0.0
+- pkg:maven/com.liferay/com.liferay.site.teams.web@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.teams.web@2.0.0?classifier=sources-commercial
