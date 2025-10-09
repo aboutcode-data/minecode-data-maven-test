@@ -16,3 +16,5 @@
 - pkg:maven/com.devops4j.logtrace4j/logtrace4j@1.0.0-PRE1?classifier=sources
 - pkg:maven/com.devops4j.logtrace4j/logtrace4j@1.0.0-PRE2
 - pkg:maven/com.devops4j.logtrace4j/logtrace4j@1.0.0-PRE2?classifier=sources
+- pkg:maven/com.devops4j.logtrace4j/logtrace4j@1.0.0
+- pkg:maven/com.devops4j.logtrace4j/logtrace4j@1.0.0?classifier=sources

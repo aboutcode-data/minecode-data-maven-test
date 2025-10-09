@@ -15,3 +15,7 @@
 - pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.5?classifier=sources
 - pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.8?type=aar
 - pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.8?classifier=sources
+- pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.9?type=aar
+- pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.9?classifier=sources
+- pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.10?type=aar
+- pkg:maven/com.baristav.debugartist/reporter_pivotal@0.6.10?classifier=sources

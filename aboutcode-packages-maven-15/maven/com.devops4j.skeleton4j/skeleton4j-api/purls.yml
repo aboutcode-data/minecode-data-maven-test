@@ -49,3 +49,5 @@
 - pkg:maven/com.devops4j.skeleton4j/skeleton4j-api@1.0.0-PRE11?classifier=sources
 - pkg:maven/com.devops4j.skeleton4j/skeleton4j-api@1.0.0-PRE10
 - pkg:maven/com.devops4j.skeleton4j/skeleton4j-api@1.0.0-PRE10?classifier=sources
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-api@1.0.0
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-api@1.0.0?classifier=sources
