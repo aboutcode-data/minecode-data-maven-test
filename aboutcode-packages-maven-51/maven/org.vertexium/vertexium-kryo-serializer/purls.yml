@@ -130,3 +130,5 @@
 - pkg:maven/org.vertexium/vertexium-kryo-serializer@4.1.1.2?classifier=sources
 - pkg:maven/org.vertexium/vertexium-kryo-serializer@2.4.8
 - pkg:maven/org.vertexium/vertexium-kryo-serializer@2.4.8?classifier=sources
+- pkg:maven/org.vertexium/vertexium-kryo-serializer@4.4.0
+- pkg:maven/org.vertexium/vertexium-kryo-serializer@4.4.0?classifier=sources

@@ -96,3 +96,7 @@
 - pkg:maven/org.rocksdb/rocksdbjni@5.13.4?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@5.14.2
 - pkg:maven/org.rocksdb/rocksdbjni@5.14.2?classifier=sources
+- pkg:maven/org.rocksdb/rocksdbjni@5.15.10
+- pkg:maven/org.rocksdb/rocksdbjni@5.15.10?classifier=sources
+- pkg:maven/org.rocksdb/rocksdbjni@5.14.3
+- pkg:maven/org.rocksdb/rocksdbjni@5.14.3?classifier=sources

@@ -130,3 +130,7 @@
 - pkg:maven/org.webjars.npm/react@16.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/react@16.6.0-alpha.0
 - pkg:maven/org.webjars.npm/react@16.6.0-alpha.0?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.6.0-alpha.f47a958
+- pkg:maven/org.webjars.npm/react@16.6.0-alpha.f47a958?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.6.0-alpha.400d197
+- pkg:maven/org.webjars.npm/react@16.6.0-alpha.400d197?classifier=sources

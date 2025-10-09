@@ -40,3 +40,5 @@
 - pkg:maven/org.vertexium/vertexium-elasticsearch5@4.3.0?classifier=sources
 - pkg:maven/org.vertexium/vertexium-elasticsearch5@4.1.1.2
 - pkg:maven/org.vertexium/vertexium-elasticsearch5@4.1.1.2?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.4.0
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.4.0?classifier=sources
