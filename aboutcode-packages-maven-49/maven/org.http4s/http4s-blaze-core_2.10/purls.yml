@@ -152,3 +152,7 @@
 - pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.11a?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.11
 - pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.11?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.12a
+- pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.12a?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.12
+- pkg:maven/org.http4s/http4s-blaze-core_2.10@0.15.12?classifier=sources

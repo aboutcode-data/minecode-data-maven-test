@@ -14,3 +14,5 @@
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.0.Alpha5
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.0.Alpha5?classifier=sources
+- pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.0.Alpha9
+- pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.0.Alpha9?classifier=sources

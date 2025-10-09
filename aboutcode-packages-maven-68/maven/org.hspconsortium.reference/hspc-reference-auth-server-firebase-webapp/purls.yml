@@ -1,2 +1,4 @@
 - pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-firebase-webapp@1.4?type=war
 - pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-firebase-webapp@1.4?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-firebase-webapp@1.5?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-firebase-webapp@1.5?classifier=sources

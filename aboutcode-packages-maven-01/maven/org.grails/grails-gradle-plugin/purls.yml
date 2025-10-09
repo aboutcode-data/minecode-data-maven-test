@@ -109,3 +109,5 @@
 - pkg:maven/org.grails/grails-gradle-plugin@3.1.16?classifier=sources
 - pkg:maven/org.grails/grails-gradle-plugin@3.2.9
 - pkg:maven/org.grails/grails-gradle-plugin@3.2.9?classifier=sources
+- pkg:maven/org.grails/grails-gradle-plugin@3.3.0.M1
+- pkg:maven/org.grails/grails-gradle-plugin@3.3.0.M1?classifier=sources
