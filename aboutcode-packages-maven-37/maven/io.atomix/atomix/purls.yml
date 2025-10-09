@@ -152,3 +152,5 @@
 - pkg:maven/io.atomix/atomix@3.1.0-beta3?classifier=sources
 - pkg:maven/io.atomix/atomix@3.1.0-beta2
 - pkg:maven/io.atomix/atomix@3.1.0-beta2?classifier=sources
+- pkg:maven/io.atomix/atomix@3.1.0-beta4
+- pkg:maven/io.atomix/atomix@3.1.0-beta4?classifier=sources

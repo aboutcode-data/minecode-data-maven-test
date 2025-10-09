@@ -260,3 +260,11 @@
 - pkg:maven/com.yahoo.vespa/bundle-plugin@6.310.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/bundle-plugin@6.313.35
 - pkg:maven/com.yahoo.vespa/bundle-plugin@6.313.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.323.4
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.323.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.322.19
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.322.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.321.2
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.321.2?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.320.33
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.320.33?classifier=sources

@@ -129,3 +129,7 @@
 - pkg:maven/com.yahoo.vespa/jrt@6.311.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@6.310.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@6.313.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@6.323.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@6.322.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@6.321.2?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@6.320.33?classifier=sources
