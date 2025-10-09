@@ -148,3 +148,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@2.13.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.1-01
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.2-02
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.0.2-02?classifier=sources

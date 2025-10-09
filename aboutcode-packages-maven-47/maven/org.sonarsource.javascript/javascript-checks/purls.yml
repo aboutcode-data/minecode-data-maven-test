@@ -14,3 +14,5 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks@2.13?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@2.15
 - pkg:maven/org.sonarsource.javascript/javascript-checks@2.15?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks@2.16.0.2922
+- pkg:maven/org.sonarsource.javascript/javascript-checks@2.16.0.2922?classifier=sources
