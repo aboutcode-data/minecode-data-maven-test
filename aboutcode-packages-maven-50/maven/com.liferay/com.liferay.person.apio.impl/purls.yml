@@ -25,3 +25,6 @@
 - pkg:maven/com.liferay/com.liferay.person.apio.impl@1.0.14
 - pkg:maven/com.liferay/com.liferay.person.apio.impl@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.person.apio.impl@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.person.apio.impl@1.0.16
+- pkg:maven/com.liferay/com.liferay.person.apio.impl@1.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.person.apio.impl@1.0.16?classifier=sources-commercial
