@@ -132,3 +132,7 @@
 - pkg:maven/org.javers/javers-spring@1.4.10?classifier=sources
 - pkg:maven/org.javers/javers-spring@1.4.11
 - pkg:maven/org.javers/javers-spring@1.4.11?classifier=sources
+- pkg:maven/org.javers/javers-spring@1.5.0
+- pkg:maven/org.javers/javers-spring@1.5.0?classifier=sources
+- pkg:maven/org.javers/javers-spring@1.4.12
+- pkg:maven/org.javers/javers-spring@1.4.12?classifier=sources

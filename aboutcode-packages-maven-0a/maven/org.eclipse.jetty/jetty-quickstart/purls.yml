@@ -74,3 +74,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-quickstart@9.3.7.RC1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-quickstart@9.2.15.v20160210
 - pkg:maven/org.eclipse.jetty/jetty-quickstart@9.2.15.v20160210?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-quickstart@9.3.8.RC0
+- pkg:maven/org.eclipse.jetty/jetty-quickstart@9.3.8.RC0?classifier=sources

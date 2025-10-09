@@ -2,3 +2,5 @@
 - pkg:maven/org.jprocesses/jProcesses@0.2?classifier=sources
 - pkg:maven/org.jprocesses/jProcesses@1.0
 - pkg:maven/org.jprocesses/jProcesses@1.0?classifier=sources
+- pkg:maven/org.jprocesses/jProcesses@1.1
+- pkg:maven/org.jprocesses/jProcesses@1.1?classifier=sources
