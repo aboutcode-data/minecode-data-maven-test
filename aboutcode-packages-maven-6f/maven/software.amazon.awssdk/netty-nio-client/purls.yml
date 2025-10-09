@@ -376,3 +376,5 @@
 - pkg:maven/software.amazon.awssdk/netty-nio-client@2.9.11?classifier=sources
 - pkg:maven/software.amazon.awssdk/netty-nio-client@2.9.10
 - pkg:maven/software.amazon.awssdk/netty-nio-client@2.9.10?classifier=sources
+- pkg:maven/software.amazon.awssdk/netty-nio-client@2.9.15
+- pkg:maven/software.amazon.awssdk/netty-nio-client@2.9.15?classifier=sources

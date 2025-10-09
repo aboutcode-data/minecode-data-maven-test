@@ -34,3 +34,5 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/org.wso2.carbon.identity.application.authenticator.oidc@5.1.23?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/org.wso2.carbon.identity.application.authenticator.oidc@5.1.22
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/org.wso2.carbon.identity.application.authenticator.oidc@5.1.22?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/org.wso2.carbon.identity.application.authenticator.oidc@5.3.4
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/org.wso2.carbon.identity.application.authenticator.oidc@5.3.4?classifier=sources
