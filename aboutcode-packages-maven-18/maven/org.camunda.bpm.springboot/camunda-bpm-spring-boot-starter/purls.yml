@@ -78,3 +78,5 @@
 - pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter@3.0.7?classifier=sources
 - pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter@3.4.0-alpha2
 - pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter@3.4.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter@3.4.0
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter@3.4.0?classifier=sources
