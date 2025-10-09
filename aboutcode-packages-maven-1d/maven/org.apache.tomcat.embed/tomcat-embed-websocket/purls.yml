@@ -288,3 +288,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.21?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@8.5.42
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@8.5.42?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.22
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.22?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@8.5.43
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@8.5.43?classifier=sources

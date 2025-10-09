@@ -124,3 +124,7 @@
 - pkg:maven/org.commonjava.indy/indy-ftests-common@1.7.7?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-ftests-common@1.8.0
 - pkg:maven/org.commonjava.indy/indy-ftests-common@1.8.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-ftests-common@1.8.0.2
+- pkg:maven/org.commonjava.indy/indy-ftests-common@1.8.0.2?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-ftests-common@1.8.0.1
+- pkg:maven/org.commonjava.indy/indy-ftests-common@1.8.0.1?classifier=sources

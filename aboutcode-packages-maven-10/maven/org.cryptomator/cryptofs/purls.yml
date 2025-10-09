@@ -74,3 +74,5 @@
 - pkg:maven/org.cryptomator/cryptofs@1.8.4?classifier=sources
 - pkg:maven/org.cryptomator/cryptofs@1.8.5
 - pkg:maven/org.cryptomator/cryptofs@1.8.5?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@1.8.6
+- pkg:maven/org.cryptomator/cryptofs@1.8.6?classifier=sources

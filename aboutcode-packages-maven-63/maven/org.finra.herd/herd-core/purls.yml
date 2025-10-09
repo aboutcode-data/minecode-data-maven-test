@@ -140,3 +140,5 @@
 - pkg:maven/org.finra.herd/herd-core@0.98.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-core@0.99.0
 - pkg:maven/org.finra.herd/herd-core@0.99.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-core@0.100.0
+- pkg:maven/org.finra.herd/herd-core@0.100.0?classifier=sources
