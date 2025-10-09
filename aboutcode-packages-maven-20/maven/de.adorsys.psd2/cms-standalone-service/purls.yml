@@ -94,3 +94,7 @@
 - pkg:maven/de.adorsys.psd2/cms-standalone-service@3.10?classifier=sources
 - pkg:maven/de.adorsys.psd2/cms-standalone-service@2.12
 - pkg:maven/de.adorsys.psd2/cms-standalone-service@2.12?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-standalone-service@3.11
+- pkg:maven/de.adorsys.psd2/cms-standalone-service@3.11?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-standalone-service@2.13
+- pkg:maven/de.adorsys.psd2/cms-standalone-service@2.13?classifier=sources

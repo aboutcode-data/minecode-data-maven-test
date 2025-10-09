@@ -100,3 +100,7 @@
 - pkg:maven/de.adorsys.psd2/xs2a-server-api@3.10?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-server-api@2.12
 - pkg:maven/de.adorsys.psd2/xs2a-server-api@2.12?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-server-api@3.11
+- pkg:maven/de.adorsys.psd2/xs2a-server-api@3.11?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-server-api@2.13
+- pkg:maven/de.adorsys.psd2/xs2a-server-api@2.13?classifier=sources

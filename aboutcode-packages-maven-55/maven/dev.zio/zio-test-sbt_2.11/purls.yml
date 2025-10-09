@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-test-sbt_2.11@1.0.0-RC12-1
+- pkg:maven/dev.zio/zio-test-sbt_2.11@1.0.0-RC12-1?classifier=sources
+- pkg:maven/dev.zio/zio-test-sbt_2.11@1.0.0-RC12
+- pkg:maven/dev.zio/zio-test-sbt_2.11@1.0.0-RC12?classifier=sources

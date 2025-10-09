@@ -1,2 +1,4 @@
 - pkg:maven/io.circe/circe-generic-simple_2.13@0.12.0-M4
 - pkg:maven/io.circe/circe-generic-simple_2.13@0.12.0-M4?classifier=sources
+- pkg:maven/io.circe/circe-generic-simple_2.13@0.12.0-RC4
+- pkg:maven/io.circe/circe-generic-simple_2.13@0.12.0-RC4?classifier=sources
