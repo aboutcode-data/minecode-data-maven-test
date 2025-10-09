@@ -1,0 +1,4 @@
+- pkg:maven/com.spotify/scio-cassandra2_2.11@0.4.0-alpha2
+- pkg:maven/com.spotify/scio-cassandra2_2.11@0.4.0-alpha2?classifier=sources
+- pkg:maven/com.spotify/scio-cassandra2_2.11@0.3.3
+- pkg:maven/com.spotify/scio-cassandra2_2.11@0.3.3?classifier=sources

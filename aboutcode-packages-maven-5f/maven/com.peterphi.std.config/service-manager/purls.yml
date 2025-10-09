@@ -22,3 +22,5 @@
 - pkg:maven/com.peterphi.std.config/service-manager@9.4.4?classifier=sources
 - pkg:maven/com.peterphi.std.config/service-manager@9.4.3?type=war
 - pkg:maven/com.peterphi.std.config/service-manager@9.4.3?classifier=sources
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.5?type=war
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.5?classifier=sources

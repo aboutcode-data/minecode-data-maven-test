@@ -154,3 +154,5 @@
 - pkg:maven/de.ruedigermoeller/fst@2.48-jdk-6?classifier=sources
 - pkg:maven/de.ruedigermoeller/fst@2.44.6
 - pkg:maven/de.ruedigermoeller/fst@2.44.6?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.51
+- pkg:maven/de.ruedigermoeller/fst@2.51?classifier=sources
