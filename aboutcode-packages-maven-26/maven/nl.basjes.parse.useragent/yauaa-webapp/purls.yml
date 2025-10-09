@@ -30,3 +30,7 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.12?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.13?type=war
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.13?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.14.1?type=war
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.14.1?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.14?type=war
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.14?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/io.syndesis.connector/connector-kudu@1.8.6?classifier=sources
 - pkg:maven/io.syndesis.connector/connector-kudu@1.8.12
 - pkg:maven/io.syndesis.connector/connector-kudu@1.8.12?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-kudu@1.8.13
+- pkg:maven/io.syndesis.connector/connector-kudu@1.8.13?classifier=sources
