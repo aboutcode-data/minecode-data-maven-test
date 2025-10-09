@@ -4,3 +4,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.2.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.1.Final?type=war
 - pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.3.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.3.Final?classifier=sources

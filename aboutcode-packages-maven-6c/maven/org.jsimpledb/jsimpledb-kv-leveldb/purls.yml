@@ -54,3 +54,5 @@
 - pkg:maven/org.jsimpledb/jsimpledb-kv-leveldb@3.2.0?classifier=sources
 - pkg:maven/org.jsimpledb/jsimpledb-kv-leveldb@3.3.0
 - pkg:maven/org.jsimpledb/jsimpledb-kv-leveldb@3.3.0?classifier=sources
+- pkg:maven/org.jsimpledb/jsimpledb-kv-leveldb@3.4.0
+- pkg:maven/org.jsimpledb/jsimpledb-kv-leveldb@3.4.0?classifier=sources
