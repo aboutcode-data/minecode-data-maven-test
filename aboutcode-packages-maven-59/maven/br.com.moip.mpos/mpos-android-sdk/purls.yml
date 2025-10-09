@@ -1,0 +1,4 @@
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.0-SNAPSHOT-TEST?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.0-SNAPSHOT-TEST?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.0?classifier=sources

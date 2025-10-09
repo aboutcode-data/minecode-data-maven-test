@@ -4,3 +4,5 @@
 - pkg:maven/top.jfunc.common/common-db@1.2?classifier=sources
 - pkg:maven/top.jfunc.common/common-db@1.0
 - pkg:maven/top.jfunc.common/common-db@1.0?classifier=sources
+- pkg:maven/top.jfunc.common/common-db@1.8.0
+- pkg:maven/top.jfunc.common/common-db@1.8.0?classifier=sources
