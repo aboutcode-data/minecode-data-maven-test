@@ -28,3 +28,7 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.4.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.4.3
 - pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.4.3?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.5.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.5.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.4.4
+- pkg:maven/io.zipkin.brave/brave-instrumentation-mysql8@5.4.4?classifier=sources

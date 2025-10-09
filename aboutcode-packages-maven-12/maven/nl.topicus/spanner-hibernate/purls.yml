@@ -14,3 +14,5 @@
 - pkg:maven/nl.topicus/spanner-hibernate@0.7?classifier=sources
 - pkg:maven/nl.topicus/spanner-hibernate@0.8
 - pkg:maven/nl.topicus/spanner-hibernate@0.8?classifier=sources
+- pkg:maven/nl.topicus/spanner-hibernate@0.9
+- pkg:maven/nl.topicus/spanner-hibernate@0.9?classifier=sources

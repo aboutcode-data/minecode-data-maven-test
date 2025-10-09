@@ -24,3 +24,5 @@
 - pkg:maven/io.zeebe/zb-protocol@0.11.0?classifier=sources
 - pkg:maven/io.zeebe/zb-protocol@0.12.0
 - pkg:maven/io.zeebe/zb-protocol@0.12.0?classifier=sources
+- pkg:maven/io.zeebe/zb-protocol@0.12.1
+- pkg:maven/io.zeebe/zb-protocol@0.12.1?classifier=sources
