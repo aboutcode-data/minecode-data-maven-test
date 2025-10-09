@@ -104,3 +104,6 @@
 - pkg:maven/com.yahoo.vespa/config-provisioning@6.265.30?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-provisioning@6.271.25?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-provisioning@6.274.30?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-provisioning@6.278.1?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-provisioning@6.277.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-provisioning@6.276.19?classifier=sources

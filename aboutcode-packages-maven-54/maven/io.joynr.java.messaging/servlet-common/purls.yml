@@ -192,3 +192,5 @@
 - pkg:maven/io.joynr.java.messaging/servlet-common@1.3.2?classifier=sources
 - pkg:maven/io.joynr.java.messaging/servlet-common@1.4.0
 - pkg:maven/io.joynr.java.messaging/servlet-common@1.4.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging/servlet-common@1.5.0
+- pkg:maven/io.joynr.java.messaging/servlet-common@1.5.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/io.fabric8/kubernetes-server-mock@4.0.3?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-server-mock@4.0.0
 - pkg:maven/io.fabric8/kubernetes-server-mock@4.0.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-server-mock@4.0.4
+- pkg:maven/io.fabric8/kubernetes-server-mock@4.0.4?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.12@2.5.13?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.12@2.5.14
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.12@2.5.14?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.12@2.5.15
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.12@2.5.15?classifier=sources

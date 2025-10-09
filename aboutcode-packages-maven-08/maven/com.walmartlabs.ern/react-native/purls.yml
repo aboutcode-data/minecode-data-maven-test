@@ -2,3 +2,5 @@
 - pkg:maven/com.walmartlabs.ern/react-native@0.55.4?classifier=sources
 - pkg:maven/com.walmartlabs.ern/react-native@0.55.3?type=aar
 - pkg:maven/com.walmartlabs.ern/react-native@0.55.3?classifier=sources
+- pkg:maven/com.walmartlabs.ern/react-native@0.56.0?type=aar
+- pkg:maven/com.walmartlabs.ern/react-native@0.56.0?classifier=sources

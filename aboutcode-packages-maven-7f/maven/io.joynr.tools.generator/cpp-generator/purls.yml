@@ -172,3 +172,5 @@
 - pkg:maven/io.joynr.tools.generator/cpp-generator@1.3.2?classifier=sources
 - pkg:maven/io.joynr.tools.generator/cpp-generator@1.4.0
 - pkg:maven/io.joynr.tools.generator/cpp-generator@1.4.0?classifier=sources
+- pkg:maven/io.joynr.tools.generator/cpp-generator@1.5.0
+- pkg:maven/io.joynr.tools.generator/cpp-generator@1.5.0?classifier=sources
