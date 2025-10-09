@@ -28,3 +28,5 @@
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.1.8?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.8
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.8?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.9
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.9?classifier=sources

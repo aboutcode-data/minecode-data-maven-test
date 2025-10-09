@@ -31,3 +31,6 @@
 - pkg:maven/org.glassfish.jersey.examples/feed-combiner-java8-webapp@2.22.3?type=war
 - pkg:maven/org.glassfish.jersey.examples/feed-combiner-java8-webapp@2.22.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/feed-combiner-java8-webapp@2.22.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/feed-combiner-java8-webapp@2.24.1?type=war
+- pkg:maven/org.glassfish.jersey.examples/feed-combiner-java8-webapp@2.24.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/feed-combiner-java8-webapp@2.24.1?classifier=project-src&type=zip

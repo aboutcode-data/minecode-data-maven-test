@@ -2,3 +2,5 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-netty-http@2.23.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-netty-http@2.24
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-netty-http@2.24?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-netty-http@2.24.1
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-netty-http@2.24.1?classifier=sources
