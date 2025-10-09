@@ -22,3 +22,7 @@
 - pkg:maven/com.alpinenow/plugin-test@1.4.1?classifier=sources
 - pkg:maven/com.alpinenow/plugin-test@1.4
 - pkg:maven/com.alpinenow/plugin-test@1.4?classifier=sources
+- pkg:maven/com.alpinenow/plugin-test@1.5-alpha-1
+- pkg:maven/com.alpinenow/plugin-test@1.5-alpha-1?classifier=sources
+- pkg:maven/com.alpinenow/plugin-test@1.5-alpha
+- pkg:maven/com.alpinenow/plugin-test@1.5-alpha?classifier=sources

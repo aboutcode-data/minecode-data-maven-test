@@ -30,3 +30,5 @@
 - pkg:maven/com.github.broadinstitute/picard@1.143?classifier=sources
 - pkg:maven/com.github.broadinstitute/picard@1.142
 - pkg:maven/com.github.broadinstitute/picard@1.142?classifier=sources
+- pkg:maven/com.github.broadinstitute/picard@2.1.0
+- pkg:maven/com.github.broadinstitute/picard@2.1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.github.dcshock/consul-rest-client@0.9-beta?classifier=sources
 - pkg:maven/com.github.dcshock/consul-rest-client@0.8
 - pkg:maven/com.github.dcshock/consul-rest-client@0.8?classifier=sources
+- pkg:maven/com.github.dcshock/consul-rest-client@0.10
+- pkg:maven/com.github.dcshock/consul-rest-client@0.10?classifier=sources
