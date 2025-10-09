@@ -54,3 +54,5 @@
 - pkg:maven/com.cloudipsp/android@1.10.2?classifier=sources
 - pkg:maven/com.cloudipsp/android@1.10.3?type=aar
 - pkg:maven/com.cloudipsp/android@1.10.3?classifier=sources
+- pkg:maven/com.cloudipsp/android@1.10.4?type=aar
+- pkg:maven/com.cloudipsp/android@1.10.4?classifier=sources
