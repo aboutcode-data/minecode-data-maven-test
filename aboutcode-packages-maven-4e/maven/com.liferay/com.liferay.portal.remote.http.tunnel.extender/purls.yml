@@ -69,3 +69,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@4.0.4
 - pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@4.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@4.0.5
+- pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@4.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@2.0.16
+- pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.http.tunnel.extender@2.0.16?classifier=sources-commercial

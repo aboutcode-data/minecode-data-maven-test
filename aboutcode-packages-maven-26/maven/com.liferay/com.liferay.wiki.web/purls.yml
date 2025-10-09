@@ -380,3 +380,12 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@3.0.39
 - pkg:maven/com.liferay/com.liferay.wiki.web@3.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@3.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.15
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.14
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@3.0.40
+- pkg:maven/com.liferay/com.liferay.wiki.web@3.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@3.0.40?classifier=sources-commercial

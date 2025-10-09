@@ -153,3 +153,6 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@4.0.3
 - pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@2.0.33
+- pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@2.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@2.0.33?classifier=sources-commercial

@@ -179,3 +179,12 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@1.0.39
 - pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@1.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@3.0.6
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@3.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@1.0.41
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@1.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.app.manager.web@1.0.41?classifier=sources-commercial

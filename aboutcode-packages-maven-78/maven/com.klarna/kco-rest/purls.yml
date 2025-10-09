@@ -32,3 +32,5 @@
 - pkg:maven/com.klarna/kco-rest@2.2.4?classifier=sources
 - pkg:maven/com.klarna/kco-rest@3.1.0
 - pkg:maven/com.klarna/kco-rest@3.1.0?classifier=sources
+- pkg:maven/com.klarna/kco-rest@3.1.1
+- pkg:maven/com.klarna/kco-rest@3.1.1?classifier=sources

@@ -64,3 +64,6 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.taglib@4.1.0
 - pkg:maven/com.liferay/com.liferay.product.navigation.taglib@4.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.taglib@4.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.taglib@2.0.16
+- pkg:maven/com.liferay/com.liferay.product.navigation.taglib@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.taglib@2.0.16?classifier=sources-commercial

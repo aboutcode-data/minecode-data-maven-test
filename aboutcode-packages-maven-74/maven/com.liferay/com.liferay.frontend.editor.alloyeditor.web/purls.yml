@@ -253,3 +253,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@2.0.27
 - pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@2.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@1.0.66
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@1.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@1.0.66?classifier=sources-commercial

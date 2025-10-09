@@ -29,3 +29,6 @@
 - pkg:maven/com.liferay/com.liferay.comment.demo.data.creator.impl@3.0.2
 - pkg:maven/com.liferay/com.liferay.comment.demo.data.creator.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.demo.data.creator.impl@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.demo.data.creator.impl@1.0.6
+- pkg:maven/com.liferay/com.liferay.comment.demo.data.creator.impl@1.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.demo.data.creator.impl@1.0.6?classifier=sources-commercial

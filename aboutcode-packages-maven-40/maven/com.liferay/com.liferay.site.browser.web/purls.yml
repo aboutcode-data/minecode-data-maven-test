@@ -107,3 +107,6 @@
 - pkg:maven/com.liferay/com.liferay.site.browser.web@2.0.29
 - pkg:maven/com.liferay/com.liferay.site.browser.web@2.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.browser.web@2.0.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.browser.web@4.0.4
+- pkg:maven/com.liferay/com.liferay.site.browser.web@4.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.browser.web@4.0.4?classifier=sources-commercial

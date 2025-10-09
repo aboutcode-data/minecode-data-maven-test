@@ -71,3 +71,6 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.5
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.8
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.8?classifier=sources-commercial

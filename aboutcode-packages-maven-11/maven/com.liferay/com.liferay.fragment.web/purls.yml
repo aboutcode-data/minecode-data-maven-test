@@ -154,3 +154,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.web@1.0.47
 - pkg:maven/com.liferay/com.liferay.fragment.web@1.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@1.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.12
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.11
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.11?classifier=sources-commercial

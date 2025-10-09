@@ -240,3 +240,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.21
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.9
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.8
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.67
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.67?classifier=sources-commercial

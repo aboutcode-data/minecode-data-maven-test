@@ -160,3 +160,12 @@
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.38
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@3.0.8
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.39
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.39?classifier=sources-commercial
