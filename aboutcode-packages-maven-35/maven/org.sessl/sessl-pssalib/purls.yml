@@ -6,3 +6,5 @@
 - pkg:maven/org.sessl/sessl-pssalib@0.18?classifier=sources
 - pkg:maven/org.sessl/sessl-pssalib@0.18.1
 - pkg:maven/org.sessl/sessl-pssalib@0.18.1?classifier=sources
+- pkg:maven/org.sessl/sessl-pssalib@0.19
+- pkg:maven/org.sessl/sessl-pssalib@0.19?classifier=sources
