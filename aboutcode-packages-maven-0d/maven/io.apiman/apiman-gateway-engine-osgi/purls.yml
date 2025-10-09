@@ -56,3 +56,5 @@
 - pkg:maven/io.apiman/apiman-gateway-engine-osgi@1.2.1.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-engine-osgi@1.2.2.Final
 - pkg:maven/io.apiman/apiman-gateway-engine-osgi@1.2.2.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-engine-osgi@1.2.3.CR1
+- pkg:maven/io.apiman/apiman-gateway-engine-osgi@1.2.3.CR1?classifier=sources

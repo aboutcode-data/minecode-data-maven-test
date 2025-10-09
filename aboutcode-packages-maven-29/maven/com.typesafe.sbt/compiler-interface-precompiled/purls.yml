@@ -42,3 +42,5 @@
 - pkg:maven/com.typesafe.sbt/compiler-interface-precompiled@0.13.8?classifier=sources
 - pkg:maven/com.typesafe.sbt/compiler-interface-precompiled@0.13.9
 - pkg:maven/com.typesafe.sbt/compiler-interface-precompiled@0.13.9?classifier=sources
+- pkg:maven/com.typesafe.sbt/compiler-interface-precompiled@0.13.11
+- pkg:maven/com.typesafe.sbt/compiler-interface-precompiled@0.13.11?classifier=sources

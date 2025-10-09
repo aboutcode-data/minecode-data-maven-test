@@ -60,3 +60,5 @@
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.8?classifier=sources
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.9
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.9?classifier=sources
+- pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.11
+- pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.11?classifier=sources

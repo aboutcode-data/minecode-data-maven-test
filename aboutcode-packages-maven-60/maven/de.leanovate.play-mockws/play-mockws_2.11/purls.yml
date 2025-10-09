@@ -32,3 +32,5 @@
 - pkg:maven/de.leanovate.play-mockws/play-mockws_2.11@2.5-RC1?classifier=sources
 - pkg:maven/de.leanovate.play-mockws/play-mockws_2.11@2.5.0-RC2
 - pkg:maven/de.leanovate.play-mockws/play-mockws_2.11@2.5.0-RC2?classifier=sources
+- pkg:maven/de.leanovate.play-mockws/play-mockws_2.11@2.5.0
+- pkg:maven/de.leanovate.play-mockws/play-mockws_2.11@2.5.0?classifier=sources

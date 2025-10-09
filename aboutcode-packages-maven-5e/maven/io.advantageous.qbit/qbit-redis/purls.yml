@@ -1,2 +1,4 @@
 - pkg:maven/io.advantageous.qbit/qbit-redis@0.9.1.RELEASE
 - pkg:maven/io.advantageous.qbit/qbit-redis@0.9.1.RELEASE?classifier=sources
+- pkg:maven/io.advantageous.qbit/qbit-redis@0.9.3-M1
+- pkg:maven/io.advantageous.qbit/qbit-redis@0.9.3-M1?classifier=sources
