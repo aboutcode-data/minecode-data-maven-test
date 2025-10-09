@@ -18,3 +18,5 @@
 - pkg:maven/com.lyft/scoop-dagger@0.3.8?classifier=sources
 - pkg:maven/com.lyft/scoop-dagger@0.3.10?type=aar
 - pkg:maven/com.lyft/scoop-dagger@0.3.10?classifier=sources
+- pkg:maven/com.lyft/scoop-dagger@0.3.11?type=aar
+- pkg:maven/com.lyft/scoop-dagger@0.3.11?classifier=sources

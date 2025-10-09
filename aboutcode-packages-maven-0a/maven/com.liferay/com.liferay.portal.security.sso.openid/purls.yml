@@ -2,3 +2,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid@1.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid@3.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid@3.0.0?classifier=sources

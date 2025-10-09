@@ -32,3 +32,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-spring-bridge@3.1.1?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-spring-bridge@2.12.7
 - pkg:maven/com.linkedin.pegasus/restli-spring-bridge@2.12.7?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-spring-bridge@5.0.19
+- pkg:maven/com.linkedin.pegasus/restli-spring-bridge@5.0.19?classifier=sources
