@@ -162,3 +162,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.2.4
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.2.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.2.5
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.2.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.2.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.1
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.1?classifier=sources-commercial

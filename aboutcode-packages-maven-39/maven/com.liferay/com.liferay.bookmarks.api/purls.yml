@@ -175,3 +175,12 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@3.0.20
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@4.1.2
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@4.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@4.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@3.0.21
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@2.0.30
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@2.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@2.0.30?classifier=sources-commercial

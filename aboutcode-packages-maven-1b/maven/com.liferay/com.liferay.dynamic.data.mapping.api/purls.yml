@@ -303,3 +303,15 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.6.1
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.6.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.6.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.7.0
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.7.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.7.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.6.2
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.6.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.6.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@4.10.1
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@4.10.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@4.10.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.9.17
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.9.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.9.17?classifier=sources-commercial

@@ -10,3 +10,7 @@
 - pkg:maven/com.gitlab.marvinh/database-connector@0.8?classifier=sources
 - pkg:maven/com.gitlab.marvinh/database-connector@1.0
 - pkg:maven/com.gitlab.marvinh/database-connector@1.0?classifier=sources
+- pkg:maven/com.gitlab.marvinh/database-connector@1.2
+- pkg:maven/com.gitlab.marvinh/database-connector@1.2?classifier=sources
+- pkg:maven/com.gitlab.marvinh/database-connector@1.1
+- pkg:maven/com.gitlab.marvinh/database-connector@1.1?classifier=sources

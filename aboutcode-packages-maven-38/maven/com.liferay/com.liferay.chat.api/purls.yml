@@ -116,3 +116,12 @@
 - pkg:maven/com.liferay/com.liferay.chat.api@3.0.6
 - pkg:maven/com.liferay/com.liferay.chat.api@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.chat.api@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.api@3.0.7
+- pkg:maven/com.liferay/com.liferay.chat.api@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.api@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.api@2.0.14
+- pkg:maven/com.liferay/com.liferay.chat.api@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.api@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.api@1.1.16
+- pkg:maven/com.liferay/com.liferay.chat.api@1.1.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.api@1.1.16?classifier=sources-commercial
