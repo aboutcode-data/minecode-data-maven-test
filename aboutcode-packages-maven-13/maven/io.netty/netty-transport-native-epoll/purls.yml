@@ -72,3 +72,5 @@
 - pkg:maven/io.netty/netty-transport-native-epoll@4.1.0.CR7?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-epoll@4.0.36.Final
 - pkg:maven/io.netty/netty-transport-native-epoll@4.0.36.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-epoll@4.1.0.Final
+- pkg:maven/io.netty/netty-transport-native-epoll@4.1.0.Final?classifier=sources

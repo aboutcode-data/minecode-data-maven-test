@@ -26,3 +26,7 @@
 - pkg:maven/io.gravitee.management/gravitee-management-api-war@0.12.0?classifier=sources
 - pkg:maven/io.gravitee.management/gravitee-management-api-war@0.13.0?type=war
 - pkg:maven/io.gravitee.management/gravitee-management-api-war@0.13.0?classifier=sources
+- pkg:maven/io.gravitee.management/gravitee-management-api-war@0.13.2?type=war
+- pkg:maven/io.gravitee.management/gravitee-management-api-war@0.13.2?classifier=sources
+- pkg:maven/io.gravitee.management/gravitee-management-api-war@0.13.1?type=war
+- pkg:maven/io.gravitee.management/gravitee-management-api-war@0.13.1?classifier=sources

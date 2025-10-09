@@ -18,3 +18,5 @@
 - pkg:maven/com.s24.search.solr/solr-jdbc@2.3.0?classifier=sources
 - pkg:maven/com.s24.search.solr/solr-jdbc@2.3.2
 - pkg:maven/com.s24.search.solr/solr-jdbc@2.3.2?classifier=sources
+- pkg:maven/com.s24.search.solr/solr-jdbc@2.3.4
+- pkg:maven/com.s24.search.solr/solr-jdbc@2.3.4?classifier=sources
