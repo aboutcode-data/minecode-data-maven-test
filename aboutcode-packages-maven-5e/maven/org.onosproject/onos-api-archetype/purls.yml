@@ -18,3 +18,5 @@
 - pkg:maven/org.onosproject/onos-api-archetype@1.9.0-test1?classifier=sources
 - pkg:maven/org.onosproject/onos-api-archetype@1.9.0-b1b?classifier=sources
 - pkg:maven/org.onosproject/onos-api-archetype@1.9.0-b1?classifier=sources
+- pkg:maven/org.onosproject/onos-api-archetype@1.9.0-rc1?classifier=sources
+- pkg:maven/org.onosproject/onos-api-archetype@1.9.0-b3?classifier=sources

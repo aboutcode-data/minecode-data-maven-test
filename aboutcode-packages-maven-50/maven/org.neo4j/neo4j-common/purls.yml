@@ -60,3 +60,7 @@
 - pkg:maven/org.neo4j/neo4j-common@3.2.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-common@3.1.1
 - pkg:maven/org.neo4j/neo4j-common@3.1.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-common@3.2.0-alpha05
+- pkg:maven/org.neo4j/neo4j-common@3.2.0-alpha05?classifier=sources
+- pkg:maven/org.neo4j/neo4j-common@3.2.0-alpha04
+- pkg:maven/org.neo4j/neo4j-common@3.2.0-alpha04?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.postgresql/pgjdbc-benchmark@9.4.1211?classifier=sources
 - pkg:maven/org.postgresql/pgjdbc-benchmark@9.4.1212
 - pkg:maven/org.postgresql/pgjdbc-benchmark@9.4.1212?classifier=sources
+- pkg:maven/org.postgresql/pgjdbc-benchmark@42.0.0
+- pkg:maven/org.postgresql/pgjdbc-benchmark@42.0.0?classifier=sources
