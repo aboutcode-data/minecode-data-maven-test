@@ -42,3 +42,5 @@
 - pkg:maven/com.walmartlabs.concord/concord-client@1.28.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-client@1.29.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-client@1.30.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-client@1.31.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-client@1.31.0?classifier=sources

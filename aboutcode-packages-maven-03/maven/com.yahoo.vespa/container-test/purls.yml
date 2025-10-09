@@ -380,3 +380,5 @@
 - pkg:maven/com.yahoo.vespa/container-test@7.89.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@7.88.15
 - pkg:maven/com.yahoo.vespa/container-test@7.88.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@7.99.22
+- pkg:maven/com.yahoo.vespa/container-test@7.99.22?classifier=sources
