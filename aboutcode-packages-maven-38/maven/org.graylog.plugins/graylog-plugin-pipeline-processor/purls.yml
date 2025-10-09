@@ -52,3 +52,5 @@
 - pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@2.3.2?classifier=sources
 - pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@2.4.0-beta.2
 - pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@2.4.0-beta.2?classifier=sources
+- pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@2.4.0-beta.3
+- pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@2.4.0-beta.3?classifier=sources
