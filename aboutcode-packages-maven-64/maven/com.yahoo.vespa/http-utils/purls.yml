@@ -16,3 +16,7 @@
 - pkg:maven/com.yahoo.vespa/http-utils@7.50.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/http-utils@7.51.13
 - pkg:maven/com.yahoo.vespa/http-utils@7.51.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.57.40
+- pkg:maven/com.yahoo.vespa/http-utils@7.57.40?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.56.12
+- pkg:maven/com.yahoo.vespa/http-utils@7.56.12?classifier=sources
