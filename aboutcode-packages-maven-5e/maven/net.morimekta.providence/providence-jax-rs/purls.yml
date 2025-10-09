@@ -110,3 +110,5 @@
 - pkg:maven/net.morimekta.providence/providence-jax-rs@1.10.2?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-jax-rs@1.10.3
 - pkg:maven/net.morimekta.providence/providence-jax-rs@1.10.3?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-jax-rs@2.0-beta1
+- pkg:maven/net.morimekta.providence/providence-jax-rs@2.0-beta1?classifier=sources

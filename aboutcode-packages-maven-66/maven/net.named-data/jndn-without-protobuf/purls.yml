@@ -30,3 +30,5 @@
 - pkg:maven/net.named-data/jndn-without-protobuf@0.19?classifier=sources
 - pkg:maven/net.named-data/jndn-without-protobuf@0.21
 - pkg:maven/net.named-data/jndn-without-protobuf@0.21?classifier=sources
+- pkg:maven/net.named-data/jndn-without-protobuf@0.22
+- pkg:maven/net.named-data/jndn-without-protobuf@0.22?classifier=sources
