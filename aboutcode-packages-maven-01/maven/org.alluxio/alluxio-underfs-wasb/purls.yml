@@ -10,3 +10,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-wasb@2.0.0-preview?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-wasb@2.0.0
 - pkg:maven/org.alluxio/alluxio-underfs-wasb@2.0.0?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-wasb@1.8.2
+- pkg:maven/org.alluxio/alluxio-underfs-wasb@1.8.2?classifier=sources

@@ -29,3 +29,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-elasticsearch@2.12.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-elasticsearch@2.13.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-elasticsearch@2.13.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-elasticsearch@2.14.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-elasticsearch@2.14.0?classifier=sources

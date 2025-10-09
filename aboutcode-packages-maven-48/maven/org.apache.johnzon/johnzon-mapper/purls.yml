@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.johnzon/johnzon-mapper@1.0.2?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-mapper@1.1.12
 - pkg:maven/org.apache.johnzon/johnzon-mapper@1.1.12?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-mapper@1.1.13
+- pkg:maven/org.apache.johnzon/johnzon-mapper@1.1.13?classifier=sources

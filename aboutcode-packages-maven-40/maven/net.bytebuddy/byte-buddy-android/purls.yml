@@ -366,3 +366,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.9.15?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.9.16
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.9.16?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.10.0
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.10.0?classifier=sources

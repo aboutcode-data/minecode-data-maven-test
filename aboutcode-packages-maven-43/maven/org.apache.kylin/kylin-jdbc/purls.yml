@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.kylin/kylin-jdbc@2.6.2?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-jdbc@2.6.3
 - pkg:maven/org.apache.kylin/kylin-jdbc@2.6.3?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-jdbc@3.0.0-alpha2
+- pkg:maven/org.apache.kylin/kylin-jdbc@3.0.0-alpha2?classifier=sources
