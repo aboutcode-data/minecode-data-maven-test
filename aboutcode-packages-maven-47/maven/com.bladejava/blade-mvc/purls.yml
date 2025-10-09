@@ -31,3 +31,5 @@
 - pkg:maven/com.bladejava/blade-mvc@2.0.3-alpha2?classifier=sources
 - pkg:maven/com.bladejava/blade-mvc@2.0.3-alpha
 - pkg:maven/com.bladejava/blade-mvc@2.0.3-alpha?classifier=sources
+- pkg:maven/com.bladejava/blade-mvc@2.0.3
+- pkg:maven/com.bladejava/blade-mvc@2.0.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.butor/bsec@1.0.9?classifier=sources
 - pkg:maven/com.butor/bsec@1.0.10?type=war
 - pkg:maven/com.butor/bsec@1.0.10?classifier=sources
+- pkg:maven/com.butor/bsec@1.0.12?type=war
+- pkg:maven/com.butor/bsec@1.0.12?classifier=sources

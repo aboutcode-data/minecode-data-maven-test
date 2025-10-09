@@ -24,3 +24,5 @@
 - pkg:maven/com.axonivy.ivy.ci/project-build-plugin@6.7.0?classifier=sources
 - pkg:maven/com.axonivy.ivy.ci/project-build-plugin@7.0.0
 - pkg:maven/com.axonivy.ivy.ci/project-build-plugin@7.0.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.ci/project-build-plugin@7.0.1
+- pkg:maven/com.axonivy.ivy.ci/project-build-plugin@7.0.1?classifier=sources
