@@ -4,3 +4,5 @@
 - pkg:maven/com.github.pimvoeten/aws-maven-plugin@0.12?classifier=sources
 - pkg:maven/com.github.pimvoeten/aws-maven-plugin@1.1
 - pkg:maven/com.github.pimvoeten/aws-maven-plugin@1.1?classifier=sources
+- pkg:maven/com.github.pimvoeten/aws-maven-plugin@1.2
+- pkg:maven/com.github.pimvoeten/aws-maven-plugin@1.2?classifier=sources
