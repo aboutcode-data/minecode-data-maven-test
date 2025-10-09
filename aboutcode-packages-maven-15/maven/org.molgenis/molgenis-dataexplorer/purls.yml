@@ -118,3 +118,7 @@
 - pkg:maven/org.molgenis/molgenis-dataexplorer@7.0.0-RELEASE?classifier=sources
 - pkg:maven/org.molgenis/molgenis-dataexplorer@7.0.0-RC5
 - pkg:maven/org.molgenis/molgenis-dataexplorer@7.0.0-RC5?classifier=sources
+- pkg:maven/org.molgenis/molgenis-dataexplorer@7.1.0-RELEASE
+- pkg:maven/org.molgenis/molgenis-dataexplorer@7.1.0-RELEASE?classifier=sources
+- pkg:maven/org.molgenis/molgenis-dataexplorer@7.1.0-RC1
+- pkg:maven/org.molgenis/molgenis-dataexplorer@7.1.0-RC1?classifier=sources

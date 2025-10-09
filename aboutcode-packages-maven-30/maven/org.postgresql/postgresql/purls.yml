@@ -176,3 +176,9 @@
 - pkg:maven/org.postgresql/postgresql@42.2.3.jre6?classifier=sources
 - pkg:maven/org.postgresql/postgresql@42.2.3
 - pkg:maven/org.postgresql/postgresql@42.2.3?classifier=sources
+- pkg:maven/org.postgresql/postgresql@42.2.5.jre7
+- pkg:maven/org.postgresql/postgresql@42.2.5.jre7?classifier=sources
+- pkg:maven/org.postgresql/postgresql@42.2.5.jre6
+- pkg:maven/org.postgresql/postgresql@42.2.5.jre6?classifier=sources
+- pkg:maven/org.postgresql/postgresql@42.2.5
+- pkg:maven/org.postgresql/postgresql@42.2.5?classifier=sources
