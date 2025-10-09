@@ -44,3 +44,5 @@
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.14?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-buildtools@3.0.0-alpha2
 - pkg:maven/org.atmosphere/atmosphere-buildtools@3.0.0-alpha2?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.15
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.15?classifier=sources
