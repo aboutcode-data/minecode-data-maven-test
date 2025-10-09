@@ -368,3 +368,5 @@
 - pkg:maven/com.vaadin/vaadin-client-compiler@8.8.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@8.9.0
 - pkg:maven/com.vaadin/vaadin-client-compiler@8.9.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client-compiler@8.9.1
+- pkg:maven/com.vaadin/vaadin-client-compiler@8.9.1?classifier=sources

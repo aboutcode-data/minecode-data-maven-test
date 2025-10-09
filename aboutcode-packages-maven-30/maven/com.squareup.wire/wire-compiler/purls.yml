@@ -82,3 +82,5 @@
 - pkg:maven/com.squareup.wire/wire-compiler@3.0.0-rc03?classifier=sources
 - pkg:maven/com.squareup.wire/wire-compiler@3.0.0-rc02
 - pkg:maven/com.squareup.wire/wire-compiler@3.0.0-rc02?classifier=sources
+- pkg:maven/com.squareup.wire/wire-compiler@3.0.0
+- pkg:maven/com.squareup.wire/wire-compiler@3.0.0?classifier=sources
