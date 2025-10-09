@@ -104,3 +104,5 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-jetty@6.0.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp-jetty@6.1.0-RC4?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-jetty@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-jetty@5.3.11?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-jetty@5.3.11?classifier=sources

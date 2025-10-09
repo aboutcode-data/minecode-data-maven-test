@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-api@2.0?classifier=sources
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-api@2.0.0
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-api@2.0.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-api@1.1.2-RC1
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-api@1.1.2-RC1?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/org.apereo.cas/cas-server-documentation-swagger@6.0.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-documentation-swagger@6.1.0-RC4
 - pkg:maven/org.apereo.cas/cas-server-documentation-swagger@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-documentation-swagger@5.3.11
+- pkg:maven/org.apereo.cas/cas-server-documentation-swagger@5.3.11?classifier=sources

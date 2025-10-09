@@ -98,3 +98,5 @@
 - pkg:maven/org.eclipse.persistence/eclipselink@2.7.4?classifier=sources
 - pkg:maven/org.eclipse.persistence/eclipselink@2.6.7-RC1
 - pkg:maven/org.eclipse.persistence/eclipselink@2.6.7-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/eclipselink@2.6.7
+- pkg:maven/org.eclipse.persistence/eclipselink@2.6.7?classifier=sources
