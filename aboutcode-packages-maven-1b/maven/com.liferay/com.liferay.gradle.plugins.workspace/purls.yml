@@ -129,3 +129,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.10.1
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.10.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.10.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.10.2
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.10.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@1.10.2?classifier=sources-commercial

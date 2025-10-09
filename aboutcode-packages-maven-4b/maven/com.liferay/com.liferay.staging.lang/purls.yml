@@ -53,3 +53,6 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@2.0.18
 - pkg:maven/com.liferay/com.liferay.staging.lang@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@2.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.2
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.2?classifier=sources-commercial

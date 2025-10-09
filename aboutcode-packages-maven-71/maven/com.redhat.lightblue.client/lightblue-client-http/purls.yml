@@ -64,3 +64,5 @@
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-http@5.13.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-http@5.14.0
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-http@5.14.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-http@5.15.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-http@5.15.0?classifier=sources

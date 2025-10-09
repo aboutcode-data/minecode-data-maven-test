@@ -210,3 +210,5 @@
 - pkg:maven/com.proofpoint.platform/launcher@1.74?classifier=sources
 - pkg:maven/com.proofpoint.platform/launcher@1.76
 - pkg:maven/com.proofpoint.platform/launcher@1.76?classifier=sources
+- pkg:maven/com.proofpoint.platform/launcher@1.77
+- pkg:maven/com.proofpoint.platform/launcher@1.77?classifier=sources

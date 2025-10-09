@@ -1,2 +1,4 @@
 - pkg:maven/com.okta/okta-doclist-maven-plugin@4
 - pkg:maven/com.okta/okta-doclist-maven-plugin@4?classifier=sources
+- pkg:maven/com.okta/okta-doclist-maven-plugin@5
+- pkg:maven/com.okta/okta-doclist-maven-plugin@5?classifier=sources
