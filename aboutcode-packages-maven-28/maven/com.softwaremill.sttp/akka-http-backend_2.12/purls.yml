@@ -158,3 +158,5 @@
 - pkg:maven/com.softwaremill.sttp/akka-http-backend_2.12@1.6.3?classifier=sources
 - pkg:maven/com.softwaremill.sttp/akka-http-backend_2.12@1.6.2
 - pkg:maven/com.softwaremill.sttp/akka-http-backend_2.12@1.6.2?classifier=sources
+- pkg:maven/com.softwaremill.sttp/akka-http-backend_2.12@1.6.4
+- pkg:maven/com.softwaremill.sttp/akka-http-backend_2.12@1.6.4?classifier=sources
