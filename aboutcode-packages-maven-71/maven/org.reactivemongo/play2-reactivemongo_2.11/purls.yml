@@ -68,3 +68,9 @@
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.13-play23?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.13
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.13?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.14-play24
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.14-play24?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.14-play23
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.14-play23?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.14
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@0.11.14?classifier=sources
