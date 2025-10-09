@@ -16,3 +16,7 @@
 - pkg:maven/com.agapsys.libs/rcf@3.0.1?classifier=sources
 - pkg:maven/com.agapsys.libs/rcf@4.0.0
 - pkg:maven/com.agapsys.libs/rcf@4.0.0?classifier=sources
+- pkg:maven/com.agapsys.libs/rcf@5.1.0
+- pkg:maven/com.agapsys.libs/rcf@5.1.0?classifier=sources
+- pkg:maven/com.agapsys.libs/rcf@5.0.0
+- pkg:maven/com.agapsys.libs/rcf@5.0.0?classifier=sources

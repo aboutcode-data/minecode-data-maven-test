@@ -23,3 +23,5 @@
 - pkg:maven/com.bluelinelabs/conductor-support@2.0.0-rc2?classifier=sources
 - pkg:maven/com.bluelinelabs/conductor-support@2.0.0-RC1?type=aar
 - pkg:maven/com.bluelinelabs/conductor-support@2.0.0-RC1?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor-support@2.0.0-rc5?type=aar
+- pkg:maven/com.bluelinelabs/conductor-support@2.0.0-rc5?classifier=sources
