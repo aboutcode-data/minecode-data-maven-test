@@ -30,3 +30,5 @@
 - pkg:maven/com.facebook.presto/presto-matching@0.197?classifier=sources
 - pkg:maven/com.facebook.presto/presto-matching@0.198
 - pkg:maven/com.facebook.presto/presto-matching@0.198?classifier=sources
+- pkg:maven/com.facebook.presto/presto-matching@0.199
+- pkg:maven/com.facebook.presto/presto-matching@0.199?classifier=sources
