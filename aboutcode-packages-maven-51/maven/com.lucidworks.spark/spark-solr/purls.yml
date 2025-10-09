@@ -40,3 +40,7 @@
 - pkg:maven/com.lucidworks.spark/spark-solr@2.3.3?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@2.3.2
 - pkg:maven/com.lucidworks.spark/spark-solr@2.3.2?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@2.3.4
+- pkg:maven/com.lucidworks.spark/spark-solr@2.3.4?classifier=sources

@@ -36,3 +36,14 @@
 - pkg:maven/com.mercadopago/sdk@2.3.4?classifier=sources
 - pkg:maven/com.mercadopago/sdk@2.3.3?type=aar
 - pkg:maven/com.mercadopago/sdk@2.3.3?classifier=sources
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta9?type=aar
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta9?classifier=sources
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta8?type=aar
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta8?classifier=sources
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta7?type=aar
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta7?classifier=sources
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta6?classifier=sources
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta11?type=aar
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta11?classifier=sources
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta10?type=aar
+- pkg:maven/com.mercadopago/sdk@3.0.0-beta10?classifier=sources
