@@ -41,3 +41,5 @@
 - pkg:maven/org.apache.tika/tika-parsers@1.13?classifier=sources
 - pkg:maven/org.apache.tika/tika-parsers@1.14
 - pkg:maven/org.apache.tika/tika-parsers@1.14?classifier=sources
+- pkg:maven/org.apache.tika/tika-parsers@1.15
+- pkg:maven/org.apache.tika/tika-parsers@1.15?classifier=sources
