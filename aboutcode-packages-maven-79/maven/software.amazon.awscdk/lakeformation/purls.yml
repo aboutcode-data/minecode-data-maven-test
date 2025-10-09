@@ -1,2 +1,6 @@
 - pkg:maven/software.amazon.awscdk/lakeformation@1.5.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/lakeformation@1.5.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/lakeformation@1.6.1.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/lakeformation@1.6.1.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/lakeformation@1.6.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/lakeformation@1.6.0.DEVPREVIEW?classifier=sources
