@@ -14,3 +14,7 @@
 - pkg:maven/org.testfx/testfx-junit@4.0.7-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-junit@4.0.8-alpha
 - pkg:maven/org.testfx/testfx-junit@4.0.8-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-junit@4.0.9-alpha
+- pkg:maven/org.testfx/testfx-junit@4.0.9-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-junit@4.0.10-alpha
+- pkg:maven/org.testfx/testfx-junit@4.0.10-alpha?classifier=sources

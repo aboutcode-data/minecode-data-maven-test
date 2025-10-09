@@ -74,3 +74,7 @@
 - pkg:maven/org.whitesource/whitesource-maven-plugin@3.3.0?classifier=sources
 - pkg:maven/org.whitesource/whitesource-maven-plugin@3.3.1
 - pkg:maven/org.whitesource/whitesource-maven-plugin@3.3.1?classifier=sources
+- pkg:maven/org.whitesource/whitesource-maven-plugin@3.2.2.Beta1
+- pkg:maven/org.whitesource/whitesource-maven-plugin@3.2.2.Beta1?classifier=sources
+- pkg:maven/org.whitesource/whitesource-maven-plugin@17.11.3
+- pkg:maven/org.whitesource/whitesource-maven-plugin@17.11.3?classifier=sources

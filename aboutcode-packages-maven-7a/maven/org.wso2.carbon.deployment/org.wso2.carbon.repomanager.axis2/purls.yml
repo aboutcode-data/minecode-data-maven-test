@@ -1,0 +1,3 @@
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.repomanager.axis2@4.7.7
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.repomanager.axis2@4.7.7?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.repomanager.axis2@4.7.7?classifier=source-release&type=zip

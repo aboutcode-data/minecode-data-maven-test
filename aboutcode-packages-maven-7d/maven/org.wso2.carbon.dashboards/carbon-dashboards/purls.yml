@@ -16,3 +16,5 @@
 - pkg:maven/org.wso2.carbon.dashboards/carbon-dashboards@4.0.0-m5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.dashboards/carbon-dashboards@4.0.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.dashboards/carbon-dashboards@4.0.0.alpha4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.dashboards/carbon-dashboards@4.0.0.beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.dashboards/carbon-dashboards@4.0.0.alpha5?classifier=source-release&type=zip

@@ -40,3 +40,9 @@
 - pkg:maven/org.vibur/vibur-dbcp-hibernate5@19.2?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp-hibernate5@20.0
 - pkg:maven/org.vibur/vibur-dbcp-hibernate5@20.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@21.2
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@21.2?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@21.1
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@21.1?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@21.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate5@21.0?classifier=sources
