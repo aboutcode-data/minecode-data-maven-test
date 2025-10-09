@@ -185,3 +185,5 @@
 - pkg:maven/org.webjars/angularjs@1.4.9?classifier=sources
 - pkg:maven/org.webjars/angularjs@1.5.0-rc.2
 - pkg:maven/org.webjars/angularjs@1.5.0-rc.2?classifier=sources
+- pkg:maven/org.webjars/angularjs@1.5.0
+- pkg:maven/org.webjars/angularjs@1.5.0?classifier=sources
