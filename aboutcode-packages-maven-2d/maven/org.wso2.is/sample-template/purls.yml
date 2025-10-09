@@ -2,3 +2,5 @@
 - pkg:maven/org.wso2.is/sample-template@5.4.0-alpha9?classifier=sources
 - pkg:maven/org.wso2.is/sample-template@5.4.0-alpha10
 - pkg:maven/org.wso2.is/sample-template@5.4.0-alpha10?classifier=sources
+- pkg:maven/org.wso2.is/sample-template@5.4.0-beta
+- pkg:maven/org.wso2.is/sample-template@5.4.0-beta?classifier=sources

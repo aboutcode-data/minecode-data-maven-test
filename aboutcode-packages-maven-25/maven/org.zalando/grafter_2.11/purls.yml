@@ -74,3 +74,5 @@
 - pkg:maven/org.zalando/grafter_2.11@2.3.0?classifier=sources
 - pkg:maven/org.zalando/grafter_2.11@2.2.2
 - pkg:maven/org.zalando/grafter_2.11@2.2.2?classifier=sources
+- pkg:maven/org.zalando/grafter_2.11@2.4.1-RC1
+- pkg:maven/org.zalando/grafter_2.11@2.4.1-RC1?classifier=sources

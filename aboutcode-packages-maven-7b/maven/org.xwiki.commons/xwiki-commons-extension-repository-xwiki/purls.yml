@@ -343,3 +343,4 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@9.10.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@9.10
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@9.10?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@9.10.1?classifier=sources
