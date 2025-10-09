@@ -36,3 +36,7 @@
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.2.Final?classifier=sources
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.1.Final?type=war
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.1.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.4.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.4.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.3.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.3.Final?classifier=sources

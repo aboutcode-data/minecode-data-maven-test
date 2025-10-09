@@ -38,3 +38,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@1.5.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@2.0.0.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@2.0.1.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@1.5.11.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@1.5.11.RELEASE?classifier=sources

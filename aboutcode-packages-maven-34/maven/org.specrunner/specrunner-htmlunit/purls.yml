@@ -264,3 +264,5 @@
 - pkg:maven/org.specrunner/specrunner-htmlunit@1.5.12?classifier=sources
 - pkg:maven/org.specrunner/specrunner-htmlunit@1.5.14
 - pkg:maven/org.specrunner/specrunner-htmlunit@1.5.14?classifier=sources
+- pkg:maven/org.specrunner/specrunner-htmlunit@1.5.15
+- pkg:maven/org.specrunner/specrunner-htmlunit@1.5.15?classifier=sources

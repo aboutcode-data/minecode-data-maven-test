@@ -72,3 +72,5 @@
 - pkg:maven/org.revapi/revapi-maven-plugin@0.9.4?classifier=sources
 - pkg:maven/org.revapi/revapi-maven-plugin@0.10.0
 - pkg:maven/org.revapi/revapi-maven-plugin@0.10.0?classifier=sources
+- pkg:maven/org.revapi/revapi-maven-plugin@0.10.1
+- pkg:maven/org.revapi/revapi-maven-plugin@0.10.1?classifier=sources

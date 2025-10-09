@@ -18,3 +18,7 @@
 - pkg:maven/org.springframework.amqp/spring-rabbit-junit@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-rabbit-junit@1.7.6.RELEASE
 - pkg:maven/org.springframework.amqp/spring-rabbit-junit@1.7.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-junit@2.0.3.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit-junit@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-junit@1.7.7.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit-junit@1.7.7.RELEASE?classifier=sources

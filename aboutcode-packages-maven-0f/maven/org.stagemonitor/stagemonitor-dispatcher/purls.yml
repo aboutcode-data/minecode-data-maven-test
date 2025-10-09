@@ -84,3 +84,7 @@
 - pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.87.7?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.87.8
 - pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.87.8?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.88.3
+- pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.88.3?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.87.9
+- pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.87.9?classifier=sources

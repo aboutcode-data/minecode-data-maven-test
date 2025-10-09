@@ -6,3 +6,5 @@
 - pkg:maven/org.testcontainers/jdbc-test@1.5.0
 - pkg:maven/org.testcontainers/jdbc-test@1.5.1
 - pkg:maven/org.testcontainers/jdbc-test@1.6.0
+- pkg:maven/org.testcontainers/jdbc-test@1.7.0
+- pkg:maven/org.testcontainers/jdbc-test@1.7.0?classifier=sources
