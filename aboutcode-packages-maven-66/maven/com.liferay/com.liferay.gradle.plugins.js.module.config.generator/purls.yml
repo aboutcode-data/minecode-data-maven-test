@@ -119,3 +119,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.module.config.generator@2.1.23
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.module.config.generator@2.1.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.module.config.generator@2.1.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.module.config.generator@2.1.24
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.module.config.generator@2.1.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.module.config.generator@2.1.24?classifier=sources-commercial

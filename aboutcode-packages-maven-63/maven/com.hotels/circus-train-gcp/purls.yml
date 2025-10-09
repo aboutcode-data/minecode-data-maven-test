@@ -1,2 +1,4 @@
 - pkg:maven/com.hotels/circus-train-gcp@10.0.0
 - pkg:maven/com.hotels/circus-train-gcp@10.0.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-gcp@11.0.0
+- pkg:maven/com.hotels/circus-train-gcp@11.0.0?classifier=sources

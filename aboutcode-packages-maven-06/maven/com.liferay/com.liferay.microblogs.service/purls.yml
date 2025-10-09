@@ -48,3 +48,6 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.13
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.15
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.15?classifier=sources-commercial
