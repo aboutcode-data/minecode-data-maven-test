@@ -428,3 +428,5 @@
 - pkg:maven/org.restcomm/restcomm-connect-rvd@8.0.0.issue-1570.withtest.41?classifier=sources
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.9?type=war
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.8?type=war
+- pkg:maven/org.restcomm/restcomm-connect-rvd@8.1.0.1166?type=war
+- pkg:maven/org.restcomm/restcomm-connect-rvd@8.1.0.1166?classifier=sources
