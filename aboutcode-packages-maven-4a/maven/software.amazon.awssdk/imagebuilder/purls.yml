@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awssdk/imagebuilder@2.10.27
+- pkg:maven/software.amazon.awssdk/imagebuilder@2.10.27?classifier=sources
+- pkg:maven/software.amazon.awssdk/imagebuilder@2.10.26
+- pkg:maven/software.amazon.awssdk/imagebuilder@2.10.26?classifier=sources

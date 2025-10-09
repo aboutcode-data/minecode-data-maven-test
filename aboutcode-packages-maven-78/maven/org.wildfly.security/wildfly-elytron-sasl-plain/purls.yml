@@ -48,3 +48,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@1.10.4.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@1.11.0.CR2
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@1.11.0.CR2?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@2.0.0.Alpha6
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@2.0.0.Alpha6?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@1.11.0.CR3
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-plain@1.11.0.CR3?classifier=sources

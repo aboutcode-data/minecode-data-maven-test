@@ -10,3 +10,5 @@
 - pkg:maven/cc.blynk.clickhouse/clickhouse4j@1.2.0?classifier=sources
 - pkg:maven/cc.blynk.clickhouse/clickhouse4j@1.4.0
 - pkg:maven/cc.blynk.clickhouse/clickhouse4j@1.4.0?classifier=sources
+- pkg:maven/cc.blynk.clickhouse/clickhouse4j@1.4.1
+- pkg:maven/cc.blynk.clickhouse/clickhouse4j@1.4.1?classifier=sources
