@@ -28,3 +28,5 @@
 - pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.11?classifier=sources
 - pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.22
 - pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.22?classifier=sources
+- pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.23
+- pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.23?classifier=sources

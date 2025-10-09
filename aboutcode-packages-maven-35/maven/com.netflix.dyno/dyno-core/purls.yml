@@ -74,3 +74,5 @@
 - pkg:maven/com.netflix.dyno/dyno-core@1.6.1-rc.1?classifier=sources
 - pkg:maven/com.netflix.dyno/dyno-core@1.6.3-rc.1
 - pkg:maven/com.netflix.dyno/dyno-core@1.6.3-rc.1?classifier=sources
+- pkg:maven/com.netflix.dyno/dyno-core@1.6.3-rc.2
+- pkg:maven/com.netflix.dyno/dyno-core@1.6.3-rc.2?classifier=sources

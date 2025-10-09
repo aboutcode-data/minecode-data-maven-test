@@ -42,3 +42,5 @@
 - pkg:maven/com.yahoo.vespa/jdisc_messagebus_service@6.191.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc_messagebus_service@6.192.4?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc_messagebus_service@6.195.55?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc_messagebus_service@6.194.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc_messagebus_service@6.193.124?classifier=sources
