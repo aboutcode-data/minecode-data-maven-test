@@ -134,3 +134,5 @@
 - pkg:maven/com.wavefront/proxy@5.0-RELEASE-TEST?classifier=sources
 - pkg:maven/com.wavefront/proxy@5.0
 - pkg:maven/com.wavefront/proxy@5.0?classifier=sources
+- pkg:maven/com.wavefront/proxy@5.1
+- pkg:maven/com.wavefront/proxy@5.1?classifier=sources

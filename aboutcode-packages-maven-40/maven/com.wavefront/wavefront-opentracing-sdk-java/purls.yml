@@ -30,3 +30,5 @@
 - pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@1.10?classifier=sources
 - pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@1.11
 - pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@1.11?classifier=sources
+- pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@1.12
+- pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@1.12?classifier=sources

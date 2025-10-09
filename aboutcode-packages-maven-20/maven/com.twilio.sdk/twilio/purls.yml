@@ -272,3 +272,5 @@
 - pkg:maven/com.twilio.sdk/twilio@7.42.0?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@7.43.0
 - pkg:maven/com.twilio.sdk/twilio@7.43.0?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio@7.43.1
+- pkg:maven/com.twilio.sdk/twilio@7.43.1?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.yahoo.vespa/tenant-auth@7.112.6?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-auth@7.110.36
 - pkg:maven/com.yahoo.vespa/tenant-auth@7.110.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-auth@7.113.28
+- pkg:maven/com.yahoo.vespa/tenant-auth@7.113.28?classifier=sources
