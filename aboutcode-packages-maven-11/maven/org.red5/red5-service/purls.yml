@@ -64,3 +64,5 @@
 - pkg:maven/org.red5/red5-service@1.0.9-M8?classifier=sources
 - pkg:maven/org.red5/red5-service@1.0.9-M10
 - pkg:maven/org.red5/red5-service@1.0.9-M10?classifier=sources
+- pkg:maven/org.red5/red5-service@1.0.9-RELEASE
+- pkg:maven/org.red5/red5-service@1.0.9-RELEASE?classifier=sources
