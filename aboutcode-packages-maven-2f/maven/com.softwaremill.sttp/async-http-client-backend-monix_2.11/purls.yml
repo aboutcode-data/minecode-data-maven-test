@@ -174,3 +174,5 @@
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-monix_2.11@1.7.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-monix_2.11@1.6.8
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-monix_2.11@1.6.8?classifier=sources
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-monix_2.11@1.7.2
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-monix_2.11@1.7.2?classifier=sources

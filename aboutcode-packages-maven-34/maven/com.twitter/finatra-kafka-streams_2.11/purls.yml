@@ -18,3 +18,5 @@
 - pkg:maven/com.twitter/finatra-kafka-streams_2.11@19.8.0?classifier=sources
 - pkg:maven/com.twitter/finatra-kafka-streams_2.11@19.9.0
 - pkg:maven/com.twitter/finatra-kafka-streams_2.11@19.9.0?classifier=sources
+- pkg:maven/com.twitter/finatra-kafka-streams_2.11@19.10.0
+- pkg:maven/com.twitter/finatra-kafka-streams_2.11@19.10.0?classifier=sources

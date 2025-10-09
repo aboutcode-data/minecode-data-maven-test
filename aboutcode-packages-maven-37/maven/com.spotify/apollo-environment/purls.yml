@@ -62,3 +62,5 @@
 - pkg:maven/com.spotify/apollo-environment@1.12.1?classifier=sources
 - pkg:maven/com.spotify/apollo-environment@1.13.0
 - pkg:maven/com.spotify/apollo-environment@1.13.0?classifier=sources
+- pkg:maven/com.spotify/apollo-environment@1.14.0
+- pkg:maven/com.spotify/apollo-environment@1.14.0?classifier=sources
