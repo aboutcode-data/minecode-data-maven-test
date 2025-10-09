@@ -34,3 +34,5 @@
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.1.0-2?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.0.2-2
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.0.2-2?classifier=sources
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.1.1
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.1.1?classifier=sources

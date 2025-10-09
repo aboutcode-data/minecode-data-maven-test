@@ -50,3 +50,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-dev-mode_2.11@1.4.4?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-dev-mode_2.11@1.4.3
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-dev-mode_2.11@1.4.3?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-dev-mode_2.11@1.4.5-M1
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-dev-mode_2.11@1.4.5-M1?classifier=sources

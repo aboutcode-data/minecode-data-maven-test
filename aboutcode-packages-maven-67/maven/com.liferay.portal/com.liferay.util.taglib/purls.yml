@@ -46,3 +46,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.10.6?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.10.9
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.10.9?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.11.0
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.11.0?classifier=sources

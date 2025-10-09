@@ -154,3 +154,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.6.23
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.6.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.6.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.service@1.6.24
+- pkg:maven/com.liferay/com.liferay.wiki.service@1.6.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@1.6.24?classifier=sources-commercial

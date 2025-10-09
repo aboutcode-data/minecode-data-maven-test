@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.azure.v2/azure-client-runtime@2.0.0-beta1
 - pkg:maven/com.microsoft.azure.v2/azure-client-runtime@2.0.0-beta1?classifier=sources
+- pkg:maven/com.microsoft.azure.v2/azure-client-runtime@2.0.0-java7-beta1
+- pkg:maven/com.microsoft.azure.v2/azure-client-runtime@2.0.0-java7-beta1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.okta.spring/okta-spring-sdk@0.3.0
 - pkg:maven/com.okta.spring/okta-spring-sdk@0.3.0?classifier=sources
+- pkg:maven/com.okta.spring/okta-spring-sdk@0.4.0
+- pkg:maven/com.okta.spring/okta-spring-sdk@0.4.0?classifier=sources
