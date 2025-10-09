@@ -54,3 +54,5 @@
 - pkg:maven/com.google.cloud/google-cloud-language@0.17.2-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-language@0.18.0-beta
 - pkg:maven/com.google.cloud/google-cloud-language@0.18.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@0.19.0-beta
+- pkg:maven/com.google.cloud/google-cloud-language@0.19.0-beta?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.datathings/greycat-rocksdb@6?classifier=sources
 - pkg:maven/com.datathings/greycat-rocksdb@7
 - pkg:maven/com.datathings/greycat-rocksdb@7?classifier=sources
+- pkg:maven/com.datathings/greycat-rocksdb@8
+- pkg:maven/com.datathings/greycat-rocksdb@8?classifier=sources
