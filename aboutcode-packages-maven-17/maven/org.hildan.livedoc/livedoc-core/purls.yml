@@ -28,3 +28,7 @@
 - pkg:maven/org.hildan.livedoc/livedoc-core@2.0.0?classifier=sources
 - pkg:maven/org.hildan.livedoc/livedoc-core@3.0.0
 - pkg:maven/org.hildan.livedoc/livedoc-core@3.0.0?classifier=sources
+- pkg:maven/org.hildan.livedoc/livedoc-core@4.1.0
+- pkg:maven/org.hildan.livedoc/livedoc-core@4.1.0?classifier=sources
+- pkg:maven/org.hildan.livedoc/livedoc-core@4.0.0
+- pkg:maven/org.hildan.livedoc/livedoc-core@4.0.0?classifier=sources
