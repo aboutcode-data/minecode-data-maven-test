@@ -107,3 +107,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-zookeeper@0.82.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-zookeeper@0.83.0
 - pkg:maven/com.linecorp.armeria/armeria-zookeeper@0.83.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-zookeeper@0.84.0
+- pkg:maven/com.linecorp.armeria/armeria-zookeeper@0.84.0?classifier=sources

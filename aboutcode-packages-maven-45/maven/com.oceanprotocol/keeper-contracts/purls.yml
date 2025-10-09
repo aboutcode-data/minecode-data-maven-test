@@ -78,3 +78,5 @@
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.8.8?classifier=sources
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.9.1
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.9.1?classifier=sources
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.9.5
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.9.5?classifier=sources

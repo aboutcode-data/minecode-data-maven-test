@@ -29,3 +29,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.37.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.38.0
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.38.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.39.0
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.39.0?classifier=sources

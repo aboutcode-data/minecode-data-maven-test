@@ -146,3 +146,6 @@
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@1.0.39
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@1.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.0
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.0?classifier=sources-commercial

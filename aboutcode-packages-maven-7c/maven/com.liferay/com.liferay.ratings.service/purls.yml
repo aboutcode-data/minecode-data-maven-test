@@ -48,3 +48,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.service@1.0.14
 - pkg:maven/com.liferay/com.liferay.ratings.service@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.service@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.service@3.0.0
+- pkg:maven/com.liferay/com.liferay.ratings.service@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.service@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.service@1.0.15
+- pkg:maven/com.liferay/com.liferay.ratings.service@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.service@1.0.15?classifier=sources-commercial

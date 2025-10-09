@@ -24,3 +24,5 @@
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@2.2.2?classifier=sources
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@2.2.3?type=war
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@2.2.3?classifier=sources
+- pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.0.0?type=war
+- pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.0.0?classifier=sources
