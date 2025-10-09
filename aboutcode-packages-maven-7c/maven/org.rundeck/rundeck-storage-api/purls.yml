@@ -172,3 +172,7 @@
 - pkg:maven/org.rundeck/rundeck-storage-api@3.0.21-20190424?classifier=sources
 - pkg:maven/org.rundeck/rundeck-storage-api@3.0.22-20190512
 - pkg:maven/org.rundeck/rundeck-storage-api@3.0.22-20190512?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-api@3.0.23-20190619
+- pkg:maven/org.rundeck/rundeck-storage-api@3.0.23-20190619?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-api@2.11.11
+- pkg:maven/org.rundeck/rundeck-storage-api@2.11.11?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.realityforge.giggle/giggle-compiler@0.02?classifier=sources
 - pkg:maven/org.realityforge.giggle/giggle-compiler@0.01
 - pkg:maven/org.realityforge.giggle/giggle-compiler@0.01?classifier=sources
+- pkg:maven/org.realityforge.giggle/giggle-compiler@0.05
+- pkg:maven/org.realityforge.giggle/giggle-compiler@0.05?classifier=sources
+- pkg:maven/org.realityforge.giggle/giggle-compiler@0.04
+- pkg:maven/org.realityforge.giggle/giggle-compiler@0.04?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/org.msgpack/msgpack-core@0.8.15?classifier=sources
 - pkg:maven/org.msgpack/msgpack-core@0.8.16
 - pkg:maven/org.msgpack/msgpack-core@0.8.16?classifier=sources
+- pkg:maven/org.msgpack/msgpack-core@0.8.17
+- pkg:maven/org.msgpack/msgpack-core@0.8.17?classifier=sources

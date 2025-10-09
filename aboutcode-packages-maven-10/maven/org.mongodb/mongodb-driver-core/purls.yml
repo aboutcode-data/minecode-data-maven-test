@@ -104,3 +104,5 @@
 - pkg:maven/org.mongodb/mongodb-driver-core@3.10.2?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-core@3.11.0-beta3
 - pkg:maven/org.mongodb/mongodb-driver-core@3.11.0-beta3?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-core@3.11.0-beta4
+- pkg:maven/org.mongodb/mongodb-driver-core@3.11.0-beta4?classifier=sources

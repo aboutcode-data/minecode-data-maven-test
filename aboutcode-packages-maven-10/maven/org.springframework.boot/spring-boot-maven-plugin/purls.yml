@@ -158,3 +158,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-maven-plugin@2.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-maven-plugin@1.5.21.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-maven-plugin@1.5.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-maven-plugin@2.1.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-maven-plugin@2.1.6.RELEASE?classifier=sources
