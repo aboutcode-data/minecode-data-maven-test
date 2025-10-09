@@ -346,3 +346,5 @@
 - pkg:maven/com.yahoo.vespa/container-messagebus@7.45.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-messagebus@7.50.19
 - pkg:maven/com.yahoo.vespa/container-messagebus@7.50.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-messagebus@7.51.13
+- pkg:maven/com.yahoo.vespa/container-messagebus@7.51.13?classifier=sources

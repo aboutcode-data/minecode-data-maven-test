@@ -26,3 +26,5 @@
 - pkg:maven/info.picocli/picocli-codegen@4.0.0-alpha-2?classifier=sources
 - pkg:maven/info.picocli/picocli-codegen@4.0.0-alpha-3
 - pkg:maven/info.picocli/picocli-codegen@4.0.0-alpha-3?classifier=sources
+- pkg:maven/info.picocli/picocli-codegen@4.0.0-beta-1
+- pkg:maven/info.picocli/picocli-codegen@4.0.0-beta-1?classifier=sources
