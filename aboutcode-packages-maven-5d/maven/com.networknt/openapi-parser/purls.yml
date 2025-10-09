@@ -44,3 +44,7 @@
 - pkg:maven/com.networknt/openapi-parser@1.5.23?classifier=sources
 - pkg:maven/com.networknt/openapi-parser@1.5.24
 - pkg:maven/com.networknt/openapi-parser@1.5.24?classifier=sources
+- pkg:maven/com.networknt/openapi-parser@2.0.0-BETA2
+- pkg:maven/com.networknt/openapi-parser@2.0.0-BETA2?classifier=sources
+- pkg:maven/com.networknt/openapi-parser@1.5.25
+- pkg:maven/com.networknt/openapi-parser@1.5.25?classifier=sources
