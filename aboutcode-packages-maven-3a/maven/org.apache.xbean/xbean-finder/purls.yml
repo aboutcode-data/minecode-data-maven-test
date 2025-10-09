@@ -77,3 +77,5 @@
 - pkg:maven/org.apache.xbean/xbean-finder@4.9?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-finder@4.10
 - pkg:maven/org.apache.xbean/xbean-finder@4.10?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-finder@4.11
+- pkg:maven/org.apache.xbean/xbean-finder@4.11?classifier=sources

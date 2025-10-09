@@ -66,3 +66,5 @@
 - pkg:maven/co.fs2/fs2-core_2.12@1.0.0-RC2?classifier=sources
 - pkg:maven/co.fs2/fs2-core_2.12@1.0.0-RC1
 - pkg:maven/co.fs2/fs2-core_2.12@1.0.0-RC1?classifier=sources
+- pkg:maven/co.fs2/fs2-core_2.12@1.0.0
+- pkg:maven/co.fs2/fs2-core_2.12@1.0.0?classifier=sources

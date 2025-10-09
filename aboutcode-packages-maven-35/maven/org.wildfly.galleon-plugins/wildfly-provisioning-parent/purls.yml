@@ -42,3 +42,4 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@2.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@2.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@3.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@2.0.1.Final?classifier=source-release&type=zip
