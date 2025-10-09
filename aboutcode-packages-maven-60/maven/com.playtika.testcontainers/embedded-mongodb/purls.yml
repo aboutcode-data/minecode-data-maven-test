@@ -1,2 +1,4 @@
 - pkg:maven/com.playtika.testcontainers/embedded-mongodb@1.30
 - pkg:maven/com.playtika.testcontainers/embedded-mongodb@1.30?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mongodb@1.32
+- pkg:maven/com.playtika.testcontainers/embedded-mongodb@1.32?classifier=sources

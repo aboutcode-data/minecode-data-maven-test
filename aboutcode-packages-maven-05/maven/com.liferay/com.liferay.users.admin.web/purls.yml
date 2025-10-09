@@ -414,3 +414,6 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.24
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.55
+- pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.55?classifier=sources-commercial

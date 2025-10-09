@@ -135,3 +135,6 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.15
 - pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.16
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.16?classifier=sources-commercial

@@ -188,3 +188,5 @@
 - pkg:maven/com.onesignal/OneSignal@3.11.3?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@3.11.4?type=aar
 - pkg:maven/com.onesignal/OneSignal@3.11.4?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@3.12.0?type=aar
+- pkg:maven/com.onesignal/OneSignal@3.12.0?classifier=sources

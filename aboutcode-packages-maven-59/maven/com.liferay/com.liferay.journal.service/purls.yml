@@ -784,3 +784,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@3.31.8
 - pkg:maven/com.liferay/com.liferay.journal.service@3.31.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@3.31.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.84
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.84?classifier=sources-commercial

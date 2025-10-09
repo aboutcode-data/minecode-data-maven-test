@@ -44,3 +44,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-aerospike@1.25?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-aerospike@1.30
 - pkg:maven/com.playtika.testcontainers/embedded-aerospike@1.30?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-aerospike@1.32
+- pkg:maven/com.playtika.testcontainers/embedded-aerospike@1.32?classifier=sources

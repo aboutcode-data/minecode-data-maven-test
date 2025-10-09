@@ -762,3 +762,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.122.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.123.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.123.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.78.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.78.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.123.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.123.1?classifier=sources
