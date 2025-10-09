@@ -202,3 +202,7 @@
 - pkg:maven/com.yahoo.vespa/annotations@6.262.3?classifier=sources
 - pkg:maven/com.yahoo.vespa/annotations@6.259.36
 - pkg:maven/com.yahoo.vespa/annotations@6.259.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/annotations@6.266.22
+- pkg:maven/com.yahoo.vespa/annotations@6.266.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/annotations@6.265.30
+- pkg:maven/com.yahoo.vespa/annotations@6.265.30?classifier=sources

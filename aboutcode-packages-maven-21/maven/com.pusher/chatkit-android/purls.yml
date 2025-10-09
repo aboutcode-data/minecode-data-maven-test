@@ -1,2 +1,4 @@
 - pkg:maven/com.pusher/chatkit-android@0.1.0?type=aar
 - pkg:maven/com.pusher/chatkit-android@0.1.0?classifier=sources
+- pkg:maven/com.pusher/chatkit-android@0.2.4?type=aar
+- pkg:maven/com.pusher/chatkit-android@0.2.4?classifier=sources
