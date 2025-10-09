@@ -150,3 +150,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.43?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.77
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.77?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.0.M20
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.0.M20?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.14
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.14?classifier=sources

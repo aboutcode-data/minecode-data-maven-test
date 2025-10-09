@@ -56,3 +56,5 @@
 - pkg:maven/org.grails/gorm-cassandra-spring-boot@6.1.0.RC2?classifier=sources
 - pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.13.RELEASE
 - pkg:maven/org.grails/gorm-cassandra-spring-boot@5.0.13.RELEASE?classifier=sources
+- pkg:maven/org.grails/gorm-cassandra-spring-boot@6.1.0.RELEASE
+- pkg:maven/org.grails/gorm-cassandra-spring-boot@6.1.0.RELEASE?classifier=sources

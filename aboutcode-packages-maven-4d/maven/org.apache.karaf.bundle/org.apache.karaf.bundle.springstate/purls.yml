@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.1.0?classifier=sources
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.1.1
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.1.1?classifier=sources
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.0.9
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.springstate@4.0.9?classifier=sources
