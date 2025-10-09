@@ -240,3 +240,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-commons@1.5.12?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-commons@1.2.20
 - pkg:maven/org.apache.jackrabbit/oak-commons@1.2.20?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-commons@1.4.9
+- pkg:maven/org.apache.jackrabbit/oak-commons@1.4.9?classifier=sources

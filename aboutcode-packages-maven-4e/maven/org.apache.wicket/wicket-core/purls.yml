@@ -128,3 +128,9 @@
 - pkg:maven/org.apache.wicket/wicket-core@6.24.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-core@1.5.16
 - pkg:maven/org.apache.wicket/wicket-core@1.5.16?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-core@8.0.0-M2
+- pkg:maven/org.apache.wicket/wicket-core@8.0.0-M2?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-core@7.5.0
+- pkg:maven/org.apache.wicket/wicket-core@7.5.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-core@6.25.0
+- pkg:maven/org.apache.wicket/wicket-core@6.25.0?classifier=sources
