@@ -334,3 +334,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@7.0.92?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.14
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.14?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.37
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.37?classifier=sources

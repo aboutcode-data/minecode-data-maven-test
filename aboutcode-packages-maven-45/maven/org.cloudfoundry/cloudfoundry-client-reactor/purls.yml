@@ -110,3 +110,5 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.14.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.33.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.33.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.34.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.34.0.RELEASE?classifier=sources

@@ -80,3 +80,7 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@2.0.7?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@2.0.8
 - pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@2.0.8?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@2.0.9
+- pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@2.0.9?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@1.7.6
+- pkg:maven/org.apache.openwebbeans/openwebbeans-osgi@1.7.6?classifier=sources
