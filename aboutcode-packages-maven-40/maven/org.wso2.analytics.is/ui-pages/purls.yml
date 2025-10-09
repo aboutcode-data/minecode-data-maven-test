@@ -16,3 +16,5 @@
 - pkg:maven/org.wso2.analytics.is/ui-pages@5.5.0-alpha3?classifier=sources
 - pkg:maven/org.wso2.analytics.is/ui-pages@5.5.0-beta
 - pkg:maven/org.wso2.analytics.is/ui-pages@5.5.0-beta?classifier=sources
+- pkg:maven/org.wso2.analytics.is/ui-pages@5.5.0
+- pkg:maven/org.wso2.analytics.is/ui-pages@5.5.0?classifier=sources
