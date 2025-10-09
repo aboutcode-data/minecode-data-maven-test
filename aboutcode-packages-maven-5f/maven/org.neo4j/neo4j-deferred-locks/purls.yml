@@ -200,3 +200,5 @@
 - pkg:maven/org.neo4j/neo4j-deferred-locks@3.3.9?classifier=sources
 - pkg:maven/org.neo4j/neo4j-deferred-locks@3.3.8
 - pkg:maven/org.neo4j/neo4j-deferred-locks@3.3.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-deferred-locks@3.4.10
+- pkg:maven/org.neo4j/neo4j-deferred-locks@3.4.10?classifier=sources
