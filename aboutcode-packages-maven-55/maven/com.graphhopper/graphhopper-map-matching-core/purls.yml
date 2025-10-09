@@ -50,3 +50,5 @@
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.13.0-pre18?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.13.0-pre19
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.13.0-pre19?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.13.0
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.13.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-iamcredentials-v1@0.35.0-alpha?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-iamcredentials-v1@0.36.0-alpha
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-iamcredentials-v1@0.36.0-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-iamcredentials-v1@0.37.0-alpha
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-iamcredentials-v1@0.37.0-alpha?classifier=sources

@@ -134,3 +134,7 @@
 - pkg:maven/com.graphhopper/graphhopper-tools@0.13.0-pre18?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-tools@0.13.0-pre19
 - pkg:maven/com.graphhopper/graphhopper-tools@0.13.0-pre19?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-tools@0.14.0-pre1
+- pkg:maven/com.graphhopper/graphhopper-tools@0.14.0-pre1?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-tools@0.13.0
+- pkg:maven/com.graphhopper/graphhopper-tools@0.13.0?classifier=sources
