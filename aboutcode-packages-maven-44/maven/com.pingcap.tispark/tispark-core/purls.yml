@@ -32,3 +32,7 @@
 - pkg:maven/com.pingcap.tispark/tispark-core@2.1.4-spark_2.3?classifier=sources
 - pkg:maven/com.pingcap.tispark/tispark-core@2.1.4-spark_2.4
 - pkg:maven/com.pingcap.tispark/tispark-core@2.1.4-spark_2.4?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core@2.1.6-spark_2.4
+- pkg:maven/com.pingcap.tispark/tispark-core@2.1.6-spark_2.4?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core@2.1.6-spark_2.3
+- pkg:maven/com.pingcap.tispark/tispark-core@2.1.6-spark_2.3?classifier=sources

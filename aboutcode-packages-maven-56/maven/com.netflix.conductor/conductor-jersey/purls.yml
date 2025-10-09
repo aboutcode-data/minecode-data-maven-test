@@ -388,3 +388,11 @@
 - pkg:maven/com.netflix.conductor/conductor-jersey@2.16.6-alpha?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-jersey@1.12.12
 - pkg:maven/com.netflix.conductor/conductor-jersey@1.12.12?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.19.0
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.19.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.18.1-alpha.6
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.18.1-alpha.6?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.18.1-alpha.5
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.18.1-alpha.5?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.18.1-alpha.4
+- pkg:maven/com.netflix.conductor/conductor-jersey@2.18.1-alpha.4?classifier=sources

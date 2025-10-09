@@ -74,3 +74,5 @@
 - pkg:maven/com.speedment/speedment-maven-plugin@3.1.16
 - pkg:maven/com.speedment/speedment-maven-plugin@3.1.17
 - pkg:maven/com.speedment/speedment-maven-plugin@3.1.18
+- pkg:maven/com.speedment/speedment-maven-plugin@3.2.0
+- pkg:maven/com.speedment/speedment-maven-plugin@3.2.0?classifier=sources
