@@ -22,3 +22,5 @@
 - pkg:maven/org.nutz/ssdb4j@9.2?classifier=sources
 - pkg:maven/org.nutz/ssdb4j@9.4
 - pkg:maven/org.nutz/ssdb4j@9.4?classifier=sources
+- pkg:maven/org.nutz/ssdb4j@10.0
+- pkg:maven/org.nutz/ssdb4j@10.0?classifier=sources

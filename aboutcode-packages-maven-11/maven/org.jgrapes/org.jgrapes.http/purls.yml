@@ -22,3 +22,5 @@
 - pkg:maven/org.jgrapes/org.jgrapes.http@0.13.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.http@0.12.1
 - pkg:maven/org.jgrapes/org.jgrapes.http@0.12.1?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.http@0.15.0
+- pkg:maven/org.jgrapes/org.jgrapes.http@0.15.0?classifier=sources

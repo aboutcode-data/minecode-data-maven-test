@@ -164,3 +164,5 @@
 - pkg:maven/org.neo4j/neo4j-lucene-upgrade@3.3.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-lucene-upgrade@3.4.0-alpha08
 - pkg:maven/org.neo4j/neo4j-lucene-upgrade@3.4.0-alpha08?classifier=sources
+- pkg:maven/org.neo4j/neo4j-lucene-upgrade@3.4.0-alpha09
+- pkg:maven/org.neo4j/neo4j-lucene-upgrade@3.4.0-alpha09?classifier=sources
