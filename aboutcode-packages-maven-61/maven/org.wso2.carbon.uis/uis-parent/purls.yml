@@ -24,3 +24,6 @@
 - pkg:maven/org.wso2.carbon.uis/uis-parent@0.13.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.uis/uis-parent@0.12.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.uis/uis-parent@0.12.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.uis/uis-parent@0.17.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.uis/uis-parent@0.17.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.uis/uis-parent@0.17.0?classifier=source-release&type=zip
