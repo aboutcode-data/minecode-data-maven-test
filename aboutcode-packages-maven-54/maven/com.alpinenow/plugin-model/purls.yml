@@ -42,3 +42,5 @@
 - pkg:maven/com.alpinenow/plugin-model@1.6-alpha-2?classifier=sources
 - pkg:maven/com.alpinenow/plugin-model@1.6-beta
 - pkg:maven/com.alpinenow/plugin-model@1.6-beta?classifier=sources
+- pkg:maven/com.alpinenow/plugin-model@1.6-beta-1
+- pkg:maven/com.alpinenow/plugin-model@1.6-beta-1?classifier=sources
