@@ -24,3 +24,5 @@
 - pkg:maven/com.baidu/brpc-java@2.4.6?classifier=sources
 - pkg:maven/com.baidu/brpc-java@2.5.0
 - pkg:maven/com.baidu/brpc-java@2.5.0?classifier=sources
+- pkg:maven/com.baidu/brpc-java@2.5.1
+- pkg:maven/com.baidu/brpc-java@2.5.1?classifier=sources

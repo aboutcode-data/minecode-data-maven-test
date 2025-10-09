@@ -245,3 +245,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch@5.7.9
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch@5.7.9?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch@5.8.1
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch@5.8.1?classifier=sources

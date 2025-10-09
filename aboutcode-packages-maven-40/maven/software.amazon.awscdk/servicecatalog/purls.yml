@@ -88,3 +88,7 @@
 - pkg:maven/software.amazon.awscdk/servicecatalog@0.36.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/servicecatalog@0.38.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/servicecatalog@0.38.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalog@1.0.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/servicecatalog@1.0.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalog@0.39.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/servicecatalog@0.39.0.DEVPREVIEW?classifier=sources
