@@ -4,3 +4,7 @@
 - pkg:maven/org.osgl/osgl-logging@0.1?classifier=sources
 - pkg:maven/org.osgl/osgl-logging@0.6.0
 - pkg:maven/org.osgl/osgl-logging@0.6.0?classifier=sources
+- pkg:maven/org.osgl/osgl-logging@1.0.1
+- pkg:maven/org.osgl/osgl-logging@1.0.1?classifier=sources
+- pkg:maven/org.osgl/osgl-logging@1.0.0
+- pkg:maven/org.osgl/osgl-logging@1.0.0?classifier=sources

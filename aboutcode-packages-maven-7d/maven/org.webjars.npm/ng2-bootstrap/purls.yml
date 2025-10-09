@@ -70,3 +70,5 @@
 - pkg:maven/org.webjars.npm/ng2-bootstrap@1.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/ng2-bootstrap@1.4.0-beta.3
 - pkg:maven/org.webjars.npm/ng2-bootstrap@1.4.0-beta.3?classifier=sources
+- pkg:maven/org.webjars.npm/ng2-bootstrap@1.4.0
+- pkg:maven/org.webjars.npm/ng2-bootstrap@1.4.0?classifier=sources

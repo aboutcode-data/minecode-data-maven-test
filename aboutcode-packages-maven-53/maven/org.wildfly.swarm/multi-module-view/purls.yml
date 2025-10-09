@@ -14,3 +14,5 @@
 - pkg:maven/org.wildfly.swarm/multi-module-view@2017.2.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/multi-module-view@2017.3.2?type=war
 - pkg:maven/org.wildfly.swarm/multi-module-view@2017.3.2?classifier=sources
+- pkg:maven/org.wildfly.swarm/multi-module-view@2017.3.3?type=war
+- pkg:maven/org.wildfly.swarm/multi-module-view@2017.3.3?classifier=sources
