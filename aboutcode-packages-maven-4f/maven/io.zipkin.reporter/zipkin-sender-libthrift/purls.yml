@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.reporter/zipkin-sender-libthrift@0.4.0
+- pkg:maven/io.zipkin.reporter/zipkin-sender-libthrift@0.4.0?classifier=sources

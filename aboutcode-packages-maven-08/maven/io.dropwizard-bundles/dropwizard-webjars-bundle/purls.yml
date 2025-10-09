@@ -16,3 +16,5 @@
 - pkg:maven/io.dropwizard-bundles/dropwizard-webjars-bundle@0.8.3?classifier=sources
 - pkg:maven/io.dropwizard-bundles/dropwizard-webjars-bundle@0.8.2
 - pkg:maven/io.dropwizard-bundles/dropwizard-webjars-bundle@0.8.2?classifier=sources
+- pkg:maven/io.dropwizard-bundles/dropwizard-webjars-bundle@1.0.0
+- pkg:maven/io.dropwizard-bundles/dropwizard-webjars-bundle@1.0.0?classifier=sources
