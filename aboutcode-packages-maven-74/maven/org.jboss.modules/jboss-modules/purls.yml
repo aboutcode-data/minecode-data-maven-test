@@ -247,3 +247,6 @@
 - pkg:maven/org.jboss.modules/jboss-modules@1.6.2.Final
 - pkg:maven/org.jboss.modules/jboss-modules@1.6.2.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.6.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.7.0.Beta3
+- pkg:maven/org.jboss.modules/jboss-modules@1.7.0.Beta3?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.7.0.Beta3?classifier=source-release&type=zip

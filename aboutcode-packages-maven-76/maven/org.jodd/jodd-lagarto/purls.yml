@@ -68,3 +68,7 @@
 - pkg:maven/org.jodd/jodd-lagarto@3.9?classifier=sources
 - pkg:maven/org.jodd/jodd-lagarto@3.9.1
 - pkg:maven/org.jodd/jodd-lagarto@3.9.1?classifier=sources
+- pkg:maven/org.jodd/jodd-lagarto@4.1.0
+- pkg:maven/org.jodd/jodd-lagarto@4.1.0?classifier=sources
+- pkg:maven/org.jodd/jodd-lagarto@4.0.0
+- pkg:maven/org.jodd/jodd-lagarto@4.0.0?classifier=sources

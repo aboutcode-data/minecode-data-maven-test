@@ -1,2 +1,4 @@
 - pkg:maven/org.jcuda/jcublas@0.8.0
 - pkg:maven/org.jcuda/jcublas@0.8.0?classifier=sources
+- pkg:maven/org.jcuda/jcublas@0.9.0
+- pkg:maven/org.jcuda/jcublas@0.9.0?classifier=sources

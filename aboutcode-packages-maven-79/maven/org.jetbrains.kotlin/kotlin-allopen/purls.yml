@@ -38,3 +38,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen@1.1.61?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen@1.2.10
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen@1.2.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen@1.2.20
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen@1.2.20?classifier=sources

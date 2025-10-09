@@ -62,3 +62,5 @@
 - pkg:maven/org.reaktivity/nukleus-maven-plugin@0.21?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-maven-plugin@0.23
 - pkg:maven/org.reaktivity/nukleus-maven-plugin@0.23?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-maven-plugin@0.24
+- pkg:maven/org.reaktivity/nukleus-maven-plugin@0.24?classifier=sources
