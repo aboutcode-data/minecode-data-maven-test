@@ -134,3 +134,7 @@
 - pkg:maven/org.neo4j/neo4j-integrationtests@3.4.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-integrationtests@3.5.0-alpha08
 - pkg:maven/org.neo4j/neo4j-integrationtests@3.5.0-alpha08?classifier=sources
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.5.0-alpha09
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.5.0-alpha09?classifier=sources
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.3.7
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.3.7?classifier=sources

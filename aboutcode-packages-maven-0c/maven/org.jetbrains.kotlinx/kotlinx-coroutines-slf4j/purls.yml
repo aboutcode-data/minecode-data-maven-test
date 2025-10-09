@@ -2,3 +2,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j@0.25.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j@0.25.3-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j@0.25.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j@0.26.0-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j@0.26.0?classifier=sources
