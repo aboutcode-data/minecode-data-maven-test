@@ -12,3 +12,5 @@
 - pkg:maven/com.documents4j/documents4j-local-demo@1.0.3?classifier=sources
 - pkg:maven/com.documents4j/documents4j-local-demo@1.1.0?type=war
 - pkg:maven/com.documents4j/documents4j-local-demo@1.1.0?classifier=sources
+- pkg:maven/com.documents4j/documents4j-local-demo@1.1.1?type=war
+- pkg:maven/com.documents4j/documents4j-local-demo@1.1.1?classifier=sources

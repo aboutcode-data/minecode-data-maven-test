@@ -1,2 +1,4 @@
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.11-libsass_3.6.1
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.11-libsass_3.6.1?classifier=sources
+- pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.12
+- pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.12?classifier=sources
