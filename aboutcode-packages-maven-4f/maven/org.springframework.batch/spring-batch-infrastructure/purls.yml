@@ -96,3 +96,7 @@
 - pkg:maven/org.springframework.batch/spring-batch-infrastructure@4.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-infrastructure@3.0.10.RELEASE
 - pkg:maven/org.springframework.batch/spring-batch-infrastructure@3.0.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-infrastructure@4.1.2.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-infrastructure@4.1.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-infrastructure@4.0.3.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-infrastructure@4.0.3.RELEASE?classifier=sources

@@ -226,3 +226,5 @@
 - pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@8.0.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@9.0.0.Beta1
 - pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@9.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@9.0.0.Beta2
+- pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@9.0.0.Beta2?classifier=sources

@@ -78,3 +78,9 @@
 - pkg:maven/org.springframework.security/spring-security-test@4.2.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-test@5.1.4.RELEASE
 - pkg:maven/org.springframework.security/spring-security-test@5.1.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-test@5.1.5.RELEASE
+- pkg:maven/org.springframework.security/spring-security-test@5.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-test@5.0.12.RELEASE
+- pkg:maven/org.springframework.security/spring-security-test@5.0.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-test@4.2.12.RELEASE
+- pkg:maven/org.springframework.security/spring-security-test@4.2.12.RELEASE?classifier=sources

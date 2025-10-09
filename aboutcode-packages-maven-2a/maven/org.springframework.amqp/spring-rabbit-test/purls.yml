@@ -82,3 +82,9 @@
 - pkg:maven/org.springframework.amqp/spring-rabbit-test@1.7.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-rabbit-test@2.1.4.RELEASE
 - pkg:maven/org.springframework.amqp/spring-rabbit-test@2.1.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@2.1.5.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@2.0.12.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@2.0.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@1.7.13.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@1.7.13.RELEASE?classifier=sources

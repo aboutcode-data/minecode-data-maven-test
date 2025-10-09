@@ -78,3 +78,5 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@0.15.8?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@0.15.9
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@0.15.9?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
+- pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@0.15.10-enable-setting-idle-connection-timeout-for-jetty-client?classifier=sources
