@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-security-signature@6.0.2?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-security-signature@5.5.2
 - pkg:maven/org.apache.servicemix.examples/cxf-ws-security-signature@5.5.2?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-security-signature@7.0.0.M1
+- pkg:maven/org.apache.servicemix.examples/cxf-ws-security-signature@7.0.0.M1?classifier=sources

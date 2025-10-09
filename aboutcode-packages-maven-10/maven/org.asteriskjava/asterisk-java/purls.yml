@@ -15,3 +15,5 @@
 - pkg:maven/org.asteriskjava/asterisk-java@0.2-rc2
 - pkg:maven/org.asteriskjava/asterisk-java@0.2-rc1
 - pkg:maven/org.asteriskjava/asterisk-java@0.2
+- pkg:maven/org.asteriskjava/asterisk-java@1.0.0-final
+- pkg:maven/org.asteriskjava/asterisk-java@1.0.0-final?classifier=sources

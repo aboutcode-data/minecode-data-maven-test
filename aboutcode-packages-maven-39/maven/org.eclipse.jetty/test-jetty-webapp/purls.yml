@@ -208,3 +208,7 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@8.1.18.v20150929?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.18.v20150929?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.18.v20150929?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@8.1.19.v20160209?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@8.1.19.v20160209?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.19.v20160209?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.6.19.v20160209?classifier=sources
