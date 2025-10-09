@@ -34,3 +34,5 @@
 - pkg:maven/com.helger/as2-server@3.0.4?classifier=sources
 - pkg:maven/com.helger/as2-server@3.1.0
 - pkg:maven/com.helger/as2-server@3.1.0?classifier=sources
+- pkg:maven/com.helger/as2-server@4.0.0-b1
+- pkg:maven/com.helger/as2-server@4.0.0-b1?classifier=sources

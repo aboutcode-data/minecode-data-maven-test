@@ -74,3 +74,9 @@
 - pkg:maven/com.intuit.karate/karate-testng@0.5.0.8?classifier=sources
 - pkg:maven/com.intuit.karate/karate-testng@0.5.0.7
 - pkg:maven/com.intuit.karate/karate-testng@0.5.0.7?classifier=sources
+- pkg:maven/com.intuit.karate/karate-testng@0.6.0
+- pkg:maven/com.intuit.karate/karate-testng@0.6.0?classifier=sources
+- pkg:maven/com.intuit.karate/karate-testng@0.5.0.11
+- pkg:maven/com.intuit.karate/karate-testng@0.5.0.11?classifier=sources
+- pkg:maven/com.intuit.karate/karate-testng@0.5.0.10
+- pkg:maven/com.intuit.karate/karate-testng@0.5.0.10?classifier=sources

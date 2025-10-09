@@ -34,3 +34,5 @@
 - pkg:maven/com.netease.nimlib/rts@4.0.0?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@4.1.0?type=aar
 - pkg:maven/com.netease.nimlib/rts@4.1.0?classifier=sources
+- pkg:maven/com.netease.nimlib/rts@4.2.0?type=aar
+- pkg:maven/com.netease.nimlib/rts@4.2.0?classifier=sources
