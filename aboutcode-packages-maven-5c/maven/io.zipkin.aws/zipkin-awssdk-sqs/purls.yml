@@ -1,2 +1,4 @@
 - pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.18.0
 - pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.18.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.18.1
+- pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.18.1?classifier=sources
