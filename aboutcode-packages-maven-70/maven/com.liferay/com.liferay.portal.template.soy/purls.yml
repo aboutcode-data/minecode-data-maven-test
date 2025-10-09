@@ -111,3 +111,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.29
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.30
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.30?classifier=sources-commercial

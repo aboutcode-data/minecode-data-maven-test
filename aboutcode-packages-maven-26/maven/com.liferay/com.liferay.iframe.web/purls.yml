@@ -88,3 +88,9 @@
 - pkg:maven/com.liferay/com.liferay.iframe.web@1.0.24
 - pkg:maven/com.liferay/com.liferay.iframe.web@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.iframe.web@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@2.0.12
+- pkg:maven/com.liferay/com.liferay.iframe.web@2.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@1.0.25
+- pkg:maven/com.liferay/com.liferay.iframe.web@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@1.0.25?classifier=sources-commercial

@@ -41,3 +41,9 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@1.0.14
 - pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@2.0.3
+- pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@1.0.15
+- pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.demo.data.creator.impl@1.0.15?classifier=sources-commercial

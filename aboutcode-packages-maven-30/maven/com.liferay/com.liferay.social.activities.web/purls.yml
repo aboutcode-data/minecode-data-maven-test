@@ -93,3 +93,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.17
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.8
+- pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.19
+- pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.19?classifier=sources-commercial

@@ -16,3 +16,5 @@
 - pkg:maven/com.hotels/shunting-yard-receiver-sqs@0.0.8?classifier=sources
 - pkg:maven/com.hotels/shunting-yard-receiver-sqs@1.0.0
 - pkg:maven/com.hotels/shunting-yard-receiver-sqs@1.0.0?classifier=sources
+- pkg:maven/com.hotels/shunting-yard-receiver-sqs@2.0.0
+- pkg:maven/com.hotels/shunting-yard-receiver-sqs@2.0.0?classifier=sources

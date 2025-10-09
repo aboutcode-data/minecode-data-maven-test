@@ -12,3 +12,7 @@
 - pkg:maven/com.klinec/gradle-javacard@1.5.9?classifier=sources
 - pkg:maven/com.klinec/gradle-javacard@1.5.7
 - pkg:maven/com.klinec/gradle-javacard@1.5.7?classifier=sources
+- pkg:maven/com.klinec/gradle-javacard@1.6.3
+- pkg:maven/com.klinec/gradle-javacard@1.6.3?classifier=sources
+- pkg:maven/com.klinec/gradle-javacard@1.6.2
+- pkg:maven/com.klinec/gradle-javacard@1.6.2?classifier=sources

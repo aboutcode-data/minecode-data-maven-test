@@ -69,3 +69,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.4
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.11
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.5
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.5?classifier=sources-commercial

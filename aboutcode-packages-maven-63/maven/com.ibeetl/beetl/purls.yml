@@ -140,3 +140,5 @@
 - pkg:maven/com.ibeetl/beetl@2.9.8?classifier=sources
 - pkg:maven/com.ibeetl/beetl@2.9.9
 - pkg:maven/com.ibeetl/beetl@2.9.9?classifier=sources
+- pkg:maven/com.ibeetl/beetl@3.0.0.M1
+- pkg:maven/com.ibeetl/beetl@3.0.0.M1?classifier=sources

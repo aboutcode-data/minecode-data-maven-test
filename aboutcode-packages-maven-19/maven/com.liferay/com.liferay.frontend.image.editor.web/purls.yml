@@ -120,3 +120,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.34
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@2.0.13
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@2.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.35
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@1.0.35?classifier=sources-commercial

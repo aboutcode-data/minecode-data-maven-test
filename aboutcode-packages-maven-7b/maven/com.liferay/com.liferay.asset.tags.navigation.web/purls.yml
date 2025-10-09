@@ -91,3 +91,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.17
 - pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@4.0.8
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.18
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.18?classifier=sources-commercial

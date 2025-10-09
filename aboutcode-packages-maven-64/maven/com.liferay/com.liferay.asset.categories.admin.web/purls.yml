@@ -156,3 +156,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@1.1.25
 - pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@1.1.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@1.1.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@2.0.19
+- pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@1.1.26
+- pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@1.1.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.admin.web@1.1.26?classifier=sources-commercial
