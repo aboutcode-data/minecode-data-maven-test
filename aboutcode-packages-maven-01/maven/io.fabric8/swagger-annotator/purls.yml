@@ -318,3 +318,5 @@
 - pkg:maven/io.fabric8/swagger-annotator@3.0.5?classifier=sources
 - pkg:maven/io.fabric8/swagger-annotator@3.0.7
 - pkg:maven/io.fabric8/swagger-annotator@3.0.7?classifier=sources
+- pkg:maven/io.fabric8/swagger-annotator@3.0.8
+- pkg:maven/io.fabric8/swagger-annotator@3.0.8?classifier=sources
