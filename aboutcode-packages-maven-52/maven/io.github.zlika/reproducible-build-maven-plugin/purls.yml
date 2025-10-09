@@ -18,3 +18,6 @@
 - pkg:maven/io.github.zlika/reproducible-build-maven-plugin@0.7?classifier=sources
 - pkg:maven/io.github.zlika/reproducible-build-maven-plugin@0.8
 - pkg:maven/io.github.zlika/reproducible-build-maven-plugin@0.8?classifier=sources
+- pkg:maven/io.github.zlika/reproducible-build-maven-plugin@0.9
+- pkg:maven/io.github.zlika/reproducible-build-maven-plugin@0.9?classifier=sources
+- pkg:maven/io.github.zlika/reproducible-build-maven-plugin@0.9?classifier=source-release&type=zip

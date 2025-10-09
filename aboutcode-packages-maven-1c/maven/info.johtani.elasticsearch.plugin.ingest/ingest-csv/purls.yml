@@ -27,3 +27,4 @@
 - pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@6.7.0.0?classifier=sources
 - pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@6.6.2.0?classifier=sources
 - pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@6.7.1.0?classifier=sources
+- pkg:maven/info.johtani.elasticsearch.plugin.ingest/ingest-csv@7.0.0.0?classifier=sources

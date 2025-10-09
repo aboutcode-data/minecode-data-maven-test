@@ -64,3 +64,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-rabbitmq@2.12.8?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-rabbitmq@2.12.7
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-rabbitmq@2.12.7?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-rabbitmq@2.12.9
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-rabbitmq@2.12.9?classifier=sources
