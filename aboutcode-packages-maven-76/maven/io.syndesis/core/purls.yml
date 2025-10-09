@@ -1,2 +1,4 @@
 - pkg:maven/io.syndesis/core@1.0.0
 - pkg:maven/io.syndesis/core@1.0.0?classifier=sources
+- pkg:maven/io.syndesis/core@1.1.0
+- pkg:maven/io.syndesis/core@1.1.0?classifier=sources

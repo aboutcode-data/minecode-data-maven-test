@@ -52,3 +52,7 @@
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.9.6?classifier=sources
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.9.4
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.9.4?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@2.2.8
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@2.2.8?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.9.8
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.9.8?classifier=sources

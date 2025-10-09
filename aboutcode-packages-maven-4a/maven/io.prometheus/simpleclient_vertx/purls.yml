@@ -20,3 +20,5 @@
 - pkg:maven/io.prometheus/simpleclient_vertx@0.0.24?classifier=sources
 - pkg:maven/io.prometheus/simpleclient_vertx@0.0.26
 - pkg:maven/io.prometheus/simpleclient_vertx@0.0.26?classifier=sources
+- pkg:maven/io.prometheus/simpleclient_vertx@0.1.0
+- pkg:maven/io.prometheus/simpleclient_vertx@0.1.0?classifier=sources
