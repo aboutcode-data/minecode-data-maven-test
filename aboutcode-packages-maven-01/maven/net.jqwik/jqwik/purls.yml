@@ -28,3 +28,5 @@
 - pkg:maven/net.jqwik/jqwik@0.8.14?classifier=sources
 - pkg:maven/net.jqwik/jqwik@0.8.13
 - pkg:maven/net.jqwik/jqwik@0.8.13?classifier=sources
+- pkg:maven/net.jqwik/jqwik@0.8.15
+- pkg:maven/net.jqwik/jqwik@0.8.15?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/de.ameto/client@0.6.0?classifier=sources
 - pkg:maven/de.ameto/client@0.5.0
 - pkg:maven/de.ameto/client@0.5.0?classifier=sources
+- pkg:maven/de.ameto/client@1.0.0
+- pkg:maven/de.ameto/client@1.0.0?classifier=sources
+- pkg:maven/de.ameto/client@0.6.1
+- pkg:maven/de.ameto/client@0.6.1?classifier=sources
