@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.0.1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@1.4.5
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@1.4.5?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@2.1.0
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@2.1.0?classifier=sources

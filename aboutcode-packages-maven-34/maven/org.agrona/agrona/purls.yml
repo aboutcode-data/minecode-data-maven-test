@@ -36,3 +36,5 @@
 - pkg:maven/org.agrona/agrona@0.9.20?classifier=sources
 - pkg:maven/org.agrona/agrona@0.9.19
 - pkg:maven/org.agrona/agrona@0.9.19?classifier=sources
+- pkg:maven/org.agrona/agrona@0.9.21
+- pkg:maven/org.agrona/agrona@0.9.21?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.corda/corda-network-bootstrapper@3.2-corda
+- pkg:maven/net.corda/corda-network-bootstrapper@3.2-corda?classifier=sources

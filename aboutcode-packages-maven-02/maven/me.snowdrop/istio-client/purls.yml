@@ -10,3 +10,5 @@
 - pkg:maven/me.snowdrop/istio-client@0.9?classifier=sources
 - pkg:maven/me.snowdrop/istio-client@0.10
 - pkg:maven/me.snowdrop/istio-client@0.10?classifier=sources
+- pkg:maven/me.snowdrop/istio-client@0.11
+- pkg:maven/me.snowdrop/istio-client@0.11?classifier=sources
