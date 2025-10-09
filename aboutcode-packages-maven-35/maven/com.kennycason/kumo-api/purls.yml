@@ -8,3 +8,5 @@
 - pkg:maven/com.kennycason/kumo-api@1.12?classifier=sources
 - pkg:maven/com.kennycason/kumo-api@1.13
 - pkg:maven/com.kennycason/kumo-api@1.13?classifier=sources
+- pkg:maven/com.kennycason/kumo-api@1.17
+- pkg:maven/com.kennycason/kumo-api@1.17?classifier=sources

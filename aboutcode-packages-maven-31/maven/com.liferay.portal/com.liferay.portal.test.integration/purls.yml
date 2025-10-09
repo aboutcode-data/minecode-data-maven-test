@@ -34,3 +34,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@5.0.8?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@4.1.8
 - pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@4.1.8?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@5.0.9
+- pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@5.0.9?classifier=sources

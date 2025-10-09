@@ -139,3 +139,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@1.0.52
 - pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@1.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@1.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@2.0.10
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.editor.alloyeditor.web@2.0.10?classifier=sources-commercial

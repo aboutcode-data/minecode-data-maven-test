@@ -89,3 +89,6 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.31
 - pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.8
+- pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.8?classifier=sources-commercial

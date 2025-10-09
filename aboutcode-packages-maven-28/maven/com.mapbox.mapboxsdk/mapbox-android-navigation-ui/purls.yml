@@ -48,3 +48,11 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@0.17.0?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@0.18.0?type=aar
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@0.18.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.4?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.4?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.3?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.3?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.2?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.2?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.1?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation-ui@NATIVE-OFFLINE-beta.1?classifier=sources

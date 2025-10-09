@@ -24,3 +24,5 @@
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.17.0?classifier=sources
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.16.0
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.16.0?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.18.0
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.18.0?classifier=sources

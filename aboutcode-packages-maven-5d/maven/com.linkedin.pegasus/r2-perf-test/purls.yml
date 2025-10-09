@@ -62,3 +62,5 @@
 - pkg:maven/com.linkedin.pegasus/r2-perf-test@21.0.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-perf-test@23.0.19
 - pkg:maven/com.linkedin.pegasus/r2-perf-test@23.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-perf-test@24.0.2
+- pkg:maven/com.linkedin.pegasus/r2-perf-test@24.0.2?classifier=sources
