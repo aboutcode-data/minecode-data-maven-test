@@ -12,3 +12,5 @@
 - pkg:maven/com.proofpoint.platform/openapi@1.78?classifier=sources
 - pkg:maven/com.proofpoint.platform/openapi@1.81
 - pkg:maven/com.proofpoint.platform/openapi@1.81?classifier=sources
+- pkg:maven/com.proofpoint.platform/openapi@1.82
+- pkg:maven/com.proofpoint.platform/openapi@1.82?classifier=sources

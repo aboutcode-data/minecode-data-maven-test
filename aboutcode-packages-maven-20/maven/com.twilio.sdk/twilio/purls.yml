@@ -190,3 +190,7 @@
 - pkg:maven/com.twilio.sdk/twilio@7.21.6?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@7.21.7
 - pkg:maven/com.twilio.sdk/twilio@7.21.7?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio@7.22.0
+- pkg:maven/com.twilio.sdk/twilio@7.22.0?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio@7.21.8
+- pkg:maven/com.twilio.sdk/twilio@7.21.8?classifier=sources

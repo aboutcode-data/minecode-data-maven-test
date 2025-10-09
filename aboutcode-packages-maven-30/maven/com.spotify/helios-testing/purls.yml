@@ -718,3 +718,7 @@
 - pkg:maven/com.spotify/helios-testing@0.9.205?classifier=sources
 - pkg:maven/com.spotify/helios-testing@0.9.207
 - pkg:maven/com.spotify/helios-testing@0.9.207?classifier=sources
+- pkg:maven/com.spotify/helios-testing@0.9.209
+- pkg:maven/com.spotify/helios-testing@0.9.209?classifier=sources
+- pkg:maven/com.spotify/helios-testing@0.9.208
+- pkg:maven/com.spotify/helios-testing@0.9.208?classifier=sources

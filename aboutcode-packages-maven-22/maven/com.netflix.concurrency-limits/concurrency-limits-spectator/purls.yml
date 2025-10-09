@@ -68,3 +68,5 @@
 - pkg:maven/com.netflix.concurrency-limits/concurrency-limits-spectator@0.0.45-beta3?classifier=sources
 - pkg:maven/com.netflix.concurrency-limits/concurrency-limits-spectator@0.0.45
 - pkg:maven/com.netflix.concurrency-limits/concurrency-limits-spectator@0.0.45?classifier=sources
+- pkg:maven/com.netflix.concurrency-limits/concurrency-limits-spectator@0.0.48
+- pkg:maven/com.netflix.concurrency-limits/concurrency-limits-spectator@0.0.48?classifier=sources

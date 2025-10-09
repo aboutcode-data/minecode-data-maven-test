@@ -54,3 +54,5 @@
 - pkg:maven/com.spotify/featran-spark_2.11@0.1.26?classifier=sources
 - pkg:maven/com.spotify/featran-spark_2.11@0.1.27
 - pkg:maven/com.spotify/featran-spark_2.11@0.1.27?classifier=sources
+- pkg:maven/com.spotify/featran-spark_2.11@0.2.0
+- pkg:maven/com.spotify/featran-spark_2.11@0.2.0?classifier=sources

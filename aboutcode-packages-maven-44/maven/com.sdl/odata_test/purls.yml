@@ -60,3 +60,5 @@
 - pkg:maven/com.sdl/odata_test@2.5.4?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.3.10
 - pkg:maven/com.sdl/odata_test@2.3.10?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.6.0
+- pkg:maven/com.sdl/odata_test@2.6.0?classifier=sources
