@@ -260,3 +260,5 @@
 - pkg:maven/com.indeed/proctor-ant-plugin@1.5.4?classifier=sources
 - pkg:maven/com.indeed/proctor-ant-plugin@1.5.3
 - pkg:maven/com.indeed/proctor-ant-plugin@1.5.3?classifier=sources
+- pkg:maven/com.indeed/proctor-ant-plugin@1.5.5
+- pkg:maven/com.indeed/proctor-ant-plugin@1.5.5?classifier=sources

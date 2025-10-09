@@ -180,3 +180,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-v1@1.28.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-v1@1.29.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-v1@1.29.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-v1@1.30.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-v1@1.30.0?classifier=sources

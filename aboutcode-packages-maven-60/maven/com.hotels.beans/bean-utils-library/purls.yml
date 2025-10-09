@@ -116,3 +116,7 @@
 - pkg:maven/com.hotels.beans/bean-utils-library@1.1.22?classifier=sources
 - pkg:maven/com.hotels.beans/bean-utils-library@temp-builder
 - pkg:maven/com.hotels.beans/bean-utils-library@temp-builder?classifier=sources
+- pkg:maven/com.hotels.beans/bean-utils-library@1.5.0
+- pkg:maven/com.hotels.beans/bean-utils-library@1.5.0?classifier=sources
+- pkg:maven/com.hotels.beans/bean-utils-library@1.1.23
+- pkg:maven/com.hotels.beans/bean-utils-library@1.1.23?classifier=sources

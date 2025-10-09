@@ -163,3 +163,6 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.web@3.0.13
 - pkg:maven/com.liferay/com.liferay.adaptive.media.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.web@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.adaptive.media.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.web@2.0.24?classifier=sources-commercial

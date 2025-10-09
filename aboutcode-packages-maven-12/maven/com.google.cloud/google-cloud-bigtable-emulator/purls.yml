@@ -60,3 +60,5 @@
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.101.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.102.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.102.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.103.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.103.0-alpha?classifier=sources
