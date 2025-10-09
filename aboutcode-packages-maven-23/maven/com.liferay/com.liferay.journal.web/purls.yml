@@ -584,3 +584,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@2.0.70
 - pkg:maven/com.liferay/com.liferay.journal.web@2.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@2.0.70?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.web@1.11.2
+- pkg:maven/com.liferay/com.liferay.journal.web@1.11.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@1.11.2?classifier=sources-commercial

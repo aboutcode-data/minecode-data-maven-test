@@ -104,3 +104,6 @@
 - pkg:maven/com.liferay/com.liferay.social.networking.service@3.0.19
 - pkg:maven/com.liferay/com.liferay.social.networking.service@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.networking.service@3.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.networking.service@3.0.20
+- pkg:maven/com.liferay/com.liferay.social.networking.service@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.networking.service@3.0.20?classifier=sources-commercial
