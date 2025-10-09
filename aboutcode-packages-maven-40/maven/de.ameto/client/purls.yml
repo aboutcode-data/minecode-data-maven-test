@@ -16,3 +16,5 @@
 - pkg:maven/de.ameto/client@0.6.1?classifier=sources
 - pkg:maven/de.ameto/client@1.1.0
 - pkg:maven/de.ameto/client@1.1.0?classifier=sources
+- pkg:maven/de.ameto/client@1.2.0
+- pkg:maven/de.ameto/client@1.2.0?classifier=sources

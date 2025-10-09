@@ -64,3 +64,5 @@
 - pkg:maven/io.gatling/gatling-redis@3.0.0-RC2?classifier=sources
 - pkg:maven/io.gatling/gatling-redis@3.0.0-RC4
 - pkg:maven/io.gatling/gatling-redis@3.0.0-RC4?classifier=sources
+- pkg:maven/io.gatling/gatling-redis@3.0.0
+- pkg:maven/io.gatling/gatling-redis@3.0.0?classifier=sources

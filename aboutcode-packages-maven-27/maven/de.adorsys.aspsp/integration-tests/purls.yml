@@ -14,3 +14,5 @@
 - pkg:maven/de.adorsys.aspsp/integration-tests@1.7.1?classifier=sources
 - pkg:maven/de.adorsys.aspsp/integration-tests@1.9
 - pkg:maven/de.adorsys.aspsp/integration-tests@1.9?classifier=sources
+- pkg:maven/de.adorsys.aspsp/integration-tests@1.10-RC1
+- pkg:maven/de.adorsys.aspsp/integration-tests@1.10-RC1?classifier=sources

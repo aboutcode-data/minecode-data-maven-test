@@ -44,3 +44,7 @@
 - pkg:maven/com.yahoo.vespa/container-integration-test@6.301.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-integration-test@6.300.15
 - pkg:maven/com.yahoo.vespa/container-integration-test@6.300.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-integration-test@6.304.14
+- pkg:maven/com.yahoo.vespa/container-integration-test@6.304.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-integration-test@6.303.29
+- pkg:maven/com.yahoo.vespa/container-integration-test@6.303.29?classifier=sources

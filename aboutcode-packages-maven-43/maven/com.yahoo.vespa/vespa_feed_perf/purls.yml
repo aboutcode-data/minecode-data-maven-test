@@ -244,3 +244,7 @@
 - pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.301.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.300.15
 - pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.300.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.304.14
+- pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.304.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.303.29
+- pkg:maven/com.yahoo.vespa/vespa_feed_perf@6.303.29?classifier=sources
