@@ -40,3 +40,9 @@
 - pkg:maven/com.netflix.genie/genie-war@3.0.10?classifier=sources
 - pkg:maven/com.netflix.genie/genie-war@3.1.0-rc.2?type=war
 - pkg:maven/com.netflix.genie/genie-war@3.1.0-rc.2?classifier=sources
+- pkg:maven/com.netflix.genie/genie-war@3.1.0-rc.8?type=war
+- pkg:maven/com.netflix.genie/genie-war@3.1.0-rc.8?classifier=sources
+- pkg:maven/com.netflix.genie/genie-war@3.1.0-rc.7?type=war
+- pkg:maven/com.netflix.genie/genie-war@3.1.0-rc.7?classifier=sources
+- pkg:maven/com.netflix.genie/genie-war@3.1.0?type=war
+- pkg:maven/com.netflix.genie/genie-war@3.1.0?classifier=sources

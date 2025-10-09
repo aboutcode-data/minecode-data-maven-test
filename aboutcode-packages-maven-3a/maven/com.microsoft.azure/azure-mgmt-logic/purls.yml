@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-logic@1.2.0-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-logic@1.2.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-logic@1.2.1-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-logic@1.2.1-beta?classifier=sources
