@@ -72,3 +72,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.api@2.2.8
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.api@2.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.api@2.2.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.api@2.3.0
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.api@2.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.api@2.3.0?classifier=sources-commercial
