@@ -57,3 +57,8 @@
 - pkg:maven/de.wayofquality.blended/blended.file@2.4.0.1
 - pkg:maven/de.wayofquality.blended/blended.file@2.4.0.1?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.file@2.5.0-M3
+- pkg:maven/de.wayofquality.blended/blended.file@2.5.0-M3?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.file@2.5.0-M2
+- pkg:maven/de.wayofquality.blended/blended.file@2.5.0-M2?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.file@2.4.0.2
+- pkg:maven/de.wayofquality.blended/blended.file@2.4.0.2?classifier=sources

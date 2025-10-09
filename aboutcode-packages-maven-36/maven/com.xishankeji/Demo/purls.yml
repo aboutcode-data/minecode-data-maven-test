@@ -1,0 +1,4 @@
+- pkg:maven/com.xishankeji/Demo@1.0.5-beta2?type=war
+- pkg:maven/com.xishankeji/Demo@1.0.5-beta2?classifier=sources
+- pkg:maven/com.xishankeji/Demo@1.0.5-beta1?type=war
+- pkg:maven/com.xishankeji/Demo@1.0.5-beta1?classifier=sources

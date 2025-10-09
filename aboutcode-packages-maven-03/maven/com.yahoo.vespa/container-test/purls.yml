@@ -142,3 +142,7 @@
 - pkg:maven/com.yahoo.vespa/container-test@6.241.65?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@6.243.159
 - pkg:maven/com.yahoo.vespa/container-test@6.243.159?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.245.70
+- pkg:maven/com.yahoo.vespa/container-test@6.245.70?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.244.127
+- pkg:maven/com.yahoo.vespa/container-test@6.244.127?classifier=sources

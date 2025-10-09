@@ -360,3 +360,9 @@
 - pkg:maven/com.stripe/stripe-java@5.35.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@5.36.0
 - pkg:maven/com.stripe/stripe-java@5.36.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@5.39.0
+- pkg:maven/com.stripe/stripe-java@5.39.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@5.38.0
+- pkg:maven/com.stripe/stripe-java@5.38.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@5.37.0
+- pkg:maven/com.stripe/stripe-java@5.37.0?classifier=sources

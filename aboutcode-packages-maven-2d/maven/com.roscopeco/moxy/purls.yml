@@ -1,2 +1,4 @@
 - pkg:maven/com.roscopeco/moxy@0.82
 - pkg:maven/com.roscopeco/moxy@0.82?classifier=sources
+- pkg:maven/com.roscopeco/moxy@0.84
+- pkg:maven/com.roscopeco/moxy@0.84?classifier=sources
