@@ -40,3 +40,5 @@
 - pkg:maven/io.ebean/ebean-maven-plugin@11.10.2?classifier=sources
 - pkg:maven/io.ebean/ebean-maven-plugin@11.11.2
 - pkg:maven/io.ebean/ebean-maven-plugin@11.11.2?classifier=sources
+- pkg:maven/io.ebean/ebean-maven-plugin@11.24.1
+- pkg:maven/io.ebean/ebean-maven-plugin@11.24.1?classifier=sources

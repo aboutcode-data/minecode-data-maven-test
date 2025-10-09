@@ -16,3 +16,5 @@
 - pkg:maven/de.retest/retest-model@4.0.3?classifier=sources
 - pkg:maven/de.retest/retest-model@4.0.2
 - pkg:maven/de.retest/retest-model@4.0.2?classifier=sources
+- pkg:maven/de.retest/retest-model@5.0.0
+- pkg:maven/de.retest/retest-model@5.0.0?classifier=sources
