@@ -515,3 +515,5 @@
 - pkg:maven/com.stripe/stripe-java@9.8.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@9.10.0
 - pkg:maven/com.stripe/stripe-java@9.10.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@9.11.0
+- pkg:maven/com.stripe/stripe-java@9.11.0?classifier=sources

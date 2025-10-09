@@ -56,3 +56,5 @@
 - pkg:maven/com.squareup.okhttp3.sample/static-server@3.12.2?classifier=sources
 - pkg:maven/com.squareup.okhttp3.sample/static-server@3.14.1
 - pkg:maven/com.squareup.okhttp3.sample/static-server@3.14.1?classifier=sources
+- pkg:maven/com.squareup.okhttp3.sample/static-server@3.12.3
+- pkg:maven/com.squareup.okhttp3.sample/static-server@3.12.3?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-tomcat8.5@0.83.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-tomcat8.5@0.84.0
 - pkg:maven/com.linecorp.armeria/armeria-tomcat8.5@0.84.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.5@0.85.0
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.5@0.85.0?classifier=sources

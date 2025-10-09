@@ -88,3 +88,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-client_2.11@1.5.1?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-client_2.11@1.4.12
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-client_2.11@1.4.12?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-client_2.11@1.4.13-a5bd71c7
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-client_2.11@1.4.13-a5bd71c7?classifier=sources

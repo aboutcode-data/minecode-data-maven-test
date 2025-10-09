@@ -1,2 +1,6 @@
 - pkg:maven/com.scalified/axonframework-cdi@4.1.1-BETA
 - pkg:maven/com.scalified/axonframework-cdi@4.1.1-BETA?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.1.1-RC2
+- pkg:maven/com.scalified/axonframework-cdi@4.1.1-RC2?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.1.1-RC1
+- pkg:maven/com.scalified/axonframework-cdi@4.1.1-RC1?classifier=sources
