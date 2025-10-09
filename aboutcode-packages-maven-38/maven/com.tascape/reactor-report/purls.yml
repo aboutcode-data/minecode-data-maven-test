@@ -16,3 +16,5 @@
 - pkg:maven/com.tascape/reactor-report@1.2.8?classifier=sources
 - pkg:maven/com.tascape/reactor-report@1.2.9?type=war
 - pkg:maven/com.tascape/reactor-report@1.2.9?classifier=sources
+- pkg:maven/com.tascape/reactor-report@1.2.10?type=war
+- pkg:maven/com.tascape/reactor-report@1.2.10?classifier=sources
