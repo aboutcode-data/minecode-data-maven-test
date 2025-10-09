@@ -136,3 +136,7 @@
 - pkg:maven/software.amazon.awscdk/cloudtrail@1.16.1.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudtrail@1.16.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/cloudtrail@1.16.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudtrail@1.17.1.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/cloudtrail@1.17.1.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudtrail@1.17.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/cloudtrail@1.17.0.DEVPREVIEW?classifier=sources

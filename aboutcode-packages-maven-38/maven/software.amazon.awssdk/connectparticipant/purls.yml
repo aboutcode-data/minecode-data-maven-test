@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awssdk/connectparticipant@2.10.23
+- pkg:maven/software.amazon.awssdk/connectparticipant@2.10.23?classifier=sources
+- pkg:maven/software.amazon.awssdk/connectparticipant@2.10.22
+- pkg:maven/software.amazon.awssdk/connectparticipant@2.10.22?classifier=sources

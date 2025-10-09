@@ -36,3 +36,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-provider-util@2.0.0.Alpha5?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-provider-util@1.10.4.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-provider-util@1.10.4.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-provider-util@1.11.0.CR2
+- pkg:maven/org.wildfly.security/wildfly-elytron-provider-util@1.11.0.CR2?classifier=sources

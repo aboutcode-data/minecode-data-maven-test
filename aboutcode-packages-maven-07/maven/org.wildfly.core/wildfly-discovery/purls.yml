@@ -276,3 +276,5 @@
 - pkg:maven/org.wildfly.core/wildfly-discovery@10.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-discovery@10.0.3.Final
 - pkg:maven/org.wildfly.core/wildfly-discovery@10.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-discovery@11.0.0.Beta3
+- pkg:maven/org.wildfly.core/wildfly-discovery@11.0.0.Beta3?classifier=sources
