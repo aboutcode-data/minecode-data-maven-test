@@ -1,2 +1,4 @@
 - pkg:maven/ch.dissem.msgpack/msgpack@1.0.0
 - pkg:maven/ch.dissem.msgpack/msgpack@1.0.0?classifier=sources
+- pkg:maven/ch.dissem.msgpack/msgpack@2.0.0
+- pkg:maven/ch.dissem.msgpack/msgpack@2.0.0?classifier=sources

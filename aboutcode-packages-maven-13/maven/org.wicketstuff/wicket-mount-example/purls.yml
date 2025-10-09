@@ -64,3 +64,5 @@
 - pkg:maven/org.wicketstuff/wicket-mount-example@7.8.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.0.0-M7?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.0.0-M7?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-example@7.9.0?type=war
+- pkg:maven/org.wicketstuff/wicket-mount-example@7.9.0?classifier=sources

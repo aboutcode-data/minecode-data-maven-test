@@ -215,3 +215,5 @@
 - pkg:maven/org.springframework/spring-context@4.3.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-context@4.3.11.RELEASE
 - pkg:maven/org.springframework/spring-context@4.3.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-context@5.0.0.RELEASE
+- pkg:maven/org.springframework/spring-context@5.0.0.RELEASE?classifier=sources
