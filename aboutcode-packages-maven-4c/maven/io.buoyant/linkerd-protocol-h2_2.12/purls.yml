@@ -32,3 +32,5 @@
 - pkg:maven/io.buoyant/linkerd-protocol-h2_2.12@1.4.0-rc1?classifier=sources
 - pkg:maven/io.buoyant/linkerd-protocol-h2_2.12@1.4.0
 - pkg:maven/io.buoyant/linkerd-protocol-h2_2.12@1.4.0?classifier=sources
+- pkg:maven/io.buoyant/linkerd-protocol-h2_2.12@1.4.1
+- pkg:maven/io.buoyant/linkerd-protocol-h2_2.12@1.4.1?classifier=sources

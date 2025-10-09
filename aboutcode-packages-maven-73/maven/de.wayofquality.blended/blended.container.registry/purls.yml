@@ -103,3 +103,5 @@
 - pkg:maven/de.wayofquality.blended/blended.container.registry@2.4.0-RC6?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.container.registry@2.4.0-RC7
 - pkg:maven/de.wayofquality.blended/blended.container.registry@2.4.0-RC7?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.container.registry@2.4.0
+- pkg:maven/de.wayofquality.blended/blended.container.registry@2.4.0?classifier=sources

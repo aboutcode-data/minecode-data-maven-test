@@ -14,3 +14,5 @@
 - pkg:maven/io.verizon.helm/http4s_2.11@3.0.82?classifier=sources
 - pkg:maven/io.verizon.helm/http4s_2.11@3.0.83
 - pkg:maven/io.verizon.helm/http4s_2.11@3.0.83?classifier=sources
+- pkg:maven/io.verizon.helm/http4s_2.11@4.0.0
+- pkg:maven/io.verizon.helm/http4s_2.11@4.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.cucumber/cucumber-java@2.4.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-java@3.0.0
 - pkg:maven/io.cucumber/cucumber-java@3.0.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-java@3.0.1
+- pkg:maven/io.cucumber/cucumber-java@3.0.1?classifier=sources

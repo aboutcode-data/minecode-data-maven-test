@@ -134,3 +134,5 @@
 - pkg:maven/net.dongliu/dbutils@4.0.3?classifier=sources
 - pkg:maven/net.dongliu/dbutils@4.1.0
 - pkg:maven/net.dongliu/dbutils@4.1.0?classifier=sources
+- pkg:maven/net.dongliu/dbutils@5.0.0
+- pkg:maven/net.dongliu/dbutils@5.0.0?classifier=sources

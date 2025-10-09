@@ -440,3 +440,5 @@
 - pkg:maven/io.undertow/undertow-core@1.4.25.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-core@2.0.7.Final
 - pkg:maven/io.undertow/undertow-core@2.0.7.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-core@2.0.8.Final
+- pkg:maven/io.undertow/undertow-core@2.0.8.Final?classifier=sources

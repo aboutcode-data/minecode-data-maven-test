@@ -38,3 +38,5 @@
 - pkg:maven/net.intelie.pipes/pipes-api@0.18.7?classifier=sources
 - pkg:maven/net.intelie.pipes/pipes-api@0.18.8
 - pkg:maven/net.intelie.pipes/pipes-api@0.18.8?classifier=sources
+- pkg:maven/net.intelie.pipes/pipes-api@0.19
+- pkg:maven/net.intelie.pipes/pipes-api@0.19?classifier=sources
