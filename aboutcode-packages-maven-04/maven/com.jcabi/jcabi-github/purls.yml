@@ -146,3 +146,5 @@
 - pkg:maven/com.jcabi/jcabi-github@0.41?classifier=sources
 - pkg:maven/com.jcabi/jcabi-github@0.40
 - pkg:maven/com.jcabi/jcabi-github@0.40?classifier=sources
+- pkg:maven/com.jcabi/jcabi-github@1.0
+- pkg:maven/com.jcabi/jcabi-github@1.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/com.imsweb/validation@1.24?classifier=sources
 - pkg:maven/com.imsweb/validation@2.0
 - pkg:maven/com.imsweb/validation@2.0?classifier=sources
+- pkg:maven/com.imsweb/validation@2.1
+- pkg:maven/com.imsweb/validation@2.1?classifier=sources

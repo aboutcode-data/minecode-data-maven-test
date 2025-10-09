@@ -48,3 +48,5 @@
 - pkg:maven/com.imsweb/naaccr-xml@4.14?classifier=sources
 - pkg:maven/com.imsweb/naaccr-xml@4.15
 - pkg:maven/com.imsweb/naaccr-xml@4.15?classifier=sources
+- pkg:maven/com.imsweb/naaccr-xml@5.0
+- pkg:maven/com.imsweb/naaccr-xml@5.0?classifier=sources

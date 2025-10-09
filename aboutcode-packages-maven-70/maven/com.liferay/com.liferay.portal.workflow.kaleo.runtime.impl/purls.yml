@@ -90,3 +90,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@3.0.10
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@3.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@2.0.24
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@2.0.24?classifier=sources-commercial

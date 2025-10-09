@@ -342,3 +342,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.web@2.0.30
 - pkg:maven/com.liferay/com.liferay.document.library.web@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@2.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.web@3.0.39
+- pkg:maven/com.liferay/com.liferay.document.library.web@3.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.web@3.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.web@2.0.31
+- pkg:maven/com.liferay/com.liferay.document.library.web@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.web@2.0.31?classifier=sources-commercial

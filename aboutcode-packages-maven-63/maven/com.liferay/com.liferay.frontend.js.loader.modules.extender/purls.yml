@@ -139,3 +139,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@2.0.12
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.17
+- pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.17?classifier=sources-commercial
