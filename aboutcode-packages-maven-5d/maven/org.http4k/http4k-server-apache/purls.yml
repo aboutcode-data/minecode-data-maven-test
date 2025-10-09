@@ -310,3 +310,5 @@
 - pkg:maven/org.http4k/http4k-server-apache@3.172.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@3.173.0
 - pkg:maven/org.http4k/http4k-server-apache@3.173.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@3.175.0
+- pkg:maven/org.http4k/http4k-server-apache@3.175.0?classifier=sources

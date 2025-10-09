@@ -180,3 +180,5 @@
 - pkg:maven/org.infinispan/infinispan-tasks-api@9.4.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@10.0.0.Beta5
 - pkg:maven/org.infinispan/infinispan-tasks-api@10.0.0.Beta5?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tasks-api@10.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-tasks-api@10.0.0.CR1?classifier=sources
