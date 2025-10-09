@@ -103,3 +103,5 @@
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.3?classifier=sources
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4?type=aar
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4_hidden?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4_hidden?classifier=sources

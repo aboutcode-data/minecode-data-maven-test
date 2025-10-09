@@ -16,3 +16,5 @@
 - pkg:maven/com.trueaccord.scalapb/compilerplugin-shaded_2.10@0.6.0-pre4?classifier=sources
 - pkg:maven/com.trueaccord.scalapb/compilerplugin-shaded_2.10@0.6.0-pre5
 - pkg:maven/com.trueaccord.scalapb/compilerplugin-shaded_2.10@0.6.0-pre5?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/compilerplugin-shaded_2.10@0.6.0
+- pkg:maven/com.trueaccord.scalapb/compilerplugin-shaded_2.10@0.6.0?classifier=sources
