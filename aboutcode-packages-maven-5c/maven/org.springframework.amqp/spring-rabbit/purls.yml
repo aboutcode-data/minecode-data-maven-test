@@ -148,3 +148,5 @@
 - pkg:maven/org.springframework.amqp/spring-rabbit@2.0.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-rabbit@1.7.12.RELEASE
 - pkg:maven/org.springframework.amqp/spring-rabbit@1.7.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit@2.1.4.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit@2.1.4.RELEASE?classifier=sources
