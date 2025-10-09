@@ -22,3 +22,7 @@
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@2.10?classifier=sources
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@2.11
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@2.11?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@3.0.0
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@3.0.0?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@2.20
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-httpclient@2.20?classifier=sources

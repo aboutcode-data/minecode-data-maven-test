@@ -32,3 +32,5 @@
 - pkg:maven/org.sahagin/sahagin@0.8.2?classifier=sources
 - pkg:maven/org.sahagin/sahagin@0.8.1
 - pkg:maven/org.sahagin/sahagin@0.8.1?classifier=sources
+- pkg:maven/org.sahagin/sahagin@0.9
+- pkg:maven/org.sahagin/sahagin@0.9?classifier=sources
