@@ -156,3 +156,11 @@
 - pkg:maven/io.nextflow/nxf-drmaa@0.25.6?classifier=sources
 - pkg:maven/io.nextflow/nxf-drmaa@0.25.7
 - pkg:maven/io.nextflow/nxf-drmaa@0.25.7?classifier=sources
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta4
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta4?classifier=sources
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta3
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta3?classifier=sources
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta2
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta2?classifier=sources
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta1
+- pkg:maven/io.nextflow/nxf-drmaa@0.26.0-beta1?classifier=sources
