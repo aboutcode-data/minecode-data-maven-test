@@ -20,3 +20,5 @@
 - pkg:maven/com.typesafe.play/play-caffeine-cache_2.12@2.7.0-RC4?classifier=sources
 - pkg:maven/com.typesafe.play/play-caffeine-cache_2.12@2.7.0-RC9
 - pkg:maven/com.typesafe.play/play-caffeine-cache_2.12@2.7.0-RC9?classifier=sources
+- pkg:maven/com.typesafe.play/play-caffeine-cache_2.12@2.7.0
+- pkg:maven/com.typesafe.play/play-caffeine-cache_2.12@2.7.0?classifier=sources
