@@ -416,3 +416,5 @@
 - pkg:maven/com.netflix.evcache/evcache-client@4.148.0?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-client@5.3.0
 - pkg:maven/com.netflix.evcache/evcache-client@5.3.0?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-client@4.149.0
+- pkg:maven/com.netflix.evcache/evcache-client@4.149.0?classifier=sources

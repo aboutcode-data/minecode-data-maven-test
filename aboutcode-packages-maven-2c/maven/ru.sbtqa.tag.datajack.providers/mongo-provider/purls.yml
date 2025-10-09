@@ -12,3 +12,5 @@
 - pkg:maven/ru.sbtqa.tag.datajack.providers/mongo-provider@4.0.4?classifier=sources
 - pkg:maven/ru.sbtqa.tag.datajack.providers/mongo-provider@4.1.0
 - pkg:maven/ru.sbtqa.tag.datajack.providers/mongo-provider@4.1.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.datajack.providers/mongo-provider@5.0.0
+- pkg:maven/ru.sbtqa.tag.datajack.providers/mongo-provider@5.0.0?classifier=sources
