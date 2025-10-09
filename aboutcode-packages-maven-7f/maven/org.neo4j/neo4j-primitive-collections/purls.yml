@@ -280,3 +280,5 @@
 - pkg:maven/org.neo4j/neo4j-primitive-collections@3.4.0-rc02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-primitive-collections@3.4.0
 - pkg:maven/org.neo4j/neo4j-primitive-collections@3.4.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-primitive-collections@3.2.12
+- pkg:maven/org.neo4j/neo4j-primitive-collections@3.2.12?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.neo4j/neo4j-procedure-api@3.4.0-rc02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@3.4.0
 - pkg:maven/org.neo4j/neo4j-procedure-api@3.4.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-api@3.5.0-alpha01
+- pkg:maven/org.neo4j/neo4j-procedure-api@3.5.0-alpha01?classifier=sources
