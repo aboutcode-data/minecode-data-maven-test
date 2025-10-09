@@ -124,3 +124,5 @@
 - pkg:maven/org.smallmind/smallmind-memcached@3.3.21?classifier=sources
 - pkg:maven/org.smallmind/smallmind-memcached@3.3.24
 - pkg:maven/org.smallmind/smallmind-memcached@3.3.24?classifier=sources
+- pkg:maven/org.smallmind/smallmind-memcached@3.3.25
+- pkg:maven/org.smallmind/smallmind-memcached@3.3.25?classifier=sources
