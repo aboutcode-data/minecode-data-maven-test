@@ -50,3 +50,7 @@
 - pkg:maven/com.bitso/bitso-java@0.0.35?classifier=sources
 - pkg:maven/com.bitso/bitso-java@0.0.36
 - pkg:maven/com.bitso/bitso-java@0.0.36?classifier=sources
+- pkg:maven/com.bitso/bitso-java@3.0.0
+- pkg:maven/com.bitso/bitso-java@3.0.0?classifier=sources
+- pkg:maven/com.bitso/bitso-java@2.0.0
+- pkg:maven/com.bitso/bitso-java@2.0.0?classifier=sources
