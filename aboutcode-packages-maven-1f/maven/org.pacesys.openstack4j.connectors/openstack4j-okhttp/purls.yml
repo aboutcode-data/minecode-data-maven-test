@@ -26,3 +26,5 @@
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-okhttp@3.0.0?classifier=sources
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-okhttp@2.20
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-okhttp@2.20?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-okhttp@3.0.1
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-okhttp@3.0.1?classifier=sources

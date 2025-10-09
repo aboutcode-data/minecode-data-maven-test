@@ -4,3 +4,5 @@
 - pkg:maven/org.tuzhao/library@0.0.62?classifier=sources
 - pkg:maven/org.tuzhao/library@0.0.95?type=aar
 - pkg:maven/org.tuzhao/library@0.0.95?classifier=sources
+- pkg:maven/org.tuzhao/library@0.0.99?type=aar
+- pkg:maven/org.tuzhao/library@0.0.99?classifier=sources
