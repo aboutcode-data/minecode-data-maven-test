@@ -98,3 +98,5 @@
 - pkg:maven/org.jppf/jppf-common@5.2.9?classifier=sources
 - pkg:maven/org.jppf/jppf-common@6.0-alpha-4
 - pkg:maven/org.jppf/jppf-common@6.0-alpha-4?classifier=sources
+- pkg:maven/org.jppf/jppf-common@6.0-beta
+- pkg:maven/org.jppf/jppf-common@6.0-beta?classifier=sources
