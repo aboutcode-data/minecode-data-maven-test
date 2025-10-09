@@ -120,3 +120,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.18.3?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.18.4?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.18.4?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.18.5?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.18.5?classifier=sources
