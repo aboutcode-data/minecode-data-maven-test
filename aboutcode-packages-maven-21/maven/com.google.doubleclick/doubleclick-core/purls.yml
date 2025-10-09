@@ -98,3 +98,5 @@
 - pkg:maven/com.google.doubleclick/doubleclick-core@1.0.7?classifier=sources
 - pkg:maven/com.google.doubleclick/doubleclick-core@1.0.6.compat
 - pkg:maven/com.google.doubleclick/doubleclick-core@1.0.6.compat?classifier=sources
+- pkg:maven/com.google.doubleclick/doubleclick-core@1.1.0
+- pkg:maven/com.google.doubleclick/doubleclick-core@1.1.0?classifier=sources

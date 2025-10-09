@@ -68,3 +68,4 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-tests@0.11.4
 - pkg:maven/com.tngtech.jgiven/jgiven-tests@0.11.4?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-tests@0.12.0
+- pkg:maven/com.tngtech.jgiven/jgiven-tests@0.12.0?classifier=sources
