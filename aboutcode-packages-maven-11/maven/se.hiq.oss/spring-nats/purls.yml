@@ -24,3 +24,5 @@
 - pkg:maven/se.hiq.oss/spring-nats@0.14?classifier=sources
 - pkg:maven/se.hiq.oss/spring-nats@0.13
 - pkg:maven/se.hiq.oss/spring-nats@0.13?classifier=sources
+- pkg:maven/se.hiq.oss/spring-nats@0.15
+- pkg:maven/se.hiq.oss/spring-nats@0.15?classifier=sources
