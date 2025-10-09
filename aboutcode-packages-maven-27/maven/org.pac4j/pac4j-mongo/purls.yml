@@ -18,3 +18,7 @@
 - pkg:maven/org.pac4j/pac4j-mongo@1.8.7?classifier=sources
 - pkg:maven/org.pac4j/pac4j-mongo@1.8.8
 - pkg:maven/org.pac4j/pac4j-mongo@1.8.8?classifier=sources
+- pkg:maven/org.pac4j/pac4j-mongo@1.9.0
+- pkg:maven/org.pac4j/pac4j-mongo@1.9.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-mongo@1.8.9
+- pkg:maven/org.pac4j/pac4j-mongo@1.8.9?classifier=sources
