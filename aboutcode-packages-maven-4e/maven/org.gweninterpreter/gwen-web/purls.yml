@@ -104,3 +104,5 @@
 - pkg:maven/org.gweninterpreter/gwen-web@2.13.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@2.14.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.14.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.14.1?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.14.1?classifier=sources

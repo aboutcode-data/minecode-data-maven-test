@@ -106,3 +106,7 @@
 - pkg:maven/com.axibase/atsd-api-java@0.5.18?classifier=sources
 - pkg:maven/com.axibase/atsd-api-java@0.5.19
 - pkg:maven/com.axibase/atsd-api-java@0.5.19?classifier=sources
+- pkg:maven/com.axibase/atsd-api-java@1.0.1
+- pkg:maven/com.axibase/atsd-api-java@1.0.1?classifier=sources
+- pkg:maven/com.axibase/atsd-api-java@1.0.0
+- pkg:maven/com.axibase/atsd-api-java@1.0.0?classifier=sources

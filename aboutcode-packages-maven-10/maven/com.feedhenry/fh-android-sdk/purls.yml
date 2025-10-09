@@ -7,3 +7,5 @@
 - pkg:maven/com.feedhenry/fh-android-sdk@3.3.3?classifier=sources
 - pkg:maven/com.feedhenry/fh-android-sdk@3.3.2?type=aar
 - pkg:maven/com.feedhenry/fh-android-sdk@3.3.2?classifier=sources
+- pkg:maven/com.feedhenry/fh-android-sdk@4.0.0?type=aar
+- pkg:maven/com.feedhenry/fh-android-sdk@4.0.0?classifier=sources
