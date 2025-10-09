@@ -98,3 +98,5 @@
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@7.2.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@7.3.0.Final?type=war
 - pkg:maven/org.jbpm/jbpm-form-modeler-showcase@7.3.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-form-modeler-showcase@7.4.0.Final?type=war
+- pkg:maven/org.jbpm/jbpm-form-modeler-showcase@7.4.0.Final?classifier=sources

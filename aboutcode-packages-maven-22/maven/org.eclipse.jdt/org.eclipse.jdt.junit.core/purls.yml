@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.8.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.9.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.9.0?classifier=sources

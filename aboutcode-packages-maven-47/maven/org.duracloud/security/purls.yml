@@ -76,3 +76,5 @@
 - pkg:maven/org.duracloud/security@4.3.9?classifier=sources
 - pkg:maven/org.duracloud/security@4.3.8
 - pkg:maven/org.duracloud/security@4.3.8?classifier=sources
+- pkg:maven/org.duracloud/security@4.4.0
+- pkg:maven/org.duracloud/security@4.4.0?classifier=sources
