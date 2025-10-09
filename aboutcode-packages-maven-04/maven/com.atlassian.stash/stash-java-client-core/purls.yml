@@ -8,3 +8,5 @@
 - pkg:maven/com.atlassian.stash/stash-java-client-core@2.1.0?classifier=sources
 - pkg:maven/com.atlassian.stash/stash-java-client-core@2.2.2
 - pkg:maven/com.atlassian.stash/stash-java-client-core@2.2.2?classifier=sources
+- pkg:maven/com.atlassian.stash/stash-java-client-core@2.3.0
+- pkg:maven/com.atlassian.stash/stash-java-client-core@2.3.0?classifier=sources

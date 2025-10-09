@@ -90,3 +90,7 @@
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev10-1.21.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev10-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev10-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev4-1.23.0
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev4-1.23.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev10-1.23.0
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev10-1.23.0?classifier=sources
