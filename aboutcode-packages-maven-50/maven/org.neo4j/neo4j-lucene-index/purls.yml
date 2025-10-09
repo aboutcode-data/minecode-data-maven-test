@@ -504,3 +504,5 @@
 - pkg:maven/org.neo4j/neo4j-lucene-index@3.5.0-rc01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-lucene-index@3.4.10
 - pkg:maven/org.neo4j/neo4j-lucene-index@3.4.10?classifier=sources
+- pkg:maven/org.neo4j/neo4j-lucene-index@3.5.0
+- pkg:maven/org.neo4j/neo4j-lucene-index@3.5.0?classifier=sources
