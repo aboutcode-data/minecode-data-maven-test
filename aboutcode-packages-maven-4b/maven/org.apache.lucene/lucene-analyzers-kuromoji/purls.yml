@@ -88,3 +88,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@6.3.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@6.4.0
 - pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@6.4.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@6.4.1
+- pkg:maven/org.apache.lucene/lucene-analyzers-kuromoji@6.4.1?classifier=sources

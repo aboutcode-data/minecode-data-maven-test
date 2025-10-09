@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.blueprintstate@4.0.7?classifier=sources
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.blueprintstate@4.0.8
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.blueprintstate@4.0.8?classifier=sources
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.blueprintstate@4.1.0
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.blueprintstate@4.1.0?classifier=sources

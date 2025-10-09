@@ -1,2 +1,4 @@
 - pkg:maven/net.kemitix/kemitix-checkstyle-ruleset-builder@2.0.4
 - pkg:maven/net.kemitix/kemitix-checkstyle-ruleset-builder@2.0.4?classifier=sources
+- pkg:maven/net.kemitix/kemitix-checkstyle-ruleset-builder@2.1.0
+- pkg:maven/net.kemitix/kemitix-checkstyle-ruleset-builder@2.1.0?classifier=sources

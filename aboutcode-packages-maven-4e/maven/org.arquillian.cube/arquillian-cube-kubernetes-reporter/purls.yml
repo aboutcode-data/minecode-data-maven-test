@@ -1,2 +1,4 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.0.0.Alpha16
 - pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.0.0.Alpha16?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.0.0.Alpha17
+- pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.0.0.Alpha17?classifier=sources

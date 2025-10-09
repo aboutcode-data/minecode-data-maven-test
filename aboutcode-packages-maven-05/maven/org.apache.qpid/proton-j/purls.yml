@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.qpid/proton-j@0.15.0?classifier=sources
 - pkg:maven/org.apache.qpid/proton-j@0.16.0
 - pkg:maven/org.apache.qpid/proton-j@0.16.0?classifier=sources
+- pkg:maven/org.apache.qpid/proton-j@0.17.0
+- pkg:maven/org.apache.qpid/proton-j@0.17.0?classifier=sources
