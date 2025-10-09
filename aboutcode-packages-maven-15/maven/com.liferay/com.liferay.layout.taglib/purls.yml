@@ -120,3 +120,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.taglib@4.0.6
 - pkg:maven/com.liferay/com.liferay.layout.taglib@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.taglib@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.taglib@4.0.7
+- pkg:maven/com.liferay/com.liferay.layout.taglib@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.taglib@3.1.2
+- pkg:maven/com.liferay/com.liferay.layout.taglib@3.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@3.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.taglib@2.2.7
+- pkg:maven/com.liferay/com.liferay.layout.taglib@2.2.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@2.2.7?classifier=sources-commercial

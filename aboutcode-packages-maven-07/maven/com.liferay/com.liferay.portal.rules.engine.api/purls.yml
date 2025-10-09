@@ -48,3 +48,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@4.0.3
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.3
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.11
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.11?classifier=sources-commercial

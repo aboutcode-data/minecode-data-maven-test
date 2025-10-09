@@ -40,3 +40,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.0
 - pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.3
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.2
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@2.0.9
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@2.0.9?classifier=sources-commercial

@@ -19,3 +19,15 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@1.2.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@1.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@1.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@3.1.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@3.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@3.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@3.0.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@2.1.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@2.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@2.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@2.0.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@2.0.0?classifier=sources-commercial

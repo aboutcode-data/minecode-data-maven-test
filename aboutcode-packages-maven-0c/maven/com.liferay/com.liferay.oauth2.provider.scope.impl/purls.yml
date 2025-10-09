@@ -130,3 +130,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@2.0.2
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@2.0.4
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@2.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@2.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.43
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.43?classifier=sources-commercial

@@ -8,3 +8,5 @@
 - pkg:maven/com.hhandoko/cassandra-migration@0.12.1?classifier=sources
 - pkg:maven/com.hhandoko/cassandra-migration@0.12
 - pkg:maven/com.hhandoko/cassandra-migration@0.12?classifier=sources
+- pkg:maven/com.hhandoko/cassandra-migration@0.16
+- pkg:maven/com.hhandoko/cassandra-migration@0.16?classifier=sources

@@ -297,3 +297,15 @@
 - pkg:maven/com.liferay/com.liferay.calendar.web@3.0.8
 - pkg:maven/com.liferay/com.liferay.calendar.web@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.calendar.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.web@3.0.11
+- pkg:maven/com.liferay/com.liferay.calendar.web@3.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.web@3.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.web@3.0.10
+- pkg:maven/com.liferay/com.liferay.calendar.web@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.web@3.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.web@2.0.33
+- pkg:maven/com.liferay/com.liferay.calendar.web@2.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.web@2.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.calendar.web@1.0.77
+- pkg:maven/com.liferay/com.liferay.calendar.web@1.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.calendar.web@1.0.77?classifier=sources-commercial
