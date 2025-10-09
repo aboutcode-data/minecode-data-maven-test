@@ -68,3 +68,5 @@
 - pkg:maven/org.omnifaces/omnifaces@2.3?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@1.13
 - pkg:maven/org.omnifaces/omnifaces@1.13?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces@2.4-RC1
+- pkg:maven/org.omnifaces/omnifaces@2.4-RC1?classifier=sources
