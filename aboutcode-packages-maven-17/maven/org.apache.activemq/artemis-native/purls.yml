@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.activemq/artemis-native@1.5.3?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-native@1.5.4
 - pkg:maven/org.apache.activemq/artemis-native@1.5.4?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-native@2.0.0
+- pkg:maven/org.apache.activemq/artemis-native@2.0.0?classifier=sources
