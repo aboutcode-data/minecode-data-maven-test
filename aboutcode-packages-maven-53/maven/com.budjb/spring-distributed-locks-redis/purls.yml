@@ -1,2 +1,4 @@
 - pkg:maven/com.budjb/spring-distributed-locks-redis@0.1.7.BETA
 - pkg:maven/com.budjb/spring-distributed-locks-redis@0.1.7.BETA?classifier=sources
+- pkg:maven/com.budjb/spring-distributed-locks-redis@2.1.0
+- pkg:maven/com.budjb/spring-distributed-locks-redis@2.1.0?classifier=sources

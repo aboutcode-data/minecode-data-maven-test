@@ -48,3 +48,5 @@
 - pkg:maven/ch.epfl.dedis/cothority@3.0.3?classifier=sources
 - pkg:maven/ch.epfl.dedis/cothority@3.0.6
 - pkg:maven/ch.epfl.dedis/cothority@3.0.6?classifier=sources
+- pkg:maven/ch.epfl.dedis/cothority@3.1.0
+- pkg:maven/ch.epfl.dedis/cothority@3.1.0?classifier=sources
