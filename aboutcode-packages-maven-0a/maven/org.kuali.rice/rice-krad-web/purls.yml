@@ -54,3 +54,5 @@
 - pkg:maven/org.kuali.rice/rice-krad-web@2.5.12?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krad-web@2.3.12?type=war
 - pkg:maven/org.kuali.rice/rice-krad-web@2.3.12?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-web@2.5.14?type=war
+- pkg:maven/org.kuali.rice/rice-krad-web@2.5.14?classifier=sources

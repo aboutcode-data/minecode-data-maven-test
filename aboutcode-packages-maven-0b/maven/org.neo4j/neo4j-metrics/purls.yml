@@ -48,3 +48,5 @@
 - pkg:maven/org.neo4j/neo4j-metrics@3.0.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-metrics@3.1.0-M06
 - pkg:maven/org.neo4j/neo4j-metrics@3.1.0-M06?classifier=sources
+- pkg:maven/org.neo4j/neo4j-metrics@3.1.0-M07
+- pkg:maven/org.neo4j/neo4j-metrics@3.1.0-M07?classifier=sources
