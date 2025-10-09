@@ -10,3 +10,7 @@
 - pkg:maven/org.reaktivity/nukleus-oauth@0.36?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-oauth@0.35
 - pkg:maven/org.reaktivity/nukleus-oauth@0.35?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-oauth@0.38
+- pkg:maven/org.reaktivity/nukleus-oauth@0.38?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-oauth@0.37
+- pkg:maven/org.reaktivity/nukleus-oauth@0.37?classifier=sources

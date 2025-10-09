@@ -474,3 +474,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@11.3.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@11.5-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@11.5-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@11.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-display@11.5?classifier=sources

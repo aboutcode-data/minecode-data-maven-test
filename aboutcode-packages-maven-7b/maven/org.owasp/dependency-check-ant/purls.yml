@@ -100,3 +100,5 @@
 - pkg:maven/org.owasp/dependency-check-ant@5.0.0-M3?classifier=sources
 - pkg:maven/org.owasp/dependency-check-ant@5.0.0
 - pkg:maven/org.owasp/dependency-check-ant@5.0.0?classifier=sources
+- pkg:maven/org.owasp/dependency-check-ant@5.1.0
+- pkg:maven/org.owasp/dependency-check-ant@5.1.0?classifier=sources

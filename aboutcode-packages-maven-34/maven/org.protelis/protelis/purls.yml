@@ -70,3 +70,5 @@
 - pkg:maven/org.protelis/protelis@12.1.0-j7?classifier=sources
 - pkg:maven/org.protelis/protelis@12.1.0
 - pkg:maven/org.protelis/protelis@12.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis@12.2.0
+- pkg:maven/org.protelis/protelis@12.2.0?classifier=sources

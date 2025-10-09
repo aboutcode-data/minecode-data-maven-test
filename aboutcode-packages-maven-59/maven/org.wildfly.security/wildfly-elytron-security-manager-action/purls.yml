@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-security-manager-action@1.9.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-security-manager-action@1.10.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-security-manager-action@1.10.0.CR1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-security-manager-action@1.10.0.CR2
+- pkg:maven/org.wildfly.security/wildfly-elytron-security-manager-action@1.10.0.CR2?classifier=sources
