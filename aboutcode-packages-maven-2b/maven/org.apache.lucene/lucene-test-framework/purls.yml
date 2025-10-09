@@ -166,3 +166,5 @@
 - pkg:maven/org.apache.lucene/lucene-test-framework@8.2.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-test-framework@8.3.0
 - pkg:maven/org.apache.lucene/lucene-test-framework@8.3.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-test-framework@8.3.1
+- pkg:maven/org.apache.lucene/lucene-test-framework@8.3.1?classifier=sources

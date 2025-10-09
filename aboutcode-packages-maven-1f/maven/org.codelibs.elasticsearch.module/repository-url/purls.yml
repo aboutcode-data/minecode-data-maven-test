@@ -100,3 +100,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/repository-url@6.8.4?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/repository-url@7.4.2
 - pkg:maven/org.codelibs.elasticsearch.module/repository-url@7.4.2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/repository-url@7.5.0
+- pkg:maven/org.codelibs.elasticsearch.module/repository-url@7.5.0?classifier=sources
