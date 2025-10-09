@@ -1,2 +1,4 @@
 - pkg:maven/com.bendb.influx/embedded-influx-junit4@0.1.0
 - pkg:maven/com.bendb.influx/embedded-influx-junit4@0.1.0?classifier=sources
+- pkg:maven/com.bendb.influx/embedded-influx-junit4@0.1.1
+- pkg:maven/com.bendb.influx/embedded-influx-junit4@0.1.1?classifier=sources

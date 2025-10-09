@@ -37,3 +37,5 @@
 - pkg:maven/cglib/cglib@3.2.8?classifier=sources
 - pkg:maven/cglib/cglib@3.2.9
 - pkg:maven/cglib/cglib@3.2.9?classifier=sources
+- pkg:maven/cglib/cglib@3.2.10
+- pkg:maven/cglib/cglib@3.2.10?classifier=sources
