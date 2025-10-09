@@ -119,3 +119,5 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema@2.7.8?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema@2.8.4
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema@2.8.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema@2.8.5
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema@2.8.5?classifier=sources

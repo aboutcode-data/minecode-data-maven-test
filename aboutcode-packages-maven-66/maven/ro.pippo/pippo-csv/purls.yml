@@ -6,3 +6,5 @@
 - pkg:maven/ro.pippo/pippo-csv@0.9.1?classifier=sources
 - pkg:maven/ro.pippo/pippo-csv@0.10.0
 - pkg:maven/ro.pippo/pippo-csv@0.10.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-csv@1.0.0
+- pkg:maven/ro.pippo/pippo-csv@1.0.0?classifier=sources

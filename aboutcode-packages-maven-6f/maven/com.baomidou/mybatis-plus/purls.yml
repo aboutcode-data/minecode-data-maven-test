@@ -86,3 +86,5 @@
 - pkg:maven/com.baomidou/mybatis-plus@2.0-rc?classifier=sources
 - pkg:maven/com.baomidou/mybatis-plus@2.0-beta
 - pkg:maven/com.baomidou/mybatis-plus@2.0-beta?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus@1.5
+- pkg:maven/com.baomidou/mybatis-plus@1.5?classifier=sources
