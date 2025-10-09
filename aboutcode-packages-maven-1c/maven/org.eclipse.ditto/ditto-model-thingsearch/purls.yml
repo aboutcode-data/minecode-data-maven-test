@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-model-thingsearch@0.8.0-M2b?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-model-thingsearch@0.8.0-M3
 - pkg:maven/org.eclipse.ditto/ditto-model-thingsearch@0.8.0-M3?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-model-thingsearch@0.8.0
+- pkg:maven/org.eclipse.ditto/ditto-model-thingsearch@0.8.0?classifier=sources

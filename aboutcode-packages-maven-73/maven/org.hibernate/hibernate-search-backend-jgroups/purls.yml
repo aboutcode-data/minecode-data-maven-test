@@ -166,3 +166,5 @@
 - pkg:maven/org.hibernate/hibernate-search-backend-jgroups@5.6.6.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-backend-jgroups@5.10.4.Final
 - pkg:maven/org.hibernate/hibernate-search-backend-jgroups@5.10.4.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-backend-jgroups@5.10.5.Final
+- pkg:maven/org.hibernate/hibernate-search-backend-jgroups@5.10.5.Final?classifier=sources

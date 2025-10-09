@@ -60,3 +60,7 @@
 - pkg:maven/org.hibernate/hibernate-jcache@5.3.7.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jcache@5.4.0.CR1
 - pkg:maven/org.hibernate/hibernate-jcache@5.4.0.CR1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jcache@5.4.0.CR2
+- pkg:maven/org.hibernate/hibernate-jcache@5.4.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jcache@5.2.18.Final
+- pkg:maven/org.hibernate/hibernate-jcache@5.2.18.Final?classifier=sources
