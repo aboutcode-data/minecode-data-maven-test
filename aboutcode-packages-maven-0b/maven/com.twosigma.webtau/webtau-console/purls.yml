@@ -14,3 +14,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-console@0.31?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-console@1.0
 - pkg:maven/com.twosigma.webtau/webtau-console@1.0?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-console@1.1
+- pkg:maven/com.twosigma.webtau/webtau-console@1.1?classifier=sources

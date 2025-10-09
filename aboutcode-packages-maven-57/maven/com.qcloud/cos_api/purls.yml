@@ -64,3 +64,5 @@
 - pkg:maven/com.qcloud/cos_api@5.4.7?classifier=sources
 - pkg:maven/com.qcloud/cos_api@5.4.8
 - pkg:maven/com.qcloud/cos_api@5.4.8?classifier=sources
+- pkg:maven/com.qcloud/cos_api@5.4.9
+- pkg:maven/com.qcloud/cos_api@5.4.9?classifier=sources

@@ -80,3 +80,9 @@
 - pkg:maven/com.seleniumtests/seleniumtestsframework@5.14?classifier=sources
 - pkg:maven/com.seleniumtests/seleniumtestsframework@5.16
 - pkg:maven/com.seleniumtests/seleniumtestsframework@5.16?classifier=sources
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.20
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.20?classifier=sources
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.19
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.19?classifier=sources
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.17
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.17?classifier=sources

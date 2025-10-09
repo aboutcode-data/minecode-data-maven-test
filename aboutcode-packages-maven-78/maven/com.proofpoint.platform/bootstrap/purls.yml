@@ -296,3 +296,5 @@
 - pkg:maven/com.proofpoint.platform/bootstrap@1.91?classifier=sources
 - pkg:maven/com.proofpoint.platform/bootstrap@1.93
 - pkg:maven/com.proofpoint.platform/bootstrap@1.93?classifier=sources
+- pkg:maven/com.proofpoint.platform/bootstrap@1.94
+- pkg:maven/com.proofpoint.platform/bootstrap@1.94?classifier=sources
