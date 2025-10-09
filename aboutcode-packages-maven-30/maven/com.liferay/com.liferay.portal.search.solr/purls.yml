@@ -129,3 +129,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.43
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.10
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.10?classifier=sources-commercial
