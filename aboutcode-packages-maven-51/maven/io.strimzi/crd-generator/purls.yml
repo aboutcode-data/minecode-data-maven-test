@@ -14,3 +14,7 @@
 - pkg:maven/io.strimzi/crd-generator@0.11.4?classifier=sources
 - pkg:maven/io.strimzi/crd-generator@0.12.0
 - pkg:maven/io.strimzi/crd-generator@0.12.0?classifier=sources
+- pkg:maven/io.strimzi/crd-generator@0.12.2
+- pkg:maven/io.strimzi/crd-generator@0.12.2?classifier=sources
+- pkg:maven/io.strimzi/crd-generator@0.12.1
+- pkg:maven/io.strimzi/crd-generator@0.12.1?classifier=sources

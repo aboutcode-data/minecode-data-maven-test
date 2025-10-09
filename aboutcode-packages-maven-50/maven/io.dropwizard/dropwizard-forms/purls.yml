@@ -174,3 +174,5 @@
 - pkg:maven/io.dropwizard/dropwizard-forms@2.0.0-rc3?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-forms@2.0.0-rc4
 - pkg:maven/io.dropwizard/dropwizard-forms@2.0.0-rc4?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-forms@1.3.13
+- pkg:maven/io.dropwizard/dropwizard-forms@1.3.13?classifier=sources
