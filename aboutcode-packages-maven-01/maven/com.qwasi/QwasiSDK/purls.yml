@@ -38,3 +38,5 @@
 - pkg:maven/com.qwasi/QwasiSDK@2.1.19-5?classifier=sources
 - pkg:maven/com.qwasi/QwasiSDK@2.1.20-beta.357?type=aar
 - pkg:maven/com.qwasi/QwasiSDK@2.1.20-beta.357?classifier=sources
+- pkg:maven/com.qwasi/QwasiSDK@2.1.20?type=aar
+- pkg:maven/com.qwasi/QwasiSDK@2.1.20?classifier=sources

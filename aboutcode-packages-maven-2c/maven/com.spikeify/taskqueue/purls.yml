@@ -38,3 +38,5 @@
 - pkg:maven/com.spikeify/taskqueue@0.2.28?classifier=sources
 - pkg:maven/com.spikeify/taskqueue@0.2.27
 - pkg:maven/com.spikeify/taskqueue@0.2.27?classifier=sources
+- pkg:maven/com.spikeify/taskqueue@0.2.33
+- pkg:maven/com.spikeify/taskqueue@0.2.33?classifier=sources
