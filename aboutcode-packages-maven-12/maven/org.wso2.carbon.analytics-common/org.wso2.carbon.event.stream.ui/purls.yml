@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.ui@5.0.0
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.ui@2.0.0-alpha
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.ui@1.0.0
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.ui@5.2.11
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.ui@5.2.11?classifier=sources

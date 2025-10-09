@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.cassandra@5.0.0
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.cassandra@2.0.0-alpha
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.cassandra@1.0.0
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.cassandra@5.2.11
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.cassandra@5.2.11?classifier=sources

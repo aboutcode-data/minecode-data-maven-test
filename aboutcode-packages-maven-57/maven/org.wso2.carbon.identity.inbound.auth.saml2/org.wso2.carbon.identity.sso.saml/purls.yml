@@ -168,3 +168,5 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml@5.4.46?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml@5.4.45
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml@5.4.45?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml@5.6.14
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml@5.6.14?classifier=sources

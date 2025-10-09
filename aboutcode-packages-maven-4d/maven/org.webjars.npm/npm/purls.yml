@@ -48,3 +48,5 @@
 - pkg:maven/org.webjars.npm/npm@6.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/npm@6.9.1-next.0
 - pkg:maven/org.webjars.npm/npm@6.9.1-next.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@6.11.3
+- pkg:maven/org.webjars.npm/npm@6.11.3?classifier=sources

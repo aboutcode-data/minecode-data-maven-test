@@ -59,3 +59,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.gadget.template.deployer@5.1.0-alpha
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.gadget.template.deployer@5.1.0
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.gadget.template.deployer@5.0.12-beta2
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.gadget.template.deployer@5.2.11
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.gadget.template.deployer@5.2.11?classifier=sources

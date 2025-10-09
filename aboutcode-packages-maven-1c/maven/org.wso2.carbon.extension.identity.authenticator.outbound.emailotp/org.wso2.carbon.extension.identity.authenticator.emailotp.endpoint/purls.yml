@@ -45,3 +45,6 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.19?type=war
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.19?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.30?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.30?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.30?classifier=source-release&type=zip
