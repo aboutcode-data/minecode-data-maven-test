@@ -14,3 +14,9 @@
 - pkg:maven/com.cleverpush/cleverpush@0.0.7?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@0.0.8?type=aar
 - pkg:maven/com.cleverpush/cleverpush@0.0.8?classifier=sources
+- pkg:maven/com.cleverpush/cleverpush@0.0.9?type=aar
+- pkg:maven/com.cleverpush/cleverpush@0.0.9?classifier=sources
+- pkg:maven/com.cleverpush/cleverpush@0.0.11?type=aar
+- pkg:maven/com.cleverpush/cleverpush@0.0.11?classifier=sources
+- pkg:maven/com.cleverpush/cleverpush@0.0.10?type=aar
+- pkg:maven/com.cleverpush/cleverpush@0.0.10?classifier=sources
