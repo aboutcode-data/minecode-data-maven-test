@@ -334,3 +334,5 @@
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.22.13?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.22.16?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.22.16?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.17?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.17?classifier=sources

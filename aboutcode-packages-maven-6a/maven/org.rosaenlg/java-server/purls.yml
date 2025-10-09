@@ -10,3 +10,5 @@
 - pkg:maven/org.rosaenlg/java-server@1.5.3?classifier=sources
 - pkg:maven/org.rosaenlg/java-server@1.5.2?type=war
 - pkg:maven/org.rosaenlg/java-server@1.5.2?classifier=sources
+- pkg:maven/org.rosaenlg/java-server@1.5.4?type=war
+- pkg:maven/org.rosaenlg/java-server@1.5.4?classifier=sources
