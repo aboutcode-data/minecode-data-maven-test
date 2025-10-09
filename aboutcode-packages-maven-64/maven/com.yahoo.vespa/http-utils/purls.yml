@@ -82,3 +82,7 @@
 - pkg:maven/com.yahoo.vespa/http-utils@7.109.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/http-utils@7.105.45
 - pkg:maven/com.yahoo.vespa/http-utils@7.105.45?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.112.6
+- pkg:maven/com.yahoo.vespa/http-utils@7.112.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.110.36
+- pkg:maven/com.yahoo.vespa/http-utils@7.110.36?classifier=sources

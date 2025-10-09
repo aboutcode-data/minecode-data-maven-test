@@ -8,3 +8,5 @@
 - pkg:maven/io.datakernel/datakernel-uikernel@2.5.13?classifier=sources
 - pkg:maven/io.datakernel/datakernel-uikernel@3.0.0-beta2
 - pkg:maven/io.datakernel/datakernel-uikernel@3.0.0-beta2?classifier=sources
+- pkg:maven/io.datakernel/datakernel-uikernel@3.0.0-rc
+- pkg:maven/io.datakernel/datakernel-uikernel@3.0.0-rc?classifier=sources

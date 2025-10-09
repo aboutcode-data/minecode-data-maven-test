@@ -56,3 +56,5 @@
 - pkg:maven/de.otto.synapse/synapse-compaction-aws-s3@0.17.7?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-compaction-aws-s3@0.17.8
 - pkg:maven/de.otto.synapse/synapse-compaction-aws-s3@0.17.8?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-compaction-aws-s3@0.17.9
+- pkg:maven/de.otto.synapse/synapse-compaction-aws-s3@0.17.9?classifier=sources

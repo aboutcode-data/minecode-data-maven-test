@@ -206,3 +206,5 @@
 - pkg:maven/com.yahoo.vespa/container-core@7.99.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@7.109.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@7.105.45?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@7.112.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@7.110.36?classifier=sources
