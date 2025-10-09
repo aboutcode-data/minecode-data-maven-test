@@ -60,3 +60,7 @@
 - pkg:maven/org.robolectric/robolectric@3.4-rc2?classifier=sources
 - pkg:maven/org.robolectric/robolectric@3.4-rc3
 - pkg:maven/org.robolectric/robolectric@3.4-rc3?classifier=sources
+- pkg:maven/org.robolectric/robolectric@3.4-rc5
+- pkg:maven/org.robolectric/robolectric@3.4-rc5?classifier=sources
+- pkg:maven/org.robolectric/robolectric@3.4-rc4
+- pkg:maven/org.robolectric/robolectric@3.4-rc4?classifier=sources

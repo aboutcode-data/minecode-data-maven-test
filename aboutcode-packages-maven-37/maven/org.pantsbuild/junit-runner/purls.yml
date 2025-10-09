@@ -60,3 +60,5 @@
 - pkg:maven/org.pantsbuild/junit-runner@1.0.17?classifier=sources
 - pkg:maven/org.pantsbuild/junit-runner@1.0.18
 - pkg:maven/org.pantsbuild/junit-runner@1.0.18?classifier=sources
+- pkg:maven/org.pantsbuild/junit-runner@1.0.19
+- pkg:maven/org.pantsbuild/junit-runner@1.0.19?classifier=sources

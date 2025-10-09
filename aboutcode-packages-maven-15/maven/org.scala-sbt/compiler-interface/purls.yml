@@ -50,3 +50,5 @@
 - pkg:maven/org.scala-sbt/compiler-interface@1.0.0-X17?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-interface@1.0.0-X19
 - pkg:maven/org.scala-sbt/compiler-interface@1.0.0-X19?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-interface@1.0.0-X20
+- pkg:maven/org.scala-sbt/compiler-interface@1.0.0-X20?classifier=sources
