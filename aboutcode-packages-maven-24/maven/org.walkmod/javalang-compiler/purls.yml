@@ -40,3 +40,5 @@
 - pkg:maven/org.walkmod/javalang-compiler@2.2.11?classifier=sources
 - pkg:maven/org.walkmod/javalang-compiler@2.2.12
 - pkg:maven/org.walkmod/javalang-compiler@2.2.12?classifier=sources
+- pkg:maven/org.walkmod/javalang-compiler@2.3.0
+- pkg:maven/org.walkmod/javalang-compiler@2.3.0?classifier=sources

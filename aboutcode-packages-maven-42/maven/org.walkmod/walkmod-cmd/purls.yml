@@ -18,3 +18,5 @@
 - pkg:maven/org.walkmod/walkmod-cmd@2.2.0?classifier=sources
 - pkg:maven/org.walkmod/walkmod-cmd@2.3.4
 - pkg:maven/org.walkmod/walkmod-cmd@2.3.4?classifier=sources
+- pkg:maven/org.walkmod/walkmod-cmd@3.0.0
+- pkg:maven/org.walkmod/walkmod-cmd@3.0.0?classifier=sources
