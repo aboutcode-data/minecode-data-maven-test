@@ -103,3 +103,5 @@
 - pkg:maven/org.openjdk.jmh/jmh-core-ct@1.19?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core-ct@1.20
 - pkg:maven/org.openjdk.jmh/jmh-core-ct@1.20?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-core-ct@1.21
+- pkg:maven/org.openjdk.jmh/jmh-core-ct@1.21?classifier=sources
