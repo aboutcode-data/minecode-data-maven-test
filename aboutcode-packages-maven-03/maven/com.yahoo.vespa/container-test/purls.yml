@@ -12,3 +12,7 @@
 - pkg:maven/com.yahoo.vespa/container-test@6.162.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@6.161.146
 - pkg:maven/com.yahoo.vespa/container-test@6.161.146?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.167.24
+- pkg:maven/com.yahoo.vespa/container-test@6.167.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.165.94
+- pkg:maven/com.yahoo.vespa/container-test@6.165.94?classifier=sources

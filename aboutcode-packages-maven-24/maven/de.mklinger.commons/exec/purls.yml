@@ -18,3 +18,5 @@
 - pkg:maven/de.mklinger.commons/exec@0.29?classifier=sources
 - pkg:maven/de.mklinger.commons/exec@0.31
 - pkg:maven/de.mklinger.commons/exec@0.31?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.32
+- pkg:maven/de.mklinger.commons/exec@0.32?classifier=sources

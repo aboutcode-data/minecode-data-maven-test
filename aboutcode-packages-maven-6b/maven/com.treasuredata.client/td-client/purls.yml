@@ -86,3 +86,5 @@
 - pkg:maven/com.treasuredata.client/td-client@0.7.40?classifier=sources
 - pkg:maven/com.treasuredata.client/td-client@0.7.39
 - pkg:maven/com.treasuredata.client/td-client@0.7.39?classifier=sources
+- pkg:maven/com.treasuredata.client/td-client@0.8.0
+- pkg:maven/com.treasuredata.client/td-client@0.8.0?classifier=sources

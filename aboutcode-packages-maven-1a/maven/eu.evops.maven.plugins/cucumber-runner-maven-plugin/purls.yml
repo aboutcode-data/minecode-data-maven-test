@@ -18,3 +18,7 @@
 - pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.8?classifier=sources
 - pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.9
 - pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.9?classifier=sources
+- pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.12
+- pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.12?classifier=sources
+- pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.11
+- pkg:maven/eu.evops.maven.plugins/cucumber-runner-maven-plugin@1.11?classifier=sources
