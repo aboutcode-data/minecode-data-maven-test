@@ -300,3 +300,5 @@
 - pkg:maven/net.openhft/chronicle-core@1.16.17?classifier=sources
 - pkg:maven/net.openhft/chronicle-core@1.16.21
 - pkg:maven/net.openhft/chronicle-core@1.16.21?classifier=sources
+- pkg:maven/net.openhft/chronicle-core@1.16.23
+- pkg:maven/net.openhft/chronicle-core@1.16.23?classifier=sources

@@ -416,3 +416,5 @@
 - pkg:maven/net.openhft/chronicle-wire@1.16.14?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@1.16.16
 - pkg:maven/net.openhft/chronicle-wire@1.16.16?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@1.16.17
+- pkg:maven/net.openhft/chronicle-wire@1.16.17?classifier=sources

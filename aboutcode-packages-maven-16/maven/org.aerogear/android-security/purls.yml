@@ -8,3 +8,5 @@
 - pkg:maven/org.aerogear/android-security@1.0.0?classifier=sources
 - pkg:maven/org.aerogear/android-security@2.0.0?type=aar
 - pkg:maven/org.aerogear/android-security@2.0.0?classifier=sources
+- pkg:maven/org.aerogear/android-security@2.1.0-alpha.1?type=aar
+- pkg:maven/org.aerogear/android-security@2.1.0-alpha.1?classifier=sources

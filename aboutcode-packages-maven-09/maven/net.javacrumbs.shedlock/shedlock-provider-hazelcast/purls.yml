@@ -18,3 +18,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast@0.18.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast@1.0.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast@1.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast@1.1.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast@1.1.0?classifier=sources

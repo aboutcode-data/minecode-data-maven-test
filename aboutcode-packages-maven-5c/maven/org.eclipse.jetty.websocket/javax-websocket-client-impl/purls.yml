@@ -236,3 +236,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.2.26.v20180806?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.4.12.RC2
 - pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.4.12.RC2?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.4.12.v20180830
+- pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.4.12.v20180830?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.mapsforge/vtm-http@0.9.1?classifier=sources
 - pkg:maven/org.mapsforge/vtm-http@0.9.2
 - pkg:maven/org.mapsforge/vtm-http@0.9.2?classifier=sources
+- pkg:maven/org.mapsforge/vtm-http@0.10.0
+- pkg:maven/org.mapsforge/vtm-http@0.10.0?classifier=sources

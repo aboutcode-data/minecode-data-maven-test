@@ -46,3 +46,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-core@0.18.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-core@1.0.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-core@1.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-core@1.1.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-core@1.1.0?classifier=sources
