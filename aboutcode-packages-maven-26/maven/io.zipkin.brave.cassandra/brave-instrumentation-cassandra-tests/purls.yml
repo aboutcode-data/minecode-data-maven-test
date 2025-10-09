@@ -13,3 +13,4 @@
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.6.0
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.6.0?classifier=sources
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.7.0
+- pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.7.0?classifier=sources

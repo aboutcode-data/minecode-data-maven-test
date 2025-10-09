@@ -26,3 +26,5 @@
 - pkg:maven/io.opencensus/opencensus-contrib-grpc-metrics@0.13.1?classifier=sources
 - pkg:maven/io.opencensus/opencensus-contrib-grpc-metrics@0.13.2
 - pkg:maven/io.opencensus/opencensus-contrib-grpc-metrics@0.13.2?classifier=sources
+- pkg:maven/io.opencensus/opencensus-contrib-grpc-metrics@0.14.0
+- pkg:maven/io.opencensus/opencensus-contrib-grpc-metrics@0.14.0?classifier=sources
