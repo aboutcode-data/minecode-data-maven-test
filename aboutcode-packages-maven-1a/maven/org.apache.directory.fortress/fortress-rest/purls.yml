@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.directory.fortress/fortress-rest@1.0.0?classifier=sources
 - pkg:maven/org.apache.directory.fortress/fortress-rest@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.directory.fortress/fortress-rest@1.0.1?type=war
+- pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.0-RC1?type=war
