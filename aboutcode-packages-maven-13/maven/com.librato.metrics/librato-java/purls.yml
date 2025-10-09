@@ -48,3 +48,5 @@
 - pkg:maven/com.librato.metrics/librato-java@2.0.1?classifier=sources
 - pkg:maven/com.librato.metrics/librato-java@2.0.3
 - pkg:maven/com.librato.metrics/librato-java@2.0.3?classifier=sources
+- pkg:maven/com.librato.metrics/librato-java@2.0.4
+- pkg:maven/com.librato.metrics/librato-java@2.0.4?classifier=sources

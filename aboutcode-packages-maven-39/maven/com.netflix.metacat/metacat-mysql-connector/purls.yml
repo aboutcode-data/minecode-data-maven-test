@@ -90,3 +90,5 @@
 - pkg:maven/com.netflix.metacat/metacat-mysql-connector@0.1.44?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-mysql-connector@0.1.46
 - pkg:maven/com.netflix.metacat/metacat-mysql-connector@0.1.46?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-mysql-connector@0.1.47
+- pkg:maven/com.netflix.metacat/metacat-mysql-connector@0.1.47?classifier=sources
