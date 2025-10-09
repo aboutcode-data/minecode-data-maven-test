@@ -114,3 +114,5 @@
 - pkg:maven/com.google.cloud/google-cloud-firestore@0.79.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-firestore@0.80.0-beta
 - pkg:maven/com.google.cloud/google-cloud-firestore@0.80.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.81.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.81.0-beta?classifier=sources

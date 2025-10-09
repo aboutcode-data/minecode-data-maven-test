@@ -70,3 +70,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.react.portlet@1.0.23
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.react.portlet@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.react.portlet@1.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.react.portlet@1.0.25
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.react.portlet@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.react.portlet@1.0.25?classifier=sources-commercial

@@ -152,3 +152,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v1beta1@0.44.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v1beta1@0.45.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v1beta1@0.45.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v1beta1@0.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v1beta1@0.46.0?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/com.google.cloud/google-cloud-dataproc@0.79.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc@0.80.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-dataproc@0.80.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc@0.81.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-dataproc@0.81.0-alpha?classifier=sources

@@ -267,3 +267,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search@4.0.26
 - pkg:maven/com.liferay/com.liferay.portal.search@4.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search@4.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search@5.0.23
+- pkg:maven/com.liferay/com.liferay.portal.search@5.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search@5.0.23?classifier=sources-commercial

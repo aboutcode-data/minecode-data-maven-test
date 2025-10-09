@@ -192,3 +192,5 @@
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.61.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.62.0
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.62.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.63.0
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.63.0?classifier=sources
