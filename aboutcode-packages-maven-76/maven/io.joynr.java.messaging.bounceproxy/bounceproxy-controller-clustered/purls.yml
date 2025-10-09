@@ -40,3 +40,7 @@
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.14.0?classifier=sources
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.14.2?type=war
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.14.2?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.15.0?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.15.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.14.3?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-clustered@0.14.3?classifier=sources
