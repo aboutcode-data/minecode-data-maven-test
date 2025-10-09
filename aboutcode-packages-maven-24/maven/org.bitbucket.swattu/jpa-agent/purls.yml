@@ -26,3 +26,5 @@
 - pkg:maven/org.bitbucket.swattu/jpa-agent@3.0.7?classifier=sources
 - pkg:maven/org.bitbucket.swattu/jpa-agent@3.0.8
 - pkg:maven/org.bitbucket.swattu/jpa-agent@3.0.8?classifier=sources
+- pkg:maven/org.bitbucket.swattu/jpa-agent@4.0.0
+- pkg:maven/org.bitbucket.swattu/jpa-agent@4.0.0?classifier=sources
