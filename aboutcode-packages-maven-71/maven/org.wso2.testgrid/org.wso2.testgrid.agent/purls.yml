@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m27?type=zip
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m27?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m28?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m28?classifier=sources

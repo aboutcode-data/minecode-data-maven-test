@@ -16,3 +16,5 @@
 - pkg:maven/software.amazon.awssdk/cloudformation@2.0.0-preview-8?classifier=sources
 - pkg:maven/software.amazon.awssdk/cloudformation@2.0.0-preview-9
 - pkg:maven/software.amazon.awssdk/cloudformation@2.0.0-preview-9?classifier=sources
+- pkg:maven/software.amazon.awssdk/cloudformation@2.0.0-preview-10
+- pkg:maven/software.amazon.awssdk/cloudformation@2.0.0-preview-10?classifier=sources

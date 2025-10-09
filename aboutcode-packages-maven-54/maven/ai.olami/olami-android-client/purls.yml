@@ -22,3 +22,5 @@
 - pkg:maven/ai.olami/olami-android-client@2.5.1?classifier=sources
 - pkg:maven/ai.olami/olami-android-client@2.5.0?type=aar
 - pkg:maven/ai.olami/olami-android-client@2.5.0?classifier=sources
+- pkg:maven/ai.olami/olami-android-client@2.6.0?type=aar
+- pkg:maven/ai.olami/olami-android-client@2.6.0?classifier=sources

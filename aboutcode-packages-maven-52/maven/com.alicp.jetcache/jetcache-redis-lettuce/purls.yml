@@ -22,3 +22,5 @@
 - pkg:maven/com.alicp.jetcache/jetcache-redis-lettuce@2.4.4?classifier=sources
 - pkg:maven/com.alicp.jetcache/jetcache-redis-lettuce@2.5.0
 - pkg:maven/com.alicp.jetcache/jetcache-redis-lettuce@2.5.0?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-redis-lettuce@2.5.1
+- pkg:maven/com.alicp.jetcache/jetcache-redis-lettuce@2.5.1?classifier=sources

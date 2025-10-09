@@ -43,3 +43,9 @@
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.25
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.25?classifier=sources
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.25?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.27
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.27?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.27?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.26
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.26?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.api@4.7.26?classifier=source-release&type=zip
