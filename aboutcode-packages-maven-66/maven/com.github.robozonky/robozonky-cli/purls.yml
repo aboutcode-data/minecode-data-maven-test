@@ -26,3 +26,5 @@
 - pkg:maven/com.github.robozonky/robozonky-cli@4.8.3?classifier=sources
 - pkg:maven/com.github.robozonky/robozonky-cli@4.9.0-cr-1
 - pkg:maven/com.github.robozonky/robozonky-cli@4.9.0-cr-1?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-cli@4.9.0
+- pkg:maven/com.github.robozonky/robozonky-cli@4.9.0?classifier=sources

@@ -175,3 +175,6 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dbconsole.ui@4.4.79
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dbconsole.ui@4.4.79?classifier=sources
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dbconsole.ui@4.4.79?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dbconsole.ui@4.4.81
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dbconsole.ui@4.4.81?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dbconsole.ui@4.4.81?classifier=source-release&type=zip
