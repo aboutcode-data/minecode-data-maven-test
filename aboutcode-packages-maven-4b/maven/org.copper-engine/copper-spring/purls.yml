@@ -29,3 +29,5 @@
 - pkg:maven/org.copper-engine/copper-spring@4.0.3?classifier=sources
 - pkg:maven/org.copper-engine/copper-spring@4.1.0
 - pkg:maven/org.copper-engine/copper-spring@4.1.0?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@4.1.1
+- pkg:maven/org.copper-engine/copper-spring@4.1.1?classifier=sources

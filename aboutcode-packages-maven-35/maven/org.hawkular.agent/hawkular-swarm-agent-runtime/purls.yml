@@ -1,2 +1,4 @@
 - pkg:maven/org.hawkular.agent/hawkular-swarm-agent-runtime@0.18.0.Final
 - pkg:maven/org.hawkular.agent/hawkular-swarm-agent-runtime@0.18.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-swarm-agent-runtime@0.18.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-swarm-agent-runtime@0.18.1.Final?classifier=sources

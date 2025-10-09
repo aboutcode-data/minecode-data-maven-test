@@ -20,3 +20,5 @@
 - pkg:maven/org.ff4j/ff4j-security-spring@1.4?classifier=sources
 - pkg:maven/org.ff4j/ff4j-security-spring@1.5
 - pkg:maven/org.ff4j/ff4j-security-spring@1.5?classifier=sources
+- pkg:maven/org.ff4j/ff4j-security-spring@1.5.1
+- pkg:maven/org.ff4j/ff4j-security-spring@1.5.1?classifier=sources

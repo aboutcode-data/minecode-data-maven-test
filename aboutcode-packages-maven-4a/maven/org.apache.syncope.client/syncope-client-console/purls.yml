@@ -1,3 +1,5 @@
 - pkg:maven/org.apache.syncope.client/syncope-client-console@2.0.0-M1
 - pkg:maven/org.apache.syncope.client/syncope-client-console@2.0.0-M2
 - pkg:maven/org.apache.syncope.client/syncope-client-console@2.0.0-M2?classifier=sources
+- pkg:maven/org.apache.syncope.client/syncope-client-console@2.0.0-M3
+- pkg:maven/org.apache.syncope.client/syncope-client-console@2.0.0-M3?classifier=sources

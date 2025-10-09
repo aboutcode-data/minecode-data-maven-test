@@ -74,3 +74,7 @@
 - pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@6.1.1?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@6.0.3
 - pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@6.0.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@5.6.1
+- pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@5.6.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@5.5.4
+- pkg:maven/org.apache.servicemix.examples/camel-sql-datasource-derby@5.5.4?classifier=sources
