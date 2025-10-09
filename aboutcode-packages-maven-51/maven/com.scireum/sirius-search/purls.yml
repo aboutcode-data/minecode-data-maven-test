@@ -72,3 +72,5 @@
 - pkg:maven/com.scireum/sirius-search@6.0?classifier=sources
 - pkg:maven/com.scireum/sirius-search@1.9
 - pkg:maven/com.scireum/sirius-search@1.9?classifier=sources
+- pkg:maven/com.scireum/sirius-search@6.2
+- pkg:maven/com.scireum/sirius-search@6.2?classifier=sources

@@ -132,3 +132,5 @@
 - pkg:maven/com.spotify/styx-test@1.0.11?classifier=sources
 - pkg:maven/com.spotify/styx-test@1.0.10
 - pkg:maven/com.spotify/styx-test@1.0.10?classifier=sources
+- pkg:maven/com.spotify/styx-test@1.0.12
+- pkg:maven/com.spotify/styx-test@1.0.12?classifier=sources

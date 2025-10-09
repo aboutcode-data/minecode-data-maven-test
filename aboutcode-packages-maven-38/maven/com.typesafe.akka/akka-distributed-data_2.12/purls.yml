@@ -8,3 +8,5 @@
 - pkg:maven/com.typesafe.akka/akka-distributed-data_2.12@2.5.0-RC2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-distributed-data_2.12@2.5.0
 - pkg:maven/com.typesafe.akka/akka-distributed-data_2.12@2.5.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.12@2.5.1
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.12@2.5.1?classifier=sources

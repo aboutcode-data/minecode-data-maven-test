@@ -18,3 +18,4 @@
 - pkg:maven/com.yahoo.pulsar/distribution@1.17.2?classifier=src&type=tar.gz
 - pkg:maven/com.yahoo.pulsar/distribution@1.17.3?classifier=src&type=tar.gz
 - pkg:maven/com.yahoo.pulsar/distribution@1.17.4?classifier=src&type=tar.gz
+- pkg:maven/com.yahoo.pulsar/distribution@1.17.5?classifier=src&type=tar.gz
