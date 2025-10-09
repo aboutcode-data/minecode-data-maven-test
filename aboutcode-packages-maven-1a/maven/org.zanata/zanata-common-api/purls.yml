@@ -71,3 +71,5 @@
 - pkg:maven/org.zanata/zanata-common-api@4.3.1?classifier=sources
 - pkg:maven/org.zanata/zanata-common-api@4.3.2?classifier=sources
 - pkg:maven/org.zanata/zanata-common-api@4.3.3?classifier=sources
+- pkg:maven/org.zanata/zanata-common-api@4.4.0-alpha-1
+- pkg:maven/org.zanata/zanata-common-api@4.4.0-alpha-1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/se.bjurr.violations/violations-gradle-plugin@1.8?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-gradle-plugin@1.10
 - pkg:maven/se.bjurr.violations/violations-gradle-plugin@1.10?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-gradle-plugin@1.11
+- pkg:maven/se.bjurr.violations/violations-gradle-plugin@1.11?classifier=sources

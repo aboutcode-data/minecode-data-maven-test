@@ -22,3 +22,5 @@
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.4.0-update2?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.4.0-update3?type=war
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.4.0-update3?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.4.0-update4?type=war
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.4.0-update4?classifier=sources
