@@ -44,3 +44,7 @@
 - pkg:maven/com.alicp.jetcache/jetcache-test@2.5.12?classifier=sources
 - pkg:maven/com.alicp.jetcache/jetcache-test@2.6.0.M2
 - pkg:maven/com.alicp.jetcache/jetcache-test@2.6.0.M2?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-test@2.6.0.M3
+- pkg:maven/com.alicp.jetcache/jetcache-test@2.6.0.M3?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-test@2.5.13
+- pkg:maven/com.alicp.jetcache/jetcache-test@2.5.13?classifier=sources

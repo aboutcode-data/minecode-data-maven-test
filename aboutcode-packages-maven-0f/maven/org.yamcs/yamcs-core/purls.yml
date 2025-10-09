@@ -90,3 +90,5 @@
 - pkg:maven/org.yamcs/yamcs-core@4.9.4?classifier=sources
 - pkg:maven/org.yamcs/yamcs-core@3.4.8
 - pkg:maven/org.yamcs/yamcs-core@3.4.8?classifier=sources
+- pkg:maven/org.yamcs/yamcs-core@4.10.0
+- pkg:maven/org.yamcs/yamcs-core@4.10.0?classifier=sources
