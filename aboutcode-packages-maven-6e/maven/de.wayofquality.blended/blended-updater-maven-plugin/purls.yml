@@ -1,0 +1,4 @@
+- pkg:maven/de.wayofquality.blended/blended-updater-maven-plugin@2.0-RC2
+- pkg:maven/de.wayofquality.blended/blended-updater-maven-plugin@2.0-RC2?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended-updater-maven-plugin@2.0-RC1
+- pkg:maven/de.wayofquality.blended/blended-updater-maven-plugin@2.0-RC1?classifier=sources

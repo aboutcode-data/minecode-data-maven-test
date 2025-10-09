@@ -22,3 +22,7 @@
 - pkg:maven/fm.jiecao/jiecaovideoplayer@2.0_preview?classifier=sources
 - pkg:maven/fm.jiecao/jiecaovideoplayer@2.0?type=aar
 - pkg:maven/fm.jiecao/jiecaovideoplayer@2.0?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@3.0_preview?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@3.0_preview?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@2.0_final?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@2.0_final?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.opencredo/concursus-hazelcast@0.4
 - pkg:maven/com.opencredo/concursus-hazelcast@0.4?classifier=sources
+- pkg:maven/com.opencredo/concursus-hazelcast@0.5
+- pkg:maven/com.opencredo/concursus-hazelcast@0.5?classifier=sources

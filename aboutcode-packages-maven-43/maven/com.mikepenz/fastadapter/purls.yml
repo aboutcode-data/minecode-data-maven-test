@@ -90,3 +90,5 @@
 - pkg:maven/com.mikepenz/fastadapter@1.4.3?classifier=sources
 - pkg:maven/com.mikepenz/fastadapter@1.4.2?type=aar
 - pkg:maven/com.mikepenz/fastadapter@1.4.2?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter@1.4.4?type=aar
+- pkg:maven/com.mikepenz/fastadapter@1.4.4?classifier=sources

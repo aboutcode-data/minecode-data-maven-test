@@ -36,3 +36,5 @@
 - pkg:maven/com.shipdream/service-core@2.0.0?classifier=sources
 - pkg:maven/com.shipdream/service-core@1.6.0
 - pkg:maven/com.shipdream/service-core@1.6.0?classifier=sources
+- pkg:maven/com.shipdream/service-core@2.2.0
+- pkg:maven/com.shipdream/service-core@2.2.0?classifier=sources

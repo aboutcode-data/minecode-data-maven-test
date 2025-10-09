@@ -20,3 +20,5 @@
 - pkg:maven/com.joyent.http-signature/google-http-client-signature@2.0.3?classifier=sources
 - pkg:maven/com.joyent.http-signature/google-http-client-signature@2.1.0
 - pkg:maven/com.joyent.http-signature/google-http-client-signature@2.1.0?classifier=sources
+- pkg:maven/com.joyent.http-signature/google-http-client-signature@2.2.0
+- pkg:maven/com.joyent.http-signature/google-http-client-signature@2.2.0?classifier=sources
