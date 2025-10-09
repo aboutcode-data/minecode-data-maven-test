@@ -234,3 +234,11 @@
 - pkg:maven/com.google.apis/google-api-services-run@v1-rev20190329-1.30.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-run@v1-rev20190329-1.29.2
 - pkg:maven/com.google.apis/google-api-services-run@v1-rev20190329-1.29.2?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-run@v1beta1-rev1-1.25.0
+- pkg:maven/com.google.apis/google-api-services-run@v1beta1-rev1-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-run@v1beta1-rev1-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-run@v1beta1-rev1-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-run@v1-rev20-1.25.0
+- pkg:maven/com.google.apis/google-api-services-run@v1-rev20-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-run@v1-rev20-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-run@v1-rev20-1.18.0-rc?classifier=sources

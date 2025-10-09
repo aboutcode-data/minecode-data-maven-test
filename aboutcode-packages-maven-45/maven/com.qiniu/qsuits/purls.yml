@@ -98,3 +98,5 @@
 - pkg:maven/com.qiniu/qsuits@6.33?classifier=sources
 - pkg:maven/com.qiniu/qsuits@7.0-beta
 - pkg:maven/com.qiniu/qsuits@7.0-beta?classifier=sources
+- pkg:maven/com.qiniu/qsuits@7.0
+- pkg:maven/com.qiniu/qsuits@7.0?classifier=sources

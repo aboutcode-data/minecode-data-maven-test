@@ -54,3 +54,5 @@
 - pkg:maven/com.google.truth/truth@0.46?classifier=sources
 - pkg:maven/com.google.truth/truth@1.0-rc2
 - pkg:maven/com.google.truth/truth@1.0-rc2?classifier=sources
+- pkg:maven/com.google.truth/truth@1.0
+- pkg:maven/com.google.truth/truth@1.0?classifier=sources

@@ -280,3 +280,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.2.7
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.19
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.19?classifier=sources-commercial

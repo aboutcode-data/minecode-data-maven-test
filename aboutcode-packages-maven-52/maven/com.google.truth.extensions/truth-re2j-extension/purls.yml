@@ -40,3 +40,5 @@
 - pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.46?classifier=sources
 - pkg:maven/com.google.truth.extensions/truth-re2j-extension@1.0-rc2
 - pkg:maven/com.google.truth.extensions/truth-re2j-extension@1.0-rc2?classifier=sources
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@1.0
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@1.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.daml.ledger/bindings-java@100.13.7?classifier=sources
 - pkg:maven/com.daml.ledger/bindings-java@100.13.10
 - pkg:maven/com.daml.ledger/bindings-java@100.13.10?classifier=sources
+- pkg:maven/com.daml.ledger/bindings-java@100.13.12
+- pkg:maven/com.daml.ledger/bindings-java@100.13.12?classifier=sources
+- pkg:maven/com.daml.ledger/bindings-java@100.13.11
+- pkg:maven/com.daml.ledger/bindings-java@100.13.11?classifier=sources

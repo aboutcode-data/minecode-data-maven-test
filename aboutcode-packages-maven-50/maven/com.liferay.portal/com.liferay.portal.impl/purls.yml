@@ -680,3 +680,9 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@3.40.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.57.5
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.57.5?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.5.4
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.5.4?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.5.3
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.5.3?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.5.2
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.5.2?classifier=sources
