@@ -122,3 +122,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-geolocation-googlemaps@5.3.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-geolocation-googlemaps@6.0.1
 - pkg:maven/org.apereo.cas/cas-server-support-geolocation-googlemaps@6.0.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-geolocation-googlemaps@6.1.0-RC1
+- pkg:maven/org.apereo.cas/cas-server-support-geolocation-googlemaps@6.1.0-RC1?classifier=sources

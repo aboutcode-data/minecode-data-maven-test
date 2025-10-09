@@ -32,3 +32,5 @@
 - pkg:maven/org.openjfx/javafx-graphics@11.0.2?classifier=sources
 - pkg:maven/org.openjfx/javafx-graphics@12-ea%2B10
 - pkg:maven/org.openjfx/javafx-graphics@12-ea%2B10?classifier=sources
+- pkg:maven/org.openjfx/javafx-graphics@12-ea%2B11
+- pkg:maven/org.openjfx/javafx-graphics@12-ea%2B11?classifier=sources
