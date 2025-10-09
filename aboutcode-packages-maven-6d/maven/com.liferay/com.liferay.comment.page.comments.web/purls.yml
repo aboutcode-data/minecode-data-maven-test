@@ -83,3 +83,9 @@
 - pkg:maven/com.liferay/com.liferay.comment.page.comments.web@1.0.19
 - pkg:maven/com.liferay/com.liferay.comment.page.comments.web@1.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.page.comments.web@1.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@2.0.7
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@2.0.7?classifier=sources-commercial

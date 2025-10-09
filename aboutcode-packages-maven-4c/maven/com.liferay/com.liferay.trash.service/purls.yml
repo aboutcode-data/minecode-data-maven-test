@@ -110,3 +110,11 @@
 - pkg:maven/com.liferay/com.liferay.trash.service@2.0.20
 - pkg:maven/com.liferay/com.liferay.trash.service@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.service@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.service@3.0.12
+- pkg:maven/com.liferay/com.liferay.trash.service@3.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.service@3.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.service@3.0.11
+- pkg:maven/com.liferay/com.liferay.trash.service@3.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.service@2.0.21
+- pkg:maven/com.liferay/com.liferay.trash.service@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.service@2.0.21?classifier=sources-commercial

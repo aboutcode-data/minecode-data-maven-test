@@ -431,3 +431,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.portal.search.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.32
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.31
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.62
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.61
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.61?classifier=sources-commercial

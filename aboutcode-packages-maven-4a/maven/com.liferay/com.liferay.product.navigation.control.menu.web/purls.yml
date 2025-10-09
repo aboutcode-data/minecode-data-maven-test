@@ -180,3 +180,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@2.0.27
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@2.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@4.0.19
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@4.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@4.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@3.0.17?classifier=sources-commercial

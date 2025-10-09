@@ -132,3 +132,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.google.docs@2.0.32
 - pkg:maven/com.liferay/com.liferay.document.library.google.docs@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.google.docs@2.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@3.0.6
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@3.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@3.0.6?classifier=sources-commercial

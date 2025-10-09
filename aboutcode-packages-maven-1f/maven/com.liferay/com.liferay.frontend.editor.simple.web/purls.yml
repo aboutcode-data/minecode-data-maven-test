@@ -78,3 +78,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@1.0.16
 - pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@1.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@1.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@3.0.5
+- pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@3.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@2.0.8
+- pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.editor.simple.web@2.0.8?classifier=sources-commercial

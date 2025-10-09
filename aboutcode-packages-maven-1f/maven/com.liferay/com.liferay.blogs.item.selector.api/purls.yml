@@ -35,3 +35,6 @@
 - pkg:maven/com.liferay/com.liferay.blogs.item.selector.api@1.1.4
 - pkg:maven/com.liferay/com.liferay.blogs.item.selector.api@1.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.item.selector.api@1.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.item.selector.api@2.0.2
+- pkg:maven/com.liferay/com.liferay.blogs.item.selector.api@2.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.item.selector.api@2.0.2?classifier=sources-commercial

@@ -130,3 +130,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.17
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@5.1.0
+- pkg:maven/com.liferay/com.liferay.sync.api@5.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@5.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@4.0.13
+- pkg:maven/com.liferay/com.liferay.sync.api@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@4.0.13?classifier=sources-commercial

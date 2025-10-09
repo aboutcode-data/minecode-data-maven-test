@@ -299,3 +299,15 @@
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.66
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.66?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.19
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.18
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.31
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.31?classifier=sources-commercial

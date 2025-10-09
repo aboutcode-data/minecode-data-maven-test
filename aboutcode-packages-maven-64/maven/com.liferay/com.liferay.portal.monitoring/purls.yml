@@ -200,3 +200,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@5.0.15
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@5.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@5.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.10
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.15
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.15?classifier=sources-commercial

@@ -301,3 +301,12 @@
 - pkg:maven/com.liferay/com.liferay.login.web@2.0.32
 - pkg:maven/com.liferay/com.liferay.login.web@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.web@2.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.web@4.0.18
+- pkg:maven/com.liferay/com.liferay.login.web@4.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.web@4.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.web@4.0.17
+- pkg:maven/com.liferay/com.liferay.login.web@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.web@4.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.web@3.0.33
+- pkg:maven/com.liferay/com.liferay.login.web@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.web@3.0.33?classifier=sources-commercial

@@ -121,3 +121,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.13
 - pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@3.0.20
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@3.0.19
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@3.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.14
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.taxonomy.impl@2.0.14?classifier=sources-commercial

@@ -31,3 +31,12 @@
 - pkg:maven/com.liferay/com.liferay.petra.function@3.1.0
 - pkg:maven/com.liferay/com.liferay.petra.function@3.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.function@3.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.function@3.2.0
+- pkg:maven/com.liferay/com.liferay.petra.function@3.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.function@3.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.function@2.3.0
+- pkg:maven/com.liferay/com.liferay.petra.function@2.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.function@2.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.function@1.2.0
+- pkg:maven/com.liferay/com.liferay.petra.function@1.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.function@1.2.0?classifier=sources-commercial

@@ -342,3 +342,15 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.32
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.23
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.22
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.46
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.45
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.45?classifier=sources-commercial

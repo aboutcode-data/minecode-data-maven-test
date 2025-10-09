@@ -34,3 +34,9 @@
 - pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@1.0.5
 - pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@1.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@3.0.5
+- pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@3.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@2.0.3
+- pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.my.account.permissions@2.0.3?classifier=sources-commercial

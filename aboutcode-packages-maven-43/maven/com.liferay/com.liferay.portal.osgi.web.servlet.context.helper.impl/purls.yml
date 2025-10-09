@@ -94,3 +94,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@1.0.20
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@1.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@2.0.12
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@2.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@1.0.21
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@1.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.impl@1.0.21?classifier=sources-commercial
