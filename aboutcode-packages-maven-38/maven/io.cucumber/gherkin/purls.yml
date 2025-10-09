@@ -16,3 +16,9 @@
 - pkg:maven/io.cucumber/gherkin@5.1.0?classifier=sources
 - pkg:maven/io.cucumber/gherkin@6.0.0
 - pkg:maven/io.cucumber/gherkin@6.0.0?classifier=sources
+- pkg:maven/io.cucumber/gherkin@6.0.14
+- pkg:maven/io.cucumber/gherkin@6.0.14?classifier=sources
+- pkg:maven/io.cucumber/gherkin@6.0.13
+- pkg:maven/io.cucumber/gherkin@6.0.13?classifier=sources
+- pkg:maven/io.cucumber/gherkin@6.0.10
+- pkg:maven/io.cucumber/gherkin@6.0.10?classifier=sources

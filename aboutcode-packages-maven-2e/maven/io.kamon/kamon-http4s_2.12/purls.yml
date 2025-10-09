@@ -16,3 +16,5 @@
 - pkg:maven/io.kamon/kamon-http4s_2.12@1.0.6?classifier=sources
 - pkg:maven/io.kamon/kamon-http4s_2.12@1.0.8
 - pkg:maven/io.kamon/kamon-http4s_2.12@1.0.8?classifier=sources
+- pkg:maven/io.kamon/kamon-http4s_2.12@1.0.10
+- pkg:maven/io.kamon/kamon-http4s_2.12@1.0.10?classifier=sources

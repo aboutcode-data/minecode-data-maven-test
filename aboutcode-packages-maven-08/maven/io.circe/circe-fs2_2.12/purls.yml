@@ -10,3 +10,5 @@
 - pkg:maven/io.circe/circe-fs2_2.12@0.9.0-M4?classifier=sources
 - pkg:maven/io.circe/circe-fs2_2.12@0.9.0
 - pkg:maven/io.circe/circe-fs2_2.12@0.9.0?classifier=sources
+- pkg:maven/io.circe/circe-fs2_2.12@0.10.0-M1
+- pkg:maven/io.circe/circe-fs2_2.12@0.10.0-M1?classifier=sources

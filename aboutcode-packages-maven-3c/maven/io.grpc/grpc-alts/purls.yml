@@ -12,3 +12,5 @@
 - pkg:maven/io.grpc/grpc-alts@1.14.0?classifier=sources
 - pkg:maven/io.grpc/grpc-alts@1.15.0
 - pkg:maven/io.grpc/grpc-alts@1.15.0?classifier=sources
+- pkg:maven/io.grpc/grpc-alts@1.15.1
+- pkg:maven/io.grpc/grpc-alts@1.15.1?classifier=sources
