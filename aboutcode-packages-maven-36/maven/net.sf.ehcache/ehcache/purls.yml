@@ -94,3 +94,5 @@
 - pkg:maven/net.sf.ehcache/ehcache@2.10.3?classifier=sources
 - pkg:maven/net.sf.ehcache/ehcache@2.8.9
 - pkg:maven/net.sf.ehcache/ehcache@2.8.9?classifier=sources
+- pkg:maven/net.sf.ehcache/ehcache@2.10.4
+- pkg:maven/net.sf.ehcache/ehcache@2.10.4?classifier=sources
