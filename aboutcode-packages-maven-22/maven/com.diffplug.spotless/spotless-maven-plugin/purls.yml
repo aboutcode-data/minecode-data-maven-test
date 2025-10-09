@@ -1,0 +1,4 @@
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.0.0.BETA2
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.0.0.BETA2?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.0.0.BETA1
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.0.0.BETA1?classifier=sources

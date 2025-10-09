@@ -12,3 +12,6 @@
 - pkg:maven/com.floragunn/search-guard-6@6.1.2-21.0?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.1.1-21.0?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.1.0-21.0?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.1-21.0?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2-21.0-api
+- pkg:maven/com.floragunn/search-guard-6@6.2-21.0-api?classifier=sources
