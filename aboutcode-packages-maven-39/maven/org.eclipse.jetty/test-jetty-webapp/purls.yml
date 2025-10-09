@@ -270,3 +270,5 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.16.v20170120?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.2.v20170220?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.2.v20170220?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.17.RC0?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.17.RC0?classifier=sources

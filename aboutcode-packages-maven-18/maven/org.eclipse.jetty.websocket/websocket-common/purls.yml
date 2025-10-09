@@ -184,3 +184,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.2.21.v20170120?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.4.2.v20170220
 - pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.4.2.v20170220?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.3.17.RC0
+- pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.3.17.RC0?classifier=sources
