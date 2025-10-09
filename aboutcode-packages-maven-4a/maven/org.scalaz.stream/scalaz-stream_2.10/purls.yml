@@ -14,3 +14,7 @@
 - pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8?classifier=sources
 - pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8a
 - pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8a?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8.1a
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8.1a?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8.1
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.8.1?classifier=sources
