@@ -112,3 +112,5 @@
 - pkg:maven/com.atlassian.asap/asap-client-feign@2.24.2?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-feign@2.24
 - pkg:maven/com.atlassian.asap/asap-client-feign@2.24?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-feign@2.25.0
+- pkg:maven/com.atlassian.asap/asap-client-feign@2.25.0?classifier=sources

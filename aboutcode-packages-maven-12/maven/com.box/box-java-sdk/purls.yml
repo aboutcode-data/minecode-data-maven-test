@@ -110,3 +110,7 @@
 - pkg:maven/com.box/box-java-sdk@2.38.0?classifier=sources
 - pkg:maven/com.box/box-java-sdk@2.39.0
 - pkg:maven/com.box/box-java-sdk@2.39.0?classifier=sources
+- pkg:maven/com.box/box-java-sdk@2.41.0
+- pkg:maven/com.box/box-java-sdk@2.41.0?classifier=sources
+- pkg:maven/com.box/box-java-sdk@2.40.0
+- pkg:maven/com.box/box-java-sdk@2.40.0?classifier=sources

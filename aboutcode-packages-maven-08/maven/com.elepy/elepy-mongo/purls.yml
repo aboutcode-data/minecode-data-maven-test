@@ -48,3 +48,5 @@
 - pkg:maven/com.elepy/elepy-mongo@2.2.3?classifier=sources
 - pkg:maven/com.elepy/elepy-mongo@2.2.9
 - pkg:maven/com.elepy/elepy-mongo@2.2.9?classifier=sources
+- pkg:maven/com.elepy/elepy-mongo@2.3.0
+- pkg:maven/com.elepy/elepy-mongo@2.3.0?classifier=sources
