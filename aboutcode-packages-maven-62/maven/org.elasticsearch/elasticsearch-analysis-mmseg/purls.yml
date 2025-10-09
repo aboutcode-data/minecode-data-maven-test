@@ -2,3 +2,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-mmseg@5.0.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-mmseg@5.0.2?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-mmseg@5.0.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-mmseg@5.1.1?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-mmseg@5.1.1?classifier=sources

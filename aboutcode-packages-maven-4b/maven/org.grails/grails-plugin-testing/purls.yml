@@ -188,3 +188,5 @@
 - pkg:maven/org.grails/grails-plugin-testing@3.2.1?classifier=sources
 - pkg:maven/org.grails/grails-plugin-testing@3.1.13
 - pkg:maven/org.grails/grails-plugin-testing@3.1.13?classifier=sources
+- pkg:maven/org.grails/grails-plugin-testing@3.2.4
+- pkg:maven/org.grails/grails-plugin-testing@3.2.4?classifier=sources
