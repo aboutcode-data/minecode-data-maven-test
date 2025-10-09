@@ -152,3 +152,7 @@
 - pkg:maven/org.uberfire/uberfire-client-api@1.1.0.Beta1?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-api@1.0.0.CR3
 - pkg:maven/org.uberfire/uberfire-client-api@1.0.0.CR3?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-api@1.1.0.Beta2
+- pkg:maven/org.uberfire/uberfire-client-api@1.1.0.Beta2?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-api@1.0.0.Final
+- pkg:maven/org.uberfire/uberfire-client-api@1.0.0.Final?classifier=sources
