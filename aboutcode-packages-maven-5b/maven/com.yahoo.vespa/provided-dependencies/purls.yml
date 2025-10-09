@@ -426,3 +426,5 @@
 - pkg:maven/com.yahoo.vespa/provided-dependencies@7.120.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/provided-dependencies@7.119.4
 - pkg:maven/com.yahoo.vespa/provided-dependencies@7.119.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/provided-dependencies@7.122.7
+- pkg:maven/com.yahoo.vespa/provided-dependencies@7.122.7?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.alpharogroup/mystic-crypt@7
 - pkg:maven/de.alpharogroup/mystic-crypt@7?classifier=sources
+- pkg:maven/de.alpharogroup/mystic-crypt@7.1
+- pkg:maven/de.alpharogroup/mystic-crypt@7.1?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.vaadin/flow-osgi@2.1.0.beta2?classifier=sources
 - pkg:maven/com.vaadin/flow-osgi@2.0.15
 - pkg:maven/com.vaadin/flow-osgi@2.0.15?classifier=sources
+- pkg:maven/com.vaadin/flow-osgi@2.0.16
+- pkg:maven/com.vaadin/flow-osgi@2.0.16?classifier=sources

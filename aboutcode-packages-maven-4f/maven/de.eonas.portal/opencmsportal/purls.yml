@@ -38,3 +38,5 @@
 - pkg:maven/de.eonas.portal/opencmsportal@10.5.1.7?classifier=sources
 - pkg:maven/de.eonas.portal/opencmsportal@10.5.1.8?type=war
 - pkg:maven/de.eonas.portal/opencmsportal@10.5.1.8?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@10.5.1.9?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@10.5.1.9?classifier=sources

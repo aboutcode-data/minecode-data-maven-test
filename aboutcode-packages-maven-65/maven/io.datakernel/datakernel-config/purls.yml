@@ -5,3 +5,4 @@
 - pkg:maven/io.datakernel/datakernel-config@3.0.0-rc
 - pkg:maven/io.datakernel/datakernel-config@3.0.0-rc?classifier=sources
 - pkg:maven/io.datakernel/datakernel-config@3.0.0
+- pkg:maven/io.datakernel/datakernel-config@3.0.0?classifier=sources

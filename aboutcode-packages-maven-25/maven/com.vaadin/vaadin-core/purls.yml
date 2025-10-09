@@ -63,3 +63,5 @@
 - pkg:maven/com.vaadin/vaadin-core@14.0.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-core@14.0.9
 - pkg:maven/com.vaadin/vaadin-core@14.0.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-core@14.0.10
+- pkg:maven/com.vaadin/vaadin-core@14.0.10?classifier=sources
