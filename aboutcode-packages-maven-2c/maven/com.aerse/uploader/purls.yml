@@ -4,3 +4,7 @@
 - pkg:maven/com.aerse/uploader@1.14?classifier=sources
 - pkg:maven/com.aerse/uploader@1.13
 - pkg:maven/com.aerse/uploader@1.13?classifier=sources
+- pkg:maven/com.aerse/uploader@1.16
+- pkg:maven/com.aerse/uploader@1.16?classifier=sources
+- pkg:maven/com.aerse/uploader@1.15
+- pkg:maven/com.aerse/uploader@1.15?classifier=sources

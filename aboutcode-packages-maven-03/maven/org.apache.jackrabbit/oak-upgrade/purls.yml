@@ -390,3 +390,7 @@
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.6.13?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.9.7
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.9.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.9.8
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.9.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.8.7
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.8.7?classifier=sources

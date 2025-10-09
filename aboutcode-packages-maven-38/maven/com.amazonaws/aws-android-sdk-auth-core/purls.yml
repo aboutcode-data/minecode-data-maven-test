@@ -56,3 +56,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.6.27?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.6.28?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.6.28?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.6.29?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.6.29?classifier=sources

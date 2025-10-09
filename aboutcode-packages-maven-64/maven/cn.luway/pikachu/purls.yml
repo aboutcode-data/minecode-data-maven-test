@@ -2,3 +2,7 @@
 - pkg:maven/cn.luway/pikachu@1.0.1-sonatype?classifier=sources
 - pkg:maven/cn.luway/pikachu@1.0.2-snapshot
 - pkg:maven/cn.luway/pikachu@1.0.2-snapshot?classifier=sources
+- pkg:maven/cn.luway/pikachu@1.1.1-snapshot
+- pkg:maven/cn.luway/pikachu@1.1.1-snapshot?classifier=sources
+- pkg:maven/cn.luway/pikachu@1.1.0-snapshot
+- pkg:maven/cn.luway/pikachu@1.1.0-snapshot?classifier=sources
