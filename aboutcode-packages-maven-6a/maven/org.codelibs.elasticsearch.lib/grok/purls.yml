@@ -58,3 +58,5 @@
 - pkg:maven/org.codelibs.elasticsearch.lib/grok@7.3.0?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.lib/grok@7.2.1
 - pkg:maven/org.codelibs.elasticsearch.lib/grok@7.2.1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.lib/grok@6.8.2
+- pkg:maven/org.codelibs.elasticsearch.lib/grok@6.8.2?classifier=sources

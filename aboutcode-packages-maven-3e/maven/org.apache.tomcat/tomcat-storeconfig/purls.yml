@@ -198,3 +198,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.22?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@8.5.43
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@8.5.43?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.24
+- pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.24?classifier=sources

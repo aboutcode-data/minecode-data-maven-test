@@ -366,3 +366,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.43?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.96
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.96?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.24
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.24?classifier=sources

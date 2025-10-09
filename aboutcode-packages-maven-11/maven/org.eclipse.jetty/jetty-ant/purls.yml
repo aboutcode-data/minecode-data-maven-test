@@ -292,3 +292,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.19.v20190610?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0-alpha0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.20.v20190813
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.20.v20190813?classifier=sources
