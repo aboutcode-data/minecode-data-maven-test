@@ -92,3 +92,5 @@
 - pkg:maven/org.hibernate/hibernate-jcache@5.3.13.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jcache@5.4.7.Final
 - pkg:maven/org.hibernate/hibernate-jcache@5.4.7.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jcache@5.4.8.Final
+- pkg:maven/org.hibernate/hibernate-jcache@5.4.8.Final?classifier=sources

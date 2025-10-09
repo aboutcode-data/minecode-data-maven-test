@@ -172,3 +172,5 @@
 - pkg:maven/org.neo4j.client/neo4j-browser@3.2.22?classifier=sources
 - pkg:maven/org.neo4j.client/neo4j-browser@3.2.21
 - pkg:maven/org.neo4j.client/neo4j-browser@3.2.21?classifier=sources
+- pkg:maven/org.neo4j.client/neo4j-browser@3.2.24
+- pkg:maven/org.neo4j.client/neo4j-browser@3.2.24?classifier=sources
