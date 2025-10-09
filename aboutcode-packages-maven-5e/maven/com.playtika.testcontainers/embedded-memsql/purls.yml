@@ -24,3 +24,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-memsql@1.13?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-memsql@1.14
 - pkg:maven/com.playtika.testcontainers/embedded-memsql@1.14?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-memsql@1.17
+- pkg:maven/com.playtika.testcontainers/embedded-memsql@1.17?classifier=sources

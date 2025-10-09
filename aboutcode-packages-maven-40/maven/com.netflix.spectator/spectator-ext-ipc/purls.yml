@@ -50,3 +50,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.82.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.81.2
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.81.2?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.83.0
+- pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.83.0?classifier=sources

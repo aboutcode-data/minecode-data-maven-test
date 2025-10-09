@@ -222,3 +222,5 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-api@4.8.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-api@4.9.0
 - pkg:maven/com.newrelic.agent.java/newrelic-api@4.9.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-api@4.10.0
+- pkg:maven/com.newrelic.agent.java/newrelic-api@4.10.0?classifier=sources
