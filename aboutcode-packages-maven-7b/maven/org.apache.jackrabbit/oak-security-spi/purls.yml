@@ -82,3 +82,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-security-spi@1.10.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-security-spi@1.16.0
 - pkg:maven/org.apache.jackrabbit/oak-security-spi@1.16.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-security-spi@1.10.4
+- pkg:maven/org.apache.jackrabbit/oak-security-spi@1.10.4?classifier=sources

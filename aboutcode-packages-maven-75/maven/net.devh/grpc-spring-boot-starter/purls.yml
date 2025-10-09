@@ -17,3 +17,5 @@
 - pkg:maven/net.devh/grpc-spring-boot-starter@1.4.2.RELEASE?classifier=sources
 - pkg:maven/net.devh/grpc-spring-boot-starter@2.5.0.RELEASE
 - pkg:maven/net.devh/grpc-spring-boot-starter@2.5.0.RELEASE?classifier=sources
+- pkg:maven/net.devh/grpc-spring-boot-starter@2.5.1.RELEASE
+- pkg:maven/net.devh/grpc-spring-boot-starter@2.5.1.RELEASE?classifier=sources
