@@ -4,3 +4,5 @@
 - pkg:maven/org.lionsoul/jcseg-elasticsearch@1.9.8?classifier=sources
 - pkg:maven/org.lionsoul/jcseg-elasticsearch@2.0.0
 - pkg:maven/org.lionsoul/jcseg-elasticsearch@2.0.0?classifier=sources
+- pkg:maven/org.lionsoul/jcseg-elasticsearch@2.0.1
+- pkg:maven/org.lionsoul/jcseg-elasticsearch@2.0.1?classifier=sources
