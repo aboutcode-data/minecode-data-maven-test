@@ -13,3 +13,5 @@
 - pkg:maven/net.roboconf/roboconf-dm-web-administration@0.7?classifier=sources
 - pkg:maven/net.roboconf/roboconf-dm-web-administration@0.8?type=war
 - pkg:maven/net.roboconf/roboconf-dm-web-administration@0.8?classifier=sources
+- pkg:maven/net.roboconf/roboconf-dm-web-administration@0.9?type=war
+- pkg:maven/net.roboconf/roboconf-dm-web-administration@0.9?classifier=sources

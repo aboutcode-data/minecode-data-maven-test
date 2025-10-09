@@ -1,0 +1,4 @@
+- pkg:maven/nl.myndocs/database-migrator@1.0.0-beta2
+- pkg:maven/nl.myndocs/database-migrator@1.0.0-beta2?classifier=sources
+- pkg:maven/nl.myndocs/database-migrator@1.0.0-beta1
+- pkg:maven/nl.myndocs/database-migrator@1.0.0-beta1?classifier=sources
