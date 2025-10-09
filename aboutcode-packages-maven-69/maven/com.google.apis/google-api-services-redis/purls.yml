@@ -118,3 +118,7 @@
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20180830-1.26.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev20180927-1.26.0
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev20180927-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20181031-1.26.0
+- pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20181031-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-redis@v1-rev20181031-1.26.0
+- pkg:maven/com.google.apis/google-api-services-redis@v1-rev20181031-1.26.0?classifier=sources

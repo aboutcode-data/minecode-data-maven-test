@@ -100,3 +100,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.test.util@1.4.9
 - pkg:maven/com.liferay/com.liferay.portal.search.test.util@1.4.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.test.util@1.4.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.test.util@2.1.12
+- pkg:maven/com.liferay/com.liferay.portal.search.test.util@2.1.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.test.util@2.1.12?classifier=sources-commercial

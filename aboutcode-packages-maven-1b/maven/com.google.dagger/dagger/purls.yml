@@ -56,3 +56,5 @@
 - pkg:maven/com.google.dagger/dagger@2.17?classifier=sources
 - pkg:maven/com.google.dagger/dagger@2.18
 - pkg:maven/com.google.dagger/dagger@2.18?classifier=sources
+- pkg:maven/com.google.dagger/dagger@2.19
+- pkg:maven/com.google.dagger/dagger@2.19?classifier=sources
