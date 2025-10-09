@@ -12,3 +12,5 @@
 - pkg:maven/org.wildfly.swarm/javafx@2016.9?classifier=sources
 - pkg:maven/org.wildfly.swarm/javafx@2016.10.0
 - pkg:maven/org.wildfly.swarm/javafx@2016.10.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/javafx@2016.11.0
+- pkg:maven/org.wildfly.swarm/javafx@2016.11.0?classifier=sources
