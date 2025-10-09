@@ -50,3 +50,5 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.11@2.4.0.RC2?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.11@2.4.0
 - pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.11@2.4.0?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.11@2.4.1
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.11@2.4.1?classifier=sources

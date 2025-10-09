@@ -408,3 +408,5 @@
 - pkg:maven/io.fabric8.forge/kubernetes@2.2.172?classifier=sources
 - pkg:maven/io.fabric8.forge/kubernetes@2.2.175
 - pkg:maven/io.fabric8.forge/kubernetes@2.2.175?classifier=sources
+- pkg:maven/io.fabric8.forge/kubernetes@2.2.176
+- pkg:maven/io.fabric8.forge/kubernetes@2.2.176?classifier=sources
