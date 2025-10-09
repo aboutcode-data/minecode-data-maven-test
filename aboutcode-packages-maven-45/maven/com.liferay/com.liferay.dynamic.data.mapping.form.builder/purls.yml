@@ -211,3 +211,6 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.49
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.49?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.49?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.26
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.26?classifier=sources-commercial

@@ -79,3 +79,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.service@1.0.21
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.service@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.service@1.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.service@2.0.7
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.service@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.service@2.0.7?classifier=sources-commercial

@@ -206,3 +206,9 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.web@3.0.8
 - pkg:maven/com.liferay/com.liferay.bookmarks.web@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.web@3.0.9
+- pkg:maven/com.liferay/com.liferay.bookmarks.web@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.web@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.web@2.0.29
+- pkg:maven/com.liferay/com.liferay.bookmarks.web@2.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.web@2.0.29?classifier=sources-commercial

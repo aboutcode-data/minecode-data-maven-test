@@ -173,3 +173,6 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.22
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.8
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.8?classifier=sources-commercial

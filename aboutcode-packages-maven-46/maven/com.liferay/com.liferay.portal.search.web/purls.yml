@@ -395,3 +395,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.56
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.24
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.57
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.57?classifier=sources-commercial
