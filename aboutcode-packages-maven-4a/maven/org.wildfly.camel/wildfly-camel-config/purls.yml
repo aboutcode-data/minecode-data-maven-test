@@ -60,3 +60,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@2.3.0.redhat-621211?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@5.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-config@5.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@5.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@5.1.0?classifier=sources
