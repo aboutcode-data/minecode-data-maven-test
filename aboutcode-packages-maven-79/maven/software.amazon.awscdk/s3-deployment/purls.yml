@@ -26,3 +26,5 @@
 - pkg:maven/software.amazon.awscdk/s3-deployment@0.21.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/s3-deployment@0.22.0
 - pkg:maven/software.amazon.awscdk/s3-deployment@0.22.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/s3-deployment@0.23.0
+- pkg:maven/software.amazon.awscdk/s3-deployment@0.23.0?classifier=sources

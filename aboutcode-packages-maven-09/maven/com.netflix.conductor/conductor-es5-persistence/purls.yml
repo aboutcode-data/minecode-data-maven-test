@@ -166,3 +166,5 @@
 - pkg:maven/com.netflix.conductor/conductor-es5-persistence@2.5.3?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-es5-persistence@2.6.0
 - pkg:maven/com.netflix.conductor/conductor-es5-persistence@2.6.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-es5-persistence@2.6.1
+- pkg:maven/com.netflix.conductor/conductor-es5-persistence@2.6.1?classifier=sources

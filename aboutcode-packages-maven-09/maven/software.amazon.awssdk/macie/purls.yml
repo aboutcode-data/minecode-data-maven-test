@@ -30,3 +30,5 @@
 - pkg:maven/software.amazon.awssdk/macie@2.3.7?classifier=sources
 - pkg:maven/software.amazon.awssdk/macie@2.3.6
 - pkg:maven/software.amazon.awssdk/macie@2.3.6?classifier=sources
+- pkg:maven/software.amazon.awssdk/macie@2.4.0
+- pkg:maven/software.amazon.awssdk/macie@2.4.0?classifier=sources

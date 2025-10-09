@@ -228,3 +228,5 @@
 - pkg:maven/com.netflix.conductor/conductor-server@2.5.3?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@2.6.0?type=war
 - pkg:maven/com.netflix.conductor/conductor-server@2.6.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@2.6.1?type=war
+- pkg:maven/com.netflix.conductor/conductor-server@2.6.1?classifier=sources
