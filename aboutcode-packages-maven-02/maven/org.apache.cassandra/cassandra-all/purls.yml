@@ -352,3 +352,7 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.12?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.13
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.13?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@3.11.0
+- pkg:maven/org.apache.cassandra/cassandra-all@3.11.0?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@3.0.14
+- pkg:maven/org.apache.cassandra/cassandra-all@3.0.14?classifier=sources

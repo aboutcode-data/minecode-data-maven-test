@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-dom@2.0.10?classifier=sources
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-dom@2.1.9
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-dom@2.1.9?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-dom@2.1.10
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-dom@2.1.10?classifier=sources

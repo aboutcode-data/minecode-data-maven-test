@@ -54,3 +54,7 @@
 - pkg:maven/me.atam/acceptance-tests@0.56?classifier=sources
 - pkg:maven/me.atam/acceptance-tests@0.55
 - pkg:maven/me.atam/acceptance-tests@0.55?classifier=sources
+- pkg:maven/me.atam/acceptance-tests@0.58
+- pkg:maven/me.atam/acceptance-tests@0.58?classifier=sources
+- pkg:maven/me.atam/acceptance-tests@0.57
+- pkg:maven/me.atam/acceptance-tests@0.57?classifier=sources
