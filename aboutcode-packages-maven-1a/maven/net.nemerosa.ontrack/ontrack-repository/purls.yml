@@ -273,3 +273,6 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-repository@2.32.2
 - pkg:maven/net.nemerosa.ontrack/ontrack-repository@2.32.2?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-repository@2.32.4
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository@2.32.4?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository@2.32.3
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository@2.32.3?classifier=sources
