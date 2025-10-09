@@ -88,3 +88,5 @@
 - pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@1.0.4?classifier=sources
 - pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@1.0.5?type=war
 - pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@1.0.5?classifier=sources
+- pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@1.1.0?type=war
+- pkg:maven/io.joynr.tests/inter-language-test-jee-consumer@1.1.0?classifier=sources

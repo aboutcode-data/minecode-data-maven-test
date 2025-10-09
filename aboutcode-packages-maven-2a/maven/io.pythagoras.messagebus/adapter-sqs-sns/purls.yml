@@ -1,2 +1,4 @@
 - pkg:maven/io.pythagoras.messagebus/adapter-sqs-sns@1.1.0
 - pkg:maven/io.pythagoras.messagebus/adapter-sqs-sns@1.1.0?classifier=sources
+- pkg:maven/io.pythagoras.messagebus/adapter-sqs-sns@1.2.0
+- pkg:maven/io.pythagoras.messagebus/adapter-sqs-sns@1.2.0?classifier=sources

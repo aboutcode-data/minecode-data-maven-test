@@ -174,3 +174,5 @@
 - pkg:maven/io.joynr.java.messaging.bounceproxy/single-bounceproxy@1.0.4?classifier=sources
 - pkg:maven/io.joynr.java.messaging.bounceproxy/single-bounceproxy@1.0.5?type=war
 - pkg:maven/io.joynr.java.messaging.bounceproxy/single-bounceproxy@1.0.5?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/single-bounceproxy@1.1.0?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/single-bounceproxy@1.1.0?classifier=sources
