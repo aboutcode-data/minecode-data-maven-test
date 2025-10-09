@@ -86,3 +86,5 @@
 - pkg:maven/org.slf4j/slf4j-ext@1.7.24?classifier=sources
 - pkg:maven/org.slf4j/slf4j-ext@1.7.25
 - pkg:maven/org.slf4j/slf4j-ext@1.7.25?classifier=sources
+- pkg:maven/org.slf4j/slf4j-ext@1.8.0-alpha0
+- pkg:maven/org.slf4j/slf4j-ext@1.8.0-alpha0?classifier=sources

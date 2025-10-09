@@ -4,3 +4,5 @@
 - pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.5.8?classifier=sources
 - pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.5.11?type=war
 - pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.5.11?classifier=sources
+- pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.5.15?type=war
+- pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.5.15?classifier=sources
