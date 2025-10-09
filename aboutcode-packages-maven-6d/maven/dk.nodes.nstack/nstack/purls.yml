@@ -68,3 +68,5 @@
 - pkg:maven/dk.nodes.nstack/nstack@0.76?classifier=sources
 - pkg:maven/dk.nodes.nstack/nstack@0.77?type=aar
 - pkg:maven/dk.nodes.nstack/nstack@0.77?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack@0.78?type=aar
+- pkg:maven/dk.nodes.nstack/nstack@0.78?classifier=sources
