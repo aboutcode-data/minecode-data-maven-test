@@ -80,3 +80,7 @@
 - pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev8-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev8-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev8-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev20181107-1.26.0
+- pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev20181107-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev20181103-1.26.0
+- pkg:maven/com.google.apis/google-api-services-alertcenter@v1beta1-rev20181103-1.26.0?classifier=sources

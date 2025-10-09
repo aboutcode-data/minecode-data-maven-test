@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.spring.data.gremlin/spring-data-gremlin@2.0.0
 - pkg:maven/com.microsoft.spring.data.gremlin/spring-data-gremlin@2.0.0?classifier=sources
+- pkg:maven/com.microsoft.spring.data.gremlin/spring-data-gremlin@2.0.1.M1
+- pkg:maven/com.microsoft.spring.data.gremlin/spring-data-gremlin@2.0.1.M1?classifier=sources

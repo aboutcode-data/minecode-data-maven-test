@@ -56,3 +56,5 @@
 - pkg:maven/com.nuodb.jdbc/nuodb-jdbc@3.2.2?classifier=sources
 - pkg:maven/com.nuodb.jdbc/nuodb-jdbc@3.3.0
 - pkg:maven/com.nuodb.jdbc/nuodb-jdbc@3.3.0?classifier=sources
+- pkg:maven/com.nuodb.jdbc/nuodb-jdbc@3.3.0-SNAPSHOT-24d1311a
+- pkg:maven/com.nuodb.jdbc/nuodb-jdbc@3.3.0-SNAPSHOT-24d1311a?classifier=sources

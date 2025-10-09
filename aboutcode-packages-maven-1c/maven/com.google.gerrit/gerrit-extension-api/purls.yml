@@ -170,3 +170,7 @@
 - pkg:maven/com.google.gerrit/gerrit-extension-api@2.14.16?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-extension-api@2.16-rc2
 - pkg:maven/com.google.gerrit/gerrit-extension-api@2.16-rc2?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-extension-api@2.16-rc3
+- pkg:maven/com.google.gerrit/gerrit-extension-api@2.16-rc3?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-extension-api@2.14.17
+- pkg:maven/com.google.gerrit/gerrit-extension-api@2.14.17?classifier=sources

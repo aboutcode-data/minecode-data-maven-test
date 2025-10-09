@@ -68,3 +68,5 @@
 - pkg:maven/com.lightstep.tracer/java-common@0.15.8?classifier=sources
 - pkg:maven/com.lightstep.tracer/java-common@0.15.7
 - pkg:maven/com.lightstep.tracer/java-common@0.15.7?classifier=sources
+- pkg:maven/com.lightstep.tracer/java-common@0.15.9
+- pkg:maven/com.lightstep.tracer/java-common@0.15.9?classifier=sources

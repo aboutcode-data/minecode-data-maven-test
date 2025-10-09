@@ -22,3 +22,7 @@
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.12.2?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.13.0
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.13.0?classifier=sources
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.14.0
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.14.0?classifier=sources
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.13.1
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale-signalfx@0.13.1?classifier=sources
