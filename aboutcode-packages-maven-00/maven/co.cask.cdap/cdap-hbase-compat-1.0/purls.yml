@@ -72,3 +72,5 @@
 - pkg:maven/co.cask.cdap/cdap-hbase-compat-1.0@4.3.4?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-hbase-compat-1.0@5.0.0
 - pkg:maven/co.cask.cdap/cdap-hbase-compat-1.0@5.0.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-hbase-compat-1.0@5.1.0
+- pkg:maven/co.cask.cdap/cdap-hbase-compat-1.0@5.1.0?classifier=sources

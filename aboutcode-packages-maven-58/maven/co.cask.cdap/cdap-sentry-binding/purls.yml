@@ -20,3 +20,5 @@
 - pkg:maven/co.cask.cdap/cdap-sentry-binding@0.6.5?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-sentry-binding@0.7.0
 - pkg:maven/co.cask.cdap/cdap-sentry-binding@0.7.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-sentry-binding@0.8.0
+- pkg:maven/co.cask.cdap/cdap-sentry-binding@0.8.0?classifier=sources

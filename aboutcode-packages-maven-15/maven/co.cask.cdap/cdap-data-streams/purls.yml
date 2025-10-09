@@ -36,3 +36,5 @@
 - pkg:maven/co.cask.cdap/cdap-data-streams@4.3.4?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-data-streams@5.0.0
 - pkg:maven/co.cask.cdap/cdap-data-streams@5.0.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-data-streams@5.1.0
+- pkg:maven/co.cask.cdap/cdap-data-streams@5.1.0?classifier=sources

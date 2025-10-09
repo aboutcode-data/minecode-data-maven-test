@@ -10,3 +10,5 @@
 - pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.17?classifier=sources
 - pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.19?type=war
 - pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.19?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.20?type=war
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.20?classifier=sources
