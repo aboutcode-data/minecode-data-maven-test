@@ -97,3 +97,5 @@
 - pkg:maven/org.liquibase/liquibase-maven-plugin@3.8.0
 - pkg:maven/org.liquibase/liquibase-maven-plugin@3.8.0?classifier=sources
 - pkg:maven/org.liquibase/liquibase-maven-plugin@3.8.1
+- pkg:maven/org.liquibase/liquibase-maven-plugin@3.8.2
+- pkg:maven/org.liquibase/liquibase-maven-plugin@3.8.2?classifier=sources

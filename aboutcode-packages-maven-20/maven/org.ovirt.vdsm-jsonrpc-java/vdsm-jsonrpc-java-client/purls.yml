@@ -134,3 +134,7 @@
 - pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.4.17?classifier=sources
 - pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.4.18
 - pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.4.18?classifier=sources
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.5.1
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.5.1?classifier=sources
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.5.0
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.5.0?classifier=sources

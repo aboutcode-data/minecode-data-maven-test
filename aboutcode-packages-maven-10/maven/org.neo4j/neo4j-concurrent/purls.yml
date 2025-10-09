@@ -50,3 +50,5 @@
 - pkg:maven/org.neo4j/neo4j-concurrent@3.5.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-concurrent@3.5.12
 - pkg:maven/org.neo4j/neo4j-concurrent@3.5.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j-concurrent@3.5.13
+- pkg:maven/org.neo4j/neo4j-concurrent@3.5.13?classifier=sources
