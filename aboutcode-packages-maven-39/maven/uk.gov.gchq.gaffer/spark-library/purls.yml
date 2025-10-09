@@ -34,3 +34,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/spark-library@0.7.6?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/spark-library@0.7.8
 - pkg:maven/uk.gov.gchq.gaffer/spark-library@0.7.8?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/spark-library@1.0.0-RC1
+- pkg:maven/uk.gov.gchq.gaffer/spark-library@1.0.0-RC1?classifier=sources

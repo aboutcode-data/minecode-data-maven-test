@@ -94,3 +94,7 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@5.4.11?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@6.0.0-M4
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@6.0.0-M4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@5.5.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@5.5.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@5.4.12
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-circe_2.11@5.4.12?classifier=sources

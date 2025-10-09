@@ -12,3 +12,5 @@
 - pkg:maven/tech.tablesaw/tablesaw-plot@0.9.2?classifier=sources
 - pkg:maven/tech.tablesaw/tablesaw-plot@0.9.1
 - pkg:maven/tech.tablesaw/tablesaw-plot@0.9.1?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-plot@0.10.0
+- pkg:maven/tech.tablesaw/tablesaw-plot@0.10.0?classifier=sources

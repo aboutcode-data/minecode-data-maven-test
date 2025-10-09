@@ -150,3 +150,7 @@
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.3.0-alpha-3?classifier=sources
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.3.0-alpha-2
 - pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.3.0-alpha-2?classifier=sources
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.2.1-RC2
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.2.1-RC2?classifier=sources
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.2.1
+- pkg:maven/nl.jpoint.vertx-deploy-tools/vertx-deploy-maven-plugin@3.2.1?classifier=sources

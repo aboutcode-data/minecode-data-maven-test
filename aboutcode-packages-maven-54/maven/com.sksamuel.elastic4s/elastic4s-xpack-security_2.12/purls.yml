@@ -68,3 +68,7 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.4.10?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.4.11
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.4.11?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.5.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.5.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.4.12
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-xpack-security_2.12@5.4.12?classifier=sources
