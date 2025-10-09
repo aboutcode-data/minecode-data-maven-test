@@ -36,3 +36,7 @@
 - pkg:maven/org.pac4j/play-pac4j@4.0.0-RC1?classifier=sources
 - pkg:maven/org.pac4j/play-pac4j@4.0.0
 - pkg:maven/org.pac4j/play-pac4j@4.0.0?classifier=sources
+- pkg:maven/org.pac4j/play-pac4j@4.1.0
+- pkg:maven/org.pac4j/play-pac4j@4.1.0?classifier=sources
+- pkg:maven/org.pac4j/play-pac4j@3.1.0
+- pkg:maven/org.pac4j/play-pac4j@3.1.0?classifier=sources

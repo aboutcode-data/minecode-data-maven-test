@@ -6,3 +6,5 @@
 - pkg:maven/org.openbaton/common@5.0.0-RC2?classifier=sources
 - pkg:maven/org.openbaton/common@5.0.0
 - pkg:maven/org.openbaton/common@5.0.0?classifier=sources
+- pkg:maven/org.openbaton/common@5.1.0
+- pkg:maven/org.openbaton/common@5.1.0?classifier=sources

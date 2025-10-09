@@ -15,3 +15,6 @@
 - pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.2.7
 - pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0-alpha01
 - pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0-alpha02
+- pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.2.8

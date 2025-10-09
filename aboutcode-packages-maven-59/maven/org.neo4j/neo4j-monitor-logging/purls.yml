@@ -40,3 +40,5 @@
 - pkg:maven/org.neo4j/neo4j-monitor-logging@3.0.12?classifier=sources
 - pkg:maven/org.neo4j/neo4j-monitor-logging@3.2.7
 - pkg:maven/org.neo4j/neo4j-monitor-logging@3.2.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-monitor-logging@3.2.8
+- pkg:maven/org.neo4j/neo4j-monitor-logging@3.2.8?classifier=sources

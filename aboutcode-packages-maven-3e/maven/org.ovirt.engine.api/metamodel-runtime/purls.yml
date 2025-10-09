@@ -102,3 +102,5 @@
 - pkg:maven/org.ovirt.engine.api/metamodel-runtime@1.2.13?classifier=sources
 - pkg:maven/org.ovirt.engine.api/metamodel-runtime@1.1.16
 - pkg:maven/org.ovirt.engine.api/metamodel-runtime@1.1.16?classifier=sources
+- pkg:maven/org.ovirt.engine.api/metamodel-runtime@1.2.15
+- pkg:maven/org.ovirt.engine.api/metamodel-runtime@1.2.15?classifier=sources
