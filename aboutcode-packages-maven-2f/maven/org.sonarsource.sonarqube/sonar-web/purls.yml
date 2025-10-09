@@ -60,3 +60,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@6.3-RC4?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@6.3?type=war
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@6.3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@6.3.1?type=war
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@6.3.1?classifier=sources
