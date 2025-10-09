@@ -3,3 +3,4 @@
 - pkg:maven/io.prestosql/presto-server-rpm@302?classifier=sources
 - pkg:maven/io.prestosql/presto-server-rpm@303?classifier=sources
 - pkg:maven/io.prestosql/presto-server-rpm@304?classifier=sources
+- pkg:maven/io.prestosql/presto-server-rpm@305?classifier=sources

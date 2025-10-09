@@ -308,3 +308,7 @@
 - pkg:maven/com.yahoo.vespa/predicate-search-core@7.20.129?classifier=sources
 - pkg:maven/com.yahoo.vespa/predicate-search-core@7.21.18
 - pkg:maven/com.yahoo.vespa/predicate-search-core@7.21.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/predicate-search-core@7.23.20
+- pkg:maven/com.yahoo.vespa/predicate-search-core@7.23.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/predicate-search-core@7.22.18
+- pkg:maven/com.yahoo.vespa/predicate-search-core@7.22.18?classifier=sources

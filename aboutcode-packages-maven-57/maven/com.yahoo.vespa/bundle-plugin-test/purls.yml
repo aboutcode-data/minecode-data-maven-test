@@ -127,3 +127,5 @@
 - pkg:maven/com.yahoo.vespa/bundle-plugin-test@7.16.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/bundle-plugin-test@7.20.129?classifier=sources
 - pkg:maven/com.yahoo.vespa/bundle-plugin-test@7.21.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@7.23.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@7.22.18?classifier=sources
