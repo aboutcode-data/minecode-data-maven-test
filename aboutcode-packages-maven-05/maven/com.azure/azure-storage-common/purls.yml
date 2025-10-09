@@ -4,3 +4,5 @@
 - pkg:maven/com.azure/azure-storage-common@12.0.0-preview.4?classifier=sources
 - pkg:maven/com.azure/azure-storage-common@12.0.0
 - pkg:maven/com.azure/azure-storage-common@12.0.0?classifier=sources
+- pkg:maven/com.azure/azure-storage-common@12.0.1
+- pkg:maven/com.azure/azure-storage-common@12.0.1?classifier=sources
