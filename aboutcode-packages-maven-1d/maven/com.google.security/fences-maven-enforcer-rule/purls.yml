@@ -10,3 +10,5 @@
 - pkg:maven/com.google.security/fences-maven-enforcer-rule@1.5-beta?classifier=sources
 - pkg:maven/com.google.security/fences-maven-enforcer-rule@1.6-beta
 - pkg:maven/com.google.security/fences-maven-enforcer-rule@1.6-beta?classifier=sources
+- pkg:maven/com.google.security/fences-maven-enforcer-rule@1.7-beta
+- pkg:maven/com.google.security/fences-maven-enforcer-rule@1.7-beta?classifier=sources
