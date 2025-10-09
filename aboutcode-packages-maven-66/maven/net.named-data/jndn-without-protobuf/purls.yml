@@ -22,3 +22,5 @@
 - pkg:maven/net.named-data/jndn-without-protobuf@0.16?classifier=sources
 - pkg:maven/net.named-data/jndn-without-protobuf@0.17
 - pkg:maven/net.named-data/jndn-without-protobuf@0.17?classifier=sources
+- pkg:maven/net.named-data/jndn-without-protobuf@0.18
+- pkg:maven/net.named-data/jndn-without-protobuf@0.18?classifier=sources

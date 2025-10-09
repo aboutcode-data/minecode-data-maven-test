@@ -9,3 +9,4 @@
 - pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.5
 - pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.5?classifier=sources
 - pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.7
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.7?classifier=sources

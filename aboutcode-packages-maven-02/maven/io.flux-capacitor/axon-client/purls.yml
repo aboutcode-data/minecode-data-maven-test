@@ -64,3 +64,5 @@
 - pkg:maven/io.flux-capacitor/axon-client@0.24?classifier=sources
 - pkg:maven/io.flux-capacitor/axon-client@0.23
 - pkg:maven/io.flux-capacitor/axon-client@0.23?classifier=sources
+- pkg:maven/io.flux-capacitor/axon-client@0.27
+- pkg:maven/io.flux-capacitor/axon-client@0.27?classifier=sources

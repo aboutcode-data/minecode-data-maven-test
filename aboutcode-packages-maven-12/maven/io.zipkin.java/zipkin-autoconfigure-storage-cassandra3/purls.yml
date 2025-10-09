@@ -196,3 +196,5 @@
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-cassandra3@2.10.2?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-cassandra3@2.10.3
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-cassandra3@2.10.3?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-cassandra3@2.10.4
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-cassandra3@2.10.4?classifier=sources

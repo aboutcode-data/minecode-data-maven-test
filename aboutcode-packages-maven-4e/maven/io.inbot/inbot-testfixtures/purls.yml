@@ -16,3 +16,5 @@
 - pkg:maven/io.inbot/inbot-testfixtures@1.8?classifier=sources
 - pkg:maven/io.inbot/inbot-testfixtures@1.7
 - pkg:maven/io.inbot/inbot-testfixtures@1.7?classifier=sources
+- pkg:maven/io.inbot/inbot-testfixtures@1.9
+- pkg:maven/io.inbot/inbot-testfixtures@1.9?classifier=sources

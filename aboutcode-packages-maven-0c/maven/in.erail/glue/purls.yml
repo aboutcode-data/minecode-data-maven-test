@@ -4,3 +4,5 @@
 - pkg:maven/in.erail/glue@1.0?classifier=sources
 - pkg:maven/in.erail/glue@2.2
 - pkg:maven/in.erail/glue@2.2?classifier=sources
+- pkg:maven/in.erail/glue@2.3
+- pkg:maven/in.erail/glue@2.3?classifier=sources
