@@ -168,3 +168,7 @@
 - pkg:maven/io.sundr.examples/kubernetes@1.14.0?classifier=sources
 - pkg:maven/io.sundr.examples/kubernetes@0.14.0
 - pkg:maven/io.sundr.examples/kubernetes@0.14.0?classifier=sources
+- pkg:maven/io.sundr.examples/kubernetes@0.14.2
+- pkg:maven/io.sundr.examples/kubernetes@0.14.2?classifier=sources
+- pkg:maven/io.sundr.examples/kubernetes@0.14.1
+- pkg:maven/io.sundr.examples/kubernetes@0.14.1?classifier=sources

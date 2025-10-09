@@ -152,3 +152,5 @@
 - pkg:maven/net.openhft/chronicle-threads@1.16.2?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@1.16.4
 - pkg:maven/net.openhft/chronicle-threads@1.16.4?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@2.17.0
+- pkg:maven/net.openhft/chronicle-threads@2.17.0?classifier=sources

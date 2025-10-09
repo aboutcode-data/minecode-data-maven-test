@@ -130,3 +130,5 @@
 - pkg:maven/net.snowflake/snowflake-jdbc@3.6.14?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc@3.6.16
 - pkg:maven/net.snowflake/snowflake-jdbc@3.6.16?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.6.17
+- pkg:maven/net.snowflake/snowflake-jdbc@3.6.17?classifier=sources

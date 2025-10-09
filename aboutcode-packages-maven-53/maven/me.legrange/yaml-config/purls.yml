@@ -1,2 +1,4 @@
 - pkg:maven/me.legrange/yaml-config@1.0
 - pkg:maven/me.legrange/yaml-config@1.0?classifier=sources
+- pkg:maven/me.legrange/yaml-config@2.0
+- pkg:maven/me.legrange/yaml-config@2.0?classifier=sources

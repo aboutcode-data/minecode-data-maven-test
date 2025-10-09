@@ -26,3 +26,5 @@
 - pkg:maven/jp.nephy/jsonkt@3.3?classifier=sources
 - pkg:maven/jp.nephy/jsonkt@3.2
 - pkg:maven/jp.nephy/jsonkt@3.2?classifier=sources
+- pkg:maven/jp.nephy/jsonkt@4.0
+- pkg:maven/jp.nephy/jsonkt@4.0?classifier=sources
