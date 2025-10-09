@@ -58,3 +58,5 @@
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M2?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M3
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M3?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.2
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.2?classifier=sources

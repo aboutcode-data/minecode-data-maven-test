@@ -5,3 +5,5 @@
 - pkg:maven/org.apache.tomee/log4j2-tomee@7.0.0-M2?classifier=sources
 - pkg:maven/org.apache.tomee/log4j2-tomee@7.0.0-M3
 - pkg:maven/org.apache.tomee/log4j2-tomee@7.0.0-M3?classifier=sources
+- pkg:maven/org.apache.tomee/log4j2-tomee@7.0.0
+- pkg:maven/org.apache.tomee/log4j2-tomee@7.0.0?classifier=sources

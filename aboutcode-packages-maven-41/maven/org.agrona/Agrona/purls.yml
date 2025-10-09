@@ -2,3 +2,5 @@
 - pkg:maven/org.agrona/Agrona@0.4.13?classifier=sources
 - pkg:maven/org.agrona/Agrona@0.5
 - pkg:maven/org.agrona/Agrona@0.5?classifier=sources
+- pkg:maven/org.agrona/Agrona@0.5.1
+- pkg:maven/org.agrona/Agrona@0.5.1?classifier=sources
