@@ -312,3 +312,5 @@
 - pkg:maven/com.hazelcast/hazelcast-client@3.9.4?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-client@3.10
 - pkg:maven/com.hazelcast/hazelcast-client@3.10?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client@3.10.1
+- pkg:maven/com.hazelcast/hazelcast-client@3.10.1?classifier=sources

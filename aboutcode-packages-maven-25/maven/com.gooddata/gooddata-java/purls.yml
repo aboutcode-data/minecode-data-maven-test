@@ -110,3 +110,5 @@
 - pkg:maven/com.gooddata/gooddata-java@2.23.0?classifier=sources
 - pkg:maven/com.gooddata/gooddata-java@2.25.0
 - pkg:maven/com.gooddata/gooddata-java@2.25.0?classifier=sources
+- pkg:maven/com.gooddata/gooddata-java@2.25.1
+- pkg:maven/com.gooddata/gooddata-java@2.25.1?classifier=sources

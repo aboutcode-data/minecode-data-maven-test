@@ -8,3 +8,5 @@
 - pkg:maven/com.hreeinfo.plugins/gradle-corebox-vaadin-plugin@0.3?classifier=sources
 - pkg:maven/com.hreeinfo.plugins/gradle-corebox-vaadin-plugin@0.9
 - pkg:maven/com.hreeinfo.plugins/gradle-corebox-vaadin-plugin@0.9?classifier=sources
+- pkg:maven/com.hreeinfo.plugins/gradle-corebox-vaadin-plugin@1.0
+- pkg:maven/com.hreeinfo.plugins/gradle-corebox-vaadin-plugin@1.0?classifier=sources
