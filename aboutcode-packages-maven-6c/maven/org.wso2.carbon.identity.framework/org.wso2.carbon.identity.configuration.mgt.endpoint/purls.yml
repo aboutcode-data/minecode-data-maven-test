@@ -42,3 +42,7 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.256?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.255?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.255?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.260?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.260?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.259?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.endpoint@5.12.259?classifier=sources

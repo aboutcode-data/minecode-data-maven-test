@@ -1,0 +1,2 @@
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.8
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.8?classifier=sources

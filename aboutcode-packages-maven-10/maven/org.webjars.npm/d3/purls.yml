@@ -86,3 +86,5 @@
 - pkg:maven/org.webjars.npm/d3@5.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/d3@5.7.0
 - pkg:maven/org.webjars.npm/d3@5.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3@5.8.2
+- pkg:maven/org.webjars.npm/d3@5.8.2?classifier=sources

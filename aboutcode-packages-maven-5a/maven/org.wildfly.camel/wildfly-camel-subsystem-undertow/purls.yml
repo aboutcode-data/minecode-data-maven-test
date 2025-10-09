@@ -44,3 +44,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-undertow@8.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-undertow@9.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-undertow@9.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-undertow@9.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-undertow@9.1.0?classifier=sources

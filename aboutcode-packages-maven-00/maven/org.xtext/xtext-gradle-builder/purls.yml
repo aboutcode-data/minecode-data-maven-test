@@ -52,3 +52,5 @@
 - pkg:maven/org.xtext/xtext-gradle-builder@2.0.0?classifier=sources
 - pkg:maven/org.xtext/xtext-gradle-builder@2.0.2
 - pkg:maven/org.xtext/xtext-gradle-builder@2.0.2?classifier=sources
+- pkg:maven/org.xtext/xtext-gradle-builder@2.0.3
+- pkg:maven/org.xtext/xtext-gradle-builder@2.0.3?classifier=sources

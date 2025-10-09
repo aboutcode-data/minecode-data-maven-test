@@ -1516,3 +1516,5 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.admin@6.4.111?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.admin@6.4.110?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.admin@6.4.110?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.admin@7.0.243
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.admin@7.0.243?classifier=sources
