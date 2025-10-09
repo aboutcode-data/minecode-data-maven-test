@@ -48,3 +48,7 @@
 - pkg:maven/org.siani.javafmi/fmu-wrapper@2.18.8?classifier=sources
 - pkg:maven/org.siani.javafmi/fmu-wrapper@2.20.0
 - pkg:maven/org.siani.javafmi/fmu-wrapper@2.20.0?classifier=sources
+- pkg:maven/org.siani.javafmi/fmu-wrapper@2.20.2
+- pkg:maven/org.siani.javafmi/fmu-wrapper@2.20.2?classifier=sources
+- pkg:maven/org.siani.javafmi/fmu-wrapper@2.20.1
+- pkg:maven/org.siani.javafmi/fmu-wrapper@2.20.1?classifier=sources
