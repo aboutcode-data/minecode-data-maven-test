@@ -6,3 +6,5 @@
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.6.1?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.6.2
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.6.2?classifier=sources
+- pkg:maven/com.google.auto.value/auto-value-annotations@1.6.3rc1
+- pkg:maven/com.google.auto.value/auto-value-annotations@1.6.3rc1?classifier=sources
