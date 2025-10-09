@@ -62,3 +62,5 @@
 - pkg:maven/com.trueaccord.scalapb/scalapb-runtime-grpc_2.10@0.5.47?classifier=sources
 - pkg:maven/com.trueaccord.scalapb/scalapb-runtime-grpc_2.10@0.5.46
 - pkg:maven/com.trueaccord.scalapb/scalapb-runtime-grpc_2.10@0.5.46?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime-grpc_2.10@0.6.0-pre1
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime-grpc_2.10@0.6.0-pre1?classifier=sources
