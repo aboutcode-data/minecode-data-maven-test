@@ -106,3 +106,5 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.14.3?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.14.4
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.14.4?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15-rc0
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15-rc0?classifier=sources

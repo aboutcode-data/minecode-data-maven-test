@@ -202,3 +202,5 @@
 - pkg:maven/org.http4k/http4k-server-netty@2.29.2?classifier=sources
 - pkg:maven/org.http4k/http4k-server-netty@2.29.0
 - pkg:maven/org.http4k/http4k-server-netty@2.29.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-netty@2.29.3
+- pkg:maven/org.http4k/http4k-server-netty@2.29.3?classifier=sources

@@ -166,3 +166,5 @@
 - pkg:maven/org.apache.wicket/wicket-request@6.27.1?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@7.9.0
 - pkg:maven/org.apache.wicket/wicket-request@7.9.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@6.28.0
+- pkg:maven/org.apache.wicket/wicket-request@6.28.0?classifier=sources

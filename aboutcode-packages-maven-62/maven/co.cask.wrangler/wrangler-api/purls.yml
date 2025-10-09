@@ -1,2 +1,4 @@
 - pkg:maven/co.cask.wrangler/wrangler-api@3.0.0
 - pkg:maven/co.cask.wrangler/wrangler-api@3.0.0?classifier=sources
+- pkg:maven/co.cask.wrangler/wrangler-api@3.0.1
+- pkg:maven/co.cask.wrangler/wrangler-api@3.0.1?classifier=sources
