@@ -164,3 +164,7 @@
 - pkg:maven/com.baidu/jprotobuf@2.1.11?classifier=sources
 - pkg:maven/com.baidu/jprotobuf@1.10.12
 - pkg:maven/com.baidu/jprotobuf@1.10.12?classifier=sources
+- pkg:maven/com.baidu/jprotobuf@2.2.0
+- pkg:maven/com.baidu/jprotobuf@2.2.0?classifier=sources
+- pkg:maven/com.baidu/jprotobuf@1.11.0
+- pkg:maven/com.baidu/jprotobuf@1.11.0?classifier=sources

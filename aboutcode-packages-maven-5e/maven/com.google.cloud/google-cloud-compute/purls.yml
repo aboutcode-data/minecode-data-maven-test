@@ -130,3 +130,5 @@
 - pkg:maven/com.google.cloud/google-cloud-compute@0.49.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@0.50.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-compute@0.50.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute@0.51.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-compute@0.51.0-alpha?classifier=sources

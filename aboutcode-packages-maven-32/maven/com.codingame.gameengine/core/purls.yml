@@ -80,3 +80,5 @@
 - pkg:maven/com.codingame.gameengine/core@1.37?classifier=sources
 - pkg:maven/com.codingame.gameengine/core@2.2
 - pkg:maven/com.codingame.gameengine/core@2.2?classifier=sources
+- pkg:maven/com.codingame.gameengine/core@2.3
+- pkg:maven/com.codingame.gameengine/core@2.3?classifier=sources

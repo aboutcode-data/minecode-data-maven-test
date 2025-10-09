@@ -84,3 +84,5 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.0.7.0?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.0.6.9
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.0.6.9?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.0.7.2
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.0.7.2?classifier=sources
