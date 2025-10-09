@@ -100,3 +100,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.9.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.4.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.4.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.10.0.CR1
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.10.0.CR1?classifier=sources
