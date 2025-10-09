@@ -50,3 +50,7 @@
 - pkg:maven/com.github.danielgindi/helpers@1.3.3?classifier=sources
 - pkg:maven/com.github.danielgindi/helpers@1.3.4
 - pkg:maven/com.github.danielgindi/helpers@1.3.4?classifier=sources
+- pkg:maven/com.github.danielgindi/helpers@1.3.7?classifier=sources
+- pkg:maven/com.github.danielgindi/helpers@1.3.6?classifier=sources
+- pkg:maven/com.github.danielgindi/helpers@1.3.5?type=aar
+- pkg:maven/com.github.danielgindi/helpers@1.3.5?classifier=sources
