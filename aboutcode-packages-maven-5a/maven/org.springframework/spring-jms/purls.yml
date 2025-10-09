@@ -186,3 +186,7 @@
 - pkg:maven/org.springframework/spring-jms@4.3.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-jms@5.0.1.RELEASE
 - pkg:maven/org.springframework/spring-jms@5.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-jms@5.0.2.RELEASE
+- pkg:maven/org.springframework/spring-jms@5.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-jms@4.3.13.RELEASE
+- pkg:maven/org.springframework/spring-jms@4.3.13.RELEASE?classifier=sources
