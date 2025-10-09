@@ -202,3 +202,5 @@
 - pkg:maven/io.github.lukehutch/fast-classpath-scanner@2.8.0?classifier=sources
 - pkg:maven/io.github.lukehutch/fast-classpath-scanner@2.7.5
 - pkg:maven/io.github.lukehutch/fast-classpath-scanner@2.7.5?classifier=sources
+- pkg:maven/io.github.lukehutch/fast-classpath-scanner@2.8.2
+- pkg:maven/io.github.lukehutch/fast-classpath-scanner@2.8.2?classifier=sources

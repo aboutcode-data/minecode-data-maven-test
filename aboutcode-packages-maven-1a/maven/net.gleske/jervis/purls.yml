@@ -28,3 +28,5 @@
 - pkg:maven/net.gleske/jervis@0.12?classifier=sources
 - pkg:maven/net.gleske/jervis@0.13
 - pkg:maven/net.gleske/jervis@0.13?classifier=sources
+- pkg:maven/net.gleske/jervis@1.0
+- pkg:maven/net.gleske/jervis@1.0?classifier=sources

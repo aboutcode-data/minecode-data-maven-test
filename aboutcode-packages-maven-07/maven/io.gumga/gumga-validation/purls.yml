@@ -50,3 +50,7 @@
 - pkg:maven/io.gumga/gumga-validation@1.5.22?classifier=sources
 - pkg:maven/io.gumga/gumga-validation@1.5.23
 - pkg:maven/io.gumga/gumga-validation@1.5.23?classifier=sources
+- pkg:maven/io.gumga/gumga-validation@2.0.1
+- pkg:maven/io.gumga/gumga-validation@2.0.1?classifier=sources
+- pkg:maven/io.gumga/gumga-validation@2.0.0
+- pkg:maven/io.gumga/gumga-validation@2.0.0?classifier=sources

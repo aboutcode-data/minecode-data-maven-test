@@ -32,3 +32,5 @@
 - pkg:maven/no.digipost.signature/signature-api-client-java@2.3?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-client-java@2.4
 - pkg:maven/no.digipost.signature/signature-api-client-java@2.4?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@3.0
+- pkg:maven/no.digipost.signature/signature-api-client-java@3.0?classifier=sources
