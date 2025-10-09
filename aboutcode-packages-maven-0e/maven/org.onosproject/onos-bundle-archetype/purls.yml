@@ -42,3 +42,5 @@
 - pkg:maven/org.onosproject/onos-bundle-archetype@1.10.1?classifier=sources
 - pkg:maven/org.onosproject/onos-bundle-archetype@1.10.2?classifier=sources
 - pkg:maven/org.onosproject/onos-bundle-archetype@1.11.0-b2?classifier=sources
+- pkg:maven/org.onosproject/onos-bundle-archetype@1.11.0-b3?classifier=sources
+- pkg:maven/org.onosproject/onos-bundle-archetype@1.10.3?classifier=sources

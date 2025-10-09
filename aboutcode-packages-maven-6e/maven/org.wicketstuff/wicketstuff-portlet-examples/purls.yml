@@ -30,3 +30,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet-examples@7.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet-examples@7.8.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-portlet-examples@7.8.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet-examples@7.8.1?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-portlet-examples@7.8.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.espertech/esper-avro@6.0.1?classifier=sources
 - pkg:maven/com.espertech/esper-avro@6.1.0
 - pkg:maven/com.espertech/esper-avro@6.1.0?classifier=sources
+- pkg:maven/com.espertech/esper-avro@7.0.0-beta1
+- pkg:maven/com.espertech/esper-avro@7.0.0-beta1?classifier=sources

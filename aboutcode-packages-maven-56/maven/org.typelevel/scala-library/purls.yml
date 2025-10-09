@@ -14,3 +14,5 @@
 - pkg:maven/org.typelevel/scala-library@2.11.11-bin-typelevel-4?classifier=sources
 - pkg:maven/org.typelevel/scala-library@2.12.3-bin-typelevel-4
 - pkg:maven/org.typelevel/scala-library@2.12.3-bin-typelevel-4?classifier=sources
+- pkg:maven/org.typelevel/scala-library@2.13.0-M2-bin-typelevel-4
+- pkg:maven/org.typelevel/scala-library@2.13.0-M2-bin-typelevel-4?classifier=sources

@@ -246,3 +246,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-server@2.14.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-server@2.4.8
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-server@2.4.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-server@2.15.5
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-server@2.15.5?classifier=sources
