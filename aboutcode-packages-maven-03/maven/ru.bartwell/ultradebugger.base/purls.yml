@@ -1,2 +1,4 @@
 - pkg:maven/ru.bartwell/ultradebugger.base@1.0?type=aar
 - pkg:maven/ru.bartwell/ultradebugger.base@1.0?classifier=sources
+- pkg:maven/ru.bartwell/ultradebugger.base@1.1?type=aar
+- pkg:maven/ru.bartwell/ultradebugger.base@1.1?classifier=sources

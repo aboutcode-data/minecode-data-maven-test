@@ -46,3 +46,7 @@
 - pkg:maven/org.webjars.npm/systemjs@0.20.0-rc.4?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.20.0
 - pkg:maven/org.webjars.npm/systemjs@0.20.0?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs@0.20.9
+- pkg:maven/org.webjars.npm/systemjs@0.20.9?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs@0.20.7
+- pkg:maven/org.webjars.npm/systemjs@0.20.7?classifier=sources

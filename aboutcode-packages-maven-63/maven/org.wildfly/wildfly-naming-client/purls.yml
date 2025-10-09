@@ -28,3 +28,6 @@
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta10
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta10?classifier=sources
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta10?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta11
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta11?classifier=sources
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.0.Beta11?classifier=source-release&type=zip

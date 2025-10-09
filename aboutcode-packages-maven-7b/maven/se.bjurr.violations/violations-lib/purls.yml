@@ -42,3 +42,7 @@
 - pkg:maven/se.bjurr.violations/violations-lib@1.17?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.21
 - pkg:maven/se.bjurr.violations/violations-lib@1.21?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.23
+- pkg:maven/se.bjurr.violations/violations-lib@1.23?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.22
+- pkg:maven/se.bjurr.violations/violations-lib@1.22?classifier=sources
