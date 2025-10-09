@@ -44,3 +44,5 @@
 - pkg:maven/org.mockito/mockito-inline@2.8.9?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.8.47
 - pkg:maven/org.mockito/mockito-inline@2.8.47?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.9.0
+- pkg:maven/org.mockito/mockito-inline@2.9.0?classifier=sources

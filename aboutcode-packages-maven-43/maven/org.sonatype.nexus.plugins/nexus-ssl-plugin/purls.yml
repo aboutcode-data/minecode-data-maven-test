@@ -32,3 +32,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-ssl-plugin@3.4.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-ssl-plugin@3.5.0-02
 - pkg:maven/org.sonatype.nexus.plugins/nexus-ssl-plugin@3.5.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ssl-plugin@3.5.1-02
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ssl-plugin@3.5.1-02?classifier=sources

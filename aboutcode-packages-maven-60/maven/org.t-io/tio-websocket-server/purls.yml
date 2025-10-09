@@ -1,2 +1,4 @@
 - pkg:maven/org.t-io/tio-websocket-server@0.0.1-tio-websocket
 - pkg:maven/org.t-io/tio-websocket-server@0.0.1-tio-websocket?classifier=sources
+- pkg:maven/org.t-io/tio-websocket-server@0.0.2-tio-websocket
+- pkg:maven/org.t-io/tio-websocket-server@0.0.2-tio-websocket?classifier=sources

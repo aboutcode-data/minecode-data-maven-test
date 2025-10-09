@@ -34,3 +34,5 @@
 - pkg:maven/org.restcomm.cluster/core@3.0.0.15?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@1.15.30
 - pkg:maven/org.restcomm.cluster/core@1.15.30?classifier=sources
+- pkg:maven/org.restcomm.cluster/core@7.0.0.16
+- pkg:maven/org.restcomm.cluster/core@7.0.0.16?classifier=sources

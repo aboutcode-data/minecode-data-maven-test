@@ -32,3 +32,5 @@
 - pkg:maven/org.openurp.platform/openurp-platform-webapp@0.0.22?classifier=sources
 - pkg:maven/org.openurp.platform/openurp-platform-webapp@0.0.21?type=war
 - pkg:maven/org.openurp.platform/openurp-platform-webapp@0.0.21?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-webapp@0.0.23?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-webapp@0.0.23?classifier=sources
