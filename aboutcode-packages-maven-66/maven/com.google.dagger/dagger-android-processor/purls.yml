@@ -22,3 +22,5 @@
 - pkg:maven/com.google.dagger/dagger-android-processor@2.14?classifier=sources
 - pkg:maven/com.google.dagger/dagger-android-processor@2.15
 - pkg:maven/com.google.dagger/dagger-android-processor@2.15?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-processor@2.16
+- pkg:maven/com.google.dagger/dagger-android-processor@2.16?classifier=sources

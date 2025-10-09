@@ -120,3 +120,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-gc@0.64.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-gc@0.65.0
 - pkg:maven/com.netflix.spectator/spectator-ext-gc@0.65.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-gc@0.65.1
+- pkg:maven/com.netflix.spectator/spectator-ext-gc@0.65.1?classifier=sources

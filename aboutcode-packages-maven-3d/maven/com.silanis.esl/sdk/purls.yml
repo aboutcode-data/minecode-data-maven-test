@@ -60,3 +60,7 @@
 - pkg:maven/com.silanis.esl/sdk@11.5.1?classifier=sources
 - pkg:maven/com.silanis.esl/sdk@11.12
 - pkg:maven/com.silanis.esl/sdk@11.12?classifier=sources
+- pkg:maven/com.silanis.esl/sdk@11.14
+- pkg:maven/com.silanis.esl/sdk@11.14?classifier=sources
+- pkg:maven/com.silanis.esl/sdk@11.13
+- pkg:maven/com.silanis.esl/sdk@11.13?classifier=sources
