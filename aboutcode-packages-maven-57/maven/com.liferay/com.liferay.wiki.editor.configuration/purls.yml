@@ -70,3 +70,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@3.0.3
 - pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@2.0.7
+- pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@1.0.17
+- pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@1.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.editor.configuration@1.0.17?classifier=sources-commercial

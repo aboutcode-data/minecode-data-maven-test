@@ -88,3 +88,5 @@
 - pkg:maven/com.netflix.nebula/nebula-bintray-plugin@6.0.0-rc.2?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-bintray-plugin@7.2.7
 - pkg:maven/com.netflix.nebula/nebula-bintray-plugin@7.2.7?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-bintray-plugin@7.3.0
+- pkg:maven/com.netflix.nebula/nebula-bintray-plugin@7.3.0?classifier=sources

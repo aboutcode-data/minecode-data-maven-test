@@ -16,3 +16,5 @@
 - pkg:maven/com.nequissimus/circe-kafka_2.12@2.1.0?classifier=sources
 - pkg:maven/com.nequissimus/circe-kafka_2.12@2.2.0
 - pkg:maven/com.nequissimus/circe-kafka_2.12@2.2.0?classifier=sources
+- pkg:maven/com.nequissimus/circe-kafka_2.12@2.2.0%2B1-096cff13
+- pkg:maven/com.nequissimus/circe-kafka_2.12@2.2.0%2B1-096cff13?classifier=sources

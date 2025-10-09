@@ -49,3 +49,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@1.1.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@1.1.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@1.1.9?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@1.1.10
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@1.1.10?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@1.1.10?classifier=sources-commercial

@@ -66,3 +66,11 @@
 - pkg:maven/com.qiniu/qsuits@6.0-thin?classifier=sources
 - pkg:maven/com.qiniu/qsuits@6.0
 - pkg:maven/com.qiniu/qsuits@6.0?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.11-thin
+- pkg:maven/com.qiniu/qsuits@6.11-thin?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.11
+- pkg:maven/com.qiniu/qsuits@6.11?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.1-thin
+- pkg:maven/com.qiniu/qsuits@6.1-thin?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.1
+- pkg:maven/com.qiniu/qsuits@6.1?classifier=sources

@@ -146,3 +146,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@4.0.2
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.18
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.29
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.29?classifier=sources-commercial

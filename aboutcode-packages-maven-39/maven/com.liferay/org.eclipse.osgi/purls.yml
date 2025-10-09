@@ -22,3 +22,6 @@
 - pkg:maven/com.liferay/org.eclipse.osgi@3.10.200-20150904.172142-1.LIFERAY-PATCHED-5
 - pkg:maven/com.liferay/org.eclipse.osgi@3.10.200-20150904.172142-1.LIFERAY-PATCHED-5?classifier=sources
 - pkg:maven/com.liferay/org.eclipse.osgi@3.10.200-20150904.172142-1.LIFERAY-PATCHED-5?classifier=sources-commercial
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-5
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-5?classifier=sources
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-5?classifier=sources-commercial

@@ -54,3 +54,5 @@
 - pkg:maven/com.softwaremill.tapir/tapir-openapi-circe-yaml_2.12@0.7.7?classifier=sources
 - pkg:maven/com.softwaremill.tapir/tapir-openapi-circe-yaml_2.12@0.7.10
 - pkg:maven/com.softwaremill.tapir/tapir-openapi-circe-yaml_2.12@0.7.10?classifier=sources
+- pkg:maven/com.softwaremill.tapir/tapir-openapi-circe-yaml_2.12@0.8.0
+- pkg:maven/com.softwaremill.tapir/tapir-openapi-circe-yaml_2.12@0.8.0?classifier=sources

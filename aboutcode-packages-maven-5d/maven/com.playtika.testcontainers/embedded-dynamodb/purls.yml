@@ -12,3 +12,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.21?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.22
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.22?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.23
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.23?classifier=sources

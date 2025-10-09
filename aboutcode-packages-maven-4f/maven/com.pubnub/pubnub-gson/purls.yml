@@ -62,3 +62,5 @@
 - pkg:maven/com.pubnub/pubnub-gson@4.22.0-beta?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@4.23.0
 - pkg:maven/com.pubnub/pubnub-gson@4.23.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@4.24.0
+- pkg:maven/com.pubnub/pubnub-gson@4.24.0?classifier=sources
