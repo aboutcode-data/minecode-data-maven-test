@@ -8,3 +8,5 @@
 - pkg:maven/org.openjfx/javafx-controls@11-ea%2B24?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@11
 - pkg:maven/org.openjfx/javafx-controls@11?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@11.0.1-ea%2B1
+- pkg:maven/org.openjfx/javafx-controls@11.0.1-ea%2B1?classifier=sources

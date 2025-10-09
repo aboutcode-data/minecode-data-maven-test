@@ -152,3 +152,5 @@
 - pkg:maven/org.springframework.data/spring-data-commons@2.0.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@1.13.16.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@1.13.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.1.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.1.2.RELEASE?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.4.7.v20171121?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.4.8.v20180619
 - pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.4.8.v20180619?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.4.12.v20180830
+- pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.4.12.v20180830?classifier=sources

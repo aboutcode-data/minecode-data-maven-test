@@ -26,3 +26,5 @@
 - pkg:maven/org.terasoluna.batch/terasoluna-batch@5.1.1.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.batch/terasoluna-batch@5.0.4.RELEASE
 - pkg:maven/org.terasoluna.batch/terasoluna-batch@5.0.4.RELEASE?classifier=sources
+- pkg:maven/org.terasoluna.batch/terasoluna-batch@5.2.0.RC1
+- pkg:maven/org.terasoluna.batch/terasoluna-batch@5.2.0.RC1?classifier=sources

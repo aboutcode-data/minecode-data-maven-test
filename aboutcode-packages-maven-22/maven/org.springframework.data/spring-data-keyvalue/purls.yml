@@ -92,3 +92,5 @@
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.0.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.16.RELEASE
 - pkg:maven/org.springframework.data/spring-data-keyvalue@1.2.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@2.1.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-keyvalue@2.1.2.RELEASE?classifier=sources

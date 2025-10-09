@@ -14,3 +14,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.0.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.1.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.0.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.0.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@1.0.5.RELEASE?classifier=sources

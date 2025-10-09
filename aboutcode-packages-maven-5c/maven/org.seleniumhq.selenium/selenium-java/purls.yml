@@ -174,3 +174,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-java@3.13.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-java@3.14.0
 - pkg:maven/org.seleniumhq.selenium/selenium-java@3.14.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-java@3.141.0
+- pkg:maven/org.seleniumhq.selenium/selenium-java@3.141.0?classifier=sources
