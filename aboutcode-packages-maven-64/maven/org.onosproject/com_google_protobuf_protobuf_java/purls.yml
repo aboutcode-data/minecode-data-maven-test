@@ -12,3 +12,5 @@
 - pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.2.0-rc2?classifier=sources
 - pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.2.0
 - pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.2.0?classifier=sources
+- pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.2.1-b2
+- pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.2.1-b2?classifier=sources
