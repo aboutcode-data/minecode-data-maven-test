@@ -80,3 +80,5 @@
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.6.0-beta?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.6.0?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.6.0?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.7.0-m1?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.7.0-m1?classifier=sources

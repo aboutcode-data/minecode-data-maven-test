@@ -18,3 +18,5 @@
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.0?classifier=sources
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http@2.1-kotlin
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http@2.1-kotlin?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.1
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.1?classifier=sources
