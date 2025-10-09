@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M18?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.12
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.12?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M19
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M19?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.13
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.13?classifier=sources
