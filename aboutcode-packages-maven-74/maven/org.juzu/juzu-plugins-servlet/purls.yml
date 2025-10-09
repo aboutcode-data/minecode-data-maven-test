@@ -130,3 +130,5 @@
 - pkg:maven/org.juzu/juzu-plugins-servlet@1.2.0-M06?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-servlet@1.2.0-RC01
 - pkg:maven/org.juzu/juzu-plugins-servlet@1.2.0-RC01?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-servlet@1.2.0
+- pkg:maven/org.juzu/juzu-plugins-servlet@1.2.0?classifier=sources

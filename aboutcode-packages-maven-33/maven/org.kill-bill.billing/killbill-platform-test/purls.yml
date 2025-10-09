@@ -164,3 +164,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.37.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.37.10
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.37.10?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-test@0.37.11
+- pkg:maven/org.kill-bill.billing/killbill-platform-test@0.37.11?classifier=sources
