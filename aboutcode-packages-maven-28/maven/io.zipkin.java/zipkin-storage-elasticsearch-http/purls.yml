@@ -60,3 +60,5 @@
 - pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch-http@1.24.0?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch-http@1.25.0
 - pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch-http@1.25.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch-http@1.26.0
+- pkg:maven/io.zipkin.java/zipkin-storage-elasticsearch-http@1.26.0?classifier=sources
