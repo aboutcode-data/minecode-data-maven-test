@@ -63,3 +63,7 @@
 - pkg:maven/com.yahoo.vespa/searchlib@6.213.147?classifier=sources
 - pkg:maven/com.yahoo.vespa/searchlib@6.212.47?classifier=sources
 - pkg:maven/com.yahoo.vespa/searchlib@6.218.63?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchlib@6.222.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchlib@6.221.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchlib@6.220.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchlib@6.219.12?classifier=sources
