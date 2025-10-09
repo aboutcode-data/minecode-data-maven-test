@@ -152,3 +152,5 @@
 - pkg:maven/org.onosproject/onos-protocols-lisp-msg@2.0.0?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-lisp-msg@1.13.8
 - pkg:maven/org.onosproject/onos-protocols-lisp-msg@1.13.8?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-lisp-msg@1.13.9-rc1
+- pkg:maven/org.onosproject/onos-protocols-lisp-msg@1.13.9-rc1?classifier=sources
