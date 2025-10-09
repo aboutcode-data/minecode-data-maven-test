@@ -534,3 +534,5 @@
 - pkg:maven/io.fabric8/kubernetes-jolokia@3.0.7?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-jolokia@3.0.8
 - pkg:maven/io.fabric8/kubernetes-jolokia@3.0.8?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-jolokia@3.0.11
+- pkg:maven/io.fabric8/kubernetes-jolokia@3.0.11?classifier=sources

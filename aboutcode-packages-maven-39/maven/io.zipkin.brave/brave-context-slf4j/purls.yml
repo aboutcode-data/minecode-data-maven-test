@@ -76,3 +76,5 @@
 - pkg:maven/io.zipkin.brave/brave-context-slf4j@4.17.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-context-slf4j@4.17.2
 - pkg:maven/io.zipkin.brave/brave-context-slf4j@4.17.2?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-context-slf4j@4.18.0
+- pkg:maven/io.zipkin.brave/brave-context-slf4j@4.18.0?classifier=sources

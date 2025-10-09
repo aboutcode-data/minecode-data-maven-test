@@ -90,3 +90,7 @@
 - pkg:maven/io.gumga/gumga-core@3.2.5?classifier=sources
 - pkg:maven/io.gumga/gumga-core@3.2.4
 - pkg:maven/io.gumga/gumga-core@3.2.4?classifier=sources
+- pkg:maven/io.gumga/gumga-core@3.3.0
+- pkg:maven/io.gumga/gumga-core@3.3.0?classifier=sources
+- pkg:maven/io.gumga/gumga-core@3.2.9
+- pkg:maven/io.gumga/gumga-core@3.2.9?classifier=sources

@@ -270,3 +270,4 @@
 - pkg:maven/io.fabric8.kubernetes/kubernetes-karaf@3.1.6?classifier=sources
 - pkg:maven/io.fabric8.kubernetes/kubernetes-karaf@3.1.8
 - pkg:maven/io.fabric8.kubernetes/kubernetes-karaf@3.1.8?classifier=sources
+- pkg:maven/io.fabric8.kubernetes/kubernetes-karaf@3.1.10
