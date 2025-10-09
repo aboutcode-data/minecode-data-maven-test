@@ -76,3 +76,5 @@
 - pkg:maven/io.cucumber/cucumber-spring@4.8.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@1.2.6
 - pkg:maven/io.cucumber/cucumber-spring@1.2.6?classifier=sources
+- pkg:maven/io.cucumber/cucumber-spring@5.0.0-RC2
+- pkg:maven/io.cucumber/cucumber-spring@5.0.0-RC2?classifier=sources

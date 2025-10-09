@@ -38,3 +38,5 @@
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@3.0.14?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@3.0.13
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@3.0.13?classifier=sources
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@3.0.16
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@3.0.16?classifier=sources

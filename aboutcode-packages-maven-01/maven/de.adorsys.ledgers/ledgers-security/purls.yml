@@ -22,3 +22,5 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-security@1.9?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-security@2.0
 - pkg:maven/de.adorsys.ledgers/ledgers-security@2.0?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-security@2.1
+- pkg:maven/de.adorsys.ledgers/ledgers-security@2.1?classifier=sources

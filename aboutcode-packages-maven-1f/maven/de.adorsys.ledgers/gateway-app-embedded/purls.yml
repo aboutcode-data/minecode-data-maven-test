@@ -1,0 +1,4 @@
+- pkg:maven/de.adorsys.ledgers/gateway-app-embedded@5.5
+- pkg:maven/de.adorsys.ledgers/gateway-app-embedded@5.5?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app-embedded@4.5
+- pkg:maven/de.adorsys.ledgers/gateway-app-embedded@4.5?classifier=sources
