@@ -48,3 +48,5 @@
 - pkg:maven/com.fizzed/blaze-ssh@0.18.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-ssh@0.17.0
 - pkg:maven/com.fizzed/blaze-ssh@0.17.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-ssh@0.20.0
+- pkg:maven/com.fizzed/blaze-ssh@0.20.0?classifier=sources

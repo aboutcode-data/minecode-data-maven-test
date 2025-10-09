@@ -1,2 +1,4 @@
 - pkg:maven/com.github.g-chenning/redis-wcn@0.0.1-RELEASE
 - pkg:maven/com.github.g-chenning/redis-wcn@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.11-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.11-RELEASE?classifier=sources

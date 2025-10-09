@@ -594,3 +594,7 @@
 - pkg:maven/com.google.apis/google-api-services-poly@v1-rev91-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-poly@v1-rev91-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-poly@v1-rev91-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-poly@v1-rev93-1.25.0
+- pkg:maven/com.google.apis/google-api-services-poly@v1-rev93-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-poly@v1-rev93-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-poly@v1-rev93-1.18.0-rc?classifier=sources

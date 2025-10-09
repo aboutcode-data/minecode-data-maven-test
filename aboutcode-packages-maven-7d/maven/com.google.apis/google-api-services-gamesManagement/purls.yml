@@ -2304,3 +2304,7 @@
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev312-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev312-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev312-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev314-1.25.0
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev314-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev314-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev314-1.18.0-rc?classifier=sources

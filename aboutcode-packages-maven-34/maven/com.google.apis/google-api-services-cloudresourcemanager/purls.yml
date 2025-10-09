@@ -3338,3 +3338,7 @@
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20190513-1.27.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20190513-1.26.0
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20190513-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v2beta1-rev108-1.25.0
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v2beta1-rev108-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v2beta1-rev108-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v2beta1-rev108-1.18.0-rc?classifier=sources
