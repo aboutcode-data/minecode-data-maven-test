@@ -204,3 +204,7 @@
 - pkg:maven/com.proofpoint.platform/configuration@1.46?classifier=sources
 - pkg:maven/com.proofpoint.platform/configuration@1.47
 - pkg:maven/com.proofpoint.platform/configuration@1.47?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@1.49
+- pkg:maven/com.proofpoint.platform/configuration@1.49?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@1.48
+- pkg:maven/com.proofpoint.platform/configuration@1.48?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata@2.14.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata@2.17.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata@2.17.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata@2.18.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata@2.18.0?classifier=sources

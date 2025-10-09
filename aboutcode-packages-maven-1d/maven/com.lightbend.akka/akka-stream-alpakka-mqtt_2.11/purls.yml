@@ -6,3 +6,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-mqtt_2.11@0.3?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-mqtt_2.11@0.2
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-mqtt_2.11@0.2?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-mqtt_2.11@0.4
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-mqtt_2.11@0.4?classifier=sources

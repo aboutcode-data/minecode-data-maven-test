@@ -54,3 +54,5 @@
 - pkg:maven/com.qantium/uisteps-core@3.2.8?classifier=sources
 - pkg:maven/com.qantium/uisteps-core@3.2.7
 - pkg:maven/com.qantium/uisteps-core@3.2.7?classifier=sources
+- pkg:maven/com.qantium/uisteps-core@4.0.0
+- pkg:maven/com.qantium/uisteps-core@4.0.0?classifier=sources

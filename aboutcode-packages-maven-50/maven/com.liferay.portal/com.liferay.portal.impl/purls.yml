@@ -22,3 +22,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.8.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.9.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.9.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.10.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.10.0?classifier=sources
