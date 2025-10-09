@@ -76,3 +76,5 @@
 - pkg:maven/com.netflix.dyno-queues/dyno-queues-redis@2.0.12-rc2?classifier=sources
 - pkg:maven/com.netflix.dyno-queues/dyno-queues-redis@2.0.12
 - pkg:maven/com.netflix.dyno-queues/dyno-queues-redis@2.0.12?classifier=sources
+- pkg:maven/com.netflix.dyno-queues/dyno-queues-redis@2.0.13
+- pkg:maven/com.netflix.dyno-queues/dyno-queues-redis@2.0.13?classifier=sources

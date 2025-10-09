@@ -22,3 +22,5 @@
 - pkg:maven/com.microsoft.identity/common@1.0.7?classifier=sources
 - pkg:maven/com.microsoft.identity/common@1.0.3?type=aar
 - pkg:maven/com.microsoft.identity/common@1.0.3?classifier=sources
+- pkg:maven/com.microsoft.identity/common@0.0.10-hf1?type=aar
+- pkg:maven/com.microsoft.identity/common@0.0.10-hf1?classifier=sources

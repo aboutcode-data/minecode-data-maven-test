@@ -10,3 +10,7 @@
 - pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.30?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.32
 - pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.32?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.34
+- pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.34?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.33
+- pkg:maven/com.playtika.testcontainers/embedded-rabbitmq@1.33?classifier=sources

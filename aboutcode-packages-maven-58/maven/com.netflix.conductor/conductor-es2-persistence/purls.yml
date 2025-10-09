@@ -74,3 +74,5 @@
 - pkg:maven/com.netflix.conductor/conductor-es2-persistence@1.12.8?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-es2-persistence@1.12.11
 - pkg:maven/com.netflix.conductor/conductor-es2-persistence@1.12.11?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-es2-persistence@1.12.12
+- pkg:maven/com.netflix.conductor/conductor-es2-persistence@1.12.12?classifier=sources
