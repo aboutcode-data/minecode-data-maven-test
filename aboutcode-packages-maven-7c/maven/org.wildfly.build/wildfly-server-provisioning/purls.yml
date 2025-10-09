@@ -62,3 +62,5 @@
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning@1.2.9.Final?classifier=sources
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning@1.2.10.Final
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning@1.2.10.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning@1.2.11.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning@1.2.11.Final?classifier=sources

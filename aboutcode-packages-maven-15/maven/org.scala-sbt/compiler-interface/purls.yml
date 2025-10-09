@@ -112,3 +112,11 @@
 - pkg:maven/org.scala-sbt/compiler-interface@1.3.0-M2?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-interface@1.3.0-M3
 - pkg:maven/org.scala-sbt/compiler-interface@1.3.0-M3?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X4
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X4?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X3
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X3?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X2
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X2?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X1
+- pkg:maven/org.scala-sbt/compiler-interface@1.3.0-X1?classifier=sources

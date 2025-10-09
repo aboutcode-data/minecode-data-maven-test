@@ -100,3 +100,7 @@
 - pkg:maven/org.smartboot.socket/aio-core@1.4.0-rc.11?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-core@1.4.0
 - pkg:maven/org.smartboot.socket/aio-core@1.4.0?classifier=sources
+- pkg:maven/org.smartboot.socket/aio-core@1.4.1.rc-2
+- pkg:maven/org.smartboot.socket/aio-core@1.4.1.rc-2?classifier=sources
+- pkg:maven/org.smartboot.socket/aio-core@1.4.1.rc-1
+- pkg:maven/org.smartboot.socket/aio-core@1.4.1.rc-1?classifier=sources

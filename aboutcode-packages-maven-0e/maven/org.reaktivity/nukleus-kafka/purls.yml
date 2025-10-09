@@ -292,3 +292,5 @@
 - pkg:maven/org.reaktivity/nukleus-kafka@0.147?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-kafka@0.146
 - pkg:maven/org.reaktivity/nukleus-kafka@0.146?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-kafka@0.148
+- pkg:maven/org.reaktivity/nukleus-kafka@0.148?classifier=sources

@@ -58,3 +58,7 @@
 - pkg:maven/org.protelis/protelis@11.0.0-j7?classifier=sources
 - pkg:maven/org.protelis/protelis@11.0.0
 - pkg:maven/org.protelis/protelis@11.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis@11.1.0-j7
+- pkg:maven/org.protelis/protelis@11.1.0-j7?classifier=sources
+- pkg:maven/org.protelis/protelis@11.1.0
+- pkg:maven/org.protelis/protelis@11.1.0?classifier=sources

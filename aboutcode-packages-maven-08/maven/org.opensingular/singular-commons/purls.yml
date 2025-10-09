@@ -124,3 +124,5 @@
 - pkg:maven/org.opensingular/singular-commons@1.9.0?classifier=sources
 - pkg:maven/org.opensingular/singular-commons@1.8.2.2
 - pkg:maven/org.opensingular/singular-commons@1.8.2.2?classifier=sources
+- pkg:maven/org.opensingular/singular-commons@1.8.2.1-RC6
+- pkg:maven/org.opensingular/singular-commons@1.8.2.1-RC6?classifier=sources

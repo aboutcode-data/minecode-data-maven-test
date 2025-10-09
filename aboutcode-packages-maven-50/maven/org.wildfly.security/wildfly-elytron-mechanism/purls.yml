@@ -10,3 +10,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@1.9.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@1.9.0.CR3
 - pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@1.9.0.CR3?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@2.0.0.Alpha4
+- pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@2.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@1.9.0.CR4
+- pkg:maven/org.wildfly.security/wildfly-elytron-mechanism@1.9.0.CR4?classifier=sources
