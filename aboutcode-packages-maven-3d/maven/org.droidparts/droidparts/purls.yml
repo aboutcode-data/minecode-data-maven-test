@@ -148,3 +148,7 @@
 - pkg:maven/org.droidparts/droidparts@2.9.7?classifier=sources
 - pkg:maven/org.droidparts/droidparts@2.9.8
 - pkg:maven/org.droidparts/droidparts@2.9.8?classifier=sources
+- pkg:maven/org.droidparts/droidparts@3.1.0
+- pkg:maven/org.droidparts/droidparts@3.1.0?classifier=sources
+- pkg:maven/org.droidparts/droidparts@3.0.0
+- pkg:maven/org.droidparts/droidparts@3.0.0?classifier=sources

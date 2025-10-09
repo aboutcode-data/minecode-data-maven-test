@@ -42,3 +42,7 @@
 - pkg:maven/org.datasyslab/geospark@0.6.2-spark-1.x?classifier=sources
 - pkg:maven/org.datasyslab/geospark@0.6.2
 - pkg:maven/org.datasyslab/geospark@0.6.2?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.7.0-spark-1.x
+- pkg:maven/org.datasyslab/geospark@0.7.0-spark-1.x?classifier=sources
+- pkg:maven/org.datasyslab/geospark@0.7.0
+- pkg:maven/org.datasyslab/geospark@0.7.0?classifier=sources

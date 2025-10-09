@@ -87,3 +87,5 @@
 - pkg:maven/org.apache.servicemix/apache-servicemix@7.0.0.M3?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix/apache-servicemix@7.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix/apache-servicemix@5.6.3?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix/apache-servicemix@7.0.1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix/apache-servicemix@6.1.4?classifier=src&type=zip

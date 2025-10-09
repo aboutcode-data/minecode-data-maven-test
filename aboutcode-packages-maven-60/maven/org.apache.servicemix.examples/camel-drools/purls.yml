@@ -96,3 +96,7 @@
 - pkg:maven/org.apache.servicemix.examples/camel-drools@7.0.0?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-drools@5.6.3
 - pkg:maven/org.apache.servicemix.examples/camel-drools@5.6.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-drools@7.0.1
+- pkg:maven/org.apache.servicemix.examples/camel-drools@7.0.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-drools@6.1.4
+- pkg:maven/org.apache.servicemix.examples/camel-drools@6.1.4?classifier=sources
