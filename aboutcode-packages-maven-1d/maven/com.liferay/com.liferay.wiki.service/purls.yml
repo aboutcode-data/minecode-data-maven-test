@@ -430,3 +430,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.9.12
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.9.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@1.9.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.service@2.0.39
+- pkg:maven/com.liferay/com.liferay.wiki.service@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@2.0.39?classifier=sources-commercial

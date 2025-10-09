@@ -1349,3 +1349,6 @@
 - pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.489
 - pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.489?classifier=sources
 - pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.489?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.493
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.493?classifier=sources
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.493?classifier=sources-commercial

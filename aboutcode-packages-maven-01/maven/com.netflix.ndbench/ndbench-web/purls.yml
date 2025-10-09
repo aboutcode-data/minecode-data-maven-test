@@ -60,3 +60,5 @@
 - pkg:maven/com.netflix.ndbench/ndbench-web@0.4.9?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-web@0.4.10?type=war
 - pkg:maven/com.netflix.ndbench/ndbench-web@0.4.10?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-web@0.4.11?type=war
+- pkg:maven/com.netflix.ndbench/ndbench-web@0.4.11?classifier=sources

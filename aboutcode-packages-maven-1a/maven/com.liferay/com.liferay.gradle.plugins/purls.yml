@@ -3343,3 +3343,9 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.53
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.56
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.55
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@4.0.55?classifier=sources-commercial

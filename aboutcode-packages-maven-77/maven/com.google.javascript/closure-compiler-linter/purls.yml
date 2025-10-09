@@ -74,3 +74,5 @@
 - pkg:maven/com.google.javascript/closure-compiler-linter@v20190528?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-linter@v20190618
 - pkg:maven/com.google.javascript/closure-compiler-linter@v20190618?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20190709
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20190709?classifier=sources
