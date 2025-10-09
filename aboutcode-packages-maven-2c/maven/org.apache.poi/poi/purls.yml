@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.poi/poi@3.16-beta2?classifier=sources
 - pkg:maven/org.apache.poi/poi@3.16
 - pkg:maven/org.apache.poi/poi@3.16?classifier=sources
+- pkg:maven/org.apache.poi/poi@3.17-beta1
+- pkg:maven/org.apache.poi/poi@3.17-beta1?classifier=sources

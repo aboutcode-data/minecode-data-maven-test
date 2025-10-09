@@ -28,3 +28,7 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.1.3?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.0.7
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.0.7?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.1.4
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.1.4?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.0.8
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-management-amqp@6.0.8?classifier=sources
