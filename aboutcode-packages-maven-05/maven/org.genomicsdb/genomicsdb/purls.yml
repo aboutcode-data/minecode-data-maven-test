@@ -4,3 +4,7 @@
 - pkg:maven/org.genomicsdb/genomicsdb@1.0.0.alpha1?classifier=sources
 - pkg:maven/org.genomicsdb/genomicsdb@1.0.0.beta1
 - pkg:maven/org.genomicsdb/genomicsdb@1.0.0.beta1?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.0.0-rc2
+- pkg:maven/org.genomicsdb/genomicsdb@1.0.0-rc2?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.0.0-rc1
+- pkg:maven/org.genomicsdb/genomicsdb@1.0.0-rc1?classifier=sources

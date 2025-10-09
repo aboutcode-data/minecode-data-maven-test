@@ -262,3 +262,5 @@
 - pkg:maven/org.gitlab4j/gitlab4j-api@4.9.11?classifier=sources
 - pkg:maven/org.gitlab4j/gitlab4j-api@4.9.12
 - pkg:maven/org.gitlab4j/gitlab4j-api@4.9.12?classifier=sources
+- pkg:maven/org.gitlab4j/gitlab4j-api@4.9.14
+- pkg:maven/org.gitlab4j/gitlab4j-api@4.9.14?classifier=sources
