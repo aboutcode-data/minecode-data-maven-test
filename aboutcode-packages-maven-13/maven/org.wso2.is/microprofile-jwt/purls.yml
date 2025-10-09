@@ -62,3 +62,5 @@
 - pkg:maven/org.wso2.is/microprofile-jwt@5.8.0-m14?classifier=sources
 - pkg:maven/org.wso2.is/microprofile-jwt@5.8.0-m15?type=war
 - pkg:maven/org.wso2.is/microprofile-jwt@5.8.0-m15?classifier=sources
+- pkg:maven/org.wso2.is/microprofile-jwt@5.8.0-m16?type=war
+- pkg:maven/org.wso2.is/microprofile-jwt@5.8.0-m16?classifier=sources

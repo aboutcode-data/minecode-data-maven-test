@@ -90,3 +90,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/core-rest@1.7.0-RC3?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/core-rest@1.7.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/core-rest@1.7.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/core-rest@1.8.0-RC1?type=war
+- pkg:maven/uk.gov.gchq.gaffer/core-rest@1.8.0-RC1?classifier=sources
