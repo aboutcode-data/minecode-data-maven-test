@@ -54,3 +54,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-colorizer@6.1?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-colorizer@6.2-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-colorizer@6.2-RC1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-colorizer@6.2-RC3
+- pkg:maven/org.sonarsource.sonarqube/sonar-colorizer@6.2-RC3?classifier=sources
