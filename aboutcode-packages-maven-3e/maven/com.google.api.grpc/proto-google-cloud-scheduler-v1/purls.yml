@@ -56,3 +56,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-scheduler-v1@1.15.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-scheduler-v1@1.16.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-scheduler-v1@1.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-scheduler-v1@1.19.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-scheduler-v1@1.19.0?classifier=sources

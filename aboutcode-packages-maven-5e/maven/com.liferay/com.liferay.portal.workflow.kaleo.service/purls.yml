@@ -380,3 +380,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.73
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.73?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.73?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@4.0.20
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@4.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@4.0.20?classifier=sources-commercial

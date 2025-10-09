@@ -148,3 +148,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.8
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.16?classifier=sources-commercial

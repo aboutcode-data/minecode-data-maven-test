@@ -137,3 +137,6 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.expression@3.0.15
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.expression@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.expression@3.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.expression@4.0.8
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.expression@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.expression@4.0.8?classifier=sources-commercial

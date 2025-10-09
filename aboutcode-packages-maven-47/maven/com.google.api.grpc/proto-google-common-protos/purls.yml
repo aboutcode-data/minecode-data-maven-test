@@ -80,3 +80,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@1.15.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@1.16.0
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@1.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@1.17.0
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@1.17.0?classifier=sources

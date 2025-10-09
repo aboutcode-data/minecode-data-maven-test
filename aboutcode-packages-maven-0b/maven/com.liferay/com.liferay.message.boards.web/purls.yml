@@ -444,3 +444,6 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.53
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.29
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.29?classifier=sources-commercial

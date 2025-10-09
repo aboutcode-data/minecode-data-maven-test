@@ -14,3 +14,7 @@
 - pkg:maven/com.ibm.watson/visual-recognition@8.0.0-rc1?classifier=sources
 - pkg:maven/com.ibm.watson/visual-recognition@7.4.1
 - pkg:maven/com.ibm.watson/visual-recognition@7.4.1?classifier=sources
+- pkg:maven/com.ibm.watson/visual-recognition@8.0.0
+- pkg:maven/com.ibm.watson/visual-recognition@8.0.0?classifier=sources
+- pkg:maven/com.ibm.watson/visual-recognition@7.0.0
+- pkg:maven/com.ibm.watson/visual-recognition@7.0.0?classifier=sources
