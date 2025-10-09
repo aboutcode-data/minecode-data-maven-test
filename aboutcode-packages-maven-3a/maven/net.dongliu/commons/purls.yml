@@ -284,3 +284,5 @@
 - pkg:maven/net.dongliu/commons@6.10.8?classifier=sources
 - pkg:maven/net.dongliu/commons@6.10.7
 - pkg:maven/net.dongliu/commons@6.10.7?classifier=sources
+- pkg:maven/net.dongliu/commons@6.11.0
+- pkg:maven/net.dongliu/commons@6.11.0?classifier=sources

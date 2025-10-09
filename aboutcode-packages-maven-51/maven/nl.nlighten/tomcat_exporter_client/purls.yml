@@ -10,3 +10,5 @@
 - pkg:maven/nl.nlighten/tomcat_exporter_client@0.0.7?classifier=sources
 - pkg:maven/nl.nlighten/tomcat_exporter_client@0.0.8
 - pkg:maven/nl.nlighten/tomcat_exporter_client@0.0.8?classifier=sources
+- pkg:maven/nl.nlighten/tomcat_exporter_client@0.0.9
+- pkg:maven/nl.nlighten/tomcat_exporter_client@0.0.9?classifier=sources
