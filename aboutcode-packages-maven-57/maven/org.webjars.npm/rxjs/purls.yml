@@ -70,3 +70,5 @@
 - pkg:maven/org.webjars.npm/rxjs@6.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/rxjs@5.5.12
 - pkg:maven/org.webjars.npm/rxjs@5.5.12?classifier=sources
+- pkg:maven/org.webjars.npm/rxjs@6.4.0
+- pkg:maven/org.webjars.npm/rxjs@6.4.0?classifier=sources

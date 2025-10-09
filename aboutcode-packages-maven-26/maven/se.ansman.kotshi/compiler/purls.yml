@@ -24,3 +24,5 @@
 - pkg:maven/se.ansman.kotshi/compiler@1.0.5?classifier=sources
 - pkg:maven/se.ansman.kotshi/compiler@1.0.6
 - pkg:maven/se.ansman.kotshi/compiler@1.0.6?classifier=sources
+- pkg:maven/se.ansman.kotshi/compiler@2.0-rc1
+- pkg:maven/se.ansman.kotshi/compiler@2.0-rc1?classifier=sources

@@ -220,3 +220,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@11.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@11.2-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@11.2-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@11.2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@11.2?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@10.11.4
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-quote@10.11.4?classifier=sources

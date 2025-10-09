@@ -36,3 +36,5 @@
 - pkg:maven/software.amazon.awscdk/cdk-app-delivery@0.25.3?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-app-delivery@0.26.0
 - pkg:maven/software.amazon.awscdk/cdk-app-delivery@0.26.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-app-delivery@0.27.0
+- pkg:maven/software.amazon.awscdk/cdk-app-delivery@0.27.0?classifier=sources
