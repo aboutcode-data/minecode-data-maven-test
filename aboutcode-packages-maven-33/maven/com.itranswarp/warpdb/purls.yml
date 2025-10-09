@@ -20,3 +20,5 @@
 - pkg:maven/com.itranswarp/warpdb@2.2?classifier=sources
 - pkg:maven/com.itranswarp/warpdb@2.6
 - pkg:maven/com.itranswarp/warpdb@2.6?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@2.7
+- pkg:maven/com.itranswarp/warpdb@2.7?classifier=sources
