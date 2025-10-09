@@ -190,3 +190,5 @@
 - pkg:maven/com.proofpoint.platform/discovery@1.70?classifier=sources
 - pkg:maven/com.proofpoint.platform/discovery@1.69
 - pkg:maven/com.proofpoint.platform/discovery@1.69?classifier=sources
+- pkg:maven/com.proofpoint.platform/discovery@1.71
+- pkg:maven/com.proofpoint.platform/discovery@1.71?classifier=sources
