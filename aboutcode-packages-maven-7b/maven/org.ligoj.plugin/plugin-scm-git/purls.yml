@@ -10,3 +10,5 @@
 - pkg:maven/org.ligoj.plugin/plugin-scm-git@1.0.4?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-scm-git@1.0.3
 - pkg:maven/org.ligoj.plugin/plugin-scm-git@1.0.3?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-scm-git@1.0.5
+- pkg:maven/org.ligoj.plugin/plugin-scm-git@1.0.5?classifier=sources

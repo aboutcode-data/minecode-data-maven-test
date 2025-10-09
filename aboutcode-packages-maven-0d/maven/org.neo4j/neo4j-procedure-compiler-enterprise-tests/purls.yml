@@ -55,3 +55,5 @@
 - pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.2.11
 - pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0-rc02
 - pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0-rc02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0
+- pkg:maven/org.neo4j/neo4j-procedure-compiler-enterprise-tests@3.4.0?classifier=sources

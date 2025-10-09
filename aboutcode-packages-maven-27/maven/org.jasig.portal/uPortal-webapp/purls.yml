@@ -50,3 +50,7 @@
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.1.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.0.7?type=war
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.0.7?classifier=sources
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.1.1?type=war
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.1.1?classifier=sources
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.0.8?type=war
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.0.8?classifier=sources
