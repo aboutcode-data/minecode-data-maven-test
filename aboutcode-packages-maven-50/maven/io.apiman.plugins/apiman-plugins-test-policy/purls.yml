@@ -54,3 +54,5 @@
 - pkg:maven/io.apiman.plugins/apiman-plugins-test-policy@1.2.6.Final?classifier=sources
 - pkg:maven/io.apiman.plugins/apiman-plugins-test-policy@1.2.7.Beta1?type=war
 - pkg:maven/io.apiman.plugins/apiman-plugins-test-policy@1.2.7.Beta1?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-test-policy@1.2.7.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-test-policy@1.2.7.Final?classifier=sources

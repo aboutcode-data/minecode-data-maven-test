@@ -56,3 +56,5 @@
 - pkg:maven/io.dropwizard/dropwizard-metrics-ganglia@1.0.0-rc2?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-metrics-ganglia@1.0.0-rc3
 - pkg:maven/io.dropwizard/dropwizard-metrics-ganglia@1.0.0-rc3?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-metrics-ganglia@0.9.3
+- pkg:maven/io.dropwizard/dropwizard-metrics-ganglia@0.9.3?classifier=sources

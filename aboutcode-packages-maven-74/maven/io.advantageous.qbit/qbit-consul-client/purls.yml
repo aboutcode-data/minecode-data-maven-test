@@ -134,3 +134,5 @@
 - pkg:maven/io.advantageous.qbit/qbit-consul-client@1.10.0.RELEASE?classifier=sources
 - pkg:maven/io.advantageous.qbit/qbit-consul-client@1.10.0
 - pkg:maven/io.advantageous.qbit/qbit-consul-client@1.10.0?classifier=sources
+- pkg:maven/io.advantageous.qbit/qbit-consul-client@1.10.2
+- pkg:maven/io.advantageous.qbit/qbit-consul-client@1.10.2?classifier=sources

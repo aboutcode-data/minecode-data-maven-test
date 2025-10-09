@@ -18,3 +18,5 @@
 - pkg:maven/io.apiman/apiman-tools-jdbc@1.2.6.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-tools-jdbc@1.2.7.Beta1
 - pkg:maven/io.apiman/apiman-tools-jdbc@1.2.7.Beta1?classifier=sources
+- pkg:maven/io.apiman/apiman-tools-jdbc@1.2.7.Final
+- pkg:maven/io.apiman/apiman-tools-jdbc@1.2.7.Final?classifier=sources
