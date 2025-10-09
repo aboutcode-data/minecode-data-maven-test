@@ -250,3 +250,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.0.M26?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.20
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.20?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.0.46
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.0.46?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@7.0.81
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@7.0.81?classifier=sources

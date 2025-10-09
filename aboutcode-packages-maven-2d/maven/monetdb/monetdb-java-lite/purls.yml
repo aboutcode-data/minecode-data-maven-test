@@ -2,3 +2,5 @@
 - pkg:maven/monetdb/monetdb-java-lite@2.31?classifier=sources
 - pkg:maven/monetdb/monetdb-java-lite@2.30
 - pkg:maven/monetdb/monetdb-java-lite@2.30?classifier=sources
+- pkg:maven/monetdb/monetdb-java-lite@2.32
+- pkg:maven/monetdb/monetdb-java-lite@2.32?classifier=sources

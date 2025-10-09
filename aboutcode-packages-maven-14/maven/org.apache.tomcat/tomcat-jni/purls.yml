@@ -140,3 +140,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-jni@9.0.0.M26?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.5.20
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.5.20?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jni@8.0.46
+- pkg:maven/org.apache.tomcat/tomcat-jni@8.0.46?classifier=sources

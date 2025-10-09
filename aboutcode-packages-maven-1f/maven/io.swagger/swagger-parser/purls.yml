@@ -64,3 +64,5 @@
 - pkg:maven/io.swagger/swagger-parser@1.0.32?classifier=sources
 - pkg:maven/io.swagger/swagger-parser@1.0.31
 - pkg:maven/io.swagger/swagger-parser@1.0.31?classifier=sources
+- pkg:maven/io.swagger/swagger-parser@2.0.0-rc0
+- pkg:maven/io.swagger/swagger-parser@2.0.0-rc0?classifier=sources

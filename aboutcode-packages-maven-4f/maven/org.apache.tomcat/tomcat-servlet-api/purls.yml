@@ -250,3 +250,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-servlet-api@9.0.0.M26?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-servlet-api@8.5.20
 - pkg:maven/org.apache.tomcat/tomcat-servlet-api@8.5.20?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-servlet-api@8.0.46
+- pkg:maven/org.apache.tomcat/tomcat-servlet-api@8.0.46?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-servlet-api@7.0.81
+- pkg:maven/org.apache.tomcat/tomcat-servlet-api@7.0.81?classifier=sources

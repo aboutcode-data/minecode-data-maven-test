@@ -14,3 +14,5 @@
 - pkg:maven/es.moki.ratelimitj/ratelimitj-redis@0.4.0.M1?classifier=sources
 - pkg:maven/es.moki.ratelimitj/ratelimitj-redis@0.4.0.M2
 - pkg:maven/es.moki.ratelimitj/ratelimitj-redis@0.4.0.M2?classifier=sources
+- pkg:maven/es.moki.ratelimitj/ratelimitj-redis@0.4.0
+- pkg:maven/es.moki.ratelimitj/ratelimitj-redis@0.4.0?classifier=sources
