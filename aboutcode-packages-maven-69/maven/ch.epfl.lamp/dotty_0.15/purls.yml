@@ -66,3 +66,9 @@
 - pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190514-72574cf-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190513-3ef991d-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190513-3ef991d-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190522-ffb250d-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190522-ffb250d-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190521-3bcaf1d-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-bin-20190521-3bcaf1d-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty_0.15@0.15.0-RC1?classifier=sources

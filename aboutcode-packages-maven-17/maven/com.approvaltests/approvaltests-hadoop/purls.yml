@@ -14,3 +14,5 @@
 - pkg:maven/com.approvaltests/approvaltests-hadoop@2.1.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-hadoop@2.4.0
 - pkg:maven/com.approvaltests/approvaltests-hadoop@2.4.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-hadoop@3.0.0
+- pkg:maven/com.approvaltests/approvaltests-hadoop@3.0.0?classifier=sources
