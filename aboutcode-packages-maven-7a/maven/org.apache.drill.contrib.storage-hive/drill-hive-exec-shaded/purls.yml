@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.drill.contrib.storage-hive/drill-hive-exec-shaded@1.11.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib.storage-hive/drill-hive-exec-shaded@1.12.0
 - pkg:maven/org.apache.drill.contrib.storage-hive/drill-hive-exec-shaded@1.12.0?classifier=sources
+- pkg:maven/org.apache.drill.contrib.storage-hive/drill-hive-exec-shaded@1.13.0
+- pkg:maven/org.apache.drill.contrib.storage-hive/drill-hive-exec-shaded@1.13.0?classifier=sources

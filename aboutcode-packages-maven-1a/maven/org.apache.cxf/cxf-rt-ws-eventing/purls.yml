@@ -72,3 +72,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-ws-eventing@3.0.16?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-ws-eventing@3.2.2
 - pkg:maven/org.apache.cxf/cxf-rt-ws-eventing@3.2.2?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-ws-eventing@3.1.15
+- pkg:maven/org.apache.cxf/cxf-rt-ws-eventing@3.1.15?classifier=sources
