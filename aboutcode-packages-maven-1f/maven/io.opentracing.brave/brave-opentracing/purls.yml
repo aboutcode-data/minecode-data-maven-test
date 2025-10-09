@@ -96,3 +96,5 @@
 - pkg:maven/io.opentracing.brave/brave-opentracing@0.33.13?classifier=sources
 - pkg:maven/io.opentracing.brave/brave-opentracing@0.33.12
 - pkg:maven/io.opentracing.brave/brave-opentracing@0.33.12?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.34.0
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.34.0?classifier=sources

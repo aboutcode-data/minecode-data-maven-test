@@ -20,3 +20,5 @@
 - pkg:maven/io.quarkus/quarkus-hibernate-orm@0.16.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-hibernate-orm@0.17.0
 - pkg:maven/io.quarkus/quarkus-hibernate-orm@0.17.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-hibernate-orm@0.18.0
+- pkg:maven/io.quarkus/quarkus-hibernate-orm@0.18.0?classifier=sources
