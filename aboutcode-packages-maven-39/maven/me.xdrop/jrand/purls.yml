@@ -1,2 +1,4 @@
 - pkg:maven/me.xdrop/jrand@0.2.0-alpha
 - pkg:maven/me.xdrop/jrand@0.2.0-alpha?classifier=sources
+- pkg:maven/me.xdrop/jrand@0.2.2-alpha
+- pkg:maven/me.xdrop/jrand@0.2.2-alpha?classifier=sources
