@@ -1,2 +1,4 @@
 - pkg:maven/cn.leancloud/leancloud-search@6.0.2?type=aar
 - pkg:maven/cn.leancloud/leancloud-search@6.0.2?classifier=sources
+- pkg:maven/cn.leancloud/leancloud-search@6.0.2-androidx
+- pkg:maven/cn.leancloud/leancloud-search@6.0.2-androidx?classifier=sources

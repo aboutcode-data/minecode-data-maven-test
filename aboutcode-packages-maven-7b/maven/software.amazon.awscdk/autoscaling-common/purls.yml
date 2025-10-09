@@ -86,3 +86,7 @@
 - pkg:maven/software.amazon.awscdk/autoscaling-common@1.10.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/autoscaling-common@1.12.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/autoscaling-common@1.12.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/autoscaling-common@1.13.1.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/autoscaling-common@1.13.1.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/autoscaling-common@1.13.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/autoscaling-common@1.13.0.DEVPREVIEW?classifier=sources
