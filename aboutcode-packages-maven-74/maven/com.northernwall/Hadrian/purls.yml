@@ -282,3 +282,7 @@
 - pkg:maven/com.northernwall/Hadrian@1.15.0?classifier=sources
 - pkg:maven/com.northernwall/Hadrian@1.14.8
 - pkg:maven/com.northernwall/Hadrian@1.14.8?classifier=sources
+- pkg:maven/com.northernwall/Hadrian@1.15.2
+- pkg:maven/com.northernwall/Hadrian@1.15.2?classifier=sources
+- pkg:maven/com.northernwall/Hadrian@1.15.1
+- pkg:maven/com.northernwall/Hadrian@1.15.1?classifier=sources

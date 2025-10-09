@@ -1,2 +1,4 @@
 - pkg:maven/de.alpharogroup/builder@4.9.0
 - pkg:maven/de.alpharogroup/builder@4.9.0?classifier=sources
+- pkg:maven/de.alpharogroup/builder@4.10.0
+- pkg:maven/de.alpharogroup/builder@4.10.0?classifier=sources

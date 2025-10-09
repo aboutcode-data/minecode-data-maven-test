@@ -42,3 +42,5 @@
 - pkg:maven/com.srcclr/srcclr-maven-plugin@2.3.3?classifier=sources
 - pkg:maven/com.srcclr/srcclr-maven-plugin@2.3.5
 - pkg:maven/com.srcclr/srcclr-maven-plugin@2.3.5?classifier=sources
+- pkg:maven/com.srcclr/srcclr-maven-plugin@2.3.7
+- pkg:maven/com.srcclr/srcclr-maven-plugin@2.3.7?classifier=sources
