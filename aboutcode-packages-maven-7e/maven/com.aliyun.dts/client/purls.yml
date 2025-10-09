@@ -16,3 +16,7 @@
 - pkg:maven/com.aliyun.dts/client@5.0.0.0-cloud.beta?classifier=sources
 - pkg:maven/com.aliyun.dts/client@5.0.0.1-cloud.beta
 - pkg:maven/com.aliyun.dts/client@5.0.0.1-cloud.beta?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.45-cloud
+- pkg:maven/com.aliyun.dts/client@2.2.1.45-cloud?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.44-cloud
+- pkg:maven/com.aliyun.dts/client@2.2.1.44-cloud?classifier=sources

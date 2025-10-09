@@ -67,3 +67,5 @@
 - pkg:maven/com.alibaba.csp/ahas-sentinel-client@1.4.5?classifier=sources
 - pkg:maven/com.alibaba.csp/ahas-sentinel-client@1.5.0
 - pkg:maven/com.alibaba.csp/ahas-sentinel-client@1.5.0?classifier=sources
+- pkg:maven/com.alibaba.csp/ahas-sentinel-client@1.5.0-ra
+- pkg:maven/com.alibaba.csp/ahas-sentinel-client@1.5.0-ra?classifier=sources
