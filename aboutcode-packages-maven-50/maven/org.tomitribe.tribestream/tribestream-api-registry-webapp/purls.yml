@@ -8,3 +8,5 @@
 - pkg:maven/org.tomitribe.tribestream/tribestream-api-registry-webapp@0.5.1?classifier=sources
 - pkg:maven/org.tomitribe.tribestream/tribestream-api-registry-webapp@0.5.2?type=war
 - pkg:maven/org.tomitribe.tribestream/tribestream-api-registry-webapp@0.5.2?classifier=sources
+- pkg:maven/org.tomitribe.tribestream/tribestream-api-registry-webapp@0.5.3?type=war
+- pkg:maven/org.tomitribe.tribestream/tribestream-api-registry-webapp@0.5.3?classifier=sources

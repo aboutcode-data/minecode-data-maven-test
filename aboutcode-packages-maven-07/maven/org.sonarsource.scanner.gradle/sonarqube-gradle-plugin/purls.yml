@@ -1,2 +1,4 @@
 - pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.2
 - pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.2?classifier=sources
+- pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.2.1
+- pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.2.1?classifier=sources
