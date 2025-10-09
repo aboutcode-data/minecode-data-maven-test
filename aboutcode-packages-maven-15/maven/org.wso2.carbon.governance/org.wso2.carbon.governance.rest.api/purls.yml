@@ -92,3 +92,7 @@
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.5.3?classifier=sources
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.5.2?type=war
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.5.2?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.8.9?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.8.9?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.8.10?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.8.10?classifier=sources

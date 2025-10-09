@@ -313,3 +313,6 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.mongo@4.4.107
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.mongo@4.4.107?classifier=sources
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.mongo@4.4.107?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.mongo@4.5.617
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.mongo@4.5.617?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.mongo@4.5.617?classifier=source-release&type=zip
