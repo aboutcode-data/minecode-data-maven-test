@@ -184,3 +184,5 @@
 - pkg:maven/org.simpleflatmapper/sfm-jdbc@6.5.0?classifier=sources
 - pkg:maven/org.simpleflatmapper/sfm-jdbc@6.6.0
 - pkg:maven/org.simpleflatmapper/sfm-jdbc@6.6.0?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-jdbc@6.6.1
+- pkg:maven/org.simpleflatmapper/sfm-jdbc@6.6.1?classifier=sources

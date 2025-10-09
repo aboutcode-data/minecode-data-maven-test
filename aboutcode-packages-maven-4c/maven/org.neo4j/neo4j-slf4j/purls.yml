@@ -280,3 +280,5 @@
 - pkg:maven/org.neo4j/neo4j-slf4j@3.5.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j@3.2.14
 - pkg:maven/org.neo4j/neo4j-slf4j@3.2.14?classifier=sources
+- pkg:maven/org.neo4j/neo4j-slf4j@3.5.4
+- pkg:maven/org.neo4j/neo4j-slf4j@3.5.4?classifier=sources
