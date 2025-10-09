@@ -54,3 +54,5 @@
 - pkg:maven/com.lob/lob-java@6.1.0?classifier=sources
 - pkg:maven/com.lob/lob-java@6.2.0
 - pkg:maven/com.lob/lob-java@6.2.0?classifier=sources
+- pkg:maven/com.lob/lob-java@7.0.0
+- pkg:maven/com.lob/lob-java@7.0.0?classifier=sources

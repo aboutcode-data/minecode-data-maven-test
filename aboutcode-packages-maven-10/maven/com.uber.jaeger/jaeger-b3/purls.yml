@@ -12,3 +12,5 @@
 - pkg:maven/com.uber.jaeger/jaeger-b3@0.21.0?classifier=sources
 - pkg:maven/com.uber.jaeger/jaeger-b3@0.0.55
 - pkg:maven/com.uber.jaeger/jaeger-b3@0.0.55?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-b3@0.22.0-RC1
+- pkg:maven/com.uber.jaeger/jaeger-b3@0.22.0-RC1?classifier=sources

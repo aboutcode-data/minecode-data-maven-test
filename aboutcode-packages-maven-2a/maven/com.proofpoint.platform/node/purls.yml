@@ -230,3 +230,5 @@
 - pkg:maven/com.proofpoint.platform/node@1.59?classifier=sources
 - pkg:maven/com.proofpoint.platform/node@1.60
 - pkg:maven/com.proofpoint.platform/node@1.60?classifier=sources
+- pkg:maven/com.proofpoint.platform/node@1.61
+- pkg:maven/com.proofpoint.platform/node@1.61?classifier=sources

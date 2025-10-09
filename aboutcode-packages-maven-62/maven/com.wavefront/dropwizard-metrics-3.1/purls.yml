@@ -80,3 +80,5 @@
 - pkg:maven/com.wavefront/dropwizard-metrics-3.1@4.22?classifier=sources
 - pkg:maven/com.wavefront/dropwizard-metrics-3.1@4.21
 - pkg:maven/com.wavefront/dropwizard-metrics-3.1@4.21?classifier=sources
+- pkg:maven/com.wavefront/dropwizard-metrics-3.1@4.24
+- pkg:maven/com.wavefront/dropwizard-metrics-3.1@4.24?classifier=sources

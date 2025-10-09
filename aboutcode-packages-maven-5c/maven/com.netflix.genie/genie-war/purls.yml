@@ -52,3 +52,7 @@
 - pkg:maven/com.netflix.genie/genie-war@3.1.2?classifier=sources
 - pkg:maven/com.netflix.genie/genie-war@3.2.0?type=war
 - pkg:maven/com.netflix.genie/genie-war@3.2.0?classifier=sources
+- pkg:maven/com.netflix.genie/genie-war@3.2.2?type=war
+- pkg:maven/com.netflix.genie/genie-war@3.2.2?classifier=sources
+- pkg:maven/com.netflix.genie/genie-war@3.2.1?type=war
+- pkg:maven/com.netflix.genie/genie-war@3.2.1?classifier=sources
