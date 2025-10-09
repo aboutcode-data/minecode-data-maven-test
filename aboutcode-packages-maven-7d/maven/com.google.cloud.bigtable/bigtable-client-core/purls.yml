@@ -32,3 +32,5 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-client-core@0.9.6.2?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-client-core@0.9.7
 - pkg:maven/com.google.cloud.bigtable/bigtable-client-core@0.9.7?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-client-core@0.9.7.1
+- pkg:maven/com.google.cloud.bigtable/bigtable-client-core@0.9.7.1?classifier=sources

@@ -24,3 +24,11 @@
 - pkg:maven/com.chrisdempewolf/pinterest-sdk@1.16?classifier=sources
 - pkg:maven/com.chrisdempewolf/pinterest-sdk@1.15
 - pkg:maven/com.chrisdempewolf/pinterest-sdk@1.15?classifier=sources
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@3.1.0
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@3.1.0?classifier=sources
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@3.0.0
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@3.0.0?classifier=sources
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@2.1.0
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@2.1.0?classifier=sources
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@2.0.0
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@2.0.0?classifier=sources
