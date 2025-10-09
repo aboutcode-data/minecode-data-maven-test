@@ -26,3 +26,5 @@
 - pkg:maven/org.tiogasolutions.push/tioga-push-server-servlet@4.4.0?classifier=sources
 - pkg:maven/org.tiogasolutions.push/tioga-push-server-servlet@4.4.1?type=war
 - pkg:maven/org.tiogasolutions.push/tioga-push-server-servlet@4.4.1?classifier=sources
+- pkg:maven/org.tiogasolutions.push/tioga-push-server-servlet@4.4.4?type=war
+- pkg:maven/org.tiogasolutions.push/tioga-push-server-servlet@4.4.4?classifier=sources
