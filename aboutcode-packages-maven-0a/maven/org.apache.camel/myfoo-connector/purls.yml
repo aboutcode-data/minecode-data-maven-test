@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.camel/myfoo-connector@2.21.2?classifier=sources
 - pkg:maven/org.apache.camel/myfoo-connector@2.20.4
 - pkg:maven/org.apache.camel/myfoo-connector@2.20.4?classifier=sources
+- pkg:maven/org.apache.camel/myfoo-connector@2.22.1
+- pkg:maven/org.apache.camel/myfoo-connector@2.22.1?classifier=sources

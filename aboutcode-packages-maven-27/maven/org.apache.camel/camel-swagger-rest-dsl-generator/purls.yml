@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.21.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.20.4
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.20.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.22.1
+- pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.22.1?classifier=sources
