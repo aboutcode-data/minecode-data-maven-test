@@ -106,3 +106,5 @@
 - pkg:maven/com.qulice/qulice-checkstyle@0.17?classifier=sources
 - pkg:maven/com.qulice/qulice-checkstyle@0.17.1
 - pkg:maven/com.qulice/qulice-checkstyle@0.17.1?classifier=sources
+- pkg:maven/com.qulice/qulice-checkstyle@0.17.2
+- pkg:maven/com.qulice/qulice-checkstyle@0.17.2?classifier=sources

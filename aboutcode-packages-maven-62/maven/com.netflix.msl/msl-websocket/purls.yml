@@ -1,2 +1,4 @@
 - pkg:maven/com.netflix.msl/msl-websocket@1.1221.0?type=war
 - pkg:maven/com.netflix.msl/msl-websocket@1.1221.0?classifier=sources
+- pkg:maven/com.netflix.msl/msl-websocket@1.1221.1?type=war
+- pkg:maven/com.netflix.msl/msl-websocket@1.1221.1?classifier=sources

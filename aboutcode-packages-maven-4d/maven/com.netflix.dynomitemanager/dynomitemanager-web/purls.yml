@@ -32,3 +32,5 @@
 - pkg:maven/com.netflix.dynomitemanager/dynomitemanager-web@2.0.16?classifier=sources
 - pkg:maven/com.netflix.dynomitemanager/dynomitemanager-web@2.0.15?type=war
 - pkg:maven/com.netflix.dynomitemanager/dynomitemanager-web@2.0.15?classifier=sources
+- pkg:maven/com.netflix.dynomitemanager/dynomitemanager-web@2.0.17?type=war
+- pkg:maven/com.netflix.dynomitemanager/dynomitemanager-web@2.0.17?classifier=sources

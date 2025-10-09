@@ -1,0 +1,4 @@
+- pkg:maven/com.sbuslab/sbus@unspecified
+- pkg:maven/com.sbuslab/sbus@unspecified?classifier=sources
+- pkg:maven/com.sbuslab/sbus@1.0.0
+- pkg:maven/com.sbuslab/sbus@1.0.0?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/com.wavefront/java-client@4.25?classifier=sources
 - pkg:maven/com.wavefront/java-client@4.26
 - pkg:maven/com.wavefront/java-client@4.26?classifier=sources
+- pkg:maven/com.wavefront/java-client@4.27
+- pkg:maven/com.wavefront/java-client@4.27?classifier=sources
