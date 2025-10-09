@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.sentry/sentry-dist@1.7.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.sentry/sentry-dist@2.0.1
 - pkg:maven/org.apache.sentry/sentry-dist@2.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.sentry/sentry-dist@2.1.0

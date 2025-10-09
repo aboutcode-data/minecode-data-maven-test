@@ -27,3 +27,4 @@
 - pkg:maven/org.apache.qpid/apache-qpid-jms@0.34.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-jms@0.35.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-jms@0.36.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-jms@0.37.0?classifier=src&type=tar.gz

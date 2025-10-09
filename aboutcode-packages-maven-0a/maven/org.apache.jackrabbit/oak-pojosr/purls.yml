@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.9.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.7
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.8
+- pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.8?classifier=sources
