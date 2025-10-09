@@ -8,3 +8,5 @@
 - pkg:maven/com.qubole.rubix/rubix-rpm@0.3.1?classifier=sources
 - pkg:maven/com.qubole.rubix/rubix-rpm@0.2.12.1
 - pkg:maven/com.qubole.rubix/rubix-rpm@0.2.12.1?classifier=sources
+- pkg:maven/com.qubole.rubix/rubix-rpm@0.2.12.2
+- pkg:maven/com.qubole.rubix/rubix-rpm@0.2.12.2?classifier=sources

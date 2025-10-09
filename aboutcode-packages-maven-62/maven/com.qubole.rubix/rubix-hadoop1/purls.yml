@@ -32,3 +32,5 @@
 - pkg:maven/com.qubole.rubix/rubix-hadoop1@0.2.14?classifier=sources
 - pkg:maven/com.qubole.rubix/rubix-hadoop1@0.2.12.1
 - pkg:maven/com.qubole.rubix/rubix-hadoop1@0.2.12.1?classifier=sources
+- pkg:maven/com.qubole.rubix/rubix-hadoop1@0.2.12.2
+- pkg:maven/com.qubole.rubix/rubix-hadoop1@0.2.12.2?classifier=sources

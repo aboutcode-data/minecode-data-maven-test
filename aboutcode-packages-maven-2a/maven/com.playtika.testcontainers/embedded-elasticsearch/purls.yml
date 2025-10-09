@@ -1,2 +1,4 @@
 - pkg:maven/com.playtika.testcontainers/embedded-elasticsearch@1.8
 - pkg:maven/com.playtika.testcontainers/embedded-elasticsearch@1.8?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-elasticsearch@1.9
+- pkg:maven/com.playtika.testcontainers/embedded-elasticsearch@1.9?classifier=sources

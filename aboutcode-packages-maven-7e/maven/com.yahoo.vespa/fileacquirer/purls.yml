@@ -217,3 +217,8 @@
 - pkg:maven/com.yahoo.vespa/fileacquirer@6.276.19
 - pkg:maven/com.yahoo.vespa/fileacquirer@6.276.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/fileacquirer@6.281.43
+- pkg:maven/com.yahoo.vespa/fileacquirer@6.281.43?classifier=sources
+- pkg:maven/com.yahoo.vespa/fileacquirer@6.280.15
+- pkg:maven/com.yahoo.vespa/fileacquirer@6.280.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/fileacquirer@6.279.46
+- pkg:maven/com.yahoo.vespa/fileacquirer@6.279.46?classifier=sources
