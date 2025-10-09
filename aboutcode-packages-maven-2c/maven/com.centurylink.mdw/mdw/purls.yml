@@ -32,3 +32,5 @@
 - pkg:maven/com.centurylink.mdw/mdw@6.1.06?classifier=sources
 - pkg:maven/com.centurylink.mdw/mdw@6.1.07?type=war
 - pkg:maven/com.centurylink.mdw/mdw@6.1.07?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw@6.1.08?type=war
+- pkg:maven/com.centurylink.mdw/mdw@6.1.08?classifier=sources

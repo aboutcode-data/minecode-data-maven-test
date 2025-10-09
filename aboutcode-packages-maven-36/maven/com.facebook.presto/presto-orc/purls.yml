@@ -280,3 +280,5 @@
 - pkg:maven/com.facebook.presto/presto-orc@0.207?classifier=sources
 - pkg:maven/com.facebook.presto/presto-orc@0.208
 - pkg:maven/com.facebook.presto/presto-orc@0.208?classifier=sources
+- pkg:maven/com.facebook.presto/presto-orc@0.209
+- pkg:maven/com.facebook.presto/presto-orc@0.209?classifier=sources

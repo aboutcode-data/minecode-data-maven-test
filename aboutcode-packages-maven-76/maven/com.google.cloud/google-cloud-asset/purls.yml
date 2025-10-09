@@ -1,2 +1,4 @@
 - pkg:maven/com.google.cloud/google-cloud-asset@0.59.0-beta
 - pkg:maven/com.google.cloud/google-cloud-asset@0.59.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@0.60.0-beta
+- pkg:maven/com.google.cloud/google-cloud-asset@0.60.0-beta?classifier=sources

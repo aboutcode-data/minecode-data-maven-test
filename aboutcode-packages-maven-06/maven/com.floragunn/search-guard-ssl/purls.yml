@@ -304,3 +304,5 @@
 - pkg:maven/com.floragunn/search-guard-ssl@6.1.2-25.4?classifier=sources
 - pkg:maven/com.floragunn/search-guard-ssl@6.1.1-25.4?classifier=sources
 - pkg:maven/com.floragunn/search-guard-ssl@6.1.0-25.4?classifier=sources
+- pkg:maven/com.floragunn/search-guard-ssl@6.4.0-25.4
+- pkg:maven/com.floragunn/search-guard-ssl@6.4.0-25.4?classifier=sources

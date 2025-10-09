@@ -28,3 +28,5 @@
 - pkg:maven/com.faunadb/faunadb-java@2.5.2?classifier=sources
 - pkg:maven/com.faunadb/faunadb-java@2.5.3
 - pkg:maven/com.faunadb/faunadb-java@2.5.3?classifier=sources
+- pkg:maven/com.faunadb/faunadb-java@1.2.1
+- pkg:maven/com.faunadb/faunadb-java@1.2.1?classifier=sources

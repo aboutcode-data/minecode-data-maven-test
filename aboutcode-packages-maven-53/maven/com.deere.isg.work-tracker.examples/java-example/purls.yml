@@ -1,2 +1,4 @@
 - pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc3?type=war
 - pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc3?classifier=sources
+- pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc4?type=war
+- pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc4?classifier=sources

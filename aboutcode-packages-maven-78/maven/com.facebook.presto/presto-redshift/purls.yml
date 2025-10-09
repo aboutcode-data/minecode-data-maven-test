@@ -21,3 +21,4 @@
 - pkg:maven/com.facebook.presto/presto-redshift@0.206?classifier=sources
 - pkg:maven/com.facebook.presto/presto-redshift@0.207?classifier=sources
 - pkg:maven/com.facebook.presto/presto-redshift@0.208?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redshift@0.209?classifier=sources
