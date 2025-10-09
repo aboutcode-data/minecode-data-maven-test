@@ -38,3 +38,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-spec-suite-tools@3.1.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-spec-suite-tools@3.3.0
 - pkg:maven/org.neo4j/neo4j-cypher-spec-suite-tools@3.3.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-spec-suite-tools@3.2.7
+- pkg:maven/org.neo4j/neo4j-cypher-spec-suite-tools@3.2.7?classifier=sources

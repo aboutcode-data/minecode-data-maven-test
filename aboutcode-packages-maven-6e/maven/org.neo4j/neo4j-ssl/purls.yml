@@ -26,3 +26,5 @@
 - pkg:maven/org.neo4j/neo4j-ssl@3.2.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ssl@3.3.0
 - pkg:maven/org.neo4j/neo4j-ssl@3.3.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ssl@3.2.7
+- pkg:maven/org.neo4j/neo4j-ssl@3.2.7?classifier=sources
