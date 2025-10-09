@@ -4,3 +4,5 @@
 - pkg:maven/ch.squaredesk.nova/jms@4.0.0-beta-2?classifier=sources
 - pkg:maven/ch.squaredesk.nova/jms@5.0.0
 - pkg:maven/ch.squaredesk.nova/jms@5.0.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/jms@5.2.0
+- pkg:maven/ch.squaredesk.nova/jms@5.2.0?classifier=sources
