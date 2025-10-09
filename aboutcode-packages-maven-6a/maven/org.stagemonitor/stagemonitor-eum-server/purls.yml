@@ -80,3 +80,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.88.9?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.15?type=war
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.15?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.16?type=war
+- pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.16?classifier=sources

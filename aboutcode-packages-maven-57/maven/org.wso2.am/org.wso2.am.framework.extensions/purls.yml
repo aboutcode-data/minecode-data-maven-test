@@ -71,3 +71,5 @@
 - pkg:maven/org.wso2.am/org.wso2.am.framework.extensions@2.1.0-alpha
 - pkg:maven/org.wso2.am/org.wso2.am.framework.extensions@2.1.0-alpha?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.framework.extensions@2.1.0
+- pkg:maven/org.wso2.am/org.wso2.am.framework.extensions@3.0.0-m32
+- pkg:maven/org.wso2.am/org.wso2.am.framework.extensions@3.0.0-m32?classifier=sources

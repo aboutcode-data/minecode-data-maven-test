@@ -199,3 +199,7 @@
 - pkg:maven/org.springframework.data/spring-data-jpa@2.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.21.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.22.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.22.RELEASE?classifier=sources

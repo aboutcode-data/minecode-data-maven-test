@@ -74,3 +74,5 @@
 - pkg:maven/org.wso2.am/org.wso2.am.integration.backend.service@2.0.0
 - pkg:maven/org.wso2.am/org.wso2.am.integration.backend.service@2.0.0?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.integration.backend.service@1.10.0
+- pkg:maven/org.wso2.am/org.wso2.am.integration.backend.service@3.0.0-m32
+- pkg:maven/org.wso2.am/org.wso2.am.integration.backend.service@3.0.0-m32?classifier=sources

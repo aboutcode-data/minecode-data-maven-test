@@ -86,3 +86,7 @@
 - pkg:maven/org.springframework.data/spring-data-ldap@2.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-ldap@1.0.21.RELEASE
 - pkg:maven/org.springframework.data/spring-data-ldap@1.0.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-ldap@2.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-ldap@2.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-ldap@1.0.22.RELEASE
+- pkg:maven/org.springframework.data/spring-data-ldap@1.0.22.RELEASE?classifier=sources

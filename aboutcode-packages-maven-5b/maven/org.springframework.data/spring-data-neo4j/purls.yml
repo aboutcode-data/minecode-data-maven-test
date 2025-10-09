@@ -192,3 +192,7 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.21.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.22.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.22.RELEASE?classifier=sources
