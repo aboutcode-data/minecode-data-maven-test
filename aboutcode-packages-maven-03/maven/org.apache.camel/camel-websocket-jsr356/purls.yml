@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.0.0-RC2
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.0.0-RC3
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.0.0-RC3?classifier=sources

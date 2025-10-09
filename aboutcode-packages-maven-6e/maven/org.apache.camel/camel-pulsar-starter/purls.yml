@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.camel/camel-pulsar-starter@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-pulsar-starter@3.0.0-RC2
 - pkg:maven/org.apache.camel/camel-pulsar-starter@3.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel/camel-pulsar-starter@3.0.0-RC3
+- pkg:maven/org.apache.camel/camel-pulsar-starter@3.0.0-RC3?classifier=sources

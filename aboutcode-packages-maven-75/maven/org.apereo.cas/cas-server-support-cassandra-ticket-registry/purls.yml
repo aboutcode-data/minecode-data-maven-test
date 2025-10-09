@@ -8,3 +8,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-cassandra-ticket-registry@6.1.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-cassandra-ticket-registry@6.1.0-RC6
 - pkg:maven/org.apereo.cas/cas-server-support-cassandra-ticket-registry@6.1.0-RC6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-cassandra-ticket-registry@6.1.0
+- pkg:maven/org.apereo.cas/cas-server-support-cassandra-ticket-registry@6.1.0?classifier=sources
