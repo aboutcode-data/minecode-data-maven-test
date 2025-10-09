@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.camel/camel-jsonpath@2.21.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-jsonpath@2.23.1
 - pkg:maven/org.apache.camel/camel-jsonpath@2.23.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-jsonpath@2.22.3
+- pkg:maven/org.apache.camel/camel-jsonpath@2.22.3?classifier=sources
