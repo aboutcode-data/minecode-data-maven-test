@@ -47,3 +47,5 @@
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.0.1?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.0.0?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@5.6.5?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.1.1?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.1.0?classifier=sources
