@@ -1,2 +1,4 @@
 - pkg:maven/io.dropwizard.metrics5/metrics-jvm@5.0.0
 - pkg:maven/io.dropwizard.metrics5/metrics-jvm@5.0.0?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-jvm@5.0.0-rc1
+- pkg:maven/io.dropwizard.metrics5/metrics-jvm@5.0.0-rc1?classifier=sources

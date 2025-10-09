@@ -50,3 +50,7 @@
 - pkg:maven/com.datadoghq/dd-java-agent@0.3.0.RC2?classifier=sources
 - pkg:maven/com.datadoghq/dd-java-agent@0.3.0
 - pkg:maven/com.datadoghq/dd-java-agent@0.3.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-java-agent@0.3.2
+- pkg:maven/com.datadoghq/dd-java-agent@0.3.2?classifier=sources
+- pkg:maven/com.datadoghq/dd-java-agent@0.3.1
+- pkg:maven/com.datadoghq/dd-java-agent@0.3.1?classifier=sources

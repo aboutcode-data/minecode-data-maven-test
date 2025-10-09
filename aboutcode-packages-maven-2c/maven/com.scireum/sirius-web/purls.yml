@@ -428,3 +428,7 @@
 - pkg:maven/com.scireum/sirius-web@11.26?classifier=sources
 - pkg:maven/com.scireum/sirius-web@11.25.2
 - pkg:maven/com.scireum/sirius-web@11.25.2?classifier=sources
+- pkg:maven/com.scireum/sirius-web@12.2
+- pkg:maven/com.scireum/sirius-web@12.2?classifier=sources
+- pkg:maven/com.scireum/sirius-web@12.1
+- pkg:maven/com.scireum/sirius-web@12.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.iopipe/iopipe@0.3
 - pkg:maven/com.iopipe/iopipe@0.3?classifier=sources
+- pkg:maven/com.iopipe/iopipe@0.7
+- pkg:maven/com.iopipe/iopipe@0.7?classifier=sources

@@ -91,3 +91,4 @@
 - pkg:maven/org.scalameta/quasiquotes_2.11@2.1.8
 - pkg:maven/org.scalameta/quasiquotes_2.11@2.1.8?classifier=sources
 - pkg:maven/org.scalameta/quasiquotes_2.11@3.1.0
+- pkg:maven/org.scalameta/quasiquotes_2.11@3.1.0?classifier=sources

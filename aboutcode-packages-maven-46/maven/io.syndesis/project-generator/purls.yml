@@ -18,3 +18,5 @@
 - pkg:maven/io.syndesis/project-generator@1.2.4?classifier=sources
 - pkg:maven/io.syndesis/project-generator@1.2.7
 - pkg:maven/io.syndesis/project-generator@1.2.7?classifier=sources
+- pkg:maven/io.syndesis/project-generator@1.2.8
+- pkg:maven/io.syndesis/project-generator@1.2.8?classifier=sources
