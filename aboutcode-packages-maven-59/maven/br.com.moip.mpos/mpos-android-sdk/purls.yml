@@ -20,3 +20,5 @@
 - pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.7?classifier=sources
 - pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.9?type=aar
 - pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.9?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.1.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.1.0?classifier=sources

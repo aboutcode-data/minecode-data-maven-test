@@ -1,2 +1,4 @@
 - pkg:maven/com.autotec.sdk/aci-java@2.0.0
 - pkg:maven/com.autotec.sdk/aci-java@2.0.0?classifier=sources
+- pkg:maven/com.autotec.sdk/aci-java@2.0.11
+- pkg:maven/com.autotec.sdk/aci-java@2.0.11?classifier=sources

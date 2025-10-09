@@ -64,3 +64,5 @@
 - pkg:maven/com.aspectran/aspectran-daemon@5.9.4?classifier=sources
 - pkg:maven/com.aspectran/aspectran-daemon@5.9.6
 - pkg:maven/com.aspectran/aspectran-daemon@5.9.6?classifier=sources
+- pkg:maven/com.aspectran/aspectran-daemon@5.9.7
+- pkg:maven/com.aspectran/aspectran-daemon@5.9.7?classifier=sources
