@@ -26,3 +26,5 @@
 - pkg:maven/com.kingsoft.services.table/kts-hbase-client@0.9.12?classifier=sources
 - pkg:maven/com.kingsoft.services.table/kts-hbase-client@0.9.12_test
 - pkg:maven/com.kingsoft.services.table/kts-hbase-client@0.9.12_test?classifier=sources
+- pkg:maven/com.kingsoft.services.table/kts-hbase-client@0.9.13
+- pkg:maven/com.kingsoft.services.table/kts-hbase-client@0.9.13?classifier=sources
