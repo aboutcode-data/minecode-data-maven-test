@@ -68,3 +68,7 @@
 - pkg:maven/com.instabug.library/instabug@4.0.7?classifier=sources
 - pkg:maven/com.instabug.library/instabug@4.0.8?type=aar
 - pkg:maven/com.instabug.library/instabug@4.0.8?classifier=sources
+- pkg:maven/com.instabug.library/instabug@4.0.9?type=aar
+- pkg:maven/com.instabug.library/instabug@4.0.9?classifier=sources
+- pkg:maven/com.instabug.library/instabug@4.0.10?type=aar
+- pkg:maven/com.instabug.library/instabug@4.0.10?classifier=sources

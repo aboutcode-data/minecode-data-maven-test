@@ -102,3 +102,5 @@
 - pkg:maven/com.google.api/gax@1.0.0-rc1?classifier=sources
 - pkg:maven/com.google.api/gax@1.0.0
 - pkg:maven/com.google.api/gax@1.0.0?classifier=sources
+- pkg:maven/com.google.api/gax@1.1.0
+- pkg:maven/com.google.api/gax@1.1.0?classifier=sources
