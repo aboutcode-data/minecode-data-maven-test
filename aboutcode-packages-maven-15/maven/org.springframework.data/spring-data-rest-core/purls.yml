@@ -48,3 +48,5 @@
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.5.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.5.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.5.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.5.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.5.2.RELEASE?classifier=sources

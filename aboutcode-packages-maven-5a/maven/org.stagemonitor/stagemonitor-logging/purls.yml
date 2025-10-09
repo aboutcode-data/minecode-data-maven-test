@@ -60,3 +60,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.24.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.26.0
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.26.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-logging@0.26.1
+- pkg:maven/org.stagemonitor/stagemonitor-logging@0.26.1?classifier=sources

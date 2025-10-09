@@ -120,3 +120,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-http@4.2.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-http@4.2.7.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-http@4.2.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-http@4.3.0.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-http@4.3.0.RELEASE?classifier=sources
