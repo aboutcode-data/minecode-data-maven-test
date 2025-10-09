@@ -24,3 +24,5 @@
 - pkg:maven/au.net.causal.maven.plugins/boxdb-maven-plugin@1.10?classifier=sources
 - pkg:maven/au.net.causal.maven.plugins/boxdb-maven-plugin@2.0
 - pkg:maven/au.net.causal.maven.plugins/boxdb-maven-plugin@2.0?classifier=sources
+- pkg:maven/au.net.causal.maven.plugins/boxdb-maven-plugin@2.1
+- pkg:maven/au.net.causal.maven.plugins/boxdb-maven-plugin@2.1?classifier=sources

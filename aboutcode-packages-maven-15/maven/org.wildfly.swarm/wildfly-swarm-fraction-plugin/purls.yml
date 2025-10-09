@@ -155,3 +155,5 @@
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@62?classifier=sources
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@61
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@61?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@65
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-fraction-plugin@65?classifier=sources

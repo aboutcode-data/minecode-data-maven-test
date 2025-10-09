@@ -20,3 +20,7 @@
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-simplex?classifier=sources
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-cerulean
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-cerulean?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-journal
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-journal?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-cerulean
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-cerulean?classifier=sources

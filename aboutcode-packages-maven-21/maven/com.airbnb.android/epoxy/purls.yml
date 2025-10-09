@@ -52,3 +52,5 @@
 - pkg:maven/com.airbnb.android/epoxy@2.4.0?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy@2.5.0?type=aar
 - pkg:maven/com.airbnb.android/epoxy@2.5.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy@2.5.1?type=aar
+- pkg:maven/com.airbnb.android/epoxy@2.5.1?classifier=sources
