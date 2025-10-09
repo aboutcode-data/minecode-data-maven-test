@@ -1,2 +1,4 @@
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.15.3
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.15.3?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.15.4
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-bundle@0.15.4?classifier=sources

@@ -196,3 +196,5 @@
 - pkg:maven/com.nimbusds/common@2.32?classifier=sources
 - pkg:maven/com.nimbusds/common@2.31
 - pkg:maven/com.nimbusds/common@2.31?classifier=sources
+- pkg:maven/com.nimbusds/common@2.33
+- pkg:maven/com.nimbusds/common@2.33?classifier=sources
