@@ -1,2 +1,6 @@
 - pkg:maven/ga.babababa/demo-ecom-app-web-user@0.0.3?type=war
 - pkg:maven/ga.babababa/demo-ecom-app-web-user@0.0.3?classifier=sources
+- pkg:maven/ga.babababa/demo-ecom-app-web-user@0.0.5?type=war
+- pkg:maven/ga.babababa/demo-ecom-app-web-user@0.0.5?classifier=sources
+- pkg:maven/ga.babababa/demo-ecom-app-web-user@0.0.4?type=war
+- pkg:maven/ga.babababa/demo-ecom-app-web-user@0.0.4?classifier=sources
