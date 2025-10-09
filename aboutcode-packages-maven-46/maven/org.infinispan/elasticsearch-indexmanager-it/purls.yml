@@ -103,3 +103,5 @@
 - pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.3.6.Final
 - pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.3.6.Final?classifier=sources
 - pkg:maven/org.infinispan/elasticsearch-indexmanager-it@10.0.0.Beta1
+- pkg:maven/org.infinispan/elasticsearch-indexmanager-it@9.4.8.Final
+- pkg:maven/org.infinispan/elasticsearch-indexmanager-it@10.0.0.Beta2

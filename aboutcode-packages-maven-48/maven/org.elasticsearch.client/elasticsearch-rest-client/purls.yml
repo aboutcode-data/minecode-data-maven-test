@@ -92,3 +92,7 @@
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.6.0?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.0.0-beta1
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.6.1
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.6.1?classifier=sources
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@5.6.15
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@5.6.15?classifier=sources

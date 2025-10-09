@@ -142,3 +142,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@6.6.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@7.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@7.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@6.6.1
+- pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@6.6.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@5.6.15
+- pkg:maven/org.elasticsearch/elasticsearch-spark-13_2.11@5.6.15?classifier=sources

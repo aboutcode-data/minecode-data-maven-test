@@ -94,3 +94,5 @@
 - pkg:maven/org.duracloud/notification@5.0.0?classifier=sources
 - pkg:maven/org.duracloud/notification@5.1.0
 - pkg:maven/org.duracloud/notification@5.1.0?classifier=sources
+- pkg:maven/org.duracloud/notification@6.0.0
+- pkg:maven/org.duracloud/notification@6.0.0?classifier=sources

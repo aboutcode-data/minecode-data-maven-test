@@ -40,3 +40,5 @@
 - pkg:maven/org.elasticsearch.plugin/rank-eval-client@6.6.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/rank-eval-client@7.0.0-beta1
 - pkg:maven/org.elasticsearch.plugin/rank-eval-client@7.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/rank-eval-client@6.6.1
+- pkg:maven/org.elasticsearch.plugin/rank-eval-client@6.6.1?classifier=sources

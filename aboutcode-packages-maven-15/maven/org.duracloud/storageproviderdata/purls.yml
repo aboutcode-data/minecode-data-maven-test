@@ -82,3 +82,5 @@
 - pkg:maven/org.duracloud/storageproviderdata@5.0.0?classifier=sources
 - pkg:maven/org.duracloud/storageproviderdata@5.1.0
 - pkg:maven/org.duracloud/storageproviderdata@5.1.0?classifier=sources
+- pkg:maven/org.duracloud/storageproviderdata@6.0.0
+- pkg:maven/org.duracloud/storageproviderdata@6.0.0?classifier=sources

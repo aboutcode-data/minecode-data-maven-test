@@ -46,3 +46,7 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.1.0.Alpha2?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.0.14.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.0.14.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.1.0.Alpha3
+- pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.1.0.Alpha3?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.0.15.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-cdi@6.0.15.Final?classifier=sources

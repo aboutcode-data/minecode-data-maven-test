@@ -170,3 +170,7 @@
 - pkg:maven/org.elasticsearch/rest-api-spec@6.6.0?classifier=sources
 - pkg:maven/org.elasticsearch/rest-api-spec@7.0.0-beta1
 - pkg:maven/org.elasticsearch/rest-api-spec@7.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/rest-api-spec@6.6.1
+- pkg:maven/org.elasticsearch/rest-api-spec@6.6.1?classifier=sources
+- pkg:maven/org.elasticsearch/rest-api-spec@5.6.15
+- pkg:maven/org.elasticsearch/rest-api-spec@5.6.15?classifier=sources

@@ -245,3 +245,5 @@
 - pkg:maven/org.infinispan/integrationtests-security-manager@9.3.6.Final
 - pkg:maven/org.infinispan/integrationtests-security-manager@9.3.6.Final?classifier=sources
 - pkg:maven/org.infinispan/integrationtests-security-manager@10.0.0.Beta1
+- pkg:maven/org.infinispan/integrationtests-security-manager@9.4.8.Final
+- pkg:maven/org.infinispan/integrationtests-security-manager@10.0.0.Beta2
