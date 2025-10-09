@@ -230,3 +230,5 @@
 - pkg:maven/org.apache.camel/camel-itest-standalone@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest-standalone@2.23.4
 - pkg:maven/org.apache.camel/camel-itest-standalone@2.23.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest-standalone@3.0.0-RC2
+- pkg:maven/org.apache.camel/camel-itest-standalone@3.0.0-RC2?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.apache.arrow/arrow-java-root@0.13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.arrow/arrow-java-root@0.14.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.arrow/arrow-java-root@0.14.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.arrow/arrow-java-root@0.15.0?classifier=source-release&type=zip

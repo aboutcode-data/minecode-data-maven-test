@@ -467,3 +467,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-http@1.8.17?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-http@1.10.5
 - pkg:maven/org.apache.jackrabbit/oak-http@1.10.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-http@1.18.0
+- pkg:maven/org.apache.jackrabbit/oak-http@1.18.0?classifier=sources
