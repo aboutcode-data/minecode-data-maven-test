@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.lucene/lucene-spatial3d@6.4.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial3d@6.4.1
 - pkg:maven/org.apache.lucene/lucene-spatial3d@6.4.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial3d@5.5.4
+- pkg:maven/org.apache.lucene/lucene-spatial3d@5.5.4?classifier=sources

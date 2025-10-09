@@ -70,3 +70,5 @@
 - pkg:maven/net.sf.saxon/Saxon-HE@9.7.0-12?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@9.6.0-10
 - pkg:maven/net.sf.saxon/Saxon-HE@9.6.0-10?classifier=sources
+- pkg:maven/net.sf.saxon/Saxon-HE@9.7.0-15
+- pkg:maven/net.sf.saxon/Saxon-HE@9.7.0-15?classifier=sources
