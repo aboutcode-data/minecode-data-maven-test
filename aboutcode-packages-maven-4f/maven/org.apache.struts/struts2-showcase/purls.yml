@@ -131,3 +131,7 @@
 - pkg:maven/org.apache.struts/struts2-showcase@2.5.17?classifier=sources
 - pkg:maven/org.apache.struts/struts2-showcase@2.3.35?type=war
 - pkg:maven/org.apache.struts/struts2-showcase@2.3.35?classifier=sources
+- pkg:maven/org.apache.struts/struts2-showcase@2.5.18?type=war
+- pkg:maven/org.apache.struts/struts2-showcase@2.5.18?classifier=sources
+- pkg:maven/org.apache.struts/struts2-showcase@2.3.36?type=war
+- pkg:maven/org.apache.struts/struts2-showcase@2.3.36?classifier=sources

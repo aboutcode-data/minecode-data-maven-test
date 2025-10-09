@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.che.plugin/che-plugin-github-provider-github@6.11.1?classifier=sources
 - pkg:maven/org.eclipse.che.plugin/che-plugin-github-provider-github@6.12.0
 - pkg:maven/org.eclipse.che.plugin/che-plugin-github-provider-github@6.12.0?classifier=sources
+- pkg:maven/org.eclipse.che.plugin/che-plugin-github-provider-github@6.12.1
+- pkg:maven/org.eclipse.che.plugin/che-plugin-github-provider-github@6.12.1?classifier=sources

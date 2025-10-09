@@ -66,3 +66,5 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.0.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@5.2.8?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@5.2.8?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@5.3.4?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@5.3.4?classifier=sources

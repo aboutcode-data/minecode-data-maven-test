@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@6.12.0
 - pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@6.12.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@6.12.1
+- pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@6.12.1?classifier=sources

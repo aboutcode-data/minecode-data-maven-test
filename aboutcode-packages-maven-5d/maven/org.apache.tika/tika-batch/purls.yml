@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.tika/tika-batch@1.18?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.19
 - pkg:maven/org.apache.tika/tika-batch@1.19?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@1.19.1
+- pkg:maven/org.apache.tika/tika-batch@1.19.1?classifier=sources
