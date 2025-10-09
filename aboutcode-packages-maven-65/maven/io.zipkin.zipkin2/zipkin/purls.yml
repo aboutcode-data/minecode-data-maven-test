@@ -46,3 +46,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin@2.5.3?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin@2.5.2
 - pkg:maven/io.zipkin.zipkin2/zipkin@2.5.2?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin@2.6.1
+- pkg:maven/io.zipkin.zipkin2/zipkin@2.6.1?classifier=sources
