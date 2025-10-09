@@ -33,3 +33,7 @@
 - pkg:maven/de.adorsys.psd2/consent-management-lib@2.0.4?classifier=sources
 - pkg:maven/de.adorsys.psd2/consent-management-lib@2.0.3
 - pkg:maven/de.adorsys.psd2/consent-management-lib@2.0.3?classifier=sources
+- pkg:maven/de.adorsys.psd2/consent-management-lib@3.0
+- pkg:maven/de.adorsys.psd2/consent-management-lib@3.0?classifier=sources
+- pkg:maven/de.adorsys.psd2/consent-management-lib@2.2
+- pkg:maven/de.adorsys.psd2/consent-management-lib@2.2?classifier=sources

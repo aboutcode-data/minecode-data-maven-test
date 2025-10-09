@@ -24,3 +24,7 @@
 - pkg:maven/com.walmartlabs.ern/react-native@0.59.0-rc.3?classifier=sources
 - pkg:maven/com.walmartlabs.ern/react-native@0.59.0?type=aar
 - pkg:maven/com.walmartlabs.ern/react-native@0.59.0?classifier=sources
+- pkg:maven/com.walmartlabs.ern/react-native@0.59.2?type=aar
+- pkg:maven/com.walmartlabs.ern/react-native@0.59.2?classifier=sources
+- pkg:maven/com.walmartlabs.ern/react-native@0.59.1?type=aar
+- pkg:maven/com.walmartlabs.ern/react-native@0.59.1?classifier=sources

@@ -122,3 +122,5 @@
 - pkg:maven/com.yahoo.vespa/container-integration-test@7.28.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-integration-test@7.27.24
 - pkg:maven/com.yahoo.vespa/container-integration-test@7.27.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-integration-test@7.31.18
+- pkg:maven/com.yahoo.vespa/container-integration-test@7.31.18?classifier=sources
