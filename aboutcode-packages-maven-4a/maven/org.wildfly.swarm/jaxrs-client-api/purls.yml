@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.swarm/jaxrs-client-api@2017.1.1
+- pkg:maven/org.wildfly.swarm/jaxrs-client-api@2017.1.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/jaxrs-client-api@2017.1
+- pkg:maven/org.wildfly.swarm/jaxrs-client-api@2017.1?classifier=sources

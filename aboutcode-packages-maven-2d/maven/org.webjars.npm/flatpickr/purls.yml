@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/flatpickr@1.8.9
 - pkg:maven/org.webjars.npm/flatpickr@1.8.9?classifier=sources
+- pkg:maven/org.webjars.npm/flatpickr@2.2.4
+- pkg:maven/org.webjars.npm/flatpickr@2.2.4?classifier=sources
