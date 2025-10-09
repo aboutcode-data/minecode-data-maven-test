@@ -48,3 +48,7 @@
 - pkg:maven/de.adorsys.psd2/psd2-validator@3.2?classifier=sources
 - pkg:maven/de.adorsys.psd2/psd2-validator@2.4
 - pkg:maven/de.adorsys.psd2/psd2-validator@2.4?classifier=sources
+- pkg:maven/de.adorsys.psd2/psd2-validator@3.3
+- pkg:maven/de.adorsys.psd2/psd2-validator@3.3?classifier=sources
+- pkg:maven/de.adorsys.psd2/psd2-validator@2.5
+- pkg:maven/de.adorsys.psd2/psd2-validator@2.5?classifier=sources

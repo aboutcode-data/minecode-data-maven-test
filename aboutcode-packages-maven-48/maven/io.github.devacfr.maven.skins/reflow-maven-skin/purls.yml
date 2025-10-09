@@ -26,3 +26,5 @@
 - pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@1.5.0?classifier=sources
 - pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.0.0-beta2
 - pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.0.0-beta2?classifier=sources
+- pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.0.0
+- pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.0.0?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/io.jaegertracing/jaeger-core@0.35.3?classifier=sources
 - pkg:maven/io.jaegertracing/jaeger-core@0.35.2
 - pkg:maven/io.jaegertracing/jaeger-core@0.35.2?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-core@0.35.4
+- pkg:maven/io.jaegertracing/jaeger-core@0.35.4?classifier=sources
