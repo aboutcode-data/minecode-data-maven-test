@@ -56,3 +56,5 @@
 - pkg:maven/org.jolokia/jolokia-it-war@1.3.7?classifier=sources
 - pkg:maven/org.jolokia/jolokia-it-war@1.4.0?type=war
 - pkg:maven/org.jolokia/jolokia-it-war@1.4.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-it-war@1.5.0?type=war
+- pkg:maven/org.jolokia/jolokia-it-war@1.5.0?classifier=sources

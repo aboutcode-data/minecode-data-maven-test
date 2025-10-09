@@ -1,2 +1,4 @@
 - pkg:maven/org.drools/drlx-parser@7.6.0.t022
 - pkg:maven/org.drools/drlx-parser@7.6.0.t022?classifier=sources
+- pkg:maven/org.drools/drlx-parser@7.6.0.Final
+- pkg:maven/org.drools/drlx-parser@7.6.0.Final?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/org.fastquery/tcpserver@1.8?classifier=sources
 - pkg:maven/org.fastquery/tcpserver@1.7
 - pkg:maven/org.fastquery/tcpserver@1.7?classifier=sources
+- pkg:maven/org.fastquery/tcpserver@1.11
+- pkg:maven/org.fastquery/tcpserver@1.11?classifier=sources
+- pkg:maven/org.fastquery/tcpserver@1.10
+- pkg:maven/org.fastquery/tcpserver@1.10?classifier=sources
