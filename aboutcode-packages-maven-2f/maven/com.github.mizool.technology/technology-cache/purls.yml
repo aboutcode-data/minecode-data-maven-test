@@ -38,3 +38,5 @@
 - pkg:maven/com.github.mizool.technology/technology-cache@0.20?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-cache@%2525NEXT_DEVELOP_SNAPSHOT%2525
 - pkg:maven/com.github.mizool.technology/technology-cache@%2525NEXT_DEVELOP_SNAPSHOT%2525?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-cache@0.21
+- pkg:maven/com.github.mizool.technology/technology-cache@0.21?classifier=sources

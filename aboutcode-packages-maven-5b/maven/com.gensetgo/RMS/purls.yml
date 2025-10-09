@@ -106,3 +106,5 @@
 - pkg:maven/com.gensetgo/RMS@1.2.44?classifier=sources
 - pkg:maven/com.gensetgo/RMS@1.2.43?type=war
 - pkg:maven/com.gensetgo/RMS@1.2.43?classifier=sources
+- pkg:maven/com.gensetgo/RMS@1.2.53?type=war
+- pkg:maven/com.gensetgo/RMS@1.2.53?classifier=sources

@@ -62,3 +62,7 @@
 - pkg:maven/com.appslandia/appslandia-plum@3.8?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@3.9
 - pkg:maven/com.appslandia/appslandia-plum@3.9?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@4.1
+- pkg:maven/com.appslandia/appslandia-plum@4.1?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@4.0
+- pkg:maven/com.appslandia/appslandia-plum@4.0?classifier=sources

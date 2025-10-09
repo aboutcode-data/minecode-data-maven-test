@@ -74,3 +74,5 @@
 - pkg:maven/com.alpinenow/plugin-test@1.9?classifier=sources
 - pkg:maven/com.alpinenow/plugin-test@1.10-beta
 - pkg:maven/com.alpinenow/plugin-test@1.10-beta?classifier=sources
+- pkg:maven/com.alpinenow/plugin-test@1.10
+- pkg:maven/com.alpinenow/plugin-test@1.10?classifier=sources
