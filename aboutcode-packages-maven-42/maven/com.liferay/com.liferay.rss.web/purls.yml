@@ -40,3 +40,6 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@2.2.10
 - pkg:maven/com.liferay/com.liferay.rss.web@2.2.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@2.2.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@2.2.12
+- pkg:maven/com.liferay/com.liferay.rss.web@2.2.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@2.2.12?classifier=sources-commercial

@@ -28,3 +28,5 @@
 - pkg:maven/com.savoirtech.hecate/hecate-karaf@3.0.0?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-karaf@4.0.0.Beta1
 - pkg:maven/com.savoirtech.hecate/hecate-karaf@4.0.0.Beta1?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-karaf@4.0.0
+- pkg:maven/com.savoirtech.hecate/hecate-karaf@4.0.0?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-sandbox@0.58.1?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-sandbox@0.59.0
 - pkg:maven/com.netflix.spectator/spectator-ext-sandbox@0.59.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-sandbox@0.60.0
+- pkg:maven/com.netflix.spectator/spectator-ext-sandbox@0.60.0?classifier=sources
