@@ -12,3 +12,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-api@3.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-api@3.0.7
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-api@3.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-api@4.0.1
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-api@4.0.1?classifier=sources

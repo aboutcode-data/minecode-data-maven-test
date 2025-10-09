@@ -164,3 +164,5 @@
 - pkg:maven/org.molgenis/molgenis-security@7.4.1?classifier=sources
 - pkg:maven/org.molgenis/molgenis-security@7.2.14
 - pkg:maven/org.molgenis/molgenis-security@7.2.14?classifier=sources
+- pkg:maven/org.molgenis/molgenis-security@8.0.4
+- pkg:maven/org.molgenis/molgenis-security@8.0.4?classifier=sources

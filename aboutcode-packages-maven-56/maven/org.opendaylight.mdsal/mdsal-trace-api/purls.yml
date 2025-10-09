@@ -10,3 +10,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-api@1.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-api@1.0.7
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-api@1.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-trace-api@2.0.1
+- pkg:maven/org.opendaylight.mdsal/mdsal-trace-api@2.0.1?classifier=sources

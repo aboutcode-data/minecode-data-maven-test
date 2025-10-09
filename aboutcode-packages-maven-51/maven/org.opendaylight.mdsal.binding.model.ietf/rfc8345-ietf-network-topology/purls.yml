@@ -12,3 +12,5 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network-topology@1.2.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network-topology@1.2.7
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network-topology@1.2.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network-topology@2.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network-topology@2.0.1?classifier=sources
