@@ -52,3 +52,7 @@
 - pkg:maven/org.webjars.npm/types__node@10.10.3?classifier=sources
 - pkg:maven/org.webjars.npm/types__node@10.10.1
 - pkg:maven/org.webjars.npm/types__node@10.10.1?classifier=sources
+- pkg:maven/org.webjars.npm/types__node@10.11.3
+- pkg:maven/org.webjars.npm/types__node@10.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/types__node@10.11.0
+- pkg:maven/org.webjars.npm/types__node@10.11.0?classifier=sources

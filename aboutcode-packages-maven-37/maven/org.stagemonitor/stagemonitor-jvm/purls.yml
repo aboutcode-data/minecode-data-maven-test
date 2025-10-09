@@ -158,3 +158,7 @@
 - pkg:maven/org.stagemonitor/stagemonitor-jvm@0.87.13?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-jvm@0.88.7
 - pkg:maven/org.stagemonitor/stagemonitor-jvm@0.88.7?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-jvm@0.88.8
+- pkg:maven/org.stagemonitor/stagemonitor-jvm@0.88.8?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-jvm@0.87.14
+- pkg:maven/org.stagemonitor/stagemonitor-jvm@0.87.14?classifier=sources
