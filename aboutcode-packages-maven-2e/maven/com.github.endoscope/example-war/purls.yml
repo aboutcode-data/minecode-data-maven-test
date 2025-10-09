@@ -24,3 +24,5 @@
 - pkg:maven/com.github.endoscope/example-war@1.0.12?classifier=sources
 - pkg:maven/com.github.endoscope/example-war@1.0.16?type=war
 - pkg:maven/com.github.endoscope/example-war@1.0.16?classifier=sources
+- pkg:maven/com.github.endoscope/example-war@1.0.17?type=war
+- pkg:maven/com.github.endoscope/example-war@1.0.17?classifier=sources
