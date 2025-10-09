@@ -34,3 +34,5 @@
 - pkg:maven/com.diffplug.spotless/spotless-lib@1.10.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-lib@1.11.0
 - pkg:maven/com.diffplug.spotless/spotless-lib@1.11.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-lib@1.12.0
+- pkg:maven/com.diffplug.spotless/spotless-lib@1.12.0?classifier=sources

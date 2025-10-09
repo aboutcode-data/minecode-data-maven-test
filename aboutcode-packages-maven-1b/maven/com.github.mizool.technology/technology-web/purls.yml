@@ -38,3 +38,5 @@
 - pkg:maven/com.github.mizool.technology/technology-web@%2525NEXT_DEVELOP_SNAPSHOT%2525?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-web@0.21
 - pkg:maven/com.github.mizool.technology/technology-web@0.21?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-web@0.22
+- pkg:maven/com.github.mizool.technology/technology-web@0.22?classifier=sources
