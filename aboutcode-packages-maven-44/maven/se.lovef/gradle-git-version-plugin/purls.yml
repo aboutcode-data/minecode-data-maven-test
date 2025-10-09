@@ -1,0 +1,4 @@
+- pkg:maven/se.lovef/gradle-git-version-plugin@0.1.0
+- pkg:maven/se.lovef/gradle-git-version-plugin@0.1.0?classifier=sources
+- pkg:maven/se.lovef/gradle-git-version-plugin@0.0.2
+- pkg:maven/se.lovef/gradle-git-version-plugin@0.0.2?classifier=sources
