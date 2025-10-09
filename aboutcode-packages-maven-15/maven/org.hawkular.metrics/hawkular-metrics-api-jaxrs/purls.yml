@@ -170,3 +170,7 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.30.6.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.30.7.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.30.7.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.21.14.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.21.14.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.21.13.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.21.13.Final?classifier=sources

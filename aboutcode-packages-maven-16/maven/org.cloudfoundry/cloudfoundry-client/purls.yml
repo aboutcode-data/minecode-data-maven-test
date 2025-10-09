@@ -108,3 +108,7 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.10.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@2.29.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@2.29.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.11.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.11.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@2.30.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@2.30.0.RELEASE?classifier=sources

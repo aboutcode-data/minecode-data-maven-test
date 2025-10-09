@@ -16,3 +16,5 @@
 - pkg:maven/me.snowdrop/istio-model-annotator@0.8?classifier=sources
 - pkg:maven/me.snowdrop/istio-model-annotator@0.9
 - pkg:maven/me.snowdrop/istio-model-annotator@0.9?classifier=sources
+- pkg:maven/me.snowdrop/istio-model-annotator@0.10
+- pkg:maven/me.snowdrop/istio-model-annotator@0.10?classifier=sources

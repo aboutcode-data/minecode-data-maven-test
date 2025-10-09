@@ -106,3 +106,7 @@
 - pkg:maven/org.craftercms/crafter-commons-mongo@2.5.17?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-mongo@2.5.18
 - pkg:maven/org.craftercms/crafter-commons-mongo@2.5.18?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-mongo@3.0.14
+- pkg:maven/org.craftercms/crafter-commons-mongo@3.0.14?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-mongo@2.5.19
+- pkg:maven/org.craftercms/crafter-commons-mongo@2.5.19?classifier=sources

@@ -140,3 +140,7 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.30.6.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.30.7.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.30.7.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.21.14.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.21.14.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.21.13.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-data-generator@0.21.13.Final?classifier=sources

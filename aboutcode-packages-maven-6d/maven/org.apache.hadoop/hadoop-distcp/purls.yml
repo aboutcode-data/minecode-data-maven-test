@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-distcp@3.0.2?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-distcp@2.8.4
 - pkg:maven/org.apache.hadoop/hadoop-distcp@2.8.4?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-distcp@3.0.3
+- pkg:maven/org.apache.hadoop/hadoop-distcp@3.0.3?classifier=sources
