@@ -150,3 +150,5 @@
 - pkg:maven/com.zaxxer/HikariCP@2.7.9?classifier=sources
 - pkg:maven/com.zaxxer/HikariCP@3.1.0
 - pkg:maven/com.zaxxer/HikariCP@3.1.0?classifier=sources
+- pkg:maven/com.zaxxer/HikariCP@3.2.0
+- pkg:maven/com.zaxxer/HikariCP@3.2.0?classifier=sources
