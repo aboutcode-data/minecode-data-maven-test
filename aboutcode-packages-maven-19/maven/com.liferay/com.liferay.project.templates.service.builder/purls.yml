@@ -71,3 +71,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.25
 - pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.26
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.26?classifier=sources-commercial

@@ -34,3 +34,9 @@
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@3.0.4
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@3.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@3.0.5
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@3.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.9
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.9?classifier=sources-commercial

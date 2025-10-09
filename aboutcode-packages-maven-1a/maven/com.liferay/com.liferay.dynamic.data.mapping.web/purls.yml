@@ -303,3 +303,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@2.0.35
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@2.0.36
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@2.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@1.0.89
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@1.0.89?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.web@1.0.89?classifier=sources-commercial

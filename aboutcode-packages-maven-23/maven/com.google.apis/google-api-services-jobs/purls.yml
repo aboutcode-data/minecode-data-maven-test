@@ -336,3 +336,7 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20181210-1.27.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20181210-1.26.0
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20181210-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20190107-1.27.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20190107-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20190107-1.26.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20190107-1.26.0?classifier=sources

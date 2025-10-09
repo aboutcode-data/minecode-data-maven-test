@@ -85,3 +85,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.creole@2.0.22
 - pkg:maven/com.liferay/com.liferay.wiki.engine.creole@2.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.creole@2.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.creole@3.0.9
+- pkg:maven/com.liferay/com.liferay.wiki.engine.creole@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.creole@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.creole@2.0.23
+- pkg:maven/com.liferay/com.liferay.wiki.engine.creole@2.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.creole@2.0.23?classifier=sources-commercial

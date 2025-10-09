@@ -104,3 +104,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.12
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.16
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.13
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.13?classifier=sources-commercial
