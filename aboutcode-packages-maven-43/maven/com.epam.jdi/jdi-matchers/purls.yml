@@ -232,3 +232,5 @@
 - pkg:maven/com.epam.jdi/jdi-matchers@1.1.17?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-matchers@1.1.16
 - pkg:maven/com.epam.jdi/jdi-matchers@1.1.16?classifier=sources
+- pkg:maven/com.epam.jdi/jdi-matchers@2.0.21
+- pkg:maven/com.epam.jdi/jdi-matchers@2.0.21?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.10?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.11?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.11?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.12.0?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.12.0?classifier=sources
