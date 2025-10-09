@@ -168,3 +168,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-syslog@5.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-syslog@4.3.21.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-syslog@4.3.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-syslog@5.0.14.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-syslog@5.0.14.RELEASE?classifier=sources

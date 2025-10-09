@@ -42,3 +42,5 @@
 - pkg:maven/com.aliyun.odps/odps-sdk-mapred@0.31.4-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-sdk-mapred@0.31.4
 - pkg:maven/com.aliyun.odps/odps-sdk-mapred@0.31.4?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-sdk-mapred@0.31.5-public
+- pkg:maven/com.aliyun.odps/odps-sdk-mapred@0.31.5-public?classifier=sources
