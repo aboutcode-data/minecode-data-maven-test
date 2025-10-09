@@ -74,3 +74,5 @@
 - pkg:maven/org.dspace/dspace-solr@4.8?classifier=sources
 - pkg:maven/org.dspace/dspace-solr@5.8?type=war
 - pkg:maven/org.dspace/dspace-solr@5.8?classifier=sources
+- pkg:maven/org.dspace/dspace-solr@6.2?type=war
+- pkg:maven/org.dspace/dspace-solr@6.2?classifier=sources

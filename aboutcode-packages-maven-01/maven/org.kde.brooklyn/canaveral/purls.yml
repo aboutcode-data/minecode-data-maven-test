@@ -36,3 +36,5 @@
 - pkg:maven/org.kde.brooklyn/canaveral@0.6.2?classifier=sources
 - pkg:maven/org.kde.brooklyn/canaveral@0.6
 - pkg:maven/org.kde.brooklyn/canaveral@0.6?classifier=sources
+- pkg:maven/org.kde.brooklyn/canaveral@0.6.6
+- pkg:maven/org.kde.brooklyn/canaveral@0.6.6?classifier=sources

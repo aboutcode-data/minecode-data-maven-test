@@ -64,3 +64,5 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson1@2.26-b08?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson1@2.26-b09
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson1@2.26-b09?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson1@2.26
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson1@2.26?classifier=sources
