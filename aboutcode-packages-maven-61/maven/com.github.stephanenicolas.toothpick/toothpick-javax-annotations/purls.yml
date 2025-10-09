@@ -8,3 +8,5 @@
 - pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC8?classifier=sources
 - pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC10
 - pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC10?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0?classifier=sources
