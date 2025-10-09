@@ -440,3 +440,7 @@
 - pkg:maven/org.specs2/specs2-tests_2.11@4.1.0?classifier=sources
 - pkg:maven/org.specs2/specs2-tests_2.11@4.0.4
 - pkg:maven/org.specs2/specs2-tests_2.11@4.0.4?classifier=sources
+- pkg:maven/org.specs2/specs2-tests_2.11@4.2.0-6fc1280b6-20180430142205
+- pkg:maven/org.specs2/specs2-tests_2.11@4.2.0-6fc1280b6-20180430142205?classifier=sources
+- pkg:maven/org.specs2/specs2-tests_2.11@4.2.0
+- pkg:maven/org.specs2/specs2-tests_2.11@4.2.0?classifier=sources

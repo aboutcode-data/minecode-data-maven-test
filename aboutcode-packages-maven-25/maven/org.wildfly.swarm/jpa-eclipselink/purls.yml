@@ -66,3 +66,5 @@
 - pkg:maven/org.wildfly.swarm/jpa-eclipselink@2018.4.1?classifier=sources
 - pkg:maven/org.wildfly.swarm/jpa-eclipselink@2018.4.0
 - pkg:maven/org.wildfly.swarm/jpa-eclipselink@2018.4.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/jpa-eclipselink@2018.5.0
+- pkg:maven/org.wildfly.swarm/jpa-eclipselink@2018.5.0?classifier=sources

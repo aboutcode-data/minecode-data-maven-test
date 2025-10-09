@@ -150,3 +150,5 @@
 - pkg:maven/org.wildfly.core/wildfly-discovery@5.0.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-discovery@5.0.0.Alpha4
 - pkg:maven/org.wildfly.core/wildfly-discovery@5.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-discovery@5.0.0.Alpha5
+- pkg:maven/org.wildfly.core/wildfly-discovery@5.0.0.Alpha5?classifier=sources
