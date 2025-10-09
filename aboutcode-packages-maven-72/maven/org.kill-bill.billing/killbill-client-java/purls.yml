@@ -112,3 +112,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-client-java@0.38?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-client-java@0.37
 - pkg:maven/org.kill-bill.billing/killbill-client-java@0.37?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-client-java@0.39
+- pkg:maven/org.kill-bill.billing/killbill-client-java@0.39?classifier=sources

@@ -192,3 +192,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/authentication@4.2.8?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@4.3.0
 - pkg:maven/org.ops4j.pax.web.samples/authentication@4.3.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/authentication@3.3.0
+- pkg:maven/org.ops4j.pax.web.samples/authentication@3.3.0?classifier=sources

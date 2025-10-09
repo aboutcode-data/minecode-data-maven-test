@@ -10,3 +10,5 @@
 - pkg:maven/org.kevoree.mwg/api@4?classifier=sources
 - pkg:maven/org.kevoree.mwg/api@6
 - pkg:maven/org.kevoree.mwg/api@6?classifier=sources
+- pkg:maven/org.kevoree.mwg/api@7
+- pkg:maven/org.kevoree.mwg/api@7?classifier=sources
