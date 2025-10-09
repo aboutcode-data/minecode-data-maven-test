@@ -90,3 +90,5 @@
 - pkg:maven/com.sap.cloud.s4hana.cloudplatform/security-scp-cf@2.19.2?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.cloudplatform/security-scp-cf@2.20.0
 - pkg:maven/com.sap.cloud.s4hana.cloudplatform/security-scp-cf@2.20.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.cloudplatform/security-scp-cf@2.20.1
+- pkg:maven/com.sap.cloud.s4hana.cloudplatform/security-scp-cf@2.20.1?classifier=sources

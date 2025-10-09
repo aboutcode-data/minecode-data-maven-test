@@ -58,3 +58,7 @@
 - pkg:maven/com.networknt/http-string@2.0.4?classifier=sources
 - pkg:maven/com.networknt/http-string@1.6.7
 - pkg:maven/com.networknt/http-string@1.6.7?classifier=sources
+- pkg:maven/com.networknt/http-string@2.0.5
+- pkg:maven/com.networknt/http-string@2.0.5?classifier=sources
+- pkg:maven/com.networknt/http-string@1.6.8
+- pkg:maven/com.networknt/http-string@1.6.8?classifier=sources
