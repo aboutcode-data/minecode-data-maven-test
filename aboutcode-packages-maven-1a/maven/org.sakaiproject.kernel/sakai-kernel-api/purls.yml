@@ -44,3 +44,5 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-api@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-api@11.4
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-api@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-api@12.0
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-api@12.0?classifier=sources

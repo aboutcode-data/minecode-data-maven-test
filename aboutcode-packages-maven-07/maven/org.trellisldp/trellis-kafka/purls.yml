@@ -8,3 +8,5 @@
 - pkg:maven/org.trellisldp/trellis-kafka@0.2.3?classifier=sources
 - pkg:maven/org.trellisldp/trellis-kafka@0.2.2
 - pkg:maven/org.trellisldp/trellis-kafka@0.2.2?classifier=sources
+- pkg:maven/org.trellisldp/trellis-kafka@0.6.0
+- pkg:maven/org.trellisldp/trellis-kafka@0.6.0?classifier=sources

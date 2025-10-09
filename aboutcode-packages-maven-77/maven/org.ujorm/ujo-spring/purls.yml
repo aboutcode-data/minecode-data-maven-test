@@ -72,3 +72,5 @@
 - pkg:maven/org.ujorm/ujo-spring@1.80?classifier=sources
 - pkg:maven/org.ujorm/ujo-spring@1.77
 - pkg:maven/org.ujorm/ujo-spring@1.77?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@1.82
+- pkg:maven/org.ujorm/ujo-spring@1.82?classifier=sources

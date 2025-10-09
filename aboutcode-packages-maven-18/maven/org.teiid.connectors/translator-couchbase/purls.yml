@@ -24,3 +24,5 @@
 - pkg:maven/org.teiid.connectors/translator-couchbase@10.1.2?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-couchbase@10.0.4
 - pkg:maven/org.teiid.connectors/translator-couchbase@10.0.4?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-couchbase@10.2.0
+- pkg:maven/org.teiid.connectors/translator-couchbase@10.2.0?classifier=sources

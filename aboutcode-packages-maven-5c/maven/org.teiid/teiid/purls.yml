@@ -37,3 +37,6 @@
 - pkg:maven/org.teiid/teiid@10.0.4
 - pkg:maven/org.teiid/teiid@10.0.4?classifier=src&type=zip
 - pkg:maven/org.teiid/teiid@10.0.4?classifier=sources
+- pkg:maven/org.teiid/teiid@10.2.0
+- pkg:maven/org.teiid/teiid@10.2.0?classifier=src&type=zip
+- pkg:maven/org.teiid/teiid@10.2.0?classifier=sources

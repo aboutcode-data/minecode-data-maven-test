@@ -34,3 +34,5 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-cp@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-cp@11.4
 - pkg:maven/org.sakaiproject.samigo/samigo-cp@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-cp@12.0
+- pkg:maven/org.sakaiproject.samigo/samigo-cp@12.0?classifier=sources

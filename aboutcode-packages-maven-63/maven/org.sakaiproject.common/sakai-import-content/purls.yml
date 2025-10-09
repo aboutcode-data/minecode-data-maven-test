@@ -40,3 +40,5 @@
 - pkg:maven/org.sakaiproject.common/sakai-import-content@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.common/sakai-import-content@11.4
 - pkg:maven/org.sakaiproject.common/sakai-import-content@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.common/sakai-import-content@12.0
+- pkg:maven/org.sakaiproject.common/sakai-import-content@12.0?classifier=sources

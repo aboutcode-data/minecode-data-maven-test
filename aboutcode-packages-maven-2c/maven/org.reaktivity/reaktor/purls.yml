@@ -94,3 +94,5 @@
 - pkg:maven/org.reaktivity/reaktor@0.39?classifier=sources
 - pkg:maven/org.reaktivity/reaktor@0.40
 - pkg:maven/org.reaktivity/reaktor@0.40?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.41
+- pkg:maven/org.reaktivity/reaktor@0.41?classifier=sources
