@@ -222,3 +222,5 @@
 - pkg:maven/org.elasticsearch/rest-api-spec@6.8.4?classifier=sources
 - pkg:maven/org.elasticsearch/rest-api-spec@7.4.2
 - pkg:maven/org.elasticsearch/rest-api-spec@7.4.2?classifier=sources
+- pkg:maven/org.elasticsearch/rest-api-spec@6.8.5
+- pkg:maven/org.elasticsearch/rest-api-spec@6.8.5?classifier=sources

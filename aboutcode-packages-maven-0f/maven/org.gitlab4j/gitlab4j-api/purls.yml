@@ -398,3 +398,5 @@
 - pkg:maven/org.gitlab4j/gitlab4j-api@4.12.18?classifier=sources
 - pkg:maven/org.gitlab4j/gitlab4j-api@4.14.0
 - pkg:maven/org.gitlab4j/gitlab4j-api@4.14.0?classifier=sources
+- pkg:maven/org.gitlab4j/gitlab4j-api@4.14.1
+- pkg:maven/org.gitlab4j/gitlab4j-api@4.14.1?classifier=sources

@@ -202,3 +202,5 @@
 - pkg:maven/org.elasticsearch.test/logger-usage@6.8.4?classifier=sources
 - pkg:maven/org.elasticsearch.test/logger-usage@7.4.2
 - pkg:maven/org.elasticsearch.test/logger-usage@7.4.2?classifier=sources
+- pkg:maven/org.elasticsearch.test/logger-usage@6.8.5
+- pkg:maven/org.elasticsearch.test/logger-usage@6.8.5?classifier=sources

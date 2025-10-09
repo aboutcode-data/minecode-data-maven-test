@@ -154,3 +154,5 @@
 - pkg:maven/org.elasticsearch.plugin/parent-join-client@7.4.2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/parent-join-client@6.8.4
 - pkg:maven/org.elasticsearch.plugin/parent-join-client@6.8.4?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/parent-join-client@6.8.5
+- pkg:maven/org.elasticsearch.plugin/parent-join-client@6.8.5?classifier=sources

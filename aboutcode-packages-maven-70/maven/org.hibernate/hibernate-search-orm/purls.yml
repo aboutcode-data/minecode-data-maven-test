@@ -256,3 +256,7 @@
 - pkg:maven/org.hibernate/hibernate-search-orm@5.10.7.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-orm@5.11.3.Final
 - pkg:maven/org.hibernate/hibernate-search-orm@5.11.3.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-orm@5.11.4.Final
+- pkg:maven/org.hibernate/hibernate-search-orm@5.11.4.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-orm@5.10.8.Final
+- pkg:maven/org.hibernate/hibernate-search-orm@5.10.8.Final?classifier=sources

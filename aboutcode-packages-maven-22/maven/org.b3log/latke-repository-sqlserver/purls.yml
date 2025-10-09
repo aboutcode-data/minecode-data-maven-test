@@ -294,3 +294,7 @@
 - pkg:maven/org.b3log/latke-repository-sqlserver@3.0.1?classifier=sources
 - pkg:maven/org.b3log/latke-repository-sqlserver@3.0.0
 - pkg:maven/org.b3log/latke-repository-sqlserver@3.0.0?classifier=sources
+- pkg:maven/org.b3log/latke-repository-sqlserver@3.0.17
+- pkg:maven/org.b3log/latke-repository-sqlserver@3.0.17?classifier=sources
+- pkg:maven/org.b3log/latke-repository-sqlserver@3.0.16
+- pkg:maven/org.b3log/latke-repository-sqlserver@3.0.16?classifier=sources

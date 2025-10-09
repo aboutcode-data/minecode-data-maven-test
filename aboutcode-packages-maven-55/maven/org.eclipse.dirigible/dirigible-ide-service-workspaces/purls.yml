@@ -38,3 +38,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-workspaces@3.5.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-workspaces@3.5.2
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-workspaces@3.5.2?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-workspaces@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-workspaces@4.0.0?classifier=sources

@@ -182,3 +182,7 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.22.v20191022?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.3.28.v20191105
 - pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.3.28.v20191105?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.24.v20191120
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.24.v20191120?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.23.v20191118
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.23.v20191118?classifier=sources

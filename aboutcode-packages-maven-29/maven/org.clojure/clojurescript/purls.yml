@@ -351,3 +351,5 @@
 - pkg:maven/org.clojure/clojurescript@1.10.514?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.10.520
 - pkg:maven/org.clojure/clojurescript@1.10.520?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.10.597
+- pkg:maven/org.clojure/clojurescript@1.10.597?classifier=sources
