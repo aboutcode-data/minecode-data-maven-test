@@ -6,3 +6,5 @@
 - pkg:maven/io.avaje.metrics/metrics@8.2?classifier=sources
 - pkg:maven/io.avaje.metrics/metrics@8.2.2
 - pkg:maven/io.avaje.metrics/metrics@8.2.2?classifier=sources
+- pkg:maven/io.avaje.metrics/metrics@8.3
+- pkg:maven/io.avaje.metrics/metrics@8.3?classifier=sources

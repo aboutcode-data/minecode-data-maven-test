@@ -24,3 +24,5 @@
 - pkg:maven/io.dinject/javalin-generator@1.12?classifier=sources
 - pkg:maven/io.dinject/javalin-generator@1.14
 - pkg:maven/io.dinject/javalin-generator@1.14?classifier=sources
+- pkg:maven/io.dinject/javalin-generator@1.15
+- pkg:maven/io.dinject/javalin-generator@1.15?classifier=sources

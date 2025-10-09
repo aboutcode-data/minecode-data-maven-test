@@ -1,2 +1,4 @@
 - pkg:maven/dev.reactant/reactant@0.1.4
 - pkg:maven/dev.reactant/reactant@0.1.4?classifier=sources
+- pkg:maven/dev.reactant/reactant@0.1.5
+- pkg:maven/dev.reactant/reactant@0.1.5?classifier=sources
