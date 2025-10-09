@@ -70,3 +70,5 @@
 - pkg:maven/com.seleniumtests/seleniumtestsframework@5.11?classifier=sources
 - pkg:maven/com.seleniumtests/seleniumtestsframework@5.10
 - pkg:maven/com.seleniumtests/seleniumtestsframework@5.10?classifier=sources
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.12
+- pkg:maven/com.seleniumtests/seleniumtestsframework@5.12?classifier=sources

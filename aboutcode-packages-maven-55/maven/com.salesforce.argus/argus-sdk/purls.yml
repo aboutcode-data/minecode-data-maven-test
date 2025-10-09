@@ -16,3 +16,5 @@
 - pkg:maven/com.salesforce.argus/argus-sdk@2.17.0?classifier=sources
 - pkg:maven/com.salesforce.argus/argus-sdk@2.21.3
 - pkg:maven/com.salesforce.argus/argus-sdk@2.21.3?classifier=sources
+- pkg:maven/com.salesforce.argus/argus-sdk@2.22.0
+- pkg:maven/com.salesforce.argus/argus-sdk@2.22.0?classifier=sources

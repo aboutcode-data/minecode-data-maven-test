@@ -92,3 +92,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-logback_2.11@1.4.8?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-logback_2.11@1.5.0-M3
 - pkg:maven/com.lightbend.lagom/lagom-logback_2.11@1.5.0-M3?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-logback_2.11@1.5.0-M4
+- pkg:maven/com.lightbend.lagom/lagom-logback_2.11@1.5.0-M4?classifier=sources

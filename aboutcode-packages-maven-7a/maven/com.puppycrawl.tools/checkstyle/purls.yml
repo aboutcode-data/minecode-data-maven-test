@@ -134,3 +134,5 @@
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.12?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.13
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.13?classifier=sources
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.14
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.14?classifier=sources

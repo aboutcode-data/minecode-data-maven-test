@@ -30,3 +30,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.1
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.9
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.9?classifier=sources-commercial

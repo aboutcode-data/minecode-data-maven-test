@@ -111,3 +111,4 @@
 - pkg:maven/com.spotify/scio-repl_2.11@0.7.0-alpha1
 - pkg:maven/com.spotify/scio-repl_2.11@0.7.0-alpha1?classifier=sources
 - pkg:maven/com.spotify/scio-repl_2.11@0.7.0-alpha2
+- pkg:maven/com.spotify/scio-repl_2.11@0.7.0-alpha2?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-docker@5.0.8?classifier=sources
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-docker@5.0.9
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-docker@5.0.9?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-docker@5.0.10
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-docker@5.0.10?classifier=sources

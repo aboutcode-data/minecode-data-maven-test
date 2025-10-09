@@ -68,3 +68,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-tomcat-shaded@0.72.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-tomcat-shaded@0.73.0
 - pkg:maven/com.linecorp.armeria/armeria-tomcat-shaded@0.73.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat-shaded@0.74.0
+- pkg:maven/com.linecorp.armeria/armeria-tomcat-shaded@0.74.0?classifier=sources

@@ -92,3 +92,7 @@
 - pkg:maven/com.s24/redjob@0.5.7?classifier=sources
 - pkg:maven/com.s24/redjob@0.5.9
 - pkg:maven/com.s24/redjob@0.5.9?classifier=sources
+- pkg:maven/com.s24/redjob@0.6.0
+- pkg:maven/com.s24/redjob@0.6.0?classifier=sources
+- pkg:maven/com.s24/redjob@0.5.10
+- pkg:maven/com.s24/redjob@0.5.10?classifier=sources
