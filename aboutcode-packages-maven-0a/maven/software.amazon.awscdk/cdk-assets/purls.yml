@@ -74,3 +74,5 @@
 - pkg:maven/software.amazon.awscdk/cdk-assets@0.32.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-assets@0.33.0
 - pkg:maven/software.amazon.awscdk/cdk-assets@0.33.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-assets@0.34.0
+- pkg:maven/software.amazon.awscdk/cdk-assets@0.34.0?classifier=sources
