@@ -20,3 +20,5 @@
 - pkg:maven/net.corda/corda-test-utils@4.0?classifier=sources
 - pkg:maven/net.corda/corda-test-utils@3.4-corda
 - pkg:maven/net.corda/corda-test-utils@3.4-corda?classifier=sources
+- pkg:maven/net.corda/corda-test-utils@4.3
+- pkg:maven/net.corda/corda-test-utils@4.3?classifier=sources
