@@ -94,3 +94,5 @@
 - pkg:maven/org.wildfly/wildfly-jsf-installer@15.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jsf-installer@15.0.1.Final?type=zip
 - pkg:maven/org.wildfly/wildfly-jsf-installer@15.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-jsf-installer@16.0.0.Beta1?type=zip
+- pkg:maven/org.wildfly/wildfly-jsf-installer@16.0.0.Beta1?classifier=sources

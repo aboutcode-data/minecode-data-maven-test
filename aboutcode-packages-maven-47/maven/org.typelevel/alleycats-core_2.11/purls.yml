@@ -42,3 +42,5 @@
 - pkg:maven/org.typelevel/alleycats-core_2.11@1.6.0-RC1?classifier=sources
 - pkg:maven/org.typelevel/alleycats-core_2.11@1.6.0
 - pkg:maven/org.typelevel/alleycats-core_2.11@1.6.0?classifier=sources
+- pkg:maven/org.typelevel/alleycats-core_2.11@0.0.1-DONOTUSE
+- pkg:maven/org.typelevel/alleycats-core_2.11@0.0.1-DONOTUSE?classifier=sources
