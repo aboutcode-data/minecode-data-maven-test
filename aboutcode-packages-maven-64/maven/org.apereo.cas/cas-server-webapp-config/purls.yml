@@ -108,3 +108,5 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-config@5.2.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp-config@6.0.0-RC2
 - pkg:maven/org.apereo.cas/cas-server-webapp-config@6.0.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-config@5.2.8
+- pkg:maven/org.apereo.cas/cas-server-webapp-config@5.2.8?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@5.2.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@6.0.0-RC2?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@6.0.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@5.2.8?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@5.2.8?classifier=sources

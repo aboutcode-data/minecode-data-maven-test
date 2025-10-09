@@ -28,3 +28,5 @@
 - pkg:maven/ro.pippo/pippo-test@1.9.0?classifier=sources
 - pkg:maven/ro.pippo/pippo-test@1.10.0
 - pkg:maven/ro.pippo/pippo-test@1.10.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-test@1.11.0
+- pkg:maven/ro.pippo/pippo-test@1.11.0?classifier=sources

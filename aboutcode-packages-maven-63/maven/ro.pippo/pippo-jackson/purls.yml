@@ -36,3 +36,5 @@
 - pkg:maven/ro.pippo/pippo-jackson@1.9.0?classifier=sources
 - pkg:maven/ro.pippo/pippo-jackson@1.10.0
 - pkg:maven/ro.pippo/pippo-jackson@1.10.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-jackson@1.11.0
+- pkg:maven/ro.pippo/pippo-jackson@1.11.0?classifier=sources
