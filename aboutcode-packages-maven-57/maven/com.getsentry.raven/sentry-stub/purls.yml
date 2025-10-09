@@ -2,3 +2,5 @@
 - pkg:maven/com.getsentry.raven/sentry-stub@7.0.0?classifier=sources
 - pkg:maven/com.getsentry.raven/sentry-stub@7.1.0?type=war
 - pkg:maven/com.getsentry.raven/sentry-stub@7.1.0?classifier=sources
+- pkg:maven/com.getsentry.raven/sentry-stub@7.2.0?type=war
+- pkg:maven/com.getsentry.raven/sentry-stub@7.2.0?classifier=sources
