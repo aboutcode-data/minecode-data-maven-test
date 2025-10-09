@@ -64,3 +64,7 @@
 - pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4.7?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4-ARTERY-M2
 - pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4-ARTERY-M2?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4.8
+- pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4.8?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4-ARTERY-M3
+- pkg:maven/com.typesafe.akka/akka-cluster_2.11@2.4-ARTERY-M3?classifier=sources

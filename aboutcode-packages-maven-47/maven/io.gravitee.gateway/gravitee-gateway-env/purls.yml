@@ -12,3 +12,5 @@
 - pkg:maven/io.gravitee.gateway/gravitee-gateway-env@0.15.0?classifier=sources
 - pkg:maven/io.gravitee.gateway/gravitee-gateway-env@0.14.1
 - pkg:maven/io.gravitee.gateway/gravitee-gateway-env@0.14.1?classifier=sources
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-env@0.16.0
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-env@0.16.0?classifier=sources
