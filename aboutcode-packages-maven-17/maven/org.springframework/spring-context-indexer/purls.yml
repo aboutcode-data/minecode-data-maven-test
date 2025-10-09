@@ -36,3 +36,7 @@
 - pkg:maven/org.springframework/spring-context-indexer@5.0.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-context-indexer@5.1.5.RELEASE
 - pkg:maven/org.springframework/spring-context-indexer@5.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-context-indexer@5.1.6.RELEASE
+- pkg:maven/org.springframework/spring-context-indexer@5.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-context-indexer@5.0.13.RELEASE
+- pkg:maven/org.springframework/spring-context-indexer@5.0.13.RELEASE?classifier=sources

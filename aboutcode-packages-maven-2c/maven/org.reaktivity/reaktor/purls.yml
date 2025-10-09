@@ -186,3 +186,7 @@
 - pkg:maven/org.reaktivity/reaktor@0.85?classifier=sources
 - pkg:maven/org.reaktivity/reaktor@0.86
 - pkg:maven/org.reaktivity/reaktor@0.86?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.88
+- pkg:maven/org.reaktivity/reaktor@0.88?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.87
+- pkg:maven/org.reaktivity/reaktor@0.87?classifier=sources

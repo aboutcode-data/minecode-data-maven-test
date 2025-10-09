@@ -96,3 +96,7 @@
 - pkg:maven/org.reaktivity/k3po-nukleus-ext@0.36?classifier=sources
 - pkg:maven/org.reaktivity/k3po-nukleus-ext@0.37
 - pkg:maven/org.reaktivity/k3po-nukleus-ext@0.37?classifier=sources
+- pkg:maven/org.reaktivity/k3po-nukleus-ext@0.39
+- pkg:maven/org.reaktivity/k3po-nukleus-ext@0.39?classifier=sources
+- pkg:maven/org.reaktivity/k3po-nukleus-ext@0.38
+- pkg:maven/org.reaktivity/k3po-nukleus-ext@0.38?classifier=sources
