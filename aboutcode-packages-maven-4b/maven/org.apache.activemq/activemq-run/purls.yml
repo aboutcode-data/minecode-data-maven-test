@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.activemq/activemq-run@5.12.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-run@5.11.4
 - pkg:maven/org.apache.activemq/activemq-run@5.11.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-run@5.13.2
+- pkg:maven/org.apache.activemq/activemq-run@5.13.2?classifier=sources

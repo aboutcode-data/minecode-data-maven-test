@@ -38,3 +38,5 @@
 - pkg:maven/net.oneandone/sushi@2.8.18?classifier=sources
 - pkg:maven/net.oneandone/sushi@2.8.19
 - pkg:maven/net.oneandone/sushi@2.8.19?classifier=sources
+- pkg:maven/net.oneandone/sushi@3.0.0
+- pkg:maven/net.oneandone/sushi@3.0.0?classifier=sources

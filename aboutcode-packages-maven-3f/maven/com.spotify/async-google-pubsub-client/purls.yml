@@ -34,3 +34,5 @@
 - pkg:maven/com.spotify/async-google-pubsub-client@1.15?classifier=sources
 - pkg:maven/com.spotify/async-google-pubsub-client@1.17
 - pkg:maven/com.spotify/async-google-pubsub-client@1.17?classifier=sources
+- pkg:maven/com.spotify/async-google-pubsub-client@1.18
+- pkg:maven/com.spotify/async-google-pubsub-client@1.18?classifier=sources
