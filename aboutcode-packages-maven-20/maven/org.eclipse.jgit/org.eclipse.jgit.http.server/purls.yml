@@ -142,3 +142,7 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.9.4.201809090327-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.7.3.201809090215-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.7.3.201809090215-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@5.0.3.201809091024-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@5.0.3.201809091024-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.11.2.201809100523-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.server@4.11.2.201809100523-r?classifier=sources

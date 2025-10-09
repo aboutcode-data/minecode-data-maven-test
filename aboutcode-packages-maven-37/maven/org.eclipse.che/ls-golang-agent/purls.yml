@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.che/ls-golang-agent@6.10.0
 - pkg:maven/org.eclipse.che/ls-golang-agent@6.10.0?classifier=sources
+- pkg:maven/org.eclipse.che/ls-golang-agent@6.11.0
+- pkg:maven/org.eclipse.che/ls-golang-agent@6.11.0?classifier=sources

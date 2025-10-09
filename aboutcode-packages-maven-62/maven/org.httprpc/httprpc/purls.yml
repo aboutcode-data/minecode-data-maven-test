@@ -30,3 +30,5 @@
 - pkg:maven/org.httprpc/httprpc@5.7.2?classifier=sources
 - pkg:maven/org.httprpc/httprpc@5.8
 - pkg:maven/org.httprpc/httprpc@5.8?classifier=sources
+- pkg:maven/org.httprpc/httprpc@5.8.1
+- pkg:maven/org.httprpc/httprpc@5.8.1?classifier=sources
