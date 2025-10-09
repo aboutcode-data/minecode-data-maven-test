@@ -168,3 +168,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.61.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.62.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.62.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.63.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.63.0?classifier=sources
