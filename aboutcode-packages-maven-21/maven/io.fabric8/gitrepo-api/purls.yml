@@ -444,3 +444,5 @@
 - pkg:maven/io.fabric8/gitrepo-api@2.3.0?classifier=sources
 - pkg:maven/io.fabric8/gitrepo-api@2.2.217
 - pkg:maven/io.fabric8/gitrepo-api@2.2.217?classifier=sources
+- pkg:maven/io.fabric8/gitrepo-api@2.3.1
+- pkg:maven/io.fabric8/gitrepo-api@2.3.1?classifier=sources

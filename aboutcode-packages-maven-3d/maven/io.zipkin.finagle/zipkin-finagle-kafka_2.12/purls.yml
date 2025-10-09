@@ -1,2 +1,4 @@
 - pkg:maven/io.zipkin.finagle/zipkin-finagle-kafka_2.12@0.4.0
 - pkg:maven/io.zipkin.finagle/zipkin-finagle-kafka_2.12@0.4.0?classifier=sources
+- pkg:maven/io.zipkin.finagle/zipkin-finagle-kafka_2.12@1.0.0
+- pkg:maven/io.zipkin.finagle/zipkin-finagle-kafka_2.12@1.0.0?classifier=sources
