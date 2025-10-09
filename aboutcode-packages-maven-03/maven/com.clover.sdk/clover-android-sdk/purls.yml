@@ -58,3 +58,7 @@
 - pkg:maven/com.clover.sdk/clover-android-sdk@191.3?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-sdk@191.4?type=aar
 - pkg:maven/com.clover.sdk/clover-android-sdk@191.4?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk@191.6?type=aar
+- pkg:maven/com.clover.sdk/clover-android-sdk@191.6?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk@191.5?type=aar
+- pkg:maven/com.clover.sdk/clover-android-sdk@191.5?classifier=sources

@@ -268,3 +268,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@10.4-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@10.4
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@10.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@9.11.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@9.11.5?classifier=sources
