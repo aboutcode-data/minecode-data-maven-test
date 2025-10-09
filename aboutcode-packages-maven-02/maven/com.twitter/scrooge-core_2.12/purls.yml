@@ -14,3 +14,5 @@
 - pkg:maven/com.twitter/scrooge-core_2.12@4.19.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-core_2.12@4.20.0
 - pkg:maven/com.twitter/scrooge-core_2.12@4.20.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-core_2.12@17.10.0
+- pkg:maven/com.twitter/scrooge-core_2.12@17.10.0?classifier=sources
