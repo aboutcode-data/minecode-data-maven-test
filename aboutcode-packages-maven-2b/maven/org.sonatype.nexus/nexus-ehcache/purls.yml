@@ -106,3 +106,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-ehcache@2.14.4-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-ehcache@2.14.5-02
 - pkg:maven/org.sonatype.nexus/nexus-ehcache@2.14.5-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ehcache@2.14.6-02
+- pkg:maven/org.sonatype.nexus/nexus-ehcache@2.14.6-02?classifier=sources
