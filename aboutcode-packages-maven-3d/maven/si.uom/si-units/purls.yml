@@ -28,3 +28,7 @@
 - pkg:maven/si.uom/si-units@1.0?classifier=sources
 - pkg:maven/si.uom/si-units@1.2
 - pkg:maven/si.uom/si-units@1.2?classifier=sources
+- pkg:maven/si.uom/si-units@2.0
+- pkg:maven/si.uom/si-units@2.0?classifier=sources
+- pkg:maven/si.uom/si-units@1.3
+- pkg:maven/si.uom/si-units@1.3?classifier=sources

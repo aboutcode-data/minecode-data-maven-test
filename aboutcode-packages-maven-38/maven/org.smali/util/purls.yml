@@ -40,3 +40,5 @@
 - pkg:maven/org.smali/util@2.2.7?classifier=sources
 - pkg:maven/org.smali/util@2.3
 - pkg:maven/org.smali/util@2.3?classifier=sources
+- pkg:maven/org.smali/util@2.3.1
+- pkg:maven/org.smali/util@2.3.1?classifier=sources
