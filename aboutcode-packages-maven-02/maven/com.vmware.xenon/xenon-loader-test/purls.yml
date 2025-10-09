@@ -50,3 +50,7 @@
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.3.7?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.1.0-CR4
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.1.0-CR4?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.4.0
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.4.0?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.1.0-CR5
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.1.0-CR5?classifier=sources
