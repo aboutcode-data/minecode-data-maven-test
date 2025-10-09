@@ -56,3 +56,7 @@
 - pkg:maven/me.figo/sdk@1.5.9?classifier=sources
 - pkg:maven/me.figo/sdk@1.5.11
 - pkg:maven/me.figo/sdk@1.5.11?classifier=sources
+- pkg:maven/me.figo/sdk@3.0.1
+- pkg:maven/me.figo/sdk@3.0.1?classifier=sources
+- pkg:maven/me.figo/sdk@3.0.0
+- pkg:maven/me.figo/sdk@3.0.0?classifier=sources

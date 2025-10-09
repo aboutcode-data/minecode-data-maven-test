@@ -1,2 +1,6 @@
 - pkg:maven/io.opencensus/opencensus-exporter-stats-prometheus@0.12.0
 - pkg:maven/io.opencensus/opencensus-exporter-stats-prometheus@0.12.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-stats-prometheus@0.12.2
+- pkg:maven/io.opencensus/opencensus-exporter-stats-prometheus@0.12.2?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-stats-prometheus@0.12.1
+- pkg:maven/io.opencensus/opencensus-exporter-stats-prometheus@0.12.1?classifier=sources

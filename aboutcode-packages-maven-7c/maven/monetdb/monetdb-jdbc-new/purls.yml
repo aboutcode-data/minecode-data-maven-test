@@ -6,3 +6,5 @@
 - pkg:maven/monetdb/monetdb-jdbc-new@2.25?classifier=sources
 - pkg:maven/monetdb/monetdb-jdbc-new@2.32
 - pkg:maven/monetdb/monetdb-jdbc-new@2.32?classifier=sources
+- pkg:maven/monetdb/monetdb-jdbc-new@2.33
+- pkg:maven/monetdb/monetdb-jdbc-new@2.33?classifier=sources

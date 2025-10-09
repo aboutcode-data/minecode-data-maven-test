@@ -88,3 +88,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.12
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.12?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.18
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.18?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.18?classifier=source-release&type=zip

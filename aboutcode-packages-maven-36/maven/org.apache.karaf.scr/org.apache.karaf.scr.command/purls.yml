@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.command@4.1.4?classifier=sources
 - pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.command@4.1.5
 - pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.command@4.1.5?classifier=sources
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.command@3.0.9
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.command@3.0.9?classifier=sources

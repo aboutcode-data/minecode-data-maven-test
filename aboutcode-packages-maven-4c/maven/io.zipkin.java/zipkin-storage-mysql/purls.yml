@@ -204,3 +204,5 @@
 - pkg:maven/io.zipkin.java/zipkin-storage-mysql@2.4.9?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-storage-mysql@2.4.8
 - pkg:maven/io.zipkin.java/zipkin-storage-mysql@2.4.8?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-mysql@2.5.1
+- pkg:maven/io.zipkin.java/zipkin-storage-mysql@2.5.1?classifier=sources

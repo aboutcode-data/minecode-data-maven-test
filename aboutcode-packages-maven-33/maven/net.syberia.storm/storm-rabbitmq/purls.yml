@@ -40,3 +40,5 @@
 - pkg:maven/net.syberia.storm/storm-rabbitmq@0.2.19?classifier=sources
 - pkg:maven/net.syberia.storm/storm-rabbitmq@0.2.15
 - pkg:maven/net.syberia.storm/storm-rabbitmq@0.2.15?classifier=sources
+- pkg:maven/net.syberia.storm/storm-rabbitmq@0.2.20
+- pkg:maven/net.syberia.storm/storm-rabbitmq@0.2.20?classifier=sources
