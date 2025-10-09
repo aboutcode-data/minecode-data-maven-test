@@ -22,3 +22,5 @@
 - pkg:maven/com.holon-platform.json/holon-gson-jaxrs@5.2.0-rc1?classifier=sources
 - pkg:maven/com.holon-platform.json/holon-gson-jaxrs@5.2.0-rc2
 - pkg:maven/com.holon-platform.json/holon-gson-jaxrs@5.2.0-rc2?classifier=sources
+- pkg:maven/com.holon-platform.json/holon-gson-jaxrs@5.2.0
+- pkg:maven/com.holon-platform.json/holon-gson-jaxrs@5.2.0?classifier=sources

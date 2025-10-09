@@ -62,3 +62,5 @@
 - pkg:maven/com.google.cloud/google-cloud-redis@0.76.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-redis@0.77.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-redis@0.77.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.78.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.78.0-alpha?classifier=sources

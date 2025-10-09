@@ -1046,3 +1046,7 @@
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev74-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev74-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev74-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20180809-1.28.0
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20180809-1.28.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20180602-1.28.0
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20180602-1.28.0?classifier=sources
