@@ -1,2 +1,6 @@
 - pkg:maven/io.inbot/inbot-es-http-client@0.9
 - pkg:maven/io.inbot/inbot-es-http-client@0.9?classifier=sources
+- pkg:maven/io.inbot/inbot-es-http-client@0.11
+- pkg:maven/io.inbot/inbot-es-http-client@0.11?classifier=sources
+- pkg:maven/io.inbot/inbot-es-http-client@0.10
+- pkg:maven/io.inbot/inbot-es-http-client@0.10?classifier=sources
