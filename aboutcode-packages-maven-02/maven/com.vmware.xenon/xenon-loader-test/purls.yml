@@ -16,3 +16,5 @@
 - pkg:maven/com.vmware.xenon/xenon-loader-test@0.9.6?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader-test@0.9.7
 - pkg:maven/com.vmware.xenon/xenon-loader-test@0.9.7?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.0.0
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.0.0?classifier=sources
