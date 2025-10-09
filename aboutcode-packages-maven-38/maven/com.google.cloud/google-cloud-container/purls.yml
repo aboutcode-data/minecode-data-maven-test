@@ -14,3 +14,7 @@
 - pkg:maven/com.google.cloud/google-cloud-container@0.36.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-container@0.38.0-beta
 - pkg:maven/com.google.cloud/google-cloud-container@0.38.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-container@0.40.0-beta
+- pkg:maven/com.google.cloud/google-cloud-container@0.40.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-container@0.39.0-beta
+- pkg:maven/com.google.cloud/google-cloud-container@0.39.0-beta?classifier=sources

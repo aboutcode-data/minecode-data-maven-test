@@ -1,2 +1,6 @@
 - pkg:maven/com.gimbal.android.v3/gimbal-slf4j-impl@3.0?type=aar
 - pkg:maven/com.gimbal.android.v3/gimbal-slf4j-impl@3.0?classifier=sources
+- pkg:maven/com.gimbal.android.v3/gimbal-slf4j-impl@3.1.2?type=aar
+- pkg:maven/com.gimbal.android.v3/gimbal-slf4j-impl@3.1.2?classifier=sources
+- pkg:maven/com.gimbal.android.v3/gimbal-slf4j-impl@3.1.1?type=aar
+- pkg:maven/com.gimbal.android.v3/gimbal-slf4j-impl@3.1.1?classifier=sources

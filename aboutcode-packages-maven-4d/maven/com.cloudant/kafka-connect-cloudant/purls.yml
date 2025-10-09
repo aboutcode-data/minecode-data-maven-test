@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudant/kafka-connect-cloudant@0.100.0-kafka-1.0.0
+- pkg:maven/com.cloudant/kafka-connect-cloudant@0.100.0-kafka-1.0.0?classifier=sources

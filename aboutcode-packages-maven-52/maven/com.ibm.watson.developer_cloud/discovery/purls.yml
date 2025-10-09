@@ -20,3 +20,7 @@
 - pkg:maven/com.ibm.watson.developer_cloud/discovery@4.1.0?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/discovery@4.2.1
 - pkg:maven/com.ibm.watson.developer_cloud/discovery@4.2.1?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@5.1.0
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@5.1.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@5.0.1
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@5.0.1?classifier=sources
