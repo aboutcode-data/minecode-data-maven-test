@@ -39,3 +39,5 @@
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.4.0-Carbon
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.9.1
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.9.1?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.8.3
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.8.3?classifier=sources

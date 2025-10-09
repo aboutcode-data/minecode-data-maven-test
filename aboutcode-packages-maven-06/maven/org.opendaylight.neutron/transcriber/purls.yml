@@ -69,3 +69,5 @@
 - pkg:maven/org.opendaylight.neutron/transcriber@0.10.0
 - pkg:maven/org.opendaylight.neutron/transcriber@0.13.1
 - pkg:maven/org.opendaylight.neutron/transcriber@0.13.1?classifier=sources
+- pkg:maven/org.opendaylight.neutron/transcriber@0.12.3
+- pkg:maven/org.opendaylight.neutron/transcriber@0.12.3?classifier=sources

@@ -170,3 +170,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@2.0.23?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@2.1.14
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@2.1.14?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@4.0.3
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@4.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@3.0.7
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@3.0.7?classifier=sources

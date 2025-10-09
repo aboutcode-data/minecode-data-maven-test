@@ -176,3 +176,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-common@2.0.23?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-common@2.1.14
 - pkg:maven/org.opendaylight.yangtools/yang-common@2.1.14?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common@4.0.3
+- pkg:maven/org.opendaylight.yangtools/yang-common@4.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common@3.0.7
+- pkg:maven/org.opendaylight.yangtools/yang-common@3.0.7?classifier=sources

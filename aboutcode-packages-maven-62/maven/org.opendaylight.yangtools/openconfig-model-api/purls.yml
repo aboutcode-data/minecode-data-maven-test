@@ -110,3 +110,7 @@
 - pkg:maven/org.opendaylight.yangtools/openconfig-model-api@2.0.23?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/openconfig-model-api@2.1.14
 - pkg:maven/org.opendaylight.yangtools/openconfig-model-api@2.1.14?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/openconfig-model-api@4.0.3
+- pkg:maven/org.opendaylight.yangtools/openconfig-model-api@4.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/openconfig-model-api@3.0.7
+- pkg:maven/org.opendaylight.yangtools/openconfig-model-api@3.0.7?classifier=sources

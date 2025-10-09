@@ -136,3 +136,7 @@
 - pkg:maven/org.opendaylight.yangtools/testutils@2.0.23?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/testutils@2.1.14
 - pkg:maven/org.opendaylight.yangtools/testutils@2.1.14?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/testutils@4.0.3
+- pkg:maven/org.opendaylight.yangtools/testutils@4.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/testutils@3.0.7
+- pkg:maven/org.opendaylight.yangtools/testutils@3.0.7?classifier=sources

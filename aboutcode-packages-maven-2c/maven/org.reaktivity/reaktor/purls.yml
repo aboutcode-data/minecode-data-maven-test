@@ -242,3 +242,5 @@
 - pkg:maven/org.reaktivity/reaktor@0.112?classifier=sources
 - pkg:maven/org.reaktivity/reaktor@0.114
 - pkg:maven/org.reaktivity/reaktor@0.114?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.115
+- pkg:maven/org.reaktivity/reaktor@0.115?classifier=sources
