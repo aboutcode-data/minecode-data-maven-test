@@ -5,3 +5,5 @@
 - pkg:maven/javax.sip/jain-sip-api@1.2-2007-07-25
 - pkg:maven/javax.sip/jain-sip-api@1.2
 - pkg:maven/javax.sip/jain-sip-api@1.2?classifier=sources
+- pkg:maven/javax.sip/jain-sip-api@1.2.0
+- pkg:maven/javax.sip/jain-sip-api@1.2.0?classifier=sources
