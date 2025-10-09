@@ -86,3 +86,5 @@
 - pkg:maven/org.craftercms/crafter-engine@2.5.8?classifier=sources
 - pkg:maven/org.craftercms/crafter-engine@2.5.10?type=war
 - pkg:maven/org.craftercms/crafter-engine@2.5.10?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@2.5.11?type=war
+- pkg:maven/org.craftercms/crafter-engine@2.5.11?classifier=sources

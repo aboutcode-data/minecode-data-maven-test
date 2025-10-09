@@ -94,3 +94,5 @@
 - pkg:maven/org.neo4j.driver/neo4j-java-driver@1.4.5?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver@1.5.0-beta02
 - pkg:maven/org.neo4j.driver/neo4j-java-driver@1.5.0-beta02?classifier=sources
+- pkg:maven/org.neo4j.driver/neo4j-java-driver@1.5.0-beta03
+- pkg:maven/org.neo4j.driver/neo4j-java-driver@1.5.0-beta03?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/org.mock-server/mockserver-core@3.12?classifier=sources
 - pkg:maven/org.mock-server/mockserver-core@4.0.0
 - pkg:maven/org.mock-server/mockserver-core@4.0.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-core@4.1.0
+- pkg:maven/org.mock-server/mockserver-core@4.1.0?classifier=sources

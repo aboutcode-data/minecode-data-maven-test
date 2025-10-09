@@ -152,3 +152,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.5.23?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.0.47
 - pkg:maven/org.apache.tomcat/tomcat-jni@8.0.47?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jni@9.0.2
+- pkg:maven/org.apache.tomcat/tomcat-jni@9.0.2?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jni@8.5.24
+- pkg:maven/org.apache.tomcat/tomcat-jni@8.5.24?classifier=sources
