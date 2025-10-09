@@ -24,3 +24,7 @@
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.6?classifier=sources
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.6
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.6?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.7
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.7?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.7
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.7?classifier=sources

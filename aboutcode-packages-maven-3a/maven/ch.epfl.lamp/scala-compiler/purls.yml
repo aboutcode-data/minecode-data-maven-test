@@ -1456,3 +1456,7 @@
 - pkg:maven/ch.epfl.lamp/scala-compiler@0.18.1-RC1?classifier=sources
 - pkg:maven/ch.epfl.lamp/scala-compiler@0.17.0
 - pkg:maven/ch.epfl.lamp/scala-compiler@0.17.0?classifier=sources
+- pkg:maven/ch.epfl.lamp/scala-compiler@0.19.1-bin-20190904-beba63a-NIGHTLY
+- pkg:maven/ch.epfl.lamp/scala-compiler@0.19.1-bin-20190904-beba63a-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/scala-compiler@0.19.1-bin-20190903-85962b1-NIGHTLY
+- pkg:maven/ch.epfl.lamp/scala-compiler@0.19.1-bin-20190903-85962b1-NIGHTLY?classifier=sources
