@@ -1,2 +1,6 @@
 - pkg:maven/org.aesh/readline-extensions@1.0-Alpha1
 - pkg:maven/org.aesh/readline-extensions@1.0-Alpha1?classifier=sources
+- pkg:maven/org.aesh/readline-extensions@1.0-Alpha2
+- pkg:maven/org.aesh/readline-extensions@1.0-Alpha2?classifier=sources
+- pkg:maven/org.aesh/readline-extensions@1.0
+- pkg:maven/org.aesh/readline-extensions@1.0?classifier=sources
