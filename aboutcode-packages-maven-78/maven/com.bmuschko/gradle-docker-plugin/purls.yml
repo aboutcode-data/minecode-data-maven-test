@@ -98,3 +98,5 @@
 - pkg:maven/com.bmuschko/gradle-docker-plugin@4.9.0?classifier=sources
 - pkg:maven/com.bmuschko/gradle-docker-plugin@4.10.0
 - pkg:maven/com.bmuschko/gradle-docker-plugin@4.10.0?classifier=sources
+- pkg:maven/com.bmuschko/gradle-docker-plugin@5.1.0
+- pkg:maven/com.bmuschko/gradle-docker-plugin@5.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.circleci/java-client@2.0.47
+- pkg:maven/com.circleci/java-client@2.0.47?classifier=sources
+- pkg:maven/com.circleci/java-client@2.0.43
+- pkg:maven/com.circleci/java-client@2.0.43?classifier=sources
+- pkg:maven/com.circleci/java-client@2.0.32
+- pkg:maven/com.circleci/java-client@2.0.32?classifier=sources

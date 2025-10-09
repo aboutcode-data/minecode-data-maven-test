@@ -28,3 +28,5 @@
 - pkg:maven/com.codetaco/cli@6.8.0?classifier=sources
 - pkg:maven/com.codetaco/cli@6.10.2
 - pkg:maven/com.codetaco/cli@6.10.2?classifier=sources
+- pkg:maven/com.codetaco/cli@6.10.4
+- pkg:maven/com.codetaco/cli@6.10.4?classifier=sources
