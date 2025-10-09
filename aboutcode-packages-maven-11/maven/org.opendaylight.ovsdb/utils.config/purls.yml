@@ -77,3 +77,5 @@
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.0.2-Helium-SR2
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.0.1-Helium-SR1.1
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.0.1-Helium-SR1
+- pkg:maven/org.opendaylight.ovsdb/utils.config@1.9.1
+- pkg:maven/org.opendaylight.ovsdb/utils.config@1.9.1?classifier=sources

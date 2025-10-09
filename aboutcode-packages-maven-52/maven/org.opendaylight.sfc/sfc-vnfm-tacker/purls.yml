@@ -62,3 +62,5 @@
 - pkg:maven/org.opendaylight.sfc/sfc-vnfm-tacker@0.2.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-vnfm-tacker@0.10.0
 - pkg:maven/org.opendaylight.sfc/sfc-vnfm-tacker@0.10.0?classifier=sources
+- pkg:maven/org.opendaylight.sfc/sfc-vnfm-tacker@0.10.1
+- pkg:maven/org.opendaylight.sfc/sfc-vnfm-tacker@0.10.1?classifier=sources

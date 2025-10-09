@@ -118,3 +118,5 @@
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@0.6.3-Helium-SR1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@0.6.2-Helium
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@0.6.2-Helium?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.23
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.23?classifier=sources

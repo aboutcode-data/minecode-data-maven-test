@@ -58,3 +58,5 @@
 - pkg:maven/org.opendaylight.ovsdb/utils.ovsdb-it-utils@1.2.4-Beryllium-SR3?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.ovsdb-it-utils@1.2.3-Beryllium-SR2
 - pkg:maven/org.opendaylight.ovsdb/utils.ovsdb-it-utils@1.2.3-Beryllium-SR2?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.ovsdb-it-utils@1.9.1
+- pkg:maven/org.opendaylight.ovsdb/utils.ovsdb-it-utils@1.9.1?classifier=sources

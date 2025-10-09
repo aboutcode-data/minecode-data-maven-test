@@ -32,3 +32,5 @@
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.6.0?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.0
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.0?classifier=sources
+- pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.1
+- pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.1?classifier=sources

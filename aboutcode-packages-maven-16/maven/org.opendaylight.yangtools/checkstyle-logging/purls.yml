@@ -146,3 +146,5 @@
 - pkg:maven/org.opendaylight.yangtools/checkstyle-logging@0.6.2-Helium?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/checkstyle-logging@2.1.13
 - pkg:maven/org.opendaylight.yangtools/checkstyle-logging@2.1.13?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/checkstyle-logging@2.0.23
+- pkg:maven/org.opendaylight.yangtools/checkstyle-logging@2.0.23?classifier=sources
