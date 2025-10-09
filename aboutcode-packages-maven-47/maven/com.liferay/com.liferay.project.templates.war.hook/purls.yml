@@ -172,3 +172,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.56
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.58
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.58?classifier=sources-commercial

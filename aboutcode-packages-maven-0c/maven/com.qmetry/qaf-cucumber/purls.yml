@@ -6,3 +6,5 @@
 - pkg:maven/com.qmetry/qaf-cucumber@2.1.15-beta-2?classifier=sources
 - pkg:maven/com.qmetry/qaf-cucumber@2.1.15-beta-1
 - pkg:maven/com.qmetry/qaf-cucumber@2.1.15-beta-1?classifier=sources
+- pkg:maven/com.qmetry/qaf-cucumber@2.1.15
+- pkg:maven/com.qmetry/qaf-cucumber@2.1.15?classifier=sources

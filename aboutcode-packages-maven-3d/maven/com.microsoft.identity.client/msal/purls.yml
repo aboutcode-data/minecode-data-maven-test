@@ -16,3 +16,5 @@
 - pkg:maven/com.microsoft.identity.client/msal@0.3.2-alpha?classifier=sources
 - pkg:maven/com.microsoft.identity.client/msal@1.0.0?type=aar
 - pkg:maven/com.microsoft.identity.client/msal@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.identity.client/msal@1.0.0-hf1?type=aar
+- pkg:maven/com.microsoft.identity.client/msal@1.0.0-hf1?classifier=sources

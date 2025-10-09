@@ -154,3 +154,12 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.web@2.0.16
 - pkg:maven/com.liferay/com.liferay.mail.reader.web@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@3.0.13
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@3.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@2.0.17
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@2.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@1.0.31
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.web@1.0.31?classifier=sources-commercial

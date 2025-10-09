@@ -157,3 +157,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.18
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.24
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.19
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.19?classifier=sources-commercial

@@ -56,3 +56,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@2.0.7
 - pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@3.0.3
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@2.0.8
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@2.0.8?classifier=sources-commercial

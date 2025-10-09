@@ -117,3 +117,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@2.0.23
 - pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@2.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@2.0.24
+- pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@1.0.16
+- pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@1.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr7.impl@1.0.16?classifier=sources-commercial

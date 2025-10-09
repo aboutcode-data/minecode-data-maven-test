@@ -236,3 +236,9 @@
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@5.0.13
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@5.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@4.0.22
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@4.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@3.0.32
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@3.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.service@3.0.32?classifier=sources-commercial

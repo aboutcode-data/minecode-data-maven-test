@@ -811,3 +811,12 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.46
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.service@5.0.47
+- pkg:maven/com.liferay/com.liferay.journal.service@5.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@5.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.87
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.87?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.service@3.31.11
+- pkg:maven/com.liferay/com.liferay.journal.service@3.31.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@3.31.11?classifier=sources-commercial

@@ -124,3 +124,5 @@
 - pkg:maven/com.netflix.evcache/evcache-core@5.12.11?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-core@5.12.15
 - pkg:maven/com.netflix.evcache/evcache-core@5.12.15?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-core@5.12.16
+- pkg:maven/com.netflix.evcache/evcache-core@5.12.16?classifier=sources

@@ -142,3 +142,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@2.0.15
 - pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@2.0.16
+- pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@1.0.33
+- pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@1.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lpkg.deployer.impl@1.0.33?classifier=sources-commercial

@@ -205,3 +205,12 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.22
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.25
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.23
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.web@2.0.23?classifier=sources-commercial

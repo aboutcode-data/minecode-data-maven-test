@@ -872,3 +872,11 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@3.49.3?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.12.12
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.12.12?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.14.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.14.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.13.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@4.13.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@3.49.4
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@3.49.4?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.65.5
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.65.5?classifier=sources

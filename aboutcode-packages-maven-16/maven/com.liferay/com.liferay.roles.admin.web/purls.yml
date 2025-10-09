@@ -328,3 +328,15 @@
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.20
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.22
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.21
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@2.0.43
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.63
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@1.0.63?classifier=sources-commercial

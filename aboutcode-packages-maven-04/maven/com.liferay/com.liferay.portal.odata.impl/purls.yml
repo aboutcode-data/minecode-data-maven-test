@@ -112,3 +112,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.odata.impl@1.0.29
 - pkg:maven/com.liferay/com.liferay.portal.odata.impl@1.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.odata.impl@1.0.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.odata.impl@1.0.30
+- pkg:maven/com.liferay/com.liferay.portal.odata.impl@1.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.odata.impl@1.0.30?classifier=sources-commercial
