@@ -72,3 +72,7 @@
 - pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.15.2?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.20
 - pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.20?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.20.2
+- pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.20.2?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.20.1
+- pkg:maven/org.kill-bill.commons/killbill-xmlloader@0.20.1?classifier=sources
