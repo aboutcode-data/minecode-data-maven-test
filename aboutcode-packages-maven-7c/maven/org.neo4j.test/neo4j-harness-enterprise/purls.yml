@@ -146,3 +146,5 @@
 - pkg:maven/org.neo4j.test/neo4j-harness-enterprise@3.4.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness-enterprise@3.2.8
 - pkg:maven/org.neo4j.test/neo4j-harness-enterprise@3.2.8?classifier=sources
+- pkg:maven/org.neo4j.test/neo4j-harness-enterprise@3.3.1
+- pkg:maven/org.neo4j.test/neo4j-harness-enterprise@3.3.1?classifier=sources

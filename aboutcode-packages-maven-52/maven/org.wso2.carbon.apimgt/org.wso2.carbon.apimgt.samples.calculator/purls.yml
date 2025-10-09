@@ -78,3 +78,9 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.1.145?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.1.144?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.1.144?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.2.3?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.2.3?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.2.2?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.2.2?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.2.1?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.2.1?classifier=sources

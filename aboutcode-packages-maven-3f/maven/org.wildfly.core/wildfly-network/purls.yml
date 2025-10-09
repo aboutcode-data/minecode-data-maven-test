@@ -324,3 +324,5 @@
 - pkg:maven/org.wildfly.core/wildfly-network@3.0.10.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-network@4.0.0.Alpha3
 - pkg:maven/org.wildfly.core/wildfly-network@4.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-network@4.0.0.Alpha4
+- pkg:maven/org.wildfly.core/wildfly-network@4.0.0.Alpha4?classifier=sources

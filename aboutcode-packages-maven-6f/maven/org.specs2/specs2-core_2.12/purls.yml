@@ -98,3 +98,5 @@
 - pkg:maven/org.specs2/specs2-core_2.12@4.0.2-7d5b166-20171123095736?classifier=sources
 - pkg:maven/org.specs2/specs2-core_2.12@4.0.2-291bdf5-20171123131811
 - pkg:maven/org.specs2/specs2-core_2.12@4.0.2-291bdf5-20171123131811?classifier=sources
+- pkg:maven/org.specs2/specs2-core_2.12@4.0.2
+- pkg:maven/org.specs2/specs2-core_2.12@4.0.2?classifier=sources

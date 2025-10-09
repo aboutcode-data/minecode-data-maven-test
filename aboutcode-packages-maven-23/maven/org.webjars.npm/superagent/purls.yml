@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/superagent@1.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/superagent@3.3.1
 - pkg:maven/org.webjars.npm/superagent@3.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/superagent@3.8.1
+- pkg:maven/org.webjars.npm/superagent@3.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/superagent@3.5.2
+- pkg:maven/org.webjars.npm/superagent@3.5.2?classifier=sources
