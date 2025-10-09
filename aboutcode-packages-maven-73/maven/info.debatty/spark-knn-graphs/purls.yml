@@ -20,3 +20,5 @@
 - pkg:maven/info.debatty/spark-knn-graphs@0.10?classifier=sources
 - pkg:maven/info.debatty/spark-knn-graphs@0.12
 - pkg:maven/info.debatty/spark-knn-graphs@0.12?classifier=sources
+- pkg:maven/info.debatty/spark-knn-graphs@0.13
+- pkg:maven/info.debatty/spark-knn-graphs@0.13?classifier=sources

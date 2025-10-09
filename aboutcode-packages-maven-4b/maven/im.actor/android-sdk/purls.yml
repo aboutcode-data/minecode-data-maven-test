@@ -230,3 +230,5 @@
 - pkg:maven/im.actor/android-sdk@1.0.160?classifier=sources
 - pkg:maven/im.actor/android-sdk@1.0.180?type=aar
 - pkg:maven/im.actor/android-sdk@1.0.180?classifier=sources
+- pkg:maven/im.actor/android-sdk@1.0.181?type=aar
+- pkg:maven/im.actor/android-sdk@1.0.181?classifier=sources

@@ -84,3 +84,5 @@
 - pkg:maven/com.netflix.governator/governator-test-junit@1.12.7?classifier=sources
 - pkg:maven/com.netflix.governator/governator-test-junit@1.12.6
 - pkg:maven/com.netflix.governator/governator-test-junit@1.12.6?classifier=sources
+- pkg:maven/com.netflix.governator/governator-test-junit@1.12.8
+- pkg:maven/com.netflix.governator/governator-test-junit@1.12.8?classifier=sources
