@@ -1,2 +1,4 @@
 - pkg:maven/org.seleniumhq.selenium/lift@3.4.0
 - pkg:maven/org.seleniumhq.selenium/lift@3.4.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.5.1
+- pkg:maven/org.seleniumhq.selenium/lift@3.5.1?classifier=sources

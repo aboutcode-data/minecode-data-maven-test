@@ -36,3 +36,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.80.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.81.0
 - pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.81.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.82.0
+- pkg:maven/org.stagemonitor/stagemonitor-dispatcher@0.82.0?classifier=sources

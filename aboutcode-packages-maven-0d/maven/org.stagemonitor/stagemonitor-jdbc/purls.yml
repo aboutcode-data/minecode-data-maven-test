@@ -90,3 +90,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.80.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.81.0
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.81.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.82.0
+- pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.82.0?classifier=sources

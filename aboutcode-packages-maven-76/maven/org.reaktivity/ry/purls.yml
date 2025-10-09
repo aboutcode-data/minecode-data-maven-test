@@ -62,3 +62,5 @@
 - pkg:maven/org.reaktivity/ry@0.32?classifier=sources
 - pkg:maven/org.reaktivity/ry@0.31
 - pkg:maven/org.reaktivity/ry@0.31?classifier=sources
+- pkg:maven/org.reaktivity/ry@0.33
+- pkg:maven/org.reaktivity/ry@0.33?classifier=sources
