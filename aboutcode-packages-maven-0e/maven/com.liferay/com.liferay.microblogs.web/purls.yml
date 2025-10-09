@@ -50,3 +50,6 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.21
 - pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.23
+- pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.23?classifier=sources-commercial

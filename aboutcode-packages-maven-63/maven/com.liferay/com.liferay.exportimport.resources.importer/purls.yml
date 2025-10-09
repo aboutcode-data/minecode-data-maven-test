@@ -55,3 +55,6 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@1.2.13
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@1.2.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@1.2.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@1.2.15
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@1.2.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@1.2.15?classifier=sources-commercial
