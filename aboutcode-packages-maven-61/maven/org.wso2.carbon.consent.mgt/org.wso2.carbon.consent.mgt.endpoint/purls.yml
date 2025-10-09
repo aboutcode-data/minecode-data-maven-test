@@ -122,3 +122,5 @@
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.endpoint@2.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.endpoint@2.0.10?type=war
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.endpoint@2.0.10?classifier=sources
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.endpoint@2.0.11?type=war
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.endpoint@2.0.11?classifier=sources

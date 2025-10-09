@@ -22,3 +22,5 @@
 - pkg:maven/org.telegram/telegrambotsextensions@3.6.1?classifier=sources
 - pkg:maven/org.telegram/telegrambotsextensions@4.0.0
 - pkg:maven/org.telegram/telegrambotsextensions@4.0.0?classifier=sources
+- pkg:maven/org.telegram/telegrambotsextensions@4.0.1
+- pkg:maven/org.telegram/telegrambotsextensions@4.0.1?classifier=sources
