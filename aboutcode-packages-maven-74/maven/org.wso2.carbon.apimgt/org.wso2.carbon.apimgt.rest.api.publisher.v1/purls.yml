@@ -34,3 +34,5 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@6.4.200?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@6.4.199?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@6.4.199?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@6.5.121?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@6.5.121?classifier=sources

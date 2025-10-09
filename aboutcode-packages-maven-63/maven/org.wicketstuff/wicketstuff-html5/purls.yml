@@ -170,3 +170,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-html5@8.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-html5@7.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-html5@7.15.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-html5@9.0.1-M3
+- pkg:maven/org.wicketstuff/wicketstuff-html5@9.0.1-M3?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-html5@9.0.0-M3
+- pkg:maven/org.wicketstuff/wicketstuff-html5@9.0.0-M3?classifier=sources

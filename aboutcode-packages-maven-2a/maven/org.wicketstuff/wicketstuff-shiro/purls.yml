@@ -162,3 +162,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@8.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@7.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@7.15.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-shiro@9.0.1-M3
+- pkg:maven/org.wicketstuff/wicketstuff-shiro@9.0.1-M3?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-shiro@9.0.0-M3
+- pkg:maven/org.wicketstuff/wicketstuff-shiro@9.0.0-M3?classifier=sources
