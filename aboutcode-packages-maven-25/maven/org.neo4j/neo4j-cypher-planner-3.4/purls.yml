@@ -44,3 +44,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-planner-3.4@3.4.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-planner-3.4@3.4.8
 - pkg:maven/org.neo4j/neo4j-cypher-planner-3.4@3.4.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-planner-3.4@3.4.9
+- pkg:maven/org.neo4j/neo4j-cypher-planner-3.4@3.4.9?classifier=sources

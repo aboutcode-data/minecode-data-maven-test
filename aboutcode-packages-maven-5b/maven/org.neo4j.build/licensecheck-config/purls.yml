@@ -342,3 +342,5 @@
 - pkg:maven/org.neo4j.build/licensecheck-config@3.3.6?classifier=sources
 - pkg:maven/org.neo4j.build/licensecheck-config@3.3.7
 - pkg:maven/org.neo4j.build/licensecheck-config@3.3.7?classifier=sources
+- pkg:maven/org.neo4j.build/licensecheck-config@3.2.13
+- pkg:maven/org.neo4j.build/licensecheck-config@3.2.13?classifier=sources
