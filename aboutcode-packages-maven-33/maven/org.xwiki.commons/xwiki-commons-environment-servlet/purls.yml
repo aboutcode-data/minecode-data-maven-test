@@ -294,3 +294,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-servlet@8.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-servlet@8.3-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-servlet@8.3-milestone-2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-environment-servlet@7.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-environment-servlet@7.4.5?classifier=sources

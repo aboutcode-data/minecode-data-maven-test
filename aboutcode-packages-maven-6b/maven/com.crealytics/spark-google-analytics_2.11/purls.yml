@@ -6,3 +6,5 @@
 - pkg:maven/com.crealytics/spark-google-analytics_2.11@0.8.3?classifier=sources
 - pkg:maven/com.crealytics/spark-google-analytics_2.11@0.8.2
 - pkg:maven/com.crealytics/spark-google-analytics_2.11@0.8.2?classifier=sources
+- pkg:maven/com.crealytics/spark-google-analytics_2.11@1.0.0
+- pkg:maven/com.crealytics/spark-google-analytics_2.11@1.0.0?classifier=sources

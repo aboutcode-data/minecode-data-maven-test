@@ -10,3 +10,5 @@
 - pkg:maven/software.uncharted.salt/salt-core@3.0.0?classifier=sources
 - pkg:maven/software.uncharted.salt/salt-core@3.0.1
 - pkg:maven/software.uncharted.salt/salt-core@3.0.1?classifier=sources
+- pkg:maven/software.uncharted.salt/salt-core@4.0.0
+- pkg:maven/software.uncharted.salt/salt-core@4.0.0?classifier=sources
