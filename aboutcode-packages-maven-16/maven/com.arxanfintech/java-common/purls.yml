@@ -16,3 +16,5 @@
 - pkg:maven/com.arxanfintech/java-common@2.1.1b?classifier=sources
 - pkg:maven/com.arxanfintech/java-common@2.0.1d
 - pkg:maven/com.arxanfintech/java-common@2.0.1d?classifier=sources
+- pkg:maven/com.arxanfintech/java-common@3.0
+- pkg:maven/com.arxanfintech/java-common@3.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.arm.mbed.cloud.sdk/device_directory@1.2.10?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/device_directory@2.0.0
 - pkg:maven/com.arm.mbed.cloud.sdk/device_directory@2.0.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/device_directory@2.1.0
+- pkg:maven/com.arm.mbed.cloud.sdk/device_directory@2.1.0?classifier=sources

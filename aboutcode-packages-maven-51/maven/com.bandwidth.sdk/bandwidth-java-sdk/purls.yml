@@ -16,3 +16,5 @@
 - pkg:maven/com.bandwidth.sdk/bandwidth-java-sdk@1.9?classifier=sources
 - pkg:maven/com.bandwidth.sdk/bandwidth-java-sdk@1.10
 - pkg:maven/com.bandwidth.sdk/bandwidth-java-sdk@1.10?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-java-sdk@1.11
+- pkg:maven/com.bandwidth.sdk/bandwidth-java-sdk@1.11?classifier=sources

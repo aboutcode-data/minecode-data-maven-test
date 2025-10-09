@@ -10,3 +10,5 @@
 - pkg:maven/com.arm.mbed.cloud.sdk/enrollment@1.2.10?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/enrollment@2.0.0
 - pkg:maven/com.arm.mbed.cloud.sdk/enrollment@2.0.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/enrollment@2.1.0
+- pkg:maven/com.arm.mbed.cloud.sdk/enrollment@2.1.0?classifier=sources
