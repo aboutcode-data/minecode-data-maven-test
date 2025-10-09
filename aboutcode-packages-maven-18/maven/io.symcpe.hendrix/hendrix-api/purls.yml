@@ -8,3 +8,5 @@
 - pkg:maven/io.symcpe.hendrix/hendrix-api@0.0.29?classifier=sources
 - pkg:maven/io.symcpe.hendrix/hendrix-api@0.0.28?classifier=sources
 - pkg:maven/io.symcpe.hendrix/hendrix-api@0.0.32?classifier=sources
+- pkg:maven/io.symcpe.hendrix/hendrix-api@0.0.33
+- pkg:maven/io.symcpe.hendrix/hendrix-api@0.0.33?classifier=sources

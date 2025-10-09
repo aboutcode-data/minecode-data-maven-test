@@ -40,3 +40,5 @@
 - pkg:maven/io.fabric8.kubeflix/hello-ribbon@1.0.20?classifier=sources
 - pkg:maven/io.fabric8.kubeflix/hello-ribbon@1.0.22?type=war
 - pkg:maven/io.fabric8.kubeflix/hello-ribbon@1.0.22?classifier=sources
+- pkg:maven/io.fabric8.kubeflix/hello-ribbon@1.0.23?type=war
+- pkg:maven/io.fabric8.kubeflix/hello-ribbon@1.0.23?classifier=sources
