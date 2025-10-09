@@ -70,3 +70,9 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.44
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.44?classifier=sources
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.44?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.47
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.47?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.47?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.46
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.46?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.sql.driver@4.4.46?classifier=source-release&type=zip
