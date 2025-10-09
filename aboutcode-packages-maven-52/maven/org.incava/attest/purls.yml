@@ -4,3 +4,5 @@
 - pkg:maven/org.incava/attest@0.0.5?classifier=sources
 - pkg:maven/org.incava/attest@0.0.8
 - pkg:maven/org.incava/attest@0.0.8?classifier=sources
+- pkg:maven/org.incava/attest@1.0.0
+- pkg:maven/org.incava/attest@1.0.0?classifier=sources
