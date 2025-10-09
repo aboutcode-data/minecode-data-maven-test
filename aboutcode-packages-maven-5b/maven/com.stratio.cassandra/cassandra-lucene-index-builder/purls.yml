@@ -88,3 +88,5 @@
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.1.15.0?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.2.7.1
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.2.7.1?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.0.8.1
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.0.8.1?classifier=sources

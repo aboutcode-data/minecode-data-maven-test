@@ -36,3 +36,5 @@
 - pkg:maven/com.pinterest/secor@0.20?classifier=sources
 - pkg:maven/com.pinterest/secor@0.19
 - pkg:maven/com.pinterest/secor@0.19?classifier=sources
+- pkg:maven/com.pinterest/secor@0.21
+- pkg:maven/com.pinterest/secor@0.21?classifier=sources

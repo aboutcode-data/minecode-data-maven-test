@@ -30,3 +30,7 @@
 - pkg:maven/com.teradata.tempto/tempto-runner@1.9?classifier=sources
 - pkg:maven/com.teradata.tempto/tempto-runner@1.10
 - pkg:maven/com.teradata.tempto/tempto-runner@1.10?classifier=sources
+- pkg:maven/com.teradata.tempto/tempto-runner@1.12
+- pkg:maven/com.teradata.tempto/tempto-runner@1.12?classifier=sources
+- pkg:maven/com.teradata.tempto/tempto-runner@1.11
+- pkg:maven/com.teradata.tempto/tempto-runner@1.11?classifier=sources
