@@ -34,3 +34,5 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.11@2.0.6?classifier=sources
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.11@1.6.10
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.11@1.6.10?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.11@1.6.11
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.11@1.6.11?classifier=sources

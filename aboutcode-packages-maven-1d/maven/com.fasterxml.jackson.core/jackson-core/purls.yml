@@ -184,3 +184,5 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.11
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.11?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.4
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.4?classifier=sources

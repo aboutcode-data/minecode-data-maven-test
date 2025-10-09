@@ -8,3 +8,5 @@
 - pkg:maven/com.datadoghq/java-dogstatsd-client@2.3?classifier=sources
 - pkg:maven/com.datadoghq/java-dogstatsd-client@2.4
 - pkg:maven/com.datadoghq/java-dogstatsd-client@2.4?classifier=sources
+- pkg:maven/com.datadoghq/java-dogstatsd-client@2.5
+- pkg:maven/com.datadoghq/java-dogstatsd-client@2.5?classifier=sources
