@@ -22,3 +22,6 @@
 - pkg:maven/org.wildfly/wildfly-clustering-ee-hotrod@14.0.0.Final
 - pkg:maven/org.wildfly/wildfly-clustering-ee-hotrod@14.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-ee-hotrod@14.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-clustering-ee-hotrod@16.0.0.Final
+- pkg:maven/org.wildfly/wildfly-clustering-ee-hotrod@16.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-ee-hotrod@16.0.0.Final?classifier=source-release&type=zip
