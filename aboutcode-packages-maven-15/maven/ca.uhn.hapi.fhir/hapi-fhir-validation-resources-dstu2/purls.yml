@@ -10,3 +10,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@1.6?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@2.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@2.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@2.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4.1
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4.1?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.5.0.36
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.5.0.36?classifier=sources

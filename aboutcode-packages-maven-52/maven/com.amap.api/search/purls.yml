@@ -4,3 +4,5 @@
 - pkg:maven/com.amap.api/search@3.4.0?classifier=sources
 - pkg:maven/com.amap.api/search@3.5.0
 - pkg:maven/com.amap.api/search@3.5.0?classifier=sources
+- pkg:maven/com.amap.api/search@3.5.0.1
+- pkg:maven/com.amap.api/search@3.5.0.1?classifier=sources
