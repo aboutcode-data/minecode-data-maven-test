@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.storm/storm-starter@0.9.7?classifier=sources
 - pkg:maven/org.apache.storm/storm-starter@0.10.2
 - pkg:maven/org.apache.storm/storm-starter@0.10.2?classifier=sources
+- pkg:maven/org.apache.storm/storm-starter@1.0.3
+- pkg:maven/org.apache.storm/storm-starter@1.0.3?classifier=sources
