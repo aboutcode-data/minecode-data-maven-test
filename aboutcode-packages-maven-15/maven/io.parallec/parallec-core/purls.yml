@@ -12,3 +12,5 @@
 - pkg:maven/io.parallec/parallec-core@0.9.4-beta?classifier=sources
 - pkg:maven/io.parallec/parallec-core@0.10.0
 - pkg:maven/io.parallec/parallec-core@0.10.0?classifier=sources
+- pkg:maven/io.parallec/parallec-core@0.10.1-beta
+- pkg:maven/io.parallec/parallec-core@0.10.1-beta?classifier=sources

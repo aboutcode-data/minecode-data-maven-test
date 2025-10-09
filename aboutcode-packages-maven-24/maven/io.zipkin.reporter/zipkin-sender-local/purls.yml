@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.0
+- pkg:maven/io.zipkin.reporter/zipkin-sender-local@0.6.0?classifier=sources
