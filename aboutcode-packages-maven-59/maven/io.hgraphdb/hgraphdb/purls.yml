@@ -60,3 +60,7 @@
 - pkg:maven/io.hgraphdb/hgraphdb@0.4.16?classifier=sources
 - pkg:maven/io.hgraphdb/hgraphdb@0.4.17
 - pkg:maven/io.hgraphdb/hgraphdb@0.4.17?classifier=sources
+- pkg:maven/io.hgraphdb/hgraphdb@1.0.1
+- pkg:maven/io.hgraphdb/hgraphdb@1.0.1?classifier=sources
+- pkg:maven/io.hgraphdb/hgraphdb@1.0.0
+- pkg:maven/io.hgraphdb/hgraphdb@1.0.0?classifier=sources

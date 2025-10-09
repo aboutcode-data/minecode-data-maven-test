@@ -62,3 +62,5 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-web@2.0.0?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-web@1.7.4
 - pkg:maven/org.apache.openwebbeans/openwebbeans-web@1.7.4?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-web@2.0.1
+- pkg:maven/org.apache.openwebbeans/openwebbeans-web@2.0.1?classifier=sources

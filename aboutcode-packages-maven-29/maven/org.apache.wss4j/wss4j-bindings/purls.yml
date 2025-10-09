@@ -42,3 +42,7 @@
 - pkg:maven/org.apache.wss4j/wss4j-bindings@2.1.9?classifier=sources
 - pkg:maven/org.apache.wss4j/wss4j-bindings@2.1.10
 - pkg:maven/org.apache.wss4j/wss4j-bindings@2.1.10?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-bindings@2.2.0
+- pkg:maven/org.apache.wss4j/wss4j-bindings@2.2.0?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-bindings@2.1.11
+- pkg:maven/org.apache.wss4j/wss4j-bindings@2.1.11?classifier=sources

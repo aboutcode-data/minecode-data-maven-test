@@ -60,3 +60,5 @@
 - pkg:maven/net.leanix/leanix-sdk-java@3.9.7?classifier=sources
 - pkg:maven/net.leanix/leanix-sdk-java@3.9.8
 - pkg:maven/net.leanix/leanix-sdk-java@3.9.8?classifier=sources
+- pkg:maven/net.leanix/leanix-sdk-java@2.1.12
+- pkg:maven/net.leanix/leanix-sdk-java@2.1.12?classifier=sources

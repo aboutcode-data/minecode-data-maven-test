@@ -48,3 +48,5 @@
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.10?classifier=sources
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.12
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.12?classifier=sources
+- pkg:maven/javax.xml.ws/jaxws-api@2.3.0
+- pkg:maven/javax.xml.ws/jaxws-api@2.3.0?classifier=sources
