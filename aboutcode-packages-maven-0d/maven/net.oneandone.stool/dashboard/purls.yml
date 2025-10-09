@@ -40,3 +40,5 @@
 - pkg:maven/net.oneandone.stool/dashboard@3.4.11?classifier=sources
 - pkg:maven/net.oneandone.stool/dashboard@4.0.2?type=war
 - pkg:maven/net.oneandone.stool/dashboard@4.0.2?classifier=sources
+- pkg:maven/net.oneandone.stool/dashboard@4.0.3?type=war
+- pkg:maven/net.oneandone.stool/dashboard@4.0.3?classifier=sources

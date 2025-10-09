@@ -11,3 +11,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-fn-execution@2.8.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-fn-execution@2.9.0
 - pkg:maven/org.apache.beam/beam-sdks-java-fn-execution@2.9.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-fn-execution@2.10.0
+- pkg:maven/org.apache.beam/beam-sdks-java-fn-execution@2.10.0?classifier=sources

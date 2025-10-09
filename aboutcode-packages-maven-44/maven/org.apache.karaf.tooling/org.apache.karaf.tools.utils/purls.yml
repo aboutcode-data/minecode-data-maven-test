@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tools.utils@4.1.7?classifier=sources
 - pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tools.utils@4.2.2
 - pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tools.utils@4.2.2?classifier=sources
+- pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tools.utils@4.2.3
+- pkg:maven/org.apache.karaf.tooling/org.apache.karaf.tools.utils@4.2.3?classifier=sources

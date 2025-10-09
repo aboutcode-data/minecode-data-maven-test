@@ -8,3 +8,7 @@
 - pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.Beta5?classifier=sources
 - pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.RC1
 - pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.RC1?classifier=sources
+- pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.RC2
+- pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.RC2?classifier=sources
+- pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.GA
+- pkg:maven/org.activiti.api/activiti-api-process-runtime@7.0.0.GA?classifier=sources
