@@ -36,3 +36,11 @@
 - pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.18?classifier=sources
 - pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.17
 - pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.17?classifier=sources
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.23
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.23?classifier=sources
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.22
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.22?classifier=sources
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.21
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.21?classifier=sources
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.20
+- pkg:maven/com.sumologic.elasticsearch/elasticsearch-aws@1.0.20?classifier=sources
