@@ -90,3 +90,5 @@
 - pkg:maven/org.lucee/lucee@5.3.0.34-ALPHA?classifier=sources
 - pkg:maven/org.lucee/lucee@5.2.5.20
 - pkg:maven/org.lucee/lucee@5.2.5.20?classifier=sources
+- pkg:maven/org.lucee/lucee@5.2.6.59-RC
+- pkg:maven/org.lucee/lucee@5.2.6.59-RC?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-provider@7.5.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-provider@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-provider@7.6.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-provider@7.6.0.Final?classifier=sources
