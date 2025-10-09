@@ -50,3 +50,7 @@
 - pkg:maven/de.adorsys.ledgers/gateway-app@5.1.2?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@4.2
 - pkg:maven/de.adorsys.ledgers/gateway-app@4.2?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@5.3
+- pkg:maven/de.adorsys.ledgers/gateway-app@5.3?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@4.3
+- pkg:maven/de.adorsys.ledgers/gateway-app@4.3?classifier=sources

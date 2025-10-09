@@ -54,3 +54,5 @@
 - pkg:maven/com.sap.cloud.s4hana/soap@2.21.0?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana/soap@2.22.0
 - pkg:maven/com.sap.cloud.s4hana/soap@2.22.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana/soap@2.22.1
+- pkg:maven/com.sap.cloud.s4hana/soap@2.22.1?classifier=sources
