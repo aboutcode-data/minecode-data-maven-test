@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.hbase/hbase-metrics@1.4.9?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-metrics@2.0.4
 - pkg:maven/org.apache.hbase/hbase-metrics@2.0.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-metrics@2.1.2
+- pkg:maven/org.apache.hbase/hbase-metrics@2.1.2?classifier=sources

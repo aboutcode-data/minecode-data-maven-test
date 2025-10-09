@@ -148,3 +148,5 @@
 - pkg:maven/org.apache.camel/camel-gson@2.22.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-gson@2.23.0
 - pkg:maven/org.apache.camel/camel-gson@2.23.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-gson@2.21.4
+- pkg:maven/org.apache.camel/camel-gson@2.21.4?classifier=sources
