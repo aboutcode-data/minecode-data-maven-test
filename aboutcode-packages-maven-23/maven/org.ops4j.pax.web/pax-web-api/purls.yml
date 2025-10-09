@@ -214,3 +214,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-api@4.3.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-api@3.0.10
 - pkg:maven/org.ops4j.pax.web/pax-web-api@3.0.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-api@6.0.4
+- pkg:maven/org.ops4j.pax.web/pax-web-api@6.0.4?classifier=sources

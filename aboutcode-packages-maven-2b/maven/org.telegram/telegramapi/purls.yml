@@ -8,3 +8,5 @@
 - pkg:maven/org.telegram/telegramapi@57.3?classifier=sources
 - pkg:maven/org.telegram/telegramapi@66.0
 - pkg:maven/org.telegram/telegramapi@66.0?classifier=sources
+- pkg:maven/org.telegram/telegramapi@66.1
+- pkg:maven/org.telegram/telegramapi@66.1?classifier=sources
