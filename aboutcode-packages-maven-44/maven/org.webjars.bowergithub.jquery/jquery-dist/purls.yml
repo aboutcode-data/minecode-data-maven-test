@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.bowergithub.jquery/jquery-dist@1.8.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.jquery/jquery-dist@1.11.0
 - pkg:maven/org.webjars.bowergithub.jquery/jquery-dist@1.11.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.jquery/jquery-dist@2.0.0-beta3
+- pkg:maven/org.webjars.bowergithub.jquery/jquery-dist@2.0.0-beta3?classifier=sources

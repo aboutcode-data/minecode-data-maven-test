@@ -113,3 +113,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@2.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.5.15.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.5.15.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@2.0.5.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@2.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.5.16.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.5.16.RELEASE?classifier=sources

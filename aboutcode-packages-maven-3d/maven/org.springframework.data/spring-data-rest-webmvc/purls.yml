@@ -122,3 +122,7 @@
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.0.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@2.6.14.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@2.6.14.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.0.10.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.0.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@2.6.15.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@2.6.15.RELEASE?classifier=sources

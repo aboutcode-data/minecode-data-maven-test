@@ -122,3 +122,7 @@
 - pkg:maven/org.springframework.amqp/spring-amqp@2.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-amqp@1.7.9.RELEASE
 - pkg:maven/org.springframework.amqp/spring-amqp@1.7.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-amqp@2.0.6.RELEASE
+- pkg:maven/org.springframework.amqp/spring-amqp@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-amqp@1.7.10.RELEASE
+- pkg:maven/org.springframework.amqp/spring-amqp@1.7.10.RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.vx68k.bitbucket/bitbucket-webhook@1.0
 - pkg:maven/org.vx68k.bitbucket/bitbucket-webhook@1.0?classifier=sources
+- pkg:maven/org.vx68k.bitbucket/bitbucket-webhook@5.0-alpha.1
+- pkg:maven/org.vx68k.bitbucket/bitbucket-webhook@5.0-alpha.1?classifier=sources
