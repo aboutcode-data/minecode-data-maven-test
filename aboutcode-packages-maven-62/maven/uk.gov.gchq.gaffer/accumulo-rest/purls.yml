@@ -85,3 +85,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/accumulo-rest@1.8.0-RC1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/accumulo-rest@1.8.0-RC2?type=war
 - pkg:maven/uk.gov.gchq.gaffer/accumulo-rest@1.8.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/accumulo-rest@1.8.0-RC3?type=war
+- pkg:maven/uk.gov.gchq.gaffer/accumulo-rest@1.8.0-RC3?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/dk.nodes.arch/base@2.2.0?classifier=sources
 - pkg:maven/dk.nodes.arch/base@1.2.0?type=aar
 - pkg:maven/dk.nodes.arch/base@1.2.0?classifier=sources
+- pkg:maven/dk.nodes.arch/base@2.3.1?type=aar
+- pkg:maven/dk.nodes.arch/base@2.3.1?classifier=sources
+- pkg:maven/dk.nodes.arch/base@2.3.0?type=aar
+- pkg:maven/dk.nodes.arch/base@2.3.0?classifier=sources
