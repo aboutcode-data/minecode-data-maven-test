@@ -27,3 +27,5 @@
 - pkg:maven/com.microsoft.azure/azure-servicebus@0.9.7?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.0.0-PREVIEW
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.0.0-PREVIEW?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.0.0-PREVIEW-1
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.0.0-PREVIEW-1?classifier=sources
