@@ -108,3 +108,6 @@
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.9
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.web@1.0.40
+- pkg:maven/com.liferay/com.liferay.contacts.web@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@1.0.40?classifier=sources-commercial

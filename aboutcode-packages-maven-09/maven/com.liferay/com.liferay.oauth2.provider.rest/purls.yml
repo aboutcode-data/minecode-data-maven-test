@@ -40,3 +40,6 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.12
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.19
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.19?classifier=sources-commercial

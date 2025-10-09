@@ -100,3 +100,7 @@
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.0.0.jre8?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.0.0.jre10
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.0.0.jre10?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.1.0.jre8-preview
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.1.0.jre8-preview?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.1.0.jre10-preview
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@7.1.0.jre10-preview?classifier=sources

@@ -90,3 +90,6 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@3.0.12
 - pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@3.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@3.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@2.0.26
+- pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.menu.web@2.0.26?classifier=sources-commercial

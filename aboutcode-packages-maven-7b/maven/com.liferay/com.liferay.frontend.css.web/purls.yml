@@ -92,3 +92,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.css.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.frontend.css.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.css.web@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@1.0.42
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@1.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@1.0.42?classifier=sources-commercial

@@ -38,3 +38,6 @@
 - pkg:maven/com.liferay/com.liferay.comment.page.comments.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.comment.page.comments.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.page.comments.web@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@1.0.15
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.page.comments.web@1.0.15?classifier=sources-commercial

@@ -60,3 +60,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-example-api@20.0.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-example-api@21.0.0
 - pkg:maven/com.linkedin.pegasus/restli-example-api@21.0.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-example-api@23.0.19
+- pkg:maven/com.linkedin.pegasus/restli-example-api@23.0.19?classifier=sources

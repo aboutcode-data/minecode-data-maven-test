@@ -60,3 +60,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-contrib-spring@20.0.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-contrib-spring@21.0.0
 - pkg:maven/com.linkedin.pegasus/restli-contrib-spring@21.0.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-contrib-spring@23.0.19
+- pkg:maven/com.linkedin.pegasus/restli-contrib-spring@23.0.19?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.linkedin.pegasus/test-util@20.0.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/test-util@21.0.0
 - pkg:maven/com.linkedin.pegasus/test-util@21.0.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/test-util@23.0.19
+- pkg:maven/com.linkedin.pegasus/test-util@23.0.19?classifier=sources
