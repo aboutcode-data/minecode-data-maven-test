@@ -30,3 +30,5 @@
 - pkg:maven/com.loginradius.sdk/java-sdk@4.2.2?classifier=sources
 - pkg:maven/com.loginradius.sdk/java-sdk@10.0.0-beta
 - pkg:maven/com.loginradius.sdk/java-sdk@10.0.0-beta?classifier=sources
+- pkg:maven/com.loginradius.sdk/java-sdk@10.0.0
+- pkg:maven/com.loginradius.sdk/java-sdk@10.0.0?classifier=sources

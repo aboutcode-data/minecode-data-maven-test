@@ -52,3 +52,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@2.1.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@2.1.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@2.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@2.1.9
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@2.1.9?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@2.1.9?classifier=sources-commercial

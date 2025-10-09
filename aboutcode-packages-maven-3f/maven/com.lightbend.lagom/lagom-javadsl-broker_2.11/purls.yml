@@ -110,3 +110,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-broker_2.11@1.4.15?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-broker_2.11@1.5.3
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-broker_2.11@1.5.3?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-broker_2.11@1.5.4
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-broker_2.11@1.5.4?classifier=sources

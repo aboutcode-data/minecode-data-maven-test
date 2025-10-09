@@ -219,3 +219,5 @@
 - pkg:maven/com.mikepenz/fastadapter@4.1.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/fastadapter@4.1.0-b02?type=aar
 - pkg:maven/com.mikepenz/fastadapter@4.1.0-b02?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter@4.1.0?type=aar
+- pkg:maven/com.mikepenz/fastadapter@4.1.0?classifier=sources

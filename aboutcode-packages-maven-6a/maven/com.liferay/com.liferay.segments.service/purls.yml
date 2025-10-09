@@ -79,3 +79,6 @@
 - pkg:maven/com.liferay/com.liferay.segments.service@1.0.24
 - pkg:maven/com.liferay/com.liferay.segments.service@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.service@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.service@1.0.27
+- pkg:maven/com.liferay/com.liferay.segments.service@1.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.service@1.0.27?classifier=sources-commercial

@@ -1,2 +1,4 @@
 - pkg:maven/com.omnisci/omnisci-jdbc@4.8.0
 - pkg:maven/com.omnisci/omnisci-jdbc@4.8.0?classifier=sources
+- pkg:maven/com.omnisci/omnisci-jdbc@4.8.1
+- pkg:maven/com.omnisci/omnisci-jdbc@4.8.1?classifier=sources

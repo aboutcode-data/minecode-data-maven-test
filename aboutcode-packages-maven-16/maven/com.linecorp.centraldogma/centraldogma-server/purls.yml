@@ -61,3 +61,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server@0.42.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server@0.43.0
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server@0.43.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server@0.43.1
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server@0.43.1?classifier=sources

@@ -322,3 +322,5 @@
 - pkg:maven/com.proofpoint.platform/trace-token@2.12?classifier=sources
 - pkg:maven/com.proofpoint.platform/trace-token@2.13
 - pkg:maven/com.proofpoint.platform/trace-token@2.13?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@2.14
+- pkg:maven/com.proofpoint.platform/trace-token@2.14?classifier=sources
