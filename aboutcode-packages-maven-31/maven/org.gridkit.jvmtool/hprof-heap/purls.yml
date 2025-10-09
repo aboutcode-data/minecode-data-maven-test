@@ -42,3 +42,5 @@
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.8.1?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.9
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.9?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/hprof-heap@0.9.1
+- pkg:maven/org.gridkit.jvmtool/hprof-heap@0.9.1?classifier=sources
