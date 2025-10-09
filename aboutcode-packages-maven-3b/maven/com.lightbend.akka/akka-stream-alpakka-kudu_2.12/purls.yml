@@ -1,2 +1,4 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-kudu_2.12@0.19
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-kudu_2.12@0.19?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-kudu_2.12@0.20
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-kudu_2.12@0.20?classifier=sources

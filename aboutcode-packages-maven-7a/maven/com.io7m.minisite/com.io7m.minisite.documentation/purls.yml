@@ -20,3 +20,5 @@
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.documentation@0.0.10?classifier=sources
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.documentation@0.0.11?type=zip
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.documentation@0.0.11?classifier=sources
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.documentation@1.0.0?type=zip
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.documentation@1.0.0?classifier=sources

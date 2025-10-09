@@ -136,3 +136,6 @@
 - pkg:maven/com.liferay/com.liferay.ant.bnd@2.0.52
 - pkg:maven/com.liferay/com.liferay.ant.bnd@2.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ant.bnd@2.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ant.bnd@2.0.53
+- pkg:maven/com.liferay/com.liferay.ant.bnd@2.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ant.bnd@2.0.53?classifier=sources-commercial

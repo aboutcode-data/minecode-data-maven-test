@@ -30,3 +30,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-dynamodb_2.11@0.18?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-dynamodb_2.11@0.19
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-dynamodb_2.11@0.19?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-dynamodb_2.11@0.20
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-dynamodb_2.11@0.20?classifier=sources
