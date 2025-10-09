@@ -46,3 +46,4 @@
 - pkg:maven/org.apache.camel/camel-http-starter@2.21.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-http-starter@2.22.2
 - pkg:maven/org.apache.camel/camel-http-starter@2.22.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-http-starter@2.23.0

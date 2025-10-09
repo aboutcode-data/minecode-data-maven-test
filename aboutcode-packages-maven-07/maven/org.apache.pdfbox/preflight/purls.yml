@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.pdfbox/preflight@2.0.12?classifier=sources
 - pkg:maven/org.apache.pdfbox/preflight@1.8.16
 - pkg:maven/org.apache.pdfbox/preflight@1.8.16?classifier=sources
+- pkg:maven/org.apache.pdfbox/preflight@2.0.13
+- pkg:maven/org.apache.pdfbox/preflight@2.0.13?classifier=sources
