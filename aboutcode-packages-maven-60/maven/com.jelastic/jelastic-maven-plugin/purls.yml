@@ -9,3 +9,5 @@
 - pkg:maven/com.jelastic/jelastic-maven-plugin@1.8.2?classifier=sources
 - pkg:maven/com.jelastic/jelastic-maven-plugin@1.8.4
 - pkg:maven/com.jelastic/jelastic-maven-plugin@1.8.4?classifier=sources
+- pkg:maven/com.jelastic/jelastic-maven-plugin@1.9
+- pkg:maven/com.jelastic/jelastic-maven-plugin@1.9?classifier=sources

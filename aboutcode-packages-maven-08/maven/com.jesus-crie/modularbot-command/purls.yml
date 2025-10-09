@@ -1,1 +1,2 @@
 - pkg:maven/com.jesus-crie/modularbot-command@2.0.0
+- pkg:maven/com.jesus-crie/modularbot-command@2.0.0?classifier=sources

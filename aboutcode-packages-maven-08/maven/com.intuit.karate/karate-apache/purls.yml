@@ -122,3 +122,7 @@
 - pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC4?classifier=sources
 - pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC5
 - pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC5?classifier=sources
+- pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC7
+- pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC7?classifier=sources
+- pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC6
+- pkg:maven/com.intuit.karate/karate-apache@0.8.0.RC6?classifier=sources

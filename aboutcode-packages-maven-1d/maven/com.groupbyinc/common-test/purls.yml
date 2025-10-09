@@ -192,3 +192,7 @@
 - pkg:maven/com.groupbyinc/common-test@116?classifier=sources
 - pkg:maven/com.groupbyinc/common-test@115
 - pkg:maven/com.groupbyinc/common-test@115?classifier=sources
+- pkg:maven/com.groupbyinc/common-test@124
+- pkg:maven/com.groupbyinc/common-test@124?classifier=sources
+- pkg:maven/com.groupbyinc/common-test@122
+- pkg:maven/com.groupbyinc/common-test@122?classifier=sources
