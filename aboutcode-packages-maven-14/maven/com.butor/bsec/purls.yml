@@ -24,3 +24,5 @@
 - pkg:maven/com.butor/bsec@1.0.22?classifier=sources
 - pkg:maven/com.butor/bsec@1.0.23?type=war
 - pkg:maven/com.butor/bsec@1.0.23?classifier=sources
+- pkg:maven/com.butor/bsec@1.0.24?type=war
+- pkg:maven/com.butor/bsec@1.0.24?classifier=sources
