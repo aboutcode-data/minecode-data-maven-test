@@ -38,3 +38,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-js@1.2.20?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-js@1.2.21
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-js@1.2.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-js@1.2.30
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-js@1.2.30?classifier=sources

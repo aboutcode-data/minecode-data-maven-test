@@ -48,3 +48,5 @@
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-server-wildfly@1.2.1.Final?classifier=sources
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-server-wildfly@1.2.3.Final?type=war
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-server-wildfly@1.2.3.Final?classifier=sources
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-server-wildfly@1.2.4.Final?type=war
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-server-wildfly@1.2.4.Final?classifier=sources

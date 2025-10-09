@@ -867,3 +867,4 @@
 - pkg:maven/org.restcomm/restcomm-connect.application@8.3.0-170?type=war
 - pkg:maven/org.restcomm/restcomm-connect.application@8.3.0-170?classifier=sources
 - pkg:maven/org.restcomm/restcomm-connect.application@8.3.0-178?type=war
+- pkg:maven/org.restcomm/restcomm-connect.application@8.3.0-178?classifier=sources

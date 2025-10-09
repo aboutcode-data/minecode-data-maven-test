@@ -202,3 +202,4 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.1.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.2.0.CR3
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.2.0.CR3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@9.2.0.Final
