@@ -2,3 +2,5 @@
 - pkg:maven/org.zalando/test-service-kit_2.11@0.3.3?classifier=sources
 - pkg:maven/org.zalando/test-service-kit_2.11@0.3.4
 - pkg:maven/org.zalando/test-service-kit_2.11@0.3.4?classifier=sources
+- pkg:maven/org.zalando/test-service-kit_2.11@4.0.0
+- pkg:maven/org.zalando/test-service-kit_2.11@4.0.0?classifier=sources
