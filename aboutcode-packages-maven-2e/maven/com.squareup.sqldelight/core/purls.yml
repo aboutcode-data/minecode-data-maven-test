@@ -8,3 +8,5 @@
 - pkg:maven/com.squareup.sqldelight/core@1.0.0-alpha4?classifier=sources
 - pkg:maven/com.squareup.sqldelight/core@1.0.0-alpha5
 - pkg:maven/com.squareup.sqldelight/core@1.0.0-alpha5?classifier=sources
+- pkg:maven/com.squareup.sqldelight/core@1.0.0-rc1
+- pkg:maven/com.squareup.sqldelight/core@1.0.0-rc1?classifier=sources

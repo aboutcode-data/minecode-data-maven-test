@@ -58,3 +58,5 @@
 - pkg:maven/com.marcosbarbero.cloud/spring-cloud-zuul-ratelimit@2.0.6.RELEASE?classifier=sources
 - pkg:maven/com.marcosbarbero.cloud/spring-cloud-zuul-ratelimit@2.1.0.RELEASE
 - pkg:maven/com.marcosbarbero.cloud/spring-cloud-zuul-ratelimit@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.marcosbarbero.cloud/spring-cloud-zuul-ratelimit@2.2.0.RELEASE
+- pkg:maven/com.marcosbarbero.cloud/spring-cloud-zuul-ratelimit@2.2.0.RELEASE?classifier=sources
