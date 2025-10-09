@@ -60,3 +60,5 @@
 - pkg:maven/tech.sourced/engine@0.6.0?classifier=sources
 - pkg:maven/tech.sourced/engine@0.5.8
 - pkg:maven/tech.sourced/engine@0.5.8?classifier=sources
+- pkg:maven/tech.sourced/engine@0.6.2
+- pkg:maven/tech.sourced/engine@0.6.2?classifier=sources

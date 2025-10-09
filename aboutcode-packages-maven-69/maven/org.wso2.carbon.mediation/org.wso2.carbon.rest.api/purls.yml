@@ -151,3 +151,6 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api@4.6.77
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api@4.6.77?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api@4.6.77?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api@4.6.78
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api@4.6.78?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api@4.6.78?classifier=source-release&type=zip

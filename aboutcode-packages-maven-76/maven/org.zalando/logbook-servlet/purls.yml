@@ -88,3 +88,5 @@
 - pkg:maven/org.zalando/logbook-servlet@1.7.2?classifier=sources
 - pkg:maven/org.zalando/logbook-servlet@1.7.3
 - pkg:maven/org.zalando/logbook-servlet@1.7.3?classifier=sources
+- pkg:maven/org.zalando/logbook-servlet@1.8.0
+- pkg:maven/org.zalando/logbook-servlet@1.8.0?classifier=sources

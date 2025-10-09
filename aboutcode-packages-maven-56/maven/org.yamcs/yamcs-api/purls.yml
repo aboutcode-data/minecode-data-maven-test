@@ -50,3 +50,5 @@
 - pkg:maven/org.yamcs/yamcs-api@4.2.2?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@3.4.4
 - pkg:maven/org.yamcs/yamcs-api@3.4.4?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@4.4.1
+- pkg:maven/org.yamcs/yamcs-api@4.4.1?classifier=sources
