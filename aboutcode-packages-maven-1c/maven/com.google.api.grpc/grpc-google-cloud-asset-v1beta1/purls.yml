@@ -102,3 +102,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1beta1@0.74.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1beta1@0.75.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1beta1@0.75.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1beta1@0.76.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1beta1@0.76.0?classifier=sources

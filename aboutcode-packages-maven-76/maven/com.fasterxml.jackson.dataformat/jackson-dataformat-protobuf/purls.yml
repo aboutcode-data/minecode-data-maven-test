@@ -112,3 +112,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-protobuf@2.9.10?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-protobuf@2.10.0.pr3
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-protobuf@2.10.0.pr3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-protobuf@2.10.0
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-protobuf@2.10.0?classifier=sources
