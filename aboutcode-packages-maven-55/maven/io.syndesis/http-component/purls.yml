@@ -24,3 +24,7 @@
 - pkg:maven/io.syndesis/http-component@0.5.8?classifier=sources
 - pkg:maven/io.syndesis/http-component@0.5.7
 - pkg:maven/io.syndesis/http-component@0.5.7?classifier=sources
+- pkg:maven/io.syndesis/http-component@1.2.3
+- pkg:maven/io.syndesis/http-component@1.2.3?classifier=sources
+- pkg:maven/io.syndesis/http-component@1.2.2
+- pkg:maven/io.syndesis/http-component@1.2.2?classifier=sources

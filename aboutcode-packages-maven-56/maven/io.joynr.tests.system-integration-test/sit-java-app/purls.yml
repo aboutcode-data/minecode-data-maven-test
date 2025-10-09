@@ -72,3 +72,5 @@
 - pkg:maven/io.joynr.tests.system-integration-test/sit-java-app@0.32.0?classifier=sources
 - pkg:maven/io.joynr.tests.system-integration-test/sit-java-app@0.32.2
 - pkg:maven/io.joynr.tests.system-integration-test/sit-java-app@0.32.2?classifier=sources
+- pkg:maven/io.joynr.tests.system-integration-test/sit-java-app@0.33.0
+- pkg:maven/io.joynr.tests.system-integration-test/sit-java-app@0.33.0?classifier=sources

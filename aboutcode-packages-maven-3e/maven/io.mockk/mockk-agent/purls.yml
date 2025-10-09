@@ -34,3 +34,5 @@
 - pkg:maven/io.mockk/mockk-agent@1.6.2?classifier=sources
 - pkg:maven/io.mockk/mockk-agent@1.6.3
 - pkg:maven/io.mockk/mockk-agent@1.6.3?classifier=sources
+- pkg:maven/io.mockk/mockk-agent@1.7
+- pkg:maven/io.mockk/mockk-agent@1.7?classifier=sources
