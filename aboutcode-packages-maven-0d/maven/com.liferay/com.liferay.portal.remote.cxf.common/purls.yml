@@ -28,3 +28,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@2.0.12
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@2.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.0
+- pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.0?classifier=sources

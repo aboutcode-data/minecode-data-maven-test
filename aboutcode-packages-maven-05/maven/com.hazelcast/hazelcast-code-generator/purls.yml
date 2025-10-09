@@ -58,3 +58,7 @@
 - pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0-10?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0-12
 - pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0-12?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0-13
+- pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0-13?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0
+- pkg:maven/com.hazelcast/hazelcast-code-generator@1.4.0?classifier=sources

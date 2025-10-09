@@ -10,3 +10,6 @@
 - pkg:maven/com.linecorp.armeria/armeria-jetty@0.33.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-jetty@0.35.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-jetty@0.35.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-jetty@0.38.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-jetty@0.37.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-jetty@0.36.0?classifier=sources

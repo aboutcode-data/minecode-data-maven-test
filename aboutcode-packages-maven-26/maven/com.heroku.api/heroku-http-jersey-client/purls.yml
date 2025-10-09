@@ -16,3 +16,5 @@
 - pkg:maven/com.heroku.api/heroku-http-jersey-client@0.17?classifier=sources
 - pkg:maven/com.heroku.api/heroku-http-jersey-client@0.20
 - pkg:maven/com.heroku.api/heroku-http-jersey-client@0.20?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.21
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.21?classifier=sources

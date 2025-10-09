@@ -176,3 +176,5 @@
 - pkg:maven/com.google.api-ads/adwords-appengine@2.21.0?classifier=sources
 - pkg:maven/com.google.api-ads/adwords-appengine@2.22.0
 - pkg:maven/com.google.api-ads/adwords-appengine@2.22.0?classifier=sources
+- pkg:maven/com.google.api-ads/adwords-appengine@3.0.0
+- pkg:maven/com.google.api-ads/adwords-appengine@3.0.0?classifier=sources

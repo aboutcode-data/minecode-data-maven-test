@@ -59,3 +59,7 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@1.5.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@1.4.2
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@1.4.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@2.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@1.5.2
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@1.5.2?classifier=sources
