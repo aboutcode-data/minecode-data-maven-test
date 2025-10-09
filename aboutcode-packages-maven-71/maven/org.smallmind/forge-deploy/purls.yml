@@ -5,3 +5,5 @@
 - pkg:maven/org.smallmind/forge-deploy@2.2.2?classifier=sources
 - pkg:maven/org.smallmind/forge-deploy@2.3.0
 - pkg:maven/org.smallmind/forge-deploy@2.3.0?classifier=sources
+- pkg:maven/org.smallmind/forge-deploy@2.3.7
+- pkg:maven/org.smallmind/forge-deploy@2.3.7?classifier=sources
