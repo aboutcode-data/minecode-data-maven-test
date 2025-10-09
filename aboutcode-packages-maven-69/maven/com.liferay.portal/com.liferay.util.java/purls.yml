@@ -102,3 +102,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.java@3.0.22?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.java@2.5.23
 - pkg:maven/com.liferay.portal/com.liferay.util.java@2.5.23?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.java@3.0.23
+- pkg:maven/com.liferay.portal/com.liferay.util.java@3.0.23?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.java@2.5.24
+- pkg:maven/com.liferay.portal/com.liferay.util.java@2.5.24?classifier=sources

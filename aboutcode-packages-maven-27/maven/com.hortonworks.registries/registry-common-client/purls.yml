@@ -12,3 +12,5 @@
 - pkg:maven/com.hortonworks.registries/registry-common-client@0.5.4?classifier=sources
 - pkg:maven/com.hortonworks.registries/registry-common-client@0.6.0
 - pkg:maven/com.hortonworks.registries/registry-common-client@0.6.0?classifier=sources
+- pkg:maven/com.hortonworks.registries/registry-common-client@0.7.0
+- pkg:maven/com.hortonworks.registries/registry-common-client@0.7.0?classifier=sources
