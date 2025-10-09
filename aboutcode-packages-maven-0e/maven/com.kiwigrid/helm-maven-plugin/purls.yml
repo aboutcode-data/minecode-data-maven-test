@@ -38,3 +38,5 @@
 - pkg:maven/com.kiwigrid/helm-maven-plugin@2.8?classifier=sources
 - pkg:maven/com.kiwigrid/helm-maven-plugin@3.0
 - pkg:maven/com.kiwigrid/helm-maven-plugin@3.0?classifier=sources
+- pkg:maven/com.kiwigrid/helm-maven-plugin@3.1
+- pkg:maven/com.kiwigrid/helm-maven-plugin@3.1?classifier=sources

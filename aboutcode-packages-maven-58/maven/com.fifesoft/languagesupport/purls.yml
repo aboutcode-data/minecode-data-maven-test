@@ -26,3 +26,5 @@
 - pkg:maven/com.fifesoft/languagesupport@2.5.8?classifier=sources
 - pkg:maven/com.fifesoft/languagesupport@2.6.0
 - pkg:maven/com.fifesoft/languagesupport@2.6.0?classifier=sources
+- pkg:maven/com.fifesoft/languagesupport@3.0.0?classifier=src&type=zip
+- pkg:maven/com.fifesoft/languagesupport@3.0.0?classifier=sources

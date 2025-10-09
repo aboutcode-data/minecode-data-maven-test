@@ -16,3 +16,5 @@
 - pkg:maven/com.hotels.styx/styx-server@0.7.10?classifier=sources
 - pkg:maven/com.hotels.styx/styx-server@styx-1.0.0.beta2
 - pkg:maven/com.hotels.styx/styx-server@styx-1.0.0.beta2?classifier=sources
+- pkg:maven/com.hotels.styx/styx-server@1.0.0.beta3
+- pkg:maven/com.hotels.styx/styx-server@1.0.0.beta3?classifier=sources
