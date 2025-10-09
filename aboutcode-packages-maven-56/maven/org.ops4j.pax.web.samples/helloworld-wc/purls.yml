@@ -288,3 +288,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-wc@6.0.12?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-wc@7.3.4
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-wc@7.3.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-wc@7.2.11
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-wc@7.2.11?classifier=sources

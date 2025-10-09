@@ -114,3 +114,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/websocket-jsr356@6.0.12?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/websocket-jsr356@7.3.4?type=war
 - pkg:maven/org.ops4j.pax.web.samples/websocket-jsr356@7.3.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/websocket-jsr356@7.2.11?type=war
+- pkg:maven/org.ops4j.pax.web.samples/websocket-jsr356@7.2.11?classifier=sources
