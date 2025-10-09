@@ -62,3 +62,5 @@
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.17?classifier=sources
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.16
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.16?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.10@2.1.1
+- pkg:maven/com.codacy/coverage-parser_2.10@2.1.1?classifier=sources

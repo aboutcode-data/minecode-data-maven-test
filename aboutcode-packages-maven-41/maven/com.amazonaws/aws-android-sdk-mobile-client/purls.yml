@@ -136,3 +136,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-mobile-client@2.15.2?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-mobile-client@2.16.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-mobile-client@2.16.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-mobile-client@2.16.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-mobile-client@2.16.1?classifier=sources

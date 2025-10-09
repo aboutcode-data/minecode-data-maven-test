@@ -26,3 +26,5 @@
 - pkg:maven/com.cognite.spark.datasource/cdp-spark-datasource_2.11@0.4.13?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdp-spark-datasource_2.11@0.4.15
 - pkg:maven/com.cognite.spark.datasource/cdp-spark-datasource_2.11@0.4.15?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdp-spark-datasource_2.11@1.0.0-rc1
+- pkg:maven/com.cognite.spark.datasource/cdp-spark-datasource_2.11@1.0.0-rc1?classifier=sources
