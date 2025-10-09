@@ -1,1 +1,3 @@
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.6.1.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.1.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.0.Final?type=war
