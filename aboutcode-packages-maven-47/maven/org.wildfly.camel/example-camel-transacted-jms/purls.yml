@@ -14,3 +14,5 @@
 - pkg:maven/org.wildfly.camel/example-camel-transacted-jms@2.3.0.redhat-621090?classifier=sources
 - pkg:maven/org.wildfly.camel/example-camel-transacted-jms@4.0.0?type=war
 - pkg:maven/org.wildfly.camel/example-camel-transacted-jms@4.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/example-camel-transacted-jms@2.3.0.redhat-621107?type=war
+- pkg:maven/org.wildfly.camel/example-camel-transacted-jms@2.3.0.redhat-621107?classifier=sources
