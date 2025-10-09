@@ -365,3 +365,7 @@
 - pkg:maven/net.openhft/chronicle-bytes@1.16.18?classifier=sources
 - pkg:maven/net.openhft/chronicle-bytes@1.16.21
 - pkg:maven/net.openhft/chronicle-bytes@1.16.21?classifier=sources
+- pkg:maven/net.openhft/chronicle-bytes@1.16.23
+- pkg:maven/net.openhft/chronicle-bytes@1.16.23?classifier=sources
+- pkg:maven/net.openhft/chronicle-bytes@1.16.22
+- pkg:maven/net.openhft/chronicle-bytes@1.16.22?classifier=sources

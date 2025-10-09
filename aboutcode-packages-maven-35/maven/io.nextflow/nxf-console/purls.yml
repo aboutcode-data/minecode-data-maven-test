@@ -230,3 +230,5 @@
 - pkg:maven/io.nextflow/nxf-console@0.31.0-RC1?classifier=sources
 - pkg:maven/io.nextflow/nxf-console@0.31.0
 - pkg:maven/io.nextflow/nxf-console@0.31.0?classifier=sources
+- pkg:maven/io.nextflow/nxf-console@0.31.1
+- pkg:maven/io.nextflow/nxf-console@0.31.1?classifier=sources
