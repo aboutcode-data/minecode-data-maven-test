@@ -8,3 +8,5 @@
 - pkg:maven/org.codelibs/elasticsearch-analysis-ja@2.1.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analysis-ja@1.7.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analysis-ja@1.7.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-ja@2.1.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-ja@2.1.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@1.0.9?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@1.0.9?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@2.0.9?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook@2.0.9?classifier=sources

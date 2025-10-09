@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.knox/gateway-i18n-logging-log4j@0.6.0?classifier=sources
 - pkg:maven/org.apache.knox/gateway-i18n-logging-log4j@0.7.0
 - pkg:maven/org.apache.knox/gateway-i18n-logging-log4j@0.7.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-i18n-logging-log4j@0.8.0
+- pkg:maven/org.apache.knox/gateway-i18n-logging-log4j@0.8.0?classifier=sources

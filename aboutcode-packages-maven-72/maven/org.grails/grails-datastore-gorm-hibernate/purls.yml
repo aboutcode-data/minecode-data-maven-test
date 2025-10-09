@@ -86,3 +86,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-hibernate@5.0.0.RC4?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-hibernate@5.0.0.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-hibernate@5.0.0.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-hibernate@5.0.1.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-hibernate@5.0.1.RELEASE?classifier=sources

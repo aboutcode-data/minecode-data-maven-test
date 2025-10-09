@@ -18,3 +18,5 @@
 - pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.10.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.11.0.Final
 - pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.11.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.12.0.Final
+- pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.12.0.Final?classifier=sources
