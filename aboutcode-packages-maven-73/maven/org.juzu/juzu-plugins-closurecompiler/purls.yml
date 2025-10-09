@@ -12,3 +12,5 @@
 - pkg:maven/org.juzu/juzu-plugins-closurecompiler@1.1.1-M01?classifier=sources
 - pkg:maven/org.juzu/juzu-plugins-closurecompiler@1.1.1-RC01
 - pkg:maven/org.juzu/juzu-plugins-closurecompiler@1.1.1-RC01?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-closurecompiler@1.1.1
+- pkg:maven/org.juzu/juzu-plugins-closurecompiler@1.1.1?classifier=sources

@@ -142,3 +142,5 @@
 - pkg:maven/org.kaazing/k3po-maven-plugin@5.0.0-RC001?classifier=sources
 - pkg:maven/org.kaazing/k3po-maven-plugin@5.0.0
 - pkg:maven/org.kaazing/k3po-maven-plugin@5.0.0?classifier=sources
+- pkg:maven/org.kaazing/k3po-maven-plugin@3.0.0-alpha-35
+- pkg:maven/org.kaazing/k3po-maven-plugin@3.0.0-alpha-35?classifier=sources
