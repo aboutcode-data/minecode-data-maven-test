@@ -104,3 +104,5 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.11@0.89?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.11@0.61
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.11@0.61?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.11@0.90
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.11@0.90?classifier=sources

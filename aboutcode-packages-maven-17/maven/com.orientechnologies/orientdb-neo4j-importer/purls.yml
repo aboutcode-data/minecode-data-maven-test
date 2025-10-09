@@ -72,3 +72,5 @@
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer@3.0.6?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer@3.0.7?type=zip
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer@3.0.7?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer@2.2.37?type=zip
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer@2.2.37?classifier=sources
