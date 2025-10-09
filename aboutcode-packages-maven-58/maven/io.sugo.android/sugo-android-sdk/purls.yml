@@ -4,3 +4,5 @@
 - pkg:maven/io.sugo.android/sugo-android-sdk@1.0.0?type=aar
 - pkg:maven/io.sugo.android/sugo-android-sdk@2.0.0?type=aar
 - pkg:maven/io.sugo.android/sugo-android-sdk@2.0.0?classifier=sources
+- pkg:maven/io.sugo.android/sugo-android-sdk@2.1.0?type=aar
+- pkg:maven/io.sugo.android/sugo-android-sdk@2.1.0?classifier=sources
