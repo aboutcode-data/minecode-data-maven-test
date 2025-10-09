@@ -16,3 +16,5 @@
 - pkg:maven/co.cask.tracker/tracker@0.6.1?classifier=sources
 - pkg:maven/co.cask.tracker/tracker@0.4.1
 - pkg:maven/co.cask.tracker/tracker@0.4.1?classifier=sources
+- pkg:maven/co.cask.tracker/tracker@0.6.2
+- pkg:maven/co.cask.tracker/tracker@0.6.2?classifier=sources

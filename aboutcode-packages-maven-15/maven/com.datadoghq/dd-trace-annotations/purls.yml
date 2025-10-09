@@ -28,3 +28,5 @@
 - pkg:maven/com.datadoghq/dd-trace-annotations@0.2.8?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-annotations@0.2.7
 - pkg:maven/com.datadoghq/dd-trace-annotations@0.2.7?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-annotations@0.2.9
+- pkg:maven/com.datadoghq/dd-trace-annotations@0.2.9?classifier=sources

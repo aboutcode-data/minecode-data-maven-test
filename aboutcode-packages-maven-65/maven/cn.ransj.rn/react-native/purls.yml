@@ -72,3 +72,7 @@
 - pkg:maven/cn.ransj.rn/react-native@0.38.s?classifier=sources
 - pkg:maven/cn.ransj.rn/react-native@0.38.v?type=aar
 - pkg:maven/cn.ransj.rn/react-native@0.38.v?classifier=sources
+- pkg:maven/cn.ransj.rn/react-native@0.38.x?type=aar
+- pkg:maven/cn.ransj.rn/react-native@0.38.x?classifier=sources
+- pkg:maven/cn.ransj.rn/react-native@0.38.w?type=aar
+- pkg:maven/cn.ransj.rn/react-native@0.38.w?classifier=sources

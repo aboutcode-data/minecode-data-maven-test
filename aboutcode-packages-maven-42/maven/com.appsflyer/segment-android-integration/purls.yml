@@ -20,3 +20,5 @@
 - pkg:maven/com.appsflyer/segment-android-integration@1.9?classifier=sources
 - pkg:maven/com.appsflyer/segment-android-integration@1.10?type=aar
 - pkg:maven/com.appsflyer/segment-android-integration@1.10?classifier=sources
+- pkg:maven/com.appsflyer/segment-android-integration@1.11?type=aar
+- pkg:maven/com.appsflyer/segment-android-integration@1.11?classifier=sources
