@@ -30,3 +30,5 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-shaded@3.0.0.Alpha16?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-shaded@3.0.0.Alpha17
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-shaded@3.0.0.Alpha17?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-shaded@3.0.0.Beta1
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-shaded@3.0.0.Beta1?classifier=sources

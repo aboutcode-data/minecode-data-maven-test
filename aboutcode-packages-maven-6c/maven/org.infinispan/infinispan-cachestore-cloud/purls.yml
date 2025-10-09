@@ -125,3 +125,7 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-cloud@8.0.1.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-cloud@8.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-cloud@8.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.2.20.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.2.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.2.19.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-cloud@5.2.19.Final?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.igniterealtime.smack/smack-debug-slf4j@4.1.9?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-debug-slf4j@4.2.0-beta3
 - pkg:maven/org.igniterealtime.smack/smack-debug-slf4j@4.2.0-beta3?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-debug-slf4j@4.2.0-rc1
+- pkg:maven/org.igniterealtime.smack/smack-debug-slf4j@4.2.0-rc1?classifier=sources

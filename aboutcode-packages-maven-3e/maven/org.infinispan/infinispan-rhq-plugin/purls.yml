@@ -262,3 +262,7 @@
 - pkg:maven/org.infinispan/infinispan-rhq-plugin@8.1.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-rhq-plugin@8.2.5.Final
 - pkg:maven/org.infinispan/infinispan-rhq-plugin@8.2.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.20.Final
+- pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.19.Final
+- pkg:maven/org.infinispan/infinispan-rhq-plugin@5.2.19.Final?classifier=sources
