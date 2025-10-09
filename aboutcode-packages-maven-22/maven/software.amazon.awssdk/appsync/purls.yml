@@ -26,3 +26,5 @@
 - pkg:maven/software.amazon.awssdk/appsync@2.1.4?classifier=sources
 - pkg:maven/software.amazon.awssdk/appsync@2.2.0
 - pkg:maven/software.amazon.awssdk/appsync@2.2.0?classifier=sources
+- pkg:maven/software.amazon.awssdk/appsync@2.3.0
+- pkg:maven/software.amazon.awssdk/appsync@2.3.0?classifier=sources
