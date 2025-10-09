@@ -216,3 +216,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@1.2.79?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@1.2.78
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@1.2.78?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@2.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@2.0.0?classifier=sources

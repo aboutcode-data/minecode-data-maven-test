@@ -104,3 +104,9 @@
 - pkg:maven/com.scireum/sirius-web@4.11?classifier=sources
 - pkg:maven/com.scireum/sirius-web@4.10
 - pkg:maven/com.scireum/sirius-web@4.10?classifier=sources
+- pkg:maven/com.scireum/sirius-web@5.0.4
+- pkg:maven/com.scireum/sirius-web@5.0.4?classifier=sources
+- pkg:maven/com.scireum/sirius-web@5.0.3
+- pkg:maven/com.scireum/sirius-web@5.0.3?classifier=sources
+- pkg:maven/com.scireum/sirius-web@5.0.2
+- pkg:maven/com.scireum/sirius-web@5.0.2?classifier=sources
