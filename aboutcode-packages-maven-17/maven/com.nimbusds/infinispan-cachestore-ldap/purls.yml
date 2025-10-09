@@ -12,3 +12,5 @@
 - pkg:maven/com.nimbusds/infinispan-cachestore-ldap@2.3?classifier=sources
 - pkg:maven/com.nimbusds/infinispan-cachestore-ldap@3.0
 - pkg:maven/com.nimbusds/infinispan-cachestore-ldap@3.0?classifier=sources
+- pkg:maven/com.nimbusds/infinispan-cachestore-ldap@3.1
+- pkg:maven/com.nimbusds/infinispan-cachestore-ldap@3.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot-actuator-autoconfigure@0.80.0
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot-actuator-autoconfigure@0.80.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot-actuator-autoconfigure@0.81.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot-actuator-autoconfigure@0.81.0?classifier=sources

@@ -203,3 +203,5 @@
 - pkg:maven/com.vaadin/vaadin-client-compiled@7.7.16
 - pkg:maven/com.vaadin/vaadin-client-compiled@8.7.0
 - pkg:maven/com.vaadin/vaadin-client-compiled@8.7.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client-compiled@8.7.1
+- pkg:maven/com.vaadin/vaadin-client-compiled@8.7.1?classifier=sources
