@@ -51,3 +51,5 @@
 - pkg:maven/org.brutusin/rpc-demo-war@1.8.2?classifier=sources
 - pkg:maven/org.brutusin/rpc-demo-war@1.8.3?type=war
 - pkg:maven/org.brutusin/rpc-demo-war@1.8.3?classifier=sources
+- pkg:maven/org.brutusin/rpc-demo-war@1.8.4?type=war
+- pkg:maven/org.brutusin/rpc-demo-war@1.8.4?classifier=sources

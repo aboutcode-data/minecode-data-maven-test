@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.maven.wagon/wagon-scm@2.9?classifier=sources
 - pkg:maven/org.apache.maven.wagon/wagon-scm@2.10
 - pkg:maven/org.apache.maven.wagon/wagon-scm@2.10?classifier=sources
+- pkg:maven/org.apache.maven.wagon/wagon-scm@2.12
+- pkg:maven/org.apache.maven.wagon/wagon-scm@2.12?classifier=sources

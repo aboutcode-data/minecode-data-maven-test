@@ -26,3 +26,5 @@
 - pkg:maven/org.beykery/jkcp@1.0.9?classifier=sources
 - pkg:maven/org.beykery/jkcp@1.0.8
 - pkg:maven/org.beykery/jkcp@1.0.8?classifier=sources
+- pkg:maven/org.beykery/jkcp@1.2.0
+- pkg:maven/org.beykery/jkcp@1.2.0?classifier=sources
