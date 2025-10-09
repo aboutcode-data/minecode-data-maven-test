@@ -36,3 +36,5 @@
 - pkg:maven/de.alpharogroup/file-worker@4.23?classifier=sources
 - pkg:maven/de.alpharogroup/file-worker@5
 - pkg:maven/de.alpharogroup/file-worker@5?classifier=sources
+- pkg:maven/de.alpharogroup/file-worker@5.0.1
+- pkg:maven/de.alpharogroup/file-worker@5.0.1?classifier=sources
