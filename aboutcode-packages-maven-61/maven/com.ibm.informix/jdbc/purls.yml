@@ -10,3 +10,5 @@
 - pkg:maven/com.ibm.informix/jdbc@4.10.10?classifier=sources
 - pkg:maven/com.ibm.informix/jdbc@4.10.10.0
 - pkg:maven/com.ibm.informix/jdbc@4.10.10.0?classifier=sources
+- pkg:maven/com.ibm.informix/jdbc@4.10.12
+- pkg:maven/com.ibm.informix/jdbc@4.10.12?classifier=sources

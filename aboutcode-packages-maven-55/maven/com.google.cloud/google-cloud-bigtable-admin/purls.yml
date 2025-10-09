@@ -1,2 +1,4 @@
 - pkg:maven/com.google.cloud/google-cloud-bigtable-admin@0.56.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-bigtable-admin@0.56.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable-admin@0.57.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-bigtable-admin@0.57.0-alpha?classifier=sources
