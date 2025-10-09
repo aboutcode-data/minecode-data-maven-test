@@ -74,3 +74,7 @@
 - pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.1?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.2
 - pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.2?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.4
+- pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.4?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.3
+- pkg:maven/io.zipkin.aws/zipkin-reporter-xray-udp@0.16.3?classifier=sources

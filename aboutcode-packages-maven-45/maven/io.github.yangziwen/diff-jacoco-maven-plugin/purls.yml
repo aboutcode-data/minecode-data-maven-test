@@ -1,2 +1,4 @@
 - pkg:maven/io.github.yangziwen/diff-jacoco-maven-plugin@0.0.4
 - pkg:maven/io.github.yangziwen/diff-jacoco-maven-plugin@0.0.4?classifier=sources
+- pkg:maven/io.github.yangziwen/diff-jacoco-maven-plugin@0.0.5
+- pkg:maven/io.github.yangziwen/diff-jacoco-maven-plugin@0.0.5?classifier=sources

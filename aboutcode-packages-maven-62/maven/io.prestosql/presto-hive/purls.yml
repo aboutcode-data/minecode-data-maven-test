@@ -12,3 +12,5 @@
 - pkg:maven/io.prestosql/presto-hive@305?classifier=sources
 - pkg:maven/io.prestosql/presto-hive@306
 - pkg:maven/io.prestosql/presto-hive@306?classifier=sources
+- pkg:maven/io.prestosql/presto-hive@307
+- pkg:maven/io.prestosql/presto-hive@307?classifier=sources

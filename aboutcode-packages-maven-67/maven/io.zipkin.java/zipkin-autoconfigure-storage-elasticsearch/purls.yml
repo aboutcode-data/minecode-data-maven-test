@@ -172,3 +172,7 @@
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.4?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.6
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.6?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.8
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.8?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.7
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-storage-elasticsearch@2.12.7?classifier=sources

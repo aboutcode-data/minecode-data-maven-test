@@ -76,3 +76,5 @@
 - pkg:maven/net.indigitall/pushsdk@4.2.4?classifier=sources
 - pkg:maven/net.indigitall/pushsdk@4.2.6?type=aar
 - pkg:maven/net.indigitall/pushsdk@4.2.6?classifier=sources
+- pkg:maven/net.indigitall/pushsdk@3.3.10?type=aar
+- pkg:maven/net.indigitall/pushsdk@3.3.10?classifier=sources

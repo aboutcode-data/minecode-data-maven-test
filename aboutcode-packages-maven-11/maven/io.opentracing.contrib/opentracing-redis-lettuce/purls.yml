@@ -30,3 +30,5 @@
 - pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce@0.0.13?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce@0.0.16
 - pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce@0.0.16?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce@0.1.0
+- pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce@0.1.0?classifier=sources

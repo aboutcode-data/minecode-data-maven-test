@@ -1,0 +1,2 @@
+- pkg:maven/io.prestosql/presto-testing-docker@307
+- pkg:maven/io.prestosql/presto-testing-docker@307?classifier=sources

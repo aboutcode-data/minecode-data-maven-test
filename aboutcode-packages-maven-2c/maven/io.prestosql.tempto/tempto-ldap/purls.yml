@@ -4,3 +4,5 @@
 - pkg:maven/io.prestosql.tempto/tempto-ldap@163?classifier=sources
 - pkg:maven/io.prestosql.tempto/tempto-ldap@1.52
 - pkg:maven/io.prestosql.tempto/tempto-ldap@1.52?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-ldap@164
+- pkg:maven/io.prestosql.tempto/tempto-ldap@164?classifier=sources
