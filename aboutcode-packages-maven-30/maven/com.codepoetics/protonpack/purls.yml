@@ -24,3 +24,5 @@
 - pkg:maven/com.codepoetics/protonpack@1.11?classifier=sources
 - pkg:maven/com.codepoetics/protonpack@thecolourofmagic
 - pkg:maven/com.codepoetics/protonpack@thecolourofmagic?classifier=sources
+- pkg:maven/com.codepoetics/protonpack@1.13
+- pkg:maven/com.codepoetics/protonpack@1.13?classifier=sources

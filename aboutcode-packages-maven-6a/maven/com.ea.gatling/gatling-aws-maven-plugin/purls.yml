@@ -8,3 +8,5 @@
 - pkg:maven/com.ea.gatling/gatling-aws-maven-plugin@1.0.7?classifier=sources
 - pkg:maven/com.ea.gatling/gatling-aws-maven-plugin@1.0.8
 - pkg:maven/com.ea.gatling/gatling-aws-maven-plugin@1.0.8?classifier=sources
+- pkg:maven/com.ea.gatling/gatling-aws-maven-plugin@1.0.11
+- pkg:maven/com.ea.gatling/gatling-aws-maven-plugin@1.0.11?classifier=sources
