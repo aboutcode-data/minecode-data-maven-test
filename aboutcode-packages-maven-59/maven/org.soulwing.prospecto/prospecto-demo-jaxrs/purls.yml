@@ -34,3 +34,5 @@
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.9?classifier=sources
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.8?type=war
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.8?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.10?type=war
+- pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@1.4.10?classifier=sources

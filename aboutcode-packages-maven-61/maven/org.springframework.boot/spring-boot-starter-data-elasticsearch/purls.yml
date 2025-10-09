@@ -122,3 +122,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@2.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@1.5.16.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@1.5.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@2.0.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@1.5.17.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-elasticsearch@1.5.17.RELEASE?classifier=sources

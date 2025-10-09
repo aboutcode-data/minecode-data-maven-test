@@ -128,3 +128,9 @@
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.6.15.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-core@3.1.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-core@3.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@3.1.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@3.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@3.0.11.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@3.0.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.6.16.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@2.6.16.RELEASE?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-rest@3.12.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-rest@3.13.0-01
 - pkg:maven/org.sonatype.nexus/nexus-rest@3.13.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-rest@3.14.0-04
+- pkg:maven/org.sonatype.nexus/nexus-rest@3.14.0-04?classifier=sources
