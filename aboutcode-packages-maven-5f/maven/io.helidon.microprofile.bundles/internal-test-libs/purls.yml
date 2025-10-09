@@ -36,3 +36,5 @@
 - pkg:maven/io.helidon.microprofile.bundles/internal-test-libs@1.2.0?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/internal-test-libs@0.10.6
 - pkg:maven/io.helidon.microprofile.bundles/internal-test-libs@0.10.6?classifier=sources
+- pkg:maven/io.helidon.microprofile.bundles/internal-test-libs@1.2.1
+- pkg:maven/io.helidon.microprofile.bundles/internal-test-libs@1.2.1?classifier=sources

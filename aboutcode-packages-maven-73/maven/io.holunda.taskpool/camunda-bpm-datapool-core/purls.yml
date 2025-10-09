@@ -34,3 +34,5 @@
 - pkg:maven/io.holunda.taskpool/camunda-bpm-datapool-core@1.2.20?classifier=sources
 - pkg:maven/io.holunda.taskpool/camunda-bpm-datapool-core@1.2.21
 - pkg:maven/io.holunda.taskpool/camunda-bpm-datapool-core@1.2.21?classifier=sources
+- pkg:maven/io.holunda.taskpool/camunda-bpm-datapool-core@2.0.0
+- pkg:maven/io.holunda.taskpool/camunda-bpm-datapool-core@2.0.0?classifier=sources

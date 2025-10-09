@@ -24,3 +24,5 @@
 - pkg:maven/io.nextflow/nf-google@19.04.3?classifier=sources
 - pkg:maven/io.nextflow/nf-google@19.07.0
 - pkg:maven/io.nextflow/nf-google@19.07.0?classifier=sources
+- pkg:maven/io.nextflow/nf-google@19.08.0-edge
+- pkg:maven/io.nextflow/nf-google@19.08.0-edge?classifier=sources

@@ -49,3 +49,6 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-heartbeat@1.27.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-heartbeat@1.25.8?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-heartbeat@1.25.9?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-heartbeat@1.28.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-heartbeat@1.25.10?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-heartbeat@1.20.19?classifier=sources
