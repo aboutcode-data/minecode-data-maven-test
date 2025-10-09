@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.hono/hono-adapter-kura@0.5
 - pkg:maven/org.eclipse.hono/hono-adapter-kura@0.5?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-kura@0.6-M1
+- pkg:maven/org.eclipse.hono/hono-adapter-kura@0.6-M1?classifier=sources

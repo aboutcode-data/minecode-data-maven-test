@@ -311,3 +311,6 @@
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.9.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.40.Final
 - pkg:maven/org.jboss/jboss-ejb-client@1.0.40.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.10.Final
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.10.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.10.Final?classifier=source-release&type=zip
