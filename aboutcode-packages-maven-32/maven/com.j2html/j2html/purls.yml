@@ -8,3 +8,5 @@
 - pkg:maven/com.j2html/j2html@0.99?classifier=sources
 - pkg:maven/com.j2html/j2html@1.0.0-RC
 - pkg:maven/com.j2html/j2html@1.0.0-RC?classifier=sources
+- pkg:maven/com.j2html/j2html@1.0.0
+- pkg:maven/com.j2html/j2html@1.0.0?classifier=sources
