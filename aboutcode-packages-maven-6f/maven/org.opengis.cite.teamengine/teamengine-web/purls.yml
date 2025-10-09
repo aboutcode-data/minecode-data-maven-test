@@ -6,3 +6,5 @@
 - pkg:maven/org.opengis.cite.teamengine/teamengine-web@4.7?classifier=sources
 - pkg:maven/org.opengis.cite.teamengine/teamengine-web@4.9?type=war
 - pkg:maven/org.opengis.cite.teamengine/teamengine-web@4.9?classifier=sources
+- pkg:maven/org.opengis.cite.teamengine/teamengine-web@4.10?type=war
+- pkg:maven/org.opengis.cite.teamengine/teamengine-web@4.10?classifier=sources
