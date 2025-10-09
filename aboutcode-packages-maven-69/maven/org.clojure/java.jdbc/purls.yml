@@ -80,3 +80,5 @@
 - pkg:maven/org.clojure/java.jdbc@0.5.8?classifier=sources
 - pkg:maven/org.clojure/java.jdbc@0.5.7
 - pkg:maven/org.clojure/java.jdbc@0.5.7?classifier=sources
+- pkg:maven/org.clojure/java.jdbc@0.6.0-alpha2
+- pkg:maven/org.clojure/java.jdbc@0.6.0-alpha2?classifier=sources

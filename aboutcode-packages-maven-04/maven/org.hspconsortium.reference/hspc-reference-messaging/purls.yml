@@ -1,2 +1,4 @@
 - pkg:maven/org.hspconsortium.reference/hspc-reference-messaging@0.3?type=war
 - pkg:maven/org.hspconsortium.reference/hspc-reference-messaging@0.3?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-messaging@0.4?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-messaging@0.4?classifier=sources
