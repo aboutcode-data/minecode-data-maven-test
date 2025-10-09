@@ -40,3 +40,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-ejb@1.11?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-ejb@1.12
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-ejb@1.12?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-ejb@1.13
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-ejb@1.13?classifier=sources

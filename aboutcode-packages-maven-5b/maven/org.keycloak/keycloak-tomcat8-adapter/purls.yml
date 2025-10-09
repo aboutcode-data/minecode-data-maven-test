@@ -60,3 +60,5 @@
 - pkg:maven/org.keycloak/keycloak-tomcat8-adapter@1.9.5.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-tomcat8-adapter@1.9.8.Final
 - pkg:maven/org.keycloak/keycloak-tomcat8-adapter@1.9.8.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-tomcat8-adapter@2.0.0.CR1
+- pkg:maven/org.keycloak/keycloak-tomcat8-adapter@2.0.0.CR1?classifier=sources

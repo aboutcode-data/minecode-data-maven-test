@@ -100,3 +100,7 @@
 - pkg:maven/org.kaazing/gateway.transport.ws@5.1.1-RC002?classifier=sources
 - pkg:maven/org.kaazing/gateway.transport.ws@5.1.1-RC001
 - pkg:maven/org.kaazing/gateway.transport.ws@5.1.1-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport.ws@5.1.1-RC003
+- pkg:maven/org.kaazing/gateway.transport.ws@5.1.1-RC003?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport.ws@5.1.1
+- pkg:maven/org.kaazing/gateway.transport.ws@5.1.1?classifier=sources
