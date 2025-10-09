@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.swarm/spi@1.0.8.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.8.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@1.0.7.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.7.Final?classifier=sources

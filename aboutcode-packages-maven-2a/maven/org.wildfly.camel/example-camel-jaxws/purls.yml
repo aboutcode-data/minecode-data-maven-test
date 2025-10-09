@@ -14,3 +14,5 @@
 - pkg:maven/org.wildfly.camel/example-camel-jaxws@2.3.0.redhat-621090?classifier=sources
 - pkg:maven/org.wildfly.camel/example-camel-jaxws@2.3.0.redhat-621107?type=war
 - pkg:maven/org.wildfly.camel/example-camel-jaxws@2.3.0.redhat-621107?classifier=sources
+- pkg:maven/org.wildfly.camel/example-camel-jaxws@2.3.0.redhat-621117?type=war
+- pkg:maven/org.wildfly.camel/example-camel-jaxws@2.3.0.redhat-621117?classifier=sources

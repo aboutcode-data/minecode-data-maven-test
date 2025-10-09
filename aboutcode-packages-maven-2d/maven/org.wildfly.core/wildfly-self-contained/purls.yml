@@ -128,3 +128,7 @@
 - pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.0.CR5
 - pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.0.CR5?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.0.CR7
+- pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.0.CR7?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.0.CR6
+- pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.0.CR6?classifier=sources

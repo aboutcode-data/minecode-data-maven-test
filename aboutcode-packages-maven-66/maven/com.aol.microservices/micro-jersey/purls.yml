@@ -60,3 +60,7 @@
 - pkg:maven/com.aol.microservices/micro-jersey@0.85.1?classifier=sources
 - pkg:maven/com.aol.microservices/micro-jersey@0.85
 - pkg:maven/com.aol.microservices/micro-jersey@0.85?classifier=sources
+- pkg:maven/com.aol.microservices/micro-jersey@0.87
+- pkg:maven/com.aol.microservices/micro-jersey@0.87?classifier=sources
+- pkg:maven/com.aol.microservices/micro-jersey@0.86
+- pkg:maven/com.aol.microservices/micro-jersey@0.86?classifier=sources
