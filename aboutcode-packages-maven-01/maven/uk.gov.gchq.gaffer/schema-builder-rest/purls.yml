@@ -60,3 +60,4 @@
 - pkg:maven/uk.gov.gchq.gaffer/schema-builder-rest@1.4.0-RC3?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/schema-builder-rest@1.4.0-RC2?type=war
 - pkg:maven/uk.gov.gchq.gaffer/schema-builder-rest@1.4.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/schema-builder-rest@1.4.1?type=war

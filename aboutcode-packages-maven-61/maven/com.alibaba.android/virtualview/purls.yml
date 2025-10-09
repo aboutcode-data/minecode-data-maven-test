@@ -24,3 +24,7 @@
 - pkg:maven/com.alibaba.android/virtualview@1.0.12?classifier=sources
 - pkg:maven/com.alibaba.android/virtualview@1.1.0?type=aar
 - pkg:maven/com.alibaba.android/virtualview@1.1.0?classifier=sources
+- pkg:maven/com.alibaba.android/virtualview@1.2.0?type=aar
+- pkg:maven/com.alibaba.android/virtualview@1.2.0?classifier=sources
+- pkg:maven/com.alibaba.android/virtualview@1.1.1?type=aar
+- pkg:maven/com.alibaba.android/virtualview@1.1.1?classifier=sources
