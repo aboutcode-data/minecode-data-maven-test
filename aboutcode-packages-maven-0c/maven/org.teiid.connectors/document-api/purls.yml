@@ -74,3 +74,5 @@
 - pkg:maven/org.teiid.connectors/document-api@11.2.2?classifier=sources
 - pkg:maven/org.teiid.connectors/document-api@12.0.1
 - pkg:maven/org.teiid.connectors/document-api@12.0.1?classifier=sources
+- pkg:maven/org.teiid.connectors/document-api@12.1.0
+- pkg:maven/org.teiid.connectors/document-api@12.1.0?classifier=sources

@@ -136,3 +136,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-wsfederation-webflow@5.3.9?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-wsfederation-webflow@6.0.2
 - pkg:maven/org.apereo.cas/cas-server-support-wsfederation-webflow@6.0.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-wsfederation-webflow@6.1.0-RC2
+- pkg:maven/org.apereo.cas/cas-server-support-wsfederation-webflow@6.1.0-RC2?classifier=sources
