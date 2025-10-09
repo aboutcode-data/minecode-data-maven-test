@@ -150,3 +150,5 @@
 - pkg:maven/org.springframework/spring-oxm@5.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-oxm@4.3.12.RELEASE
 - pkg:maven/org.springframework/spring-oxm@4.3.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-oxm@5.0.1.RELEASE
+- pkg:maven/org.springframework/spring-oxm@5.0.1.RELEASE?classifier=sources

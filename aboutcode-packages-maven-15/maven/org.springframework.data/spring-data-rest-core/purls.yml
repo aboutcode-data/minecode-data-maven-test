@@ -92,3 +92,5 @@
 - pkg:maven/org.springframework.data/spring-data-rest-core@3.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.6.8.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-core@2.6.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@3.0.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-core@3.0.1.RELEASE?classifier=sources

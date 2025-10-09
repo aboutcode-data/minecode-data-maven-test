@@ -170,3 +170,5 @@
 - pkg:maven/org.springframework/spring-test@5.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-test@4.3.12.RELEASE
 - pkg:maven/org.springframework/spring-test@4.3.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-test@5.0.1.RELEASE
+- pkg:maven/org.springframework/spring-test@5.0.1.RELEASE?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/org.opensingular/singular-ui-resources@1.6.8?classifier=sources
 - pkg:maven/org.opensingular/singular-ui-resources@1.6.9-RC1?type=war
 - pkg:maven/org.opensingular/singular-ui-resources@1.6.9-RC1?classifier=sources
+- pkg:maven/org.opensingular/singular-ui-resources@1.6.9-RC2?type=war
+- pkg:maven/org.opensingular/singular-ui-resources@1.6.9-RC2?classifier=sources
