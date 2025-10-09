@@ -32,3 +32,5 @@
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.22?classifier=sources
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.21
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.21?classifier=sources
+- pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.1.0
+- pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.1.0?classifier=sources
