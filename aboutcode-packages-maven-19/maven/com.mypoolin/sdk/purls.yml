@@ -20,3 +20,5 @@
 - pkg:maven/com.mypoolin/sdk@2.1.10?classifier=sources
 - pkg:maven/com.mypoolin/sdk@2.1.11?type=aar
 - pkg:maven/com.mypoolin/sdk@2.1.11?classifier=sources
+- pkg:maven/com.mypoolin/sdk@2.1.12?type=aar
+- pkg:maven/com.mypoolin/sdk@2.1.12?classifier=sources

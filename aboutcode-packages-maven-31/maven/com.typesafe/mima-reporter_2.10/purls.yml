@@ -26,3 +26,5 @@
 - pkg:maven/com.typesafe/mima-reporter_2.10@0.1.18?classifier=sources
 - pkg:maven/com.typesafe/mima-reporter_2.10@0.2.0
 - pkg:maven/com.typesafe/mima-reporter_2.10@0.2.0?classifier=sources
+- pkg:maven/com.typesafe/mima-reporter_2.10@0.3.0
+- pkg:maven/com.typesafe/mima-reporter_2.10@0.3.0?classifier=sources
