@@ -114,3 +114,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.dev.jetty.test.affix@7.0.150.002?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.dev.jetty.test.affix@7.1.0.003_Photon_M3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.dev.jetty.test.affix@7.1.0.003_Photon_M3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.dev.jetty.test.affix@7.0.200.002_Oxygen_2_RC1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.dev.jetty.test.affix@7.0.200.002_Oxygen_2_RC1?classifier=sources

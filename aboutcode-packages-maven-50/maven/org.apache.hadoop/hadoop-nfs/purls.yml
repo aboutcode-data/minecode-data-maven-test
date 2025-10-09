@@ -47,3 +47,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-nfs@2.7.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-nfs@3.0.0-beta1
 - pkg:maven/org.apache.hadoop/hadoop-nfs@2.8.2
+- pkg:maven/org.apache.hadoop/hadoop-nfs@2.9.0

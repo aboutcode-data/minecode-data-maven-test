@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-azure@2.7.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-azure@3.0.0-beta1
 - pkg:maven/org.apache.hadoop/hadoop-azure@2.8.2
+- pkg:maven/org.apache.hadoop/hadoop-azure@2.9.0

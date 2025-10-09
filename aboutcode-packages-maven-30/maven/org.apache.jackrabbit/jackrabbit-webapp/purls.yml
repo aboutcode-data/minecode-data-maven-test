@@ -260,3 +260,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.15.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.4?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.15.8?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.15.8?classifier=sources

@@ -96,3 +96,5 @@
 - pkg:maven/org.apache.camel/camel-vertx@2.20.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-vertx@2.19.4
 - pkg:maven/org.apache.camel/camel-vertx@2.19.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-vertx@2.20.1
+- pkg:maven/org.apache.camel/camel-vertx@2.20.1?classifier=sources

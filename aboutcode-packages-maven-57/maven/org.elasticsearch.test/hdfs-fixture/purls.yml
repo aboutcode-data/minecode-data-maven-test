@@ -74,3 +74,5 @@
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.0.0-rc2?classifier=sources
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@5.6.4
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@5.6.4?classifier=sources
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@6.0.0
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@6.0.0?classifier=sources

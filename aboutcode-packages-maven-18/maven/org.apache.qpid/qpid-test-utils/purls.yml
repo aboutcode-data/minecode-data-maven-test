@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.qpid/qpid-test-utils@6.1.4?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-test-utils@6.0.8
 - pkg:maven/org.apache.qpid/qpid-test-utils@6.0.8?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-test-utils@7.0.0
+- pkg:maven/org.apache.qpid/qpid-test-utils@7.0.0?classifier=sources

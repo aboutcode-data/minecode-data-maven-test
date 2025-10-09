@@ -115,3 +115,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.8
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.8?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.10
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.10?classifier=source-release&type=zip
