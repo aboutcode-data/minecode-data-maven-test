@@ -20,3 +20,5 @@
 - pkg:maven/org.restcomm/sbc-application@1.0.26?classifier=sources
 - pkg:maven/org.restcomm/sbc-application@1.0.28?type=war
 - pkg:maven/org.restcomm/sbc-application@1.0.28?classifier=sources
+- pkg:maven/org.restcomm/sbc-application@1.0.30?type=war
+- pkg:maven/org.restcomm/sbc-application@1.0.30?classifier=sources

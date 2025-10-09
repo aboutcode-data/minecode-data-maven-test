@@ -64,3 +64,4 @@
 - pkg:maven/org.openjdk.jmh/jmh-groovy-benchmark-archetype@1.15?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-groovy-benchmark-archetype@1.16?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-groovy-benchmark-archetype@1.17?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-groovy-benchmark-archetype@1.17.1?classifier=sources
