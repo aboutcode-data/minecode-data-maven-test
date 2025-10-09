@@ -60,3 +60,7 @@
 - pkg:maven/com.hubspot/SingularityS3Base@0.15.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityS3Base@0.15.1
 - pkg:maven/com.hubspot/SingularityS3Base@0.15.1?classifier=sources
+- pkg:maven/com.hubspot/SingularityS3Base@0.16.1
+- pkg:maven/com.hubspot/SingularityS3Base@0.16.1?classifier=sources
+- pkg:maven/com.hubspot/SingularityS3Base@0.16.0
+- pkg:maven/com.hubspot/SingularityS3Base@0.16.0?classifier=sources
