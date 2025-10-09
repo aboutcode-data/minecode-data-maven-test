@@ -28,3 +28,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.9
 - pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@2.0.3
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.10
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.10?classifier=sources-commercial

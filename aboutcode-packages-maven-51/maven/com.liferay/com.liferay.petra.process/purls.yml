@@ -73,3 +73,6 @@
 - pkg:maven/com.liferay/com.liferay.petra.process@2.0.17
 - pkg:maven/com.liferay/com.liferay.petra.process@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.process@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.process@1.0.9
+- pkg:maven/com.liferay/com.liferay.petra.process@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.process@1.0.9?classifier=sources-commercial

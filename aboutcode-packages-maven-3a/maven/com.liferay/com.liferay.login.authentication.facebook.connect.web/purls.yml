@@ -45,3 +45,6 @@
 - pkg:maven/com.liferay/com.liferay.login.authentication.facebook.connect.web@3.0.2
 - pkg:maven/com.liferay/com.liferay.login.authentication.facebook.connect.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.authentication.facebook.connect.web@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.facebook.connect.web@2.0.15
+- pkg:maven/com.liferay/com.liferay.login.authentication.facebook.connect.web@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.facebook.connect.web@2.0.15?classifier=sources-commercial

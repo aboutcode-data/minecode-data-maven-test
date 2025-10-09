@@ -69,3 +69,6 @@
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.5
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.23
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.23?classifier=sources-commercial

@@ -34,3 +34,5 @@
 - pkg:maven/com.jakewharton/butterknife-compiler@9.0.0?classifier=sources
 - pkg:maven/com.jakewharton/butterknife-compiler@10.0.0
 - pkg:maven/com.jakewharton/butterknife-compiler@10.0.0?classifier=sources
+- pkg:maven/com.jakewharton/butterknife-compiler@10.1.0
+- pkg:maven/com.jakewharton/butterknife-compiler@10.1.0?classifier=sources

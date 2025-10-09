@@ -106,3 +106,6 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.14
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.32
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.32?classifier=sources-commercial

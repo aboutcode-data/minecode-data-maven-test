@@ -29,3 +29,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.multiple@2.0.3
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.multiple@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.multiple@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.multiple@1.0.10
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.multiple@1.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.multiple@1.0.10?classifier=sources-commercial
