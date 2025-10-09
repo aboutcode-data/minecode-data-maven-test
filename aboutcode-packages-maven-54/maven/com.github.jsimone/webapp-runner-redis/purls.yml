@@ -84,3 +84,7 @@
 - pkg:maven/com.github.jsimone/webapp-runner-redis@9.0.22.0?classifier=sources
 - pkg:maven/com.github.jsimone/webapp-runner-redis@8.5.43.0
 - pkg:maven/com.github.jsimone/webapp-runner-redis@8.5.43.0?classifier=sources
+- pkg:maven/com.github.jsimone/webapp-runner-redis@9.0.24.0
+- pkg:maven/com.github.jsimone/webapp-runner-redis@9.0.24.0?classifier=sources
+- pkg:maven/com.github.jsimone/webapp-runner-redis@8.5.43.1
+- pkg:maven/com.github.jsimone/webapp-runner-redis@8.5.43.1?classifier=sources

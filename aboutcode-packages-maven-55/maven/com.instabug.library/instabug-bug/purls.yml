@@ -114,3 +114,5 @@
 - pkg:maven/com.instabug.library/instabug-bug@8.5.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-bug@8.6.0?type=aar
 - pkg:maven/com.instabug.library/instabug-bug@8.6.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-bug@8.6.1?type=aar
+- pkg:maven/com.instabug.library/instabug-bug@8.6.1?classifier=sources

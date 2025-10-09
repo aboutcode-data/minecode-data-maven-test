@@ -184,3 +184,5 @@
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.103.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.104.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.104.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.105.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.105.0-alpha?classifier=sources
