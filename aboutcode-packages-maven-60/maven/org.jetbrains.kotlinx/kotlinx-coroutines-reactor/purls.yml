@@ -16,3 +16,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactor@0.21.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactor@0.21.2
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactor@0.21.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactor@0.22
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactor@0.22?classifier=sources

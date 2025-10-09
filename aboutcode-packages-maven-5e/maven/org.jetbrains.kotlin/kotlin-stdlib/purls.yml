@@ -220,3 +220,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.2.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.2.20
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.2.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.2.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.2.21?classifier=sources
