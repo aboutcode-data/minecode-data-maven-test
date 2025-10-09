@@ -68,3 +68,5 @@
 - pkg:maven/com.heroku.api/heroku-json-jackson@0.35?classifier=sources
 - pkg:maven/com.heroku.api/heroku-json-jackson@0.34
 - pkg:maven/com.heroku.api/heroku-json-jackson@0.34?classifier=sources
+- pkg:maven/com.heroku.api/heroku-json-jackson@0.36
+- pkg:maven/com.heroku.api/heroku-json-jackson@0.36?classifier=sources

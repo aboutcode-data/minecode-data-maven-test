@@ -383,3 +383,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.42
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.50
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.43
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.43?classifier=sources-commercial

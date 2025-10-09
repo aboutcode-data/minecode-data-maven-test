@@ -82,3 +82,6 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.27
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.27?classifier=sources-commercial
