@@ -20,3 +20,5 @@
 - pkg:maven/com.netflix.metacat/metacat-connector-s3@1.0.10?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-connector-s3@1.0.12
 - pkg:maven/com.netflix.metacat/metacat-connector-s3@1.0.12?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-connector-s3@1.1.0-rc.1
+- pkg:maven/com.netflix.metacat/metacat-connector-s3@1.1.0-rc.1?classifier=sources
