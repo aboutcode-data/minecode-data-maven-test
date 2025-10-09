@@ -22,3 +22,5 @@
 - pkg:maven/org.phoenixframe/phoenix_web@1.4.7?classifier=sources
 - pkg:maven/org.phoenixframe/phoenix_web@1.4.8?type=war
 - pkg:maven/org.phoenixframe/phoenix_web@1.4.8?classifier=sources
+- pkg:maven/org.phoenixframe/phoenix_web@1.5.0?type=war
+- pkg:maven/org.phoenixframe/phoenix_web@1.5.0?classifier=sources
