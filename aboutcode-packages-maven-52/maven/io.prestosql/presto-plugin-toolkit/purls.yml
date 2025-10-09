@@ -6,3 +6,5 @@
 - pkg:maven/io.prestosql/presto-plugin-toolkit@302?classifier=sources
 - pkg:maven/io.prestosql/presto-plugin-toolkit@303
 - pkg:maven/io.prestosql/presto-plugin-toolkit@303?classifier=sources
+- pkg:maven/io.prestosql/presto-plugin-toolkit@304
+- pkg:maven/io.prestosql/presto-plugin-toolkit@304?classifier=sources

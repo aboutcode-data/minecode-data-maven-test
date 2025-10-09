@@ -6,3 +6,5 @@
 - pkg:maven/io.prestosql/presto-main@302?classifier=sources
 - pkg:maven/io.prestosql/presto-main@303
 - pkg:maven/io.prestosql/presto-main@303?classifier=sources
+- pkg:maven/io.prestosql/presto-main@304
+- pkg:maven/io.prestosql/presto-main@304?classifier=sources

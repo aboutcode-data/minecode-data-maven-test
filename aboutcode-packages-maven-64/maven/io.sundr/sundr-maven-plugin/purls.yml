@@ -204,3 +204,5 @@
 - pkg:maven/io.sundr/sundr-maven-plugin@0.16.3?classifier=sources
 - pkg:maven/io.sundr/sundr-maven-plugin@0.16.2
 - pkg:maven/io.sundr/sundr-maven-plugin@0.16.2?classifier=sources
+- pkg:maven/io.sundr/sundr-maven-plugin@0.16.4
+- pkg:maven/io.sundr/sundr-maven-plugin@0.16.4?classifier=sources

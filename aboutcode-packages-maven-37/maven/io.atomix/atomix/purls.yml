@@ -182,3 +182,5 @@
 - pkg:maven/io.atomix/atomix@2.0.26?classifier=sources
 - pkg:maven/io.atomix/atomix@2.0.27
 - pkg:maven/io.atomix/atomix@2.0.27?classifier=sources
+- pkg:maven/io.atomix/atomix@3.0.11
+- pkg:maven/io.atomix/atomix@3.0.11?classifier=sources

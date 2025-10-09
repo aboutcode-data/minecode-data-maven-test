@@ -22,3 +22,5 @@
 - pkg:maven/io.grpc/grpc-android@1.17.0?classifier=sources
 - pkg:maven/io.grpc/grpc-android@1.18.0?type=aar
 - pkg:maven/io.grpc/grpc-android@1.18.0?classifier=sources
+- pkg:maven/io.grpc/grpc-android@1.19.0?type=aar
+- pkg:maven/io.grpc/grpc-android@1.19.0?classifier=sources
