@@ -111,3 +111,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.19
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.0
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.21
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.21?classifier=sources-commercial

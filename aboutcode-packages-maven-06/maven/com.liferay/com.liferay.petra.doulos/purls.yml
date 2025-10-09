@@ -48,3 +48,6 @@
 - pkg:maven/com.liferay/com.liferay.petra.doulos@3.5.4
 - pkg:maven/com.liferay/com.liferay.petra.doulos@3.5.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.doulos@3.5.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.doulos@5.0.0
+- pkg:maven/com.liferay/com.liferay.petra.doulos@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.doulos@5.0.0?classifier=sources-commercial

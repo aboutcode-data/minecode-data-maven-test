@@ -31,3 +31,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.12
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.0?classifier=sources-commercial

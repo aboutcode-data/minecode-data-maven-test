@@ -57,3 +57,6 @@
 - pkg:maven/com.liferay/com.liferay.application.list.taglib@2.0.15
 - pkg:maven/com.liferay/com.liferay.application.list.taglib@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.taglib@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.taglib@4.0.0
+- pkg:maven/com.liferay/com.liferay.application.list.taglib@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.taglib@4.0.0?classifier=sources-commercial
