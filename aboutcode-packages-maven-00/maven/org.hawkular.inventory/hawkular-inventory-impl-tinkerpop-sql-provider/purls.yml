@@ -1,2 +1,4 @@
 - pkg:maven/org.hawkular.inventory/hawkular-inventory-impl-tinkerpop-sql-provider@0.14.0.Final
 - pkg:maven/org.hawkular.inventory/hawkular-inventory-impl-tinkerpop-sql-provider@0.14.0.Final?classifier=sources
+- pkg:maven/org.hawkular.inventory/hawkular-inventory-impl-tinkerpop-sql-provider@0.15.0.Final
+- pkg:maven/org.hawkular.inventory/hawkular-inventory-impl-tinkerpop-sql-provider@0.15.0.Final?classifier=sources

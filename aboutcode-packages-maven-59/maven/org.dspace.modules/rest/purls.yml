@@ -16,3 +16,4 @@
 - pkg:maven/org.dspace.modules/rest@4.4?type=war
 - pkg:maven/org.dspace.modules/rest@5.5?type=war
 - pkg:maven/org.dspace.modules/rest@4.5?type=war
+- pkg:maven/org.dspace.modules/rest@6.0-rc1?type=war

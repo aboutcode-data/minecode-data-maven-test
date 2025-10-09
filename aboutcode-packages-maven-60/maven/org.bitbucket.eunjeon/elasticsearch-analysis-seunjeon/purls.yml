@@ -12,3 +12,7 @@
 - pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.2.0.0?classifier=sources
 - pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.2.1.0?type=zip
 - pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.2.1.0?classifier=sources
+- pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.3.1.0?type=zip
+- pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.3.1.0?classifier=sources
+- pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.3.0.0?type=zip
+- pkg:maven/org.bitbucket.eunjeon/elasticsearch-analysis-seunjeon@2.3.0.0?classifier=sources
