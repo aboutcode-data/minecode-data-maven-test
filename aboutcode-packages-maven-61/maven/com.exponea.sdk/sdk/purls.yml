@@ -64,3 +64,5 @@
 - pkg:maven/com.exponea.sdk/sdk@2.4.0?classifier=sources
 - pkg:maven/com.exponea.sdk/sdk@2.5.0?type=aar
 - pkg:maven/com.exponea.sdk/sdk@2.5.0?classifier=sources
+- pkg:maven/com.exponea.sdk/sdk@2.6.0?type=aar
+- pkg:maven/com.exponea.sdk/sdk@2.6.0?classifier=sources

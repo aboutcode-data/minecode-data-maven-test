@@ -36,3 +36,7 @@
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.9?classifier=sources
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.9
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.9?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.10
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.10?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.10
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.10?classifier=sources
