@@ -56,3 +56,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-token-authentication@5.3.6?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-token-authentication@5.2.9
 - pkg:maven/org.apereo.cas/cas-server-support-token-authentication@5.2.9?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-token-authentication@6.0.0
+- pkg:maven/org.apereo.cas/cas-server-support-token-authentication@6.0.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-token-authentication@5.3.7
+- pkg:maven/org.apereo.cas/cas-server-support-token-authentication@5.3.7?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@6.0.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@5.3.6
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@5.3.6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@6.0.0
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@6.0.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@5.3.7
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-zookeeper@5.3.7?classifier=sources

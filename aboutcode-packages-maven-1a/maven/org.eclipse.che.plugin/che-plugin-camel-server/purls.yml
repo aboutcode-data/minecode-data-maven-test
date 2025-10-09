@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.che.plugin/che-plugin-camel-server@6.14.2?classifier=sources
 - pkg:maven/org.eclipse.che.plugin/che-plugin-camel-server@6.15.0
 - pkg:maven/org.eclipse.che.plugin/che-plugin-camel-server@6.15.0?classifier=sources
+- pkg:maven/org.eclipse.che.plugin/che-plugin-camel-server@6.16.0
+- pkg:maven/org.eclipse.che.plugin/che-plugin-camel-server@6.16.0?classifier=sources

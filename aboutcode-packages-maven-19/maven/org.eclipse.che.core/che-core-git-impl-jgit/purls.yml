@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.che.core/che-core-git-impl-jgit@6.14.2?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-git-impl-jgit@6.15.0
 - pkg:maven/org.eclipse.che.core/che-core-git-impl-jgit@6.15.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-git-impl-jgit@6.16.0
+- pkg:maven/org.eclipse.che.core/che-core-git-impl-jgit@6.16.0?classifier=sources
