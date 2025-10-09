@@ -1,3 +1,7 @@
 - pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Alpha8?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Alpha7?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Beta6
+- pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Beta1
+- pkg:maven/org.wildfly.swarm/fraction-list@1.0.0.Beta1?classifier=sources

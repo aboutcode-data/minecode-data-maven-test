@@ -236,3 +236,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@7.4.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@6.4.8
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@6.4.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@8.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-xwiki@8.0?classifier=sources
