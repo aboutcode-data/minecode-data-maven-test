@@ -300,3 +300,7 @@
 - pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev61-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev61-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev61-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev63-1.25.0
+- pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev63-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev63-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-factchecktools@v1alpha1-rev63-1.18.0-rc?classifier=sources
