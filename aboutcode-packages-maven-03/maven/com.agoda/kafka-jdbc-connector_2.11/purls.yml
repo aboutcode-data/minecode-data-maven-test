@@ -4,3 +4,5 @@
 - pkg:maven/com.agoda/kafka-jdbc-connector_2.11@1.0.1?classifier=sources
 - pkg:maven/com.agoda/kafka-jdbc-connector_2.11@1.0.0
 - pkg:maven/com.agoda/kafka-jdbc-connector_2.11@1.0.0?classifier=sources
+- pkg:maven/com.agoda/kafka-jdbc-connector_2.11@1.2.0
+- pkg:maven/com.agoda/kafka-jdbc-connector_2.11@1.2.0?classifier=sources
