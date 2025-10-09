@@ -1,2 +1,6 @@
 - pkg:maven/io.github.marquezproject/marquez-java@0.1.0
 - pkg:maven/io.github.marquezproject/marquez-java@0.1.0?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.3
+- pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.3?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.2
+- pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.2?classifier=sources

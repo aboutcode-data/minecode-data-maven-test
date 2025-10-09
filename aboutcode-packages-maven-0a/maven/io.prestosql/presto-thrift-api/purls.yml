@@ -36,3 +36,5 @@
 - pkg:maven/io.prestosql/presto-thrift-api@317?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift-api@318
 - pkg:maven/io.prestosql/presto-thrift-api@318?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-api@319
+- pkg:maven/io.prestosql/presto-thrift-api@319?classifier=sources
