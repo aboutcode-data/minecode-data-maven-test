@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.tomee/tomee-plus-webapp@7.0.3?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-plus-webapp@7.0.4?type=war
 - pkg:maven/org.apache.tomee/tomee-plus-webapp@7.0.4?classifier=sources
+- pkg:maven/org.apache.tomee/tomee-plus-webapp@7.0.5?type=war
+- pkg:maven/org.apache.tomee/tomee-plus-webapp@7.0.5?classifier=sources

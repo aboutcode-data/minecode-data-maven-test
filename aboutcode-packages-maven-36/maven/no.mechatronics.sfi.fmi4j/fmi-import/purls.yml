@@ -46,3 +46,7 @@
 - pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.7.2?classifier=sources
 - pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.7.3
 - pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.7.3?classifier=sources
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.8
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.8?classifier=sources
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.7.4
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.7.4?classifier=sources

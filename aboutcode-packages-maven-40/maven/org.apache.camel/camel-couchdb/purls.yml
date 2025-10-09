@@ -122,3 +122,5 @@
 - pkg:maven/org.apache.camel/camel-couchdb@2.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-couchdb@2.21.2
 - pkg:maven/org.apache.camel/camel-couchdb@2.21.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-couchdb@2.20.4
+- pkg:maven/org.apache.camel/camel-couchdb@2.20.4?classifier=sources
