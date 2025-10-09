@@ -104,3 +104,7 @@
 - pkg:maven/org.gweninterpreter/gwen@2.19.2?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@2.19.3
 - pkg:maven/org.gweninterpreter/gwen@2.19.3?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@2.20.0
+- pkg:maven/org.gweninterpreter/gwen@2.20.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@2.19.4
+- pkg:maven/org.gweninterpreter/gwen@2.19.4?classifier=sources

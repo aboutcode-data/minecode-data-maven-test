@@ -68,3 +68,7 @@
 - pkg:maven/org.hpccsystems/wsclient@7.4.8?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@7.2.32
 - pkg:maven/org.hpccsystems/wsclient@7.2.32?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@7.4.10
+- pkg:maven/org.hpccsystems/wsclient@7.4.10?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@7.2.34
+- pkg:maven/org.hpccsystems/wsclient@7.2.34?classifier=sources
