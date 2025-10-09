@@ -72,3 +72,5 @@
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.api@6.2.2?classifier=sources
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.api@6.4.0
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.api@6.4.0?classifier=sources
+- pkg:maven/org.talend.esb.job/org.talend.esb.job.api@6.4.1
+- pkg:maven/org.talend.esb.job/org.talend.esb.job.api@6.4.1?classifier=sources

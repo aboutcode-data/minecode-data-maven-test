@@ -30,3 +30,5 @@
 - pkg:maven/org.python/jython-installer@2.7.1-rc2?classifier=sources
 - pkg:maven/org.python/jython-installer@2.7.1-rc3
 - pkg:maven/org.python/jython-installer@2.7.1-rc3?classifier=sources
+- pkg:maven/org.python/jython-installer@2.7.1
+- pkg:maven/org.python/jython-installer@2.7.1?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/org.rundeck/rundeck-launcher@2.8.0?classifier=sources
 - pkg:maven/org.rundeck/rundeck-launcher@2.8.2
 - pkg:maven/org.rundeck/rundeck-launcher@2.8.2?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.8.3
+- pkg:maven/org.rundeck/rundeck-launcher@2.8.3?classifier=sources
