@@ -118,3 +118,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@1.0.58
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@1.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@1.0.58?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@1.0.59
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@1.0.59?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@1.0.59?classifier=sources-commercial

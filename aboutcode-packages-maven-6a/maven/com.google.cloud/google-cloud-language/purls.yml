@@ -80,3 +80,7 @@
 - pkg:maven/com.google.cloud/google-cloud-language@0.25.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-language@0.26.0-beta
 - pkg:maven/com.google.cloud/google-cloud-language@0.26.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@1.10.0
+- pkg:maven/com.google.cloud/google-cloud-language@1.10.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@0.27.0-beta
+- pkg:maven/com.google.cloud/google-cloud-language@0.27.0-beta?classifier=sources

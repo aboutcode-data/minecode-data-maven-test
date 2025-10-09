@@ -80,3 +80,7 @@
 - pkg:maven/com.google.cloud/google-cloud-translate@1.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-translate@1.8.0
 - pkg:maven/com.google.cloud/google-cloud-translate@1.8.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@1.9.0
+- pkg:maven/com.google.cloud/google-cloud-translate@1.9.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@1.10.0
+- pkg:maven/com.google.cloud/google-cloud-translate@1.10.0?classifier=sources

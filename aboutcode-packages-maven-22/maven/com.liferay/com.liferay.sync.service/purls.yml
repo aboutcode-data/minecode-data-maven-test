@@ -86,3 +86,6 @@
 - pkg:maven/com.liferay/com.liferay.sync.service@1.5.7
 - pkg:maven/com.liferay/com.liferay.sync.service@1.5.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.service@1.5.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.service@1.5.8
+- pkg:maven/com.liferay/com.liferay.sync.service@1.5.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.service@1.5.8?classifier=sources-commercial

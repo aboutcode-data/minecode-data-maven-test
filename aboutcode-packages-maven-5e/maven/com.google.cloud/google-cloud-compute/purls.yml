@@ -80,3 +80,7 @@
 - pkg:maven/com.google.cloud/google-cloud-compute@0.25.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@0.26.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-compute@0.26.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute@0.28.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-compute@0.28.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute@0.27.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-compute@0.27.0-alpha?classifier=sources

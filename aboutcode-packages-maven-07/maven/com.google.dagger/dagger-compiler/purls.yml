@@ -42,3 +42,5 @@
 - pkg:maven/com.google.dagger/dagger-compiler@2.11?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.12
 - pkg:maven/com.google.dagger/dagger-compiler@2.12?classifier=sources
+- pkg:maven/com.google.dagger/dagger-compiler@2.13
+- pkg:maven/com.google.dagger/dagger-compiler@2.13?classifier=sources
