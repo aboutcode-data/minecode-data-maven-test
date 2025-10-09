@@ -50,3 +50,5 @@
 - pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@6.0.4?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@6.0.5
 - pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@6.0.5?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@4.3.2
+- pkg:maven/org.ops4j.pax.web.samples.web-fragment/war@4.3.2?classifier=sources
