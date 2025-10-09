@@ -242,3 +242,5 @@
 - pkg:maven/com.vaadin/vaadin@14.1.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin@14.1.0
 - pkg:maven/com.vaadin/vaadin@14.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin@14.1.2
+- pkg:maven/com.vaadin/vaadin@14.1.2?classifier=sources

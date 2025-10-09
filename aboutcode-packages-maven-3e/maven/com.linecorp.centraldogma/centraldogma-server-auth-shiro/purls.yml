@@ -41,3 +41,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.43.2
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.43.2?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.43.3?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.43.4
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.43.4?classifier=sources
