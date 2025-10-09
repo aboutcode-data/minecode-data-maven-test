@@ -83,3 +83,6 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.validator@4.0.2
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.validator@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.validator@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.validator@2.1.16
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.validator@2.1.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.validator@2.1.16?classifier=sources-commercial

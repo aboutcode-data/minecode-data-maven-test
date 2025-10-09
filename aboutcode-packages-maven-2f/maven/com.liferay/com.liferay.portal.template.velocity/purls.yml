@@ -182,3 +182,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.19
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.43
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.43?classifier=sources-commercial

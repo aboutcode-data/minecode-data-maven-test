@@ -187,3 +187,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@3.0.16
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@3.0.17
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@2.1.27
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@2.1.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@2.1.27?classifier=sources-commercial

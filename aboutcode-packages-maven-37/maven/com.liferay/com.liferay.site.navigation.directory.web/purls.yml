@@ -64,3 +64,6 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@4.0.2
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.18?classifier=sources-commercial

@@ -177,3 +177,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.s3@3.0.31
 - pkg:maven/com.liferay/com.liferay.portal.store.s3@3.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.s3@3.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.s3@3.0.32
+- pkg:maven/com.liferay/com.liferay.portal.store.s3@3.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.s3@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.s3@2.0.29
+- pkg:maven/com.liferay/com.liferay.portal.store.s3@2.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.s3@2.0.29?classifier=sources-commercial

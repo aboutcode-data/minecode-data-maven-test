@@ -63,3 +63,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.poshi.runner@2.2.12
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.poshi.runner@2.2.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.poshi.runner@2.2.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.poshi.runner@2.2.13
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.poshi.runner@2.2.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.poshi.runner@2.2.13?classifier=sources-commercial

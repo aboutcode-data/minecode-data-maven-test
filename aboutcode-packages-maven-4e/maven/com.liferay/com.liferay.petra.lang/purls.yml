@@ -79,3 +79,6 @@
 - pkg:maven/com.liferay/com.liferay.petra.lang@3.0.0
 - pkg:maven/com.liferay/com.liferay.petra.lang@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.lang@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.lang@1.1.12
+- pkg:maven/com.liferay/com.liferay.petra.lang@1.1.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.lang@1.1.12?classifier=sources-commercial

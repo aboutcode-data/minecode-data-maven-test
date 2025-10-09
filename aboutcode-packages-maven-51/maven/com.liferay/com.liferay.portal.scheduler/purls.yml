@@ -142,3 +142,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.11
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@4.0.17
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@4.0.17?classifier=sources-commercial

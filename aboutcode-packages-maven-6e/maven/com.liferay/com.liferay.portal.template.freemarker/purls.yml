@@ -233,3 +233,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.20
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.21
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.30
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.30?classifier=sources-commercial

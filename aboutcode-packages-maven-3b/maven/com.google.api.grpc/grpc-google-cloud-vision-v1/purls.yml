@@ -186,3 +186,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@1.58.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@1.59.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@1.59.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@1.60.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@1.60.0?classifier=sources

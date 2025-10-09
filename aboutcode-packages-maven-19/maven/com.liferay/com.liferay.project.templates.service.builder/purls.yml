@@ -125,3 +125,9 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.42
 - pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.45
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.44
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.service.builder@1.0.44?classifier=sources-commercial

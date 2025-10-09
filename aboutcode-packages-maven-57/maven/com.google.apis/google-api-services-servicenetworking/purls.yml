@@ -958,3 +958,7 @@
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev34-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev34-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev34-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev99-1.25.0
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev99-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev99-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev99-1.18.0-rc?classifier=sources

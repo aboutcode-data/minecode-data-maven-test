@@ -88,3 +88,6 @@
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.0.15
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.api@1.1.7
+- pkg:maven/com.liferay/com.liferay.captcha.api@1.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.api@1.1.7?classifier=sources-commercial

@@ -201,3 +201,9 @@
 - pkg:maven/com.liferay/com.liferay.announcements.web@4.0.7
 - pkg:maven/com.liferay/com.liferay.announcements.web@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.announcements.web@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@3.0.20
+- pkg:maven/com.liferay/com.liferay.announcements.web@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.24?classifier=sources-commercial

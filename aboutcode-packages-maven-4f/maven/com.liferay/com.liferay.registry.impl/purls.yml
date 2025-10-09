@@ -111,3 +111,6 @@
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.20
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.registry.impl@1.0.15
+- pkg:maven/com.liferay/com.liferay.registry.impl@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.registry.impl@1.0.15?classifier=sources-commercial

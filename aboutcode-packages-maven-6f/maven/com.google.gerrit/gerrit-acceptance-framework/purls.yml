@@ -174,3 +174,5 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.0.0-rc3?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.0.0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.0.0?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.15.14
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.15.14?classifier=sources

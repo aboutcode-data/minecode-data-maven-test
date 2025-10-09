@@ -455,3 +455,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@2.0.55
 - pkg:maven/com.liferay/com.liferay.journal.web@2.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@2.0.55?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.web@2.0.56
+- pkg:maven/com.liferay/com.liferay.journal.web@2.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@2.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.web@1.10.53
+- pkg:maven/com.liferay/com.liferay.journal.web@1.10.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@1.10.53?classifier=sources-commercial

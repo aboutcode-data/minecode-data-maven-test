@@ -236,3 +236,6 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.web@2.0.34
 - pkg:maven/com.liferay/com.liferay.exportimport.web@2.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.web@2.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.web@1.0.56
+- pkg:maven/com.liferay/com.liferay.exportimport.web@1.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.web@1.0.56?classifier=sources-commercial

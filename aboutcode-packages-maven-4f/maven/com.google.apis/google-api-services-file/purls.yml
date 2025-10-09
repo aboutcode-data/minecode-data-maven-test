@@ -166,3 +166,7 @@
 - pkg:maven/com.google.apis/google-api-services-file@v1-rev9-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-file@v1-rev9-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-file@v1-rev9-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-file@v1beta1-rev17-1.25.0
+- pkg:maven/com.google.apis/google-api-services-file@v1beta1-rev17-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-file@v1beta1-rev17-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-file@v1beta1-rev17-1.18.0-rc?classifier=sources
