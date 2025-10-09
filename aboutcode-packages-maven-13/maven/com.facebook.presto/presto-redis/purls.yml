@@ -18,3 +18,4 @@
 - pkg:maven/com.facebook.presto/presto-redis@0.135?classifier=sources
 - pkg:maven/com.facebook.presto/presto-redis@0.137?classifier=sources
 - pkg:maven/com.facebook.presto/presto-redis@0.138?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redis@0.139?classifier=sources
