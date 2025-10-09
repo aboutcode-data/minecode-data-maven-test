@@ -277,3 +277,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@9.4.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@10.0.0.Beta3
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@10.0.0.Beta3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-jpa@9.4.12.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-jpa@9.4.12.Final?classifier=sources

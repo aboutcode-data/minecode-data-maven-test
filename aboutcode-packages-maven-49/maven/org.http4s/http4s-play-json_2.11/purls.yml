@@ -36,3 +36,5 @@
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.0-M7?classifier=sources
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.18.23
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.18.23?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.0-RC1
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.0-RC1?classifier=sources
