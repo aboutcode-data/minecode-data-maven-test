@@ -62,3 +62,9 @@
 - pkg:maven/com.neovisionaries/nv-websocket-client@1.30?classifier=sources
 - pkg:maven/com.neovisionaries/nv-websocket-client@1.31
 - pkg:maven/com.neovisionaries/nv-websocket-client@1.31?classifier=sources
+- pkg:maven/com.neovisionaries/nv-websocket-client@2.2
+- pkg:maven/com.neovisionaries/nv-websocket-client@2.2?classifier=sources
+- pkg:maven/com.neovisionaries/nv-websocket-client@2.1
+- pkg:maven/com.neovisionaries/nv-websocket-client@2.1?classifier=sources
+- pkg:maven/com.neovisionaries/nv-websocket-client@2.0
+- pkg:maven/com.neovisionaries/nv-websocket-client@2.0?classifier=sources
