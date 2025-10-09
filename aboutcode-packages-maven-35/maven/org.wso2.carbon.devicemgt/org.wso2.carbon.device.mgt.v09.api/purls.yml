@@ -172,3 +172,7 @@
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.30?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.31?type=war
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.31?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.33?type=war
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.33?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.32?type=war
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.v09.api@3.1.32?classifier=sources
