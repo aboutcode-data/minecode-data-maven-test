@@ -44,3 +44,5 @@
 - pkg:maven/de.wayofquality.blended/blended.security.login.rest@2.5.0-M2?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.security.login.rest@2.4.0.2?type=war
 - pkg:maven/de.wayofquality.blended/blended.security.login.rest@2.4.0.2?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.login.rest@2.5.0-M4
+- pkg:maven/de.wayofquality.blended/blended.security.login.rest@2.5.0-M4?classifier=sources

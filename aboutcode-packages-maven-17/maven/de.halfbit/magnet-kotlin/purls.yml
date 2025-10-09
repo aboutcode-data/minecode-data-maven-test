@@ -26,3 +26,5 @@
 - pkg:maven/de.halfbit/magnet-kotlin@2.0-RC8?classifier=sources
 - pkg:maven/de.halfbit/magnet-kotlin@2.0-RC7
 - pkg:maven/de.halfbit/magnet-kotlin@2.0-RC7?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@2.0
+- pkg:maven/de.halfbit/magnet-kotlin@2.0?classifier=sources

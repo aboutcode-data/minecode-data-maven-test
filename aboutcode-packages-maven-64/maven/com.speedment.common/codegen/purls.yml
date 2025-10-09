@@ -18,3 +18,5 @@
 - pkg:maven/com.speedment.common/codegen@2.4.9?classifier=sources
 - pkg:maven/com.speedment.common/codegen@2.4.10
 - pkg:maven/com.speedment.common/codegen@2.4.10?classifier=sources
+- pkg:maven/com.speedment.common/codegen@2.5.0
+- pkg:maven/com.speedment.common/codegen@2.5.0?classifier=sources
