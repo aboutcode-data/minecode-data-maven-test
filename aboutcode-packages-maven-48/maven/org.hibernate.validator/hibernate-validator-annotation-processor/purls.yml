@@ -40,3 +40,5 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-annotation-processor@6.0.12.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-annotation-processor@6.0.13.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-annotation-processor@6.0.13.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-annotation-processor@6.1.0.Alpha1
+- pkg:maven/org.hibernate.validator/hibernate-validator-annotation-processor@6.1.0.Alpha1?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.hpccsystems/wsclient@7.0.2-rc1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@7.0.2
 - pkg:maven/org.hpccsystems/wsclient@7.0.2?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@1.6.0
+- pkg:maven/org.hpccsystems/wsclient@1.6.0?classifier=sources

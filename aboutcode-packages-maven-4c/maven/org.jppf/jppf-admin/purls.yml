@@ -88,3 +88,5 @@
 - pkg:maven/org.jppf/jppf-admin@5.2.10?classifier=sources
 - pkg:maven/org.jppf/jppf-admin@5.1.7
 - pkg:maven/org.jppf/jppf-admin@5.1.7?classifier=sources
+- pkg:maven/org.jppf/jppf-admin@6.1-alpha
+- pkg:maven/org.jppf/jppf-admin@6.1-alpha?classifier=sources
