@@ -118,3 +118,5 @@
 - pkg:maven/com.wavefront/proxy@4.33?classifier=sources
 - pkg:maven/com.wavefront/proxy@4.34
 - pkg:maven/com.wavefront/proxy@4.34?classifier=sources
+- pkg:maven/com.wavefront/proxy@4.35
+- pkg:maven/com.wavefront/proxy@4.35?classifier=sources

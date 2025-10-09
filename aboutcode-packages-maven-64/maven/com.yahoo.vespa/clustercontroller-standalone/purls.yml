@@ -272,3 +272,7 @@
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.327.49?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.328.65
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.328.65?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.330.51
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.330.51?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.329.64
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@6.329.64?classifier=sources

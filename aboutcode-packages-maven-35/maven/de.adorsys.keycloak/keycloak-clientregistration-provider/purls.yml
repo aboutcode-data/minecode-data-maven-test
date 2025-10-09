@@ -32,3 +32,5 @@
 - pkg:maven/de.adorsys.keycloak/keycloak-clientregistration-provider@1.14-RC2?classifier=sources
 - pkg:maven/de.adorsys.keycloak/keycloak-clientregistration-provider@1.14
 - pkg:maven/de.adorsys.keycloak/keycloak-clientregistration-provider@1.14?classifier=sources
+- pkg:maven/de.adorsys.keycloak/keycloak-clientregistration-provider@1.15
+- pkg:maven/de.adorsys.keycloak/keycloak-clientregistration-provider@1.15?classifier=sources

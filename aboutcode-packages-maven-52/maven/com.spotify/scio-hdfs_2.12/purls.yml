@@ -52,3 +52,5 @@
 - pkg:maven/com.spotify/scio-hdfs_2.12@0.7.0-beta2?classifier=sources
 - pkg:maven/com.spotify/scio-hdfs_2.12@0.7.0-beta3
 - pkg:maven/com.spotify/scio-hdfs_2.12@0.7.0-beta3?classifier=sources
+- pkg:maven/com.spotify/scio-hdfs_2.12@0.7.0
+- pkg:maven/com.spotify/scio-hdfs_2.12@0.7.0?classifier=sources
