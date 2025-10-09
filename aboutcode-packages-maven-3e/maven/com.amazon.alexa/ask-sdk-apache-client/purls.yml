@@ -76,3 +76,5 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-apache-client@2.13.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-apache-client@2.14.0
 - pkg:maven/com.amazon.alexa/ask-sdk-apache-client@2.14.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-apache-client@2.15.0
+- pkg:maven/com.amazon.alexa/ask-sdk-apache-client@2.15.0?classifier=sources

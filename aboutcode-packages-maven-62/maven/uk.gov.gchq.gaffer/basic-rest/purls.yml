@@ -88,3 +88,7 @@
 - pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.8.3?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.8.2?type=war
 - pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.8.2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.9.0-RC2?type=war
+- pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.9.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.9.0-RC1?type=war
+- pkg:maven/uk.gov.gchq.gaffer/basic-rest@1.9.0-RC1?classifier=sources

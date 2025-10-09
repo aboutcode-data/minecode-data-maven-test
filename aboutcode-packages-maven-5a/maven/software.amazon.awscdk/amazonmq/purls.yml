@@ -50,3 +50,5 @@
 - pkg:maven/software.amazon.awscdk/amazonmq@0.26.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/amazonmq@0.27.0
 - pkg:maven/software.amazon.awscdk/amazonmq@0.27.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/amazonmq@0.28.0
+- pkg:maven/software.amazon.awscdk/amazonmq@0.28.0?classifier=sources

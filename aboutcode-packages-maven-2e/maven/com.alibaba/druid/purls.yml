@@ -166,3 +166,5 @@
 - pkg:maven/com.alibaba/druid@1.1.13?classifier=sources
 - pkg:maven/com.alibaba/druid@1.1.14
 - pkg:maven/com.alibaba/druid@1.1.14?classifier=sources
+- pkg:maven/com.alibaba/druid@1.1.15
+- pkg:maven/com.alibaba/druid@1.1.15?classifier=sources
