@@ -146,3 +146,5 @@
 - pkg:maven/com.vaadin/vaadin-push@8.1.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-push@8.3.2
 - pkg:maven/com.vaadin/vaadin-push@8.3.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.3.3
+- pkg:maven/com.vaadin/vaadin-push@8.3.3?classifier=sources

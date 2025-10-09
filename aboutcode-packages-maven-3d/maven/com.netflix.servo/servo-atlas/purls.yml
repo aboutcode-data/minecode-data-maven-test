@@ -66,3 +66,5 @@
 - pkg:maven/com.netflix.servo/servo-atlas@0.12.18?classifier=sources
 - pkg:maven/com.netflix.servo/servo-atlas@0.12.20
 - pkg:maven/com.netflix.servo/servo-atlas@0.12.20?classifier=sources
+- pkg:maven/com.netflix.servo/servo-atlas@0.12.21
+- pkg:maven/com.netflix.servo/servo-atlas@0.12.21?classifier=sources
