@@ -208,3 +208,5 @@
 - pkg:maven/com.vmware.xenon/xenon-common@1.6.7?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-common@1.5.7_6_1
 - pkg:maven/com.vmware.xenon/xenon-common@1.5.7_6_1?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-common@1.5.7_6_2
+- pkg:maven/com.vmware.xenon/xenon-common@1.5.7_6_2?classifier=sources

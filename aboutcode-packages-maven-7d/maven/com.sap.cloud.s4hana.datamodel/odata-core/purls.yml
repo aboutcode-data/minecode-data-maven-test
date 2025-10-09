@@ -12,3 +12,5 @@
 - pkg:maven/com.sap.cloud.s4hana.datamodel/odata-core@1.9.4?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.datamodel/odata-core@1.10.0
 - pkg:maven/com.sap.cloud.s4hana.datamodel/odata-core@1.10.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.datamodel/odata-core@1.11.1
+- pkg:maven/com.sap.cloud.s4hana.datamodel/odata-core@1.11.1?classifier=sources
