@@ -4,3 +4,5 @@
 - pkg:maven/at.researchstudio.sat/won-node-webapp@0.3?classifier=sources
 - pkg:maven/at.researchstudio.sat/won-node-webapp@0.4?type=war
 - pkg:maven/at.researchstudio.sat/won-node-webapp@0.4?classifier=sources
+- pkg:maven/at.researchstudio.sat/won-node-webapp@0.5?type=war
+- pkg:maven/at.researchstudio.sat/won-node-webapp@0.5?classifier=sources

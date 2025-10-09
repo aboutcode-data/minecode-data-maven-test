@@ -152,3 +152,5 @@
 - pkg:maven/org.xutils/xutils@3.6.20?classifier=sources
 - pkg:maven/org.xutils/xutils@3.6.19?type=aar
 - pkg:maven/org.xutils/xutils@3.6.19?classifier=sources
+- pkg:maven/org.xutils/xutils@3.8.2?type=aar
+- pkg:maven/org.xutils/xutils@3.8.2?classifier=sources

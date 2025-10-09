@@ -1,2 +1,4 @@
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-core@0.8.1
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-core@0.8.1?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-core@0.8.2
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-core@0.8.2?classifier=sources
