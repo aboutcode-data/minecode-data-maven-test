@@ -88,3 +88,5 @@
 - pkg:maven/org.webjars.npm/typescript@2.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@2.8.0-rc
 - pkg:maven/org.webjars.npm/typescript@2.8.0-rc?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@2.9.0-insiders.20180510
+- pkg:maven/org.webjars.npm/typescript@2.9.0-insiders.20180510?classifier=sources
