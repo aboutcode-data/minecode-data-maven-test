@@ -1,2 +1,4 @@
 - pkg:maven/net.rakugakibox.springbootext/spring-boot-ext-logback-access@1.0
 - pkg:maven/net.rakugakibox.springbootext/spring-boot-ext-logback-access@1.0?classifier=sources
+- pkg:maven/net.rakugakibox.springbootext/spring-boot-ext-logback-access@1.1
+- pkg:maven/net.rakugakibox.springbootext/spring-boot-ext-logback-access@1.1?classifier=sources
