@@ -70,3 +70,5 @@
 - pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@7.0.0?classifier=sources
 - pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@7.1.0
 - pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@6.19.6
+- pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@6.19.6?classifier=sources

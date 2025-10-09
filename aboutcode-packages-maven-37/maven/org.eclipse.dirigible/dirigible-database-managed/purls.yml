@@ -50,3 +50,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-database-managed@3.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-database-managed@3.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-database-managed@3.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-managed@3.5.1
+- pkg:maven/org.eclipse.dirigible/dirigible-database-managed@3.5.1?classifier=sources
