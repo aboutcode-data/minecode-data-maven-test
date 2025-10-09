@@ -71,3 +71,4 @@
 - pkg:maven/org.kie/kie-karaf-features@7.20.0.Final
 - pkg:maven/org.kie/kie-karaf-features@7.20.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-features@7.21.0.Final
+- pkg:maven/org.kie/kie-karaf-features@7.21.0.Final?classifier=sources
