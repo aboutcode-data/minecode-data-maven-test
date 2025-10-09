@@ -312,3 +312,9 @@
 - pkg:maven/com.yahoo.vespa/vsm@7.23.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/vsm@7.22.18
 - pkg:maven/com.yahoo.vespa/vsm@7.22.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@7.26.19
+- pkg:maven/com.yahoo.vespa/vsm@7.26.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@7.25.26
+- pkg:maven/com.yahoo.vespa/vsm@7.25.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@7.24.27
+- pkg:maven/com.yahoo.vespa/vsm@7.24.27?classifier=sources

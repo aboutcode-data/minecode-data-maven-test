@@ -32,3 +32,7 @@
 - pkg:maven/fr.jetoile.hadoop/parquet-spark@2.10?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/parquet-spark@3.2
 - pkg:maven/fr.jetoile.hadoop/parquet-spark@3.2?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/parquet-spark@3.4
+- pkg:maven/fr.jetoile.hadoop/parquet-spark@3.4?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/parquet-spark@3.3
+- pkg:maven/fr.jetoile.hadoop/parquet-spark@3.3?classifier=sources

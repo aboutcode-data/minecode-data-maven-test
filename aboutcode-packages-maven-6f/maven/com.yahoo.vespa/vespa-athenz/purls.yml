@@ -109,3 +109,6 @@
 - pkg:maven/com.yahoo.vespa/vespa-athenz@7.21.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-athenz@7.23.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-athenz@7.22.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-athenz@7.26.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-athenz@7.25.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-athenz@7.24.27?classifier=sources

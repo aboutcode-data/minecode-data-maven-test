@@ -4,3 +4,5 @@
 - pkg:maven/de.digitalcollections.model/dc-model-jackson@2.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model-jackson@2.2.0
 - pkg:maven/de.digitalcollections.model/dc-model-jackson@2.2.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model-jackson@3.0.0
+- pkg:maven/de.digitalcollections.model/dc-model-jackson@3.0.0?classifier=sources
