@@ -91,3 +91,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.api@1.0.10
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.api@1.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.api@1.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.api@2.0.15
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.api@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.api@2.0.15?classifier=sources-commercial

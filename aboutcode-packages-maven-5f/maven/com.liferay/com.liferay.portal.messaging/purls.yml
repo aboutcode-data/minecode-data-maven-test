@@ -140,3 +140,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.19
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.15
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.15?classifier=sources-commercial

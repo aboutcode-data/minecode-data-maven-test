@@ -219,3 +219,6 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.service@3.0.23
 - pkg:maven/com.liferay/com.liferay.marketplace.service@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.21
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.21?classifier=sources-commercial

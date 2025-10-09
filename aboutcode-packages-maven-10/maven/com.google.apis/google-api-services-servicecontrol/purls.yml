@@ -986,3 +986,7 @@
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev140-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev140-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev140-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev142-1.25.0
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev142-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev142-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev142-1.18.0-rc?classifier=sources

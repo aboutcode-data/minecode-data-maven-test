@@ -50,3 +50,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.taglib@1.0.12
 - pkg:maven/com.liferay/com.liferay.journal.taglib@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.taglib@1.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.taglib@2.0.4
+- pkg:maven/com.liferay/com.liferay.journal.taglib@2.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.taglib@2.0.4?classifier=sources-commercial

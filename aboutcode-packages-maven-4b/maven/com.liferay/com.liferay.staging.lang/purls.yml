@@ -161,3 +161,6 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@2.0.24
 - pkg:maven/com.liferay/com.liferay.staging.lang@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.24
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.24?classifier=sources-commercial

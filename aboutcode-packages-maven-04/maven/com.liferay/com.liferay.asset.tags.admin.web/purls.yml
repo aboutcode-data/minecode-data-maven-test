@@ -119,3 +119,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.22
 - pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@2.0.15
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@2.0.15?classifier=sources-commercial

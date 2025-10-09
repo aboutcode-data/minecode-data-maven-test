@@ -103,3 +103,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.web@1.0.29
 - pkg:maven/com.liferay/com.liferay.portal.workflow.web@1.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.web@1.0.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.web@1.0.31
+- pkg:maven/com.liferay/com.liferay.portal.workflow.web@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.web@1.0.31?classifier=sources-commercial

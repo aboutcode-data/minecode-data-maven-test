@@ -61,3 +61,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.css.rtl.servlet@1.0.14
 - pkg:maven/com.liferay/com.liferay.frontend.css.rtl.servlet@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.css.rtl.servlet@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.css.rtl.servlet@2.0.7
+- pkg:maven/com.liferay/com.liferay.frontend.css.rtl.servlet@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.css.rtl.servlet@2.0.7?classifier=sources-commercial

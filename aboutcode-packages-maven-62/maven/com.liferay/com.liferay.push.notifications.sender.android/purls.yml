@@ -75,3 +75,6 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.android@1.0.15
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.android@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.android@1.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.android@2.0.6
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.android@2.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.android@2.0.6?classifier=sources-commercial

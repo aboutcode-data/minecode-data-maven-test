@@ -101,3 +101,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.service@1.0.22
 - pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.service@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.service@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.service@2.0.10
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.service@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.service@2.0.10?classifier=sources-commercial

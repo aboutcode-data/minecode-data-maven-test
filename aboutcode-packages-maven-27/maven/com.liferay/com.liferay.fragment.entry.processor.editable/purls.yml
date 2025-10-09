@@ -73,3 +73,6 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.editable@2.0.14
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.editable@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.editable@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.editable@1.0.9
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.editable@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.editable@1.0.9?classifier=sources-commercial

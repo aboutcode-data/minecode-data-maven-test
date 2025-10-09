@@ -115,3 +115,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.19
 - pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@3.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@4.0.9
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.navigation.web@4.0.9?classifier=sources-commercial

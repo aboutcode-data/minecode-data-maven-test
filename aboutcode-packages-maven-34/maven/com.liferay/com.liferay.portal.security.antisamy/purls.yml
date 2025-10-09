@@ -116,3 +116,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.antisamy@2.0.27
 - pkg:maven/com.liferay/com.liferay.portal.security.antisamy@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.antisamy@2.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.antisamy@3.0.10
+- pkg:maven/com.liferay/com.liferay.portal.security.antisamy@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.antisamy@3.0.10?classifier=sources-commercial

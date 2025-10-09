@@ -226,3 +226,5 @@
 - pkg:maven/com.swisscom.cloud.sb/broker@6.6.16
 - pkg:maven/com.swisscom.cloud.sb/broker@6.6.16?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/broker@6.6.17
+- pkg:maven/com.swisscom.cloud.sb/broker@6.6.19
+- pkg:maven/com.swisscom.cloud.sb/broker@6.6.19?classifier=sources

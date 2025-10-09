@@ -98,3 +98,6 @@
 - pkg:maven/com.liferay/com.liferay.staging.security@2.0.31
 - pkg:maven/com.liferay/com.liferay.staging.security@2.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.security@2.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.security@3.0.7
+- pkg:maven/com.liferay/com.liferay.staging.security@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.security@3.0.7?classifier=sources-commercial

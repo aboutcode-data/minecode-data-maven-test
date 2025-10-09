@@ -64,3 +64,5 @@
 - pkg:maven/com.squareup.okhttp3/mockwebserver@3.14.2?classifier=sources
 - pkg:maven/com.squareup.okhttp3/mockwebserver@4.0.0-alpha02
 - pkg:maven/com.squareup.okhttp3/mockwebserver@4.0.0-alpha02?classifier=sources
+- pkg:maven/com.squareup.okhttp3/mockwebserver@4.0.0-RC1
+- pkg:maven/com.squareup.okhttp3/mockwebserver@4.0.0-RC1?classifier=sources

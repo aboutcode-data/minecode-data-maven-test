@@ -56,3 +56,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.soy@1.0.15
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.soy@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.soy@1.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.soy@2.1.4
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.soy@2.1.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.soy@2.1.4?classifier=sources-commercial

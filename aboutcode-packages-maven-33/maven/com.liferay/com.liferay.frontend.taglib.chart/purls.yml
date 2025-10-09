@@ -61,3 +61,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@2.0.3
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@1.0.16
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@1.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@1.0.16?classifier=sources-commercial

@@ -2750,3 +2750,9 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.339
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.339?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.339?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.347
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.347?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.347?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.346
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.346?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@5.5.346?classifier=sources-commercial

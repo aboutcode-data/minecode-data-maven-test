@@ -169,3 +169,6 @@
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.39
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@1.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.18?classifier=sources-commercial

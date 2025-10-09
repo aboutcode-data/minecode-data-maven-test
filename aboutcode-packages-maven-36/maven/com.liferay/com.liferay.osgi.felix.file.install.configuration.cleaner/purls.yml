@@ -38,3 +38,6 @@
 - pkg:maven/com.liferay/com.liferay.osgi.felix.file.install.configuration.cleaner@1.0.7
 - pkg:maven/com.liferay/com.liferay.osgi.felix.file.install.configuration.cleaner@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.felix.file.install.configuration.cleaner@1.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.osgi.felix.file.install.configuration.cleaner@2.0.3
+- pkg:maven/com.liferay/com.liferay.osgi.felix.file.install.configuration.cleaner@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.felix.file.install.configuration.cleaner@2.0.3?classifier=sources-commercial

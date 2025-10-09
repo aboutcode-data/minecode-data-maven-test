@@ -132,3 +132,6 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.35
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.10
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.10?classifier=sources-commercial

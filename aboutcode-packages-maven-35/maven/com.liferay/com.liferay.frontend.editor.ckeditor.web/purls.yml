@@ -267,3 +267,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.editor.ckeditor.web@1.0.70
 - pkg:maven/com.liferay/com.liferay.frontend.editor.ckeditor.web@1.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.editor.ckeditor.web@1.0.70?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.editor.ckeditor.web@2.0.27
+- pkg:maven/com.liferay/com.liferay.frontend.editor.ckeditor.web@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.editor.ckeditor.web@2.0.27?classifier=sources-commercial

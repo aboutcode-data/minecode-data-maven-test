@@ -640,3 +640,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@3.30.10
 - pkg:maven/com.liferay/com.liferay.journal.service@3.30.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@3.30.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.71
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.71?classifier=sources-commercial
