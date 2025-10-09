@@ -1,2 +1,4 @@
 - pkg:maven/eu.timepit/refined-scalacheck_2.13@0.9.8
 - pkg:maven/eu.timepit/refined-scalacheck_2.13@0.9.8?classifier=sources
+- pkg:maven/eu.timepit/refined-scalacheck_2.13@0.9.9
+- pkg:maven/eu.timepit/refined-scalacheck_2.13@0.9.9?classifier=sources

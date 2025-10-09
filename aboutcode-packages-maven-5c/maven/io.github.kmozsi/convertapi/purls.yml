@@ -16,3 +16,7 @@
 - pkg:maven/io.github.kmozsi/convertapi@1.11?classifier=sources
 - pkg:maven/io.github.kmozsi/convertapi@1.10
 - pkg:maven/io.github.kmozsi/convertapi@1.10?classifier=sources
+- pkg:maven/io.github.kmozsi/convertapi@24.0
+- pkg:maven/io.github.kmozsi/convertapi@24.0?classifier=sources
+- pkg:maven/io.github.kmozsi/convertapi@20.113
+- pkg:maven/io.github.kmozsi/convertapi@20.113?classifier=sources

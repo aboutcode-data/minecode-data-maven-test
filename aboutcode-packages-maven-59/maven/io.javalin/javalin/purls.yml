@@ -106,3 +106,5 @@
 - pkg:maven/io.javalin/javalin@3.1.0?classifier=sources
 - pkg:maven/io.javalin/javalin@3.2.0
 - pkg:maven/io.javalin/javalin@3.2.0?classifier=sources
+- pkg:maven/io.javalin/javalin@3.3.0
+- pkg:maven/io.javalin/javalin@3.3.0?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/de.alpharogroup/crypt-data@7?classifier=sources
 - pkg:maven/de.alpharogroup/crypt-data@6
 - pkg:maven/de.alpharogroup/crypt-data@6?classifier=sources
+- pkg:maven/de.alpharogroup/crypt-data@7.1
+- pkg:maven/de.alpharogroup/crypt-data@7.1?classifier=sources

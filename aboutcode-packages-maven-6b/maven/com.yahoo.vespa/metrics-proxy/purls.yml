@@ -18,3 +18,5 @@
 - pkg:maven/com.yahoo.vespa/metrics-proxy@7.73.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@7.79.5?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@7.75.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@7.81.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@7.80.70?classifier=sources
