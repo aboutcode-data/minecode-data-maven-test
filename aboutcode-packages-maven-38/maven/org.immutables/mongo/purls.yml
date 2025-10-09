@@ -70,3 +70,7 @@
 - pkg:maven/org.immutables/mongo@2.1.11?classifier=sources
 - pkg:maven/org.immutables/mongo@2.1.12
 - pkg:maven/org.immutables/mongo@2.1.12?classifier=sources
+- pkg:maven/org.immutables/mongo@2.1.14
+- pkg:maven/org.immutables/mongo@2.1.14?classifier=sources
+- pkg:maven/org.immutables/mongo@2.1.13
+- pkg:maven/org.immutables/mongo@2.1.13?classifier=sources

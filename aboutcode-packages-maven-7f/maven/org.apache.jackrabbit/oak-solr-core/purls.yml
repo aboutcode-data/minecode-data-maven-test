@@ -156,3 +156,7 @@
 - pkg:maven/org.apache.jackrabbit/oak-solr-core@1.2.11?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-core@1.0.28
 - pkg:maven/org.apache.jackrabbit/oak-solr-core@1.0.28?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-core@1.4.0
+- pkg:maven/org.apache.jackrabbit/oak-solr-core@1.4.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-core@1.2.12
+- pkg:maven/org.apache.jackrabbit/oak-solr-core@1.2.12?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha9?classifier=sources
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha10?type=war
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha10?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha11?type=war
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha11?classifier=sources
