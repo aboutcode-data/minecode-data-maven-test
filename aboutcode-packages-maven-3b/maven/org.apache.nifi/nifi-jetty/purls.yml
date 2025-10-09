@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.nifi/nifi-jetty@0.6.1?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-jetty@0.7.0
 - pkg:maven/org.apache.nifi/nifi-jetty@0.7.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-jetty@1.0.0-BETA
+- pkg:maven/org.apache.nifi/nifi-jetty@1.0.0-BETA?classifier=sources

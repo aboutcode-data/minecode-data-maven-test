@@ -94,3 +94,5 @@
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.core@4.0.5?classifier=sources
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.core@3.0.7
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.core@3.0.7?classifier=sources
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.core@3.0.8
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.core@3.0.8?classifier=sources
