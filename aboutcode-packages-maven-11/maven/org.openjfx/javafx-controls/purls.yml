@@ -64,3 +64,5 @@
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B9?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B10
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B10?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@12.0.2
+- pkg:maven/org.openjfx/javafx-controls@12.0.2?classifier=sources

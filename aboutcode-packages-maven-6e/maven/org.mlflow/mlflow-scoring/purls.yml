@@ -13,3 +13,5 @@
 - pkg:maven/org.mlflow/mlflow-scoring@0.9.1?classifier=sources
 - pkg:maven/org.mlflow/mlflow-scoring@1.0.0
 - pkg:maven/org.mlflow/mlflow-scoring@1.0.0?classifier=sources
+- pkg:maven/org.mlflow/mlflow-scoring@1.1.0
+- pkg:maven/org.mlflow/mlflow-scoring@1.1.0?classifier=sources

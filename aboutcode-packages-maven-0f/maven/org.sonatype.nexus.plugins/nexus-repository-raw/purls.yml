@@ -74,3 +74,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-raw@3.16.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-raw@3.17.0-01
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-raw@3.17.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-raw@3.18.0-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-raw@3.18.0-01?classifier=sources
