@@ -134,3 +134,7 @@
 - pkg:maven/org.hnau/emitter@1.6.5?classifier=sources
 - pkg:maven/org.hnau/emitter@1.6.8
 - pkg:maven/org.hnau/emitter@1.6.8?classifier=sources
+- pkg:maven/org.hnau/emitter@1.7.0
+- pkg:maven/org.hnau/emitter@1.7.0?classifier=sources
+- pkg:maven/org.hnau/emitter@1.6.9
+- pkg:maven/org.hnau/emitter@1.6.9?classifier=sources
