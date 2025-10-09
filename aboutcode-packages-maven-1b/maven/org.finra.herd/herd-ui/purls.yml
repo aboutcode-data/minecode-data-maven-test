@@ -64,3 +64,5 @@
 - pkg:maven/org.finra.herd/herd-ui@0.58.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-ui@0.59.0
 - pkg:maven/org.finra.herd/herd-ui@0.59.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-ui@0.60.0
+- pkg:maven/org.finra.herd/herd-ui@0.60.0?classifier=sources

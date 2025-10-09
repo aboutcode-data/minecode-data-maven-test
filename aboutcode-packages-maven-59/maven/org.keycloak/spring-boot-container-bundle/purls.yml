@@ -24,3 +24,5 @@
 - pkg:maven/org.keycloak/spring-boot-container-bundle@3.4.1.Final?classifier=sources
 - pkg:maven/org.keycloak/spring-boot-container-bundle@3.4.2.Final
 - pkg:maven/org.keycloak/spring-boot-container-bundle@3.4.2.Final?classifier=sources
+- pkg:maven/org.keycloak/spring-boot-container-bundle@3.4.3.Final
+- pkg:maven/org.keycloak/spring-boot-container-bundle@3.4.3.Final?classifier=sources
