@@ -12,3 +12,5 @@
 - pkg:maven/org.springframework.security/spring-security-oauth2-resource-server@5.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-resource-server@5.1.6.RELEASE
 - pkg:maven/org.springframework.security/spring-security-oauth2-resource-server@5.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-oauth2-resource-server@5.2.0.RELEASE
+- pkg:maven/org.springframework.security/spring-security-oauth2-resource-server@5.2.0.RELEASE?classifier=sources

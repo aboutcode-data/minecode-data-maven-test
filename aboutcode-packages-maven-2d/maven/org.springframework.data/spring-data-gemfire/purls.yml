@@ -182,3 +182,7 @@
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.1.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.23.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.23.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.2.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.11.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.11.RELEASE?classifier=sources

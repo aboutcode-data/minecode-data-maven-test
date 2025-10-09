@@ -120,3 +120,7 @@
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.01.14-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.01.13-RPM
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.01.13-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.03.00-RPM
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.03.00-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.02.00-RPM
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.02.00-RPM?classifier=sources

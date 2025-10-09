@@ -27,3 +27,5 @@
 - pkg:maven/org.springframework.session/spring-session-data-mongodb@2.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-data-mongodb@2.0.8.RELEASE
 - pkg:maven/org.springframework.session/spring-session-data-mongodb@2.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-mongodb@2.2.0.RELEASE
+- pkg:maven/org.springframework.session/spring-session-data-mongodb@2.2.0.RELEASE?classifier=sources
