@@ -2,3 +2,5 @@
 - pkg:maven/com.eneco/kafka-connect-ftp@unspecified?classifier=sources
 - pkg:maven/com.eneco/kafka-connect-ftp@0.1.2
 - pkg:maven/com.eneco/kafka-connect-ftp@0.1.2?classifier=sources
+- pkg:maven/com.eneco/kafka-connect-ftp@0.1.4
+- pkg:maven/com.eneco/kafka-connect-ftp@0.1.4?classifier=sources
