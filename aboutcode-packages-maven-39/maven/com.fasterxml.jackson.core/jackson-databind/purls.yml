@@ -242,3 +242,5 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.9.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.0.pr2
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.0.pr2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.0.pr3
+- pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.0.pr3?classifier=sources
