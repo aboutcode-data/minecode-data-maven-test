@@ -77,3 +77,6 @@
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.web@1.0.24
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.web@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.web@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.user.groups.admin.web@2.0.11
+- pkg:maven/com.liferay/com.liferay.user.groups.admin.web@2.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.user.groups.admin.web@2.0.11?classifier=sources-commercial

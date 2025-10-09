@@ -167,3 +167,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.10
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.11
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.11?classifier=sources-commercial

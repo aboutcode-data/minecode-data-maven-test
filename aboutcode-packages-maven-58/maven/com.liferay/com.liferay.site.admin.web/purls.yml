@@ -143,3 +143,6 @@
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.49
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.49?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.49?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.13
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.13?classifier=sources-commercial

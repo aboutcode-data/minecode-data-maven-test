@@ -421,3 +421,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.238?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.239?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.239?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.241?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.241?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.240?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.240?classifier=sources-commercial

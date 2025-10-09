@@ -56,3 +56,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.portlet.tracker@2.0.16
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.portlet.tracker@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.portlet.tracker@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.portlet.tracker@3.0.7
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.portlet.tracker@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.portlet.tracker@3.0.7?classifier=sources-commercial
