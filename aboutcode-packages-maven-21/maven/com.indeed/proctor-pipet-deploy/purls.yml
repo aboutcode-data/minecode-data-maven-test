@@ -60,3 +60,7 @@
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.6.1?classifier=sources
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.6.2?type=war
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.6.2?classifier=sources
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.6.4?type=war
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.6.4?classifier=sources
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.6.3?type=war
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.6.3?classifier=sources

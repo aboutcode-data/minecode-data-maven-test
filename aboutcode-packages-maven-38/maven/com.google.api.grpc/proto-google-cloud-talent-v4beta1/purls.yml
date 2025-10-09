@@ -44,3 +44,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.22.0-beta?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.23.0-beta
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.23.0-beta?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.24.0-beta
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.24.0-beta?classifier=sources
