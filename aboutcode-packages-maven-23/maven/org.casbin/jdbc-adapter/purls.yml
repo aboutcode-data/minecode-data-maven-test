@@ -5,3 +5,5 @@
 - pkg:maven/org.casbin/jdbc-adapter@1.1.2?classifier=sources
 - pkg:maven/org.casbin/jdbc-adapter@1.1.2-FIX
 - pkg:maven/org.casbin/jdbc-adapter@1.1.2-FIX?classifier=sources
+- pkg:maven/org.casbin/jdbc-adapter@1.1.3
+- pkg:maven/org.casbin/jdbc-adapter@1.1.3?classifier=sources

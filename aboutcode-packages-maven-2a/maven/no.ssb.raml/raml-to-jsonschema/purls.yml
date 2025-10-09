@@ -1,0 +1,4 @@
+- pkg:maven/no.ssb.raml/raml-to-jsonschema@0.11
+- pkg:maven/no.ssb.raml/raml-to-jsonschema@0.11?classifier=sources
+- pkg:maven/no.ssb.raml/raml-to-jsonschema@0.10
+- pkg:maven/no.ssb.raml/raml-to-jsonschema@0.10?classifier=sources

@@ -186,3 +186,5 @@
 - pkg:maven/org.apache.wicket/wicket-util@7.11.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@6.30.0
 - pkg:maven/org.apache.wicket/wicket-util@6.30.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@8.3.0
+- pkg:maven/org.apache.wicket/wicket-util@8.3.0?classifier=sources

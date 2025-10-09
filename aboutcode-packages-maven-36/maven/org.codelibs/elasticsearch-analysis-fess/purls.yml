@@ -48,3 +48,7 @@
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.4.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.5.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.6.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.6.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.5.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@6.5.1?classifier=sources
