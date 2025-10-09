@@ -1,2 +1,3 @@
 - pkg:maven/io.prestosql/presto-redis@300?classifier=sources
 - pkg:maven/io.prestosql/presto-redis@301?classifier=sources
+- pkg:maven/io.prestosql/presto-redis@302?classifier=sources

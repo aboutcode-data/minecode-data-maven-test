@@ -1,2 +1,3 @@
 - pkg:maven/io.prestosql/presto-local-file@300?classifier=sources
 - pkg:maven/io.prestosql/presto-local-file@301?classifier=sources
+- pkg:maven/io.prestosql/presto-local-file@302?classifier=sources

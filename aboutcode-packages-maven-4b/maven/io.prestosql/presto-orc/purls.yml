@@ -2,3 +2,5 @@
 - pkg:maven/io.prestosql/presto-orc@300?classifier=sources
 - pkg:maven/io.prestosql/presto-orc@301
 - pkg:maven/io.prestosql/presto-orc@301?classifier=sources
+- pkg:maven/io.prestosql/presto-orc@302
+- pkg:maven/io.prestosql/presto-orc@302?classifier=sources
