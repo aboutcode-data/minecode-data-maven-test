@@ -24,3 +24,5 @@
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m39?classifier=sources
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m38?type=zip
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m38?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m40?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m40?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/cloud.orbit/orbit-runtime@1.9.3?classifier=sources
 - pkg:maven/cloud.orbit/orbit-runtime@1.10.0
 - pkg:maven/cloud.orbit/orbit-runtime@1.10.0?classifier=sources
+- pkg:maven/cloud.orbit/orbit-runtime@1.10.1
+- pkg:maven/cloud.orbit/orbit-runtime@1.10.1?classifier=sources
