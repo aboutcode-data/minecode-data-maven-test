@@ -31,3 +31,9 @@
 - pkg:maven/io.openshift/booster-catalog-service@11
 - pkg:maven/io.openshift/booster-catalog-service@11?classifier=sources
 - pkg:maven/io.openshift/booster-catalog-service@11?classifier=source-release&type=zip
+- pkg:maven/io.openshift/booster-catalog-service@13
+- pkg:maven/io.openshift/booster-catalog-service@13?classifier=sources
+- pkg:maven/io.openshift/booster-catalog-service@13?classifier=source-release&type=zip
+- pkg:maven/io.openshift/booster-catalog-service@12
+- pkg:maven/io.openshift/booster-catalog-service@12?classifier=sources
+- pkg:maven/io.openshift/booster-catalog-service@12?classifier=source-release&type=zip

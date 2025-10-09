@@ -43,3 +43,5 @@
 - pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.3.0-RC2?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.3.0-RC3?type=war
 - pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.3.0-RC3?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.3.0-RC4?type=war
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.3.0-RC4?classifier=sources

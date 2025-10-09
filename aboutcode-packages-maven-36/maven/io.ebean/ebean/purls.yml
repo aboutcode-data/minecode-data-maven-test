@@ -36,3 +36,7 @@
 - pkg:maven/io.ebean/ebean@10.4.6?classifier=sources
 - pkg:maven/io.ebean/ebean@10.4.5
 - pkg:maven/io.ebean/ebean@10.4.5?classifier=sources
+- pkg:maven/io.ebean/ebean@11.2.1
+- pkg:maven/io.ebean/ebean@11.2.1?classifier=sources
+- pkg:maven/io.ebean/ebean@11.1.1
+- pkg:maven/io.ebean/ebean@11.1.1?classifier=sources

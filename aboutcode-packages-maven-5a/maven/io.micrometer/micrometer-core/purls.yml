@@ -18,3 +18,5 @@
 - pkg:maven/io.micrometer/micrometer-core@0.12.0.RELEASE?classifier=sources
 - pkg:maven/io.micrometer/micrometer-core@0.11.0.RELEASE
 - pkg:maven/io.micrometer/micrometer-core@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.micrometer/micrometer-core@1.0.0-rc.2
+- pkg:maven/io.micrometer/micrometer-core@1.0.0-rc.2?classifier=sources
