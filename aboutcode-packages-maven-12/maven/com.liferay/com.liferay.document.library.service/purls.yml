@@ -336,3 +336,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.21
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@2.0.31
+- pkg:maven/com.liferay/com.liferay.document.library.service@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@2.0.31?classifier=sources-commercial
