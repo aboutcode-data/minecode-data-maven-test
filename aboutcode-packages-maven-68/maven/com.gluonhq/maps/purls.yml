@@ -3,3 +3,5 @@
 - pkg:maven/com.gluonhq/maps@1.0.2?classifier=sources
 - pkg:maven/com.gluonhq/maps@1.0.3
 - pkg:maven/com.gluonhq/maps@1.0.3?classifier=sources
+- pkg:maven/com.gluonhq/maps@2.0.0-ea%2B1
+- pkg:maven/com.gluonhq/maps@2.0.0-ea%2B1?classifier=sources

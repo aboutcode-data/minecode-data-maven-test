@@ -1,0 +1,4 @@
+- pkg:maven/com.breuninger.boot/example-admin@3.0.4.RELEASE
+- pkg:maven/com.breuninger.boot/example-admin@3.0.4.RELEASE?classifier=sources
+- pkg:maven/com.breuninger.boot/example-admin@3.0.3.RELEASE
+- pkg:maven/com.breuninger.boot/example-admin@3.0.3.RELEASE?classifier=sources

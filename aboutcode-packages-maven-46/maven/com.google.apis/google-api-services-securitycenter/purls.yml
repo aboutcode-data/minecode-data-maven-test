@@ -456,3 +456,15 @@
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev27-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev27-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev27-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.25.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev30-1.25.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev30-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev30-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev30-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev30-1.25.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev30-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev30-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev30-1.18.0-rc?classifier=sources

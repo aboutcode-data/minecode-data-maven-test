@@ -1932,3 +1932,7 @@
 - pkg:maven/com.google.apis/google-api-services-classroom@v1-rev301-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-classroom@v1-rev301-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-classroom@v1-rev301-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-classroom@v1-rev302-1.25.0
+- pkg:maven/com.google.apis/google-api-services-classroom@v1-rev302-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-classroom@v1-rev302-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-classroom@v1-rev302-1.18.0-rc?classifier=sources

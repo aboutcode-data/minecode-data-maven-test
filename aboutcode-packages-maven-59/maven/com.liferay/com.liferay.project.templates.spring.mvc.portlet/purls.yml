@@ -102,3 +102,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.spring.mvc.portlet@1.0.32
 - pkg:maven/com.liferay/com.liferay.project.templates.spring.mvc.portlet@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.spring.mvc.portlet@1.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.spring.mvc.portlet@1.0.35
+- pkg:maven/com.liferay/com.liferay.project.templates.spring.mvc.portlet@1.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.spring.mvc.portlet@1.0.35?classifier=sources-commercial
