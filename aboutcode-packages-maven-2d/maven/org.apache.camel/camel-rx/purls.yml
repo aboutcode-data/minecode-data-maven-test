@@ -154,3 +154,5 @@
 - pkg:maven/org.apache.camel/camel-rx@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-rx@2.24.2
 - pkg:maven/org.apache.camel/camel-rx@2.24.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-rx@2.23.4
+- pkg:maven/org.apache.camel/camel-rx@2.23.4?classifier=sources
