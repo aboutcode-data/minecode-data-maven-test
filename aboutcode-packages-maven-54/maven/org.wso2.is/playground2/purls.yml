@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha7?type=war
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha7?classifier=sources
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha6?type=war
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha6?classifier=sources
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha5?type=war
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha5?classifier=sources
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha4?type=war
+- pkg:maven/org.wso2.is/playground2@5.4.0-alpha4?classifier=sources

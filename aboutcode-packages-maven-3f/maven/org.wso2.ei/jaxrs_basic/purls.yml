@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update8?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update8?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update6?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update6?classifier=sources
