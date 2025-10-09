@@ -58,3 +58,5 @@
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.9.0-for-import?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.2
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.2?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.3
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.3?classifier=sources

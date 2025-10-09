@@ -11,3 +11,4 @@
 - pkg:maven/com.github.mictaege/spoon-gradle-plugin@1.4
 - pkg:maven/com.github.mictaege/spoon-gradle-plugin@1.4?classifier=sources
 - pkg:maven/com.github.mictaege/spoon-gradle-plugin@1.6
+- pkg:maven/com.github.mictaege/spoon-gradle-plugin@1.6?classifier=sources
