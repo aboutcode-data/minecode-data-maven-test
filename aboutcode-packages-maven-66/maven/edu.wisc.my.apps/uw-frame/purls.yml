@@ -64,3 +64,5 @@
 - pkg:maven/edu.wisc.my.apps/uw-frame@3.0.2?classifier=sources
 - pkg:maven/edu.wisc.my.apps/uw-frame@3.1.0?type=war
 - pkg:maven/edu.wisc.my.apps/uw-frame@3.1.0?classifier=sources
+- pkg:maven/edu.wisc.my.apps/uw-frame@3.1.1?type=war
+- pkg:maven/edu.wisc.my.apps/uw-frame@3.1.1?classifier=sources
