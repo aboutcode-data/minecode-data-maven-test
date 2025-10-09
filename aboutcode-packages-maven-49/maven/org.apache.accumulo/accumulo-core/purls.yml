@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.accumulo/accumulo-core@1.5.4?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-core@1.6.4
 - pkg:maven/org.apache.accumulo/accumulo-core@1.6.4?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-core@1.6.5
+- pkg:maven/org.apache.accumulo/accumulo-core@1.6.5?classifier=sources

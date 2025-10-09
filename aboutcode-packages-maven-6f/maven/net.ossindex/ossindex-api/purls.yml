@@ -16,3 +16,5 @@
 - pkg:maven/net.ossindex/ossindex-api@0.0.9?classifier=sources
 - pkg:maven/net.ossindex/ossindex-api@0.0.10
 - pkg:maven/net.ossindex/ossindex-api@0.0.10?classifier=sources
+- pkg:maven/net.ossindex/ossindex-api@1.0.0
+- pkg:maven/net.ossindex/ossindex-api@1.0.0?classifier=sources
