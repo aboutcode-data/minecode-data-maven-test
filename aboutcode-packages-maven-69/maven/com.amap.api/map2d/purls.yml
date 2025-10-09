@@ -1,2 +1,4 @@
 - pkg:maven/com.amap.api/map2d@2.9.0
 - pkg:maven/com.amap.api/map2d@2.9.0?classifier=sources
+- pkg:maven/com.amap.api/map2d@2.9.1
+- pkg:maven/com.amap.api/map2d@2.9.1?classifier=sources
