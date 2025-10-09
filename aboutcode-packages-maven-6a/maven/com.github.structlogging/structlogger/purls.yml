@@ -1,2 +1,4 @@
 - pkg:maven/com.github.structlogging/structlogger@0.9.0
 - pkg:maven/com.github.structlogging/structlogger@0.9.0?classifier=sources
+- pkg:maven/com.github.structlogging/structlogger@0.10.0
+- pkg:maven/com.github.structlogging/structlogger@0.10.0?classifier=sources
