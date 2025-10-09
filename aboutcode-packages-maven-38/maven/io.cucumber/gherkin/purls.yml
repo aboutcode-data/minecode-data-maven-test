@@ -38,3 +38,5 @@
 - pkg:maven/io.cucumber/gherkin@7.0.4?classifier=sources
 - pkg:maven/io.cucumber/gherkin@5.2.0
 - pkg:maven/io.cucumber/gherkin@5.2.0?classifier=sources
+- pkg:maven/io.cucumber/gherkin@8.0.0
+- pkg:maven/io.cucumber/gherkin@8.0.0?classifier=sources

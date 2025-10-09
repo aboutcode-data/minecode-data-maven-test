@@ -101,3 +101,5 @@
 - pkg:maven/dk.nodes.nstack/nstack-kotlin@3.0.15?classifier=sources
 - pkg:maven/dk.nodes.nstack/nstack-kotlin@3.0.14?type=aar
 - pkg:maven/dk.nodes.nstack/nstack-kotlin@3.0.14?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@3.2.1-beta1?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@3.2.1-beta1?classifier=sources
