@@ -82,3 +82,7 @@
 - pkg:maven/org.mock-server/mockserver-proxy-war@3.10.3?classifier=sources
 - pkg:maven/org.mock-server/mockserver-proxy-war@3.10.4?type=war
 - pkg:maven/org.mock-server/mockserver-proxy-war@3.10.4?classifier=sources
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.10.6?type=war
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.10.6?classifier=sources
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.10.5?type=war
+- pkg:maven/org.mock-server/mockserver-proxy-war@3.10.5?classifier=sources
