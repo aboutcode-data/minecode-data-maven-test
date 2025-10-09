@@ -139,3 +139,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-client@3.6.3.SP1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client@3.6.1.SP5
 - pkg:maven/org.jboss.resteasy/resteasy-client@3.6.1.SP5?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-client@4.0.0.CR3
+- pkg:maven/org.jboss.resteasy/resteasy-client@4.0.0.CR3?classifier=sources

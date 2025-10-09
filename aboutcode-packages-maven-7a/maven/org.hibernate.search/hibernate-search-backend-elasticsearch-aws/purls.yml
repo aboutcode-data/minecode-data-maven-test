@@ -1,2 +1,4 @@
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha4
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha4?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha5
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha5?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/org.http4k/http4k-jsonrpc@3.138.1?classifier=sources
 - pkg:maven/org.http4k/http4k-jsonrpc@3.138.0
 - pkg:maven/org.http4k/http4k-jsonrpc@3.138.0?classifier=sources
+- pkg:maven/org.http4k/http4k-jsonrpc@3.140.0
+- pkg:maven/org.http4k/http4k-jsonrpc@3.140.0?classifier=sources
