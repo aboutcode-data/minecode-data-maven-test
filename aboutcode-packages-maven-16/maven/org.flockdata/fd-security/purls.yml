@@ -1,2 +1,4 @@
 - pkg:maven/org.flockdata/fd-security@0.98.4
 - pkg:maven/org.flockdata/fd-security@0.98.4?classifier=sources
+- pkg:maven/org.flockdata/fd-security@0.98.5
+- pkg:maven/org.flockdata/fd-security@0.98.5?classifier=sources

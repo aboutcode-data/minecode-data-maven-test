@@ -46,3 +46,5 @@
 - pkg:maven/org.infinispan/infinispan-tasks@8.2.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks@8.1.7.Final
 - pkg:maven/org.infinispan/infinispan-tasks@8.1.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tasks@9.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-tasks@9.0.0.CR1?classifier=sources

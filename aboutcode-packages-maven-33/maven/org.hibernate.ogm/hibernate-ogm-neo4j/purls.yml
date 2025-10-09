@@ -56,3 +56,5 @@
 - pkg:maven/org.hibernate.ogm/hibernate-ogm-neo4j@5.1.0.Beta2?classifier=sources
 - pkg:maven/org.hibernate.ogm/hibernate-ogm-neo4j@5.0.4.Final
 - pkg:maven/org.hibernate.ogm/hibernate-ogm-neo4j@5.0.4.Final?classifier=sources
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-neo4j@5.1.0.CR1
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-neo4j@5.1.0.CR1?classifier=sources

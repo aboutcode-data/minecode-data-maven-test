@@ -80,3 +80,7 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.25.1.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.26.0.Final?type=war
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.26.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.28.0.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.28.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.27.0.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@0.27.0.Final?classifier=sources
