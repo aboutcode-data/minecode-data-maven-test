@@ -18,3 +18,5 @@
 - pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-spring@0.9?classifier=sources
 - pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-spring@0.9.1
 - pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-spring@0.9.1?classifier=sources
+- pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-spring@1.0
+- pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-spring@1.0?classifier=sources

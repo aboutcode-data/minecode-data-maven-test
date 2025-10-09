@@ -1,2 +1,4 @@
 - pkg:maven/com.adtran/scala-multiversion-plugin@1.0.24
 - pkg:maven/com.adtran/scala-multiversion-plugin@1.0.24?classifier=sources
+- pkg:maven/com.adtran/scala-multiversion-plugin@1.0.30
+- pkg:maven/com.adtran/scala-multiversion-plugin@1.0.30?classifier=sources
