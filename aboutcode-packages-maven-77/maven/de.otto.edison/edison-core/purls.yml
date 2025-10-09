@@ -228,3 +228,5 @@
 - pkg:maven/de.otto.edison/edison-core@1.2.13?classifier=sources
 - pkg:maven/de.otto.edison/edison-core@1.2.14
 - pkg:maven/de.otto.edison/edison-core@1.2.14?classifier=sources
+- pkg:maven/de.otto.edison/edison-core@2.0.0-m1
+- pkg:maven/de.otto.edison/edison-core@2.0.0-m1?classifier=sources

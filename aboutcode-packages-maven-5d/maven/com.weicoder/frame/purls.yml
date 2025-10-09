@@ -2,3 +2,5 @@
 - pkg:maven/com.weicoder/frame@1.0?classifier=sources
 - pkg:maven/com.weicoder/frame@2.3
 - pkg:maven/com.weicoder/frame@2.3?classifier=sources
+- pkg:maven/com.weicoder/frame@2.3.2.1
+- pkg:maven/com.weicoder/frame@2.3.2.1?classifier=sources

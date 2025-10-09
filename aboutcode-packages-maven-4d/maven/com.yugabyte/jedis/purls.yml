@@ -4,3 +4,5 @@
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-2?classifier=sources
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-4
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-4?classifier=sources
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-5
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-5?classifier=sources
