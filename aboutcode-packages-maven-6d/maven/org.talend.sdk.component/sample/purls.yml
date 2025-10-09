@@ -24,3 +24,5 @@
 - pkg:maven/org.talend.sdk.component/sample@0.0.11?classifier=sources
 - pkg:maven/org.talend.sdk.component/sample@1.0.0
 - pkg:maven/org.talend.sdk.component/sample@1.0.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/sample@1.0.1
+- pkg:maven/org.talend.sdk.component/sample@1.0.1?classifier=sources

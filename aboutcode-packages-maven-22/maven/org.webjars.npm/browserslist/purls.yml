@@ -44,3 +44,5 @@
 - pkg:maven/org.webjars.npm/browserslist@1.3.6?classifier=sources
 - pkg:maven/org.webjars.npm/browserslist@3.2.7
 - pkg:maven/org.webjars.npm/browserslist@3.2.7?classifier=sources
+- pkg:maven/org.webjars.npm/browserslist@4.0.0
+- pkg:maven/org.webjars.npm/browserslist@4.0.0?classifier=sources

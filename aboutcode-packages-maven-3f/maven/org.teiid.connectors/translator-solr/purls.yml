@@ -40,3 +40,9 @@
 - pkg:maven/org.teiid.connectors/translator-solr@10.2.2?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-solr@10.1.4
 - pkg:maven/org.teiid.connectors/translator-solr@10.1.4?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-solr@11.0.0
+- pkg:maven/org.teiid.connectors/translator-solr@11.0.0?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-solr@10.3.2
+- pkg:maven/org.teiid.connectors/translator-solr@10.3.2?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-solr@10.2.3
+- pkg:maven/org.teiid.connectors/translator-solr@10.2.3?classifier=sources

@@ -34,3 +34,8 @@
 - pkg:maven/org.teiid.connectors/connector-salesforce-41@10.2.2?classifier=sources
 - pkg:maven/org.teiid.connectors/connector-salesforce-41@10.1.4
 - pkg:maven/org.teiid.connectors/connector-salesforce-41@10.1.4?classifier=sources
+- pkg:maven/org.teiid.connectors/connector-salesforce-41@11.0.0
+- pkg:maven/org.teiid.connectors/connector-salesforce-41@10.3.2
+- pkg:maven/org.teiid.connectors/connector-salesforce-41@10.3.2?classifier=sources
+- pkg:maven/org.teiid.connectors/connector-salesforce-41@10.2.3
+- pkg:maven/org.teiid.connectors/connector-salesforce-41@10.2.3?classifier=sources
