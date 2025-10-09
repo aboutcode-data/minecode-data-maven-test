@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-plugin@3.1.3?classifier=sources
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-plugin@4.0
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-plugin@4.0?classifier=sources
+- pkg:maven/org.apache.cayenne.plugins/maven-cayenne-plugin@4.0.1
+- pkg:maven/org.apache.cayenne.plugins/maven-cayenne-plugin@4.0.1?classifier=sources
