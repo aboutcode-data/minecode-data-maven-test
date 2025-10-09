@@ -210,3 +210,5 @@
 - pkg:maven/org.apache.hbase/hbase-protocol@2.0.0-alpha4?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-protocol@1.1.13
 - pkg:maven/org.apache.hbase/hbase-protocol@1.1.13?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-protocol@1.4.0
+- pkg:maven/org.apache.hbase/hbase-protocol@1.4.0?classifier=sources

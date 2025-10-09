@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.hbase/hbase-rsgroup@2.0.0-alpha3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rsgroup@2.0.0-alpha4
 - pkg:maven/org.apache.hbase/hbase-rsgroup@2.0.0-alpha4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rsgroup@1.4.0
+- pkg:maven/org.apache.hbase/hbase-rsgroup@1.4.0?classifier=sources

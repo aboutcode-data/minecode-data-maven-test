@@ -202,3 +202,5 @@
 - pkg:maven/org.apache.hbase/hbase-shell@2.0.0-alpha4?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shell@1.1.13
 - pkg:maven/org.apache.hbase/hbase-shell@1.1.13?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-shell@1.4.0
+- pkg:maven/org.apache.hbase/hbase-shell@1.4.0?classifier=sources

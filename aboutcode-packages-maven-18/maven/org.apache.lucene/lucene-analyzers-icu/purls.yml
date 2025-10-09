@@ -112,3 +112,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-icu@6.6.2?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-icu@5.5.5
 - pkg:maven/org.apache.lucene/lucene-analyzers-icu@5.5.5?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-icu@7.2.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-icu@7.2.0?classifier=sources
