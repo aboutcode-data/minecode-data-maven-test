@@ -58,3 +58,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.20
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.20?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.23
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.23?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.23?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.22
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.22?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.admin@4.6.22?classifier=source-release&type=zip
