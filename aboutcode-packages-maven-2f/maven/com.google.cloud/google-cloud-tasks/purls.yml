@@ -74,3 +74,5 @@
 - pkg:maven/com.google.cloud/google-cloud-tasks@0.89.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tasks@0.90.0-beta
 - pkg:maven/com.google.cloud/google-cloud-tasks@0.90.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tasks@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-tasks@1.0.0?classifier=sources

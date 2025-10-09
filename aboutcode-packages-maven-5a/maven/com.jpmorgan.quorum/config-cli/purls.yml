@@ -2,3 +2,5 @@
 - pkg:maven/com.jpmorgan.quorum/config-cli@0.8?classifier=sources
 - pkg:maven/com.jpmorgan.quorum/config-cli@0.9
 - pkg:maven/com.jpmorgan.quorum/config-cli@0.9?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/config-cli@0.9.1
+- pkg:maven/com.jpmorgan.quorum/config-cli@0.9.1?classifier=sources

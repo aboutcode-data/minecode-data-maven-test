@@ -34,3 +34,6 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.3
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.3
+- pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.3?classifier=sources-commercial

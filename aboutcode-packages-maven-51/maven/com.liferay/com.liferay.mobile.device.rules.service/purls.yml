@@ -200,3 +200,6 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@2.0.19
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@2.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@3.0.3
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.service@3.0.3?classifier=sources-commercial
