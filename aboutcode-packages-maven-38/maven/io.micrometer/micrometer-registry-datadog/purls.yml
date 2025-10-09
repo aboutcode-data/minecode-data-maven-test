@@ -52,3 +52,5 @@
 - pkg:maven/io.micrometer/micrometer-registry-datadog@1.1.4?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-datadog@1.0.11
 - pkg:maven/io.micrometer/micrometer-registry-datadog@1.0.11?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-datadog@1.1.5
+- pkg:maven/io.micrometer/micrometer-registry-datadog@1.1.5?classifier=sources
