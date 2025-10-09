@@ -300,3 +300,5 @@
 - pkg:maven/com.spotify/docker-client@8.15.2?classifier=sources
 - pkg:maven/com.spotify/docker-client@8.15.3
 - pkg:maven/com.spotify/docker-client@8.15.3?classifier=sources
+- pkg:maven/com.spotify/docker-client@8.16.0
+- pkg:maven/com.spotify/docker-client@8.16.0?classifier=sources

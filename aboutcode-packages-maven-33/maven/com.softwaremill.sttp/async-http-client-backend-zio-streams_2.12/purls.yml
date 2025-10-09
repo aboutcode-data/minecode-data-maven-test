@@ -1,2 +1,4 @@
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio-streams_2.12@1.5.16
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio-streams_2.12@1.5.16?classifier=sources
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio-streams_2.12@1.5.17
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio-streams_2.12@1.5.17?classifier=sources
