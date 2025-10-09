@@ -48,3 +48,5 @@
 - pkg:maven/org.eclipse.che/ls-camel-agent@7.0.0-beta-3.0?classifier=sources
 - pkg:maven/org.eclipse.che/ls-camel-agent@6.19.3
 - pkg:maven/org.eclipse.che/ls-camel-agent@6.19.3?classifier=sources
+- pkg:maven/org.eclipse.che/ls-camel-agent@7.0.0-beta-4.0
+- pkg:maven/org.eclipse.che/ls-camel-agent@7.0.0-beta-4.0?classifier=sources

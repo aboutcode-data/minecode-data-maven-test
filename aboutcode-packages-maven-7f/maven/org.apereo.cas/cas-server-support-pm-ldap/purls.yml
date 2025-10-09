@@ -74,3 +74,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-pm-ldap@6.0.3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-ldap@5.3.10
 - pkg:maven/org.apereo.cas/cas-server-support-pm-ldap@5.3.10?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-pm-ldap@6.1.0-RC3
+- pkg:maven/org.apereo.cas/cas-server-support-pm-ldap@6.1.0-RC3?classifier=sources

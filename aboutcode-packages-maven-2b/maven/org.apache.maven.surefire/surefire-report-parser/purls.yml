@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.maven.surefire/surefire-report-parser@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-report-parser@3.0.0-M3
 - pkg:maven/org.apache.maven.surefire/surefire-report-parser@3.0.0-M3?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.22.2
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.22.2?classifier=sources

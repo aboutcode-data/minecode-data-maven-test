@@ -150,3 +150,5 @@
 - pkg:maven/org.craftercms/crafter-core@3.0.20?classifier=sources
 - pkg:maven/org.craftercms/crafter-core@3.0.19
 - pkg:maven/org.craftercms/crafter-core@3.0.19?classifier=sources
+- pkg:maven/org.craftercms/crafter-core@3.1.0
+- pkg:maven/org.craftercms/crafter-core@3.1.0?classifier=sources
