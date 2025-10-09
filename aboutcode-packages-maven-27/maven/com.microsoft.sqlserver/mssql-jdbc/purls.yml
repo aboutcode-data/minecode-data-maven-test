@@ -2,3 +2,7 @@
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre8?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre7
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre7?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.2.jre8-preview
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.2.jre8-preview?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.2.jre7-preview
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.2.jre7-preview?classifier=sources

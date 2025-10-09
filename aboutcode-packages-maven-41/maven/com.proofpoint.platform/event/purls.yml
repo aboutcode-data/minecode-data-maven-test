@@ -148,3 +148,5 @@
 - pkg:maven/com.proofpoint.platform/event@1.49?classifier=sources
 - pkg:maven/com.proofpoint.platform/event@1.48
 - pkg:maven/com.proofpoint.platform/event@1.48?classifier=sources
+- pkg:maven/com.proofpoint.platform/event@1.50
+- pkg:maven/com.proofpoint.platform/event@1.50?classifier=sources
