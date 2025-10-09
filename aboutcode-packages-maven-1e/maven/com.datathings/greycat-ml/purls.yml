@@ -22,3 +22,5 @@
 - pkg:maven/com.datathings/greycat-ml@8.4?classifier=sources
 - pkg:maven/com.datathings/greycat-ml@8.3
 - pkg:maven/com.datathings/greycat-ml@8.3?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@9
+- pkg:maven/com.datathings/greycat-ml@9?classifier=sources

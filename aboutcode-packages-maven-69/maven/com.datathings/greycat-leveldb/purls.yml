@@ -22,3 +22,5 @@
 - pkg:maven/com.datathings/greycat-leveldb@8.4?classifier=sources
 - pkg:maven/com.datathings/greycat-leveldb@8.3
 - pkg:maven/com.datathings/greycat-leveldb@8.3?classifier=sources
+- pkg:maven/com.datathings/greycat-leveldb@9
+- pkg:maven/com.datathings/greycat-leveldb@9?classifier=sources

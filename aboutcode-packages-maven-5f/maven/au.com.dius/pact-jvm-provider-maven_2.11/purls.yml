@@ -186,3 +186,7 @@
 - pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.1-jre7.1?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.1
 - pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.1?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.2-jre7.0
+- pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.2-jre7.0?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.2
+- pkg:maven/au.com.dius/pact-jvm-provider-maven_2.11@3.5.2?classifier=sources
