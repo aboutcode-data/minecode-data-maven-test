@@ -102,3 +102,7 @@
 - pkg:maven/net.dongliu/commons@3.6.3?classifier=sources
 - pkg:maven/net.dongliu/commons@3.6.2
 - pkg:maven/net.dongliu/commons@3.6.2?classifier=sources
+- pkg:maven/net.dongliu/commons@4.0.0
+- pkg:maven/net.dongliu/commons@4.0.0?classifier=sources
+- pkg:maven/net.dongliu/commons@3.9.0
+- pkg:maven/net.dongliu/commons@3.9.0?classifier=sources

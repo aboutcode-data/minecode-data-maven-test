@@ -152,3 +152,5 @@
 - pkg:maven/org.datanucleus/datanucleus-api-jpa@5.0.0-m3?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-api-jpa@4.1.9
 - pkg:maven/org.datanucleus/datanucleus-api-jpa@4.1.9?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-api-jpa@5.0.0-m4
+- pkg:maven/org.datanucleus/datanucleus-api-jpa@5.0.0-m4?classifier=sources

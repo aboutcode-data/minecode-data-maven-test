@@ -236,3 +236,5 @@
 - pkg:maven/org.datanucleus/datanucleus-core@5.0.0-m3?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-core@4.1.10
 - pkg:maven/org.datanucleus/datanucleus-core@4.1.10?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-core@5.0.0-m4
+- pkg:maven/org.datanucleus/datanucleus-core@5.0.0-m4?classifier=sources

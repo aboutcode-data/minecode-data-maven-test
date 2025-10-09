@@ -26,3 +26,5 @@
 - pkg:maven/org.duracloud/durastore@3.7.2?classifier=sources
 - pkg:maven/org.duracloud/durastore@3.7.3?type=war
 - pkg:maven/org.duracloud/durastore@3.7.3?classifier=sources
+- pkg:maven/org.duracloud/durastore@3.7.4?type=war
+- pkg:maven/org.duracloud/durastore@3.7.4?classifier=sources
