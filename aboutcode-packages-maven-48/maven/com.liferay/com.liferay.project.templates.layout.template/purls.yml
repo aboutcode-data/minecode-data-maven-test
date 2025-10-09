@@ -155,3 +155,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.layout.template@1.0.51
 - pkg:maven/com.liferay/com.liferay.project.templates.layout.template@1.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.layout.template@1.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.layout.template@1.0.53
+- pkg:maven/com.liferay/com.liferay.project.templates.layout.template@1.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.layout.template@1.0.53?classifier=sources-commercial

@@ -104,3 +104,5 @@
 - pkg:maven/com.netflix.dyno/dyno-recipes@1.6.8?classifier=sources
 - pkg:maven/com.netflix.dyno/dyno-recipes@1.6.9
 - pkg:maven/com.netflix.dyno/dyno-recipes@1.6.9?classifier=sources
+- pkg:maven/com.netflix.dyno/dyno-recipes@1.7.1
+- pkg:maven/com.netflix.dyno/dyno-recipes@1.7.1?classifier=sources

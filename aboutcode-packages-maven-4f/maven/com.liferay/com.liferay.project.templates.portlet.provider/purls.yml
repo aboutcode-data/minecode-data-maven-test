@@ -156,3 +156,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.52
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.54
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.54?classifier=sources-commercial

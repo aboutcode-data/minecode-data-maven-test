@@ -64,3 +64,5 @@
 - pkg:maven/com.linkedin.parseq/parseq-benchmark@3.0.8?classifier=sources
 - pkg:maven/com.linkedin.parseq/parseq-benchmark@3.0.10
 - pkg:maven/com.linkedin.parseq/parseq-benchmark@3.0.10?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@3.0.11
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@3.0.11?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/com.honerfor/cutils@3.0.0?classifier=sources
 - pkg:maven/com.honerfor/cutils@2.1.1
 - pkg:maven/com.honerfor/cutils@2.1.1?classifier=sources
+- pkg:maven/com.honerfor/cutils@3.0.0.STABLE
+- pkg:maven/com.honerfor/cutils@3.0.0.STABLE?classifier=sources
+- pkg:maven/com.honerfor/cutils@3.0.0.FINAL
+- pkg:maven/com.honerfor/cutils@3.0.0.FINAL?classifier=sources

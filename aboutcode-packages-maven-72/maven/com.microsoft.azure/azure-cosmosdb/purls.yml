@@ -50,3 +50,5 @@
 - pkg:maven/com.microsoft.azure/azure-cosmosdb@2.4.6?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-cosmosdb@2.6.0
 - pkg:maven/com.microsoft.azure/azure-cosmosdb@2.6.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-cosmosdb@2.6.1
+- pkg:maven/com.microsoft.azure/azure-cosmosdb@2.6.1?classifier=sources

@@ -1400,3 +1400,9 @@
 - pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.509
 - pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.509?classifier=sources
 - pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.509?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.511
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.511?classifier=sources
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.511?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.510
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.510?classifier=sources
+- pkg:maven/com.liferay/com.liferay.jenkins.results.parser@1.0.510?classifier=sources-commercial
