@@ -39,3 +39,5 @@
 - pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@5.5.2?classifier=sources
 - pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.4.5_01?classifier=sources
 - pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.4.4_01?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@6.2.3.1?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@5.6.9?classifier=sources

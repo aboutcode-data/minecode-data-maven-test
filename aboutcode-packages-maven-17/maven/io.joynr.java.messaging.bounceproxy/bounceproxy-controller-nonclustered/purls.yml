@@ -176,3 +176,9 @@
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.0.5?classifier=sources
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.1.0?type=war
 - pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.1.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.2.0?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.2.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.1.2?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.1.2?classifier=sources
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.1.1?type=war
+- pkg:maven/io.joynr.java.messaging.bounceproxy/bounceproxy-controller-nonclustered@1.1.1?classifier=sources
