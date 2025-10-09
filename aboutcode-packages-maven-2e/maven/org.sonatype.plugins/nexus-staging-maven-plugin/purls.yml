@@ -48,3 +48,5 @@
 - pkg:maven/org.sonatype.plugins/nexus-staging-maven-plugin@1.6.7?classifier=sources
 - pkg:maven/org.sonatype.plugins/nexus-staging-maven-plugin@1.6.8
 - pkg:maven/org.sonatype.plugins/nexus-staging-maven-plugin@1.6.8?classifier=sources
+- pkg:maven/org.sonatype.plugins/nexus-staging-maven-plugin@1.0.0
+- pkg:maven/org.sonatype.plugins/nexus-staging-maven-plugin@1.0.0?classifier=sources
