@@ -96,3 +96,9 @@
 - pkg:maven/org.infinispan/infinispan-clustered-counter@9.4.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-clustered-counter@10.0.0.Alpha3
 - pkg:maven/org.infinispan/infinispan-clustered-counter@10.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-clustered-counter@9.4.7.Final
+- pkg:maven/org.infinispan/infinispan-clustered-counter@9.4.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-clustered-counter@9.3.6.Final
+- pkg:maven/org.infinispan/infinispan-clustered-counter@9.3.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-clustered-counter@10.0.0.Beta1
+- pkg:maven/org.infinispan/infinispan-clustered-counter@10.0.0.Beta1?classifier=sources

@@ -110,3 +110,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/lang-expression@6.5.4?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/lang-expression@6.6.0
 - pkg:maven/org.codelibs.elasticsearch.module/lang-expression@6.6.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/lang-expression@7.0.0-beta1
+- pkg:maven/org.codelibs.elasticsearch.module/lang-expression@7.0.0-beta1?classifier=sources

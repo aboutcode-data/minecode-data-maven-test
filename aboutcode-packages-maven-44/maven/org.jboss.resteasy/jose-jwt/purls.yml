@@ -122,3 +122,7 @@
 - pkg:maven/org.jboss.resteasy/jose-jwt@4.0.0.Beta8?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@4.0.0.Beta7
 - pkg:maven/org.jboss.resteasy/jose-jwt@4.0.0.Beta7?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@3.6.3.Final
+- pkg:maven/org.jboss.resteasy/jose-jwt@3.6.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@3.6.1.SP3
+- pkg:maven/org.jboss.resteasy/jose-jwt@3.6.1.SP3?classifier=sources

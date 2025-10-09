@@ -106,3 +106,7 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@9.4.5.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@9.4.6.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@10.0.0.Alpha3
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@9.4.7.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@9.3.6.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@9.3.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@10.0.0.Beta1

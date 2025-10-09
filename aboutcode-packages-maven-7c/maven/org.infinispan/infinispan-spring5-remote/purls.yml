@@ -8,3 +8,7 @@
 - pkg:maven/org.infinispan/infinispan-spring5-remote@9.4.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring5-remote@10.0.0.Alpha3
 - pkg:maven/org.infinispan/infinispan-spring5-remote@10.0.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring5-remote@9.4.7.Final
+- pkg:maven/org.infinispan/infinispan-spring5-remote@9.4.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring5-remote@10.0.0.Beta1
+- pkg:maven/org.infinispan/infinispan-spring5-remote@10.0.0.Beta1?classifier=sources
