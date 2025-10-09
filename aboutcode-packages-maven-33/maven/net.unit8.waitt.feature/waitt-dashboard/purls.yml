@@ -6,3 +6,5 @@
 - pkg:maven/net.unit8.waitt.feature/waitt-dashboard@1.2.0?classifier=sources
 - pkg:maven/net.unit8.waitt.feature/waitt-dashboard@1.2.2?type=war
 - pkg:maven/net.unit8.waitt.feature/waitt-dashboard@1.2.2?classifier=sources
+- pkg:maven/net.unit8.waitt.feature/waitt-dashboard@1.2.3?type=war
+- pkg:maven/net.unit8.waitt.feature/waitt-dashboard@1.2.3?classifier=sources

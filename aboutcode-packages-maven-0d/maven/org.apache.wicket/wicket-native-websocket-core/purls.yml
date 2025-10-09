@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@8.0.0-M9?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@7.10.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@7.10.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.29.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.29.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.lecousin/core.javaee@0.9.0
 - pkg:maven/net.lecousin/core.javaee@0.9.0?classifier=sources
+- pkg:maven/net.lecousin/core.javaee@0.10.0
+- pkg:maven/net.lecousin/core.javaee@0.10.0?classifier=sources

@@ -155,3 +155,4 @@
 - pkg:maven/org.codehaus.groovy/groovy-jmx@2.4.13
 - pkg:maven/org.codehaus.groovy/groovy-jmx@2.4.13?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-jmx@2.5.0-beta-3
+- pkg:maven/org.codehaus.groovy/groovy-jmx@2.5.0-beta-3?classifier=sources

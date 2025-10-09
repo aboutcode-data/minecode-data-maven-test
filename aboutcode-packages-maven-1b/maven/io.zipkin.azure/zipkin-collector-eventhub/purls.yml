@@ -40,3 +40,5 @@
 - pkg:maven/io.zipkin.azure/zipkin-collector-eventhub@0.3.6?classifier=sources
 - pkg:maven/io.zipkin.azure/zipkin-collector-eventhub@0.3.7
 - pkg:maven/io.zipkin.azure/zipkin-collector-eventhub@0.3.7?classifier=sources
+- pkg:maven/io.zipkin.azure/zipkin-collector-eventhub@0.3.8
+- pkg:maven/io.zipkin.azure/zipkin-collector-eventhub@0.3.8?classifier=sources

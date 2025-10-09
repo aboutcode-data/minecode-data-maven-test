@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-segment@1.4.19?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment@1.6.9
 - pkg:maven/org.apache.jackrabbit/oak-segment@1.6.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment@1.4.20
+- pkg:maven/org.apache.jackrabbit/oak-segment@1.4.20?classifier=sources
