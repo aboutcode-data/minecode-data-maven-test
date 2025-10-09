@@ -36,3 +36,5 @@
 - pkg:maven/org.jodd/jodd-json@3.8.6?classifier=sources
 - pkg:maven/org.jodd/jodd-json@3.9
 - pkg:maven/org.jodd/jodd-json@3.9?classifier=sources
+- pkg:maven/org.jodd/jodd-json@3.9.1
+- pkg:maven/org.jodd/jodd-json@3.9.1?classifier=sources
