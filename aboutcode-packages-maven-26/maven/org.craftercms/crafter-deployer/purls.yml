@@ -44,3 +44,7 @@
 - pkg:maven/org.craftercms/crafter-deployer@3.1.0?classifier=sources
 - pkg:maven/org.craftercms/crafter-deployer@3.0.21
 - pkg:maven/org.craftercms/crafter-deployer@3.0.21?classifier=sources
+- pkg:maven/org.craftercms/crafter-deployer@3.0.23
+- pkg:maven/org.craftercms/crafter-deployer@3.0.23?classifier=sources
+- pkg:maven/org.craftercms/crafter-deployer@3.0.22
+- pkg:maven/org.craftercms/crafter-deployer@3.0.22?classifier=sources

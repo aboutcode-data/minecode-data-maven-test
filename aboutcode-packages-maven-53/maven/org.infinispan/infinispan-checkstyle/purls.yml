@@ -168,3 +168,7 @@
 - pkg:maven/org.infinispan/infinispan-checkstyle@9.4.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-checkstyle@10.0.0.Beta4
 - pkg:maven/org.infinispan/infinispan-checkstyle@10.0.0.Beta4?classifier=sources
+- pkg:maven/org.infinispan/infinispan-checkstyle@9.4.16.Final
+- pkg:maven/org.infinispan/infinispan-checkstyle@9.4.16.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-checkstyle@10.0.0.Beta5
+- pkg:maven/org.infinispan/infinispan-checkstyle@10.0.0.Beta5?classifier=sources

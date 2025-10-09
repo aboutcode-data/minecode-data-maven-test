@@ -48,3 +48,5 @@
 - pkg:maven/org.jboss.weld.module/weld-web@3.0.6.Final?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-web@3.1.1.Final
 - pkg:maven/org.jboss.weld.module/weld-web@3.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-web@3.1.2.Final
+- pkg:maven/org.jboss.weld.module/weld-web@3.1.2.Final?classifier=sources

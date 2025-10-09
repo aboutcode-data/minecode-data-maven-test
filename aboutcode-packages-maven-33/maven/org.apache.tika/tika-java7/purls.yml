@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.tika/tika-java7@1.20?classifier=sources
 - pkg:maven/org.apache.tika/tika-java7@1.21
 - pkg:maven/org.apache.tika/tika-java7@1.21?classifier=sources
+- pkg:maven/org.apache.tika/tika-java7@1.22
+- pkg:maven/org.apache.tika/tika-java7@1.22?classifier=sources
