@@ -176,3 +176,5 @@
 - pkg:maven/org.jooq/jooq-meta@3.8.6?classifier=sources
 - pkg:maven/org.jooq/jooq-meta@3.9.0
 - pkg:maven/org.jooq/jooq-meta@3.9.0?classifier=sources
+- pkg:maven/org.jooq/jooq-meta@3.9.1
+- pkg:maven/org.jooq/jooq-meta@3.9.1?classifier=sources
