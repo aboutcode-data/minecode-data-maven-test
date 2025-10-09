@@ -8,3 +8,5 @@
 - pkg:maven/com.amadeus/amadeus-java@1.1.2?classifier=sources
 - pkg:maven/com.amadeus/amadeus-java@2.0.0
 - pkg:maven/com.amadeus/amadeus-java@2.0.0?classifier=sources
+- pkg:maven/com.amadeus/amadeus-java@3.0.0
+- pkg:maven/com.amadeus/amadeus-java@3.0.0?classifier=sources

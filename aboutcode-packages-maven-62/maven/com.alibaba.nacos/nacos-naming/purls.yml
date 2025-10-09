@@ -6,3 +6,5 @@
 - pkg:maven/com.alibaba.nacos/nacos-naming@0.6.1?classifier=sources
 - pkg:maven/com.alibaba.nacos/nacos-naming@0.6.0
 - pkg:maven/com.alibaba.nacos/nacos-naming@0.6.0?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-naming@0.8.0
+- pkg:maven/com.alibaba.nacos/nacos-naming@0.8.0?classifier=sources
