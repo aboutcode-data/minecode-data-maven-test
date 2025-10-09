@@ -72,3 +72,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@7.9.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.28.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.28.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.0.0-M8
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.0.0-M8?classifier=sources

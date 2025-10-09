@@ -8,3 +8,5 @@
 - pkg:maven/org.whitesource/whitesource-gradle-plugin@0.4?classifier=sources
 - pkg:maven/org.whitesource/whitesource-gradle-plugin@0.8
 - pkg:maven/org.whitesource/whitesource-gradle-plugin@0.8?classifier=sources
+- pkg:maven/org.whitesource/whitesource-gradle-plugin@0.9
+- pkg:maven/org.whitesource/whitesource-gradle-plugin@0.9?classifier=sources

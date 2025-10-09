@@ -392,3 +392,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@9.9-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@9.8.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@9.8.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@9.9
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@9.9?classifier=sources

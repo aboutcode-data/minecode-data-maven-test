@@ -48,3 +48,5 @@
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-config@2.7.0.redhat-5?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-config@2.7.0.redhat-8
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-config@2.7.0.redhat-8?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-config@3.0.0
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-config@3.0.0?classifier=sources

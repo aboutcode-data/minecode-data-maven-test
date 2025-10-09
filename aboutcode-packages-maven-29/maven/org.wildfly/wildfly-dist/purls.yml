@@ -103,3 +103,6 @@
 - pkg:maven/org.wildfly/wildfly-dist@11.0.0.CR1?type=zip
 - pkg:maven/org.wildfly/wildfly-dist@11.0.0.CR1?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-dist@11.0.0.CR1?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-dist@11.0.0.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-dist@11.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-dist@11.0.0.Final?classifier=src&type=tar.gz
