@@ -42,3 +42,5 @@
 - pkg:maven/com.github.maiflai/gradle-scalatest@0.21?classifier=sources
 - pkg:maven/com.github.maiflai/gradle-scalatest@0.20
 - pkg:maven/com.github.maiflai/gradle-scalatest@0.20?classifier=sources
+- pkg:maven/com.github.maiflai/gradle-scalatest@0.22
+- pkg:maven/com.github.maiflai/gradle-scalatest@0.22?classifier=sources

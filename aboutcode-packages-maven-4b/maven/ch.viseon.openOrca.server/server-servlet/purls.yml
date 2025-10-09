@@ -36,3 +36,5 @@
 - pkg:maven/ch.viseon.openOrca.server/server-servlet@0.0.26?classifier=sources
 - pkg:maven/ch.viseon.openOrca.server/server-servlet@0.0.27
 - pkg:maven/ch.viseon.openOrca.server/server-servlet@0.0.27?classifier=sources
+- pkg:maven/ch.viseon.openOrca.server/server-servlet@1.0.0
+- pkg:maven/ch.viseon.openOrca.server/server-servlet@1.0.0?classifier=sources
