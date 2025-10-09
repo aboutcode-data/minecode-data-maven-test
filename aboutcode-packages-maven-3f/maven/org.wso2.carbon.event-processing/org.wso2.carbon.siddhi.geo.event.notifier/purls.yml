@@ -62,3 +62,5 @@
 - pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.siddhi.geo.event.notifier@2.1.0?classifier=sources
 - pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.siddhi.geo.event.notifier@2.0.13-beta2
 - pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.siddhi.geo.event.notifier@2.0.13-beta2?classifier=sources
+- pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.siddhi.geo.event.notifier@2.1.29
+- pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.siddhi.geo.event.notifier@2.1.29?classifier=sources

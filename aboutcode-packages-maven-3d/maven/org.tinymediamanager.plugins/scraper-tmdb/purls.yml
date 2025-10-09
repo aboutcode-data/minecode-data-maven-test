@@ -30,3 +30,5 @@
 - pkg:maven/org.tinymediamanager.plugins/scraper-tmdb@1.14?classifier=sources
 - pkg:maven/org.tinymediamanager.plugins/scraper-tmdb@1.15
 - pkg:maven/org.tinymediamanager.plugins/scraper-tmdb@1.15?classifier=sources
+- pkg:maven/org.tinymediamanager.plugins/scraper-tmdb@3.0
+- pkg:maven/org.tinymediamanager.plugins/scraper-tmdb@3.0?classifier=sources

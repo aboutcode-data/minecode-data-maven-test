@@ -91,3 +91,5 @@
 - pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.event.processor.common@2.0.10
 - pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.event.processor.common@2.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.event.processor.common@2.0.1
+- pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.event.processor.common@2.1.29
+- pkg:maven/org.wso2.carbon.event-processing/org.wso2.carbon.event.processor.common@2.1.29?classifier=sources
