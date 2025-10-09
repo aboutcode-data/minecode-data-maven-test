@@ -48,3 +48,7 @@
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.6.3?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.6.2
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.6.2?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@4.0.0
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@4.0.0?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.7.0
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.7.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j.community/kernel-it@3.5.0-alpha02
 - pkg:maven/org.neo4j.community/kernel-it@3.5.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j.community/kernel-it@3.5.0-alpha03
+- pkg:maven/org.neo4j.community/kernel-it@3.5.0-alpha03?classifier=sources
