@@ -66,3 +66,5 @@
 - pkg:maven/org.dbtools/dbtools-room@3.3.0?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room@3.3.4?type=aar
 - pkg:maven/org.dbtools/dbtools-room@3.3.4?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room@4.0.0?type=aar
+- pkg:maven/org.dbtools/dbtools-room@4.0.0?classifier=sources

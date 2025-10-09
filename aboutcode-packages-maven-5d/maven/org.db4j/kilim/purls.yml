@@ -80,3 +80,7 @@
 - pkg:maven/org.db4j/kilim@2.0.0-27?classifier=sources
 - pkg:maven/org.db4j/kilim@2.0.0-26
 - pkg:maven/org.db4j/kilim@2.0.0-26?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-29-jdk7
+- pkg:maven/org.db4j/kilim@2.0.0-29-jdk7?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-29
+- pkg:maven/org.db4j/kilim@2.0.0-29?classifier=sources

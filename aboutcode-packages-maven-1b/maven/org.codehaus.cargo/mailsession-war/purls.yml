@@ -118,3 +118,5 @@
 - pkg:maven/org.codehaus.cargo/mailsession-war@1.6.10?classifier=sources
 - pkg:maven/org.codehaus.cargo/mailsession-war@1.6.11?type=war
 - pkg:maven/org.codehaus.cargo/mailsession-war@1.6.11?classifier=sources
+- pkg:maven/org.codehaus.cargo/mailsession-war@1.7.0?type=war
+- pkg:maven/org.codehaus.cargo/mailsession-war@1.7.0?classifier=sources

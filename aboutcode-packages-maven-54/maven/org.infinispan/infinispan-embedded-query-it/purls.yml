@@ -133,3 +133,6 @@
 - pkg:maven/org.infinispan/infinispan-embedded-query-it@9.4.0.CR3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-embedded-query-it@9.4.0.Final
 - pkg:maven/org.infinispan/infinispan-embedded-query-it@9.4.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-embedded-query-it@9.4.1.Final
+- pkg:maven/org.infinispan/infinispan-embedded-query-it@9.3.4.Final
+- pkg:maven/org.infinispan/infinispan-embedded-query-it@9.3.4.Final?classifier=sources

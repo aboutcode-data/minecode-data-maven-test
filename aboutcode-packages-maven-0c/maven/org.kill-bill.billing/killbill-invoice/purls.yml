@@ -220,3 +220,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-invoice@0.18.22?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-invoice@0.20.2
 - pkg:maven/org.kill-bill.billing/killbill-invoice@0.20.2?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-invoice@0.20.3
+- pkg:maven/org.kill-bill.billing/killbill-invoice@0.20.3?classifier=sources
