@@ -72,3 +72,7 @@
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0-alpha4?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0-alpha5
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0-alpha6
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0-alpha6?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.10.0?classifier=sources

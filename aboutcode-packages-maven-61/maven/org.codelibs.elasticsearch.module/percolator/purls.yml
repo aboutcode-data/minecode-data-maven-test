@@ -100,3 +100,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/percolator@6.4.3?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/percolator@6.5.0
 - pkg:maven/org.codelibs.elasticsearch.module/percolator@6.5.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/percolator@6.5.1
+- pkg:maven/org.codelibs.elasticsearch.module/percolator@6.5.1?classifier=sources
