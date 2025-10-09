@@ -2,3 +2,5 @@
 - pkg:maven/com.axway.ats.httpdblogger/ats-httpdblogger@4.0.0?classifier=sources
 - pkg:maven/com.axway.ats.httpdblogger/ats-httpdblogger@4.0.2?type=war
 - pkg:maven/com.axway.ats.httpdblogger/ats-httpdblogger@4.0.2?classifier=sources
+- pkg:maven/com.axway.ats.httpdblogger/ats-httpdblogger@4.0.3?type=war
+- pkg:maven/com.axway.ats.httpdblogger/ats-httpdblogger@4.0.3?classifier=sources

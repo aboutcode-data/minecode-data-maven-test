@@ -24,3 +24,5 @@
 - pkg:maven/com.atlassian.stride/stride-boot@2.0.10?classifier=sources
 - pkg:maven/com.atlassian.stride/stride-boot@2.0.12
 - pkg:maven/com.atlassian.stride/stride-boot@2.0.12?classifier=sources
+- pkg:maven/com.atlassian.stride/stride-boot@3.0.3
+- pkg:maven/com.atlassian.stride/stride-boot@3.0.3?classifier=sources

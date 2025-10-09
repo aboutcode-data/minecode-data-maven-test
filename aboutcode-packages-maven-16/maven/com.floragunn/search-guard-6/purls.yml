@@ -1,3 +1,7 @@
 - pkg:maven/com.floragunn/search-guard-6@6.0.0-17.beta1api?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.0.0-17.beta1?type=zip
 - pkg:maven/com.floragunn/search-guard-6@6.0.0-17.beta1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.1.0-20.0?type=zip
+- pkg:maven/com.floragunn/search-guard-6@6.1.0-20.0?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.1-20.0-api
+- pkg:maven/com.floragunn/search-guard-6@6.1-20.0-api?classifier=sources

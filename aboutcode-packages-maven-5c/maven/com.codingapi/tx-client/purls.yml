@@ -14,3 +14,5 @@
 - pkg:maven/com.codingapi/tx-client@0.0.0-test3?classifier=sources
 - pkg:maven/com.codingapi/tx-client@0.0.0-test2
 - pkg:maven/com.codingapi/tx-client@0.0.0-test2?classifier=sources
+- pkg:maven/com.codingapi/tx-client@4.0.3.M1
+- pkg:maven/com.codingapi/tx-client@4.0.3.M1?classifier=sources
