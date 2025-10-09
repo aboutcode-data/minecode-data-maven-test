@@ -106,3 +106,5 @@
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre@0.14.8?classifier=sources
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre@0.15.0
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre@0.15.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre@0.15.1
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre@0.15.1?classifier=sources

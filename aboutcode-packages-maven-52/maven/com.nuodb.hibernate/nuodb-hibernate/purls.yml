@@ -66,3 +66,5 @@
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.2.4?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@20.0.0.hib3
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@20.0.0.hib3?classifier=sources
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@20.0.0-hib5
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@20.0.0-hib5?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.18.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.19.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.19.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.20.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.20.0?classifier=sources
