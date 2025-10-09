@@ -50,3 +50,5 @@
 - pkg:maven/org.zalando/tracer-core@2.0.0-RC.0?classifier=sources
 - pkg:maven/org.zalando/tracer-core@2.0.0-RC.2
 - pkg:maven/org.zalando/tracer-core@2.0.0-RC.2?classifier=sources
+- pkg:maven/org.zalando/tracer-core@0.17.2
+- pkg:maven/org.zalando/tracer-core@0.17.2?classifier=sources
