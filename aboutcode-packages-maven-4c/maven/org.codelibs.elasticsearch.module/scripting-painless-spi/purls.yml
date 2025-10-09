@@ -76,3 +76,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/scripting-painless-spi@7.3.2?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/scripting-painless-spi@7.4.0
 - pkg:maven/org.codelibs.elasticsearch.module/scripting-painless-spi@7.4.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/scripting-painless-spi@6.8.3
+- pkg:maven/org.codelibs.elasticsearch.module/scripting-painless-spi@6.8.3?classifier=sources

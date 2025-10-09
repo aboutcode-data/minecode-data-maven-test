@@ -76,3 +76,7 @@
 - pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.4.3?classifier=sources
 - pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.3.8
 - pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.3.8?classifier=sources
+- pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.4.4
+- pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.4.4?classifier=sources
+- pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.3.9
+- pkg:maven/org.apache.tinkerpop/hadoop-gremlin@3.3.9?classifier=sources

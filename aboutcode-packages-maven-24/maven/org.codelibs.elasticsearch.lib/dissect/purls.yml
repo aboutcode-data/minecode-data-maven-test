@@ -52,3 +52,5 @@
 - pkg:maven/org.codelibs.elasticsearch.lib/dissect@7.3.2?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.lib/dissect@7.4.0
 - pkg:maven/org.codelibs.elasticsearch.lib/dissect@7.4.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.lib/dissect@6.8.3
+- pkg:maven/org.codelibs.elasticsearch.lib/dissect@6.8.3?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.crunch/crunch-spark@0.14.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-spark@0.15.0
 - pkg:maven/org.apache.crunch/crunch-spark@0.15.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-spark@1.0.0
+- pkg:maven/org.apache.crunch/crunch-spark@1.0.0?classifier=sources
