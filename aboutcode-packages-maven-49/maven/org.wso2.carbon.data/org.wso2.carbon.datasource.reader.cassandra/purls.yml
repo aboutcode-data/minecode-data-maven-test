@@ -169,3 +169,9 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.78
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.78?classifier=sources
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.78?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.80
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.80?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.80?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.79
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.79?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.datasource.reader.cassandra@4.4.79?classifier=source-release&type=zip
