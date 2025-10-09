@@ -28,3 +28,5 @@
 - pkg:maven/org.joinfaces/joinfaces-maven-plugin@4.0.7?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-maven-plugin@4.0.8
 - pkg:maven/org.joinfaces/joinfaces-maven-plugin@4.0.8?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-maven-plugin@4.1.0-m5
+- pkg:maven/org.joinfaces/joinfaces-maven-plugin@4.1.0-m5?classifier=sources

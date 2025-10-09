@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.hbase/hbase-shaded-mapreduce@2.0.6?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shaded-mapreduce@2.1.6
 - pkg:maven/org.apache.hbase/hbase-shaded-mapreduce@2.1.6?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-shaded-mapreduce@2.2.1
+- pkg:maven/org.apache.hbase/hbase-shaded-mapreduce@2.2.1?classifier=sources

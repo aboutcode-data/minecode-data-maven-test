@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.hbase/hbase-shaded-testing-util-tester@2.1.6
 - pkg:maven/org.apache.hbase/hbase-shaded-testing-util-tester@2.1.6?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-shaded-testing-util-tester@2.2.1
+- pkg:maven/org.apache.hbase/hbase-shaded-testing-util-tester@2.2.1?classifier=sources

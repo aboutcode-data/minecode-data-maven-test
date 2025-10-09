@@ -292,3 +292,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.18.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.16.5
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.16.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.14.8
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-servlet@2.14.8?classifier=sources

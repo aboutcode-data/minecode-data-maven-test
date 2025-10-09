@@ -154,3 +154,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.1.11.201909031202-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.11.9.201909030838-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.11.9.201909030838-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.5.0.201909110433-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.5.0.201909110433-r?classifier=sources

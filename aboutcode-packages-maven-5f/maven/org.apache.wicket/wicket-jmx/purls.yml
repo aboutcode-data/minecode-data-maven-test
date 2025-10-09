@@ -298,3 +298,5 @@
 - pkg:maven/org.apache.wicket/wicket-jmx@8.6.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-jmx@7.15.0
 - pkg:maven/org.apache.wicket/wicket-jmx@7.15.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-jmx@8.6.1
+- pkg:maven/org.apache.wicket/wicket-jmx@8.6.1?classifier=sources

@@ -434,3 +434,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-auth-ldap@1.10.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-auth-ldap@1.8.16
 - pkg:maven/org.apache.jackrabbit/oak-auth-ldap@1.8.16?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-auth-ldap@1.8.17
+- pkg:maven/org.apache.jackrabbit/oak-auth-ldap@1.8.17?classifier=sources
