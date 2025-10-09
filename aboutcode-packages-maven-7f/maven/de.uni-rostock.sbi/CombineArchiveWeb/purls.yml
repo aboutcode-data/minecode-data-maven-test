@@ -1,0 +1,8 @@
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.9?type=war
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.9?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.8?type=war
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.8?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.11?type=war
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.11?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.10?type=war
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.10?classifier=sources

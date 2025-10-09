@@ -32,3 +32,5 @@
 - pkg:maven/com.wizzardo.tools/tools@0.17?classifier=sources
 - pkg:maven/com.wizzardo.tools/tools@0.18
 - pkg:maven/com.wizzardo.tools/tools@0.18?classifier=sources
+- pkg:maven/com.wizzardo.tools/tools@0.19
+- pkg:maven/com.wizzardo.tools/tools@0.19?classifier=sources
