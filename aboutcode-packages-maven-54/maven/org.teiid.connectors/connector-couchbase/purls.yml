@@ -10,3 +10,5 @@
 - pkg:maven/org.teiid.connectors/connector-couchbase@10.0.0.CR2?classifier=sources
 - pkg:maven/org.teiid.connectors/connector-couchbase@10.0.0.Final
 - pkg:maven/org.teiid.connectors/connector-couchbase@10.0.0.Final?classifier=sources
+- pkg:maven/org.teiid.connectors/connector-couchbase@10.0.1
+- pkg:maven/org.teiid.connectors/connector-couchbase@10.0.1?classifier=sources
