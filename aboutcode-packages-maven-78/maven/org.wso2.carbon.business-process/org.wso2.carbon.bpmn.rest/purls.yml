@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.23?type=war
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.23?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.22?type=war
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.22?classifier=sources
