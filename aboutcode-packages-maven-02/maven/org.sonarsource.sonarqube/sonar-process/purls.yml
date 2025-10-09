@@ -88,3 +88,7 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-process@6.7-RC1?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-process@6.7
 - pkg:maven/org.sonarsource.sonarqube/sonar-process@6.7?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-process@7.0-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-process@7.0-RC1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-process@6.7.1
+- pkg:maven/org.sonarsource.sonarqube/sonar-process@6.7.1?classifier=sources
