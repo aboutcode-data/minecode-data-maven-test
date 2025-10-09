@@ -32,3 +32,5 @@
 - pkg:maven/com.butor/portal@1.0.23?classifier=sources
 - pkg:maven/com.butor/portal@1.0.24?type=war
 - pkg:maven/com.butor/portal@1.0.24?classifier=sources
+- pkg:maven/com.butor/portal@1.0.25?type=war
+- pkg:maven/com.butor/portal@1.0.25?classifier=sources

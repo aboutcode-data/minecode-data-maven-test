@@ -24,3 +24,5 @@
 - pkg:maven/com.dorkbox/ObjectPool@2.10?classifier=sources
 - pkg:maven/com.dorkbox/ObjectPool@2.11
 - pkg:maven/com.dorkbox/ObjectPool@2.11?classifier=sources
+- pkg:maven/com.dorkbox/ObjectPool@2.12
+- pkg:maven/com.dorkbox/ObjectPool@2.12?classifier=sources
