@@ -217,3 +217,5 @@
 - pkg:maven/org.apache.camel/camel-groovy@2.19.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-groovy@2.21.1
 - pkg:maven/org.apache.camel/camel-groovy@2.21.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-groovy@2.22.0
+- pkg:maven/org.apache.camel/camel-groovy@2.22.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/nl.talsmasoftware.context/spring-security-context@0.4.17
 - pkg:maven/nl.talsmasoftware.context/spring-security-context@0.4.17?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/spring-security-context@0.5.0
+- pkg:maven/nl.talsmasoftware.context/spring-security-context@0.5.0?classifier=sources

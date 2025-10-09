@@ -126,3 +126,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-stempel@6.6.4?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-stempel@7.4.0
 - pkg:maven/org.apache.lucene/lucene-analyzers-stempel@7.4.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-stempel@6.6.5
+- pkg:maven/org.apache.lucene/lucene-analyzers-stempel@6.6.5?classifier=sources

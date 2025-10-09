@@ -138,3 +138,5 @@
 - pkg:maven/org.apache.phoenix/phoenix-pig@4.14.0-HBase-1.1?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-pig@4.14.0-HBase-0.98
 - pkg:maven/org.apache.phoenix/phoenix-pig@4.14.0-HBase-0.98?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pig@5.0.0-HBase-2.0
+- pkg:maven/org.apache.phoenix/phoenix-pig@5.0.0-HBase-2.0?classifier=sources

@@ -118,3 +118,5 @@
 - pkg:maven/org.apache.lucene/lucene-classification@6.6.4?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-classification@7.4.0
 - pkg:maven/org.apache.lucene/lucene-classification@7.4.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-classification@6.6.5
+- pkg:maven/org.apache.lucene/lucene-classification@6.6.5?classifier=sources
