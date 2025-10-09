@@ -118,3 +118,6 @@
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.126
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.126?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.126?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.127
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.127?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.127?classifier=source-release&type=zip

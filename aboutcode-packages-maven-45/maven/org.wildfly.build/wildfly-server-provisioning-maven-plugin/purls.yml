@@ -58,3 +58,5 @@
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning-maven-plugin@1.2.8.Final?classifier=sources
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning-maven-plugin@1.2.7.Final
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning-maven-plugin@1.2.7.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-maven-plugin@1.2.9.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-maven-plugin@1.2.9.Final?classifier=sources

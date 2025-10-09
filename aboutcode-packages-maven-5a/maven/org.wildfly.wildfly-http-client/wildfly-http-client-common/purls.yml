@@ -40,3 +40,5 @@
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.7.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.9.Final
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.9.Final?classifier=sources
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.10.Final
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.10.Final?classifier=sources

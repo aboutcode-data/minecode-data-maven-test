@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/resolve-from@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/resolve-from@3.0.0
 - pkg:maven/org.webjars.npm/resolve-from@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/resolve-from@4.0.0
+- pkg:maven/org.webjars.npm/resolve-from@4.0.0?classifier=sources
