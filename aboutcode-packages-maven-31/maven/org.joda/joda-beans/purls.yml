@@ -66,3 +66,5 @@
 - pkg:maven/org.joda/joda-beans@1.8?classifier=sources
 - pkg:maven/org.joda/joda-beans@1.9
 - pkg:maven/org.joda/joda-beans@1.9?classifier=sources
+- pkg:maven/org.joda/joda-beans@1.9.1
+- pkg:maven/org.joda/joda-beans@1.9.1?classifier=sources
