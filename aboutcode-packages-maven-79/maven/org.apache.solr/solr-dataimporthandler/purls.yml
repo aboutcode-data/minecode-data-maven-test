@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.solr/solr-dataimporthandler@6.1.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-dataimporthandler@5.5.2
 - pkg:maven/org.apache.solr/solr-dataimporthandler@5.5.2?classifier=sources
+- pkg:maven/org.apache.solr/solr-dataimporthandler@6.2.0
+- pkg:maven/org.apache.solr/solr-dataimporthandler@6.2.0?classifier=sources
