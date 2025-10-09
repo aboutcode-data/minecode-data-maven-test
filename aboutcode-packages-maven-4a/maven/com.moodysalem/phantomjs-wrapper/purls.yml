@@ -14,3 +14,5 @@
 - pkg:maven/com.moodysalem/phantomjs-wrapper@1.5.0?classifier=sources
 - pkg:maven/com.moodysalem/phantomjs-wrapper@1.6.0
 - pkg:maven/com.moodysalem/phantomjs-wrapper@1.6.0?classifier=sources
+- pkg:maven/com.moodysalem/phantomjs-wrapper@2.0.0
+- pkg:maven/com.moodysalem/phantomjs-wrapper@2.0.0?classifier=sources
