@@ -176,3 +176,5 @@
 - pkg:maven/net.finmath/finmath-lib@3.3.3?classifier=sources
 - pkg:maven/net.finmath/finmath-lib@3.4.0
 - pkg:maven/net.finmath/finmath-lib@3.4.0?classifier=sources
+- pkg:maven/net.finmath/finmath-lib@3.4.1
+- pkg:maven/net.finmath/finmath-lib@3.4.1?classifier=sources
