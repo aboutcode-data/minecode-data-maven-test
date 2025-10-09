@@ -36,3 +36,5 @@
 - pkg:maven/com.lordofthejars/nosqlunit-cassandra@0.10.0?classifier=sources
 - pkg:maven/com.lordofthejars/nosqlunit-cassandra@0.13.1
 - pkg:maven/com.lordofthejars/nosqlunit-cassandra@0.13.1?classifier=sources
+- pkg:maven/com.lordofthejars/nosqlunit-cassandra@0.14.0
+- pkg:maven/com.lordofthejars/nosqlunit-cassandra@0.14.0?classifier=sources

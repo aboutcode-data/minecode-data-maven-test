@@ -40,3 +40,5 @@
 - pkg:maven/io.lavagna/lavagna@1.1-M3?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.1-M2?type=war
 - pkg:maven/io.lavagna/lavagna@1.1-M2?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.0.7.3?type=war
+- pkg:maven/io.lavagna/lavagna@1.0.7.3?classifier=sources

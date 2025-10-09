@@ -62,3 +62,5 @@
 - pkg:maven/com.spotify/styx-schedule-source@0.2.15?classifier=sources
 - pkg:maven/com.spotify/styx-schedule-source@0.2.14
 - pkg:maven/com.spotify/styx-schedule-source@0.2.14?classifier=sources
+- pkg:maven/com.spotify/styx-schedule-source@0.2.17
+- pkg:maven/com.spotify/styx-schedule-source@0.2.17?classifier=sources
