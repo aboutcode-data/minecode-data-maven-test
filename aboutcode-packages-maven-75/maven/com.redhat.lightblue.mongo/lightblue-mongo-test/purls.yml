@@ -40,3 +40,5 @@
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.23.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.22.0
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.22.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.24.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.24.0?classifier=sources
