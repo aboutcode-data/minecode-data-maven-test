@@ -5,3 +5,6 @@
 - pkg:maven/com.google.http-client/google-http-client-apache@2.1.0
 - pkg:maven/com.google.http-client/google-http-client-apache@1.29.0
 - pkg:maven/com.google.http-client/google-http-client-apache@1.29.0?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-apache@2.1.1
+- pkg:maven/com.google.http-client/google-http-client-apache@1.29.1
+- pkg:maven/com.google.http-client/google-http-client-apache@1.29.1?classifier=sources

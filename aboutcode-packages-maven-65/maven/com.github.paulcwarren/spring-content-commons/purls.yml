@@ -34,3 +34,7 @@
 - pkg:maven/com.github.paulcwarren/spring-content-commons@0.6.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-commons@0.7.0
 - pkg:maven/com.github.paulcwarren/spring-content-commons@0.7.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-commons@0.8.0
+- pkg:maven/com.github.paulcwarren/spring-content-commons@0.8.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-commons@0
+- pkg:maven/com.github.paulcwarren/spring-content-commons@0?classifier=sources

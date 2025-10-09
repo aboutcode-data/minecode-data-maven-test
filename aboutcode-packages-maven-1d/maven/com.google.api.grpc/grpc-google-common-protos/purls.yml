@@ -100,3 +100,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-common-protos@1.13.0-pre3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-common-protos@1.15.0
 - pkg:maven/com.google.api.grpc/grpc-google-common-protos@1.15.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-common-protos@1.16.0
+- pkg:maven/com.google.api.grpc/grpc-google-common-protos@1.16.0?classifier=sources

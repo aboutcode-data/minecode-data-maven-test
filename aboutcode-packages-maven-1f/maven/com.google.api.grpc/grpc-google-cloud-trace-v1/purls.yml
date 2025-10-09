@@ -162,3 +162,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-trace-v1@0.51.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-trace-v1@0.53.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-trace-v1@0.53.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-trace-v1@0.54.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-trace-v1@0.54.0?classifier=sources

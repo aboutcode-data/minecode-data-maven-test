@@ -208,3 +208,5 @@
 - pkg:maven/com.google.cloud/google-cloud-trace@0.86.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@0.88.0-beta
 - pkg:maven/com.google.cloud/google-cloud-trace@0.88.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@0.89.0-beta
+- pkg:maven/com.google.cloud/google-cloud-trace@0.89.0-beta?classifier=sources
