@@ -42,3 +42,7 @@
 - pkg:maven/org.opensingular/singular-requirement-module@1.8.0.4?classifier=sources
 - pkg:maven/org.opensingular/singular-requirement-module@1.9.0-RC1
 - pkg:maven/org.opensingular/singular-requirement-module@1.9.0-RC1?classifier=sources
+- pkg:maven/org.opensingular/singular-requirement-module@1.8.2-RC7
+- pkg:maven/org.opensingular/singular-requirement-module@1.8.2-RC7?classifier=sources
+- pkg:maven/org.opensingular/singular-requirement-module@1.8.2
+- pkg:maven/org.opensingular/singular-requirement-module@1.8.2?classifier=sources

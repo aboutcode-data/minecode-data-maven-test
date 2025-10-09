@@ -166,3 +166,11 @@
 - pkg:maven/org.reaktivity/reaktor@0.76?classifier=sources
 - pkg:maven/org.reaktivity/reaktor@0.75
 - pkg:maven/org.reaktivity/reaktor@0.75?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.80
+- pkg:maven/org.reaktivity/reaktor@0.80?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.79
+- pkg:maven/org.reaktivity/reaktor@0.79?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.78
+- pkg:maven/org.reaktivity/reaktor@0.78?classifier=sources
+- pkg:maven/org.reaktivity/reaktor@0.77
+- pkg:maven/org.reaktivity/reaktor@0.77?classifier=sources

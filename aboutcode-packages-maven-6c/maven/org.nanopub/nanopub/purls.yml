@@ -36,3 +36,5 @@
 - pkg:maven/org.nanopub/nanopub@1.16?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.18
 - pkg:maven/org.nanopub/nanopub@1.18?classifier=sources
+- pkg:maven/org.nanopub/nanopub@1.19
+- pkg:maven/org.nanopub/nanopub@1.19?classifier=sources

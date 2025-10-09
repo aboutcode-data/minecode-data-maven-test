@@ -212,3 +212,5 @@
 - pkg:maven/org.onosproject/onos-core-persistence@2.0.0-rc2?classifier=sources
 - pkg:maven/org.onosproject/onos-core-persistence@2.0.0
 - pkg:maven/org.onosproject/onos-core-persistence@2.0.0?classifier=sources
+- pkg:maven/org.onosproject/onos-core-persistence@1.13.8
+- pkg:maven/org.onosproject/onos-core-persistence@1.13.8?classifier=sources
