@@ -322,3 +322,5 @@
 - pkg:maven/org.ovirt.engine.api/model@4.3.29?classifier=sources
 - pkg:maven/org.ovirt.engine.api/model@4.4.8
 - pkg:maven/org.ovirt.engine.api/model@4.4.8?classifier=sources
+- pkg:maven/org.ovirt.engine.api/model@4.4.9
+- pkg:maven/org.ovirt.engine.api/model@4.4.9?classifier=sources

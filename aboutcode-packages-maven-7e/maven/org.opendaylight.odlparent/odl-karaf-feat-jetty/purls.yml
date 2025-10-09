@@ -43,3 +43,6 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@1.8.1-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@1.8.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@6.0.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@6.0.1?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@5.0.3?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@4.0.13?classifier=sources

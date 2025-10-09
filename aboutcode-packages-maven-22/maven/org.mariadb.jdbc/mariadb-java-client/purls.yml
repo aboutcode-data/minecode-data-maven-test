@@ -136,3 +136,5 @@
 - pkg:maven/org.mariadb.jdbc/mariadb-java-client@2.4.4?classifier=sources
 - pkg:maven/org.mariadb.jdbc/mariadb-java-client@2.5.0
 - pkg:maven/org.mariadb.jdbc/mariadb-java-client@2.5.0?classifier=sources
+- pkg:maven/org.mariadb.jdbc/mariadb-java-client@2.5.1
+- pkg:maven/org.mariadb.jdbc/mariadb-java-client@2.5.1?classifier=sources

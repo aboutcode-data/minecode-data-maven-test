@@ -52,3 +52,7 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.2
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.7
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@1.0.12
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@1.0.12?classifier=sources

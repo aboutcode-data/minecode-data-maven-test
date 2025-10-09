@@ -222,3 +222,5 @@
 - pkg:maven/org.neo4j/procedure-compiler@3.5.11?classifier=sources
 - pkg:maven/org.neo4j/procedure-compiler@3.4.16
 - pkg:maven/org.neo4j/procedure-compiler@3.4.16?classifier=sources
+- pkg:maven/org.neo4j/procedure-compiler@3.5.12
+- pkg:maven/org.neo4j/procedure-compiler@3.5.12?classifier=sources

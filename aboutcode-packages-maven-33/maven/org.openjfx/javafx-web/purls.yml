@@ -80,3 +80,5 @@
 - pkg:maven/org.openjfx/javafx-web@13?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@14-ea%2B1
 - pkg:maven/org.openjfx/javafx-web@14-ea%2B1?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@13.0.1
+- pkg:maven/org.openjfx/javafx-web@13.0.1?classifier=sources

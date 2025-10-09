@@ -44,3 +44,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@3.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@3.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@3.0.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@2.0.7
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@2.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@1.2.12
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991-ietf-yang-types@1.2.12?classifier=sources

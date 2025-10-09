@@ -78,3 +78,9 @@
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@1.9.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@6.0.0
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@6.0.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@6.0.1
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@6.0.1?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@5.0.3
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@5.0.3?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@4.0.13
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@4.0.13?classifier=sources

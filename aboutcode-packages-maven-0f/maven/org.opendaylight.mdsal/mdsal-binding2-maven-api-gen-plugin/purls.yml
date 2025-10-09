@@ -63,3 +63,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-maven-api-gen-plugin@0.10.1-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-maven-api-gen-plugin@0.10.0-Carbon
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-maven-api-gen-plugin@0.10.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding2-maven-api-gen-plugin@0.15.12
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding2-maven-api-gen-plugin@0.15.12?classifier=sources
