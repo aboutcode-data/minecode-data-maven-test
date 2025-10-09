@@ -72,3 +72,5 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.4.0?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.32?type=war
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.32?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.4.1?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.4.1?classifier=sources

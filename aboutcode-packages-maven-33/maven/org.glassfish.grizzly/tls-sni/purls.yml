@@ -66,3 +66,5 @@
 - pkg:maven/org.glassfish.grizzly/tls-sni@2.4.0?classifier=sources
 - pkg:maven/org.glassfish.grizzly/tls-sni@2.3.32
 - pkg:maven/org.glassfish.grizzly/tls-sni@2.3.32?classifier=sources
+- pkg:maven/org.glassfish.grizzly/tls-sni@2.4.1
+- pkg:maven/org.glassfish.grizzly/tls-sni@2.4.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.fastquery/fastquery@1.0.20
 - pkg:maven/org.fastquery/fastquery@1.0.20?classifier=sources
+- pkg:maven/org.fastquery/fastquery@1.0.21.M1
+- pkg:maven/org.fastquery/fastquery@1.0.21.M1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.7.RC0
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.7.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.3.21.RC0
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.3.21.RC0?classifier=sources

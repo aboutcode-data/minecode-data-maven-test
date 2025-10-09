@@ -74,3 +74,5 @@
 - pkg:maven/org.elasticsearch/rest-api-spec@2.4.6
 - pkg:maven/org.elasticsearch/rest-api-spec@6.0.0-beta1
 - pkg:maven/org.elasticsearch/rest-api-spec@6.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/rest-api-spec@5.5.2
+- pkg:maven/org.elasticsearch/rest-api-spec@5.5.2?classifier=sources

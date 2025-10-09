@@ -100,3 +100,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.5.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-storm@6.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-storm@6.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.5.2
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.5.2?classifier=sources
