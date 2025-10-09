@@ -12,3 +12,7 @@
 - pkg:maven/com.cvent/dropwizard-mybatis@3.1.9?classifier=sources
 - pkg:maven/com.cvent/dropwizard-mybatis@3.2.0
 - pkg:maven/com.cvent/dropwizard-mybatis@3.2.0?classifier=sources
+- pkg:maven/com.cvent/dropwizard-mybatis@4.0.1
+- pkg:maven/com.cvent/dropwizard-mybatis@4.0.1?classifier=sources
+- pkg:maven/com.cvent/dropwizard-mybatis@4.0.0
+- pkg:maven/com.cvent/dropwizard-mybatis@4.0.0?classifier=sources

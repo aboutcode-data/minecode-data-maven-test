@@ -16,3 +16,7 @@
 - pkg:maven/com.blazemeter/blazemeter-api-client@1.8?classifier=sources
 - pkg:maven/com.blazemeter/blazemeter-api-client@1.7
 - pkg:maven/com.blazemeter/blazemeter-api-client@1.7?classifier=sources
+- pkg:maven/com.blazemeter/blazemeter-api-client@1.9
+- pkg:maven/com.blazemeter/blazemeter-api-client@1.9?classifier=sources
+- pkg:maven/com.blazemeter/blazemeter-api-client@1.10
+- pkg:maven/com.blazemeter/blazemeter-api-client@1.10?classifier=sources
