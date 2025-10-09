@@ -26,3 +26,5 @@
 - pkg:maven/org.mongodb/embedded-android@4.0.10?classifier=sources
 - pkg:maven/org.mongodb/embedded-android@4.2.0-rc0?type=aar
 - pkg:maven/org.mongodb/embedded-android@4.2.0-rc0?classifier=sources
+- pkg:maven/org.mongodb/embedded-android@4.2.0-rc1?type=aar
+- pkg:maven/org.mongodb/embedded-android@4.2.0-rc1?classifier=sources

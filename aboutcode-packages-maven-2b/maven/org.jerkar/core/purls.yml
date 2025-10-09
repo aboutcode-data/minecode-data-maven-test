@@ -28,3 +28,5 @@
 - pkg:maven/org.jerkar/core@0.7.0.RC6?classifier=sources
 - pkg:maven/org.jerkar/core@0.7.0.RC4
 - pkg:maven/org.jerkar/core@0.7.0.RC4?classifier=sources
+- pkg:maven/org.jerkar/core@0.7.0.RELEASE
+- pkg:maven/org.jerkar/core@0.7.0.RELEASE?classifier=sources

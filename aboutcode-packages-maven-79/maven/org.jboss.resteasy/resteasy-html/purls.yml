@@ -192,3 +192,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-html@4.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-html@3.7.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-html@3.7.0.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-html@3.6.1.SP6
+- pkg:maven/org.jboss.resteasy/resteasy-html@3.6.1.SP6?classifier=sources
