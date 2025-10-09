@@ -24,3 +24,9 @@
 - pkg:maven/org.neo4j/neo4j-data-collector@3.5.12?classifier=sources
 - pkg:maven/org.neo4j/neo4j-data-collector@3.5.13
 - pkg:maven/org.neo4j/neo4j-data-collector@3.5.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-data-collector@4.0.0-rc01
+- pkg:maven/org.neo4j/neo4j-data-collector@4.0.0-rc01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-data-collector@4.0.0
+- pkg:maven/org.neo4j/neo4j-data-collector@4.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-data-collector@3.5.14
+- pkg:maven/org.neo4j/neo4j-data-collector@3.5.14?classifier=sources

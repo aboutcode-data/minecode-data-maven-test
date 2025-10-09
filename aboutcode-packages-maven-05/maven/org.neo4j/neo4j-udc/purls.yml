@@ -550,3 +550,5 @@
 - pkg:maven/org.neo4j/neo4j-udc@3.4.17?classifier=sources
 - pkg:maven/org.neo4j/neo4j-udc@3.5.13
 - pkg:maven/org.neo4j/neo4j-udc@3.5.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-udc@3.5.14
+- pkg:maven/org.neo4j/neo4j-udc@3.5.14?classifier=sources

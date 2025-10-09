@@ -52,3 +52,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-planner-3.5@3.5.12?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-planner-3.5@3.5.13
 - pkg:maven/org.neo4j/neo4j-cypher-planner-3.5@3.5.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-planner-3.5@3.5.14
+- pkg:maven/org.neo4j/neo4j-cypher-planner-3.5@3.5.14?classifier=sources
