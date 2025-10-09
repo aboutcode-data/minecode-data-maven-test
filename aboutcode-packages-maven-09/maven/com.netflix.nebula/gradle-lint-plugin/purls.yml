@@ -238,3 +238,5 @@
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@9.3.3?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@9.3.4
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@9.3.4?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-lint-plugin@10.0.0
+- pkg:maven/com.netflix.nebula/gradle-lint-plugin@10.0.0?classifier=sources

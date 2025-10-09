@@ -30,3 +30,5 @@
 - pkg:maven/com.plivo/plivo-java@4.0.4?classifier=sources
 - pkg:maven/com.plivo/plivo-java@4.1.0
 - pkg:maven/com.plivo/plivo-java@4.1.0?classifier=sources
+- pkg:maven/com.plivo/plivo-java@4.2.0-alpha-1
+- pkg:maven/com.plivo/plivo-java@4.2.0-alpha-1?classifier=sources

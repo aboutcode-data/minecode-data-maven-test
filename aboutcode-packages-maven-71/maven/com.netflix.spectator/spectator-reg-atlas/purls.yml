@@ -88,3 +88,5 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.74.4?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.74.3
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.74.3?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.75.0
+- pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.75.0?classifier=sources
