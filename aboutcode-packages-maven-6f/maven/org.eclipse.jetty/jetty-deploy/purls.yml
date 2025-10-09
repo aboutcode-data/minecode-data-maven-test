@@ -500,3 +500,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-deploy@9.4.12.v20180830?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-deploy@9.3.25.v20180904
 - pkg:maven/org.eclipse.jetty/jetty-deploy@9.3.25.v20180904?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-deploy@9.4.14.v20181114
+- pkg:maven/org.eclipse.jetty/jetty-deploy@9.4.14.v20181114?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-deploy@9.4.13.v20181111
+- pkg:maven/org.eclipse.jetty/jetty-deploy@9.4.13.v20181111?classifier=sources

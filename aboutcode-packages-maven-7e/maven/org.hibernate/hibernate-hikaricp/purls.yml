@@ -142,3 +142,5 @@
 - pkg:maven/org.hibernate/hibernate-hikaricp@5.1.16.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-hikaricp@5.3.7.Final
 - pkg:maven/org.hibernate/hibernate-hikaricp@5.3.7.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-hikaricp@5.4.0.CR1
+- pkg:maven/org.hibernate/hibernate-hikaricp@5.4.0.CR1?classifier=sources

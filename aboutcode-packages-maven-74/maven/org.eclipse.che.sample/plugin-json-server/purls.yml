@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.che.sample/plugin-json-server@6.12.0?classifier=sources
 - pkg:maven/org.eclipse.che.sample/plugin-json-server@6.13.0
 - pkg:maven/org.eclipse.che.sample/plugin-json-server@6.13.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-json-server@6.14.0
+- pkg:maven/org.eclipse.che.sample/plugin-json-server@6.14.0?classifier=sources

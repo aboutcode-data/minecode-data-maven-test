@@ -152,3 +152,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-schema@0.31.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-schema@0.28.6.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-schema@0.28.6.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-schema@0.28.7.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-schema@0.28.7.Final?classifier=sources

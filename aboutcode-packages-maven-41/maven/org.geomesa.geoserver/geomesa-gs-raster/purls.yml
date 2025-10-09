@@ -8,3 +8,5 @@
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-raster@2.0.2?classifier=sources
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-raster@1.3.6.0
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-raster@1.3.6.0?classifier=sources
+- pkg:maven/org.geomesa.geoserver/geomesa-gs-raster@2.1.0
+- pkg:maven/org.geomesa.geoserver/geomesa-gs-raster@2.1.0?classifier=sources

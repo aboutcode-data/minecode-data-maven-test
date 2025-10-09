@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@6.12.0?classifier=sources
 - pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@6.13.0?type=zip
 - pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@6.13.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@6.14.0?type=zip
+- pkg:maven/org.eclipse.che.lib/che-tomcat8-slf4j-logback@6.14.0?classifier=sources
