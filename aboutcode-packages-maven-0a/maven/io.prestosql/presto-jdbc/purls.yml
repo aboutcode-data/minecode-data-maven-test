@@ -4,3 +4,5 @@
 - pkg:maven/io.prestosql/presto-jdbc@301?classifier=sources
 - pkg:maven/io.prestosql/presto-jdbc@302
 - pkg:maven/io.prestosql/presto-jdbc@302?classifier=sources
+- pkg:maven/io.prestosql/presto-jdbc@303
+- pkg:maven/io.prestosql/presto-jdbc@303?classifier=sources

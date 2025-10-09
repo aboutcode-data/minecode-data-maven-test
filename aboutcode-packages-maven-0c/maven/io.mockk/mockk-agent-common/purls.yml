@@ -40,3 +40,7 @@
 - pkg:maven/io.mockk/mockk-agent-common@1.9.kotlin12?classifier=sources
 - pkg:maven/io.mockk/mockk-agent-common@1.9
 - pkg:maven/io.mockk/mockk-agent-common@1.9?classifier=sources
+- pkg:maven/io.mockk/mockk-agent-common@1.9.1.kotlin12
+- pkg:maven/io.mockk/mockk-agent-common@1.9.1.kotlin12?classifier=sources
+- pkg:maven/io.mockk/mockk-agent-common@1.9.1
+- pkg:maven/io.mockk/mockk-agent-common@1.9.1?classifier=sources

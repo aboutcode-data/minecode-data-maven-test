@@ -24,3 +24,5 @@
 - pkg:maven/io.zipkin.gcp/brave-propagation-stackdriver@0.9.0?classifier=sources
 - pkg:maven/io.zipkin.gcp/brave-propagation-stackdriver@0.10.0
 - pkg:maven/io.zipkin.gcp/brave-propagation-stackdriver@0.10.0?classifier=sources
+- pkg:maven/io.zipkin.gcp/brave-propagation-stackdriver@0.10.1
+- pkg:maven/io.zipkin.gcp/brave-propagation-stackdriver@0.10.1?classifier=sources

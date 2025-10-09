@@ -1,3 +1,4 @@
 - pkg:maven/io.prestosql/presto-example-http@300?classifier=sources
 - pkg:maven/io.prestosql/presto-example-http@301?classifier=sources
 - pkg:maven/io.prestosql/presto-example-http@302?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@303?classifier=sources
