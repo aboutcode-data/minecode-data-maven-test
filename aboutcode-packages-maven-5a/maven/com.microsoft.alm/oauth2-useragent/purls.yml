@@ -14,3 +14,5 @@
 - pkg:maven/com.microsoft.alm/oauth2-useragent@0.8.0?classifier=sources
 - pkg:maven/com.microsoft.alm/oauth2-useragent@0.9.0
 - pkg:maven/com.microsoft.alm/oauth2-useragent@0.9.0?classifier=sources
+- pkg:maven/com.microsoft.alm/oauth2-useragent@0.10.0
+- pkg:maven/com.microsoft.alm/oauth2-useragent@0.10.0?classifier=sources

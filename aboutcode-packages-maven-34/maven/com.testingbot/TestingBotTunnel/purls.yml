@@ -22,3 +22,7 @@
 - pkg:maven/com.testingbot/TestingBotTunnel@1.17?classifier=sources
 - pkg:maven/com.testingbot/TestingBotTunnel@1.18
 - pkg:maven/com.testingbot/TestingBotTunnel@1.18?classifier=sources
+- pkg:maven/com.testingbot/TestingBotTunnel@2.2
+- pkg:maven/com.testingbot/TestingBotTunnel@2.2?classifier=sources
+- pkg:maven/com.testingbot/TestingBotTunnel@1.19
+- pkg:maven/com.testingbot/TestingBotTunnel@1.19?classifier=sources

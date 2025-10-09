@@ -20,3 +20,7 @@
 - pkg:maven/com.instabug.library/instabugcompat@2.3.3?classifier=sources
 - pkg:maven/com.instabug.library/instabugcompat@2.4.0?type=aar
 - pkg:maven/com.instabug.library/instabugcompat@2.4.0?classifier=sources
+- pkg:maven/com.instabug.library/instabugcompat@2.5.0?type=aar
+- pkg:maven/com.instabug.library/instabugcompat@2.5.0?classifier=sources
+- pkg:maven/com.instabug.library/instabugcompat@2.4.1?type=aar
+- pkg:maven/com.instabug.library/instabugcompat@2.4.1?classifier=sources

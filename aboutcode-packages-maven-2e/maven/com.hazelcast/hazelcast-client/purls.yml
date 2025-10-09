@@ -240,3 +240,5 @@
 - pkg:maven/com.hazelcast/hazelcast-client@3.6.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-client@3.7-EA
 - pkg:maven/com.hazelcast/hazelcast-client@3.7-EA?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client@3.6.4
+- pkg:maven/com.hazelcast/hazelcast-client@3.6.4?classifier=sources
