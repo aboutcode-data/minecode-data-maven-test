@@ -14,3 +14,5 @@
 - pkg:maven/io.rainfall/rainfall-redis@1.4.6?classifier=sources
 - pkg:maven/io.rainfall/rainfall-redis@1.4.7
 - pkg:maven/io.rainfall/rainfall-redis@1.4.7?classifier=sources
+- pkg:maven/io.rainfall/rainfall-redis@1.4.8
+- pkg:maven/io.rainfall/rainfall-redis@1.4.8?classifier=sources

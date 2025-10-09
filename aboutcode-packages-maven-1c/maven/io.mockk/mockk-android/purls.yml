@@ -38,3 +38,7 @@
 - pkg:maven/io.mockk/mockk-android@1.8.13.kotlin13?classifier=sources
 - pkg:maven/io.mockk/mockk-android@1.8.13?type=aar
 - pkg:maven/io.mockk/mockk-android@1.8.13?classifier=sources
+- pkg:maven/io.mockk/mockk-android@1.9.kotlin12?type=aar
+- pkg:maven/io.mockk/mockk-android@1.9.kotlin12?classifier=sources
+- pkg:maven/io.mockk/mockk-android@1.9?type=aar
+- pkg:maven/io.mockk/mockk-android@1.9?classifier=sources
