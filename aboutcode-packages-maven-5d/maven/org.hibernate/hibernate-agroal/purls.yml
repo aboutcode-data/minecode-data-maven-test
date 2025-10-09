@@ -54,3 +54,5 @@
 - pkg:maven/org.hibernate/hibernate-agroal@5.4.7.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-agroal@5.4.8.Final
 - pkg:maven/org.hibernate/hibernate-agroal@5.4.8.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-agroal@5.3.14.Final
+- pkg:maven/org.hibernate/hibernate-agroal@5.3.14.Final?classifier=sources

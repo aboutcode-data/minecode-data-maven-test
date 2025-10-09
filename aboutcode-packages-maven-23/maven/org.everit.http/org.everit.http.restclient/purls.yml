@@ -10,3 +10,5 @@
 - pkg:maven/org.everit.http/org.everit.http.restclient@1.0.0?classifier=sources
 - pkg:maven/org.everit.http/org.everit.http.restclient@2.0.0
 - pkg:maven/org.everit.http/org.everit.http.restclient@2.0.0?classifier=sources
+- pkg:maven/org.everit.http/org.everit.http.restclient@2.1.0
+- pkg:maven/org.everit.http/org.everit.http.restclient@2.1.0?classifier=sources

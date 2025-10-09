@@ -48,3 +48,5 @@
 - pkg:maven/org.http4s/http4s-jetty-client_2.11@0.20.11?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-client_2.11@0.20.12
 - pkg:maven/org.http4s/http4s-jetty-client_2.11@0.20.12?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty-client_2.11@0.20.13
+- pkg:maven/org.http4s/http4s-jetty-client_2.11@0.20.13?classifier=sources
