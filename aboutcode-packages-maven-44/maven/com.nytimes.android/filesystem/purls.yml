@@ -12,3 +12,5 @@
 - pkg:maven/com.nytimes.android/filesystem@1.0.6?classifier=sources
 - pkg:maven/com.nytimes.android/filesystem@1.0.4?type=aar
 - pkg:maven/com.nytimes.android/filesystem@1.0.4?classifier=sources
+- pkg:maven/com.nytimes.android/filesystem@2.0.0
+- pkg:maven/com.nytimes.android/filesystem@2.0.0?classifier=sources

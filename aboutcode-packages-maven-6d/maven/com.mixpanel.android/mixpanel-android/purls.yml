@@ -25,3 +25,7 @@
 - pkg:maven/com.mixpanel.android/mixpanel-android@4.9.1?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@4.9.2?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@4.9.3?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.5?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.5?classifier=sources
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.4?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.4?classifier=sources

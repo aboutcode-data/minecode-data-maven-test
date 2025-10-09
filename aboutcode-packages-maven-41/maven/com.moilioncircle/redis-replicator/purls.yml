@@ -34,3 +34,5 @@
 - pkg:maven/com.moilioncircle/redis-replicator@1.0.15?classifier=sources
 - pkg:maven/com.moilioncircle/redis-replicator@1.0.18
 - pkg:maven/com.moilioncircle/redis-replicator@1.0.18?classifier=sources
+- pkg:maven/com.moilioncircle/redis-replicator@2.0.0-rc2
+- pkg:maven/com.moilioncircle/redis-replicator@2.0.0-rc2?classifier=sources

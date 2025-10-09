@@ -16,3 +16,5 @@
 - pkg:maven/com.peterphi.user-manager/user-manager@9.2.3?classifier=sources
 - pkg:maven/com.peterphi.user-manager/user-manager@9.2.2?type=war
 - pkg:maven/com.peterphi.user-manager/user-manager@9.2.2?classifier=sources
+- pkg:maven/com.peterphi.user-manager/user-manager@9.2.4?type=war
+- pkg:maven/com.peterphi.user-manager/user-manager@9.2.4?classifier=sources
