@@ -5,3 +5,6 @@
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper.feature@2.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper.feature@2.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper.feature@2.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper.feature@2.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper.feature@2.0.8?classifier=sources
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper.feature@2.0.10?classifier=sources
