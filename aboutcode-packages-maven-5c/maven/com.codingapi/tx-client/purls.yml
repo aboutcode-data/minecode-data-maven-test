@@ -10,3 +10,7 @@
 - pkg:maven/com.codingapi/tx-client@1.0.1?classifier=sources
 - pkg:maven/com.codingapi/tx-client@0.0.1-test
 - pkg:maven/com.codingapi/tx-client@0.0.1-test?classifier=sources
+- pkg:maven/com.codingapi/tx-client@0.0.0-test3
+- pkg:maven/com.codingapi/tx-client@0.0.0-test3?classifier=sources
+- pkg:maven/com.codingapi/tx-client@0.0.0-test2
+- pkg:maven/com.codingapi/tx-client@0.0.0-test2?classifier=sources

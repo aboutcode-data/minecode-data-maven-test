@@ -40,3 +40,5 @@
 - pkg:maven/com.datadoghq/dd-java-agent@0.2.9?classifier=sources
 - pkg:maven/com.datadoghq/dd-java-agent@0.2.10
 - pkg:maven/com.datadoghq/dd-java-agent@0.2.10?classifier=sources
+- pkg:maven/com.datadoghq/dd-java-agent@0.2.11
+- pkg:maven/com.datadoghq/dd-java-agent@0.2.11?classifier=sources

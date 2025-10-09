@@ -56,3 +56,7 @@
 - pkg:maven/com.bladejava/blade-mvc@2.0.5-ALPHA3?classifier=sources
 - pkg:maven/com.bladejava/blade-mvc@2.0.5-ALPHA2
 - pkg:maven/com.bladejava/blade-mvc@2.0.5-ALPHA2?classifier=sources
+- pkg:maven/com.bladejava/blade-mvc@2.0.5-RELEASE
+- pkg:maven/com.bladejava/blade-mvc@2.0.5-RELEASE?classifier=sources
+- pkg:maven/com.bladejava/blade-mvc@2.0.5-BETA2
+- pkg:maven/com.bladejava/blade-mvc@2.0.5-BETA2?classifier=sources

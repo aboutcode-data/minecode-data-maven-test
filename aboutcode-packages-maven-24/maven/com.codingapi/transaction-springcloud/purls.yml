@@ -6,3 +6,5 @@
 - pkg:maven/com.codingapi/transaction-springcloud@4.0.1?classifier=sources
 - pkg:maven/com.codingapi/transaction-springcloud@1.0.1
 - pkg:maven/com.codingapi/transaction-springcloud@1.0.1?classifier=sources
+- pkg:maven/com.codingapi/transaction-springcloud@0.0.0-test3
+- pkg:maven/com.codingapi/transaction-springcloud@0.0.0-test3?classifier=sources
