@@ -100,3 +100,7 @@
 - pkg:maven/com.vaadin/flow-server@2.0.17?classifier=sources
 - pkg:maven/com.vaadin/flow-server@2.0.18
 - pkg:maven/com.vaadin/flow-server@2.0.18?classifier=sources
+- pkg:maven/com.vaadin/flow-server@2.1.0
+- pkg:maven/com.vaadin/flow-server@2.1.0?classifier=sources
+- pkg:maven/com.vaadin/flow-server@2.0.19
+- pkg:maven/com.vaadin/flow-server@2.0.19?classifier=sources

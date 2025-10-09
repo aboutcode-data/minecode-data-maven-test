@@ -184,3 +184,5 @@
 - pkg:maven/com.stripe/stripe-android@12.3.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@12.4.0?type=aar
 - pkg:maven/com.stripe/stripe-android@12.4.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@12.5.0?type=aar
+- pkg:maven/com.stripe/stripe-android@12.5.0?classifier=sources

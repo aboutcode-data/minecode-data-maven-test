@@ -627,3 +627,7 @@
 - pkg:maven/com.stripe/stripe-java@15.4.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@15.3.1
 - pkg:maven/com.stripe/stripe-java@15.3.1?classifier=sources
+- pkg:maven/com.stripe/stripe-java@15.6.0
+- pkg:maven/com.stripe/stripe-java@15.6.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@15.5.0
+- pkg:maven/com.stripe/stripe-java@15.5.0?classifier=sources

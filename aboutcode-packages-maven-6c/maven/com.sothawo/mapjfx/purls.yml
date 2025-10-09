@@ -172,3 +172,7 @@
 - pkg:maven/com.sothawo/mapjfx@2.10.2?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@1.29.2
 - pkg:maven/com.sothawo/mapjfx@1.29.2?classifier=sources
+- pkg:maven/com.sothawo/mapjfx@2.11.0
+- pkg:maven/com.sothawo/mapjfx@2.11.0?classifier=sources
+- pkg:maven/com.sothawo/mapjfx@1.30.0
+- pkg:maven/com.sothawo/mapjfx@1.30.0?classifier=sources
