@@ -337,3 +337,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.34?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.91
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.91?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@9.0.13
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@9.0.13?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.35
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.35?classifier=sources

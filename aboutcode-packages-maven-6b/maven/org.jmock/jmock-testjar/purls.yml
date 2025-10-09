@@ -10,3 +10,7 @@
 - pkg:maven/org.jmock/jmock-testjar@2.8.4?classifier=sources
 - pkg:maven/org.jmock/jmock-testjar@2.9.0
 - pkg:maven/org.jmock/jmock-testjar@2.9.0?classifier=sources
+- pkg:maven/org.jmock/jmock-testjar@2.10.0-RC2
+- pkg:maven/org.jmock/jmock-testjar@2.10.0-RC2?classifier=sources
+- pkg:maven/org.jmock/jmock-testjar@2.10.0-RC1
+- pkg:maven/org.jmock/jmock-testjar@2.10.0-RC1?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.factcast/factcast-grpc-api@0.0.21?classifier=sources
 - pkg:maven/org.factcast/factcast-grpc-api@0.0.20
 - pkg:maven/org.factcast/factcast-grpc-api@0.0.20?classifier=sources
+- pkg:maven/org.factcast/factcast-grpc-api@0.0.26
+- pkg:maven/org.factcast/factcast-grpc-api@0.0.26?classifier=sources
