@@ -10,3 +10,5 @@
 - pkg:maven/cc.duduhuo.util/pojo-derivation-annotations@1.0.0.beta7?classifier=sources
 - pkg:maven/cc.duduhuo.util/pojo-derivation-annotations@1.0.0.beta6
 - pkg:maven/cc.duduhuo.util/pojo-derivation-annotations@1.0.0.beta6?classifier=sources
+- pkg:maven/cc.duduhuo.util/pojo-derivation-annotations@1.0.0
+- pkg:maven/cc.duduhuo.util/pojo-derivation-annotations@1.0.0?classifier=sources
