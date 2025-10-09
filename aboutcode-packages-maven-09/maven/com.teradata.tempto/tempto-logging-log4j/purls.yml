@@ -42,3 +42,5 @@
 - pkg:maven/com.teradata.tempto/tempto-logging-log4j@1.8?classifier=sources
 - pkg:maven/com.teradata.tempto/tempto-logging-log4j@1.9
 - pkg:maven/com.teradata.tempto/tempto-logging-log4j@1.9?classifier=sources
+- pkg:maven/com.teradata.tempto/tempto-logging-log4j@1.10
+- pkg:maven/com.teradata.tempto/tempto-logging-log4j@1.10?classifier=sources

@@ -160,3 +160,5 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@4.17?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@4.19
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@4.19?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.20
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@4.20?classifier=sources
