@@ -30,3 +30,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@3.0.8
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@3.0.8?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@3.0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@3.0.10
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@3.0.10?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@3.0.10?classifier=source-release&type=zip

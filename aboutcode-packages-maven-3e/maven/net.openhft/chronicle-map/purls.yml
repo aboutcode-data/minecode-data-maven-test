@@ -158,3 +158,5 @@
 - pkg:maven/net.openhft/chronicle-map@2.4.15?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.9.0
 - pkg:maven/net.openhft/chronicle-map@3.9.0?classifier=sources
+- pkg:maven/net.openhft/chronicle-map@3.9.1
+- pkg:maven/net.openhft/chronicle-map@3.9.1?classifier=sources

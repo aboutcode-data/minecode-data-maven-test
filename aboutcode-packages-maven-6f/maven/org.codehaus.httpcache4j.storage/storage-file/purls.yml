@@ -45,3 +45,5 @@
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-file@5.0.0-M3?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-file@4.2
 - pkg:maven/org.codehaus.httpcache4j.storage/storage-file@4.2?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-file@5.0.0
+- pkg:maven/org.codehaus.httpcache4j.storage/storage-file@5.0.0?classifier=sources
