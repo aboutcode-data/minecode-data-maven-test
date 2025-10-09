@@ -120,3 +120,5 @@
 - pkg:maven/com.yahoo.vespa/filedistribution@6.250.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@6.249.9?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@6.248.120?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@6.254.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@6.252.3?classifier=sources
