@@ -78,3 +78,5 @@
 - pkg:maven/software.amazon.awscdk/appmesh@1.17.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/appmesh@1.18.0
 - pkg:maven/software.amazon.awscdk/appmesh@1.18.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appmesh@1.19.0
+- pkg:maven/software.amazon.awscdk/appmesh@1.19.0?classifier=sources
