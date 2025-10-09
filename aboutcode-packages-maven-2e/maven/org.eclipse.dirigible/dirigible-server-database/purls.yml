@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.2.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.2.3?type=war
 - pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.2.3?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.2.4?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.2.4?classifier=sources

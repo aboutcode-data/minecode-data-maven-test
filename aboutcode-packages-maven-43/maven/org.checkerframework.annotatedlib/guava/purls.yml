@@ -6,3 +6,5 @@
 - pkg:maven/org.checkerframework.annotatedlib/guava@24.1-jre?classifier=sources
 - pkg:maven/org.checkerframework.annotatedlib/guava@25.1-jre
 - pkg:maven/org.checkerframework.annotatedlib/guava@25.1-jre?classifier=sources
+- pkg:maven/org.checkerframework.annotatedlib/guava@25.1.0.1-jre
+- pkg:maven/org.checkerframework.annotatedlib/guava@25.1.0.1-jre?classifier=sources

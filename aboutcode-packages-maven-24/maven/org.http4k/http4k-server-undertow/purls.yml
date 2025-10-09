@@ -292,3 +292,7 @@
 - pkg:maven/org.http4k/http4k-server-undertow@3.32.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-undertow@3.33.1
 - pkg:maven/org.http4k/http4k-server-undertow@3.33.1?classifier=sources
+- pkg:maven/org.http4k/http4k-server-undertow@3.34.0
+- pkg:maven/org.http4k/http4k-server-undertow@3.34.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-undertow@3.33.2
+- pkg:maven/org.http4k/http4k-server-undertow@3.33.2?classifier=sources

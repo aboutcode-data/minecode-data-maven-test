@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-embedded-all@3.2.3
 - pkg:maven/org.eclipse.dirigible/dirigible-embedded-all@3.2.3?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-embedded-all@3.2.4
+- pkg:maven/org.eclipse.dirigible/dirigible-embedded-all@3.2.4?classifier=sources
