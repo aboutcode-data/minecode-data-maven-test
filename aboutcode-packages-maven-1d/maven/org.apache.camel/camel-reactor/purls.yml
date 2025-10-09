@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.camel/camel-reactor@2.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-reactor@2.20.3
 - pkg:maven/org.apache.camel/camel-reactor@2.20.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-reactor@2.21.1
+- pkg:maven/org.apache.camel/camel-reactor@2.21.1?classifier=sources

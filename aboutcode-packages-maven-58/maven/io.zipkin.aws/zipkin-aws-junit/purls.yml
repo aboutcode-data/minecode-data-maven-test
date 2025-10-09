@@ -76,3 +76,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-aws-junit@0.9.3?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-aws-junit@0.10.0
 - pkg:maven/io.zipkin.aws/zipkin-aws-junit@0.10.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-aws-junit@0.10.1
+- pkg:maven/io.zipkin.aws/zipkin-aws-junit@0.10.1?classifier=sources

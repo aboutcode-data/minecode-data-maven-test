@@ -256,3 +256,5 @@
 - pkg:maven/io.zipkin.java/zipkin-guava@2.7.3?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-guava@2.7.2
 - pkg:maven/io.zipkin.java/zipkin-guava@2.7.2?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-guava@2.8.3
+- pkg:maven/io.zipkin.java/zipkin-guava@2.8.3?classifier=sources

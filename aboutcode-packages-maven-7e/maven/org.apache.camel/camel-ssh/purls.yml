@@ -132,3 +132,5 @@
 - pkg:maven/org.apache.camel/camel-ssh@2.20.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-ssh@2.19.5
 - pkg:maven/org.apache.camel/camel-ssh@2.19.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-ssh@2.21.1
+- pkg:maven/org.apache.camel/camel-ssh@2.21.1?classifier=sources
