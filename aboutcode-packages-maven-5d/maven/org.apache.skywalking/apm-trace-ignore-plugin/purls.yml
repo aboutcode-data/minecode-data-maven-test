@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.skywalking/apm-trace-ignore-plugin@5.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-trace-ignore-plugin@5.0.0-GA
 - pkg:maven/org.apache.skywalking/apm-trace-ignore-plugin@5.0.0-GA?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-trace-ignore-plugin@6.0.0-alpha
+- pkg:maven/org.apache.skywalking/apm-trace-ignore-plugin@6.0.0-alpha?classifier=sources

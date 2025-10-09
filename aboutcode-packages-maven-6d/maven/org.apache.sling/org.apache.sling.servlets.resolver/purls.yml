@@ -64,3 +64,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.resolver@2.4.20
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.resolver@2.4.20?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.resolver@2.4.20?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.resolver@2.4.24
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.resolver@2.4.24?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.resolver@2.4.24?classifier=source-release&type=zip

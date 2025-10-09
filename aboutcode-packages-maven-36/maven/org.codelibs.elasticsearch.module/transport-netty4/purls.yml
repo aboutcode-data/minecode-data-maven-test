@@ -98,3 +98,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/transport-netty4@6.4.2?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/transport-netty4@6.4.3
 - pkg:maven/org.codelibs.elasticsearch.module/transport-netty4@6.4.3?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/transport-netty4@6.5.0
+- pkg:maven/org.codelibs.elasticsearch.module/transport-netty4@6.5.0?classifier=sources

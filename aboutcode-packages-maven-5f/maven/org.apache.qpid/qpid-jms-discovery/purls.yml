@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.qpid/qpid-jms-discovery@0.36.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-jms-discovery@0.37.0
 - pkg:maven/org.apache.qpid/qpid-jms-discovery@0.37.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-jms-discovery@0.38.0
+- pkg:maven/org.apache.qpid/qpid-jms-discovery@0.38.0?classifier=sources
