@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.1?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.2
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.2?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@3.0.0-beta
+- pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@3.0.0-beta?classifier=sources

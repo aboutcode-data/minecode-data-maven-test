@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.hbase/hbase-procedure@1.1.12?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-procedure@2.0.0-alpha3
 - pkg:maven/org.apache.hbase/hbase-procedure@2.0.0-alpha3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-procedure@2.0.0-alpha4
+- pkg:maven/org.apache.hbase/hbase-procedure@2.0.0-alpha4?classifier=sources

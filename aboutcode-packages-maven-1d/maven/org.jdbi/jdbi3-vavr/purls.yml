@@ -1,2 +1,4 @@
 - pkg:maven/org.jdbi/jdbi3-vavr@3.0.0-beta4
 - pkg:maven/org.jdbi/jdbi3-vavr@3.0.0-beta4?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-vavr@3.0.0-rc1
+- pkg:maven/org.jdbi/jdbi3-vavr@3.0.0-rc1?classifier=sources

@@ -85,3 +85,6 @@
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.10.0
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.10.0?classifier=sources
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.10.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.11.0
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.11.0?classifier=sources
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.11.0?classifier=source-release&type=zip

@@ -30,3 +30,7 @@
 - pkg:maven/org.dmfs/http-client-basics@0.14?classifier=sources
 - pkg:maven/org.dmfs/http-client-basics@0.13
 - pkg:maven/org.dmfs/http-client-basics@0.13?classifier=sources
+- pkg:maven/org.dmfs/http-client-basics@0.15.1
+- pkg:maven/org.dmfs/http-client-basics@0.15.1?classifier=sources
+- pkg:maven/org.dmfs/http-client-basics@0.15
+- pkg:maven/org.dmfs/http-client-basics@0.15?classifier=sources

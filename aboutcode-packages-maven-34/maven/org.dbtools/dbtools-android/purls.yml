@@ -158,3 +158,5 @@
 - pkg:maven/org.dbtools/dbtools-android@10.1.4?classifier=sources
 - pkg:maven/org.dbtools/dbtools-android@10.2.0?type=aar
 - pkg:maven/org.dbtools/dbtools-android@10.2.0?classifier=sources
+- pkg:maven/org.dbtools/dbtools-android@10.3.0?type=aar
+- pkg:maven/org.dbtools/dbtools-android@10.3.0?classifier=sources

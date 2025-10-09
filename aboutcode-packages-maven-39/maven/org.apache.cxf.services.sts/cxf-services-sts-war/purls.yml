@@ -160,3 +160,5 @@
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.1.13?classifier=sources
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.0.15?type=war
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.0.15?classifier=sources
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.1.14?type=war
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-war@3.1.14?classifier=sources
