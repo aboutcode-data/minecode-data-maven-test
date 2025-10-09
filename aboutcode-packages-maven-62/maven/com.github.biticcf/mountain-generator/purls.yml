@@ -16,3 +16,7 @@
 - pkg:maven/com.github.biticcf/mountain-generator@3.0.RELEASE?classifier=sources
 - pkg:maven/com.github.biticcf/mountain-generator@2.5.RELEASE
 - pkg:maven/com.github.biticcf/mountain-generator@2.5.RELEASE?classifier=sources
+- pkg:maven/com.github.biticcf/mountain-generator@5.0.RELEASE
+- pkg:maven/com.github.biticcf/mountain-generator@5.0.RELEASE?classifier=sources
+- pkg:maven/com.github.biticcf/mountain-generator@4.0.RELEASE
+- pkg:maven/com.github.biticcf/mountain-generator@4.0.RELEASE?classifier=sources

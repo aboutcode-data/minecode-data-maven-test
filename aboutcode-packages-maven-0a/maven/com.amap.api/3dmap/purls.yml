@@ -48,3 +48,7 @@
 - pkg:maven/com.amap.api/3dmap@6.9.4?classifier=sources
 - pkg:maven/com.amap.api/3dmap@7.0.0
 - pkg:maven/com.amap.api/3dmap@7.0.0?classifier=sources
+- pkg:maven/com.amap.api/3dmap@7.1.0
+- pkg:maven/com.amap.api/3dmap@7.1.0?classifier=sources
+- pkg:maven/com.amap.api/3dmap@5.8.0
+- pkg:maven/com.amap.api/3dmap@5.8.0?classifier=sources

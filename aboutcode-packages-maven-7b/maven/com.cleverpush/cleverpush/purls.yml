@@ -50,3 +50,5 @@
 - pkg:maven/com.cleverpush/cleverpush@0.1.7?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@0.1.6?type=aar
 - pkg:maven/com.cleverpush/cleverpush@0.1.6?classifier=sources
+- pkg:maven/com.cleverpush/cleverpush@0.1.9?type=aar
+- pkg:maven/com.cleverpush/cleverpush@0.1.9?classifier=sources

@@ -152,3 +152,5 @@
 - pkg:maven/com.facebook.presto/presto-rcfile@0.226?classifier=sources
 - pkg:maven/com.facebook.presto/presto-rcfile@0.227
 - pkg:maven/com.facebook.presto/presto-rcfile@0.227?classifier=sources
+- pkg:maven/com.facebook.presto/presto-rcfile@0.228
+- pkg:maven/com.facebook.presto/presto-rcfile@0.228?classifier=sources
