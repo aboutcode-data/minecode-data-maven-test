@@ -28,3 +28,6 @@
 - pkg:maven/com.liferay/com.liferay.blogs.uad@3.0.3
 - pkg:maven/com.liferay/com.liferay.blogs.uad@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.uad@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.uad@4.0.3
+- pkg:maven/com.liferay/com.liferay.blogs.uad@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.uad@4.0.3?classifier=sources-commercial

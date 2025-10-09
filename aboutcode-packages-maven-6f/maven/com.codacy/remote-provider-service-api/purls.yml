@@ -78,3 +78,5 @@
 - pkg:maven/com.codacy/remote-provider-service-api@2.24.0-rpsk8s.029dab1?classifier=sources
 - pkg:maven/com.codacy/remote-provider-service-api@2.24.0-SNAPSHOT.01c8fea
 - pkg:maven/com.codacy/remote-provider-service-api@2.24.0-SNAPSHOT.01c8fea?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-api@2.27.0
+- pkg:maven/com.codacy/remote-provider-service-api@2.27.0?classifier=sources

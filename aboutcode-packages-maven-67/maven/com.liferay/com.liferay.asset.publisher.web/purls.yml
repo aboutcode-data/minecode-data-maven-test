@@ -539,3 +539,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.52
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.32
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.32?classifier=sources-commercial

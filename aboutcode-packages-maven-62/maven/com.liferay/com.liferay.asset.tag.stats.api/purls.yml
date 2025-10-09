@@ -28,3 +28,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.tag.stats.api@1.0.6
 - pkg:maven/com.liferay/com.liferay.asset.tag.stats.api@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tag.stats.api@1.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tag.stats.api@2.0.3
+- pkg:maven/com.liferay/com.liferay.asset.tag.stats.api@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tag.stats.api@2.0.3?classifier=sources-commercial

@@ -110,3 +110,5 @@
 - pkg:maven/com.eduworks/ec.crypto@2.9.10?classifier=sources
 - pkg:maven/com.eduworks/ec.crypto@2.9.12
 - pkg:maven/com.eduworks/ec.crypto@2.9.12?classifier=sources
+- pkg:maven/com.eduworks/ec.crypto@2.10.0
+- pkg:maven/com.eduworks/ec.crypto@2.10.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/za.co.absa/enceladus-testUtils@1.0.0-RC5?classifier=sources
 - pkg:maven/za.co.absa/enceladus-testUtils@1.0.0-RC4
 - pkg:maven/za.co.absa/enceladus-testUtils@1.0.0-RC4?classifier=sources
+- pkg:maven/za.co.absa/enceladus-testUtils@1.0.0
+- pkg:maven/za.co.absa/enceladus-testUtils@1.0.0?classifier=sources

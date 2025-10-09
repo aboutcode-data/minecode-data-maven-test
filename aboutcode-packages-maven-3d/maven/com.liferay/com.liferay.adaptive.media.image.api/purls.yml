@@ -82,3 +82,6 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@1.1.14
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@1.1.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@1.1.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@3.0.3
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@3.0.3?classifier=sources-commercial
