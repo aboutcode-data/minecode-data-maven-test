@@ -14,3 +14,5 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex.endpoint@5.2.10?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex.endpoint@5.2.13?type=war
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex.endpoint@5.2.13?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex.endpoint@5.2.14?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex.endpoint@5.2.14?classifier=sources
