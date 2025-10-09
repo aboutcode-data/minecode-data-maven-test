@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.ei/org.wso2.ei.businessprocess.integration.common.clients@6.4.0-m6?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.businessprocess.integration.common.clients@6.4.0-m7
 - pkg:maven/org.wso2.ei/org.wso2.ei.businessprocess.integration.common.clients@6.4.0-m7?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.ei.businessprocess.integration.common.clients@6.4.0
+- pkg:maven/org.wso2.ei/org.wso2.ei.businessprocess.integration.common.clients@6.4.0?classifier=sources

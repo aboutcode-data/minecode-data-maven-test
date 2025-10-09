@@ -139,3 +139,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.identity.authentication@4.6.48
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.identity.authentication@4.6.48?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.identity.authentication@4.6.48?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.identity.authentication@4.6.49
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.identity.authentication@4.6.49?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.identity.authentication@4.6.49?classifier=source-release&type=zip
