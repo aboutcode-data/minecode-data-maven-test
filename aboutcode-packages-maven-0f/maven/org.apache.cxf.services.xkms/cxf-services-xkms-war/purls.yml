@@ -92,3 +92,5 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.2.1?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.1.14?type=war
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.1.14?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.0.16?type=war
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.0.16?classifier=sources

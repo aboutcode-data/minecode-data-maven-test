@@ -40,3 +40,7 @@
 - pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.7-spark_2.0?classifier=sources
 - pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.7
 - pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.7?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.8-spark_2.0
+- pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.8-spark_2.0?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.8
+- pkg:maven/net.snowflake/spark-snowflake_2.11@2.2.8?classifier=sources

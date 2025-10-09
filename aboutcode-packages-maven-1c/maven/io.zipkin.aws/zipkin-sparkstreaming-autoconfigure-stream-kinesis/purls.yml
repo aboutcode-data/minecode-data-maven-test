@@ -44,3 +44,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-autoconfigure-stream-kinesis@0.8.3?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-autoconfigure-stream-kinesis@0.8.2
 - pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-autoconfigure-stream-kinesis@0.8.2?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-autoconfigure-stream-kinesis@0.8.4
+- pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-autoconfigure-stream-kinesis@0.8.4?classifier=sources
