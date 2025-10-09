@@ -1,2 +1,4 @@
 - pkg:maven/com.trueaccord.scalapb/compilerplugin_2.12@0.5.44
 - pkg:maven/com.trueaccord.scalapb/compilerplugin_2.12@0.5.44?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/compilerplugin_2.12@0.5.45
+- pkg:maven/com.trueaccord.scalapb/compilerplugin_2.12@0.5.45?classifier=sources
