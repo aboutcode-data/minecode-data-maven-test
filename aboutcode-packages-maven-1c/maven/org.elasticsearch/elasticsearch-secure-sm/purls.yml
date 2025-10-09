@@ -52,3 +52,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@7.1.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@6.8.0
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@6.8.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-secure-sm@7.1.1
+- pkg:maven/org.elasticsearch/elasticsearch-secure-sm@7.1.1?classifier=sources

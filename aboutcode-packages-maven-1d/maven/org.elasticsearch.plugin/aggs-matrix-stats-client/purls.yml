@@ -120,3 +120,5 @@
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.1.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.0
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.1.1
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.1.1?classifier=sources
