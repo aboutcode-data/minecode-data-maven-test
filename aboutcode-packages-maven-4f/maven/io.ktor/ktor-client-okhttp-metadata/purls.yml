@@ -18,3 +18,5 @@
 - pkg:maven/io.ktor/ktor-client-okhttp-metadata@1.2.2?classifier=sources
 - pkg:maven/io.ktor/ktor-client-okhttp-metadata@1.2.3-rc
 - pkg:maven/io.ktor/ktor-client-okhttp-metadata@1.2.3-rc?classifier=sources
+- pkg:maven/io.ktor/ktor-client-okhttp-metadata@1.2.3
+- pkg:maven/io.ktor/ktor-client-okhttp-metadata@1.2.3?classifier=sources

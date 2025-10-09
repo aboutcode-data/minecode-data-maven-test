@@ -40,3 +40,7 @@
 - pkg:maven/io.github.astonbitecode/j4rs@0.7.1-java7?classifier=sources
 - pkg:maven/io.github.astonbitecode/j4rs@0.7.1
 - pkg:maven/io.github.astonbitecode/j4rs@0.7.1?classifier=sources
+- pkg:maven/io.github.astonbitecode/j4rs@0.8.0-java7
+- pkg:maven/io.github.astonbitecode/j4rs@0.8.0-java7?classifier=sources
+- pkg:maven/io.github.astonbitecode/j4rs@0.8.0
+- pkg:maven/io.github.astonbitecode/j4rs@0.8.0?classifier=sources

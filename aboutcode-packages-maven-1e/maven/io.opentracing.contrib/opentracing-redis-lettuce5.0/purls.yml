@@ -1,2 +1,4 @@
 - pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce5.0@0.1.8
 - pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce5.0@0.1.8?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce5.0@0.1.9
+- pkg:maven/io.opentracing.contrib/opentracing-redis-lettuce5.0@0.1.9?classifier=sources

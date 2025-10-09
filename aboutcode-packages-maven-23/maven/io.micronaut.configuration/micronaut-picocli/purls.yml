@@ -32,3 +32,5 @@
 - pkg:maven/io.micronaut.configuration/micronaut-picocli@1.2.0.RC1?classifier=sources
 - pkg:maven/io.micronaut.configuration/micronaut-picocli@1.1.4
 - pkg:maven/io.micronaut.configuration/micronaut-picocli@1.1.4?classifier=sources
+- pkg:maven/io.micronaut.configuration/micronaut-picocli@1.2.0
+- pkg:maven/io.micronaut.configuration/micronaut-picocli@1.2.0?classifier=sources
