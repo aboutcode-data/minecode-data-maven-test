@@ -54,3 +54,11 @@
 - pkg:maven/com.yahoo.vespa/messagebus@6.172.31?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus@6.171.12
 - pkg:maven/com.yahoo.vespa/messagebus@6.171.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus@6.178.22
+- pkg:maven/com.yahoo.vespa/messagebus@6.178.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus@6.177.31
+- pkg:maven/com.yahoo.vespa/messagebus@6.177.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus@6.176.233
+- pkg:maven/com.yahoo.vespa/messagebus@6.176.233?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus@6.175.31
+- pkg:maven/com.yahoo.vespa/messagebus@6.175.31?classifier=sources

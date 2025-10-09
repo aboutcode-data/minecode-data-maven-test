@@ -290,3 +290,5 @@
 - pkg:maven/com.vaadin/vaadin-client@8.1.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@7.7.12
 - pkg:maven/com.vaadin/vaadin-client@7.7.12?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@8.1.7
+- pkg:maven/com.vaadin/vaadin-client@8.1.7?classifier=sources
