@@ -1,0 +1,4 @@
+- pkg:maven/net.nurigo/javaSDK@2.0
+- pkg:maven/net.nurigo/javaSDK@2.0?classifier=sources
+- pkg:maven/net.nurigo/javaSDK@0.1
+- pkg:maven/net.nurigo/javaSDK@0.1?classifier=sources

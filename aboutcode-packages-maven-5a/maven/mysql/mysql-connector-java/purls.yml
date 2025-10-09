@@ -66,3 +66,5 @@
 - pkg:maven/mysql/mysql-connector-java@5.1.38?classifier=sources
 - pkg:maven/mysql/mysql-connector-java@6.0.2
 - pkg:maven/mysql/mysql-connector-java@6.0.2?classifier=sources
+- pkg:maven/mysql/mysql-connector-java@5.1.39
+- pkg:maven/mysql/mysql-connector-java@5.1.39?classifier=sources
