@@ -18,3 +18,5 @@
 - pkg:maven/org.onosproject/onos-yang-compiler-linker@2.0?classifier=sources
 - pkg:maven/org.onosproject/onos-yang-compiler-linker@2.1
 - pkg:maven/org.onosproject/onos-yang-compiler-linker@2.1?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-compiler-linker@2.2.0-b1
+- pkg:maven/org.onosproject/onos-yang-compiler-linker@2.2.0-b1?classifier=sources

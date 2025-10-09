@@ -100,3 +100,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-locker@0.20.8?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-locker@0.20.10
 - pkg:maven/org.kill-bill.commons/killbill-locker@0.20.10?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-locker@0.20.11
+- pkg:maven/org.kill-bill.commons/killbill-locker@0.20.11?classifier=sources

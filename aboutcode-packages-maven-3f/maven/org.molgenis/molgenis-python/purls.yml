@@ -94,3 +94,5 @@
 - pkg:maven/org.molgenis/molgenis-python@4.1.0?classifier=sources
 - pkg:maven/org.molgenis/molgenis-python@5.0.0
 - pkg:maven/org.molgenis/molgenis-python@5.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-python@5.0.1
+- pkg:maven/org.molgenis/molgenis-python@5.0.1?classifier=sources

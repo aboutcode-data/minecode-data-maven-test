@@ -30,3 +30,5 @@
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@1.10.2?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@1.10.1
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@1.10.1?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@1.11.0-b2
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@1.11.0-b2?classifier=sources
