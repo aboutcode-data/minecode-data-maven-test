@@ -138,3 +138,5 @@
 - pkg:maven/io.nextflow/nxf-drmaa@0.25.0-RC3?classifier=sources
 - pkg:maven/io.nextflow/nxf-drmaa@0.25.0-RC2
 - pkg:maven/io.nextflow/nxf-drmaa@0.25.0-RC2?classifier=sources
+- pkg:maven/io.nextflow/nxf-drmaa@0.25.0-RC4
+- pkg:maven/io.nextflow/nxf-drmaa@0.25.0-RC4?classifier=sources
