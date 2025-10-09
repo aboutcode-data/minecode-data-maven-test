@@ -63,3 +63,5 @@
 - pkg:maven/org.jolokia/docker-maven-plugin@0.13.7?classifier=sources
 - pkg:maven/org.jolokia/docker-maven-plugin@0.13.8
 - pkg:maven/org.jolokia/docker-maven-plugin@0.13.8?classifier=sources
+- pkg:maven/org.jolokia/docker-maven-plugin@0.13.9
+- pkg:maven/org.jolokia/docker-maven-plugin@0.13.9?classifier=sources
