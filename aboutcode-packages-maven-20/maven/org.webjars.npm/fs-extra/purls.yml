@@ -32,3 +32,5 @@
 - pkg:maven/org.webjars.npm/fs-extra@4.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/fs-extra@1.0.0
 - pkg:maven/org.webjars.npm/fs-extra@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/fs-extra@0.26.7
+- pkg:maven/org.webjars.npm/fs-extra@0.26.7?classifier=sources

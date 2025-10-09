@@ -150,3 +150,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-logback@8.0.0-M9?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-logback@7.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-logback@7.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-logback@8.0.0
+- pkg:maven/org.wicketstuff/wicketstuff-logback@8.0.0?classifier=sources
