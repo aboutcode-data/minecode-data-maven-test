@@ -14,3 +14,5 @@
 - pkg:maven/com.yubico/webauthn-server-attestation@1.1.1-RC1?classifier=sources
 - pkg:maven/com.yubico/webauthn-server-attestation@1.2.0-RC1
 - pkg:maven/com.yubico/webauthn-server-attestation@1.2.0-RC1?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-attestation@1.2.0
+- pkg:maven/com.yubico/webauthn-server-attestation@1.2.0?classifier=sources

@@ -76,3 +76,7 @@
 - pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.11?classifier=sources
 - pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.12
 - pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.12?classifier=sources
+- pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.14
+- pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.14?classifier=sources
+- pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.13
+- pkg:maven/com.softwaremill.sttp/monix_2.11@1.5.13?classifier=sources
