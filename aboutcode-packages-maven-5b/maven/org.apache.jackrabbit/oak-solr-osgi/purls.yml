@@ -352,3 +352,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.8.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.9.4
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.9.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.4.22
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.4.22?classifier=sources

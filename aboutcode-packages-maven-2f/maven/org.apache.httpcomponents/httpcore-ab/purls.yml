@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.httpcomponents/httpcore-ab@4.4.8?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpcore-ab@4.4.9
 - pkg:maven/org.apache.httpcomponents/httpcore-ab@4.4.9?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpcore-ab@4.4.10
+- pkg:maven/org.apache.httpcomponents/httpcore-ab@4.4.10?classifier=sources

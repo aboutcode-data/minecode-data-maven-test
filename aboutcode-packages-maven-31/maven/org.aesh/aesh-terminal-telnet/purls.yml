@@ -20,3 +20,5 @@
 - pkg:maven/org.aesh/aesh-terminal-telnet@1.8?classifier=sources
 - pkg:maven/org.aesh/aesh-terminal-telnet@1.9
 - pkg:maven/org.aesh/aesh-terminal-telnet@1.9?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-telnet@1.10
+- pkg:maven/org.aesh/aesh-terminal-telnet@1.10?classifier=sources

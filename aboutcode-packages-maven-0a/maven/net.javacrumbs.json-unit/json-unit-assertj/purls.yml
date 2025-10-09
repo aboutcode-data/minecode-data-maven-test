@@ -1,2 +1,4 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@0.0.15
 - pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@0.0.15?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@2.0.0.RC1
+- pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@2.0.0.RC1?classifier=sources
