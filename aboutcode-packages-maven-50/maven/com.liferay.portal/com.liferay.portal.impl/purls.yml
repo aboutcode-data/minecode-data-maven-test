@@ -62,3 +62,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.25.3?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.26.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.26.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.26.2
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.26.2?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.26.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@2.26.1?classifier=sources

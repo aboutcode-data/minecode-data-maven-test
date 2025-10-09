@@ -18,3 +18,7 @@
 - pkg:maven/com.github.zuacaldeira/flex-app@1.1.12?classifier=sources
 - pkg:maven/com.github.zuacaldeira/flex-app@1.1.13?type=war
 - pkg:maven/com.github.zuacaldeira/flex-app@1.1.13?classifier=sources
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.15?type=war
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.15?classifier=sources
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.14?type=war
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.14?classifier=sources

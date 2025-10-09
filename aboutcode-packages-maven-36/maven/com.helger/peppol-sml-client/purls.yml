@@ -66,3 +66,5 @@
 - pkg:maven/com.helger/peppol-sml-client@6.0.0-b1?classifier=sources
 - pkg:maven/com.helger/peppol-sml-client@6.0.0-b2
 - pkg:maven/com.helger/peppol-sml-client@6.0.0-b2?classifier=sources
+- pkg:maven/com.helger/peppol-sml-client@6.0.0
+- pkg:maven/com.helger/peppol-sml-client@6.0.0?classifier=sources
