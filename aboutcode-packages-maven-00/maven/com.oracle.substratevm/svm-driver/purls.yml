@@ -8,3 +8,5 @@
 - pkg:maven/com.oracle.substratevm/svm-driver@1.0.0-rc11?classifier=sources
 - pkg:maven/com.oracle.substratevm/svm-driver@1.0.0-rc12
 - pkg:maven/com.oracle.substratevm/svm-driver@1.0.0-rc12?classifier=sources
+- pkg:maven/com.oracle.substratevm/svm-driver@1.0.0-rc13
+- pkg:maven/com.oracle.substratevm/svm-driver@1.0.0-rc13?classifier=sources

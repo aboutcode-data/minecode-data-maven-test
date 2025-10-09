@@ -306,3 +306,5 @@
 - pkg:maven/com.yahoo.vespa/container-di@7.16.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-di@7.20.129
 - pkg:maven/com.yahoo.vespa/container-di@7.20.129?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-di@7.21.18
+- pkg:maven/com.yahoo.vespa/container-di@7.21.18?classifier=sources

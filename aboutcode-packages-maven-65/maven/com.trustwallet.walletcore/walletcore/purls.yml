@@ -6,3 +6,5 @@
 - pkg:maven/com.trustwallet.walletcore/walletcore@0.4.0?classifier=sources
 - pkg:maven/com.trustwallet.walletcore/walletcore@0.5.2?type=aar
 - pkg:maven/com.trustwallet.walletcore/walletcore@0.5.2?classifier=sources
+- pkg:maven/com.trustwallet.walletcore/walletcore@0.5.3?type=aar
+- pkg:maven/com.trustwallet.walletcore/walletcore@0.5.3?classifier=sources

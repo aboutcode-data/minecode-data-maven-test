@@ -76,3 +76,4 @@
 - pkg:maven/uk.gov.gchq.gaffer/federated-demo@1.8.0-RC4?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/federated-demo@1.8.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/federated-demo@1.8.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/federated-demo@1.8.1?type=war
