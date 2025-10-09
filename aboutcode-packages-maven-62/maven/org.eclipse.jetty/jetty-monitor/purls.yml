@@ -330,3 +330,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.26.v20180806?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.25.v20180904
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.25.v20180904?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.26.v20190403
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.26.v20190403?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.27.v20190403
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.27.v20190403?classifier=sources

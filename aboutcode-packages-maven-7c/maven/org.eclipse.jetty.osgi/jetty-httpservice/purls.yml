@@ -472,3 +472,7 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.4.13.v20181111?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.4.15.v20190215
 - pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.4.15.v20190215?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.3.26.v20190403
+- pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.3.26.v20190403?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.2.27.v20190403
+- pkg:maven/org.eclipse.jetty.osgi/jetty-httpservice@9.2.27.v20190403?classifier=sources

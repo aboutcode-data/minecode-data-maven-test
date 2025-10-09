@@ -44,3 +44,7 @@
 - pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@7.0.0-rc1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@6.7.0
 - pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@6.7.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@7.0.0-rc2
+- pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@7.0.0-rc2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@6.7.1
+- pkg:maven/org.codelibs.elasticsearch.lib/plugin-classloader@6.7.1?classifier=sources

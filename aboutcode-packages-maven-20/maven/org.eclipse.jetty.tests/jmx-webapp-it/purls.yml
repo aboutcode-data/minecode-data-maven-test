@@ -144,3 +144,5 @@
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.4.0.v20180619?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.26.v20180806
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.26.v20180806?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.27.v20190403
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.27.v20190403?classifier=sources
