@@ -34,3 +34,5 @@
 - pkg:maven/com.yahoo.vespa/container-test@6.176.233?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@6.175.31
 - pkg:maven/com.yahoo.vespa/container-test@6.175.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.179.30
+- pkg:maven/com.yahoo.vespa/container-test@6.179.30?classifier=sources

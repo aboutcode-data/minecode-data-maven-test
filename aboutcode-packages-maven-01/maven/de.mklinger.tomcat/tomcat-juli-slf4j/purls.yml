@@ -54,3 +54,5 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.47?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.82
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.82?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.24
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.24?classifier=sources

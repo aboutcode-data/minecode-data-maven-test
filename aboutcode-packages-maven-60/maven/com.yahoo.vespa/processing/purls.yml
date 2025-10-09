@@ -62,3 +62,5 @@
 - pkg:maven/com.yahoo.vespa/processing@6.176.233?classifier=sources
 - pkg:maven/com.yahoo.vespa/processing@6.175.31
 - pkg:maven/com.yahoo.vespa/processing@6.175.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/processing@6.179.30
+- pkg:maven/com.yahoo.vespa/processing@6.179.30?classifier=sources

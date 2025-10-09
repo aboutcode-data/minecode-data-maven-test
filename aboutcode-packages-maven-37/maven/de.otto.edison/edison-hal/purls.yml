@@ -30,3 +30,5 @@
 - pkg:maven/de.otto.edison/edison-hal@1.0.0.RC5?classifier=sources
 - pkg:maven/de.otto.edison/edison-hal@1.0.0
 - pkg:maven/de.otto.edison/edison-hal@1.0.0?classifier=sources
+- pkg:maven/de.otto.edison/edison-hal@2.0.0-m1
+- pkg:maven/de.otto.edison/edison-hal@2.0.0-m1?classifier=sources
