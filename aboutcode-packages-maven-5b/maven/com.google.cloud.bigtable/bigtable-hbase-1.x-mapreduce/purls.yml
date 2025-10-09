@@ -10,3 +10,5 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.9.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.10.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.10.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.11.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.11.0?classifier=sources
