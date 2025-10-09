@@ -4,3 +4,7 @@
 - pkg:maven/io.micrometer/micrometer-datadog-starter@0.6.1.RELEASE?classifier=sources
 - pkg:maven/io.micrometer/micrometer-datadog-starter@0.6.0.RELEASE
 - pkg:maven/io.micrometer/micrometer-datadog-starter@0.6.0.RELEASE?classifier=sources
+- pkg:maven/io.micrometer/micrometer-datadog-starter@0.8.0.RELEASE
+- pkg:maven/io.micrometer/micrometer-datadog-starter@0.8.0.RELEASE?classifier=sources
+- pkg:maven/io.micrometer/micrometer-datadog-starter@0.7.0.RELEASE
+- pkg:maven/io.micrometer/micrometer-datadog-starter@0.7.0.RELEASE?classifier=sources

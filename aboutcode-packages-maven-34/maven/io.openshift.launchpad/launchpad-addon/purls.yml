@@ -25,3 +25,6 @@
 - pkg:maven/io.openshift.launchpad/launchpad-addon@8
 - pkg:maven/io.openshift.launchpad/launchpad-addon@8?classifier=sources
 - pkg:maven/io.openshift.launchpad/launchpad-addon@8?classifier=source-release&type=zip
+- pkg:maven/io.openshift.launchpad/launchpad-addon@9
+- pkg:maven/io.openshift.launchpad/launchpad-addon@9?classifier=sources
+- pkg:maven/io.openshift.launchpad/launchpad-addon@9?classifier=source-release&type=zip

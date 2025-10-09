@@ -238,3 +238,7 @@
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.12?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.10
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.10?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.21
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.21?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.20
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.20?classifier=sources

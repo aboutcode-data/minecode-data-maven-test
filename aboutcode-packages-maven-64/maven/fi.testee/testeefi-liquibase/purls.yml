@@ -1,0 +1,4 @@
+- pkg:maven/fi.testee/testeefi-liquibase@0.2.0
+- pkg:maven/fi.testee/testeefi-liquibase@0.2.0?classifier=sources
+- pkg:maven/fi.testee/testeefi-liquibase@0.1.0
+- pkg:maven/fi.testee/testeefi-liquibase@0.1.0?classifier=sources
