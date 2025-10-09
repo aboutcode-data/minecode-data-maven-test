@@ -50,3 +50,5 @@
 - pkg:maven/org.dmfs/http-client-headers@0.18?classifier=sources
 - pkg:maven/org.dmfs/http-client-headers@0.19
 - pkg:maven/org.dmfs/http-client-headers@0.19?classifier=sources
+- pkg:maven/org.dmfs/http-client-headers@0.20
+- pkg:maven/org.dmfs/http-client-headers@0.20?classifier=sources

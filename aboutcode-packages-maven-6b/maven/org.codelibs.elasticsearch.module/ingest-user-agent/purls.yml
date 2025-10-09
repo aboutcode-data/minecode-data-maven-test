@@ -32,3 +32,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-user-agent@6.8.2?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-user-agent@7.3.1
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-user-agent@7.3.1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-user-agent@7.3.2
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-user-agent@7.3.2?classifier=sources
