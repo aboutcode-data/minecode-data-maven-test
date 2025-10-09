@@ -80,3 +80,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.java@3.0.13?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.java@3.0.16
 - pkg:maven/com.liferay.portal/com.liferay.util.java@3.0.16?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.java@2.5.19
+- pkg:maven/com.liferay.portal/com.liferay.util.java@2.5.19?classifier=sources

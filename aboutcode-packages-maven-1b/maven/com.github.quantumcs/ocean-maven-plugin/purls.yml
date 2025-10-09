@@ -1,0 +1,4 @@
+- pkg:maven/com.github.quantumcs/ocean-maven-plugin@1.01
+- pkg:maven/com.github.quantumcs/ocean-maven-plugin@1.01?classifier=sources
+- pkg:maven/com.github.quantumcs/ocean-maven-plugin@1.0.3
+- pkg:maven/com.github.quantumcs/ocean-maven-plugin@1.0.3?classifier=sources

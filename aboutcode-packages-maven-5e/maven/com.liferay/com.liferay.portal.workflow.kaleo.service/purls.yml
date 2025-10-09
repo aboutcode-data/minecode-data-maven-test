@@ -185,3 +185,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.50
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@3.0.21
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.51
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.service@2.0.51?classifier=sources-commercial
