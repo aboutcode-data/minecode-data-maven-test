@@ -36,3 +36,5 @@
 - pkg:maven/com.typesafe.akka/akka-http-core_2.11@2.4-ARTERY-M4?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-core_2.11@2.4.11
 - pkg:maven/com.typesafe.akka/akka-http-core_2.11@2.4.11?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-core_2.11@3.0.0-RC1
+- pkg:maven/com.typesafe.akka/akka-http-core_2.11@3.0.0-RC1?classifier=sources
