@@ -46,3 +46,5 @@
 - pkg:maven/com.exasol/virtual-schema-common-java@7.4.0?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-java@7.5.0
 - pkg:maven/com.exasol/virtual-schema-common-java@7.5.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-java@8.0.0
+- pkg:maven/com.exasol/virtual-schema-common-java@8.0.0?classifier=sources

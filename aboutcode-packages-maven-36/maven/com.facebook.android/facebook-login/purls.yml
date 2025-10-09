@@ -60,3 +60,5 @@
 - pkg:maven/com.facebook.android/facebook-login@5.8.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-login@5.9.0?type=aar
 - pkg:maven/com.facebook.android/facebook-login@5.9.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-login@5.11.0?type=aar
+- pkg:maven/com.facebook.android/facebook-login@5.11.0?classifier=sources

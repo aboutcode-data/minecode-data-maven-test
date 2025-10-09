@@ -32,3 +32,5 @@
 - pkg:maven/com.facebook.presto/presto-parquet@0.227?classifier=sources
 - pkg:maven/com.facebook.presto/presto-parquet@0.228
 - pkg:maven/com.facebook.presto/presto-parquet@0.228?classifier=sources
+- pkg:maven/com.facebook.presto/presto-parquet@0.229
+- pkg:maven/com.facebook.presto/presto-parquet@0.229?classifier=sources
