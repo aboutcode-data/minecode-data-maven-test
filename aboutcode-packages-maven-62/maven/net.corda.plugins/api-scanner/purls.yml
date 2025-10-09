@@ -30,3 +30,5 @@
 - pkg:maven/net.corda.plugins/api-scanner@4.0.22?classifier=sources
 - pkg:maven/net.corda.plugins/api-scanner@3.2.1
 - pkg:maven/net.corda.plugins/api-scanner@3.2.1?classifier=sources
+- pkg:maven/net.corda.plugins/api-scanner@4.0.42
+- pkg:maven/net.corda.plugins/api-scanner@4.0.42?classifier=sources

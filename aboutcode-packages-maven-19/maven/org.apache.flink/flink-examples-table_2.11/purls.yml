@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.flink/flink-examples-table_2.11@1.7.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-examples-table_2.11@1.6.4
 - pkg:maven/org.apache.flink/flink-examples-table_2.11@1.6.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-examples-table_2.11@1.8.0
+- pkg:maven/org.apache.flink/flink-examples-table_2.11@1.8.0?classifier=sources

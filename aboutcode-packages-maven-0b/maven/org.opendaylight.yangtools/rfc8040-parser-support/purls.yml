@@ -12,3 +12,5 @@
 - pkg:maven/org.opendaylight.yangtools/rfc8040-parser-support@2.1.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-parser-support@2.0.17
 - pkg:maven/org.opendaylight.yangtools/rfc8040-parser-support@2.0.17?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8040-parser-support@3.0.0
+- pkg:maven/org.opendaylight.yangtools/rfc8040-parser-support@3.0.0?classifier=sources

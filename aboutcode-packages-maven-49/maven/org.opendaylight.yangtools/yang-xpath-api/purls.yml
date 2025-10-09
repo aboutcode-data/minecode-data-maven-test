@@ -10,3 +10,5 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-api@0.2.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-api@0.1.17
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-api@0.1.17?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-api@1.0.0
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-api@1.0.0?classifier=sources

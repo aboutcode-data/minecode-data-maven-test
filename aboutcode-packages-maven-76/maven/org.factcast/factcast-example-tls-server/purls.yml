@@ -4,3 +4,5 @@
 - pkg:maven/org.factcast/factcast-example-tls-server@0.0.34?classifier=sources
 - pkg:maven/org.factcast/factcast-example-tls-server@0.0.33
 - pkg:maven/org.factcast/factcast-example-tls-server@0.0.33?classifier=sources
+- pkg:maven/org.factcast/factcast-example-tls-server@0.1.0-M1
+- pkg:maven/org.factcast/factcast-example-tls-server@0.1.0-M1?classifier=sources

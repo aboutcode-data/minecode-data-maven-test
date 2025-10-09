@@ -35,3 +35,5 @@
 - pkg:maven/org.rundeck/rundeck@3.0.18-20190322?classifier=sources
 - pkg:maven/org.rundeck/rundeck@3.0.19-20190327?type=war
 - pkg:maven/org.rundeck/rundeck@3.0.19-20190327?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.20-20190408?type=war
+- pkg:maven/org.rundeck/rundeck@3.0.20-20190408?classifier=sources
