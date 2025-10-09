@@ -37,3 +37,5 @@
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.10.2
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.10.1
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.10.0
+- pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.13.1
+- pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.13.1?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.opendaylight.netconf/netconf-util@1.0.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-util@1.7.0
 - pkg:maven/org.opendaylight.netconf/netconf-util@1.7.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-util@1.7.1
+- pkg:maven/org.opendaylight.netconf/netconf-util@1.7.1?classifier=sources

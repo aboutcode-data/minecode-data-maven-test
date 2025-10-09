@@ -62,3 +62,5 @@
 - pkg:maven/org.opendaylight.aaa/aaa-shiro@0.3.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-shiro@0.10.0
 - pkg:maven/org.opendaylight.aaa/aaa-shiro@0.10.0?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-shiro@0.10.1
+- pkg:maven/org.opendaylight.aaa/aaa-shiro@0.10.1?classifier=sources

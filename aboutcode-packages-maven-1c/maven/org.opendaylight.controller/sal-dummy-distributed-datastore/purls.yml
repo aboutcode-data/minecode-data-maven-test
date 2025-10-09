@@ -71,3 +71,5 @@
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@1.2.0-Lithium
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@1.10.0
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@1.10.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@1.10.1
+- pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@1.10.1?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/org.opendaylight.openflowplugin.applications/table-miss-enforcer@0.0.4-Helium-SR1.1
 - pkg:maven/org.opendaylight.openflowplugin.applications/table-miss-enforcer@0.0.4-Helium-SR1
 - pkg:maven/org.opendaylight.openflowplugin.applications/table-miss-enforcer@0.0.3-Helium
+- pkg:maven/org.opendaylight.openflowplugin.applications/table-miss-enforcer@0.9.1
+- pkg:maven/org.opendaylight.openflowplugin.applications/table-miss-enforcer@0.9.1?classifier=sources

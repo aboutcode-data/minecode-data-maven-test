@@ -42,3 +42,5 @@
 - pkg:maven/org.opendaylight.infrautils/jobcoordinator-impl@1.1.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/jobcoordinator-impl@1.6.0
 - pkg:maven/org.opendaylight.infrautils/jobcoordinator-impl@1.6.0?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/jobcoordinator-impl@1.6.1
+- pkg:maven/org.opendaylight.infrautils/jobcoordinator-impl@1.6.1?classifier=sources

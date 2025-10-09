@@ -72,3 +72,5 @@
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.shell@1.2.0-Lithium?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.shell@1.10.0
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.shell@1.10.0?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.shell@1.10.1
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.shell@1.10.1?classifier=sources

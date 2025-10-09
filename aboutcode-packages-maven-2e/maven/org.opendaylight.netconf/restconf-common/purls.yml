@@ -24,3 +24,5 @@
 - pkg:maven/org.opendaylight.netconf/restconf-common@1.7.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common@1.10.0
 - pkg:maven/org.opendaylight.netconf/restconf-common@1.10.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-common@1.10.1
+- pkg:maven/org.opendaylight.netconf/restconf-common@1.10.1?classifier=sources

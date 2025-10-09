@@ -42,3 +42,5 @@
 - pkg:maven/org.opendaylight.netconf/callhome-provider@1.2.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.netconf/callhome-provider@1.7.0
 - pkg:maven/org.opendaylight.netconf/callhome-provider@1.7.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/callhome-provider@1.7.1
+- pkg:maven/org.opendaylight.netconf/callhome-provider@1.7.1?classifier=sources
