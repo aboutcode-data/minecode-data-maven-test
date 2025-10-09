@@ -151,3 +151,6 @@
 - pkg:maven/org.jboss/jboss-vfs@3.2.13.Final
 - pkg:maven/org.jboss/jboss-vfs@3.2.13.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-vfs@3.2.13.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-vfs@3.2.14.Final
+- pkg:maven/org.jboss/jboss-vfs@3.2.14.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-vfs@3.2.14.Final?classifier=source-release&type=zip

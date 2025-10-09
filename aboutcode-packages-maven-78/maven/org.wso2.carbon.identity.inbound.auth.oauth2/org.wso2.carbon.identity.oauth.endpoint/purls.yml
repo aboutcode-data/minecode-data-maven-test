@@ -580,3 +580,11 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.41?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.40?type=war
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.40?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.47?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.47?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.46?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.46?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.45?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.45?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.44?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.endpoint@6.0.44?classifier=sources

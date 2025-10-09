@@ -14,3 +14,5 @@
 - pkg:maven/org.opensky-network/libadsb@2.1.4?classifier=sources
 - pkg:maven/org.opensky-network/libadsb@2.1.5
 - pkg:maven/org.opensky-network/libadsb@2.1.5?classifier=sources
+- pkg:maven/org.opensky-network/libadsb@3.0.0-RC1
+- pkg:maven/org.opensky-network/libadsb@3.0.0-RC1?classifier=sources
