@@ -54,3 +54,5 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-core@7.9.0-alpha4?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-core@7.9.0-alpha5
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-core@7.9.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine-rest-core@7.9.0
+- pkg:maven/org.camunda.bpm/camunda-engine-rest-core@7.9.0?classifier=sources

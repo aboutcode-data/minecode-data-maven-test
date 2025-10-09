@@ -302,3 +302,4 @@
 - pkg:maven/org.codehaus.groovy/groovy-all@3.0.0-alpha-2?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.0-rc-2?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.0-rc-3?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-all@2.5.0?classifier=sources
