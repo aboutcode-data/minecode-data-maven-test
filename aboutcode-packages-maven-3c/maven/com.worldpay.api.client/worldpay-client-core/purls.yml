@@ -22,3 +22,5 @@
 - pkg:maven/com.worldpay.api.client/worldpay-client-core@0.0.11?classifier=sources
 - pkg:maven/com.worldpay.api.client/worldpay-client-core@0.0.13
 - pkg:maven/com.worldpay.api.client/worldpay-client-core@0.0.13?classifier=sources
+- pkg:maven/com.worldpay.api.client/worldpay-client-core@0.1.0
+- pkg:maven/com.worldpay.api.client/worldpay-client-core@0.1.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.wavefront/java-client@3.9?classifier=sources
 - pkg:maven/com.wavefront/java-client@3.10
 - pkg:maven/com.wavefront/java-client@3.10?classifier=sources
+- pkg:maven/com.wavefront/java-client@3.13
+- pkg:maven/com.wavefront/java-client@3.13?classifier=sources
