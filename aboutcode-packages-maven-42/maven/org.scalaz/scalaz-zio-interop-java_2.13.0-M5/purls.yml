@@ -18,3 +18,7 @@
 - pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.13?classifier=sources
 - pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.12
 - pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.12?classifier=sources
+- pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.16
+- pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.16?classifier=sources
+- pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.15
+- pkg:maven/org.scalaz/scalaz-zio-interop-java_2.13.0-M5@0.15?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.simplejavamail/test-auto-deploy@5.7.10?classifier=sources
 - pkg:maven/org.simplejavamail/test-auto-deploy@4.7.10
 - pkg:maven/org.simplejavamail/test-auto-deploy@4.7.10?classifier=sources
+- pkg:maven/org.simplejavamail/test-auto-deploy@6.8.10
+- pkg:maven/org.simplejavamail/test-auto-deploy@6.8.10?classifier=sources

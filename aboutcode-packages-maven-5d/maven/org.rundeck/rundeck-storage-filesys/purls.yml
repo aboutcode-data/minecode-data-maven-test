@@ -160,3 +160,5 @@
 - pkg:maven/org.rundeck/rundeck-storage-filesys@2.11.10?classifier=sources
 - pkg:maven/org.rundeck/rundeck-storage-filesys@3.0.17-20190311
 - pkg:maven/org.rundeck/rundeck-storage-filesys@3.0.17-20190311?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-filesys@3.0.18-20190322
+- pkg:maven/org.rundeck/rundeck-storage-filesys@3.0.18-20190322?classifier=sources
