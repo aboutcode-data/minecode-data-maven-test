@@ -200,3 +200,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.css.web@1.0.52
 - pkg:maven/com.liferay/com.liferay.frontend.css.web@1.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.css.web@1.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@3.0.14
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@3.0.13
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@3.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.css.web@3.0.13?classifier=sources-commercial

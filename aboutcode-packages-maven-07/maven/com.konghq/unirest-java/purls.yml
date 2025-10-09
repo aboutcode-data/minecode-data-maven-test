@@ -58,3 +58,9 @@
 - pkg:maven/com.konghq/unirest-java@3.0.00?classifier=sources
 - pkg:maven/com.konghq/unirest-java@2.4.00
 - pkg:maven/com.konghq/unirest-java@2.4.00?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.1.00
+- pkg:maven/com.konghq/unirest-java@3.1.00?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.0.01
+- pkg:maven/com.konghq/unirest-java@3.0.01?classifier=sources
+- pkg:maven/com.konghq/unirest-java@2.4.02
+- pkg:maven/com.konghq/unirest-java@2.4.02?classifier=sources

@@ -112,3 +112,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@2.0.9
 - pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@2.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@3.0.7
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@2.0.10
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@2.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@1.0.23
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@1.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.wedeploy.auth.api@1.0.23?classifier=sources-commercial

@@ -76,3 +76,5 @@
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.7.3?classifier=sources
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.7.2?type=war
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.7.2?classifier=sources
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.8.0?type=war
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.8.0?classifier=sources

@@ -120,3 +120,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-build-tool-support@1.4.15?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-build-tool-support@1.5.3
 - pkg:maven/com.lightbend.lagom/lagom-build-tool-support@1.5.3?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-build-tool-support@1.6.0-M6
+- pkg:maven/com.lightbend.lagom/lagom-build-tool-support@1.6.0-M6?classifier=sources

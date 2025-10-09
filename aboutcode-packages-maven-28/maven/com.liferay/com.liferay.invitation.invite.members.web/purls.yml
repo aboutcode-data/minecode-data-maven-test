@@ -170,3 +170,6 @@
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.web@2.0.14
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.web@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.web@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.web@3.0.14
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.web@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.web@3.0.14?classifier=sources-commercial

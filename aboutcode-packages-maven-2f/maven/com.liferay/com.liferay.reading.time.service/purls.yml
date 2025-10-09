@@ -91,3 +91,9 @@
 - pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.22
 - pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.reading.time.service@2.0.9
+- pkg:maven/com.liferay/com.liferay.reading.time.service@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.reading.time.service@2.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.23
+- pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.reading.time.service@1.0.23?classifier=sources-commercial

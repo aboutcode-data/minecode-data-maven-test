@@ -316,3 +316,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.3
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.27
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.26
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.0.26?classifier=sources-commercial

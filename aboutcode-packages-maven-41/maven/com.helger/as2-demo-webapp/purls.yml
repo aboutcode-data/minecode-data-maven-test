@@ -16,3 +16,5 @@
 - pkg:maven/com.helger/as2-demo-webapp@4.4.2?classifier=sources
 - pkg:maven/com.helger/as2-demo-webapp@4.4.3?type=war
 - pkg:maven/com.helger/as2-demo-webapp@4.4.3?classifier=sources
+- pkg:maven/com.helger/as2-demo-webapp@4.4.4?type=war
+- pkg:maven/com.helger/as2-demo-webapp@4.4.4?classifier=sources

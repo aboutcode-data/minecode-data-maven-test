@@ -367,3 +367,12 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.41
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.22
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.21
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.42
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.42?classifier=sources-commercial

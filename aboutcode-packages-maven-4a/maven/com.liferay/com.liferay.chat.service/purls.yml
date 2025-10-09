@@ -245,3 +245,12 @@
 - pkg:maven/com.liferay/com.liferay.chat.service@3.0.24
 - pkg:maven/com.liferay/com.liferay.chat.service@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.chat.service@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.service@4.0.15
+- pkg:maven/com.liferay/com.liferay.chat.service@4.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.service@4.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.service@3.0.25
+- pkg:maven/com.liferay/com.liferay.chat.service@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.service@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.service@2.0.25
+- pkg:maven/com.liferay/com.liferay.chat.service@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.service@2.0.25?classifier=sources-commercial

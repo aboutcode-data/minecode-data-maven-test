@@ -211,3 +211,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@2.0.29
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@2.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@2.0.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.20
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.19
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.19?classifier=sources-commercial

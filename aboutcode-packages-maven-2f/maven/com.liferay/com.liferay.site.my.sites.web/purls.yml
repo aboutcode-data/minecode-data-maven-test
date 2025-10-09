@@ -118,3 +118,6 @@
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.7
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.13
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.13?classifier=sources-commercial
