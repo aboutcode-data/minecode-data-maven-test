@@ -1,2 +1,4 @@
 - pkg:maven/org.hibernate/hibernate-jcache@5.2.0.Final
 - pkg:maven/org.hibernate/hibernate-jcache@5.2.0.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jcache@5.2.1.Final
+- pkg:maven/org.hibernate/hibernate-jcache@5.2.1.Final?classifier=sources
