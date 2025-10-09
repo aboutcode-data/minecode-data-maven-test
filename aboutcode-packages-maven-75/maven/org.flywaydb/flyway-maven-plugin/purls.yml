@@ -54,3 +54,5 @@
 - pkg:maven/org.flywaydb/flyway-maven-plugin@5.2.3?classifier=sources
 - pkg:maven/org.flywaydb/flyway-maven-plugin@5.2.2
 - pkg:maven/org.flywaydb/flyway-maven-plugin@5.2.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.2.4
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.2.4?classifier=sources
