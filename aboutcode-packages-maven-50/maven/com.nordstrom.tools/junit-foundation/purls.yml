@@ -44,3 +44,9 @@
 - pkg:maven/com.nordstrom.tools/junit-foundation@6.5.0?classifier=sources
 - pkg:maven/com.nordstrom.tools/junit-foundation@6.4.0
 - pkg:maven/com.nordstrom.tools/junit-foundation@6.4.0?classifier=sources
+- pkg:maven/com.nordstrom.tools/junit-foundation@8.0.1
+- pkg:maven/com.nordstrom.tools/junit-foundation@8.0.1?classifier=sources
+- pkg:maven/com.nordstrom.tools/junit-foundation@8.0.0
+- pkg:maven/com.nordstrom.tools/junit-foundation@8.0.0?classifier=sources
+- pkg:maven/com.nordstrom.tools/junit-foundation@7.0.0
+- pkg:maven/com.nordstrom.tools/junit-foundation@7.0.0?classifier=sources

@@ -92,3 +92,5 @@
 - pkg:maven/com.wootric/wootric-sdk-android@2.7.0?classifier=sources
 - pkg:maven/com.wootric/wootric-sdk-android@2.8.0?type=aar
 - pkg:maven/com.wootric/wootric-sdk-android@2.8.0?classifier=sources
+- pkg:maven/com.wootric/wootric-sdk-android@2.9.0?type=aar
+- pkg:maven/com.wootric/wootric-sdk-android@2.9.0?classifier=sources

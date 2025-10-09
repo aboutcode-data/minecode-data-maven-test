@@ -206,3 +206,5 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-jackson_2.12@1.5.22?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-jackson_2.12@5.6.9
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-jackson_2.12@5.6.9?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-jackson_2.12@6.5.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-jackson_2.12@6.5.0?classifier=sources

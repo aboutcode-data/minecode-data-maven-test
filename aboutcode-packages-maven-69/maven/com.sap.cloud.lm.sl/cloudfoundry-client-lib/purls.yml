@@ -40,3 +40,7 @@
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-23?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-22
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-22?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-25
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-25?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-24
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.1.4.RELEASE-sap-24?classifier=sources
