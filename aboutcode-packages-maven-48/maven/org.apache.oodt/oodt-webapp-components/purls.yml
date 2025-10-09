@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.oodt/oodt-webapp-components@0.12?classifier=sources
 - pkg:maven/org.apache.oodt/oodt-webapp-components@1.0
 - pkg:maven/org.apache.oodt/oodt-webapp-components@1.0?classifier=sources
+- pkg:maven/org.apache.oodt/oodt-webapp-components@1.1
+- pkg:maven/org.apache.oodt/oodt-webapp-components@1.1?classifier=sources

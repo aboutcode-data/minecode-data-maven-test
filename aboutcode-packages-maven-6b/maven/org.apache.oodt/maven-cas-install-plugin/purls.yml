@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.oodt/maven-cas-install-plugin@0.12?classifier=sources
 - pkg:maven/org.apache.oodt/maven-cas-install-plugin@1.0
 - pkg:maven/org.apache.oodt/maven-cas-install-plugin@1.0?classifier=sources
+- pkg:maven/org.apache.oodt/maven-cas-install-plugin@1.1
+- pkg:maven/org.apache.oodt/maven-cas-install-plugin@1.1?classifier=sources

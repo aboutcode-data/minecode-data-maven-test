@@ -10,3 +10,5 @@
 - pkg:maven/org.dmfs/lib-recur@0.9.6?classifier=sources
 - pkg:maven/org.dmfs/lib-recur@0.9.8
 - pkg:maven/org.dmfs/lib-recur@0.9.8?classifier=sources
+- pkg:maven/org.dmfs/lib-recur@0.10
+- pkg:maven/org.dmfs/lib-recur@0.10?classifier=sources

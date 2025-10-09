@@ -110,3 +110,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@5.5.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.4.5
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@2.4.5?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@5.5.1
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-pig@5.5.1?classifier=sources

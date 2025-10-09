@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@1.2.2?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.0
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.0?classifier=sources
+- pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.2.0
+- pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.2.0?classifier=sources

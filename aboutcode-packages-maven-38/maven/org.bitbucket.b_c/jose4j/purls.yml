@@ -34,3 +34,5 @@
 - pkg:maven/org.bitbucket.b_c/jose4j@0.5.7?classifier=sources
 - pkg:maven/org.bitbucket.b_c/jose4j@0.5.8
 - pkg:maven/org.bitbucket.b_c/jose4j@0.5.8?classifier=sources
+- pkg:maven/org.bitbucket.b_c/jose4j@0.6.0
+- pkg:maven/org.bitbucket.b_c/jose4j@0.6.0?classifier=sources

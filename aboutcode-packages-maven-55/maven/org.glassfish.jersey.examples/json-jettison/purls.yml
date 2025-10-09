@@ -190,3 +190,6 @@
 - pkg:maven/org.glassfish.jersey.examples/json-jettison@2.26-b08
 - pkg:maven/org.glassfish.jersey.examples/json-jettison@2.26-b08?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/json-jettison@2.26-b08?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/json-jettison@2.26-b09
+- pkg:maven/org.glassfish.jersey.examples/json-jettison@2.26-b09?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/json-jettison@2.26-b09?classifier=project-src&type=zip
