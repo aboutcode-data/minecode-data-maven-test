@@ -1352,3 +1352,5 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.authentication.endpoint@5.12.262?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.authentication.endpoint@5.12.261?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.authentication.endpoint@5.12.261?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.authentication.endpoint@5.12.265?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.authentication.endpoint@5.12.265?classifier=sources

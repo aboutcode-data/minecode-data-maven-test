@@ -36,3 +36,5 @@
 - pkg:maven/uk.gov.gchq.koryphe/doc@1.6.0-RC3?classifier=sources
 - pkg:maven/uk.gov.gchq.koryphe/doc@1.6.0-RC4
 - pkg:maven/uk.gov.gchq.koryphe/doc@1.6.0-RC4?classifier=sources
+- pkg:maven/uk.gov.gchq.koryphe/doc@1.6.0
+- pkg:maven/uk.gov.gchq.koryphe/doc@1.6.0?classifier=sources

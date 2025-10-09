@@ -102,3 +102,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/mini-accumulo-cluster@1.8.0-RC3?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/mini-accumulo-cluster@1.8.0-RC4
 - pkg:maven/uk.gov.gchq.gaffer/mini-accumulo-cluster@1.8.0-RC4?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/mini-accumulo-cluster@1.8.0
+- pkg:maven/uk.gov.gchq.gaffer/mini-accumulo-cluster@1.8.0?classifier=sources
