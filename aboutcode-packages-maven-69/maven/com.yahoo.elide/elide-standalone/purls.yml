@@ -35,3 +35,5 @@
 - pkg:maven/com.yahoo.elide/elide-standalone@4.2.1
 - pkg:maven/com.yahoo.elide/elide-standalone@4.2.3
 - pkg:maven/com.yahoo.elide/elide-standalone@4.2.3?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-standalone@4.2.4
+- pkg:maven/com.yahoo.elide/elide-standalone@4.2.4?classifier=sources

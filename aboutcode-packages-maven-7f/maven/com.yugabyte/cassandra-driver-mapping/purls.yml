@@ -14,3 +14,5 @@
 - pkg:maven/com.yugabyte/cassandra-driver-mapping@3.2.0-yb-14?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-mapping@3.2.0-yb-15
 - pkg:maven/com.yugabyte/cassandra-driver-mapping@3.2.0-yb-15?classifier=sources
+- pkg:maven/com.yugabyte/cassandra-driver-mapping@3.2.0-yb-16
+- pkg:maven/com.yugabyte/cassandra-driver-mapping@3.2.0-yb-16?classifier=sources

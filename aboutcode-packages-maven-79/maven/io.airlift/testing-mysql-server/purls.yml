@@ -8,3 +8,5 @@
 - pkg:maven/io.airlift/testing-mysql-server@5.7.19-3?classifier=sources
 - pkg:maven/io.airlift/testing-mysql-server@5.7.19-2
 - pkg:maven/io.airlift/testing-mysql-server@5.7.19-2?classifier=sources
+- pkg:maven/io.airlift/testing-mysql-server@5.7.22-1
+- pkg:maven/io.airlift/testing-mysql-server@5.7.22-1?classifier=sources
