@@ -48,3 +48,5 @@
 - pkg:maven/org.chtijbug.drools/drools-framework-runtime-entity@2.0.8?classifier=sources
 - pkg:maven/org.chtijbug.drools/drools-framework-runtime-entity@1.1.0.17-2
 - pkg:maven/org.chtijbug.drools/drools-framework-runtime-entity@1.1.0.17-2?classifier=sources
+- pkg:maven/org.chtijbug.drools/drools-framework-runtime-entity@drools-framework-parent-1.5.3
+- pkg:maven/org.chtijbug.drools/drools-framework-runtime-entity@drools-framework-parent-1.5.3?classifier=sources

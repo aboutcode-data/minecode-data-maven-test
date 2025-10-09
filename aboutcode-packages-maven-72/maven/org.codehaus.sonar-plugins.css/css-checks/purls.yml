@@ -22,3 +22,5 @@
 - pkg:maven/org.codehaus.sonar-plugins.css/css-checks@4.4?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.css/css-checks@4.3
 - pkg:maven/org.codehaus.sonar-plugins.css/css-checks@4.3?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks@4.5
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks@4.5?classifier=sources
