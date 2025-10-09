@@ -1,1 +1,2 @@
 - pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.2.7
+- pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.2.7?classifier=sources
