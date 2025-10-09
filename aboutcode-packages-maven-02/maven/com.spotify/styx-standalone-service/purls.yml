@@ -144,3 +144,5 @@
 - pkg:maven/com.spotify/styx-standalone-service@1.0.14?classifier=sources
 - pkg:maven/com.spotify/styx-standalone-service@1.0.13
 - pkg:maven/com.spotify/styx-standalone-service@1.0.13?classifier=sources
+- pkg:maven/com.spotify/styx-standalone-service@1.0.18
+- pkg:maven/com.spotify/styx-standalone-service@1.0.18?classifier=sources

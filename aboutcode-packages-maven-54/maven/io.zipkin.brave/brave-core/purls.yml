@@ -54,3 +54,5 @@
 - pkg:maven/io.zipkin.brave/brave-core@4.2.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-core@4.3.0
 - pkg:maven/io.zipkin.brave/brave-core@4.3.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-core@4.3.1
+- pkg:maven/io.zipkin.brave/brave-core@4.3.1?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/com.netflix.metacat/metacat-thrift@0.1.52?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-thrift@0.1.53
 - pkg:maven/com.netflix.metacat/metacat-thrift@0.1.53?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-thrift@1.0.1
+- pkg:maven/com.netflix.metacat/metacat-thrift@1.0.1?classifier=sources
