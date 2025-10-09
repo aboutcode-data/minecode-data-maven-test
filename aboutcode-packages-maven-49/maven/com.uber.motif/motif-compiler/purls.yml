@@ -32,3 +32,5 @@
 - pkg:maven/com.uber.motif/motif-compiler@0.0.16?classifier=sources
 - pkg:maven/com.uber.motif/motif-compiler@0.0.15
 - pkg:maven/com.uber.motif/motif-compiler@0.0.15?classifier=sources
+- pkg:maven/com.uber.motif/motif-compiler@0.0.18
+- pkg:maven/com.uber.motif/motif-compiler@0.0.18?classifier=sources

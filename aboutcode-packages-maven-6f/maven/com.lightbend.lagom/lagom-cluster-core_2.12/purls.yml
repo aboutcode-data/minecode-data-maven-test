@@ -54,3 +54,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-cluster-core_2.12@1.4.14?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-cluster-core_2.12@1.4.13
 - pkg:maven/com.lightbend.lagom/lagom-cluster-core_2.12@1.4.13?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-cluster-core_2.12@1.6.0-M2
+- pkg:maven/com.lightbend.lagom/lagom-cluster-core_2.12@1.6.0-M2?classifier=sources

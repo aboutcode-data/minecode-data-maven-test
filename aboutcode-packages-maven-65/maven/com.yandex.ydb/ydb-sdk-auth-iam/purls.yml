@@ -1,2 +1,4 @@
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.0.0
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.0.0?classifier=sources
+- pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.1.0
+- pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.1.0?classifier=sources

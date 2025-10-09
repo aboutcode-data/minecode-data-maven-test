@@ -108,3 +108,5 @@
 - pkg:maven/com.netflix.ribbon/ribbon@2.7.11?classifier=sources
 - pkg:maven/com.netflix.ribbon/ribbon@2.7.10
 - pkg:maven/com.netflix.ribbon/ribbon@2.7.10?classifier=sources
+- pkg:maven/com.netflix.ribbon/ribbon@2.7.17
+- pkg:maven/com.netflix.ribbon/ribbon@2.7.17?classifier=sources

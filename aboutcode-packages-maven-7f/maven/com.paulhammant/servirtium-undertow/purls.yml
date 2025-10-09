@@ -8,3 +8,5 @@
 - pkg:maven/com.paulhammant/servirtium-undertow@0.8?classifier=sources
 - pkg:maven/com.paulhammant/servirtium-undertow@0.9
 - pkg:maven/com.paulhammant/servirtium-undertow@0.9?classifier=sources
+- pkg:maven/com.paulhammant/servirtium-undertow@0.9.1
+- pkg:maven/com.paulhammant/servirtium-undertow@0.9.1?classifier=sources
