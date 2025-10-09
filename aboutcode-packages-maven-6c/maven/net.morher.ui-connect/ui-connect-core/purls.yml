@@ -1,0 +1,4 @@
+- pkg:maven/net.morher.ui-connect/ui-connect-core@0.3
+- pkg:maven/net.morher.ui-connect/ui-connect-core@0.3?classifier=sources
+- pkg:maven/net.morher.ui-connect/ui-connect-core@0.2
+- pkg:maven/net.morher.ui-connect/ui-connect-core@0.2?classifier=sources
