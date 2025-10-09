@@ -50,3 +50,5 @@
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.16.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.17.0
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.17.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.18.0
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.18.0?classifier=sources

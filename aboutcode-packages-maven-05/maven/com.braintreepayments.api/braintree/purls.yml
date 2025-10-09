@@ -203,3 +203,5 @@
 - pkg:maven/com.braintreepayments.api/braintree@3.0.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/braintree@2.21.0?type=aar
 - pkg:maven/com.braintreepayments.api/braintree@2.21.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/braintree@2.22.0?type=aar
+- pkg:maven/com.braintreepayments.api/braintree@2.22.0?classifier=sources
