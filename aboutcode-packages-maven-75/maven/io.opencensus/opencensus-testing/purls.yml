@@ -48,3 +48,5 @@
 - pkg:maven/io.opencensus/opencensus-testing@0.16.1?classifier=sources
 - pkg:maven/io.opencensus/opencensus-testing@0.17.0
 - pkg:maven/io.opencensus/opencensus-testing@0.17.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-testing@0.18.0
+- pkg:maven/io.opencensus/opencensus-testing@0.18.0?classifier=sources

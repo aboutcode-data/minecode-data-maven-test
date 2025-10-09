@@ -68,3 +68,5 @@
 - pkg:maven/io.syndesis.server/server-builder-maven-plugin@1.5.8?classifier=sources
 - pkg:maven/io.syndesis.server/server-builder-maven-plugin@1.5.7
 - pkg:maven/io.syndesis.server/server-builder-maven-plugin@1.5.7?classifier=sources
+- pkg:maven/io.syndesis.server/server-builder-maven-plugin@1.5.9
+- pkg:maven/io.syndesis.server/server-builder-maven-plugin@1.5.9?classifier=sources
