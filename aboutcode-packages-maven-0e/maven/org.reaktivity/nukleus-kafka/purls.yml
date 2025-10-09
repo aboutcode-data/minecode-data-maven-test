@@ -84,3 +84,9 @@
 - pkg:maven/org.reaktivity/nukleus-kafka@0.39?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-kafka@0.38
 - pkg:maven/org.reaktivity/nukleus-kafka@0.38?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-kafka@0.46
+- pkg:maven/org.reaktivity/nukleus-kafka@0.46?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-kafka@0.45
+- pkg:maven/org.reaktivity/nukleus-kafka@0.45?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-kafka@0.44
+- pkg:maven/org.reaktivity/nukleus-kafka@0.44?classifier=sources

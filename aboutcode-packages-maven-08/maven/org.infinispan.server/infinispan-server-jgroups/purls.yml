@@ -224,3 +224,5 @@
 - pkg:maven/org.infinispan.server/infinispan-server-jgroups@9.1.7.Final?classifier=sources
 - pkg:maven/org.infinispan.server/infinispan-server-jgroups@8.2.10.Final
 - pkg:maven/org.infinispan.server/infinispan-server-jgroups@8.2.10.Final?classifier=sources
+- pkg:maven/org.infinispan.server/infinispan-server-jgroups@9.2.1.Final
+- pkg:maven/org.infinispan.server/infinispan-server-jgroups@9.2.1.Final?classifier=sources

@@ -248,3 +248,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-extender-war@6.1.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-extender-war@6.0.10
 - pkg:maven/org.ops4j.pax.web/pax-web-extender-war@6.0.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-extender-war@7.0.0
+- pkg:maven/org.ops4j.pax.web/pax-web-extender-war@7.0.0?classifier=sources

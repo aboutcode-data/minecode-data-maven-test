@@ -98,3 +98,7 @@
 - pkg:maven/org.redisson/redisson-tomcat-8@3.6.3?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-8@2.11.3
 - pkg:maven/org.redisson/redisson-tomcat-8@2.11.3?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-8@3.6.4
+- pkg:maven/org.redisson/redisson-tomcat-8@3.6.4?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-8@2.11.4
+- pkg:maven/org.redisson/redisson-tomcat-8@2.11.4?classifier=sources

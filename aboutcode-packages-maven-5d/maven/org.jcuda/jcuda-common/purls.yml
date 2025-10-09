@@ -1,2 +1,4 @@
 - pkg:maven/org.jcuda/jcuda-common@0.8.0
 - pkg:maven/org.jcuda/jcuda-common@0.8.0?classifier=sources
+- pkg:maven/org.jcuda/jcuda-common@0.9.0b
+- pkg:maven/org.jcuda/jcuda-common@0.9.0b?classifier=sources
