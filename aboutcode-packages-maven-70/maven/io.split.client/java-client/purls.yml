@@ -38,3 +38,5 @@
 - pkg:maven/io.split.client/java-client@1.0.8?classifier=sources
 - pkg:maven/io.split.client/java-client@1.0.9
 - pkg:maven/io.split.client/java-client@1.0.9?classifier=sources
+- pkg:maven/io.split.client/java-client@1.1
+- pkg:maven/io.split.client/java-client@1.1?classifier=sources

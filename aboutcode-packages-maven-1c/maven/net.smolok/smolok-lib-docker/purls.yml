@@ -20,3 +20,5 @@
 - pkg:maven/net.smolok/smolok-lib-docker@0.0.9?classifier=sources
 - pkg:maven/net.smolok/smolok-lib-docker@0.0.10
 - pkg:maven/net.smolok/smolok-lib-docker@0.0.10?classifier=sources
+- pkg:maven/net.smolok/smolok-lib-docker@0.0.11
+- pkg:maven/net.smolok/smolok-lib-docker@0.0.11?classifier=sources
