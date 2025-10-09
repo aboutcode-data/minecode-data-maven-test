@@ -32,3 +32,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-saml@0.41.3?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-saml@0.41.4
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-saml@0.41.4?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-saml@0.42.0
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-saml@0.42.0?classifier=sources

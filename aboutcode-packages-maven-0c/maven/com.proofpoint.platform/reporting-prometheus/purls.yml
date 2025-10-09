@@ -64,3 +64,5 @@
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@2.09?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@2.11
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@2.11?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@2.12
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@2.12?classifier=sources
