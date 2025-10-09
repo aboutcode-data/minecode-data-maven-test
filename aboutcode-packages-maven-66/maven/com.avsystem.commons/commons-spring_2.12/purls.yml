@@ -216,3 +216,7 @@
 - pkg:maven/com.avsystem.commons/commons-spring_2.12@1.40.0?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-spring_2.12@1.40.1
 - pkg:maven/com.avsystem.commons/commons-spring_2.12@1.40.1?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-spring_2.12@2.0.0-M3
+- pkg:maven/com.avsystem.commons/commons-spring_2.12@2.0.0-M3?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-spring_2.12@1.41.0
+- pkg:maven/com.avsystem.commons/commons-spring_2.12@1.41.0?classifier=sources

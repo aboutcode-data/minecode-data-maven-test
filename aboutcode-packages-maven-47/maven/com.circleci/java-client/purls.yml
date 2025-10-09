@@ -22,3 +22,5 @@
 - pkg:maven/com.circleci/java-client@2.0.66?classifier=sources
 - pkg:maven/com.circleci/java-client@2.0.64
 - pkg:maven/com.circleci/java-client@2.0.64?classifier=sources
+- pkg:maven/com.circleci/java-client@2.0.74
+- pkg:maven/com.circleci/java-client@2.0.74?classifier=sources
