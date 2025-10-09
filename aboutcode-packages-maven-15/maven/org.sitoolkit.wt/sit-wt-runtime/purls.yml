@@ -12,3 +12,5 @@
 - pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.12?classifier=sources
 - pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.12.2
 - pkg:maven/org.sitoolkit.wt/sit-wt-runtime@0.12.2?classifier=sources
+- pkg:maven/org.sitoolkit.wt/sit-wt-runtime@1.0
+- pkg:maven/org.sitoolkit.wt/sit-wt-runtime@1.0?classifier=sources

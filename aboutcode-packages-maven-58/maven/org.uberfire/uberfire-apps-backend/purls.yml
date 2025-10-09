@@ -64,3 +64,5 @@
 - pkg:maven/org.uberfire/uberfire-apps-backend@0.8.0.CR2?classifier=sources
 - pkg:maven/org.uberfire/uberfire-apps-backend@0.8.0.Final
 - pkg:maven/org.uberfire/uberfire-apps-backend@0.8.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-apps-backend@1.0.0.Beta1
+- pkg:maven/org.uberfire/uberfire-apps-backend@1.0.0.Beta1?classifier=sources
