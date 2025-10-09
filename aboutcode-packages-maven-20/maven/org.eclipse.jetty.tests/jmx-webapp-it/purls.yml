@@ -53,3 +53,4 @@
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.3.8.v20160314
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.3.8.v20160314?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.3.9.M0
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.3.9.M0?classifier=sources

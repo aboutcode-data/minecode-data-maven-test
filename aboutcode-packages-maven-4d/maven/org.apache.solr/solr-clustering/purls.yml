@@ -88,3 +88,5 @@
 - pkg:maven/org.apache.solr/solr-clustering@5.3.2?classifier=sources
 - pkg:maven/org.apache.solr/solr-clustering@5.5.0
 - pkg:maven/org.apache.solr/solr-clustering@5.5.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-clustering@6.0.0
+- pkg:maven/org.apache.solr/solr-clustering@6.0.0?classifier=sources

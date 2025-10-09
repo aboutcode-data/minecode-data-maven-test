@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.camel/camel-itest-karaf@2.17.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest-karaf@2.15.6
 - pkg:maven/org.apache.camel/camel-itest-karaf@2.15.6?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest-karaf@2.16.3
+- pkg:maven/org.apache.camel/camel-itest-karaf@2.16.3?classifier=sources
