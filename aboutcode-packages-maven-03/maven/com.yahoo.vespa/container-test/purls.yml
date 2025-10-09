@@ -1,0 +1,6 @@
+- pkg:maven/com.yahoo.vespa/container-test@6.160.31
+- pkg:maven/com.yahoo.vespa/container-test@6.160.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.159.25
+- pkg:maven/com.yahoo.vespa/container-test@6.159.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@6.158.42
+- pkg:maven/com.yahoo.vespa/container-test@6.158.42?classifier=sources

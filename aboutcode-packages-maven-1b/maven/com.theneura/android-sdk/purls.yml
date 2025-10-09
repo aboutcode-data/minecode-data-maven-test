@@ -86,3 +86,7 @@
 - pkg:maven/com.theneura/android-sdk@4.2.16%28MEDISAFE%29?classifier=sources
 - pkg:maven/com.theneura/android-sdk@4.2.16?type=aar
 - pkg:maven/com.theneura/android-sdk@4.2.16?classifier=sources
+- pkg:maven/com.theneura/android-sdk@4.3.0%28MDSF%29?type=aar
+- pkg:maven/com.theneura/android-sdk@4.3.0%28MDSF%29?classifier=sources
+- pkg:maven/com.theneura/android-sdk@4.3.0?type=aar
+- pkg:maven/com.theneura/android-sdk@4.3.0?classifier=sources

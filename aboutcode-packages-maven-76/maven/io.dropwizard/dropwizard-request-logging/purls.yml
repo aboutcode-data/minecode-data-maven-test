@@ -58,3 +58,5 @@
 - pkg:maven/io.dropwizard/dropwizard-request-logging@1.2.0-rc6?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-request-logging@1.2.0
 - pkg:maven/io.dropwizard/dropwizard-request-logging@1.2.0?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-request-logging@1.1.5
+- pkg:maven/io.dropwizard/dropwizard-request-logging@1.1.5?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@0.0.20?classifier=sources
 - pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@0.0.18
 - pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@0.0.18?classifier=sources
+- pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@1.0.0
+- pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@1.0.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@0.0.21
+- pkg:maven/com.softwaremill.sttp/akka-http-backend_2.11@0.0.21?classifier=sources
