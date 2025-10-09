@@ -10,3 +10,5 @@
 - pkg:maven/io.prestosql/presto-parquet@304?classifier=sources
 - pkg:maven/io.prestosql/presto-parquet@305
 - pkg:maven/io.prestosql/presto-parquet@305?classifier=sources
+- pkg:maven/io.prestosql/presto-parquet@306
+- pkg:maven/io.prestosql/presto-parquet@306?classifier=sources

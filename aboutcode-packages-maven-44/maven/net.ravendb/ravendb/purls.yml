@@ -24,3 +24,5 @@
 - pkg:maven/net.ravendb/ravendb@4.1.4?classifier=sources
 - pkg:maven/net.ravendb/ravendb@4.0.6
 - pkg:maven/net.ravendb/ravendb@4.0.6?classifier=sources
+- pkg:maven/net.ravendb/ravendb@4.1.5
+- pkg:maven/net.ravendb/ravendb@4.1.5?classifier=sources

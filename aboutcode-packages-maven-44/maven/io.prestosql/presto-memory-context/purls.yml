@@ -10,3 +10,5 @@
 - pkg:maven/io.prestosql/presto-memory-context@304?classifier=sources
 - pkg:maven/io.prestosql/presto-memory-context@305
 - pkg:maven/io.prestosql/presto-memory-context@305?classifier=sources
+- pkg:maven/io.prestosql/presto-memory-context@306
+- pkg:maven/io.prestosql/presto-memory-context@306?classifier=sources

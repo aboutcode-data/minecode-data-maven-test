@@ -10,3 +10,5 @@
 - pkg:maven/io.prestosql/presto-verifier@304?classifier=sources
 - pkg:maven/io.prestosql/presto-verifier@305
 - pkg:maven/io.prestosql/presto-verifier@305?classifier=sources
+- pkg:maven/io.prestosql/presto-verifier@306
+- pkg:maven/io.prestosql/presto-verifier@306?classifier=sources

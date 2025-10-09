@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.ant/ant-jdepend@1.9.13?classifier=sources
 - pkg:maven/org.apache.ant/ant-jdepend@1.10.5
 - pkg:maven/org.apache.ant/ant-jdepend@1.10.5?classifier=sources
+- pkg:maven/org.apache.ant/ant-jdepend@1.9.14
+- pkg:maven/org.apache.ant/ant-jdepend@1.9.14?classifier=sources
