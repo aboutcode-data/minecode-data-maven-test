@@ -136,3 +136,7 @@
 - pkg:maven/org.simpleflatmapper/sfm-datastax@3.11.7?classifier=sources
 - pkg:maven/org.simpleflatmapper/sfm-datastax@3.11.8
 - pkg:maven/org.simpleflatmapper/sfm-datastax@3.11.8?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-datastax@3.12-rc0
+- pkg:maven/org.simpleflatmapper/sfm-datastax@3.12-rc0?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-datastax@3.12
+- pkg:maven/org.simpleflatmapper/sfm-datastax@3.12?classifier=sources

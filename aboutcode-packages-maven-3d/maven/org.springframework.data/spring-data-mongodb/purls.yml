@@ -114,3 +114,7 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.10.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.10.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.10.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.9.11.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.9.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.10.4.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.10.4.RELEASE?classifier=sources
