@@ -6,3 +6,5 @@
 - pkg:maven/com.facebook.presto/presto-mongodb@0.151?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mongodb@0.152?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mongodb@0.152.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.152.3?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.152.2?classifier=sources

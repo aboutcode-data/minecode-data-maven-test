@@ -86,3 +86,5 @@
 - pkg:maven/com.frostwire/jlibtorrent@1.2.0.0-alpha5?classifier=sources
 - pkg:maven/com.frostwire/jlibtorrent@1.1.1.40
 - pkg:maven/com.frostwire/jlibtorrent@1.1.1.40?classifier=sources
+- pkg:maven/com.frostwire/jlibtorrent@1.2.0.0-beta1
+- pkg:maven/com.frostwire/jlibtorrent@1.2.0.0-beta1?classifier=sources

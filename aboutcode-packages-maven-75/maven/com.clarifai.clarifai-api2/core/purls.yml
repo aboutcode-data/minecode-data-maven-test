@@ -4,3 +4,7 @@
 - pkg:maven/com.clarifai.clarifai-api2/core@2.0.0-beta21?classifier=sources
 - pkg:maven/com.clarifai.clarifai-api2/core@2.0.0-beta19-2d15494
 - pkg:maven/com.clarifai.clarifai-api2/core@2.0.0-beta19-2d15494?classifier=sources
+- pkg:maven/com.clarifai.clarifai-api2/core@2.0.0-rc1
+- pkg:maven/com.clarifai.clarifai-api2/core@2.0.0-rc1?classifier=sources
+- pkg:maven/com.clarifai.clarifai-api2/core@2.0.0
+- pkg:maven/com.clarifai.clarifai-api2/core@2.0.0?classifier=sources
