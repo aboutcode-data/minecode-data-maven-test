@@ -52,3 +52,6 @@
 - pkg:maven/org.codehaus.mojo/license-maven-plugin@1.14
 - pkg:maven/org.codehaus.mojo/license-maven-plugin@1.14?classifier=sources
 - pkg:maven/org.codehaus.mojo/license-maven-plugin@1.14?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.15
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.15?classifier=sources
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.15?classifier=source-release&type=zip

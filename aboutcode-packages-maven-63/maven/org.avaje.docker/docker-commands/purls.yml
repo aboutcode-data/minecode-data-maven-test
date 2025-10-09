@@ -28,3 +28,5 @@
 - pkg:maven/org.avaje.docker/docker-commands@1.5.3?classifier=sources
 - pkg:maven/org.avaje.docker/docker-commands@1.5.2
 - pkg:maven/org.avaje.docker/docker-commands@1.5.2?classifier=sources
+- pkg:maven/org.avaje.docker/docker-commands@1.5.7
+- pkg:maven/org.avaje.docker/docker-commands@1.5.7?classifier=sources

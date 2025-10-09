@@ -80,3 +80,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerter@0.28.3.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerter@0.21.11.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerter@0.21.11.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerter@0.21.12.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerter@0.21.12.Final?classifier=sources

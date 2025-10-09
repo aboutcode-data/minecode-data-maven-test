@@ -2,3 +2,5 @@
 - pkg:maven/org.appng/appng-manager@1.12.3?classifier=sources
 - pkg:maven/org.appng/appng-manager@1.12.4?type=zip
 - pkg:maven/org.appng/appng-manager@1.12.4?classifier=sources
+- pkg:maven/org.appng/appng-manager@1.13.0?type=zip
+- pkg:maven/org.appng/appng-manager@1.13.0?classifier=sources
