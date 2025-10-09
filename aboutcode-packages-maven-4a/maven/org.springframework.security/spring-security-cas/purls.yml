@@ -44,3 +44,5 @@
 - pkg:maven/org.springframework.security/spring-security-cas@3.2.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-cas@4.0.4.RELEASE
 - pkg:maven/org.springframework.security/spring-security-cas@4.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-cas@4.1.0.RELEASE
+- pkg:maven/org.springframework.security/spring-security-cas@4.1.0.RELEASE?classifier=sources

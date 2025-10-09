@@ -38,3 +38,7 @@
 - pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@2.8.10?classifier=sources
 - pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@2.8.11
 - pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@2.8.11?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@4.1.2
+- pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@4.1.2?classifier=sources
+- pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@2.9.0
+- pkg:maven/org.openrdf.sesame/sesame-rio-jsonld@2.9.0?classifier=sources

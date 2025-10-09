@@ -54,3 +54,7 @@
 - pkg:maven/org.stagemonitor/stagemonitor-web@0.22.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-web@0.23.0
 - pkg:maven/org.stagemonitor/stagemonitor-web@0.23.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-web@0.25.0
+- pkg:maven/org.stagemonitor/stagemonitor-web@0.25.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-web@0.24.0
+- pkg:maven/org.stagemonitor/stagemonitor-web@0.24.0?classifier=sources
