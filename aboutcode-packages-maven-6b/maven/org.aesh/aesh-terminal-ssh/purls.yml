@@ -22,3 +22,5 @@
 - pkg:maven/org.aesh/aesh-terminal-ssh@1.9?classifier=sources
 - pkg:maven/org.aesh/aesh-terminal-ssh@1.10
 - pkg:maven/org.aesh/aesh-terminal-ssh@1.10?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-ssh@1.11
+- pkg:maven/org.aesh/aesh-terminal-ssh@1.11?classifier=sources

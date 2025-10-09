@@ -24,3 +24,5 @@
 - pkg:maven/net.kemitix/mon@0.10.0?classifier=sources
 - pkg:maven/net.kemitix/mon@0.12.0
 - pkg:maven/net.kemitix/mon@0.12.0?classifier=sources
+- pkg:maven/net.kemitix/mon@1.0.0
+- pkg:maven/net.kemitix/mon@1.0.0?classifier=sources
