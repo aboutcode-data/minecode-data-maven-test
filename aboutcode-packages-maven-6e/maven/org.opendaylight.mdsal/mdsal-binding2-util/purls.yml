@@ -60,3 +60,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-util@0.10.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-util@0.15.12
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-util@0.15.12?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding2-util@0.15.13
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding2-util@0.15.13?classifier=sources

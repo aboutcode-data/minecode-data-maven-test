@@ -106,3 +106,5 @@
 - pkg:maven/org.opendaylight.mdsal.model/general-entity@1.0.12?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/general-entity@3.0.4
 - pkg:maven/org.opendaylight.mdsal.model/general-entity@3.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/general-entity@1.0.13
+- pkg:maven/org.opendaylight.mdsal.model/general-entity@1.0.13?classifier=sources

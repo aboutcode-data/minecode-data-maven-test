@@ -306,3 +306,5 @@
 - pkg:maven/org.neo4j/neo4j-slf4j@3.4.16?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j@3.5.12
 - pkg:maven/org.neo4j/neo4j-slf4j@3.5.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j-slf4j@3.4.17
+- pkg:maven/org.neo4j/neo4j-slf4j@3.4.17?classifier=sources
