@@ -44,3 +44,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-guava@0.25.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-guava@0.26.0-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-guava@0.26.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-guava@0.26.1-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-guava@0.26.1?classifier=sources

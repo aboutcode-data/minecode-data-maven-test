@@ -128,3 +128,5 @@
 - pkg:maven/org.eurekaclinical/protempa-dsb-file@5.0-Beta-14?classifier=sources
 - pkg:maven/org.eurekaclinical/protempa-dsb-file@5.0-Beta-13
 - pkg:maven/org.eurekaclinical/protempa-dsb-file@5.0-Beta-13?classifier=sources
+- pkg:maven/org.eurekaclinical/protempa-dsb-file@5.0
+- pkg:maven/org.eurekaclinical/protempa-dsb-file@5.0?classifier=sources

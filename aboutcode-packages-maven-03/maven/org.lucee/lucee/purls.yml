@@ -114,3 +114,5 @@
 - pkg:maven/org.lucee/lucee@5.2.9.29-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@5.2.9.28-RC
 - pkg:maven/org.lucee/lucee@5.2.9.28-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@5.2.9.31
+- pkg:maven/org.lucee/lucee@5.2.9.31?classifier=sources
