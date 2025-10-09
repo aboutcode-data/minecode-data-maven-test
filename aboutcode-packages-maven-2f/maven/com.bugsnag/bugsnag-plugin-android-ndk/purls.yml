@@ -6,3 +6,5 @@
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-ndk@4.17.2?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-ndk@4.18.0-beta01?type=aar
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-ndk@4.18.0-beta01?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-android-ndk@4.18.0?type=aar
+- pkg:maven/com.bugsnag/bugsnag-plugin-android-ndk@4.18.0?classifier=sources
