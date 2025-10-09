@@ -126,3 +126,5 @@
 - pkg:maven/com.launchdarkly/launchdarkly-client@3.0.3?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-client@3.0.4
 - pkg:maven/com.launchdarkly/launchdarkly-client@3.0.4?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.0.0
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.aspectran/aspectran-web@5.0.0.RC3?classifier=sources
 - pkg:maven/com.aspectran/aspectran-web@5.0.0.RC4
 - pkg:maven/com.aspectran/aspectran-web@5.0.0.RC4?classifier=sources
+- pkg:maven/com.aspectran/aspectran-web@5.0.0
+- pkg:maven/com.aspectran/aspectran-web@5.0.0?classifier=sources

@@ -130,3 +130,11 @@
 - pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev19-1.21.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev19-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev19-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.23.0
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.23.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.22.0
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.21.0
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.21.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-firestore@v1beta1-rev21-1.18.0-rc?classifier=sources

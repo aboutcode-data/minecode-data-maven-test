@@ -28,3 +28,5 @@
 - pkg:maven/com.conveyal/r5@3.4.0?classifier=sources
 - pkg:maven/com.conveyal/r5@3.3.0
 - pkg:maven/com.conveyal/r5@3.3.0?classifier=sources
+- pkg:maven/com.conveyal/r5@4.0.0
+- pkg:maven/com.conveyal/r5@4.0.0?classifier=sources
