@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.commons/commons-compress@1.10?classifier=sources
 - pkg:maven/org.apache.commons/commons-compress@1.11
 - pkg:maven/org.apache.commons/commons-compress@1.11?classifier=sources
+- pkg:maven/org.apache.commons/commons-compress@1.12
+- pkg:maven/org.apache.commons/commons-compress@1.12?classifier=sources

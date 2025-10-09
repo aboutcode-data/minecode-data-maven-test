@@ -362,3 +362,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-client@9.3.10.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-client@9.4.0.M0
 - pkg:maven/org.eclipse.jetty/jetty-client@9.4.0.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-client@9.3.11.M0
+- pkg:maven/org.eclipse.jetty/jetty-client@9.3.11.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-client@9.3.10.v20160621
+- pkg:maven/org.eclipse.jetty/jetty-client@9.3.10.v20160621?classifier=sources

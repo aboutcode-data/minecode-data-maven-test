@@ -166,3 +166,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ant@8.5.3?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ant@8.0.36
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ant@8.0.36?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ant@7.0.70
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ant@7.0.70?classifier=sources
