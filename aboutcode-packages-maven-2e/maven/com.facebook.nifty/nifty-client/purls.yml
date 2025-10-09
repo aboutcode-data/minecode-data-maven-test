@@ -48,3 +48,5 @@
 - pkg:maven/com.facebook.nifty/nifty-client@0.22.0?classifier=sources
 - pkg:maven/com.facebook.nifty/nifty-client@0.23.0
 - pkg:maven/com.facebook.nifty/nifty-client@0.23.0?classifier=sources
+- pkg:maven/com.facebook.nifty/nifty-client@0.15.2
+- pkg:maven/com.facebook.nifty/nifty-client@0.15.2?classifier=sources

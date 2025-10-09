@@ -34,3 +34,5 @@
 - pkg:maven/com.expedia.www/haystack-metrics@0.9.0?classifier=sources
 - pkg:maven/com.expedia.www/haystack-metrics@0.10.0
 - pkg:maven/com.expedia.www/haystack-metrics@0.10.0?classifier=sources
+- pkg:maven/com.expedia.www/haystack-metrics@1.0.0
+- pkg:maven/com.expedia.www/haystack-metrics@1.0.0?classifier=sources
