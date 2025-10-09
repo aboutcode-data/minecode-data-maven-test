@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.spark/spark-sql-kafka-0-10_2.11@2.4.3?classifier=sources
 - pkg:maven/org.apache.spark/spark-sql-kafka-0-10_2.11@2.4.4
 - pkg:maven/org.apache.spark/spark-sql-kafka-0-10_2.11@2.4.4?classifier=sources
+- pkg:maven/org.apache.spark/spark-sql-kafka-0-10_2.11@2.3.4
+- pkg:maven/org.apache.spark/spark-sql-kafka-0-10_2.11@2.3.4?classifier=sources

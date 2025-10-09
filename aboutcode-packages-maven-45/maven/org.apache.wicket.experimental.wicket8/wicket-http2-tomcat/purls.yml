@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.wicket.experimental.wicket8/wicket-http2-tomcat@0.9?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket8/wicket-http2-tomcat@0.10
 - pkg:maven/org.apache.wicket.experimental.wicket8/wicket-http2-tomcat@0.10?classifier=sources
+- pkg:maven/org.apache.wicket.experimental.wicket8/wicket-http2-tomcat@0.11
+- pkg:maven/org.apache.wicket.experimental.wicket8/wicket-http2-tomcat@0.11?classifier=sources

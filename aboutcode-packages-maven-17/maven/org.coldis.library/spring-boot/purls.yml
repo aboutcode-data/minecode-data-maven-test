@@ -34,3 +34,5 @@
 - pkg:maven/org.coldis.library/spring-boot@0.0.15?classifier=sources
 - pkg:maven/org.coldis.library/spring-boot@0.0.21
 - pkg:maven/org.coldis.library/spring-boot@0.0.21?classifier=sources
+- pkg:maven/org.coldis.library/spring-boot@0.0.22
+- pkg:maven/org.coldis.library/spring-boot@0.0.22?classifier=sources

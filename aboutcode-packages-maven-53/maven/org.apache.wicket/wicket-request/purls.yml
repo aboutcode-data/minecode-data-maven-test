@@ -202,3 +202,7 @@
 - pkg:maven/org.apache.wicket/wicket-request@8.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@7.14.0
 - pkg:maven/org.apache.wicket/wicket-request@7.14.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@8.6.0
+- pkg:maven/org.apache.wicket/wicket-request@8.6.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@7.15.0
+- pkg:maven/org.apache.wicket/wicket-request@7.15.0?classifier=sources
