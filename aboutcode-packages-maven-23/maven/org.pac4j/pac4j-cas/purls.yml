@@ -102,3 +102,5 @@
 - pkg:maven/org.pac4j/pac4j-cas@3.7.0?classifier=sources
 - pkg:maven/org.pac4j/pac4j-cas@4.0.0-RC1
 - pkg:maven/org.pac4j/pac4j-cas@4.0.0-RC1?classifier=sources
+- pkg:maven/org.pac4j/pac4j-cas@3.8.0
+- pkg:maven/org.pac4j/pac4j-cas@3.8.0?classifier=sources

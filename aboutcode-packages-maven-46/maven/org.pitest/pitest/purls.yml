@@ -90,3 +90,5 @@
 - pkg:maven/org.pitest/pitest@1.4.8?classifier=sources
 - pkg:maven/org.pitest/pitest@1.4.9
 - pkg:maven/org.pitest/pitest@1.4.9?classifier=sources
+- pkg:maven/org.pitest/pitest@1.4.10
+- pkg:maven/org.pitest/pitest@1.4.10?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.neo4j/neo4j-diagnostics@3.5.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-diagnostics@3.5.8
 - pkg:maven/org.neo4j/neo4j-diagnostics@3.5.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-diagnostics@3.5.9
+- pkg:maven/org.neo4j/neo4j-diagnostics@3.5.9?classifier=sources

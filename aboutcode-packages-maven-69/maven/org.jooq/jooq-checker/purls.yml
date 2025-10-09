@@ -56,3 +56,7 @@
 - pkg:maven/org.jooq/jooq-checker@3.11.11?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.11.12
 - pkg:maven/org.jooq/jooq-checker@3.11.12?classifier=sources
+- pkg:maven/org.jooq/jooq-checker@3.12.1
+- pkg:maven/org.jooq/jooq-checker@3.12.1?classifier=sources
+- pkg:maven/org.jooq/jooq-checker@3.12.0
+- pkg:maven/org.jooq/jooq-checker@3.12.0?classifier=sources
