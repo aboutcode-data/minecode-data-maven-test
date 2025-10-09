@@ -1,2 +1,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@6.3-RC4
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@6.3-RC4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@6.3
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-migration@6.3?classifier=sources

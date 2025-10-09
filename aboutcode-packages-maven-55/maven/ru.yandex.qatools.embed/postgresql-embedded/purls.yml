@@ -42,3 +42,5 @@
 - pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.21?classifier=sources
 - pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.22
 - pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.22?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.23
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.23?classifier=sources
