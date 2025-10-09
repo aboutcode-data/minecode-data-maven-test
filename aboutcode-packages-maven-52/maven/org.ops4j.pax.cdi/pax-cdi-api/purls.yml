@@ -26,3 +26,5 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.12.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@1.0.0.RC2
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@1.0.0.RC2?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@1.0.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@1.0.0?classifier=sources

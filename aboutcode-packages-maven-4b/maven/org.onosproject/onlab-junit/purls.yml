@@ -158,3 +158,7 @@
 - pkg:maven/org.onosproject/onlab-junit@1.11.2-rc4?classifier=sources
 - pkg:maven/org.onosproject/onlab-junit@1.10.11
 - pkg:maven/org.onosproject/onlab-junit@1.10.11?classifier=sources
+- pkg:maven/org.onosproject/onlab-junit@1.11.2-rc6
+- pkg:maven/org.onosproject/onlab-junit@1.11.2-rc6?classifier=sources
+- pkg:maven/org.onosproject/onlab-junit@1.10.12
+- pkg:maven/org.onosproject/onlab-junit@1.10.12?classifier=sources
