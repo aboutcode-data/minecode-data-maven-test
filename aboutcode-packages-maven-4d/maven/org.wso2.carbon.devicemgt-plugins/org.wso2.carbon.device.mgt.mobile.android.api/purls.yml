@@ -115,3 +115,6 @@
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.android.api@4.0.120?type=war
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.android.api@4.0.120?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.android.api@4.0.120?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.android.api@4.0.126?type=war
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.android.api@4.0.126?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.mobile.android.api@4.0.126?classifier=source-release&type=zip
