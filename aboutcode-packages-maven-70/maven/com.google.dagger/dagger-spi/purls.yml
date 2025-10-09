@@ -26,3 +26,5 @@
 - pkg:maven/com.google.dagger/dagger-spi@2.23?classifier=sources
 - pkg:maven/com.google.dagger/dagger-spi@2.23.2
 - pkg:maven/com.google.dagger/dagger-spi@2.23.2?classifier=sources
+- pkg:maven/com.google.dagger/dagger-spi@2.24
+- pkg:maven/com.google.dagger/dagger-spi@2.24?classifier=sources

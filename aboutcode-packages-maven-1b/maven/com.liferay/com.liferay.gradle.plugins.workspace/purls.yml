@@ -195,3 +195,4 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@2.0.5
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@2.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.workspace@2.1.0

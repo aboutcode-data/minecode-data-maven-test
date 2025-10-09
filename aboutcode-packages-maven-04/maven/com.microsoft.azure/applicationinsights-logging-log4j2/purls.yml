@@ -62,3 +62,5 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j2@2.5.0-BETA?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j2@2.4.0
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j2@2.4.0?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j2@2.5.0-BETA.2
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j2@2.5.0-BETA.2?classifier=sources

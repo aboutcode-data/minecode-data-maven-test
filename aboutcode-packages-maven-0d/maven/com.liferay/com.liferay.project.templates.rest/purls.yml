@@ -133,3 +133,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.rest@1.0.45
 - pkg:maven/com.liferay/com.liferay.project.templates.rest@1.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.rest@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.rest@1.0.46
+- pkg:maven/com.liferay/com.liferay.project.templates.rest@1.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.rest@1.0.46?classifier=sources-commercial

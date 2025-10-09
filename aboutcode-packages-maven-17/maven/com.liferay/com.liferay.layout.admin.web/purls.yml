@@ -534,3 +534,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.admin.web@1.0.97
 - pkg:maven/com.liferay/com.liferay.layout.admin.web@1.0.97?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.admin.web@1.0.97?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@3.0.29
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@3.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@3.0.29?classifier=sources-commercial

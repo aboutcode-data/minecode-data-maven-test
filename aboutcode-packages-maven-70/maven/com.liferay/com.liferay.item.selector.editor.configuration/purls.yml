@@ -49,3 +49,6 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.editor.configuration@2.0.9
 - pkg:maven/com.liferay/com.liferay.item.selector.editor.configuration@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.editor.configuration@2.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.item.selector.editor.configuration@4.0.3
+- pkg:maven/com.liferay/com.liferay.item.selector.editor.configuration@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.editor.configuration@4.0.3?classifier=sources-commercial

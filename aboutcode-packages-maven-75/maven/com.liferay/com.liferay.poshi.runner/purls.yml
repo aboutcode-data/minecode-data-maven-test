@@ -610,3 +610,6 @@
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.230
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.230?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.230?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.232
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.232?classifier=sources
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.232?classifier=sources-commercial

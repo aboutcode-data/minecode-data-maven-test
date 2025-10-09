@@ -119,3 +119,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-kafka@0.87.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-kafka@0.88.0
 - pkg:maven/com.linecorp.armeria/armeria-kafka@0.88.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-kafka@0.89.0
+- pkg:maven/com.linecorp.armeria/armeria-kafka@0.89.0?classifier=sources

@@ -118,3 +118,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.war.mvc.portlet@1.0.39
 - pkg:maven/com.liferay/com.liferay.project.templates.war.mvc.portlet@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.war.mvc.portlet@1.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.war.mvc.portlet@1.0.40
+- pkg:maven/com.liferay/com.liferay.project.templates.war.mvc.portlet@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.mvc.portlet@1.0.40?classifier=sources-commercial

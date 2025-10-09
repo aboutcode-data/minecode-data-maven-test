@@ -46,3 +46,12 @@
 - pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@2.0.12
 - pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@3.0.6
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@3.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@2.0.13
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.openid.web@2.0.13?classifier=sources-commercial
