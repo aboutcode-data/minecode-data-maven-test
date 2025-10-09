@@ -118,3 +118,5 @@
 - pkg:maven/com.carrotsearch.randomizedtesting/randomizedtesting-runner@2.4.1?classifier=sources
 - pkg:maven/com.carrotsearch.randomizedtesting/randomizedtesting-runner@2.5.0
 - pkg:maven/com.carrotsearch.randomizedtesting/randomizedtesting-runner@2.5.0?classifier=sources
+- pkg:maven/com.carrotsearch.randomizedtesting/randomizedtesting-runner@2.5.1
+- pkg:maven/com.carrotsearch.randomizedtesting/randomizedtesting-runner@2.5.1?classifier=sources
