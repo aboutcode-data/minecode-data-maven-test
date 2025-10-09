@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.1.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.3.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.2.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.tinkerpop/tinkerpop@3.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.tinkerpop/tinkerpop@3.2.8?classifier=source-release&type=zip

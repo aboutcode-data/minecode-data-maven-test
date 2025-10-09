@@ -76,3 +76,5 @@
 - pkg:maven/net.corda.plugins/cordformation@3.0.9?classifier=sources
 - pkg:maven/net.corda.plugins/cordformation@3.1.0
 - pkg:maven/net.corda.plugins/cordformation@3.1.0?classifier=sources
+- pkg:maven/net.corda.plugins/cordformation@4.0.12-tutorial
+- pkg:maven/net.corda.plugins/cordformation@4.0.12-tutorial?classifier=sources
