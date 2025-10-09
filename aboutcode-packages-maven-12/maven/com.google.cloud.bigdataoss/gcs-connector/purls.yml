@@ -206,3 +206,9 @@
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop2-1.9.15?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.15
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.15?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop3-1.9.16
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop3-1.9.16?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop2-1.9.16
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop2-1.9.16?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.16
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.16?classifier=sources

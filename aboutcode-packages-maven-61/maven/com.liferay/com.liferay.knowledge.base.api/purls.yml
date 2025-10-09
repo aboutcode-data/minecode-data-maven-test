@@ -136,3 +136,6 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@4.9.12
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@4.9.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@4.9.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@4.9.13
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@4.9.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@4.9.13?classifier=sources-commercial

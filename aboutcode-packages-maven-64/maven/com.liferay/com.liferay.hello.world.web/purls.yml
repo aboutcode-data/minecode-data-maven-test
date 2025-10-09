@@ -32,3 +32,6 @@
 - pkg:maven/com.liferay/com.liferay.hello.world.web@3.0.2
 - pkg:maven/com.liferay/com.liferay.hello.world.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.world.web@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.world.web@2.0.9
+- pkg:maven/com.liferay/com.liferay.hello.world.web@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.world.web@2.0.9?classifier=sources-commercial
