@@ -16,3 +16,7 @@
 - pkg:maven/org.eclipse.che.lib/che-orion-editor@6.17.0?classifier=sources
 - pkg:maven/org.eclipse.che.lib/che-orion-editor@6.18.0
 - pkg:maven/org.eclipse.che.lib/che-orion-editor@6.18.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/che-orion-editor@7.0.0-beta-1.0
+- pkg:maven/org.eclipse.che.lib/che-orion-editor@7.0.0-beta-1.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/che-orion-editor@6.19.0
+- pkg:maven/org.eclipse.che.lib/che-orion-editor@6.19.0?classifier=sources

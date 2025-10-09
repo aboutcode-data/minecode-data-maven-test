@@ -32,3 +32,5 @@
 - pkg:maven/org.controlsfx/controlsfx@9.0.0?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@8.40.14
 - pkg:maven/org.controlsfx/controlsfx@8.40.14?classifier=sources
+- pkg:maven/org.controlsfx/controlsfx@11.0.0-RC1
+- pkg:maven/org.controlsfx/controlsfx@11.0.0-RC1?classifier=sources

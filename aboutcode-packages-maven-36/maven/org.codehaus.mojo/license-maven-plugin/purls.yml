@@ -61,3 +61,9 @@
 - pkg:maven/org.codehaus.mojo/license-maven-plugin@1.17
 - pkg:maven/org.codehaus.mojo/license-maven-plugin@1.17?classifier=sources
 - pkg:maven/org.codehaus.mojo/license-maven-plugin@1.17?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.19
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.19?classifier=sources
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.19?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.18
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.18?classifier=sources
+- pkg:maven/org.codehaus.mojo/license-maven-plugin@1.18?classifier=source-release&type=zip
