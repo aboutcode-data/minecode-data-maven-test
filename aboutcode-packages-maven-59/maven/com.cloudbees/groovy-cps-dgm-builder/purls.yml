@@ -8,3 +8,5 @@
 - pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.16?classifier=sources
 - pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.15
 - pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.15?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.19
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.19?classifier=sources

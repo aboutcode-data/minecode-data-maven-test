@@ -4,3 +4,5 @@
 - pkg:maven/com.genesys/authorization@1.0.1?classifier=sources
 - pkg:maven/com.genesys/authorization@1.0.3
 - pkg:maven/com.genesys/authorization@1.0.3?classifier=sources
+- pkg:maven/com.genesys/authorization@1.0.12
+- pkg:maven/com.genesys/authorization@1.0.12?classifier=sources

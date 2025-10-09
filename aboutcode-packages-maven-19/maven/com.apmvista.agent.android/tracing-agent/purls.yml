@@ -1,2 +1,4 @@
 - pkg:maven/com.apmvista.agent.android/tracing-agent@0.1.9?type=aar
 - pkg:maven/com.apmvista.agent.android/tracing-agent@0.1.9?classifier=sources
+- pkg:maven/com.apmvista.agent.android/tracing-agent@0.2.0?type=aar
+- pkg:maven/com.apmvista.agent.android/tracing-agent@0.2.0?classifier=sources

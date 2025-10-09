@@ -160,3 +160,5 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate3@2.9.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate3@2.8.10
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate3@2.8.10?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate3@2.9.1
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate3@2.9.1?classifier=sources

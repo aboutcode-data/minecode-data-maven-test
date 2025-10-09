@@ -50,3 +50,5 @@
 - pkg:maven/com.cloudinary/cloudinary-core@1.13.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-core@1.14.0
 - pkg:maven/com.cloudinary/cloudinary-core@1.14.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-core@1.15.0
+- pkg:maven/com.cloudinary/cloudinary-core@1.15.0?classifier=sources

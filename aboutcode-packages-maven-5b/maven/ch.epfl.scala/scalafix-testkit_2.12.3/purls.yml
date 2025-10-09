@@ -8,3 +8,7 @@
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-M6?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-M8
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-M8?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-RC2
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-RC2?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-RC1
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.3@0.5.0-RC1?classifier=sources

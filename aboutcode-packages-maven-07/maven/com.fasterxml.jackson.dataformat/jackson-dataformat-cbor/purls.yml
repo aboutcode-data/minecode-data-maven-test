@@ -124,3 +124,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.9.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.8.10
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.8.10?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.9.1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.9.1?classifier=sources
