@@ -72,3 +72,7 @@
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.3.1-31.3?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.0.1-31.3
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.0.1-31.3?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.3.2-compliance-enterprise-2
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.3.2-compliance-enterprise-2?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.3.2-31.3
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.3.2-31.3?classifier=sources

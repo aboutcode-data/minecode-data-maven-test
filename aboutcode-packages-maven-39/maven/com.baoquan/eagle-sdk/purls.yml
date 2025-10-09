@@ -52,3 +52,7 @@
 - pkg:maven/com.baoquan/eagle-sdk@1.0.28?classifier=sources
 - pkg:maven/com.baoquan/eagle-sdk@1.0.29
 - pkg:maven/com.baoquan/eagle-sdk@1.0.29?classifier=sources
+- pkg:maven/com.baoquan/eagle-sdk@2.0.2
+- pkg:maven/com.baoquan/eagle-sdk@2.0.2?classifier=sources
+- pkg:maven/com.baoquan/eagle-sdk@2.0.1
+- pkg:maven/com.baoquan/eagle-sdk@2.0.1?classifier=sources

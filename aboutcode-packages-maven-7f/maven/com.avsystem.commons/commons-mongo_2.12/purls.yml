@@ -132,3 +132,5 @@
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.28.3?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.28.2
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.28.2?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.29.0
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.29.0?classifier=sources
