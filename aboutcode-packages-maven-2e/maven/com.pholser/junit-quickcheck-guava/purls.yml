@@ -46,3 +46,5 @@
 - pkg:maven/com.pholser/junit-quickcheck-guava@0.7-beta-2?classifier=sources
 - pkg:maven/com.pholser/junit-quickcheck-guava@0.7
 - pkg:maven/com.pholser/junit-quickcheck-guava@0.7?classifier=sources
+- pkg:maven/com.pholser/junit-quickcheck-guava@0.8-alpha-1
+- pkg:maven/com.pholser/junit-quickcheck-guava@0.8-alpha-1?classifier=sources

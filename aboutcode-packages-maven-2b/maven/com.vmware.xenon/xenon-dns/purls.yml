@@ -32,3 +32,5 @@
 - pkg:maven/com.vmware.xenon/xenon-dns@1.1.1?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-dns@1.1.0-CR1
 - pkg:maven/com.vmware.xenon/xenon-dns@1.1.0-CR1?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-dns@1.1.0-CR2
+- pkg:maven/com.vmware.xenon/xenon-dns@1.1.0-CR2?classifier=sources
