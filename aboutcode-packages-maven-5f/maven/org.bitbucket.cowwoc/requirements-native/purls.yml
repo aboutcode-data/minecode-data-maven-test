@@ -28,3 +28,5 @@
 - pkg:maven/org.bitbucket.cowwoc/requirements-native@3.0.13?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc/requirements-native@4.0.0-RC
 - pkg:maven/org.bitbucket.cowwoc/requirements-native@4.0.0-RC?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc/requirements-native@4.0.1-RC
+- pkg:maven/org.bitbucket.cowwoc/requirements-native@4.0.1-RC?classifier=sources

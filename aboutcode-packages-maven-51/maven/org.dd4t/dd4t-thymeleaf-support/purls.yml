@@ -24,3 +24,5 @@
 - pkg:maven/org.dd4t/dd4t-thymeleaf-support@2.0.13?classifier=sources
 - pkg:maven/org.dd4t/dd4t-thymeleaf-support@2.1.0-beta6
 - pkg:maven/org.dd4t/dd4t-thymeleaf-support@2.1.0-beta6?classifier=sources
+- pkg:maven/org.dd4t/dd4t-thymeleaf-support@2.1.0
+- pkg:maven/org.dd4t/dd4t-thymeleaf-support@2.1.0?classifier=sources
