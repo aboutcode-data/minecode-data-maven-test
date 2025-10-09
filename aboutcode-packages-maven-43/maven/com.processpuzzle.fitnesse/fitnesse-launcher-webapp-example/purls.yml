@@ -10,3 +10,6 @@
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-webapp-example@1.6.1-RELEASE?type=war
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-webapp-example@1.6.1-RELEASE?classifier=src&type=zip
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-webapp-example@1.6.1-RELEASE?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-webapp-example@1.6.4-RELEASE?type=war
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-webapp-example@1.6.4-RELEASE?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-webapp-example@1.6.4-RELEASE?classifier=src&type=tar.gz

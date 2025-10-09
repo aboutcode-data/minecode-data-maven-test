@@ -20,3 +20,5 @@
 - pkg:maven/com.oracle.truffle/truffle-tck@0.18?classifier=sources
 - pkg:maven/com.oracle.truffle/truffle-tck@0.19
 - pkg:maven/com.oracle.truffle/truffle-tck@0.19?classifier=sources
+- pkg:maven/com.oracle.truffle/truffle-tck@0.20
+- pkg:maven/com.oracle.truffle/truffle-tck@0.20?classifier=sources
