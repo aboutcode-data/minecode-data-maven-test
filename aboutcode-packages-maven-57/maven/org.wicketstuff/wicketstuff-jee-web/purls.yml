@@ -42,3 +42,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jee-web@7.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jee-web@6.26.0
 - pkg:maven/org.wicketstuff/wicketstuff-jee-web@6.26.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jee-web@8.0.0-M4
+- pkg:maven/org.wicketstuff/wicketstuff-jee-web@8.0.0-M4?classifier=sources

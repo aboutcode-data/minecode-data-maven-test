@@ -36,3 +36,5 @@
 - pkg:maven/org.sonarsource.java/java-surefire@4.3.0.7717?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@4.4.0.8066
 - pkg:maven/org.sonarsource.java/java-surefire@4.4.0.8066?classifier=sources
+- pkg:maven/org.sonarsource.java/java-surefire@4.5.0.8398
+- pkg:maven/org.sonarsource.java/java-surefire@4.5.0.8398?classifier=sources
