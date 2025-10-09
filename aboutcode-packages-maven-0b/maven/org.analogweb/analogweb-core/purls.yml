@@ -26,3 +26,5 @@
 - pkg:maven/org.analogweb/analogweb-core@0.9.12?classifier=sources
 - pkg:maven/org.analogweb/analogweb-core@0.10.0
 - pkg:maven/org.analogweb/analogweb-core@0.10.0?classifier=sources
+- pkg:maven/org.analogweb/analogweb-core@0.10.1
+- pkg:maven/org.analogweb/analogweb-core@0.10.1?classifier=sources

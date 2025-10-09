@@ -20,3 +20,5 @@
 - pkg:maven/org.analogweb/analogweb-netty@0.9.11?classifier=sources
 - pkg:maven/org.analogweb/analogweb-netty@0.9.12
 - pkg:maven/org.analogweb/analogweb-netty@0.9.12?classifier=sources
+- pkg:maven/org.analogweb/analogweb-netty@0.10.1
+- pkg:maven/org.analogweb/analogweb-netty@0.10.1?classifier=sources

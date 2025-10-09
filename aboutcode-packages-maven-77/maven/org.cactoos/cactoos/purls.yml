@@ -78,3 +78,5 @@
 - pkg:maven/org.cactoos/cactoos@0.17?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.20.1
 - pkg:maven/org.cactoos/cactoos@0.20.1?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.20.2
+- pkg:maven/org.cactoos/cactoos@0.20.2?classifier=sources

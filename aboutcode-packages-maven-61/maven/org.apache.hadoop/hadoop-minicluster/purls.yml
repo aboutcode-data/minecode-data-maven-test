@@ -55,3 +55,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-minicluster@2.7.4
 - pkg:maven/org.apache.hadoop/hadoop-minicluster@2.7.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-minicluster@3.0.0-beta1
+- pkg:maven/org.apache.hadoop/hadoop-minicluster@2.8.2

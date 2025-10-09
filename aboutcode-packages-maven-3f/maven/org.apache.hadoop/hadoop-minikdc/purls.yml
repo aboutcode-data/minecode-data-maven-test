@@ -40,3 +40,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-minikdc@2.7.4
 - pkg:maven/org.apache.hadoop/hadoop-minikdc@2.7.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-minikdc@3.0.0-beta1
+- pkg:maven/org.apache.hadoop/hadoop-minikdc@2.8.2

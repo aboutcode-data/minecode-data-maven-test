@@ -124,3 +124,5 @@
 - pkg:maven/org.apache.solr/solr-test-framework@7.1.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-test-framework@6.6.2
 - pkg:maven/org.apache.solr/solr-test-framework@6.6.2?classifier=sources
+- pkg:maven/org.apache.solr/solr-test-framework@5.5.5
+- pkg:maven/org.apache.solr/solr-test-framework@5.5.5?classifier=sources
