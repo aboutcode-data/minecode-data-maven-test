@@ -300,3 +300,5 @@
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev44-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev44-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev44-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20180920-1.26.0
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20180920-1.26.0?classifier=sources

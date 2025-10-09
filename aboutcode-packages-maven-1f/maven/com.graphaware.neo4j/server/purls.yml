@@ -82,3 +82,5 @@
 - pkg:maven/com.graphaware.neo4j/server@3.4.8.52?classifier=sources
 - pkg:maven/com.graphaware.neo4j/server@3.4.9.52
 - pkg:maven/com.graphaware.neo4j/server@3.4.9.52?classifier=sources
+- pkg:maven/com.graphaware.neo4j/server@3.5.0.53-beta02
+- pkg:maven/com.graphaware.neo4j/server@3.5.0.53-beta02?classifier=sources

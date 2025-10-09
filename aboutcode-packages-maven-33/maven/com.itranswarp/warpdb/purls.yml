@@ -44,3 +44,5 @@
 - pkg:maven/com.itranswarp/warpdb@3.8?classifier=sources
 - pkg:maven/com.itranswarp/warpdb@3.7
 - pkg:maven/com.itranswarp/warpdb@3.7?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@4.0
+- pkg:maven/com.itranswarp/warpdb@4.0?classifier=sources
