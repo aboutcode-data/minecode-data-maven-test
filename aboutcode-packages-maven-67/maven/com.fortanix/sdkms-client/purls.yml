@@ -32,3 +32,7 @@
 - pkg:maven/com.fortanix/sdkms-client@2.20.1001?classifier=sources
 - pkg:maven/com.fortanix/sdkms-client@2.22.1030
 - pkg:maven/com.fortanix/sdkms-client@2.22.1030?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@2.24.1051
+- pkg:maven/com.fortanix/sdkms-client@2.24.1051?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@2.23.1035
+- pkg:maven/com.fortanix/sdkms-client@2.23.1035?classifier=sources

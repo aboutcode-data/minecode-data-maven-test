@@ -12,3 +12,7 @@
 - pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0-addtags.1063980?classifier=sources
 - pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0
 - pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0?classifier=sources
+- pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0-addannotations.b043067
+- pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0-addannotations.b043067?classifier=sources
+- pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0-addannotations.0682fda
+- pkg:maven/com.codacy/metrics-kamon_2.12@1.1.0-addannotations.0682fda?classifier=sources

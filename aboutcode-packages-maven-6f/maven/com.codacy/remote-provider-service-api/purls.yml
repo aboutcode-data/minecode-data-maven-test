@@ -12,3 +12,7 @@
 - pkg:maven/com.codacy/remote-provider-service-api@0.16.2?classifier=sources
 - pkg:maven/com.codacy/remote-provider-service-api@0.17.1
 - pkg:maven/com.codacy/remote-provider-service-api@0.17.1?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-api@0.19.1-SNAPSHOT.e43f49c
+- pkg:maven/com.codacy/remote-provider-service-api@0.19.1-SNAPSHOT.e43f49c?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-api@0.18.0-SNAPSHOT.99a125c
+- pkg:maven/com.codacy/remote-provider-service-api@0.18.0-SNAPSHOT.99a125c?classifier=sources

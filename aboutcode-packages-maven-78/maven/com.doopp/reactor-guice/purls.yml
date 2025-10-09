@@ -10,3 +10,7 @@
 - pkg:maven/com.doopp/reactor-guice@0.0.6?classifier=sources
 - pkg:maven/com.doopp/reactor-guice@0.0.8
 - pkg:maven/com.doopp/reactor-guice@0.0.8?classifier=sources
+- pkg:maven/com.doopp/reactor-guice@0.10
+- pkg:maven/com.doopp/reactor-guice@0.10?classifier=sources
+- pkg:maven/com.doopp/reactor-guice@0.0.9
+- pkg:maven/com.doopp/reactor-guice@0.0.9?classifier=sources
