@@ -1,2 +1,4 @@
 - pkg:maven/it.anyplace.sync/a-sync-http-relay-server@1.0
 - pkg:maven/it.anyplace.sync/a-sync-http-relay-server@1.0?classifier=sources
+- pkg:maven/it.anyplace.sync/a-sync-http-relay-server@1.1
+- pkg:maven/it.anyplace.sync/a-sync-http-relay-server@1.1?classifier=sources

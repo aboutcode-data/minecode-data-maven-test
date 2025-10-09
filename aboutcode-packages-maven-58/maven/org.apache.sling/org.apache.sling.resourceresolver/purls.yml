@@ -88,3 +88,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.8
 - pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.8?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.10
+- pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.10?classifier=source-release&type=zip
