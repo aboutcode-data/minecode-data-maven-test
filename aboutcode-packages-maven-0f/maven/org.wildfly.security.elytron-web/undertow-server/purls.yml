@@ -98,3 +98,4 @@
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.7.0.CR2?classifier=sources
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@2.0.0.Alpha3
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@2.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server@1.7.0.CR3
