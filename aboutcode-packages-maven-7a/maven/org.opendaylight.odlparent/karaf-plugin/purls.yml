@@ -115,3 +115,5 @@
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@1.5.1-Lithium-SR1
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@1.5.1-Lithium-SR1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@1.5.0-Lithium
+- pkg:maven/org.opendaylight.odlparent/karaf-plugin@6.0.0
+- pkg:maven/org.opendaylight.odlparent/karaf-plugin@6.0.0?classifier=sources
