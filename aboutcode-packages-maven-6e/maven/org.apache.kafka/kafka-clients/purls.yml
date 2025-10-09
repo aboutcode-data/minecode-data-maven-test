@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.kafka/kafka-clients@1.0.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-clients@0.11.0.2
 - pkg:maven/org.apache.kafka/kafka-clients@0.11.0.2?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-clients@1.0.1
+- pkg:maven/org.apache.kafka/kafka-clients@1.0.1?classifier=sources

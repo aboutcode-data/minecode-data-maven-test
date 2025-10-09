@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.uima/uimaj-ep-launcher@2.10.2?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-ep-launcher@3.0.0-beta
 - pkg:maven/org.apache.uima/uimaj-ep-launcher@3.0.0-beta?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-ep-launcher@3.0.0
+- pkg:maven/org.apache.uima/uimaj-ep-launcher@3.0.0?classifier=sources

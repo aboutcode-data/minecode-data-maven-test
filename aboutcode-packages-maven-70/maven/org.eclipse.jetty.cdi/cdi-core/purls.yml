@@ -106,3 +106,5 @@
 - pkg:maven/org.eclipse.jetty.cdi/cdi-core@9.3.22.v20171030?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-core@9.4.8.v20171121
 - pkg:maven/org.eclipse.jetty.cdi/cdi-core@9.4.8.v20171121?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-core@9.3.23.v20180228
+- pkg:maven/org.eclipse.jetty.cdi/cdi-core@9.3.23.v20180228?classifier=sources

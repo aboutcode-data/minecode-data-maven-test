@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.uima/uimaj-document-annotation@2.10.2?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-document-annotation@3.0.0-beta
 - pkg:maven/org.apache.uima/uimaj-document-annotation@3.0.0-beta?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-document-annotation@3.0.0
+- pkg:maven/org.apache.uima/uimaj-document-annotation@3.0.0?classifier=sources

@@ -200,3 +200,5 @@
 - pkg:maven/org.atmosphere/atmosphere-runtime-native@2.4.20?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-runtime-native@2.2.11
 - pkg:maven/org.atmosphere/atmosphere-runtime-native@2.2.11?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-runtime-native@2.4.21
+- pkg:maven/org.atmosphere/atmosphere-runtime-native@2.4.21?classifier=sources
