@@ -14,3 +14,5 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@0.0.8?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@0.0.9
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@0.0.9?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@1.0.1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@1.0.1?classifier=sources
