@@ -130,3 +130,5 @@
 - pkg:maven/com.netflix.conductor/conductor-common@1.10.1?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-common@1.10.0
 - pkg:maven/com.netflix.conductor/conductor-common@1.10.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-common@1.10.4
+- pkg:maven/com.netflix.conductor/conductor-common@1.10.4?classifier=sources

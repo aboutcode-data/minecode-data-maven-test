@@ -22,3 +22,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@2.0.9?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@2.0.10
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@2.0.10?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@3.0.0
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@3.0.0?classifier=sources
