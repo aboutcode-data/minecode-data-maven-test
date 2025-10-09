@@ -50,3 +50,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-sender-kinesis@0.8.11?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-sender-kinesis@0.9.0
 - pkg:maven/io.zipkin.aws/zipkin-sender-kinesis@0.9.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-sender-kinesis@0.9.1
+- pkg:maven/io.zipkin.aws/zipkin-sender-kinesis@0.9.1?classifier=sources
