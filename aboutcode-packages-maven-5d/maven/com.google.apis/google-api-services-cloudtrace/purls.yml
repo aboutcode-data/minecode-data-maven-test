@@ -1290,3 +1290,9 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev164-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev164-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev164-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20191202-1.30.3
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20191202-1.30.3?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20191202-1.29.2
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20191202-1.29.2?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20191202-1.28.0
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20191202-1.28.0?classifier=sources

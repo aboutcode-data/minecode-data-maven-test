@@ -56,3 +56,5 @@
 - pkg:maven/com.ibm.cloud/sdk-core@7.1.0?classifier=sources
 - pkg:maven/com.ibm.cloud/sdk-core@8.0.0
 - pkg:maven/com.ibm.cloud/sdk-core@8.0.0?classifier=sources
+- pkg:maven/com.ibm.cloud/sdk-core@8.1.0
+- pkg:maven/com.ibm.cloud/sdk-core@8.1.0?classifier=sources

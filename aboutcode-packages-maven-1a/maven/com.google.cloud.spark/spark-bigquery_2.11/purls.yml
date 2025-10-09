@@ -16,3 +16,5 @@
 - pkg:maven/com.google.cloud.spark/spark-bigquery_2.11@0.9.2-beta?classifier=sources
 - pkg:maven/com.google.cloud.spark/spark-bigquery_2.11@0.10.0-beta
 - pkg:maven/com.google.cloud.spark/spark-bigquery_2.11@0.10.0-beta?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-bigquery_2.11@0.11.0-beta
+- pkg:maven/com.google.cloud.spark/spark-bigquery_2.11@0.11.0-beta?classifier=sources
