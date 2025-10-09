@@ -12,3 +12,5 @@
 - pkg:maven/org.openjfx/javafx-swing@11.0.1-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-swing@11.0.1
 - pkg:maven/org.openjfx/javafx-swing@11.0.1?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@12-ea%2B2
+- pkg:maven/org.openjfx/javafx-swing@12-ea%2B2?classifier=sources

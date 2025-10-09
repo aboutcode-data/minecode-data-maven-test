@@ -4,3 +4,5 @@
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-studentapp@0.0.4?classifier=sources
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-studentapp@0.0.3?type=war
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-studentapp@0.0.3?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-studentapp@0.0.5?type=war
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-studentapp@0.0.5?classifier=sources

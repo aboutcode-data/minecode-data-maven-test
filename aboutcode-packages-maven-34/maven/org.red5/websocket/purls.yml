@@ -48,3 +48,5 @@
 - pkg:maven/org.red5/websocket@1.16.11?classifier=sources
 - pkg:maven/org.red5/websocket@1.16.14
 - pkg:maven/org.red5/websocket@1.16.14?classifier=sources
+- pkg:maven/org.red5/websocket@1.16.15
+- pkg:maven/org.red5/websocket@1.16.15?classifier=sources

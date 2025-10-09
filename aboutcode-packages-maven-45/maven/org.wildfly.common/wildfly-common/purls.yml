@@ -79,3 +79,15 @@
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha1-format-001
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha1-format-001?classifier=sources
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha1-format-001?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha3-format-001
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha3-format-001?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha3-format-001?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha3
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha3?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2-format-001
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2-format-001?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2-format-001?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.0.Alpha2?classifier=source-release&type=zip

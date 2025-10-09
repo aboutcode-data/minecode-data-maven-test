@@ -162,3 +162,5 @@
 - pkg:maven/org.uberfire/uberfire-client-webapp@2.9.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-webapp@2.10.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-client-webapp@2.10.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@2.11.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@2.11.0.Final?classifier=sources

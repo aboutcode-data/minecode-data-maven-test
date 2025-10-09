@@ -97,3 +97,4 @@
 - pkg:maven/org.wildfly/wildfly-jaxrs@14.0.1.Final
 - pkg:maven/org.wildfly/wildfly-jaxrs@14.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jaxrs@15.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-jaxrs@15.0.0.Beta1?classifier=sources
