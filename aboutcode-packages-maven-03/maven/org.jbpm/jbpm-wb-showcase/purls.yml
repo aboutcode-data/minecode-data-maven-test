@@ -42,3 +42,5 @@
 - pkg:maven/org.jbpm/jbpm-wb-showcase@7.10.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-wb-showcase@7.11.0.Final?type=war
 - pkg:maven/org.jbpm/jbpm-wb-showcase@7.11.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-wb-showcase@7.12.0.Final?type=war
+- pkg:maven/org.jbpm/jbpm-wb-showcase@7.12.0.Final?classifier=sources

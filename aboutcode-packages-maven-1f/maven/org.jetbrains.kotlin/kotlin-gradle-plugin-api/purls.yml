@@ -142,3 +142,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-api@1.2.70?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-api@0.9.1-native
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-api@0.9.1-native?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-api@1.2.71
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-api@1.2.71?classifier=sources

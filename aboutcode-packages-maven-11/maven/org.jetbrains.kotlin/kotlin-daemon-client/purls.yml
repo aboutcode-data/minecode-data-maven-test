@@ -60,3 +60,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-daemon-client@1.2.70?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-daemon-client@0.9.1-native
 - pkg:maven/org.jetbrains.kotlin/kotlin-daemon-client@0.9.1-native?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-daemon-client@1.2.71
+- pkg:maven/org.jetbrains.kotlin/kotlin-daemon-client@1.2.71?classifier=sources

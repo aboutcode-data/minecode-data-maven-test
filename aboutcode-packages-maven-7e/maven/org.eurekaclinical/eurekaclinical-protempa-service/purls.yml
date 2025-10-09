@@ -88,3 +88,7 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.0-Beta-10?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.0?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.0?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.1-Alpha-2?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.1-Alpha-2?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.1-Alpha-1?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-protempa-service@2.1-Alpha-1?classifier=sources
