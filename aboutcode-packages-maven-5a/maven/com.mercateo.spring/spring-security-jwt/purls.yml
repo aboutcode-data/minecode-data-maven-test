@@ -66,3 +66,5 @@
 - pkg:maven/com.mercateo.spring/spring-security-jwt@0.5.4?classifier=sources
 - pkg:maven/com.mercateo.spring/spring-security-jwt@1.0.0
 - pkg:maven/com.mercateo.spring/spring-security-jwt@1.0.0?classifier=sources
+- pkg:maven/com.mercateo.spring/spring-security-jwt@1.0.1
+- pkg:maven/com.mercateo.spring/spring-security-jwt@1.0.1?classifier=sources

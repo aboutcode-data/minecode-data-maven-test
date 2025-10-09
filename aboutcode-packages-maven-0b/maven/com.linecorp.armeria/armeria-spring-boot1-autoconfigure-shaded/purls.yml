@@ -25,3 +25,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot1-autoconfigure-shaded@0.71.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot1-autoconfigure-shaded@0.71.1
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot1-autoconfigure-shaded@0.71.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-autoconfigure-shaded@0.72.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-autoconfigure-shaded@0.72.0?classifier=sources

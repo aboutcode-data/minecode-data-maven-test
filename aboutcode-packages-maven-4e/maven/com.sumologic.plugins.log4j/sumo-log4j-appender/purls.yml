@@ -16,3 +16,5 @@
 - pkg:maven/com.sumologic.plugins.log4j/sumo-log4j-appender@2.7?classifier=sources
 - pkg:maven/com.sumologic.plugins.log4j/sumo-log4j-appender@2.8
 - pkg:maven/com.sumologic.plugins.log4j/sumo-log4j-appender@2.8?classifier=sources
+- pkg:maven/com.sumologic.plugins.log4j/sumo-log4j-appender@2.9
+- pkg:maven/com.sumologic.plugins.log4j/sumo-log4j-appender@2.9?classifier=sources
