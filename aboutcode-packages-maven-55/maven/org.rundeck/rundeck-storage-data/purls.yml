@@ -142,3 +142,7 @@
 - pkg:maven/org.rundeck/rundeck-storage-data@2.11.8?classifier=sources
 - pkg:maven/org.rundeck/rundeck-storage-data@3.0.9-20181127
 - pkg:maven/org.rundeck/rundeck-storage-data@3.0.9-20181127?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@3.0.11-20181221
+- pkg:maven/org.rundeck/rundeck-storage-data@3.0.11-20181221?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@3.0.10-20181220
+- pkg:maven/org.rundeck/rundeck-storage-data@3.0.10-20181220?classifier=sources

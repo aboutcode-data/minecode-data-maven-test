@@ -36,3 +36,5 @@
 - pkg:maven/org.pantsbuild/junit-runner-annotations@0.0.20?classifier=sources
 - pkg:maven/org.pantsbuild/junit-runner-annotations@0.0.21
 - pkg:maven/org.pantsbuild/junit-runner-annotations@0.0.21?classifier=sources
+- pkg:maven/org.pantsbuild/junit-runner-annotations@0.0.22
+- pkg:maven/org.pantsbuild/junit-runner-annotations@0.0.22?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.reaktivity/nukleus@0.24?classifier=sources
 - pkg:maven/org.reaktivity/nukleus@0.25
 - pkg:maven/org.reaktivity/nukleus@0.25?classifier=sources
+- pkg:maven/org.reaktivity/nukleus@0.26
+- pkg:maven/org.reaktivity/nukleus@0.26?classifier=sources

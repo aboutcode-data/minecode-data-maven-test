@@ -38,3 +38,7 @@
 - pkg:maven/org.reaktivity/nukleus-auth-jwt@0.18?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-auth-jwt@0.20
 - pkg:maven/org.reaktivity/nukleus-auth-jwt@0.20?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-auth-jwt@0.22
+- pkg:maven/org.reaktivity/nukleus-auth-jwt@0.22?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-auth-jwt@0.21
+- pkg:maven/org.reaktivity/nukleus-auth-jwt@0.21?classifier=sources

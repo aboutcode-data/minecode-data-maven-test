@@ -88,3 +88,5 @@
 - pkg:maven/org.owasp/dependency-check-ant@3.3.4?classifier=sources
 - pkg:maven/org.owasp/dependency-check-ant@4.0.0
 - pkg:maven/org.owasp/dependency-check-ant@4.0.0?classifier=sources
+- pkg:maven/org.owasp/dependency-check-ant@4.0.1
+- pkg:maven/org.owasp/dependency-check-ant@4.0.1?classifier=sources
