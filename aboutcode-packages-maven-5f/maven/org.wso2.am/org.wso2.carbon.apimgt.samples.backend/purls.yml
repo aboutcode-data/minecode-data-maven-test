@@ -58,3 +58,5 @@
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.backend@2.6.0-beta2?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.backend@2.6.0-rc2?type=war
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.backend@2.6.0-rc2?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.backend@2.6.0?type=war
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.backend@2.6.0?classifier=sources

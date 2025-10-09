@@ -116,3 +116,5 @@
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@3.0.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@2.1.15.RELEASE
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@2.1.15.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@3.1.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@3.1.0.RELEASE?classifier=sources

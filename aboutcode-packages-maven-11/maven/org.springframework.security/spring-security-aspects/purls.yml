@@ -102,3 +102,5 @@
 - pkg:maven/org.springframework.security/spring-security-aspects@5.0.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-aspects@4.2.8.RELEASE
 - pkg:maven/org.springframework.security/spring-security-aspects@4.2.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-aspects@5.1.0.RELEASE
+- pkg:maven/org.springframework.security/spring-security-aspects@5.1.0.RELEASE?classifier=sources

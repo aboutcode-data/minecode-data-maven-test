@@ -8,3 +8,5 @@
 - pkg:maven/org.sonarsource.scanner.api/sonar-scanner-api-batch-interface@2.9.0.887?classifier=sources
 - pkg:maven/org.sonarsource.scanner.api/sonar-scanner-api-batch-interface@2.10.0.1189
 - pkg:maven/org.sonarsource.scanner.api/sonar-scanner-api-batch-interface@2.10.0.1189?classifier=sources
+- pkg:maven/org.sonarsource.scanner.api/sonar-scanner-api-batch-interface@2.11.0.1537
+- pkg:maven/org.sonarsource.scanner.api/sonar-scanner-api-batch-interface@2.11.0.1537?classifier=sources

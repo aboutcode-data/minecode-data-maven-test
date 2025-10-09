@@ -10,3 +10,5 @@
 - pkg:maven/org.semoss/semossweb@3.3.2?classifier=sources
 - pkg:maven/org.semoss/semossweb@3.3.3.5?type=war
 - pkg:maven/org.semoss/semossweb@3.3.3.5?classifier=sources
+- pkg:maven/org.semoss/semossweb@3.3.4?type=war
+- pkg:maven/org.semoss/semossweb@3.3.4?classifier=sources

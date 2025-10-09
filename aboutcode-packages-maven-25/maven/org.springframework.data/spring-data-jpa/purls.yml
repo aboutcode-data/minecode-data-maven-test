@@ -165,3 +165,5 @@
 - pkg:maven/org.springframework.data/spring-data-jpa@2.0.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.15.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.15.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.1.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.1.0.RELEASE?classifier=sources

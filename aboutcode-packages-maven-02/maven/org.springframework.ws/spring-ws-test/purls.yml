@@ -48,3 +48,7 @@
 - pkg:maven/org.springframework.ws/spring-ws-test@3.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ws/spring-ws-test@3.0.2.RELEASE
 - pkg:maven/org.springframework.ws/spring-ws-test@3.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-test@3.0.4.RELEASE
+- pkg:maven/org.springframework.ws/spring-ws-test@3.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-test@2.4.3.RELEASE
+- pkg:maven/org.springframework.ws/spring-ws-test@2.4.3.RELEASE?classifier=sources
