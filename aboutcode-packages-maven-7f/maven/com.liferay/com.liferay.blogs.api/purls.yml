@@ -138,3 +138,12 @@
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.16
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@5.2.3
+- pkg:maven/com.liferay/com.liferay.blogs.api@5.2.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@5.2.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.17
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.9
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.9?classifier=sources-commercial

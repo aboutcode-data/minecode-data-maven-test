@@ -95,3 +95,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.reference.support@1.0.12
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.reference.support@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.reference.support@1.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.reference.support@2.0.14
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.reference.support@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.reference.support@2.0.14?classifier=sources-commercial

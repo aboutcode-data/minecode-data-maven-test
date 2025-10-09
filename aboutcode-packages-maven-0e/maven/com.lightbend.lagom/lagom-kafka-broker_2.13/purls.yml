@@ -12,3 +12,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-kafka-broker_2.13@1.6.0-RC2?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-kafka-broker_2.13@1.6.0-RC3
 - pkg:maven/com.lightbend.lagom/lagom-kafka-broker_2.13@1.6.0-RC3?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-kafka-broker_2.13@1.6.0
+- pkg:maven/com.lightbend.lagom/lagom-kafka-broker_2.13@1.6.0?classifier=sources

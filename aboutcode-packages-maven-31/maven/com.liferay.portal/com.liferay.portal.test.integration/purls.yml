@@ -142,3 +142,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@6.0.21?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@6.0.22
 - pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@6.0.22?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@5.2.3
+- pkg:maven/com.liferay.portal/com.liferay.portal.test.integration@5.2.3?classifier=sources

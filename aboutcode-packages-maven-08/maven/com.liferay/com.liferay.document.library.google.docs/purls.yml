@@ -147,3 +147,12 @@
 - pkg:maven/com.liferay/com.liferay.document.library.google.docs@4.0.13
 - pkg:maven/com.liferay/com.liferay.document.library.google.docs@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.google.docs@4.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@4.0.14
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@4.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@4.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@3.0.8
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@2.0.33
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@2.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.google.docs@2.0.33?classifier=sources-commercial

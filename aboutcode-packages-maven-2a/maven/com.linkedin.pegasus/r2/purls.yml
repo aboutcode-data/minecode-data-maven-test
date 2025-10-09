@@ -65,3 +65,4 @@
 - pkg:maven/com.linkedin.pegasus/r2@24.0.2
 - pkg:maven/com.linkedin.pegasus/r2@24.0.2?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2@27.7.18
+- pkg:maven/com.linkedin.pegasus/r2@27.7.18?classifier=sources

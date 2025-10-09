@@ -88,3 +88,6 @@
 - pkg:maven/com.liferay/com.liferay.bean.portlet.cdi.extension@1.0.21
 - pkg:maven/com.liferay/com.liferay.bean.portlet.cdi.extension@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bean.portlet.cdi.extension@1.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bean.portlet.cdi.extension@2.0.8
+- pkg:maven/com.liferay/com.liferay.bean.portlet.cdi.extension@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bean.portlet.cdi.extension@2.0.8?classifier=sources-commercial

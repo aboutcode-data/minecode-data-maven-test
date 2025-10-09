@@ -183,3 +183,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@3.0.14
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@2.0.16
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@1.0.40
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@1.0.40?classifier=sources-commercial

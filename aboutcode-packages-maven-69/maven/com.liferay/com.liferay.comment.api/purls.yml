@@ -82,3 +82,9 @@
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.3
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.api@4.1.2
+- pkg:maven/com.liferay/com.liferay.comment.api@4.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.api@4.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.api@3.2.4
+- pkg:maven/com.liferay/com.liferay.comment.api@3.2.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.api@3.2.4?classifier=sources-commercial

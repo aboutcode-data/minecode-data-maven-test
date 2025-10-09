@@ -497,3 +497,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@3.0.46
 - pkg:maven/com.liferay/com.liferay.wiki.web@3.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@3.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.38
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.53
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.53?classifier=sources-commercial

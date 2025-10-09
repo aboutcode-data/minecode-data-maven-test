@@ -132,3 +132,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.12
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.9
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.10
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.10?classifier=sources-commercial

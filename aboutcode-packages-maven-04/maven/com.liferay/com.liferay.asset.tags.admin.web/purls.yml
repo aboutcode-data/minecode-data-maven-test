@@ -167,3 +167,12 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.23
 - pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@3.0.19
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@3.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@3.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@2.0.19
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.24
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.admin.web@1.0.24?classifier=sources-commercial

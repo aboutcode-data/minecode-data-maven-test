@@ -127,3 +127,6 @@
 - pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.7
 - pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.35
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.35?classifier=sources-commercial
