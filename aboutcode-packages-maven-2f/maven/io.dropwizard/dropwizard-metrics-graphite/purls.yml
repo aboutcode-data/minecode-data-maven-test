@@ -52,3 +52,5 @@
 - pkg:maven/io.dropwizard/dropwizard-metrics-graphite@0.9.2?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-metrics-graphite@1.0.0-rc1
 - pkg:maven/io.dropwizard/dropwizard-metrics-graphite@1.0.0-rc1?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-metrics-graphite@1.0.0-rc2
+- pkg:maven/io.dropwizard/dropwizard-metrics-graphite@1.0.0-rc2?classifier=sources

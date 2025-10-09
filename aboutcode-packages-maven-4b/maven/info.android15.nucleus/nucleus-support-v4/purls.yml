@@ -40,3 +40,5 @@
 - pkg:maven/info.android15.nucleus/nucleus-support-v4@2.0.4?classifier=sources
 - pkg:maven/info.android15.nucleus/nucleus-support-v4@2.0.5?type=aar
 - pkg:maven/info.android15.nucleus/nucleus-support-v4@2.0.5?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v4@2.0.5beta?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v4@2.0.5beta?classifier=sources
