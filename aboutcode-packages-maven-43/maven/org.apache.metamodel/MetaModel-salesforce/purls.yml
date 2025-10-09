@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.metamodel/MetaModel-salesforce@5.0-RC4?classifier=sources
 - pkg:maven/org.apache.metamodel/MetaModel-salesforce@5.0.0
 - pkg:maven/org.apache.metamodel/MetaModel-salesforce@5.0.0?classifier=sources
+- pkg:maven/org.apache.metamodel/MetaModel-salesforce@4.6.1
+- pkg:maven/org.apache.metamodel/MetaModel-salesforce@4.6.1?classifier=sources

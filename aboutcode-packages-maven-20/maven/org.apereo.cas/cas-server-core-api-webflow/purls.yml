@@ -56,3 +56,7 @@
 - pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.2.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.0.10
 - pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.0.10?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.2.0
+- pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.2.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.1.6
+- pkg:maven/org.apereo.cas/cas-server-core-api-webflow@5.1.6?classifier=sources

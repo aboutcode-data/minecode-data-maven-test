@@ -52,3 +52,7 @@
 - pkg:maven/org.beryx/text-io@2.7.3?classifier=sources
 - pkg:maven/org.beryx/text-io@2.8.0
 - pkg:maven/org.beryx/text-io@2.8.0?classifier=sources
+- pkg:maven/org.beryx/text-io@3.0.0-alpha-2
+- pkg:maven/org.beryx/text-io@3.0.0-alpha-2?classifier=sources
+- pkg:maven/org.beryx/text-io@3.0.0-alpha-1
+- pkg:maven/org.beryx/text-io@3.0.0-alpha-1?classifier=sources
