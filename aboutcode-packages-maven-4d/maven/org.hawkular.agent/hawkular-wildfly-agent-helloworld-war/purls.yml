@@ -102,3 +102,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@1.0.0.CR2?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@1.0.0.CR4?type=war
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@1.0.0.CR4?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@1.0.0.CR5?type=war
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-helloworld-war@1.0.0.CR5?classifier=sources
