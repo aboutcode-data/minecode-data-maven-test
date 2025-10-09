@@ -54,3 +54,5 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/identity-inbound-auth-saml@5.4.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/identity-inbound-auth-saml@5.4.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/identity-inbound-auth-saml@5.4.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/identity-inbound-auth-saml@5.4.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/identity-inbound-auth-saml@5.4.13?classifier=source-release&type=zip

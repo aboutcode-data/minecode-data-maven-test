@@ -34,3 +34,5 @@
 - pkg:maven/pro.taskana/taskana-spring@0.9.5?classifier=sources
 - pkg:maven/pro.taskana/taskana-spring@0.9.3
 - pkg:maven/pro.taskana/taskana-spring@0.9.3?classifier=sources
+- pkg:maven/pro.taskana/taskana-spring@1.0.1
+- pkg:maven/pro.taskana/taskana-spring@1.0.1?classifier=sources
