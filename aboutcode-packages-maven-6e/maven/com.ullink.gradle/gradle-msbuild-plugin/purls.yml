@@ -50,3 +50,5 @@
 - pkg:maven/com.ullink.gradle/gradle-msbuild-plugin@2.15?classifier=sources
 - pkg:maven/com.ullink.gradle/gradle-msbuild-plugin@2.18
 - pkg:maven/com.ullink.gradle/gradle-msbuild-plugin@2.18?classifier=sources
+- pkg:maven/com.ullink.gradle/gradle-msbuild-plugin@2.22
+- pkg:maven/com.ullink.gradle/gradle-msbuild-plugin@2.22?classifier=sources
