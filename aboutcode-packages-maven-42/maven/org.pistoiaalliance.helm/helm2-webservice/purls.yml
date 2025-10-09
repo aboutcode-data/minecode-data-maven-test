@@ -16,3 +16,5 @@
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@2.3.2?classifier=sources
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.0?type=war
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.0?classifier=sources
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.1?type=war
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.1?classifier=sources

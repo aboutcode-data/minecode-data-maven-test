@@ -74,3 +74,5 @@
 - pkg:maven/org.reaktivity/nukleus-tcp.spec@0.35?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-tcp.spec@0.38
 - pkg:maven/org.reaktivity/nukleus-tcp.spec@0.38?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tcp.spec@0.39
+- pkg:maven/org.reaktivity/nukleus-tcp.spec@0.39?classifier=sources

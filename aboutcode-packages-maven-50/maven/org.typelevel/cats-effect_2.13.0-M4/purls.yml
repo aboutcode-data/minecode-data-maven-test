@@ -6,3 +6,5 @@
 - pkg:maven/org.typelevel/cats-effect_2.13.0-M4@1.0.0-RC3?classifier=sources
 - pkg:maven/org.typelevel/cats-effect_2.13.0-M4@1.0.0-RC3-3e17307
 - pkg:maven/org.typelevel/cats-effect_2.13.0-M4@1.0.0-RC3-3e17307?classifier=sources
+- pkg:maven/org.typelevel/cats-effect_2.13.0-M4@1.0.0
+- pkg:maven/org.typelevel/cats-effect_2.13.0-M4@1.0.0?classifier=sources

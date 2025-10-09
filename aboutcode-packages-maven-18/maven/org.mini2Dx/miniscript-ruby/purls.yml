@@ -4,3 +4,5 @@
 - pkg:maven/org.mini2Dx/miniscript-ruby@1.0.0-alpha2?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-ruby@1.0.0-beta1
 - pkg:maven/org.mini2Dx/miniscript-ruby@1.0.0-beta1?classifier=sources
+- pkg:maven/org.mini2Dx/miniscript-ruby@1.0.0
+- pkg:maven/org.mini2Dx/miniscript-ruby@1.0.0?classifier=sources

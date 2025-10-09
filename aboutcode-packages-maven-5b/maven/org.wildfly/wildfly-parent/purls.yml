@@ -3,3 +3,4 @@
 - pkg:maven/org.wildfly/wildfly-parent@13.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-parent@14.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-parent@14.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-parent@14.0.1.Final?classifier=source-release&type=zip

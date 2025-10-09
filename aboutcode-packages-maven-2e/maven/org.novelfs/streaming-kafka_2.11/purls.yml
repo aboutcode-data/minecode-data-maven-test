@@ -1,0 +1,4 @@
+- pkg:maven/org.novelfs/streaming-kafka_2.11@0.4.4
+- pkg:maven/org.novelfs/streaming-kafka_2.11@0.4.4?classifier=sources
+- pkg:maven/org.novelfs/streaming-kafka_2.11@0.4.3
+- pkg:maven/org.novelfs/streaming-kafka_2.11@0.4.3?classifier=sources

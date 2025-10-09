@@ -236,3 +236,7 @@
 - pkg:maven/org.springframework/spring-beans@4.3.18.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-beans@5.0.8.RELEASE
 - pkg:maven/org.springframework/spring-beans@5.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-beans@5.0.9.RELEASE
+- pkg:maven/org.springframework/spring-beans@5.0.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-beans@4.3.19.RELEASE
+- pkg:maven/org.springframework/spring-beans@4.3.19.RELEASE?classifier=sources
