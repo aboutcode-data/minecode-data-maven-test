@@ -102,3 +102,5 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.1.12?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.1.13
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.1.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.0-RC2
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.0-RC2?classifier=sources

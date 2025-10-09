@@ -114,3 +114,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-antlib@2.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-antlib@1.5.22.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-antlib@1.5.22.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-antlib@2.1.8.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-antlib@2.1.8.RELEASE?classifier=sources

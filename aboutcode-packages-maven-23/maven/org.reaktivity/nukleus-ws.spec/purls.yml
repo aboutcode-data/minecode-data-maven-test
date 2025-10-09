@@ -88,3 +88,5 @@
 - pkg:maven/org.reaktivity/nukleus-ws.spec@0.44?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-ws.spec@0.45
 - pkg:maven/org.reaktivity/nukleus-ws.spec@0.45?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-ws.spec@0.46
+- pkg:maven/org.reaktivity/nukleus-ws.spec@0.46?classifier=sources

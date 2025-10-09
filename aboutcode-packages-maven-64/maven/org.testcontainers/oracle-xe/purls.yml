@@ -92,3 +92,5 @@
 - pkg:maven/org.testcontainers/oracle-xe@1.11.4?classifier=sources
 - pkg:maven/org.testcontainers/oracle-xe@1.12.0
 - pkg:maven/org.testcontainers/oracle-xe@1.12.0?classifier=sources
+- pkg:maven/org.testcontainers/oracle-xe@1.12.1
+- pkg:maven/org.testcontainers/oracle-xe@1.12.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.reaktivity/nukleus-mqtt.spec@0.4?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-mqtt.spec@0.3
 - pkg:maven/org.reaktivity/nukleus-mqtt.spec@0.3?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-mqtt.spec@0.7
+- pkg:maven/org.reaktivity/nukleus-mqtt.spec@0.7?classifier=sources
