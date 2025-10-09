@@ -22,3 +22,5 @@
 - pkg:maven/org.revapi/revapi-java-spi@0.4.3?classifier=sources
 - pkg:maven/org.revapi/revapi-java-spi@0.5.0
 - pkg:maven/org.revapi/revapi-java-spi@0.5.0?classifier=sources
+- pkg:maven/org.revapi/revapi-java-spi@0.5.1
+- pkg:maven/org.revapi/revapi-java-spi@0.5.1?classifier=sources

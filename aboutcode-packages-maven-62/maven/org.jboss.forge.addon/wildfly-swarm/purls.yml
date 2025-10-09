@@ -1,3 +1,6 @@
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@1.0.0.Alpha3
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@1.0.0.Alpha3?classifier=sources
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@1.0.0.Alpha3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@1.0.0.Alpha8
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@1.0.0.Alpha8?classifier=sources
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@1.0.0.Alpha8?classifier=source-release&type=zip

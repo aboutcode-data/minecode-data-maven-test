@@ -42,3 +42,5 @@
 - pkg:maven/org.jasig.portlet/NewsReaderPortlet@4.0.1-M3?classifier=sources
 - pkg:maven/org.jasig.portlet/NewsReaderPortlet@4.0.1-M2?type=war
 - pkg:maven/org.jasig.portlet/NewsReaderPortlet@4.0.1-M2?classifier=sources
+- pkg:maven/org.jasig.portlet/NewsReaderPortlet@4.0.1?type=war
+- pkg:maven/org.jasig.portlet/NewsReaderPortlet@4.0.1?classifier=sources
