@@ -202,3 +202,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.6.15?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-storm@6.6.2
 - pkg:maven/org.elasticsearch/elasticsearch-storm@6.6.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.6.16
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.6.16?classifier=sources
