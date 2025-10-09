@@ -6,3 +6,5 @@
 - pkg:maven/com.google.dagger/dagger-android-support@2.10-rc4?classifier=sources
 - pkg:maven/com.google.dagger/dagger-android-support@2.10-rc3?type=aar
 - pkg:maven/com.google.dagger/dagger-android-support@2.10-rc3?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-support@2.10?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support@2.10?classifier=sources

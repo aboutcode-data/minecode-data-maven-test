@@ -82,3 +82,5 @@
 - pkg:maven/com.typesafe.play/play-test_2.11@2.5.13?classifier=sources
 - pkg:maven/com.typesafe.play/play-test_2.11@2.4.11
 - pkg:maven/com.typesafe.play/play-test_2.11@2.4.11?classifier=sources
+- pkg:maven/com.typesafe.play/play-test_2.11@2.6.0-M3
+- pkg:maven/com.typesafe.play/play-test_2.11@2.6.0-M3?classifier=sources

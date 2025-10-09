@@ -144,3 +144,7 @@
 - pkg:maven/com.gu/content-api-models-json@11.8?classifier=sources
 - pkg:maven/com.gu/content-api-models-json@11.9
 - pkg:maven/com.gu/content-api-models-json@11.9?classifier=sources
+- pkg:maven/com.gu/content-api-models-json@11.11
+- pkg:maven/com.gu/content-api-models-json@11.11?classifier=sources
+- pkg:maven/com.gu/content-api-models-json@11.10
+- pkg:maven/com.gu/content-api-models-json@11.10?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.14?classifier=sources
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.13?type=war
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.13?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.16?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.16?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.15?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.15?classifier=sources
