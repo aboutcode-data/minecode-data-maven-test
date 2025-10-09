@@ -192,3 +192,5 @@
 - pkg:maven/com.infotel.seleniumRobot/core@4.9.2?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@4.9.3?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.9.3?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.10.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.10.0?classifier=sources

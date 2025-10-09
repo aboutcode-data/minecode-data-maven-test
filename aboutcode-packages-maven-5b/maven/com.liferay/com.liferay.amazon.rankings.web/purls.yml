@@ -156,3 +156,12 @@
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.16
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.16
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.27
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.27?classifier=sources-commercial

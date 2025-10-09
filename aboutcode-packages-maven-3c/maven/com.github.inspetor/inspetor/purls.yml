@@ -12,3 +12,5 @@
 - pkg:maven/com.github.inspetor/inspetor@1.0.2?classifier=sources
 - pkg:maven/com.github.inspetor/inspetor@1.0.0?type=aar
 - pkg:maven/com.github.inspetor/inspetor@1.0.0?classifier=sources
+- pkg:maven/com.github.inspetor/inspetor@1.4.6-beta?type=aar
+- pkg:maven/com.github.inspetor/inspetor@1.4.6-beta?classifier=sources

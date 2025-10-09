@@ -32,3 +32,11 @@
 - pkg:maven/com.guicedee.services/commons-compress@1.0.0.0?classifier=sources
 - pkg:maven/com.guicedee.services/commons-compress@0.70.0.7
 - pkg:maven/com.guicedee.services/commons-compress@0.70.0.7?classifier=sources
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0-jre8
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0-jre8?classifier=sources
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0-jre13
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0-jre13?classifier=sources
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0-jre12
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0-jre12?classifier=sources
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0
+- pkg:maven/com.guicedee.services/commons-compress@1.0.1.0?classifier=sources
