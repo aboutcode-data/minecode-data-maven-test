@@ -1,0 +1,2 @@
+- pkg:maven/de.nikem.nest/nest-web@1.0?type=war
+- pkg:maven/de.nikem.nest/nest-web@1.0?classifier=sources

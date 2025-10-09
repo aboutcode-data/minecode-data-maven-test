@@ -88,3 +88,5 @@
 - pkg:maven/io.yawp/yawp-postgresql@1.6.9?classifier=sources
 - pkg:maven/io.yawp/yawp-postgresql@1.6.8
 - pkg:maven/io.yawp/yawp-postgresql@1.6.8?classifier=sources
+- pkg:maven/io.yawp/yawp-postgresql@1.6.10
+- pkg:maven/io.yawp/yawp-postgresql@1.6.10?classifier=sources

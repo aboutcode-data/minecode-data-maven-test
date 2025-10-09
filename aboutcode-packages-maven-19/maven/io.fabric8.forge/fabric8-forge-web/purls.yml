@@ -484,3 +484,7 @@
 - pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.56?classifier=sources
 - pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.55?type=war
 - pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.55?classifier=sources
+- pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.60?type=war
+- pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.60?classifier=sources
+- pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.59?type=war
+- pkg:maven/io.fabric8.forge/fabric8-forge-web@2.3.59?classifier=sources
