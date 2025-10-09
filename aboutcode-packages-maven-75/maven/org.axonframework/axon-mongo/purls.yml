@@ -64,3 +64,5 @@
 - pkg:maven/org.axonframework/axon-mongo@2.4.5?classifier=sources
 - pkg:maven/org.axonframework/axon-mongo@3.0-M4
 - pkg:maven/org.axonframework/axon-mongo@3.0-M4?classifier=sources
+- pkg:maven/org.axonframework/axon-mongo@3.0-M5
+- pkg:maven/org.axonframework/axon-mongo@3.0-M5?classifier=sources
