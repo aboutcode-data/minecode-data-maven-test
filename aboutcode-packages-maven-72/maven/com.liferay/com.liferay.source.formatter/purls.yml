@@ -1340,3 +1340,5 @@
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.751?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.750?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.750?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.755?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.755?classifier=sources-commercial

@@ -97,3 +97,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.task.web@1.0.38
 - pkg:maven/com.liferay/com.liferay.portal.workflow.task.web@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.task.web@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.task.web@2.0.6
+- pkg:maven/com.liferay/com.liferay.portal.workflow.task.web@2.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.task.web@2.0.6?classifier=sources-commercial

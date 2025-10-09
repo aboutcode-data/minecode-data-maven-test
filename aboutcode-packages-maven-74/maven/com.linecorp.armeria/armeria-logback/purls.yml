@@ -84,3 +84,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.73.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.74.0
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.74.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.74.1
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.74.1?classifier=sources

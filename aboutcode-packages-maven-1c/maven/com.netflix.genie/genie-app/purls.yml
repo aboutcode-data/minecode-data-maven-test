@@ -148,3 +148,5 @@
 - pkg:maven/com.netflix.genie/genie-app@3.3.11?classifier=sources
 - pkg:maven/com.netflix.genie/genie-app@3.3.12
 - pkg:maven/com.netflix.genie/genie-app@3.3.12?classifier=sources
+- pkg:maven/com.netflix.genie/genie-app@4.0.0-rc.1
+- pkg:maven/com.netflix.genie/genie-app@4.0.0-rc.1?classifier=sources
