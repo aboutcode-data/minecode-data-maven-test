@@ -318,3 +318,5 @@
 - pkg:maven/org.jboss.weld/weld-osgi-bundle@3.0.3.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-osgi-bundle@2.4.7.Final
 - pkg:maven/org.jboss.weld/weld-osgi-bundle@2.4.7.Final?classifier=sources
+- pkg:maven/org.jboss.weld/weld-osgi-bundle@3.0.4.Final
+- pkg:maven/org.jboss.weld/weld-osgi-bundle@3.0.4.Final?classifier=sources
