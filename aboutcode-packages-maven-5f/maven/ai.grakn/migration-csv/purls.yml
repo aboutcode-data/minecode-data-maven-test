@@ -30,3 +30,5 @@
 - pkg:maven/ai.grakn/migration-csv@0.17.1?classifier=sources
 - pkg:maven/ai.grakn/migration-csv@1.0.0
 - pkg:maven/ai.grakn/migration-csv@1.0.0?classifier=sources
+- pkg:maven/ai.grakn/migration-csv@1.1.0
+- pkg:maven/ai.grakn/migration-csv@1.1.0?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.5.0-alpha?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.4.1-update2
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.4.1-update2?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.5.0-alpha2
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.5.0-alpha2?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.4.1-update3
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.samples.sts@5.4.1-update3?classifier=sources

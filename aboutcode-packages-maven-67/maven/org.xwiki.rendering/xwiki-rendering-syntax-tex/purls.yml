@@ -366,3 +366,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@8.4.6?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@10.0
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@10.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@10.1-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@10.1-rc-1?classifier=sources

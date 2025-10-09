@@ -388,3 +388,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-api@8.4.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-api@10.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-environment-api@10.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-environment-api@10.1-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-environment-api@10.1-rc-1?classifier=sources

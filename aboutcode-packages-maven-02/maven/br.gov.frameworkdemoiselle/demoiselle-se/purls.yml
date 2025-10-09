@@ -40,3 +40,7 @@
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@2.5.1?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@2.5.2-RC1
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@2.5.2-RC1?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@%3D2.5.2
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@%3D2.5.2?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@2.5.2
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-se@2.5.2?classifier=sources

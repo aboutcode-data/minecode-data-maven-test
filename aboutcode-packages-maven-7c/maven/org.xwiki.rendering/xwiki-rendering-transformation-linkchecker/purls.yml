@@ -398,3 +398,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-linkchecker@8.4.6?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-linkchecker@10.0
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-linkchecker@10.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-linkchecker@10.1-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-linkchecker@10.1-rc-1?classifier=sources

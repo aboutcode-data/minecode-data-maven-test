@@ -382,3 +382,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@8.4.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.1-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@10.1-rc-1?classifier=sources

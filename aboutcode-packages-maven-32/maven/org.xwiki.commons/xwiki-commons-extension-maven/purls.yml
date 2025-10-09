@@ -66,3 +66,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-maven@9.11.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-maven@10.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-maven@10.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-maven@10.1-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-maven@10.1-rc-1?classifier=sources
