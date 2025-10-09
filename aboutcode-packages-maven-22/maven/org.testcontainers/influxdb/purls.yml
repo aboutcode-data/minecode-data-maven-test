@@ -38,3 +38,5 @@
 - pkg:maven/org.testcontainers/influxdb@1.11.3?classifier=sources
 - pkg:maven/org.testcontainers/influxdb@1.11.4
 - pkg:maven/org.testcontainers/influxdb@1.11.4?classifier=sources
+- pkg:maven/org.testcontainers/influxdb@1.12.0
+- pkg:maven/org.testcontainers/influxdb@1.12.0?classifier=sources

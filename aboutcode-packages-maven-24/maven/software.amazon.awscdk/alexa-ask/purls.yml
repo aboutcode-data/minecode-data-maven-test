@@ -56,3 +56,5 @@
 - pkg:maven/software.amazon.awscdk/alexa-ask@0.39.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/alexa-ask@1.1.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/alexa-ask@1.1.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/alexa-ask@1.2.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/alexa-ask@1.2.0.DEVPREVIEW?classifier=sources

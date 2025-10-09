@@ -406,3 +406,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@11.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@10.11.9
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@10.11.9?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@11.6-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@11.6-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@11.3.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-repository-http@11.3.2?classifier=sources

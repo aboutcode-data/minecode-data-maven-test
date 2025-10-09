@@ -60,3 +60,5 @@
 - pkg:maven/software.amazon.awscdk/dlm@0.39.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/dlm@1.1.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/dlm@1.1.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@1.2.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/dlm@1.2.0.DEVPREVIEW?classifier=sources
