@@ -214,3 +214,5 @@
 - pkg:maven/io.ebean/ebean@11.36.1?classifier=sources
 - pkg:maven/io.ebean/ebean@11.36.3
 - pkg:maven/io.ebean/ebean@11.36.3?classifier=sources
+- pkg:maven/io.ebean/ebean@11.36.4
+- pkg:maven/io.ebean/ebean@11.36.4?classifier=sources

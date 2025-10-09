@@ -161,3 +161,5 @@
 - pkg:maven/com.yahoo.vespa/container-disc@7.28.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-disc@7.27.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-disc@7.31.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-disc@7.34.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-disc@7.32.81?classifier=sources

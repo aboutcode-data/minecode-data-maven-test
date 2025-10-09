@@ -204,3 +204,7 @@
 - pkg:maven/io.flux-capacitor/common@0.96?classifier=sources
 - pkg:maven/io.flux-capacitor/common@0.100
 - pkg:maven/io.flux-capacitor/common@0.100?classifier=sources
+- pkg:maven/io.flux-capacitor/common@0.102
+- pkg:maven/io.flux-capacitor/common@0.102?classifier=sources
+- pkg:maven/io.flux-capacitor/common@0.101
+- pkg:maven/io.flux-capacitor/common@0.101?classifier=sources

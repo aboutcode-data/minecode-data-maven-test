@@ -96,3 +96,5 @@
 - pkg:maven/com.yahoo.parsec/parsec-logging@1.0.8?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-logging@1.0.9
 - pkg:maven/com.yahoo.parsec/parsec-logging@1.0.9?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-logging@1.0.12
+- pkg:maven/com.yahoo.parsec/parsec-logging@1.0.12?classifier=sources

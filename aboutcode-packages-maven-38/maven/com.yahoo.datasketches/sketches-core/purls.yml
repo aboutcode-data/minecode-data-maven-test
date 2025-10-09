@@ -58,3 +58,5 @@
 - pkg:maven/com.yahoo.datasketches/sketches-core@0.12.0?classifier=sources
 - pkg:maven/com.yahoo.datasketches/sketches-core@0.13.0
 - pkg:maven/com.yahoo.datasketches/sketches-core@0.13.0?classifier=sources
+- pkg:maven/com.yahoo.datasketches/sketches-core@0.13.1
+- pkg:maven/com.yahoo.datasketches/sketches-core@0.13.1?classifier=sources

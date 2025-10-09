@@ -324,3 +324,7 @@
 - pkg:maven/com.yahoo.vespa/docproc@7.27.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/docproc@7.31.18
 - pkg:maven/com.yahoo.vespa/docproc@7.31.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/docproc@7.34.16
+- pkg:maven/com.yahoo.vespa/docproc@7.34.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/docproc@7.32.81
+- pkg:maven/com.yahoo.vespa/docproc@7.32.81?classifier=sources
