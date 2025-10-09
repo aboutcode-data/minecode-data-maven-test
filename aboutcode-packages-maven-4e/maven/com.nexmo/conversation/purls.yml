@@ -24,3 +24,5 @@
 - pkg:maven/com.nexmo/conversation@0.6.3?classifier=sources
 - pkg:maven/com.nexmo/conversation@0.6.4?type=aar
 - pkg:maven/com.nexmo/conversation@0.6.4?classifier=sources
+- pkg:maven/com.nexmo/conversation@0.7.0?type=aar
+- pkg:maven/com.nexmo/conversation@0.7.0?classifier=sources
