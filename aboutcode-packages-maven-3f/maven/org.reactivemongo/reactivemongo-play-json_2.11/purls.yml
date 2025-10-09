@@ -32,3 +32,7 @@
 - pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC2-play24?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC2
 - pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC2?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC3-play24
+- pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC3-play24?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC3
+- pkg:maven/org.reactivemongo/reactivemongo-play-json_2.11@0.12-RC3?classifier=sources

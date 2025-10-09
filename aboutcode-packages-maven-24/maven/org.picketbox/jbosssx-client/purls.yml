@@ -141,3 +141,5 @@
 - pkg:maven/org.picketbox/jbosssx-client@4.9.6.Final?classifier=sources
 - pkg:maven/org.picketbox/jbosssx-client@4.9.7.Final
 - pkg:maven/org.picketbox/jbosssx-client@4.9.7.Final?classifier=sources
+- pkg:maven/org.picketbox/jbosssx-client@5.0.0.Alpha3
+- pkg:maven/org.picketbox/jbosssx-client@5.0.0.Alpha3?classifier=sources
