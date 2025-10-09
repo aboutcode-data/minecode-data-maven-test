@@ -114,3 +114,5 @@
 - pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.19?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.18.4?type=war
 - pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.18.4?classifier=sources
+- pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.19.1?type=war
+- pkg:maven/com.sun.jersey.samples/https-server-glassfish@1.19.1?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.2.5.2?classifier=sources
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.2.4.4
 - pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@2.2.4.4?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.0.4.0-RELEASES
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.0.4.0-RELEASES?classifier=sources
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.0.4.0
+- pkg:maven/com.stratio.cassandra/cassandra-lucene-index-builder@3.0.4.0?classifier=sources

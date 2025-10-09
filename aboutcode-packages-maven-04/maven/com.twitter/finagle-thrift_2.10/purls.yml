@@ -80,3 +80,5 @@
 - pkg:maven/com.twitter/finagle-thrift_2.10@6.31.0?classifier=sources
 - pkg:maven/com.twitter/finagle-thrift_2.10@6.33.0
 - pkg:maven/com.twitter/finagle-thrift_2.10@6.33.0?classifier=sources
+- pkg:maven/com.twitter/finagle-thrift_2.10@6.34.0
+- pkg:maven/com.twitter/finagle-thrift_2.10@6.34.0?classifier=sources
