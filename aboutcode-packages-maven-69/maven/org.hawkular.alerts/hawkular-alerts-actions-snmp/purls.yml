@@ -22,3 +22,5 @@
 - pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-snmp@0.8.1.Final?classifier=sources
 - pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-snmp@0.8.0.Final?type=war
 - pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-snmp@0.8.0.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-snmp@1.0.0.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-snmp@1.0.0.Final?classifier=sources

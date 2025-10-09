@@ -38,3 +38,5 @@
 - pkg:maven/org.hawkular.alerts/hawkular-alerts-engine@0.8.1.Final?classifier=sources
 - pkg:maven/org.hawkular.alerts/hawkular-alerts-engine@0.8.0.Final
 - pkg:maven/org.hawkular.alerts/hawkular-alerts-engine@0.8.0.Final?classifier=sources
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-engine@1.0.0.Final
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-engine@1.0.0.Final?classifier=sources

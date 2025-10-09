@@ -151,3 +151,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.0.32
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.0.32?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@6.0.45
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.68
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.68?classifier=sources

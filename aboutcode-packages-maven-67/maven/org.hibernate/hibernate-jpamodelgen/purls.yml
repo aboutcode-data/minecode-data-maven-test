@@ -78,3 +78,5 @@
 - pkg:maven/org.hibernate/hibernate-jpamodelgen@5.0.7.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jpamodelgen@5.1.0.Final
 - pkg:maven/org.hibernate/hibernate-jpamodelgen@5.1.0.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jpamodelgen@5.0.8.Final
+- pkg:maven/org.hibernate/hibernate-jpamodelgen@5.0.8.Final?classifier=sources

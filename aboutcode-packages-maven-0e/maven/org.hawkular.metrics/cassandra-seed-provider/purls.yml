@@ -20,3 +20,7 @@
 - pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.11.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.12.0.Final
 - pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.12.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.8.1.Final
+- pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.8.1.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.12.1.Final
+- pkg:maven/org.hawkular.metrics/cassandra-seed-provider@0.12.1.Final?classifier=sources
