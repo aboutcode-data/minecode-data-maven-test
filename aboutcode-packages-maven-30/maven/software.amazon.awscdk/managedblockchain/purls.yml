@@ -24,3 +24,5 @@
 - pkg:maven/software.amazon.awscdk/managedblockchain@1.13.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/managedblockchain@1.14.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/managedblockchain@1.14.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/managedblockchain@1.15.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/managedblockchain@1.15.0.DEVPREVIEW?classifier=sources
