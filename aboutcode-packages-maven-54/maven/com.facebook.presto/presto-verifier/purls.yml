@@ -204,3 +204,7 @@
 - pkg:maven/com.facebook.presto/presto-verifier@0.158?classifier=sources
 - pkg:maven/com.facebook.presto/presto-verifier@0.160
 - pkg:maven/com.facebook.presto/presto-verifier@0.160?classifier=sources
+- pkg:maven/com.facebook.presto/presto-verifier@0.162
+- pkg:maven/com.facebook.presto/presto-verifier@0.162?classifier=sources
+- pkg:maven/com.facebook.presto/presto-verifier@0.161
+- pkg:maven/com.facebook.presto/presto-verifier@0.161?classifier=sources
