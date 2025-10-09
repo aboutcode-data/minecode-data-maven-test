@@ -17,3 +17,5 @@
 - pkg:maven/io.quarkus/quarkus-narayana-stm@1.0.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-narayana-stm@1.0.0.CR2
 - pkg:maven/io.quarkus/quarkus-narayana-stm@1.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-narayana-stm@1.0.1.Final
+- pkg:maven/io.quarkus/quarkus-narayana-stm@1.0.1.Final?classifier=sources
