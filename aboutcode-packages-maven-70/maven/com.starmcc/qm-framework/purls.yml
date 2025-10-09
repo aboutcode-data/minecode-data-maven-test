@@ -16,3 +16,5 @@
 - pkg:maven/com.starmcc/qm-framework@1.2.0-RELEASE?classifier=sources
 - pkg:maven/com.starmcc/qm-framework@1.2.0-BETA
 - pkg:maven/com.starmcc/qm-framework@1.2.0-BETA?classifier=sources
+- pkg:maven/com.starmcc/qm-framework@1.2.1-RELEASE
+- pkg:maven/com.starmcc/qm-framework@1.2.1-RELEASE?classifier=sources

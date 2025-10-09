@@ -4,3 +4,5 @@
 - pkg:maven/fun.hereis.code/all@1.6.RELEASE?classifier=sources
 - pkg:maven/fun.hereis.code/all@1.4
 - pkg:maven/fun.hereis.code/all@1.4?classifier=sources
+- pkg:maven/fun.hereis.code/all@1.7.RLS
+- pkg:maven/fun.hereis.code/all@1.7.RLS?classifier=sources

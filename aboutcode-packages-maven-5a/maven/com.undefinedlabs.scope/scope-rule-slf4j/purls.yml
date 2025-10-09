@@ -112,3 +112,5 @@
 - pkg:maven/com.undefinedlabs.scope/scope-rule-slf4j@0.1.9-beta.7?classifier=sources
 - pkg:maven/com.undefinedlabs.scope/scope-rule-slf4j@0.1.9-beta.6
 - pkg:maven/com.undefinedlabs.scope/scope-rule-slf4j@0.1.9-beta.6?classifier=sources
+- pkg:maven/com.undefinedlabs.scope/scope-rule-slf4j@0.1.9
+- pkg:maven/com.undefinedlabs.scope/scope-rule-slf4j@0.1.9?classifier=sources

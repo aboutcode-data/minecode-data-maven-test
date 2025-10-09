@@ -54,3 +54,5 @@
 - pkg:maven/com.zaxxer/influx4j@2.11?classifier=sources
 - pkg:maven/com.zaxxer/influx4j@2.12
 - pkg:maven/com.zaxxer/influx4j@2.12?classifier=sources
+- pkg:maven/com.zaxxer/influx4j@2.13
+- pkg:maven/com.zaxxer/influx4j@2.13?classifier=sources
