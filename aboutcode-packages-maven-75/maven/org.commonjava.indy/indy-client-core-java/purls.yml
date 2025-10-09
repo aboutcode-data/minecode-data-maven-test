@@ -48,3 +48,7 @@
 - pkg:maven/org.commonjava.indy/indy-client-core-java@1.1.8?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-client-core-java@1.1.9
 - pkg:maven/org.commonjava.indy/indy-client-core-java@1.1.9?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-client-core-java@1.2.0
+- pkg:maven/org.commonjava.indy/indy-client-core-java@1.2.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-client-core-java@1.1.10
+- pkg:maven/org.commonjava.indy/indy-client-core-java@1.1.10?classifier=sources

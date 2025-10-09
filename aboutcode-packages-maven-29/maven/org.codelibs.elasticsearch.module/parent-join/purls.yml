@@ -4,3 +4,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/parent-join@5.5.1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/parent-join@5.5.2
 - pkg:maven/org.codelibs.elasticsearch.module/parent-join@5.5.2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/parent-join@5.6.0
+- pkg:maven/org.codelibs.elasticsearch.module/parent-join@5.6.0?classifier=sources

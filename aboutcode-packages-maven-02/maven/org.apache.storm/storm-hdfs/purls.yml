@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.storm/storm-hdfs@1.0.4?classifier=sources
 - pkg:maven/org.apache.storm/storm-hdfs@1.1.1
 - pkg:maven/org.apache.storm/storm-hdfs@1.1.1?classifier=sources
+- pkg:maven/org.apache.storm/storm-hdfs@1.0.5
+- pkg:maven/org.apache.storm/storm-hdfs@1.0.5?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.codehaus.sonar-plugins.css/css-frontend@4.8?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.css/css-frontend@4.9
 - pkg:maven/org.codehaus.sonar-plugins.css/css-frontend@4.9?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.css/css-frontend@4.10
+- pkg:maven/org.codehaus.sonar-plugins.css/css-frontend@4.10?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.bridje/bridje-maven-plugin@0.4.4?classifier=sources
 - pkg:maven/org.bridje/bridje-maven-plugin@0.4.6
 - pkg:maven/org.bridje/bridje-maven-plugin@0.4.6?classifier=sources
+- pkg:maven/org.bridje/bridje-maven-plugin@0.4.7
+- pkg:maven/org.bridje/bridje-maven-plugin@0.4.7?classifier=sources
