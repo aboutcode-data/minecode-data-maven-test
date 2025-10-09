@@ -146,3 +146,7 @@
 - pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.3.0-M21?classifier=sources
 - pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.2.21
 - pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.2.21?classifier=sources
+- pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.3.0-M22
+- pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.3.0-M22?classifier=sources
+- pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.2.22
+- pkg:maven/org.scalaz/scalaz-concurrent_2.11@7.2.22?classifier=sources

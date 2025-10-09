@@ -28,3 +28,5 @@
 - pkg:maven/org.openbaton/plugin-sdk@5.1.2?classifier=sources
 - pkg:maven/org.openbaton/plugin-sdk@5.2.0
 - pkg:maven/org.openbaton/plugin-sdk@5.2.0?classifier=sources
+- pkg:maven/org.openbaton/plugin-sdk@5.2.1
+- pkg:maven/org.openbaton/plugin-sdk@5.2.1?classifier=sources

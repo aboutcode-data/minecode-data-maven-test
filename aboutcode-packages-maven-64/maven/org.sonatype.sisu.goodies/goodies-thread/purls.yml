@@ -44,3 +44,5 @@
 - pkg:maven/org.sonatype.sisu.goodies/goodies-thread@1.14?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-thread@1.12
 - pkg:maven/org.sonatype.sisu.goodies/goodies-thread@1.12?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-thread@1.9.1
+- pkg:maven/org.sonatype.sisu.goodies/goodies-thread@1.9.1?classifier=sources

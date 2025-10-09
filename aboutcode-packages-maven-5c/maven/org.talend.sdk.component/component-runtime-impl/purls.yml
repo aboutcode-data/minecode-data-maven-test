@@ -16,3 +16,5 @@
 - pkg:maven/org.talend.sdk.component/component-runtime-impl@0.0.9?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-impl@0.0.8
 - pkg:maven/org.talend.sdk.component/component-runtime-impl@0.0.8?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-impl@0.0.10
+- pkg:maven/org.talend.sdk.component/component-runtime-impl@0.0.10?classifier=sources
