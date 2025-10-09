@@ -80,3 +80,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.24
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.3
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.3?classifier=sources-commercial

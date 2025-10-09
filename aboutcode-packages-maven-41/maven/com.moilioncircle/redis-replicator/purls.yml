@@ -102,3 +102,5 @@
 - pkg:maven/com.moilioncircle/redis-replicator@3.2.1?classifier=sources
 - pkg:maven/com.moilioncircle/redis-replicator@2.6.5
 - pkg:maven/com.moilioncircle/redis-replicator@2.6.5?classifier=sources
+- pkg:maven/com.moilioncircle/redis-replicator@3.3.0
+- pkg:maven/com.moilioncircle/redis-replicator@3.3.0?classifier=sources

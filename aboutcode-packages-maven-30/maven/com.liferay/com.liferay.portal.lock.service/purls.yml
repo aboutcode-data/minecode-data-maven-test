@@ -174,3 +174,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.40
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.7
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.18
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.41
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.41?classifier=sources-commercial

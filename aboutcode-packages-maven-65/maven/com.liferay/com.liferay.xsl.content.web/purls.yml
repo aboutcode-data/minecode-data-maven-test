@@ -108,3 +108,6 @@
 - pkg:maven/com.liferay/com.liferay.xsl.content.web@2.0.21
 - pkg:maven/com.liferay/com.liferay.xsl.content.web@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.xsl.content.web@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.xsl.content.web@4.0.9
+- pkg:maven/com.liferay/com.liferay.xsl.content.web@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.xsl.content.web@4.0.9?classifier=sources-commercial

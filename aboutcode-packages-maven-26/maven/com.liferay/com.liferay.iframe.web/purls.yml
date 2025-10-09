@@ -130,3 +130,12 @@
 - pkg:maven/com.liferay/com.liferay.iframe.web@3.0.7
 - pkg:maven/com.liferay/com.liferay.iframe.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.iframe.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@3.0.8
+- pkg:maven/com.liferay/com.liferay.iframe.web@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@2.0.15
+- pkg:maven/com.liferay/com.liferay.iframe.web@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@1.0.28
+- pkg:maven/com.liferay/com.liferay.iframe.web@1.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@1.0.28?classifier=sources-commercial

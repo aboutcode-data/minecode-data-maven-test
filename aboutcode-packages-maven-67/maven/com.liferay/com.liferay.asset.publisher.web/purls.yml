@@ -506,3 +506,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.50
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.24
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.51
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@1.8.51?classifier=sources-commercial

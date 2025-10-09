@@ -72,3 +72,5 @@
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.37.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.0.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.0.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.1.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.1.0?classifier=sources
