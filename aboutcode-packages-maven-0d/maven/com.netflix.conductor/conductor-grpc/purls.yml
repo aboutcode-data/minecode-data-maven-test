@@ -80,3 +80,5 @@
 - pkg:maven/com.netflix.conductor/conductor-grpc@2.8.4?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-grpc@2.10.0
 - pkg:maven/com.netflix.conductor/conductor-grpc@2.10.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-grpc@2.10.1
+- pkg:maven/com.netflix.conductor/conductor-grpc@2.10.1?classifier=sources

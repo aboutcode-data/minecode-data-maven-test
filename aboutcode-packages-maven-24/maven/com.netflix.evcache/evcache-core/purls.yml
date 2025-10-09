@@ -78,3 +78,7 @@
 - pkg:maven/com.netflix.evcache/evcache-core@5.3.0?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-core@5.5.0
 - pkg:maven/com.netflix.evcache/evcache-core@5.5.0?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-core@5.7.0
+- pkg:maven/com.netflix.evcache/evcache-core@5.7.0?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-core@5.6.0
+- pkg:maven/com.netflix.evcache/evcache-core@5.6.0?classifier=sources

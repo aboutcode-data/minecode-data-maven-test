@@ -40,3 +40,5 @@
 - pkg:maven/com.qiniu/qsuits@4.61?classifier=sources
 - pkg:maven/com.qiniu/qsuits@4.60
 - pkg:maven/com.qiniu/qsuits@4.60?classifier=sources
+- pkg:maven/com.qiniu/qsuits@5.0
+- pkg:maven/com.qiniu/qsuits@5.0?classifier=sources

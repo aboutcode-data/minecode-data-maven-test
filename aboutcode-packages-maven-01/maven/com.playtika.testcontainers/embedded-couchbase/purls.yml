@@ -30,3 +30,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-couchbase@1.18?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-couchbase@1.19
 - pkg:maven/com.playtika.testcontainers/embedded-couchbase@1.19?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-couchbase@1.21
+- pkg:maven/com.playtika.testcontainers/embedded-couchbase@1.21?classifier=sources

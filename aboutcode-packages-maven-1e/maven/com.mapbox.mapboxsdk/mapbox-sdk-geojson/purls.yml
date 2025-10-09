@@ -36,3 +36,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-geojson@4.5.0?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-geojson@4.4.0
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-geojson@4.4.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-geojson@4.6.0
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-geojson@4.6.0?classifier=sources

@@ -62,3 +62,7 @@
 - pkg:maven/com.yunify/qingstor.sdk.java@2.2.16-all-deps?classifier=sources
 - pkg:maven/com.yunify/qingstor.sdk.java@2.2.16
 - pkg:maven/com.yunify/qingstor.sdk.java@2.2.16?classifier=sources
+- pkg:maven/com.yunify/qingstor.sdk.java@2.2.17-all-deps
+- pkg:maven/com.yunify/qingstor.sdk.java@2.2.17-all-deps?classifier=sources
+- pkg:maven/com.yunify/qingstor.sdk.java@2.2.17
+- pkg:maven/com.yunify/qingstor.sdk.java@2.2.17?classifier=sources

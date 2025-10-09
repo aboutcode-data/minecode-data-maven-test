@@ -70,3 +70,5 @@
 - pkg:maven/com.sap.cloud.s4hana.frameworks/liquibase@2.13.2?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.frameworks/liquibase@2.13.3
 - pkg:maven/com.sap.cloud.s4hana.frameworks/liquibase@2.13.3?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.frameworks/liquibase@2.14.0
+- pkg:maven/com.sap.cloud.s4hana.frameworks/liquibase@2.14.0?classifier=sources

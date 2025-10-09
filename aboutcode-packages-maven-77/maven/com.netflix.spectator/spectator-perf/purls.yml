@@ -86,3 +86,5 @@
 - pkg:maven/com.netflix.spectator/spectator-perf@0.87.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-perf@0.88.0
 - pkg:maven/com.netflix.spectator/spectator-perf@0.88.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-perf@0.90.0
+- pkg:maven/com.netflix.spectator/spectator-perf@0.90.0?classifier=sources
