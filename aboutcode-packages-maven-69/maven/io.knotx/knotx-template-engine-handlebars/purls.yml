@@ -1,2 +1,4 @@
 - pkg:maven/io.knotx/knotx-template-engine-handlebars@1.5.0
 - pkg:maven/io.knotx/knotx-template-engine-handlebars@1.5.0?classifier=sources
+- pkg:maven/io.knotx/knotx-template-engine-handlebars@2.0.0-RC1
+- pkg:maven/io.knotx/knotx-template-engine-handlebars@2.0.0-RC1?classifier=sources

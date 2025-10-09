@@ -20,3 +20,5 @@
 - pkg:maven/io.prestosql/presto-array@309?classifier=sources
 - pkg:maven/io.prestosql/presto-array@310
 - pkg:maven/io.prestosql/presto-array@310?classifier=sources
+- pkg:maven/io.prestosql/presto-array@311
+- pkg:maven/io.prestosql/presto-array@311?classifier=sources

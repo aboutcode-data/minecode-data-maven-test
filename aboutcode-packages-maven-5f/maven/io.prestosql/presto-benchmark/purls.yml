@@ -20,3 +20,5 @@
 - pkg:maven/io.prestosql/presto-benchmark@309?classifier=sources
 - pkg:maven/io.prestosql/presto-benchmark@310
 - pkg:maven/io.prestosql/presto-benchmark@310?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark@311
+- pkg:maven/io.prestosql/presto-benchmark@311?classifier=sources
