@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/terser@3.10.3
 - pkg:maven/org.webjars.npm/terser@3.10.3?classifier=sources
+- pkg:maven/org.webjars.npm/terser@3.16.1
+- pkg:maven/org.webjars.npm/terser@3.16.1?classifier=sources

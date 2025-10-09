@@ -560,3 +560,7 @@
 - pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.Beta4?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.Beta5?classifier=src&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.Beta5?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.Final?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.CR1?classifier=src&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-dist@8.0.0.CR1?classifier=src&type=tar.gz

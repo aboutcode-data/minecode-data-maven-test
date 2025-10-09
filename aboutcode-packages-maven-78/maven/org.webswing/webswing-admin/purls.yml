@@ -14,3 +14,5 @@
 - pkg:maven/org.webswing/webswing-admin@2.5.10?classifier=sources
 - pkg:maven/org.webswing/webswing-admin@2.5.11?type=war
 - pkg:maven/org.webswing/webswing-admin@2.5.11?classifier=sources
+- pkg:maven/org.webswing/webswing-admin@2.5.12?type=war
+- pkg:maven/org.webswing/webswing-admin@2.5.12?classifier=sources

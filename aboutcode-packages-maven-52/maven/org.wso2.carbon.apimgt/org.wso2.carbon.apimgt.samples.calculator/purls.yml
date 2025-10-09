@@ -1134,3 +1134,5 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.4.121?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.4.120?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.4.120?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.4.124?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@6.4.124?classifier=sources
