@@ -60,3 +60,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@1.0.24
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.8
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.8?classifier=sources-commercial

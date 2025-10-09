@@ -54,3 +54,6 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.select@3.0.2
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.select@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.select@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.select@2.0.19
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.select@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.select@2.0.19?classifier=sources-commercial

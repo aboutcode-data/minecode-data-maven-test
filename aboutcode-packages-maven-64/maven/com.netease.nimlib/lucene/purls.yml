@@ -72,3 +72,5 @@
 - pkg:maven/com.netease.nimlib/lucene@0.9.0?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@6.0.0?type=aar
 - pkg:maven/com.netease.nimlib/lucene@6.0.0?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@6.1.0?type=aar
+- pkg:maven/com.netease.nimlib/lucene@6.1.0?classifier=sources

@@ -189,3 +189,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.20
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.22
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.22?classifier=sources-commercial
