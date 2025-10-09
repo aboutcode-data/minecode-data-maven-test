@@ -178,3 +178,5 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.14.10?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.15.0
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.15.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.0
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.0?classifier=sources

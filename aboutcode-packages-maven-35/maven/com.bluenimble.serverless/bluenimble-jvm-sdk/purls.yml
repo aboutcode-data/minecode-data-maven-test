@@ -1,2 +1,4 @@
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@1.6.0
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@1.6.0?classifier=sources
+- pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@1.7.0
+- pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@1.7.0?classifier=sources

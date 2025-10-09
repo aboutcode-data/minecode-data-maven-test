@@ -44,3 +44,11 @@
 - pkg:maven/com.floragunn/search-guard-6@6.2.4-compliance-rc1-api
 - pkg:maven/com.floragunn/search-guard-6@6.2.4-compliance-rc1-api?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.2.4-compliance-rc1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.4-compliance-api-1
+- pkg:maven/com.floragunn/search-guard-6@6.2.4-compliance-api-1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.4-compliance-1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.3-compliance-1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.2-compliance-1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.1-compliance-api-1
+- pkg:maven/com.floragunn/search-guard-6@6.2.1-compliance-api-1?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.2.1-compliance-1?classifier=sources

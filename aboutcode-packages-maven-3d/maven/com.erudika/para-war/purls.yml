@@ -20,3 +20,5 @@
 - pkg:maven/com.erudika/para-war@1.29.0?classifier=sources
 - pkg:maven/com.erudika/para-war@1.29.1?type=war
 - pkg:maven/com.erudika/para-war@1.29.1?classifier=sources
+- pkg:maven/com.erudika/para-war@1.29.2?type=war
+- pkg:maven/com.erudika/para-war@1.29.2?classifier=sources
