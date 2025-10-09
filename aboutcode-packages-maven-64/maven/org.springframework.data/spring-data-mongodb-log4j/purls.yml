@@ -98,3 +98,7 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.9.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.9.6.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.9.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.9.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.9.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.10.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-log4j@1.10.0.RELEASE?classifier=sources

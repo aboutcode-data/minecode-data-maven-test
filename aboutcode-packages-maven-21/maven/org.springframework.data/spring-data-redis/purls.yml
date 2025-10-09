@@ -80,3 +80,7 @@
 - pkg:maven/org.springframework.data/spring-data-redis@1.7.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-redis@1.7.6.RELEASE
 - pkg:maven/org.springframework.data/spring-data-redis@1.7.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-redis@1.8.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-redis@1.8.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-redis@1.7.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-redis@1.7.7.RELEASE?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.4-simplex?classifier=sources
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-paper
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-paper?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-superhero
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-superhero?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-simplex
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-simplex?classifier=sources
