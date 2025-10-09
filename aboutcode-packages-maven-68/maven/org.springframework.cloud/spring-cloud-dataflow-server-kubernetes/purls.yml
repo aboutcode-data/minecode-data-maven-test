@@ -38,3 +38,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-kubernetes@1.6.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-kubernetes@1.7.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-kubernetes@1.7.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-kubernetes@1.7.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-kubernetes@1.7.1.RELEASE?classifier=sources

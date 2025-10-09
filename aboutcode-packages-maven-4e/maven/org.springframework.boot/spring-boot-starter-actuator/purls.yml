@@ -133,3 +133,8 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-actuator@1.5.17.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-actuator@1.5.17.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.1.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.1.1.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.0.7.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.0.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-actuator@1.5.18.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-actuator@1.5.18.RELEASE?classifier=sources

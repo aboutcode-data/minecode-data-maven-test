@@ -318,3 +318,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.14.10-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.14.0-04
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.14.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.14.11-01
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.14.11-01?classifier=sources

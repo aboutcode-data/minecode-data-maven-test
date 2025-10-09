@@ -190,3 +190,9 @@
 - pkg:maven/org.springframework.integration/spring-integration-mail@5.0.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-mail@5.1.0.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-mail@5.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-mail@5.1.1.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-mail@5.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-mail@5.0.10.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-mail@5.0.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-mail@4.3.18.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-mail@4.3.18.RELEASE?classifier=sources
