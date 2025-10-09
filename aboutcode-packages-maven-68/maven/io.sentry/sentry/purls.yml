@@ -1,2 +1,4 @@
 - pkg:maven/io.sentry/sentry@1.0.0-beta
 - pkg:maven/io.sentry/sentry@1.0.0-beta?classifier=sources
+- pkg:maven/io.sentry/sentry@1.0.0-beta2
+- pkg:maven/io.sentry/sentry@1.0.0-beta2?classifier=sources

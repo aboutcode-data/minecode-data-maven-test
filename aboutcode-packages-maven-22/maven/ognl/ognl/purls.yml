@@ -94,3 +94,5 @@
 - pkg:maven/ognl/ognl@3.0.20?classifier=sources
 - pkg:maven/ognl/ognl@3.2.1
 - pkg:maven/ognl/ognl@3.2.1?classifier=sources
+- pkg:maven/ognl/ognl@3.2.2
+- pkg:maven/ognl/ognl@3.2.2?classifier=sources

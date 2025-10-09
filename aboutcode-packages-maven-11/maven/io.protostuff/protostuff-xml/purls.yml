@@ -40,3 +40,5 @@
 - pkg:maven/io.protostuff/protostuff-xml@1.5.3?classifier=sources
 - pkg:maven/io.protostuff/protostuff-xml@1.5.4
 - pkg:maven/io.protostuff/protostuff-xml@1.5.4?classifier=sources
+- pkg:maven/io.protostuff/protostuff-xml@1.5.5
+- pkg:maven/io.protostuff/protostuff-xml@1.5.5?classifier=sources
