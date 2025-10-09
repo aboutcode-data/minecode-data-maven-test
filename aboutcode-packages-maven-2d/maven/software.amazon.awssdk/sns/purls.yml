@@ -22,3 +22,5 @@
 - pkg:maven/software.amazon.awssdk/sns@2.0.0-preview-11?classifier=sources
 - pkg:maven/software.amazon.awssdk/sns@2.0.0-preview-12
 - pkg:maven/software.amazon.awssdk/sns@2.0.0-preview-12?classifier=sources
+- pkg:maven/software.amazon.awssdk/sns@2.0.0-preview-13
+- pkg:maven/software.amazon.awssdk/sns@2.0.0-preview-13?classifier=sources
