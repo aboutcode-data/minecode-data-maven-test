@@ -50,3 +50,5 @@
 - pkg:maven/com.spotify/bigtable-autoscaler@0.0.26?classifier=sources
 - pkg:maven/com.spotify/bigtable-autoscaler@0.0.30
 - pkg:maven/com.spotify/bigtable-autoscaler@0.0.30?classifier=sources
+- pkg:maven/com.spotify/bigtable-autoscaler@0.0.31
+- pkg:maven/com.spotify/bigtable-autoscaler@0.0.31?classifier=sources

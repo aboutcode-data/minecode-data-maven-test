@@ -54,3 +54,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.24.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.24.2
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.24.2?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.25.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.25.0?classifier=sources

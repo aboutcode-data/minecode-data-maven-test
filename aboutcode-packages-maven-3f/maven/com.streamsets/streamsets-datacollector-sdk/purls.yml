@@ -131,3 +131,5 @@
 - pkg:maven/com.streamsets/streamsets-datacollector-sdk@3.9.1?classifier=sources
 - pkg:maven/com.streamsets/streamsets-datacollector-sdk@3.10.0
 - pkg:maven/com.streamsets/streamsets-datacollector-sdk@3.10.0?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-sdk@3.10.1
+- pkg:maven/com.streamsets/streamsets-datacollector-sdk@3.10.1?classifier=sources
