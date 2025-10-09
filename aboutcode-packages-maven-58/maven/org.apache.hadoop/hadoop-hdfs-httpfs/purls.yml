@@ -84,3 +84,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.0
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.3?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.7.5?type=war
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.1

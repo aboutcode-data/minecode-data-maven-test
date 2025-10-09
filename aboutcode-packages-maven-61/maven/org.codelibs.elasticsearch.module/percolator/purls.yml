@@ -74,3 +74,7 @@
 - pkg:maven/org.codelibs.elasticsearch.module/percolator@6.2.2?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/percolator@5.6.8
 - pkg:maven/org.codelibs.elasticsearch.module/percolator@5.6.8?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/percolator@6.2.3
+- pkg:maven/org.codelibs.elasticsearch.module/percolator@6.2.3?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/percolator@6.1.4
+- pkg:maven/org.codelibs.elasticsearch.module/percolator@6.1.4?classifier=sources

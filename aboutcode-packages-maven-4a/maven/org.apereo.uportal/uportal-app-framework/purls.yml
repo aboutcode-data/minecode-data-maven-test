@@ -14,3 +14,5 @@
 - pkg:maven/org.apereo.uportal/uportal-app-framework@7.0.0?classifier=sources
 - pkg:maven/org.apereo.uportal/uportal-app-framework@8.0.0?type=war
 - pkg:maven/org.apereo.uportal/uportal-app-framework@8.0.0?classifier=sources
+- pkg:maven/org.apereo.uportal/uportal-app-framework@9.0.0?type=war
+- pkg:maven/org.apereo.uportal/uportal-app-framework@9.0.0?classifier=sources
