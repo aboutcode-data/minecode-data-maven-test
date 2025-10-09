@@ -112,3 +112,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-mongodb@4.0.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-mongodb@4.3.2.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-mongodb@4.3.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-mongodb@4.3.4.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-mongodb@4.3.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-mongodb@4.2.11.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-mongodb@4.2.11.RELEASE?classifier=sources

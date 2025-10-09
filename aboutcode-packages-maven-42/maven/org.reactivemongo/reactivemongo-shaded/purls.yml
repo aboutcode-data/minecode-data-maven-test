@@ -16,3 +16,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo-shaded@0.12-RC3?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-shaded@0.12-RC4
 - pkg:maven/org.reactivemongo/reactivemongo-shaded@0.12-RC4?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-shaded@0.12-RC5
+- pkg:maven/org.reactivemongo/reactivemongo-shaded@0.12-RC5?classifier=sources
