@@ -98,3 +98,5 @@
 - pkg:maven/org.jboss.weld.examples/weld-se-numberguess-webstart@2.4.2.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples/weld-se-numberguess-webstart@3.0.0.CR2?type=war
 - pkg:maven/org.jboss.weld.examples/weld-se-numberguess-webstart@3.0.0.CR2?classifier=sources
+- pkg:maven/org.jboss.weld.examples/weld-se-numberguess-webstart@2.4.3.Final?type=war
+- pkg:maven/org.jboss.weld.examples/weld-se-numberguess-webstart@2.4.3.Final?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.kie/kie-camel@6.2.0.CR4?classifier=sources
 - pkg:maven/org.kie/kie-camel@6.2.0.Final
 - pkg:maven/org.kie/kie-camel@6.2.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-camel@7.0.0.Beta8
+- pkg:maven/org.kie/kie-camel@7.0.0.Beta8?classifier=sources

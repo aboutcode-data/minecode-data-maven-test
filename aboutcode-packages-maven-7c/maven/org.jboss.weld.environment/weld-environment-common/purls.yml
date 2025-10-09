@@ -98,3 +98,5 @@
 - pkg:maven/org.jboss.weld.environment/weld-environment-common@2.4.2.Final?classifier=sources
 - pkg:maven/org.jboss.weld.environment/weld-environment-common@3.0.0.CR2
 - pkg:maven/org.jboss.weld.environment/weld-environment-common@3.0.0.CR2?classifier=sources
+- pkg:maven/org.jboss.weld.environment/weld-environment-common@2.4.3.Final
+- pkg:maven/org.jboss.weld.environment/weld-environment-common@2.4.3.Final?classifier=sources
