@@ -122,3 +122,5 @@
 - pkg:maven/io.syndesis.connector/connector-salesforce@1.7.12?classifier=sources
 - pkg:maven/io.syndesis.connector/connector-salesforce@1.7.11
 - pkg:maven/io.syndesis.connector/connector-salesforce@1.7.11?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-salesforce@1.7.13
+- pkg:maven/io.syndesis.connector/connector-salesforce@1.7.13?classifier=sources
