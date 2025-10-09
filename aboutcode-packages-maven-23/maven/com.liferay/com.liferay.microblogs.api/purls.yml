@@ -110,3 +110,6 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.api@3.0.11
 - pkg:maven/com.liferay/com.liferay.microblogs.api@3.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.api@3.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.api@4.0.6
+- pkg:maven/com.liferay/com.liferay.microblogs.api@4.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.api@4.0.6?classifier=sources-commercial

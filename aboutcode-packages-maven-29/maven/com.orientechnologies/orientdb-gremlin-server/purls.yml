@@ -62,3 +62,5 @@
 - pkg:maven/com.orientechnologies/orientdb-gremlin-server@3.0.23?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin-server@3.0.24
 - pkg:maven/com.orientechnologies/orientdb-gremlin-server@3.0.24?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-gremlin-server@3.1.0-beta1
+- pkg:maven/com.orientechnologies/orientdb-gremlin-server@3.1.0-beta1?classifier=sources

@@ -260,3 +260,5 @@
 - pkg:maven/com.orientechnologies/orientdb-lucene@3.0.23?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-lucene@3.0.24
 - pkg:maven/com.orientechnologies/orientdb-lucene@3.0.24?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-lucene@3.1.0-beta1
+- pkg:maven/com.orientechnologies/orientdb-lucene@3.1.0-beta1?classifier=sources

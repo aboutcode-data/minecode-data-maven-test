@@ -62,3 +62,6 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.26.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.27.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.27.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.27.2
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.27.2?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.27.1

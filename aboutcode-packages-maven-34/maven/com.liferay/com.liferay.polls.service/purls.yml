@@ -287,3 +287,6 @@
 - pkg:maven/com.liferay/com.liferay.polls.service@4.0.31
 - pkg:maven/com.liferay/com.liferay.polls.service@4.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.service@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.service@5.0.15
+- pkg:maven/com.liferay/com.liferay.polls.service@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.service@5.0.15?classifier=sources-commercial

@@ -79,3 +79,6 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@2.4.7
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@2.4.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@2.4.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.2.2
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.2.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.2.2?classifier=sources-commercial
