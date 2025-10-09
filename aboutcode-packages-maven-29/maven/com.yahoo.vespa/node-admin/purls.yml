@@ -148,3 +148,6 @@
 - pkg:maven/com.yahoo.vespa/node-admin@7.15.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-admin@7.14.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-admin@7.13.75?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-admin@7.18.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-admin@7.17.1?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-admin@7.16.38?classifier=sources

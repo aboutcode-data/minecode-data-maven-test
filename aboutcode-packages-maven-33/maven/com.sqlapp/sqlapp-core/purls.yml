@@ -22,3 +22,5 @@
 - pkg:maven/com.sqlapp/sqlapp-core@0.8.10?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core@0.8.12
 - pkg:maven/com.sqlapp/sqlapp-core@0.8.12?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core@0.8.13
+- pkg:maven/com.sqlapp/sqlapp-core@0.8.13?classifier=sources

@@ -74,3 +74,7 @@
 - pkg:maven/com.sdl/odata_api@2.3.12?classifier=sources
 - pkg:maven/com.sdl/odata_api@2.3.13
 - pkg:maven/com.sdl/odata_api@2.3.13?classifier=sources
+- pkg:maven/com.sdl/odata_api@2.7.1
+- pkg:maven/com.sdl/odata_api@2.7.1?classifier=sources
+- pkg:maven/com.sdl/odata_api@2.7.0
+- pkg:maven/com.sdl/odata_api@2.7.0?classifier=sources
