@@ -1,2 +1,4 @@
 - pkg:maven/com.cognifide.qa.bb/bb-aem-classic@0.9.6
 - pkg:maven/com.cognifide.qa.bb/bb-aem-classic@0.9.6?classifier=sources
+- pkg:maven/com.cognifide.qa.bb/bb-aem-classic@1.0.0
+- pkg:maven/com.cognifide.qa.bb/bb-aem-classic@1.0.0?classifier=sources

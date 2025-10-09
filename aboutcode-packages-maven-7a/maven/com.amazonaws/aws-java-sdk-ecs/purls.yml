@@ -270,3 +270,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.26?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.25
 - pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.25?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.28
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.28?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.27
+- pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.27?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.26
 - pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.26?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.28
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.28?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.27
+- pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.27?classifier=sources

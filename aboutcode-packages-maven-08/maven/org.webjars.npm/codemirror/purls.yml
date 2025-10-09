@@ -24,3 +24,7 @@
 - pkg:maven/org.webjars.npm/codemirror@5.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror@5.17.0
 - pkg:maven/org.webjars.npm/codemirror@5.17.0?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror@5.18.2
+- pkg:maven/org.webjars.npm/codemirror@5.18.2?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror@5.18.0
+- pkg:maven/org.webjars.npm/codemirror@5.18.0?classifier=sources
