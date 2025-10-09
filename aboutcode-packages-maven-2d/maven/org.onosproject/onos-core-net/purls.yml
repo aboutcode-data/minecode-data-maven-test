@@ -186,3 +186,7 @@
 - pkg:maven/org.onosproject/onos-core-net@1.13.2?classifier=sources
 - pkg:maven/org.onosproject/onos-core-net@1.12.1
 - pkg:maven/org.onosproject/onos-core-net@1.12.1?classifier=sources
+- pkg:maven/org.onosproject/onos-core-net@1.14.0-rc2
+- pkg:maven/org.onosproject/onos-core-net@1.14.0-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-core-net@1.14.0-rc1
+- pkg:maven/org.onosproject/onos-core-net@1.14.0-rc1?classifier=sources
