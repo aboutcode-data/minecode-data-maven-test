@@ -48,3 +48,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-deps@6.7.3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-deps@6.7.4
 - pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-deps@6.7.4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-deps@6.7.5
+- pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-deps@6.7.5?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.ubirch.util/elasticsearch-util_2.11@2.4.1?classifier=sources
 - pkg:maven/com.ubirch.util/elasticsearch-util_2.11@2.5.0
 - pkg:maven/com.ubirch.util/elasticsearch-util_2.11@2.5.0?classifier=sources
+- pkg:maven/com.ubirch.util/elasticsearch-util_2.11@2.5.1
+- pkg:maven/com.ubirch.util/elasticsearch-util_2.11@2.5.1?classifier=sources
