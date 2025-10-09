@@ -62,3 +62,5 @@
 - pkg:maven/org.teiid.teiid-test-integration/test-integration-db@11.2.0?classifier=sources
 - pkg:maven/org.teiid.teiid-test-integration/test-integration-db@10.3.5
 - pkg:maven/org.teiid.teiid-test-integration/test-integration-db@10.3.5?classifier=sources
+- pkg:maven/org.teiid.teiid-test-integration/test-integration-db@11.0.3
+- pkg:maven/org.teiid.teiid-test-integration/test-integration-db@11.0.3?classifier=sources

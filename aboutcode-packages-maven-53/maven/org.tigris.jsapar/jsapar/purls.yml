@@ -24,3 +24,5 @@
 - pkg:maven/org.tigris.jsapar/jsapar@2.0.0.a2?classifier=sources
 - pkg:maven/org.tigris.jsapar/jsapar@2.0.0.a3
 - pkg:maven/org.tigris.jsapar/jsapar@2.0.0.a3?classifier=sources
+- pkg:maven/org.tigris.jsapar/jsapar@2.0.0
+- pkg:maven/org.tigris.jsapar/jsapar@2.0.0?classifier=sources

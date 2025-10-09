@@ -40,3 +40,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-lambda@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-lambda@8.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-lambda@8.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-lambda@7.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-lambda@7.11.0?classifier=sources

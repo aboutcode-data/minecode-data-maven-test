@@ -62,3 +62,5 @@
 - pkg:maven/org.teiid.connectors/translator-file@11.2.0?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-file@10.3.5
 - pkg:maven/org.teiid.connectors/translator-file@10.3.5?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-file@11.0.3
+- pkg:maven/org.teiid.connectors/translator-file@11.0.3?classifier=sources
