@@ -173,3 +173,6 @@
 - pkg:maven/com.floragunn/search-guard-6@6.3.0-23.2-api
 - pkg:maven/com.floragunn/search-guard-6@6.3.0-23.2-api?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.3.0-23.2?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.5.2-23.2-api
+- pkg:maven/com.floragunn/search-guard-6@6.5.2-23.2-api?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.5.2-23.2?classifier=sources

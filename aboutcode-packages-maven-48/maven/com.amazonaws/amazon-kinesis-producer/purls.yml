@@ -28,3 +28,5 @@
 - pkg:maven/com.amazonaws/amazon-kinesis-producer@0.12.9?classifier=sources
 - pkg:maven/com.amazonaws/amazon-kinesis-producer@0.12.10
 - pkg:maven/com.amazonaws/amazon-kinesis-producer@0.12.10?classifier=sources
+- pkg:maven/com.amazonaws/amazon-kinesis-producer@0.12.11
+- pkg:maven/com.amazonaws/amazon-kinesis-producer@0.12.11?classifier=sources

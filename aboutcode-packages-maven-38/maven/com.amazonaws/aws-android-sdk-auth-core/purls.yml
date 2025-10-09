@@ -88,3 +88,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.8.4?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.8.3?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.8.3?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.8.5?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-core@2.8.5?classifier=sources
