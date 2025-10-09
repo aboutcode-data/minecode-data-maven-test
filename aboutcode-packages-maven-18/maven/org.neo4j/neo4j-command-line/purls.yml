@@ -90,3 +90,5 @@
 - pkg:maven/org.neo4j/neo4j-command-line@3.0.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-command-line@3.3.0-alpha06
 - pkg:maven/org.neo4j/neo4j-command-line@3.3.0-alpha06?classifier=sources
+- pkg:maven/org.neo4j/neo4j-command-line@3.3.0-alpha07
+- pkg:maven/org.neo4j/neo4j-command-line@3.3.0-alpha07?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/org.keycloak/keycloak-osgi-jaas@3.2.0.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-osgi-jaas@3.2.1.Final
 - pkg:maven/org.keycloak/keycloak-osgi-jaas@3.2.1.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-osgi-jaas@3.3.0.CR1
+- pkg:maven/org.keycloak/keycloak-osgi-jaas@3.3.0.CR1?classifier=sources
