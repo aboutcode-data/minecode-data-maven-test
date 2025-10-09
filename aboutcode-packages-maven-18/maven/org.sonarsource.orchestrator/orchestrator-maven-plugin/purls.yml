@@ -20,3 +20,5 @@
 - pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.12?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.13
 - pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.13?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.14.0.887
+- pkg:maven/org.sonarsource.orchestrator/orchestrator-maven-plugin@3.14.0.887?classifier=sources

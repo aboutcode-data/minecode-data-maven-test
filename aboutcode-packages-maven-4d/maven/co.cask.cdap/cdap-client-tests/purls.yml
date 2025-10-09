@@ -47,3 +47,5 @@
 - pkg:maven/co.cask.cdap/cdap-client-tests@3.5.1?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-client-tests@3.6.0
 - pkg:maven/co.cask.cdap/cdap-client-tests@3.6.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-client-tests@4.0.0
+- pkg:maven/co.cask.cdap/cdap-client-tests@4.0.0?classifier=sources
