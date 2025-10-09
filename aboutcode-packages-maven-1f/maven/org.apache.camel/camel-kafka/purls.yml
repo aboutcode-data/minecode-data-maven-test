@@ -138,3 +138,5 @@
 - pkg:maven/org.apache.camel/camel-kafka@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-kafka@3.0.0-M4
 - pkg:maven/org.apache.camel/camel-kafka@3.0.0-M4?classifier=sources
+- pkg:maven/org.apache.camel/camel-kafka@3.0.0-RC1
+- pkg:maven/org.apache.camel/camel-kafka@3.0.0-RC1?classifier=sources
