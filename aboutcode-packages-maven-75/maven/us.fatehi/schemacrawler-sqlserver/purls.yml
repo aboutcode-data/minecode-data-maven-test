@@ -142,3 +142,5 @@
 - pkg:maven/us.fatehi/schemacrawler-sqlserver@14.16.01?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-sqlserver@14.16.01-java7
 - pkg:maven/us.fatehi/schemacrawler-sqlserver@14.16.01-java7?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-sqlserver@14.16.02
+- pkg:maven/us.fatehi/schemacrawler-sqlserver@14.16.02?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-zookeeper@5.4.34?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-zookeeper@5.4.35
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-zookeeper@5.4.35?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-common-zookeeper@5.5.0
+- pkg:maven/com.bazaarvoice.emodb/emodb-common-zookeeper@5.5.0?classifier=sources

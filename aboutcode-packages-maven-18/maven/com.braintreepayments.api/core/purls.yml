@@ -52,3 +52,5 @@
 - pkg:maven/com.braintreepayments.api/core@2.5.2?classifier=sources
 - pkg:maven/com.braintreepayments.api/core@2.5.3?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.5.3?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.5.4?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.5.4?classifier=sources
