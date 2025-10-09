@@ -62,3 +62,5 @@
 - pkg:maven/com.alpinenow/common@1.9-beta?classifier=sources
 - pkg:maven/com.alpinenow/common@1.9
 - pkg:maven/com.alpinenow/common@1.9?classifier=sources
+- pkg:maven/com.alpinenow/common@1.10-beta
+- pkg:maven/com.alpinenow/common@1.10-beta?classifier=sources

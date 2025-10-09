@@ -4,3 +4,6 @@
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.5?classifier=sources
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.6?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.6?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.7-beta?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.7-beta?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.7?classifier=sources
