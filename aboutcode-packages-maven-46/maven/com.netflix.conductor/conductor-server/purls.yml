@@ -284,3 +284,5 @@
 - pkg:maven/com.netflix.conductor/conductor-server@2.12.4?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@2.12.3?type=war
 - pkg:maven/com.netflix.conductor/conductor-server@2.12.3?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@2.12.5?type=war
+- pkg:maven/com.netflix.conductor/conductor-server@2.12.5?classifier=sources

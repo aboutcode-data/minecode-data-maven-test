@@ -130,3 +130,7 @@
 - pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.3.2?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.3.4
 - pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.3.4?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.5.0
+- pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.5.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.4.0
+- pkg:maven/com.netflix.nebula/gradle-dependency-lock-plugin@7.4.0?classifier=sources

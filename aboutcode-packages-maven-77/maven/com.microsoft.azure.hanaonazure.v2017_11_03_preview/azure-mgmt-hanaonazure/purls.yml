@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.azure.hanaonazure.v2017_11_03_preview/azure-mgmt-hanaonazure@1.0.0-beta
 - pkg:maven/com.microsoft.azure.hanaonazure.v2017_11_03_preview/azure-mgmt-hanaonazure@1.0.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure.hanaonazure.v2017_11_03_preview/azure-mgmt-hanaonazure@1.0.0-beta-1
+- pkg:maven/com.microsoft.azure.hanaonazure.v2017_11_03_preview/azure-mgmt-hanaonazure@1.0.0-beta-1?classifier=sources

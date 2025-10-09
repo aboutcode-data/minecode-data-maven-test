@@ -1591,3 +1591,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@2.3.393
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@2.3.393?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@2.3.393?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@2.3.394
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@2.3.394?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@2.3.394?classifier=sources-commercial
