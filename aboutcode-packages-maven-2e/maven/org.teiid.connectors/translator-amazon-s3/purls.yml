@@ -44,3 +44,5 @@
 - pkg:maven/org.teiid.connectors/translator-amazon-s3@10.3.2?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-amazon-s3@10.2.3
 - pkg:maven/org.teiid.connectors/translator-amazon-s3@10.2.3?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-amazon-s3@10.3.3
+- pkg:maven/org.teiid.connectors/translator-amazon-s3@10.3.3?classifier=sources

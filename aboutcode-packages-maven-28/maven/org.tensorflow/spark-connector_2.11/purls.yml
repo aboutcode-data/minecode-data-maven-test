@@ -2,3 +2,5 @@
 - pkg:maven/org.tensorflow/spark-connector_2.11@1.9.0-rc2?classifier=sources
 - pkg:maven/org.tensorflow/spark-connector_2.11@1.9.0
 - pkg:maven/org.tensorflow/spark-connector_2.11@1.9.0?classifier=sources
+- pkg:maven/org.tensorflow/spark-connector_2.11@1.10.0-rc0
+- pkg:maven/org.tensorflow/spark-connector_2.11@1.10.0-rc0?classifier=sources

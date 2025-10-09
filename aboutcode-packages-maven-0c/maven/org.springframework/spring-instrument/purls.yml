@@ -176,3 +176,5 @@
 - pkg:maven/org.springframework/spring-instrument@5.0.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-instrument@4.3.18.RELEASE
 - pkg:maven/org.springframework/spring-instrument@4.3.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-instrument@5.0.8.RELEASE
+- pkg:maven/org.springframework/spring-instrument@5.0.8.RELEASE?classifier=sources

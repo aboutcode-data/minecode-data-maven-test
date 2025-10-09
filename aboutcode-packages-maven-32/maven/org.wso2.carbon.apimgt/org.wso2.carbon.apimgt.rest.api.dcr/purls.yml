@@ -832,3 +832,7 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.109?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.108?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.108?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.121?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.121?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.120?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.dcr@6.3.120?classifier=sources

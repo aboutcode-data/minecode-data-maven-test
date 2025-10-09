@@ -50,3 +50,5 @@
 - pkg:maven/org.springframework.security/spring-security-data@5.0.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-data@4.2.7.RELEASE
 - pkg:maven/org.springframework.security/spring-security-data@4.2.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-data@5.0.7.RELEASE
+- pkg:maven/org.springframework.security/spring-security-data@5.0.7.RELEASE?classifier=sources
