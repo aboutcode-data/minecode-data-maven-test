@@ -56,3 +56,5 @@
 - pkg:maven/com.appslandia/appslandia-common@1.27?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@1.26
 - pkg:maven/com.appslandia/appslandia-common@1.26?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@2.0
+- pkg:maven/com.appslandia/appslandia-common@2.0?classifier=sources

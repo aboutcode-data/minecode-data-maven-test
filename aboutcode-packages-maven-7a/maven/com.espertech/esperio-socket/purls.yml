@@ -46,3 +46,5 @@
 - pkg:maven/com.espertech/esperio-socket@7.0.0-beta2?classifier=sources
 - pkg:maven/com.espertech/esperio-socket@7.0.0-beta3
 - pkg:maven/com.espertech/esperio-socket@7.0.0-beta3?classifier=sources
+- pkg:maven/com.espertech/esperio-socket@7.0.0
+- pkg:maven/com.espertech/esperio-socket@7.0.0?classifier=sources
