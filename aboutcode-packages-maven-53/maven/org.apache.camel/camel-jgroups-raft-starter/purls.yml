@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.camel/camel-jgroups-raft-starter@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jgroups-raft-starter@3.0.0-M3
 - pkg:maven/org.apache.camel/camel-jgroups-raft-starter@3.0.0-M3?classifier=sources
+- pkg:maven/org.apache.camel/camel-jgroups-raft-starter@2.24.1
+- pkg:maven/org.apache.camel/camel-jgroups-raft-starter@2.24.1?classifier=sources

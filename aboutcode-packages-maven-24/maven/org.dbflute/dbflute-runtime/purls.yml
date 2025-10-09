@@ -168,3 +168,5 @@
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0?classifier=sources
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190509
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190509?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190620-RC1
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190620-RC1?classifier=sources

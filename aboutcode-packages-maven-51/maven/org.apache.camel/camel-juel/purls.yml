@@ -251,3 +251,5 @@
 - pkg:maven/org.apache.camel/camel-juel@2.23.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-juel@2.22.5
 - pkg:maven/org.apache.camel/camel-juel@2.22.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-juel@2.24.1
+- pkg:maven/org.apache.camel/camel-juel@2.24.1?classifier=sources

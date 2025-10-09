@@ -56,3 +56,5 @@
 - pkg:maven/org.asciidoctor/asciidoctorj@2.0.0-RC.3?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj@2.0.0
 - pkg:maven/org.asciidoctor/asciidoctorj@2.0.0?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj@2.1.0
+- pkg:maven/org.asciidoctor/asciidoctorj@2.1.0?classifier=sources
