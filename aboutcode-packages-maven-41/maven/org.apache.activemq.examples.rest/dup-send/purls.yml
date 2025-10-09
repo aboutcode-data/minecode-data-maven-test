@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@1.5.2?classifier=sources
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@1.5.3?type=war
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@1.5.3?classifier=sources
+- pkg:maven/org.apache.activemq.examples.rest/dup-send@1.5.4?type=war
+- pkg:maven/org.apache.activemq.examples.rest/dup-send@1.5.4?classifier=sources
