@@ -1,1 +1,2 @@
 - pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@1.17.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@1.18.0?classifier=sources

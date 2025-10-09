@@ -2,3 +2,5 @@
 - pkg:maven/com.strapdata.elasticsearch.client/elasticsearch-rest-client@6.2.3.11?classifier=sources
 - pkg:maven/com.strapdata.elasticsearch.client/elasticsearch-rest-client@6.2.3.12
 - pkg:maven/com.strapdata.elasticsearch.client/elasticsearch-rest-client@6.2.3.12?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.client/elasticsearch-rest-client@6.2.3.14
+- pkg:maven/com.strapdata.elasticsearch.client/elasticsearch-rest-client@6.2.3.14?classifier=sources

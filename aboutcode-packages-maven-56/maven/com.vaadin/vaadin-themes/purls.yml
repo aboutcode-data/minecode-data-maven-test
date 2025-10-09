@@ -208,3 +208,5 @@
 - pkg:maven/com.vaadin/vaadin-themes@7.7.17
 - pkg:maven/com.vaadin/vaadin-themes@8.7.2
 - pkg:maven/com.vaadin/vaadin-themes@8.7.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-themes@8.8.0
+- pkg:maven/com.vaadin/vaadin-themes@8.8.0?classifier=sources
