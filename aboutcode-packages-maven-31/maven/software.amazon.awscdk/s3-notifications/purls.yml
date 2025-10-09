@@ -88,3 +88,5 @@
 - pkg:maven/software.amazon.awscdk/s3-notifications@1.0.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/s3-notifications@0.39.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/s3-notifications@0.39.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/s3-notifications@1.1.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/s3-notifications@1.1.0.DEVPREVIEW?classifier=sources

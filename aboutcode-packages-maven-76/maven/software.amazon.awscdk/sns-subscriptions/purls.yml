@@ -14,3 +14,5 @@
 - pkg:maven/software.amazon.awscdk/sns-subscriptions@1.0.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/sns-subscriptions@0.39.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/sns-subscriptions@0.39.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/sns-subscriptions@1.1.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/sns-subscriptions@1.1.0.DEVPREVIEW?classifier=sources

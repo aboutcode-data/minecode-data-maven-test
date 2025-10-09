@@ -12,3 +12,7 @@
 - pkg:maven/com.appaloosa-store/appaloosa-client@1.9?classifier=sources
 - pkg:maven/com.appaloosa-store/appaloosa-client@1.10
 - pkg:maven/com.appaloosa-store/appaloosa-client@1.10?classifier=sources
+- pkg:maven/com.appaloosa-store/appaloosa-client@1.14
+- pkg:maven/com.appaloosa-store/appaloosa-client@1.14?classifier=sources
+- pkg:maven/com.appaloosa-store/appaloosa-client@1.12
+- pkg:maven/com.appaloosa-store/appaloosa-client@1.12?classifier=sources

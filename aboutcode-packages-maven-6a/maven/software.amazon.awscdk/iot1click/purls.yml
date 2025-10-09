@@ -80,3 +80,5 @@
 - pkg:maven/software.amazon.awscdk/iot1click@1.0.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/iot1click@0.39.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/iot1click@0.39.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/iot1click@1.1.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/iot1click@1.1.0.DEVPREVIEW?classifier=sources
