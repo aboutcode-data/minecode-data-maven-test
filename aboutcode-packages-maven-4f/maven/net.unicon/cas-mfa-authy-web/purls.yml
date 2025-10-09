@@ -16,3 +16,5 @@
 - pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC7?classifier=sources
 - pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC8?type=war
 - pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC8?classifier=sources
+- pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC9?type=war
+- pkg:maven/net.unicon/cas-mfa-authy-web@1.0.0-RC9?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/dk.nodes.nstack/nstack@0.23?classifier=sources
 - pkg:maven/dk.nodes.nstack/nstack@0.22-deploytest?type=aar
 - pkg:maven/dk.nodes.nstack/nstack@0.22-deploytest?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack@0.24?type=aar
+- pkg:maven/dk.nodes.nstack/nstack@0.24?classifier=sources

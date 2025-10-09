@@ -38,3 +38,5 @@
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.8.8?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.2
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.2?classifier=sources
+- pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.2.2.21
+- pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.2.2.21?classifier=sources
