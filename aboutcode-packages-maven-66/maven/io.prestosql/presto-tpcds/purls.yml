@@ -19,3 +19,5 @@
 - pkg:maven/io.prestosql/presto-tpcds@318?classifier=sources
 - pkg:maven/io.prestosql/presto-tpcds@319?classifier=sources
 - pkg:maven/io.prestosql/presto-tpcds@320?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@322?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@321?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/io.prestosql/presto-kinesis@320?classifier=sources
+- pkg:maven/io.prestosql/presto-kinesis@322?classifier=sources
+- pkg:maven/io.prestosql/presto-kinesis@321?classifier=sources
