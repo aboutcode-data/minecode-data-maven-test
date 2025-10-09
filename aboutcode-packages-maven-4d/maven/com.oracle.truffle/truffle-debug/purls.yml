@@ -18,3 +18,5 @@
 - pkg:maven/com.oracle.truffle/truffle-debug@0.17?classifier=sources
 - pkg:maven/com.oracle.truffle/truffle-debug@0.18
 - pkg:maven/com.oracle.truffle/truffle-debug@0.18?classifier=sources
+- pkg:maven/com.oracle.truffle/truffle-debug@0.19
+- pkg:maven/com.oracle.truffle/truffle-debug@0.19?classifier=sources

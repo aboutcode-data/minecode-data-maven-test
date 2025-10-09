@@ -18,3 +18,5 @@
 - pkg:maven/com.virgilsecurity.sdk/crypto@3.2.4?classifier=sources
 - pkg:maven/com.virgilsecurity.sdk/crypto@4.0.0
 - pkg:maven/com.virgilsecurity.sdk/crypto@4.0.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/crypto@4.1.0
+- pkg:maven/com.virgilsecurity.sdk/crypto@4.1.0?classifier=sources
