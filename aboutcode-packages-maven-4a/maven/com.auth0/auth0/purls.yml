@@ -58,3 +58,5 @@
 - pkg:maven/com.auth0/auth0@1.14.2?classifier=sources
 - pkg:maven/com.auth0/auth0@1.14.3
 - pkg:maven/com.auth0/auth0@1.14.3?classifier=sources
+- pkg:maven/com.auth0/auth0@1.15.0
+- pkg:maven/com.auth0/auth0@1.15.0?classifier=sources

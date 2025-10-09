@@ -1,1 +1,2 @@
 - pkg:maven/com.elepy/elepy-jwt@2.4.0
+- pkg:maven/com.elepy/elepy-jwt@2.4.0?classifier=sources
