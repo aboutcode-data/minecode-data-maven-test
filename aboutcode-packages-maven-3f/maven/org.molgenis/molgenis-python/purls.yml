@@ -64,3 +64,5 @@
 - pkg:maven/org.molgenis/molgenis-python@1.4.4?classifier=sources
 - pkg:maven/org.molgenis/molgenis-python@1.21.0
 - pkg:maven/org.molgenis/molgenis-python@1.21.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-python@1.21.1
+- pkg:maven/org.molgenis/molgenis-python@1.21.1?classifier=sources

@@ -8,3 +8,6 @@
 - pkg:maven/org.ow2.petals/petals-databinding-jaxb@1.1?classifier=sources
 - pkg:maven/org.ow2.petals/petals-databinding-jaxb@1.0
 - pkg:maven/org.ow2.petals/petals-databinding-jaxb@1.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-databinding-jaxb@1.4.0
+- pkg:maven/org.ow2.petals/petals-databinding-jaxb@1.4.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-databinding-jaxb@1.4.0?classifier=source-release&type=zip
