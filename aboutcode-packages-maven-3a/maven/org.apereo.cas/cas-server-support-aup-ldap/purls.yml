@@ -42,3 +42,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@5.2.8?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@5.3.4
 - pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@5.3.4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@6.0.0-RC3
+- pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@6.0.0-RC3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@5.3.5
+- pkg:maven/org.apereo.cas/cas-server-support-aup-ldap@5.3.5?classifier=sources
