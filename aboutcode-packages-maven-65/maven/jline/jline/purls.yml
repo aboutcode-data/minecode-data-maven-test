@@ -40,3 +40,5 @@
 - pkg:maven/jline/jline@3.0.0.M1?classifier=sources
 - pkg:maven/jline/jline@2.14.2
 - pkg:maven/jline/jline@2.14.2?classifier=sources
+- pkg:maven/jline/jline@2.14.3
+- pkg:maven/jline/jline@2.14.3?classifier=sources

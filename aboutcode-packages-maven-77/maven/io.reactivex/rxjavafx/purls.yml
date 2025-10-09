@@ -26,3 +26,5 @@
 - pkg:maven/io.reactivex/rxjavafx@0.2.0?classifier=sources
 - pkg:maven/io.reactivex/rxjavafx@0.3.0
 - pkg:maven/io.reactivex/rxjavafx@0.3.0?classifier=sources
+- pkg:maven/io.reactivex/rxjavafx@1.0.0
+- pkg:maven/io.reactivex/rxjavafx@1.0.0?classifier=sources

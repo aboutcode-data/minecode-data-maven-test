@@ -26,3 +26,11 @@
 - pkg:maven/io.zipkin.brave/brave-okhttp@3.16.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-okhttp@3.15.4
 - pkg:maven/io.zipkin.brave/brave-okhttp@3.15.4?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-okhttp@4.0.0
+- pkg:maven/io.zipkin.brave/brave-okhttp@4.0.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-okhttp@3.18.0
+- pkg:maven/io.zipkin.brave/brave-okhttp@3.18.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-okhttp@3.17.1
+- pkg:maven/io.zipkin.brave/brave-okhttp@3.17.1?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-okhttp@3.17.0
+- pkg:maven/io.zipkin.brave/brave-okhttp@3.17.0?classifier=sources

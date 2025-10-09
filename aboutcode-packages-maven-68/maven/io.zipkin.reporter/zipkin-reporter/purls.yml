@@ -40,3 +40,7 @@
 - pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.8?classifier=sources
 - pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.7
 - pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.7?classifier=sources
+- pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.11
+- pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.11?classifier=sources
+- pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.10
+- pkg:maven/io.zipkin.reporter/zipkin-reporter@0.6.10?classifier=sources
