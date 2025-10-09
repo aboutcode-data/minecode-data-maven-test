@@ -10,3 +10,5 @@
 - pkg:maven/org.hspconsortium.client/hspc-java-client@1.4?classifier=sources
 - pkg:maven/org.hspconsortium.client/hspc-java-client@1.6.0
 - pkg:maven/org.hspconsortium.client/hspc-java-client@1.6.0?classifier=sources
+- pkg:maven/org.hspconsortium.client/hspc-java-client@2.1.0
+- pkg:maven/org.hspconsortium.client/hspc-java-client@2.1.0?classifier=sources

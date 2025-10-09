@@ -30,3 +30,5 @@
 - pkg:maven/org.iot-dsa/historian@0.16.0?classifier=sources
 - pkg:maven/org.iot-dsa/historian@0.17.2
 - pkg:maven/org.iot-dsa/historian@0.17.2?classifier=sources
+- pkg:maven/org.iot-dsa/historian@0.18.0
+- pkg:maven/org.iot-dsa/historian@0.18.0?classifier=sources

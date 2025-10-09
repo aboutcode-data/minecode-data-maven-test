@@ -50,3 +50,5 @@
 - pkg:maven/org.chtijbug.drools/drools-framework-common@1.1.0.17-2?classifier=sources
 - pkg:maven/org.chtijbug.drools/drools-framework-common@drools-framework-parent-1.5.3
 - pkg:maven/org.chtijbug.drools/drools-framework-common@drools-framework-parent-1.5.3?classifier=sources
+- pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.10
+- pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.10?classifier=sources
