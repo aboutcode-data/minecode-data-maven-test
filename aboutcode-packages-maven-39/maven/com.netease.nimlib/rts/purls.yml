@@ -8,3 +8,5 @@
 - pkg:maven/com.netease.nimlib/rts@2.8.0?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@2.9.0?type=aar
 - pkg:maven/com.netease.nimlib/rts@2.9.0?classifier=sources
+- pkg:maven/com.netease.nimlib/rts@3.0.0?type=aar
+- pkg:maven/com.netease.nimlib/rts@3.0.0?classifier=sources
