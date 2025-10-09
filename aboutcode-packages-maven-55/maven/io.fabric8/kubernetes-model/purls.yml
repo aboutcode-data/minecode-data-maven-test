@@ -140,3 +140,5 @@
 - pkg:maven/io.fabric8/kubernetes-model@1.0.62?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-model@1.0.64
 - pkg:maven/io.fabric8/kubernetes-model@1.0.64?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-model@1.0.65
+- pkg:maven/io.fabric8/kubernetes-model@1.0.65?classifier=sources
