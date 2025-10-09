@@ -46,3 +46,5 @@
 - pkg:maven/org.webjars.bower/bootstrap@4.0.0-beta.3?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap@4.0.0
 - pkg:maven/org.webjars.bower/bootstrap@4.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap@3.0.0-rc1
+- pkg:maven/org.webjars.bower/bootstrap@3.0.0-rc1?classifier=sources

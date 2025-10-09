@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/less@2.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/less@3.0.0-pre.4
 - pkg:maven/org.webjars.npm/less@3.0.0-pre.4?classifier=sources
+- pkg:maven/org.webjars.npm/less@3.0.1
+- pkg:maven/org.webjars.npm/less@3.0.1?classifier=sources
