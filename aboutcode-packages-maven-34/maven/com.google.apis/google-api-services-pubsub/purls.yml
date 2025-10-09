@@ -1858,3 +1858,5 @@
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev395-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev395-1.21.0
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev395-1.21.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev403-1.22.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev403-1.22.0?classifier=sources

@@ -140,3 +140,5 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-metrics3@0.71.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-metrics3@0.72.0
 - pkg:maven/com.netflix.spectator/spectator-reg-metrics3@0.72.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-metrics3@0.73.0
+- pkg:maven/com.netflix.spectator/spectator-reg-metrics3@0.73.0?classifier=sources

@@ -228,3 +228,5 @@
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-metrics-prometheus@2.10.0?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-metrics-prometheus@2.10.2
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-metrics-prometheus@2.10.2?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-metrics-prometheus@2.10.3
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-metrics-prometheus@2.10.3?classifier=sources

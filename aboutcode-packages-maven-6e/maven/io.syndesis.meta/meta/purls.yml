@@ -42,3 +42,5 @@
 - pkg:maven/io.syndesis.meta/meta@1.3.10?classifier=sources
 - pkg:maven/io.syndesis.meta/meta@1.3.12
 - pkg:maven/io.syndesis.meta/meta@1.3.12?classifier=sources
+- pkg:maven/io.syndesis.meta/meta@1.4.0-20180720
+- pkg:maven/io.syndesis.meta/meta@1.4.0-20180720?classifier=sources
