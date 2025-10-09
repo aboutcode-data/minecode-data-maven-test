@@ -8,3 +8,7 @@
 - pkg:maven/org.finra.herd/herd-war@0.24.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-war@0.23.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.23.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.26.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.26.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.25.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.25.0?classifier=sources
