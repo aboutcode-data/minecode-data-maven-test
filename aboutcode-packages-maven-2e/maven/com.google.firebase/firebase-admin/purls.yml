@@ -50,3 +50,5 @@
 - pkg:maven/com.google.firebase/firebase-admin@5.9.0?classifier=sources
 - pkg:maven/com.google.firebase/firebase-admin@5.10.0
 - pkg:maven/com.google.firebase/firebase-admin@5.10.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@5.11.0
+- pkg:maven/com.google.firebase/firebase-admin@5.11.0?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.github.shyiko.ktlint/ktlint-reporter-checkstyle@0.20.0?classifier=sources
 - pkg:maven/com.github.shyiko.ktlint/ktlint-reporter-checkstyle@0.21.0
 - pkg:maven/com.github.shyiko.ktlint/ktlint-reporter-checkstyle@0.21.0?classifier=sources
+- pkg:maven/com.github.shyiko.ktlint/ktlint-reporter-checkstyle@0.22.0
+- pkg:maven/com.github.shyiko.ktlint/ktlint-reporter-checkstyle@0.22.0?classifier=sources

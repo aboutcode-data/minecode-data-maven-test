@@ -108,3 +108,7 @@
 - pkg:maven/com.google.guava/guava-gwt@24.0-jre?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@24.1-jre
 - pkg:maven/com.google.guava/guava-gwt@24.1-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@25.0-jre
+- pkg:maven/com.google.guava/guava-gwt@25.0-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@24.1.1-jre
+- pkg:maven/com.google.guava/guava-gwt@24.1.1-jre?classifier=sources
