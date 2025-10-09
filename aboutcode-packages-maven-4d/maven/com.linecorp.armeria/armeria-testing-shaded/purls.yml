@@ -51,3 +51,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-testing-shaded@0.74.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-testing-shaded@0.74.1
 - pkg:maven/com.linecorp.armeria/armeria-testing-shaded@0.74.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-testing-shaded@0.75.0
+- pkg:maven/com.linecorp.armeria/armeria-testing-shaded@0.75.0?classifier=sources

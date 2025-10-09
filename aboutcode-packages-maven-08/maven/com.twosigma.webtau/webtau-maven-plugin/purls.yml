@@ -8,3 +8,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-maven-plugin@0.29?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-maven-plugin@0.30
 - pkg:maven/com.twosigma.webtau/webtau-maven-plugin@0.30?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin@0.31
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin@0.31?classifier=sources

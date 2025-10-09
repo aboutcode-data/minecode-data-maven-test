@@ -80,3 +80,5 @@
 - pkg:maven/de.halfbit/magnet@2.8?classifier=sources
 - pkg:maven/de.halfbit/magnet@3.0-alpha2
 - pkg:maven/de.halfbit/magnet@3.0-alpha2?classifier=sources
+- pkg:maven/de.halfbit/magnet@3.0-alpha3
+- pkg:maven/de.halfbit/magnet@3.0-alpha3?classifier=sources
