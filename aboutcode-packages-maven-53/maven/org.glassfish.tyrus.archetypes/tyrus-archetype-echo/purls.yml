@@ -22,3 +22,5 @@
 - pkg:maven/org.glassfish.tyrus.archetypes/tyrus-archetype-echo@1.12?classifier=sources
 - pkg:maven/org.glassfish.tyrus.archetypes/tyrus-archetype-echo@1.13
 - pkg:maven/org.glassfish.tyrus.archetypes/tyrus-archetype-echo@1.13?classifier=sources
+- pkg:maven/org.glassfish.tyrus.archetypes/tyrus-archetype-echo@1.11.1
+- pkg:maven/org.glassfish.tyrus.archetypes/tyrus-archetype-echo@1.11.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-inmemory@1.12?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-inmemory@1.13
 - pkg:maven/org.glassfish.tyrus/tyrus-container-inmemory@1.13?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-inmemory@1.11.1
+- pkg:maven/org.glassfish.tyrus/tyrus-container-inmemory@1.11.1?classifier=sources

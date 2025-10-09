@@ -69,3 +69,9 @@
 - pkg:maven/org.hibernate/hibernate-tools@5.0.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-tools@4.3.5.Final
 - pkg:maven/org.hibernate/hibernate-tools@4.3.5.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-tools@5.2.0.Beta1
+- pkg:maven/org.hibernate/hibernate-tools@5.2.0.Beta1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-tools@5.1.0.CR1
+- pkg:maven/org.hibernate/hibernate-tools@5.1.0.CR1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-tools@5.0.2.Final
+- pkg:maven/org.hibernate/hibernate-tools@5.0.2.Final?classifier=sources
