@@ -1,2 +1,4 @@
 - pkg:maven/ru.send-to.rest/UniversalRest-websocket@0.0.7?type=war
 - pkg:maven/ru.send-to.rest/UniversalRest-websocket@0.0.7?classifier=sources
+- pkg:maven/ru.send-to.rest/UniversalRest-websocket@0.0.9?type=war
+- pkg:maven/ru.send-to.rest/UniversalRest-websocket@0.0.9?classifier=sources

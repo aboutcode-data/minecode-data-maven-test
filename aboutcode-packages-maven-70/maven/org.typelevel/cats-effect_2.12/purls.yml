@@ -10,3 +10,5 @@
 - pkg:maven/org.typelevel/cats-effect_2.12@0.2-632d221?classifier=sources
 - pkg:maven/org.typelevel/cats-effect_2.12@0.2-2f38223
 - pkg:maven/org.typelevel/cats-effect_2.12@0.2-2f38223?classifier=sources
+- pkg:maven/org.typelevel/cats-effect_2.12@0.2
+- pkg:maven/org.typelevel/cats-effect_2.12@0.2?classifier=sources

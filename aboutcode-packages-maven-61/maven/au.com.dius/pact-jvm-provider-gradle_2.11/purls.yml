@@ -196,3 +196,7 @@
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.3.7?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.3.8
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.3.8?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.5.0-beta.4
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.5.0-beta.4?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.3.9
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.11@3.3.9?classifier=sources
