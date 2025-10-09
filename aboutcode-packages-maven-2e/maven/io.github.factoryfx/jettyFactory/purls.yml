@@ -6,3 +6,5 @@
 - pkg:maven/io.github.factoryfx/jettyFactory@1.0.0?classifier=sources
 - pkg:maven/io.github.factoryfx/jettyFactory@1.7.6
 - pkg:maven/io.github.factoryfx/jettyFactory@1.7.6?classifier=sources
+- pkg:maven/io.github.factoryfx/jettyFactory@2.0.0
+- pkg:maven/io.github.factoryfx/jettyFactory@2.0.0?classifier=sources

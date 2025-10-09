@@ -4,3 +4,7 @@
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@0.0.4?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@0.0.6
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@0.0.6?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.0
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.0?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@0.0.7
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@0.0.7?classifier=sources

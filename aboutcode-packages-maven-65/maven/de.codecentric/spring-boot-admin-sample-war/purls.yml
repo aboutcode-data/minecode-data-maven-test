@@ -70,3 +70,5 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.1.4?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.0.6?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.0.6?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.1.5?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.1.5?classifier=sources

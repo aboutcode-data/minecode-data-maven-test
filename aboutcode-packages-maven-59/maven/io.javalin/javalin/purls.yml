@@ -94,3 +94,5 @@
 - pkg:maven/io.javalin/javalin@2.8.0?classifier=sources
 - pkg:maven/io.javalin/javalin@3.0.0.ALPHA0
 - pkg:maven/io.javalin/javalin@3.0.0.ALPHA0?classifier=sources
+- pkg:maven/io.javalin/javalin@3.0.0.RC0
+- pkg:maven/io.javalin/javalin@3.0.0.RC0?classifier=sources
