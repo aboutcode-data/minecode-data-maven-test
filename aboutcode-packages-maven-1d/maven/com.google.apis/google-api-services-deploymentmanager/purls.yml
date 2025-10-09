@@ -1352,3 +1352,7 @@
 - pkg:maven/com.google.apis/google-api-services-deploymentmanager@v2-rev69-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-deploymentmanager@alpha-rev33-1.25.0
 - pkg:maven/com.google.apis/google-api-services-deploymentmanager@alpha-rev33-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-deploymentmanager@v2beta-rev20180609-1.26.0
+- pkg:maven/com.google.apis/google-api-services-deploymentmanager@v2beta-rev20180609-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-deploymentmanager@v2-rev20180609-1.26.0
+- pkg:maven/com.google.apis/google-api-services-deploymentmanager@v2-rev20180609-1.26.0?classifier=sources

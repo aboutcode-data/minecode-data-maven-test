@@ -129,3 +129,12 @@
 - pkg:maven/com.liferay/com.liferay.contacts.web@1.0.42
 - pkg:maven/com.liferay/com.liferay.contacts.web@1.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@1.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.15
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.14
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.web@1.0.43
+- pkg:maven/com.liferay/com.liferay.contacts.web@1.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@1.0.43?classifier=sources-commercial

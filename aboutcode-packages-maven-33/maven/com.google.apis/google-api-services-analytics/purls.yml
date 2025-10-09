@@ -1664,3 +1664,7 @@
 - pkg:maven/com.google.apis/google-api-services-analytics@v3-rev159-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev135-1.25.0
 - pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev135-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analytics@v3-rev20180622-1.26.0
+- pkg:maven/com.google.apis/google-api-services-analytics@v3-rev20180622-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev20180622-1.26.0
+- pkg:maven/com.google.apis/google-api-services-analytics@v2.4-rev20180622-1.26.0?classifier=sources
