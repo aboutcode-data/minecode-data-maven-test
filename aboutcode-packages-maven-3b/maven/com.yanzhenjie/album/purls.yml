@@ -12,3 +12,5 @@
 - pkg:maven/com.yanzhenjie/album@1.0.6?classifier=sources
 - pkg:maven/com.yanzhenjie/album@1.0.7?type=aar
 - pkg:maven/com.yanzhenjie/album@1.0.7?classifier=sources
+- pkg:maven/com.yanzhenjie/album@2.0.0-alpha?type=aar
+- pkg:maven/com.yanzhenjie/album@2.0.0-alpha?classifier=sources

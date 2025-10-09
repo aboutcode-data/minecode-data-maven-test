@@ -32,3 +32,5 @@
 - pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4-CR1
 - pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4-CR1?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4-CR2
+- pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4-CR2?classifier=sources

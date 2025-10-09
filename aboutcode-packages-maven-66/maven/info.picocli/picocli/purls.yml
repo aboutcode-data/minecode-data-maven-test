@@ -16,3 +16,5 @@
 - pkg:maven/info.picocli/picocli@0.9.7?classifier=sources
 - pkg:maven/info.picocli/picocli@0.9.8
 - pkg:maven/info.picocli/picocli@0.9.8?classifier=sources
+- pkg:maven/info.picocli/picocli@1.0.0
+- pkg:maven/info.picocli/picocli@1.0.0?classifier=sources

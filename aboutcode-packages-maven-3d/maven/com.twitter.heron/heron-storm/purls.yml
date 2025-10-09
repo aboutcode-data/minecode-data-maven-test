@@ -14,3 +14,5 @@
 - pkg:maven/com.twitter.heron/heron-storm@0.14.6?classifier=sources
 - pkg:maven/com.twitter.heron/heron-storm@0.15.0
 - pkg:maven/com.twitter.heron/heron-storm@0.15.0?classifier=sources
+- pkg:maven/com.twitter.heron/heron-storm@0.15.1
+- pkg:maven/com.twitter.heron/heron-storm@0.15.1?classifier=sources

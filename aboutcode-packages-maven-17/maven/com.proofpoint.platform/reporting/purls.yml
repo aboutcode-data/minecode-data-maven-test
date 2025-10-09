@@ -158,3 +158,5 @@
 - pkg:maven/com.proofpoint.platform/reporting@1.57?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting@1.58
 - pkg:maven/com.proofpoint.platform/reporting@1.58?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting@1.59
+- pkg:maven/com.proofpoint.platform/reporting@1.59?classifier=sources
