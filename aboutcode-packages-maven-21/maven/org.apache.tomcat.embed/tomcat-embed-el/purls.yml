@@ -310,3 +310,9 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.29?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.49
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.49?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.30
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.30?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.50
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.50?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.99
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.99?classifier=sources

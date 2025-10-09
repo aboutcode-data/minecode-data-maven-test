@@ -47,3 +47,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.utils@1.11.2
 - pkg:maven/org.apache.felix/org.apache.felix.utils@1.11.2?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.utils@1.11.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.utils@1.11.4
+- pkg:maven/org.apache.felix/org.apache.felix.utils@1.11.4?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.utils@1.11.4?classifier=source-release&type=zip

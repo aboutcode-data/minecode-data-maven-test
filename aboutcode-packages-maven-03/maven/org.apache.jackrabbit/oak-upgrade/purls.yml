@@ -468,3 +468,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.20.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.8.18
 - pkg:maven/org.apache.jackrabbit/oak-upgrade@1.8.18?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.10.7
+- pkg:maven/org.apache.jackrabbit/oak-upgrade@1.10.7?classifier=sources

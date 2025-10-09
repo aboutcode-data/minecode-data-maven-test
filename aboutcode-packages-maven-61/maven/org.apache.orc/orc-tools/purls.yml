@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.orc/orc-tools@1.6.2?classifier=sources
 - pkg:maven/org.apache.orc/orc-tools@1.5.8
 - pkg:maven/org.apache.orc/orc-tools@1.5.8?classifier=sources
+- pkg:maven/org.apache.orc/orc-tools@1.4.5
+- pkg:maven/org.apache.orc/orc-tools@1.4.5?classifier=sources
