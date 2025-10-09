@@ -108,3 +108,5 @@
 - pkg:maven/org.codehaus.cargo/authentication-war@1.4.17?classifier=sources
 - pkg:maven/org.codehaus.cargo/authentication-war@1.4.18?type=war
 - pkg:maven/org.codehaus.cargo/authentication-war@1.4.18?classifier=sources
+- pkg:maven/org.codehaus.cargo/authentication-war@1.4.19?type=war
+- pkg:maven/org.codehaus.cargo/authentication-war@1.4.19?classifier=sources

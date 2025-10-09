@@ -70,3 +70,7 @@
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@5.5.3?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@5.4.3
 - pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@5.4.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@6.1.1
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@6.1.1?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@6.0.3
+- pkg:maven/org.apache.servicemix.examples/cxf-wsn-receive@6.0.3?classifier=sources

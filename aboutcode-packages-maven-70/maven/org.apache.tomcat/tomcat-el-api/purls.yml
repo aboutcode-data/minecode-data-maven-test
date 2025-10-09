@@ -148,3 +148,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-el-api@7.0.68?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-el-api@9.0.0.M4
 - pkg:maven/org.apache.tomcat/tomcat-el-api@9.0.0.M4?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-el-api@8.5.0
+- pkg:maven/org.apache.tomcat/tomcat-el-api@8.5.0?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-el-api@8.0.33
+- pkg:maven/org.apache.tomcat/tomcat-el-api@8.0.33?classifier=sources
