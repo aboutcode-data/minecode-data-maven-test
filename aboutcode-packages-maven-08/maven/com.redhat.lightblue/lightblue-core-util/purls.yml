@@ -26,3 +26,5 @@
 - pkg:maven/com.redhat.lightblue/lightblue-core-util@1.14.0?classifier=sources
 - pkg:maven/com.redhat.lightblue/lightblue-core-util@1.15.0
 - pkg:maven/com.redhat.lightblue/lightblue-core-util@1.15.0?classifier=sources
+- pkg:maven/com.redhat.lightblue/lightblue-core-util@2.0.0
+- pkg:maven/com.redhat.lightblue/lightblue-core-util@2.0.0?classifier=sources

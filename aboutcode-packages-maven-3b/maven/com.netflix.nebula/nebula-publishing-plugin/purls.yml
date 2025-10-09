@@ -80,3 +80,5 @@
 - pkg:maven/com.netflix.nebula/nebula-publishing-plugin@4.4.4?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-publishing-plugin@4.6.0
 - pkg:maven/com.netflix.nebula/nebula-publishing-plugin@4.6.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-publishing-plugin@4.7.0
+- pkg:maven/com.netflix.nebula/nebula-publishing-plugin@4.7.0?classifier=sources

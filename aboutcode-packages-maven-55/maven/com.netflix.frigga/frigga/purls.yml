@@ -22,3 +22,5 @@
 - pkg:maven/com.netflix.frigga/frigga@0.12?classifier=sources
 - pkg:maven/com.netflix.frigga/frigga@0.14.0
 - pkg:maven/com.netflix.frigga/frigga@0.14.0?classifier=sources
+- pkg:maven/com.netflix.frigga/frigga@0.15.0
+- pkg:maven/com.netflix.frigga/frigga@0.15.0?classifier=sources

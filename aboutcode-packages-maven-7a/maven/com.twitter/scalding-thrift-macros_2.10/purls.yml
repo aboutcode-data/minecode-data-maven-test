@@ -16,3 +16,5 @@
 - pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.16.0-RC6?classifier=sources
 - pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.16.0
 - pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.16.0?classifier=sources
+- pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.16.1-RC1
+- pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.16.1-RC1?classifier=sources
