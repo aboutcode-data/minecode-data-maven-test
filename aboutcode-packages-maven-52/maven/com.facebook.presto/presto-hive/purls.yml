@@ -354,3 +354,5 @@
 - pkg:maven/com.facebook.presto/presto-hive@0.216?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive@0.217
 - pkg:maven/com.facebook.presto/presto-hive@0.217?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive@0.218
+- pkg:maven/com.facebook.presto/presto-hive@0.218?classifier=sources
