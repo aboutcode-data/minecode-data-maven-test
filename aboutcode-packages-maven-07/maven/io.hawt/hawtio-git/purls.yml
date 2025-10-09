@@ -212,3 +212,7 @@
 - pkg:maven/io.hawt/hawtio-git@2.0-M3?classifier=sources
 - pkg:maven/io.hawt/hawtio-git@1.5.4
 - pkg:maven/io.hawt/hawtio-git@1.5.4?classifier=sources
+- pkg:maven/io.hawt/hawtio-git@1.5.X
+- pkg:maven/io.hawt/hawtio-git@1.5.X?classifier=sources
+- pkg:maven/io.hawt/hawtio-git@1.5.5
+- pkg:maven/io.hawt/hawtio-git@1.5.5?classifier=sources

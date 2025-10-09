@@ -128,3 +128,5 @@
 - pkg:maven/io.hawt/hawtio-web@1.5.2?type=war
 - pkg:maven/io.hawt/hawtio-web@1.5.3?type=war
 - pkg:maven/io.hawt/hawtio-web@1.5.4?type=war
+- pkg:maven/io.hawt/hawtio-web@1.5.X?type=war
+- pkg:maven/io.hawt/hawtio-web@1.5.5?type=war
