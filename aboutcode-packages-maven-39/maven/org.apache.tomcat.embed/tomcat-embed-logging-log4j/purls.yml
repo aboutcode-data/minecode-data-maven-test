@@ -160,3 +160,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.5.2?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.35
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.35?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.36
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-logging-log4j@8.0.36?classifier=sources

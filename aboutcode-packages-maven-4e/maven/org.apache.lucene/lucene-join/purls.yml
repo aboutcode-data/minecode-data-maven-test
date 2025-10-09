@@ -84,3 +84,5 @@
 - pkg:maven/org.apache.lucene/lucene-join@5.5.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-join@6.0.1
 - pkg:maven/org.apache.lucene/lucene-join@6.0.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-join@6.1.0
+- pkg:maven/org.apache.lucene/lucene-join@6.1.0?classifier=sources

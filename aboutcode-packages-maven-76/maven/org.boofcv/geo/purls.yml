@@ -16,3 +16,5 @@
 - pkg:maven/org.boofcv/geo@0.23?classifier=sources
 - pkg:maven/org.boofcv/geo@0.24
 - pkg:maven/org.boofcv/geo@0.24?classifier=sources
+- pkg:maven/org.boofcv/geo@0.24.1
+- pkg:maven/org.boofcv/geo@0.24.1?classifier=sources

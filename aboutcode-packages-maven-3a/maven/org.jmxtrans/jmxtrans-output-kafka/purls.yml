@@ -6,3 +6,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-kafka@253?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-kafka@254
 - pkg:maven/org.jmxtrans/jmxtrans-output-kafka@254?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@256
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@256?classifier=sources
