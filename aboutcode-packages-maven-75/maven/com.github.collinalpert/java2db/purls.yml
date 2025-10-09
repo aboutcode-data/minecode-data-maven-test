@@ -82,3 +82,5 @@
 - pkg:maven/com.github.collinalpert/java2db@4.2?classifier=sources
 - pkg:maven/com.github.collinalpert/java2db@5.0
 - pkg:maven/com.github.collinalpert/java2db@5.0?classifier=sources
+- pkg:maven/com.github.collinalpert/java2db@5.0.1
+- pkg:maven/com.github.collinalpert/java2db@5.0.1?classifier=sources

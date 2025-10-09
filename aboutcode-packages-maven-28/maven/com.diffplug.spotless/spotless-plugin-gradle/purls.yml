@@ -62,3 +62,5 @@
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.21.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.22.0
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.22.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.23.1
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@3.23.1?classifier=sources
