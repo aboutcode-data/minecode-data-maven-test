@@ -449,3 +449,4 @@
 - pkg:maven/org.javers/javers-spring@5.8.0
 - pkg:maven/org.javers/javers-spring@5.8.0?classifier=sources
 - pkg:maven/org.javers/javers-spring@5.8.2
+- pkg:maven/org.javers/javers-spring@5.8.2?classifier=sources

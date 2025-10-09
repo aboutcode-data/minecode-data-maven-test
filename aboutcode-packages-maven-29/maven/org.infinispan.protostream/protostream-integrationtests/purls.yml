@@ -22,3 +22,5 @@
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.3.0.Alpha12?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.3.0.Alpha13
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.3.0.Alpha13?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.3.0.Final
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.3.0.Final?classifier=sources

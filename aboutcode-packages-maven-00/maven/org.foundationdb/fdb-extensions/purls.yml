@@ -20,3 +20,7 @@
 - pkg:maven/org.foundationdb/fdb-extensions@2.6.69.0?classifier=sources
 - pkg:maven/org.foundationdb/fdb-extensions@2.7.74.0
 - pkg:maven/org.foundationdb/fdb-extensions@2.7.74.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-extensions@2.8.89.0
+- pkg:maven/org.foundationdb/fdb-extensions@2.8.89.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-extensions@2.8.88.0
+- pkg:maven/org.foundationdb/fdb-extensions@2.8.88.0?classifier=sources
