@@ -150,3 +150,5 @@
 - pkg:maven/io.sundr/sundr-maven-plugin@0.7.5?classifier=sources
 - pkg:maven/io.sundr/sundr-maven-plugin@0.7
 - pkg:maven/io.sundr/sundr-maven-plugin@0.7?classifier=sources
+- pkg:maven/io.sundr/sundr-maven-plugin@0.7.7
+- pkg:maven/io.sundr/sundr-maven-plugin@0.7.7?classifier=sources

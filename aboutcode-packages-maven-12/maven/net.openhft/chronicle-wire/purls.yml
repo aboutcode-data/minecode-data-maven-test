@@ -380,3 +380,5 @@
 - pkg:maven/net.openhft/chronicle-wire@1.12.6?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@1.15.0
 - pkg:maven/net.openhft/chronicle-wire@1.15.0?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@1.16.0
+- pkg:maven/net.openhft/chronicle-wire@1.16.0?classifier=sources

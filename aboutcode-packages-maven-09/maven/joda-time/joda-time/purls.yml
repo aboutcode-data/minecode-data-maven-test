@@ -59,3 +59,5 @@
 - pkg:maven/joda-time/joda-time@2.9.9?classifier=sources
 - pkg:maven/joda-time/joda-time@2.9.8
 - pkg:maven/joda-time/joda-time@2.9.8?classifier=sources
+- pkg:maven/joda-time/joda-time@2.10
+- pkg:maven/joda-time/joda-time@2.10?classifier=sources
