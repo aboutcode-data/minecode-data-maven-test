@@ -31,3 +31,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@2.0.8
 - pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@1.0.3
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@1.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.equinox.log.bridge@1.0.3?classifier=sources-commercial

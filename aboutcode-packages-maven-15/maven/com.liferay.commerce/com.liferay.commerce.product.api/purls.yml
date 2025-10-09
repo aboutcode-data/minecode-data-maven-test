@@ -22,3 +22,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.api@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.api@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.api@4.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.api@4.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.api@4.0.0?classifier=sources-commercial

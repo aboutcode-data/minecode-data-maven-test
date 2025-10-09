@@ -1,0 +1,4 @@
+- pkg:maven/com.ksc.mission.base/microservice@1.2.4
+- pkg:maven/com.ksc.mission.base/microservice@1.2.4?classifier=sources
+- pkg:maven/com.ksc.mission.base/microservice@1.2.3
+- pkg:maven/com.ksc.mission.base/microservice@1.2.3?classifier=sources
