@@ -108,3 +108,5 @@
 - pkg:maven/org.bonitasoft.engine/bonita-server@7.5.2?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-server@7.5.4
 - pkg:maven/org.bonitasoft.engine/bonita-server@7.5.4?classifier=sources
+- pkg:maven/org.bonitasoft.engine/bonita-server@7.6.0
+- pkg:maven/org.bonitasoft.engine/bonita-server@7.6.0?classifier=sources

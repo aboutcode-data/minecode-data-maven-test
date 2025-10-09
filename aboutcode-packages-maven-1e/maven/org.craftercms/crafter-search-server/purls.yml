@@ -92,3 +92,9 @@
 - pkg:maven/org.craftercms/crafter-search-server@2.5.10?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-server@2.5.11?type=war
 - pkg:maven/org.craftercms/crafter-search-server@2.5.11?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-server@3.0.3?type=war
+- pkg:maven/org.craftercms/crafter-search-server@3.0.3?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-server@3.0.2?type=war
+- pkg:maven/org.craftercms/crafter-search-server@3.0.2?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-server@2.5.12?type=war
+- pkg:maven/org.craftercms/crafter-search-server@2.5.12?classifier=sources

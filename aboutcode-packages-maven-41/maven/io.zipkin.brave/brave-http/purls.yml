@@ -92,3 +92,5 @@
 - pkg:maven/io.zipkin.brave/brave-http@4.10.1?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-http@4.10.0
 - pkg:maven/io.zipkin.brave/brave-http@4.10.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-http@4.11.0
+- pkg:maven/io.zipkin.brave/brave-http@4.11.0?classifier=sources
