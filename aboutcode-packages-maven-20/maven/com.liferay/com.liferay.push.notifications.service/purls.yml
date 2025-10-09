@@ -199,3 +199,6 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.41
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@3.0.14
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@3.0.14?classifier=sources-commercial

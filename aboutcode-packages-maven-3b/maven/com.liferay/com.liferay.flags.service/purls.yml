@@ -114,3 +114,6 @@
 - pkg:maven/com.liferay/com.liferay.flags.service@3.0.9
 - pkg:maven/com.liferay/com.liferay.flags.service@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.service@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.service@4.0.11
+- pkg:maven/com.liferay/com.liferay.flags.service@4.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.service@4.0.11?classifier=sources-commercial

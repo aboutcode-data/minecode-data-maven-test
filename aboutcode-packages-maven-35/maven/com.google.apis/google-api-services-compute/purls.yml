@@ -2972,3 +2972,5 @@
 - pkg:maven/com.google.apis/google-api-services-compute@alpha-rev20190905-1.29.2?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-compute@alpha-rev20190905-1.28.0
 - pkg:maven/com.google.apis/google-api-services-compute@alpha-rev20190905-1.28.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-compute@beta-rev138-1.25.0
+- pkg:maven/com.google.apis/google-api-services-compute@beta-rev138-1.25.0?classifier=sources

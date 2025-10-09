@@ -1830,3 +1830,15 @@
 - pkg:maven/com.google.apis/google-api-services-speech@v1-rev104-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-speech@v1-rev104-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-speech@v1-rev104-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-speech@v2beta1-rev5-1.25.0
+- pkg:maven/com.google.apis/google-api-services-speech@v2beta1-rev5-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-speech@v2beta1-rev5-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-speech@v2beta1-rev5-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-speech@v1p1beta1-rev41-1.25.0
+- pkg:maven/com.google.apis/google-api-services-speech@v1p1beta1-rev41-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-speech@v1p1beta1-rev41-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-speech@v1p1beta1-rev41-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-speech@v1-rev105-1.25.0
+- pkg:maven/com.google.apis/google-api-services-speech@v1-rev105-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-speech@v1-rev105-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-speech@v1-rev105-1.18.0-rc?classifier=sources

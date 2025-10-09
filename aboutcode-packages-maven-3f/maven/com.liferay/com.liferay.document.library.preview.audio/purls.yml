@@ -43,3 +43,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.preview.audio@1.0.13
 - pkg:maven/com.liferay/com.liferay.document.library.preview.audio@1.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.preview.audio@1.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.preview.audio@1.0.15
+- pkg:maven/com.liferay/com.liferay.document.library.preview.audio@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.preview.audio@1.0.15?classifier=sources-commercial

@@ -212,3 +212,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-database-v1@1.44.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-database-v1@1.45.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-database-v1@1.45.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-database-v1@1.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-database-v1@1.46.0?classifier=sources

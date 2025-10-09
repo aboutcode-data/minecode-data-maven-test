@@ -12,3 +12,7 @@
 - pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev18-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev18-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev18-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev20-1.25.0
+- pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev20-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev20-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-domainsrdap@v1-rev20-1.18.0-rc?classifier=sources

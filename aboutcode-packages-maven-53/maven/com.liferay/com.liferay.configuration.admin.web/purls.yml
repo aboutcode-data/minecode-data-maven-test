@@ -421,3 +421,6 @@
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@2.0.51
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@2.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@2.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.35
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@3.0.35?classifier=sources-commercial

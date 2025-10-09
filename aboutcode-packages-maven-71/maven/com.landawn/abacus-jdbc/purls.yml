@@ -34,3 +34,7 @@
 - pkg:maven/com.landawn/abacus-jdbc@1.9.14?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@1.9.13
 - pkg:maven/com.landawn/abacus-jdbc@1.9.13?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@1.9.17
+- pkg:maven/com.landawn/abacus-jdbc@1.9.17?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@1.9.16
+- pkg:maven/com.landawn/abacus-jdbc@1.9.16?classifier=sources
