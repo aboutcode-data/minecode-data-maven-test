@@ -19,3 +19,7 @@
 - pkg:maven/net.corda.plugins/quasar-utils@0.10.4?classifier=sources
 - pkg:maven/net.corda.plugins/quasar-utils@0.11.0
 - pkg:maven/net.corda.plugins/quasar-utils@0.11.0?classifier=sources
+- pkg:maven/net.corda.plugins/quasar-utils@0.11.2
+- pkg:maven/net.corda.plugins/quasar-utils@0.11.2?classifier=sources
+- pkg:maven/net.corda.plugins/quasar-utils@0.11.1
+- pkg:maven/net.corda.plugins/quasar-utils@0.11.1?classifier=sources
