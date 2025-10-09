@@ -119,3 +119,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-jrun@1.6.11?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-jrun@1.7.0
 - pkg:maven/org.codehaus.cargo/cargo-core-container-jrun@1.7.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-container-jrun@1.7.1
+- pkg:maven/org.codehaus.cargo/cargo-core-container-jrun@1.7.1?classifier=sources

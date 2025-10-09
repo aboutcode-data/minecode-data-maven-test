@@ -72,3 +72,5 @@
 - pkg:maven/org.dbtools/dbtools-room-jdbc@4.0.0?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room-jdbc@4.1.0?type=aar
 - pkg:maven/org.dbtools/dbtools-room-jdbc@4.1.0?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-jdbc@4.2.0?type=aar
+- pkg:maven/org.dbtools/dbtools-room-jdbc@4.2.0?classifier=sources

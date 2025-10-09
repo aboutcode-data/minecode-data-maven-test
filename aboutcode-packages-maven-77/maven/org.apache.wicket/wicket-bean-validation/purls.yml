@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.wicket/wicket-bean-validation@8.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.11.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.11.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@6.30.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@6.30.0?classifier=sources

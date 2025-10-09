@@ -322,3 +322,5 @@
 - pkg:maven/org.codehaus.groovy/groovy@2.5.3?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy@2.5.4
 - pkg:maven/org.codehaus.groovy/groovy@2.5.4?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy@2.4.16
+- pkg:maven/org.codehaus.groovy/groovy@2.4.16?classifier=sources
