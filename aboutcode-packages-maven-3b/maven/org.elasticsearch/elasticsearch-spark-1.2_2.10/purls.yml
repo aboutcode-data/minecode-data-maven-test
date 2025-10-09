@@ -22,3 +22,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-1.2_2.10@2.3.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-1.2_2.10@2.2.1
 - pkg:maven/org.elasticsearch/elasticsearch-spark-1.2_2.10@2.2.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-1.2_2.10@2.3.1
+- pkg:maven/org.elasticsearch/elasticsearch-spark-1.2_2.10@2.3.1?classifier=sources
