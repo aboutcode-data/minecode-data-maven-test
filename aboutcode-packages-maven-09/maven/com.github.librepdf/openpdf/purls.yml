@@ -38,3 +38,7 @@
 - pkg:maven/com.github.librepdf/openpdf@1.2.11?classifier=sources
 - pkg:maven/com.github.librepdf/openpdf@1.2.12
 - pkg:maven/com.github.librepdf/openpdf@1.2.12?classifier=sources
+- pkg:maven/com.github.librepdf/openpdf@1.2.15
+- pkg:maven/com.github.librepdf/openpdf@1.2.15?classifier=sources
+- pkg:maven/com.github.librepdf/openpdf@1.2.14
+- pkg:maven/com.github.librepdf/openpdf@1.2.14?classifier=sources
