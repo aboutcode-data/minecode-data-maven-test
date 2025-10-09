@@ -22,3 +22,7 @@
 - pkg:maven/org.eclipse.che.core/che-core-tracing-core@7.0.0-beta-1.0?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-tracing-core@6.19.0
 - pkg:maven/org.eclipse.che.core/che-core-tracing-core@6.19.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-tracing-core@6.19.2
+- pkg:maven/org.eclipse.che.core/che-core-tracing-core@6.19.2?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-tracing-core@6.19.1
+- pkg:maven/org.eclipse.che.core/che-core-tracing-core@6.19.1?classifier=sources

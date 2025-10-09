@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.californium/californium-core@2.0.0-M13?classifier=sources
 - pkg:maven/org.eclipse.californium/californium-core@1.0.7
 - pkg:maven/org.eclipse.californium/californium-core@1.0.7?classifier=sources
+- pkg:maven/org.eclipse.californium/californium-core@2.0.0-M14
+- pkg:maven/org.eclipse.californium/californium-core@2.0.0-M14?classifier=sources
