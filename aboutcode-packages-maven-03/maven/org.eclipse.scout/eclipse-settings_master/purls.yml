@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.scout/eclipse-settings_master@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.scout/eclipse-settings_master@3.7.0
 - pkg:maven/org.eclipse.scout/eclipse-settings_master@3.7.0?classifier=sources
+- pkg:maven/org.eclipse.scout/eclipse-settings_master@3.8.0
+- pkg:maven/org.eclipse.scout/eclipse-settings_master@3.8.0?classifier=sources

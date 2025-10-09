@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.9.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.10.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.10.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.10.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.10.100?classifier=sources
