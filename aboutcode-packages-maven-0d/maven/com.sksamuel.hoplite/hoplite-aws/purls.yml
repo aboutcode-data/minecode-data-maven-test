@@ -1,0 +1,4 @@
+- pkg:maven/com.sksamuel.hoplite/hoplite-aws@1.0.0
+- pkg:maven/com.sksamuel.hoplite/hoplite-aws@1.0.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-aws@0.30.0
+- pkg:maven/com.sksamuel.hoplite/hoplite-aws@0.30.0?classifier=sources
