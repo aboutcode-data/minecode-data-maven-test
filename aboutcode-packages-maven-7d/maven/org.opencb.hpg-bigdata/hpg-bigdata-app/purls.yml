@@ -6,3 +6,5 @@
 - pkg:maven/org.opencb.hpg-bigdata/hpg-bigdata-app@0.6.0?classifier=sources
 - pkg:maven/org.opencb.hpg-bigdata/hpg-bigdata-app@1.0.0-alpha
 - pkg:maven/org.opencb.hpg-bigdata/hpg-bigdata-app@1.0.0-alpha?classifier=sources
+- pkg:maven/org.opencb.hpg-bigdata/hpg-bigdata-app@1.0.0-beta1
+- pkg:maven/org.opencb.hpg-bigdata/hpg-bigdata-app@1.0.0-beta1?classifier=sources
