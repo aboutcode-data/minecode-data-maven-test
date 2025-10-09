@@ -34,3 +34,5 @@
 - pkg:maven/com.wix/http-testkit-specs2_2.12@0.1.16?classifier=sources
 - pkg:maven/com.wix/http-testkit-specs2_2.12@0.1.17
 - pkg:maven/com.wix/http-testkit-specs2_2.12@0.1.17?classifier=sources
+- pkg:maven/com.wix/http-testkit-specs2_2.12@0.1.17-specs2_4_0_2
+- pkg:maven/com.wix/http-testkit-specs2_2.12@0.1.17-specs2_4_0_2?classifier=sources

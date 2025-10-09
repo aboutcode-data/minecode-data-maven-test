@@ -50,3 +50,5 @@
 - pkg:maven/com.wix/wix-embedded-mysql@3.0.0?classifier=sources
 - pkg:maven/com.wix/wix-embedded-mysql@2.2.10
 - pkg:maven/com.wix/wix-embedded-mysql@2.2.10?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql@3.0.1
+- pkg:maven/com.wix/wix-embedded-mysql@3.0.1?classifier=sources

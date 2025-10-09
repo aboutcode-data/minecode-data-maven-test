@@ -56,3 +56,5 @@
 - pkg:maven/com.unboundid/unboundid-ldapsdk@4.0.3?classifier=sources
 - pkg:maven/com.unboundid/unboundid-ldapsdk@4.0.2
 - pkg:maven/com.unboundid/unboundid-ldapsdk@4.0.2?classifier=sources
+- pkg:maven/com.unboundid/unboundid-ldapsdk@4.0.4
+- pkg:maven/com.unboundid/unboundid-ldapsdk@4.0.4?classifier=sources
