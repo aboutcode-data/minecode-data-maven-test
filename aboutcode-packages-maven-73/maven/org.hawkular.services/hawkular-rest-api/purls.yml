@@ -22,3 +22,5 @@
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.13.Final?classifier=sources
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.14.Final?type=war
 - pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.14.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.15.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-rest-api@0.0.15.Final?classifier=sources
