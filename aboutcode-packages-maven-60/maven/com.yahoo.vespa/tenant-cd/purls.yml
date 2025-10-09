@@ -104,3 +104,5 @@
 - pkg:maven/com.yahoo.vespa/tenant-cd@7.44.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd@7.45.22
 - pkg:maven/com.yahoo.vespa/tenant-cd@7.45.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@7.50.19
+- pkg:maven/com.yahoo.vespa/tenant-cd@7.50.19?classifier=sources
