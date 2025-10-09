@@ -82,3 +82,7 @@
 - pkg:maven/io.dropwizard/dropwizard-jetty@1.1.0-rc4?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-jetty@1.1.0-rc3
 - pkg:maven/io.dropwizard/dropwizard-jetty@1.1.0-rc3?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-jetty@1.1.0
+- pkg:maven/io.dropwizard/dropwizard-jetty@1.1.0?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-jetty@1.0.7
+- pkg:maven/io.dropwizard/dropwizard-jetty@1.0.7?classifier=sources
