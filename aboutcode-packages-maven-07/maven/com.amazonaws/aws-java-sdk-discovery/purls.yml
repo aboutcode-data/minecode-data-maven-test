@@ -1,2 +1,4 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-discovery@1.11.1
 - pkg:maven/com.amazonaws/aws-java-sdk-discovery@1.11.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-discovery@1.11.2
+- pkg:maven/com.amazonaws/aws-java-sdk-discovery@1.11.2?classifier=sources

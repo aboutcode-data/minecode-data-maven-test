@@ -144,3 +144,7 @@
 - pkg:maven/com.bluejeans.common/utils@3.22?classifier=sources
 - pkg:maven/com.bluejeans.common/utils@3.21
 - pkg:maven/com.bluejeans.common/utils@3.21?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@4.5
+- pkg:maven/com.bluejeans.common/utils@4.5?classifier=sources
+- pkg:maven/com.bluejeans.common/utils@4.4
+- pkg:maven/com.bluejeans.common/utils@4.4?classifier=sources

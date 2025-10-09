@@ -39,3 +39,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.scr.annotations@1.9.12
 - pkg:maven/org.apache.felix/org.apache.felix.scr.annotations@1.9.12?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.scr.annotations@1.9.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.scr.annotations@1.10.0
+- pkg:maven/org.apache.felix/org.apache.felix.scr.annotations@1.10.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.scr.annotations@1.10.0?classifier=source-release&type=zip

@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.mahout/mahout-hdfs@0.11.2?classifier=sources
 - pkg:maven/org.apache.mahout/mahout-hdfs@0.12.0
 - pkg:maven/org.apache.mahout/mahout-hdfs@0.12.0?classifier=sources
+- pkg:maven/org.apache.mahout/mahout-hdfs@0.12.1
+- pkg:maven/org.apache.mahout/mahout-hdfs@0.12.1?classifier=sources
