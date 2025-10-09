@@ -42,3 +42,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-wiremock@1.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-wiremock@2.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-wiremock@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-wiremock@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-wiremock@2.1.0.RELEASE?classifier=sources

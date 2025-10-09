@@ -66,3 +66,5 @@
 - pkg:maven/org.webjars.npm/vue@2.5.21?classifier=sources
 - pkg:maven/org.webjars.npm/vue@2.5.22
 - pkg:maven/org.webjars.npm/vue@2.5.22?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.6.0-beta.1
+- pkg:maven/org.webjars.npm/vue@2.6.0-beta.1?classifier=sources
