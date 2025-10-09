@@ -38,3 +38,5 @@
 - pkg:maven/com.faunadb/faunadb-scala_2.12@1.2.5?classifier=sources
 - pkg:maven/com.faunadb/faunadb-scala_2.12@2.6.2
 - pkg:maven/com.faunadb/faunadb-scala_2.12@2.6.2?classifier=sources
+- pkg:maven/com.faunadb/faunadb-scala_2.12@1.2.7
+- pkg:maven/com.faunadb/faunadb-scala_2.12@1.2.7?classifier=sources

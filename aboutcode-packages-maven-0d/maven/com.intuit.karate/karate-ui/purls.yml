@@ -1,2 +1,4 @@
 - pkg:maven/com.intuit.karate/karate-ui@0.9.3.RC2
 - pkg:maven/com.intuit.karate/karate-ui@0.9.3.RC2?classifier=sources
+- pkg:maven/com.intuit.karate/karate-ui@0.9.3
+- pkg:maven/com.intuit.karate/karate-ui@0.9.3?classifier=sources
