@@ -296,3 +296,9 @@
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.7?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.0.7
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.0.7?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-thrift@3.0.8
+- pkg:maven/org.apache.cassandra/cassandra-thrift@3.0.8?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-thrift@2.2.7
+- pkg:maven/org.apache.cassandra/cassandra-thrift@2.2.7?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-thrift@2.1.15
+- pkg:maven/org.apache.cassandra/cassandra-thrift@2.1.15?classifier=sources

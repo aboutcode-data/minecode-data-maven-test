@@ -42,3 +42,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@3.4.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@2.7.4.4?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@2.7.4.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@3.3.0.2?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-api@3.3.0.2?classifier=sources

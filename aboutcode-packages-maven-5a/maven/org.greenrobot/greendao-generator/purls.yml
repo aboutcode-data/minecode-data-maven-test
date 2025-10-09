@@ -4,3 +4,5 @@
 - pkg:maven/org.greenrobot/greendao-generator@3.0.0-beta?classifier=sources
 - pkg:maven/org.greenrobot/greendao-generator@3.0.0-beta3
 - pkg:maven/org.greenrobot/greendao-generator@3.0.0-beta3?classifier=sources
+- pkg:maven/org.greenrobot/greendao-generator@3.0.0
+- pkg:maven/org.greenrobot/greendao-generator@3.0.0?classifier=sources

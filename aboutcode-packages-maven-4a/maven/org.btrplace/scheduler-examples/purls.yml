@@ -14,3 +14,5 @@
 - pkg:maven/org.btrplace/scheduler-examples@0.45?classifier=sources
 - pkg:maven/org.btrplace/scheduler-examples@0.46
 - pkg:maven/org.btrplace/scheduler-examples@0.46?classifier=sources
+- pkg:maven/org.btrplace/scheduler-examples@1.0
+- pkg:maven/org.btrplace/scheduler-examples@1.0?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/org.guvnor/guvnor-m2repo-editor-backend@6.4.0.CR2?classifier=sources
 - pkg:maven/org.guvnor/guvnor-m2repo-editor-backend@6.4.0.Final
 - pkg:maven/org.guvnor/guvnor-m2repo-editor-backend@6.4.0.Final?classifier=sources
+- pkg:maven/org.guvnor/guvnor-m2repo-editor-backend@7.0.0.Beta1
+- pkg:maven/org.guvnor/guvnor-m2repo-editor-backend@7.0.0.Beta1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.commonjava.maven.plugins/project-sources-maven-plugin@0.2?classifier=sources
 - pkg:maven/org.commonjava.maven.plugins/project-sources-maven-plugin@0.1
 - pkg:maven/org.commonjava.maven.plugins/project-sources-maven-plugin@0.1?classifier=sources
+- pkg:maven/org.commonjava.maven.plugins/project-sources-maven-plugin@1.0
+- pkg:maven/org.commonjava.maven.plugins/project-sources-maven-plugin@1.0?classifier=sources
