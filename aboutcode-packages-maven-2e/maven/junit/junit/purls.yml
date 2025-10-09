@@ -50,3 +50,5 @@
 - pkg:maven/junit/junit@4.13-beta-2?classifier=sources
 - pkg:maven/junit/junit@4.13-beta-3
 - pkg:maven/junit/junit@4.13-beta-3?classifier=sources
+- pkg:maven/junit/junit@4.13-rc-1
+- pkg:maven/junit/junit@4.13-rc-1?classifier=sources
