@@ -48,3 +48,7 @@
 - pkg:maven/org.brutusin/rpc-api@1.7.2?classifier=sources
 - pkg:maven/org.brutusin/rpc-api@1.7.4
 - pkg:maven/org.brutusin/rpc-api@1.7.4?classifier=sources
+- pkg:maven/org.brutusin/rpc-api@1.8.0
+- pkg:maven/org.brutusin/rpc-api@1.8.0?classifier=sources
+- pkg:maven/org.brutusin/rpc-api@1.7.5
+- pkg:maven/org.brutusin/rpc-api@1.7.5?classifier=sources

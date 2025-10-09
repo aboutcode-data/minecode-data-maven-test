@@ -32,3 +32,6 @@
 - pkg:maven/org.codehaus.mojo/build-helper-maven-plugin@1.11
 - pkg:maven/org.codehaus.mojo/build-helper-maven-plugin@1.11?classifier=sources
 - pkg:maven/org.codehaus.mojo/build-helper-maven-plugin@1.11?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/build-helper-maven-plugin@1.12
+- pkg:maven/org.codehaus.mojo/build-helper-maven-plugin@1.12?classifier=sources
+- pkg:maven/org.codehaus.mojo/build-helper-maven-plugin@1.12?classifier=source-release&type=zip

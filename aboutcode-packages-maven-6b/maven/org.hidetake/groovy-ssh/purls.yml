@@ -70,3 +70,5 @@
 - pkg:maven/org.hidetake/groovy-ssh@2.3.0?classifier=sources
 - pkg:maven/org.hidetake/groovy-ssh@2.4.0
 - pkg:maven/org.hidetake/groovy-ssh@2.4.0?classifier=sources
+- pkg:maven/org.hidetake/groovy-ssh@2.4.1
+- pkg:maven/org.hidetake/groovy-ssh@2.4.1?classifier=sources

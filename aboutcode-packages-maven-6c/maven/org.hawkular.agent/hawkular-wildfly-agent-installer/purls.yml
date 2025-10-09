@@ -58,3 +58,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@0.20.0.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@0.19.2.Final
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@0.19.2.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@0.20.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-installer@0.20.1.Final?classifier=sources

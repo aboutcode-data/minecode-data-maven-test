@@ -60,3 +60,5 @@
 - pkg:maven/org.axonframework/axon-amqp@3.0-M2?classifier=sources
 - pkg:maven/org.axonframework/axon-amqp@3.0-M3
 - pkg:maven/org.axonframework/axon-amqp@3.0-M3?classifier=sources
+- pkg:maven/org.axonframework/axon-amqp@2.4.5
+- pkg:maven/org.axonframework/axon-amqp@2.4.5?classifier=sources

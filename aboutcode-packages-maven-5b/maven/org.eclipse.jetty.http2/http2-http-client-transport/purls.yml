@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.11.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.10.v20160621
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.10.v20160621?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.11.v20160721
+- pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.11.v20160721?classifier=sources

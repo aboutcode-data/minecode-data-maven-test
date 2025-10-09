@@ -17,3 +17,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.16.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.17.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.17.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.18.0.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.18.0.Final?classifier=sources

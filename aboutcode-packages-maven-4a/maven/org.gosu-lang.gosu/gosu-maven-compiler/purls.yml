@@ -30,3 +30,5 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.6?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.7
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.13.7?classifier=sources
