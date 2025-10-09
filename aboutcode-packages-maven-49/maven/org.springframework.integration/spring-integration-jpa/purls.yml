@@ -106,3 +106,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-jpa@4.3.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jpa@4.2.12.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-jpa@4.2.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jpa@4.3.6.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jpa@4.3.6.RELEASE?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@1.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@1.0.4.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@1.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Avogadro.RELEASE?classifier=sources
