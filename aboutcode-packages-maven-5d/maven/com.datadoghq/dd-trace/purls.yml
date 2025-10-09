@@ -42,3 +42,5 @@
 - pkg:maven/com.datadoghq/dd-trace@0.2.10?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace@0.2.11
 - pkg:maven/com.datadoghq/dd-trace@0.2.11?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace@0.2.12
+- pkg:maven/com.datadoghq/dd-trace@0.2.12?classifier=sources

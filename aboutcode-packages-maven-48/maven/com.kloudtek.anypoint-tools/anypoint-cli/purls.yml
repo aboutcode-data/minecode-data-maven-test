@@ -18,3 +18,5 @@
 - pkg:maven/com.kloudtek.anypoint-tools/anypoint-cli@0.9.8?classifier=sources
 - pkg:maven/com.kloudtek.anypoint-tools/anypoint-cli@0.9.7
 - pkg:maven/com.kloudtek.anypoint-tools/anypoint-cli@0.9.7?classifier=sources
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-cli@0.9.10
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-cli@0.9.10?classifier=sources
