@@ -160,3 +160,5 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquery@1.45.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery@1.46.0
 - pkg:maven/com.google.cloud/google-cloud-bigquery@1.46.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquery@1.47.0
+- pkg:maven/com.google.cloud/google-cloud-bigquery@1.47.0?classifier=sources

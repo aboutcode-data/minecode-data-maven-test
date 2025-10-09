@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.pdfbox/pdfbox-war@1.8.14?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-war@1.8.15?type=war
 - pkg:maven/org.apache.pdfbox/pdfbox-war@1.8.15?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox-war@1.8.16?type=war
+- pkg:maven/org.apache.pdfbox/pdfbox-war@1.8.16?classifier=sources

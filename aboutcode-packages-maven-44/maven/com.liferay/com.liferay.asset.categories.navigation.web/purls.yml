@@ -80,3 +80,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.7
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.12
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.12?classifier=sources-commercial

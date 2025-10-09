@@ -8,3 +8,5 @@
 - pkg:maven/me.saro/commons@0.0.11?classifier=sources
 - pkg:maven/me.saro/commons@0.0.10
 - pkg:maven/me.saro/commons@0.0.10?classifier=sources
+- pkg:maven/me.saro/commons@0.1
+- pkg:maven/me.saro/commons@0.1?classifier=sources

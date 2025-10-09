@@ -1,2 +1,4 @@
 - pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.23
 - pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.23?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.25
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.25?classifier=sources
