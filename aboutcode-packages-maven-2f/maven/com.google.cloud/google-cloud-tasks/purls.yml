@@ -122,3 +122,5 @@
 - pkg:maven/com.google.cloud/google-cloud-tasks@1.24.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tasks@1.25.0
 - pkg:maven/com.google.cloud/google-cloud-tasks@1.25.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tasks@1.26.0
+- pkg:maven/com.google.cloud/google-cloud-tasks@1.26.0?classifier=sources

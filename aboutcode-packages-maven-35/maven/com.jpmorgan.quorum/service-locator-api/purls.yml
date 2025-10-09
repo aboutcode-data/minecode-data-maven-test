@@ -44,3 +44,5 @@
 - pkg:maven/com.jpmorgan.quorum/service-locator-api@0.11.0?classifier=sources
 - pkg:maven/com.jpmorgan.quorum/service-locator-api@0.11
 - pkg:maven/com.jpmorgan.quorum/service-locator-api@0.11?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/service-locator-api@0.10.1
+- pkg:maven/com.jpmorgan.quorum/service-locator-api@0.10.1?classifier=sources

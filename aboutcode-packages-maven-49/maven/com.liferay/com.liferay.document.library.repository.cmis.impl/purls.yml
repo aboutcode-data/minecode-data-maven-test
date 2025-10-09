@@ -222,3 +222,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.25
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.15
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.15?classifier=sources-commercial

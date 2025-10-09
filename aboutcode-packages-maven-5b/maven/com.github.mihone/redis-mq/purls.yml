@@ -10,3 +10,7 @@
 - pkg:maven/com.github.mihone/redis-mq@0.1.2?classifier=sources
 - pkg:maven/com.github.mihone/redis-mq@0.1.4-zd
 - pkg:maven/com.github.mihone/redis-mq@0.1.4-zd?classifier=sources
+- pkg:maven/com.github.mihone/redis-mq@0.1.5-zd
+- pkg:maven/com.github.mihone/redis-mq@0.1.5-zd?classifier=sources
+- pkg:maven/com.github.mihone/redis-mq@0.1.4
+- pkg:maven/com.github.mihone/redis-mq@0.1.4?classifier=sources

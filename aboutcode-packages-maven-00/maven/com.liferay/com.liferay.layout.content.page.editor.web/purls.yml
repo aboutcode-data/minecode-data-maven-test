@@ -148,3 +148,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.47
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.50
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.50?classifier=sources-commercial

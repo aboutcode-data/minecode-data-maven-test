@@ -12,3 +12,5 @@
 - pkg:maven/com.github.ozsie/detekt-maven-plugin@1.0.0-RC16?classifier=sources
 - pkg:maven/com.github.ozsie/detekt-maven-plugin@1.0.0
 - pkg:maven/com.github.ozsie/detekt-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.github.ozsie/detekt-maven-plugin@1.1.1
+- pkg:maven/com.github.ozsie/detekt-maven-plugin@1.1.1?classifier=sources

@@ -260,3 +260,6 @@
 - pkg:maven/com.liferay/com.liferay.chat.service@3.0.26
 - pkg:maven/com.liferay/com.liferay.chat.service@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.chat.service@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.service@4.0.16
+- pkg:maven/com.liferay/com.liferay.chat.service@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.service@4.0.16?classifier=sources-commercial

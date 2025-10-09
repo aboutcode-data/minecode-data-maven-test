@@ -578,3 +578,6 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.service@4.5.0
 - pkg:maven/com.liferay/com.liferay.exportimport.service@4.5.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.service@4.5.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.33
+- pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.33?classifier=sources-commercial

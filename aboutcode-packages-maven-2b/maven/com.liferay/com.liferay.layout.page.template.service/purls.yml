@@ -163,3 +163,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@1.0.36
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@1.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@1.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@2.1.22
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@2.1.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@2.1.22?classifier=sources-commercial
