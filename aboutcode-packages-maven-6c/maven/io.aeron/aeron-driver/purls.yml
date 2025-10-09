@@ -3,3 +3,4 @@
 - pkg:maven/io.aeron/aeron-driver@0.9.7?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@0.9.8?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@0.9.9?classifier=sources
+- pkg:maven/io.aeron/aeron-driver@1.0?classifier=sources

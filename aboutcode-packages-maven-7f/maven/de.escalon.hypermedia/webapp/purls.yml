@@ -32,3 +32,5 @@
 - pkg:maven/de.escalon.hypermedia/webapp@0.3.0-beta4?classifier=sources
 - pkg:maven/de.escalon.hypermedia/webapp@0.3.0-beta3?type=war
 - pkg:maven/de.escalon.hypermedia/webapp@0.3.0-beta3?classifier=sources
+- pkg:maven/de.escalon.hypermedia/webapp@0.3.0-beta5?type=war
+- pkg:maven/de.escalon.hypermedia/webapp@0.3.0-beta5?classifier=sources

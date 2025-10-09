@@ -52,3 +52,5 @@
 - pkg:maven/com.netflix.metacat/metacat-user-metadata-mysql@0.1.26?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-user-metadata-mysql@0.1.25
 - pkg:maven/com.netflix.metacat/metacat-user-metadata-mysql@0.1.25?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-user-metadata-mysql@0.1.27
+- pkg:maven/com.netflix.metacat/metacat-user-metadata-mysql@0.1.27?classifier=sources

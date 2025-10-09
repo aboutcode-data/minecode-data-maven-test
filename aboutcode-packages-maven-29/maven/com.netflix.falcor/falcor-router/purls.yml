@@ -110,3 +110,7 @@
 - pkg:maven/com.netflix.falcor/falcor-router@0.52.0?classifier=sources
 - pkg:maven/com.netflix.falcor/falcor-router@0.55.0
 - pkg:maven/com.netflix.falcor/falcor-router@0.55.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-router@0.57.0
+- pkg:maven/com.netflix.falcor/falcor-router@0.57.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-router@0.56.0
+- pkg:maven/com.netflix.falcor/falcor-router@0.56.0?classifier=sources

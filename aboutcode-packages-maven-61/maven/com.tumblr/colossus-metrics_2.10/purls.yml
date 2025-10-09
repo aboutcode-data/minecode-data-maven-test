@@ -106,3 +106,5 @@
 - pkg:maven/com.tumblr/colossus-metrics_2.10@0.8.0?classifier=sources
 - pkg:maven/com.tumblr/colossus-metrics_2.10@0.7.3
 - pkg:maven/com.tumblr/colossus-metrics_2.10@0.7.3?classifier=sources
+- pkg:maven/com.tumblr/colossus-metrics_2.10@0.8.1-RC1
+- pkg:maven/com.tumblr/colossus-metrics_2.10@0.8.1-RC1?classifier=sources
