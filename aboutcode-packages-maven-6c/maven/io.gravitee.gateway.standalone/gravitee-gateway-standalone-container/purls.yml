@@ -178,3 +178,5 @@
 - pkg:maven/io.gravitee.gateway.standalone/gravitee-gateway-standalone-container@1.18.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.standalone/gravitee-gateway-standalone-container@1.15.8
 - pkg:maven/io.gravitee.gateway.standalone/gravitee-gateway-standalone-container@1.15.8?classifier=sources
+- pkg:maven/io.gravitee.gateway.standalone/gravitee-gateway-standalone-container@1.18.3
+- pkg:maven/io.gravitee.gateway.standalone/gravitee-gateway-standalone-container@1.18.3?classifier=sources

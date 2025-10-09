@@ -200,3 +200,7 @@
 - pkg:maven/io.fabric8/kubernetes-model-annotator@3.0.2?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-model-annotator@3.0.3
 - pkg:maven/io.fabric8/kubernetes-model-annotator@3.0.3?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-model-annotator@1.0.69
+- pkg:maven/io.fabric8/kubernetes-model-annotator@1.0.69?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-model-annotator@1.0.68
+- pkg:maven/io.fabric8/kubernetes-model-annotator@1.0.68?classifier=sources
