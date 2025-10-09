@@ -14,3 +14,5 @@
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.4.0-alpha10?classifier=sources
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.4.0-beta
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.4.0-beta?classifier=sources
+- pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.4.0
+- pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.4.0?classifier=sources

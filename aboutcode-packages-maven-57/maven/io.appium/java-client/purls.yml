@@ -78,3 +78,5 @@
 - pkg:maven/io.appium/java-client@5.0.3?classifier=sources
 - pkg:maven/io.appium/java-client@5.0.4
 - pkg:maven/io.appium/java-client@5.0.4?classifier=sources
+- pkg:maven/io.appium/java-client@6.0.0-BETA1
+- pkg:maven/io.appium/java-client@6.0.0-BETA1?classifier=sources

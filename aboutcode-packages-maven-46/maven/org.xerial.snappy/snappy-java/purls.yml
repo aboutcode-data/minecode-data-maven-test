@@ -114,3 +114,5 @@
 - pkg:maven/org.xerial.snappy/snappy-java@1.1.4?classifier=sources
 - pkg:maven/org.xerial.snappy/snappy-java@1.1.7
 - pkg:maven/org.xerial.snappy/snappy-java@1.1.7?classifier=sources
+- pkg:maven/org.xerial.snappy/snappy-java@1.1.7.1
+- pkg:maven/org.xerial.snappy/snappy-java@1.1.7.1?classifier=sources
