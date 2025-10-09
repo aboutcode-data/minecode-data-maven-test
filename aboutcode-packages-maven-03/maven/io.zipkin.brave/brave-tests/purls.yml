@@ -104,3 +104,5 @@
 - pkg:maven/io.zipkin.brave/brave-tests@5.4.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-tests@4.13.6
 - pkg:maven/io.zipkin.brave/brave-tests@4.13.6?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-tests@5.4.3
+- pkg:maven/io.zipkin.brave/brave-tests@5.4.3?classifier=sources

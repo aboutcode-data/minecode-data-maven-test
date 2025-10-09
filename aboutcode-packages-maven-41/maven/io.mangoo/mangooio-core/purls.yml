@@ -342,3 +342,9 @@
 - pkg:maven/io.mangoo/mangooio-core@4.16.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@4.17.0
 - pkg:maven/io.mangoo/mangooio-core@4.17.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@5.0.0-Alpha3
+- pkg:maven/io.mangoo/mangooio-core@5.0.0-Alpha3?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@5.0.0-Alpha2
+- pkg:maven/io.mangoo/mangooio-core@5.0.0-Alpha2?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@5.0.0-Alpha1
+- pkg:maven/io.mangoo/mangooio-core@5.0.0-Alpha1?classifier=sources
