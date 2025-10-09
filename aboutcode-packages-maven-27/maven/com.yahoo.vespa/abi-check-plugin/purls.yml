@@ -39,3 +39,8 @@
 - pkg:maven/com.yahoo.vespa/abi-check-plugin@7.22.18
 - pkg:maven/com.yahoo.vespa/abi-check-plugin@7.22.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/abi-check-plugin@7.26.19
+- pkg:maven/com.yahoo.vespa/abi-check-plugin@7.26.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/abi-check-plugin@7.25.26
+- pkg:maven/com.yahoo.vespa/abi-check-plugin@7.25.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/abi-check-plugin@7.24.27
+- pkg:maven/com.yahoo.vespa/abi-check-plugin@7.24.27?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.5.3?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.5.4
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.5.4?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.6.0
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-lib@1.6.0?classifier=sources

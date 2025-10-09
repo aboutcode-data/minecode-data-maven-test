@@ -26,3 +26,7 @@
 - pkg:maven/com.uqpay.sdk/uqpay-payment@1.10.8?classifier=sources
 - pkg:maven/com.uqpay.sdk/uqpay-payment@3.1.0
 - pkg:maven/com.uqpay.sdk/uqpay-payment@3.1.0?classifier=sources
+- pkg:maven/com.uqpay.sdk/uqpay-payment@4.0.0
+- pkg:maven/com.uqpay.sdk/uqpay-payment@4.0.0?classifier=sources
+- pkg:maven/com.uqpay.sdk/uqpay-payment@3.2.0
+- pkg:maven/com.uqpay.sdk/uqpay-payment@3.2.0?classifier=sources

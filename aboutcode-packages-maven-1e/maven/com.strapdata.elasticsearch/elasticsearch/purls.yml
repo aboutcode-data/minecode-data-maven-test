@@ -6,3 +6,5 @@
 - pkg:maven/com.strapdata.elasticsearch/elasticsearch@5.5.0?classifier=sources
 - pkg:maven/com.strapdata.elasticsearch/elasticsearch@6.2.3.11
 - pkg:maven/com.strapdata.elasticsearch/elasticsearch@6.2.3.11?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch/elasticsearch@6.2.3.12
+- pkg:maven/com.strapdata.elasticsearch/elasticsearch@6.2.3.12?classifier=sources
