@@ -32,3 +32,5 @@
 - pkg:maven/net.snowflake/snowflake-common@3.1.16?classifier=sources
 - pkg:maven/net.snowflake/snowflake-common@3.1.17
 - pkg:maven/net.snowflake/snowflake-common@3.1.17?classifier=sources
+- pkg:maven/net.snowflake/snowflake-common@3.1.19
+- pkg:maven/net.snowflake/snowflake-common@3.1.19?classifier=sources

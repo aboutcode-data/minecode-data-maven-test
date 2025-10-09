@@ -4,3 +4,5 @@
 - pkg:maven/mobi.stos/httplib@2?classifier=sources
 - pkg:maven/mobi.stos/httplib@3?type=aar
 - pkg:maven/mobi.stos/httplib@3?classifier=sources
+- pkg:maven/mobi.stos/httplib@4?type=aar
+- pkg:maven/mobi.stos/httplib@4?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-internal@0.18.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-internal@0.18.2
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-internal@0.18.2?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-internal@1.0.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-internal@1.0.0?classifier=sources
