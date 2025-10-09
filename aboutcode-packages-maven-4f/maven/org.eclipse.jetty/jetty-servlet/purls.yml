@@ -538,3 +538,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-servlet@9.4.24.v20191120?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-servlet@9.4.23.v20191118
 - pkg:maven/org.eclipse.jetty/jetty-servlet@9.4.23.v20191118?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-servlet@10.0.0.alpha1
+- pkg:maven/org.eclipse.jetty/jetty-servlet@10.0.0.alpha1?classifier=sources

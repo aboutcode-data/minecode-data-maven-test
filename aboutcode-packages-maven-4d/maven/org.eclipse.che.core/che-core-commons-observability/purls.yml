@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.che.core/che-core-commons-observability@7.4.0
 - pkg:maven/org.eclipse.che.core/che-core-commons-observability@7.4.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-commons-observability@7.5.0
+- pkg:maven/org.eclipse.che.core/che-core-commons-observability@7.5.0?classifier=sources

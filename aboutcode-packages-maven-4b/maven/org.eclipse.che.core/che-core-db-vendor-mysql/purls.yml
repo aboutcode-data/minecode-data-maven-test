@@ -76,3 +76,5 @@
 - pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@7.4.0?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@7.3.2
 - pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@7.3.2?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@7.5.0
+- pkg:maven/org.eclipse.che.core/che-core-db-vendor-mysql@7.5.0?classifier=sources
