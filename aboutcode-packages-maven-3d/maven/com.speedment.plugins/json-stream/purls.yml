@@ -1,2 +1,4 @@
 - pkg:maven/com.speedment.plugins/json-stream@3.0.0-EA
 - pkg:maven/com.speedment.plugins/json-stream@3.0.0-EA?classifier=sources
+- pkg:maven/com.speedment.plugins/json-stream@3.0.0-EA2
+- pkg:maven/com.speedment.plugins/json-stream@3.0.0-EA2?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.uber.jaeger/jaeger-crossdock@0.13.0?classifier=sources
 - pkg:maven/com.uber.jaeger/jaeger-crossdock@0.12.0
 - pkg:maven/com.uber.jaeger/jaeger-crossdock@0.12.0?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-crossdock@0.14.0
+- pkg:maven/com.uber.jaeger/jaeger-crossdock@0.14.0?classifier=sources
