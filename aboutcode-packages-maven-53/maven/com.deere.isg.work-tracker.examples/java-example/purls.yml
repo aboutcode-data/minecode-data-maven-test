@@ -6,3 +6,7 @@
 - pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc5?classifier=sources
 - pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc6?type=war
 - pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc6?classifier=sources
+- pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc8?type=war
+- pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc8?classifier=sources
+- pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc7?type=war
+- pkg:maven/com.deere.isg.work-tracker.examples/java-example@1.0.0-rc7?classifier=sources

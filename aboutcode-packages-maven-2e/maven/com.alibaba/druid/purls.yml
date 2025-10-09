@@ -162,3 +162,5 @@
 - pkg:maven/com.alibaba/druid@1.1.12?classifier=sources
 - pkg:maven/com.alibaba/druid@1.0.25.2018101301
 - pkg:maven/com.alibaba/druid@1.0.25.2018101301?classifier=sources
+- pkg:maven/com.alibaba/druid@1.1.13
+- pkg:maven/com.alibaba/druid@1.1.13?classifier=sources
