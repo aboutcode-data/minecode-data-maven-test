@@ -450,3 +450,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-client@9.3.22.v20171030?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-client@9.4.8.v20171121
 - pkg:maven/org.eclipse.jetty/jetty-client@9.4.8.v20171121?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-client@9.2.23.v20171218
+- pkg:maven/org.eclipse.jetty/jetty-client@9.2.23.v20171218?classifier=sources
