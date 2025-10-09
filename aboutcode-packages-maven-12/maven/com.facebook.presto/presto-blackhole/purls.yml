@@ -30,3 +30,5 @@
 - pkg:maven/com.facebook.presto/presto-blackhole@0.137?classifier=sources
 - pkg:maven/com.facebook.presto/presto-blackhole@0.138?classifier=sources
 - pkg:maven/com.facebook.presto/presto-blackhole@0.139?classifier=sources
+- pkg:maven/com.facebook.presto/presto-blackhole@0.141?classifier=sources
+- pkg:maven/com.facebook.presto/presto-blackhole@0.140?classifier=sources

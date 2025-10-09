@@ -60,3 +60,5 @@
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.7?classifier=sources
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.9
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.9?classifier=sources
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.10
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.10?classifier=sources
