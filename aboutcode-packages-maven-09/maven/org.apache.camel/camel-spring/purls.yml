@@ -120,3 +120,4 @@
 - pkg:maven/org.apache.camel/camel-spring@2.23.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.22.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.21.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@3.0.0-M1?classifier=sources
