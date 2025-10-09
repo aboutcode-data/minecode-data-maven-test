@@ -22,3 +22,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.11.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.12.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.12.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.13.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerinstance@1.13.0?classifier=sources

@@ -225,3 +225,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.12
 - pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.21
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.20
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@1.0.72
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@1.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.admin.web@1.0.72?classifier=sources-commercial
