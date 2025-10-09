@@ -56,3 +56,5 @@
 - pkg:maven/org.keycloak/keycloak-events-mongo@1.8.0.CR2?classifier=sources
 - pkg:maven/org.keycloak/keycloak-events-mongo@1.8.0.Final
 - pkg:maven/org.keycloak/keycloak-events-mongo@1.8.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-events-mongo@1.8.1.Final
+- pkg:maven/org.keycloak/keycloak-events-mongo@1.8.1.Final?classifier=sources
