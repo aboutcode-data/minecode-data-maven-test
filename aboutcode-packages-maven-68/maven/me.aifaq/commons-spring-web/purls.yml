@@ -1,2 +1,4 @@
 - pkg:maven/me.aifaq/commons-spring-web@0.2
 - pkg:maven/me.aifaq/commons-spring-web@0.2?classifier=sources
+- pkg:maven/me.aifaq/commons-spring-web@0.3
+- pkg:maven/me.aifaq/commons-spring-web@0.3?classifier=sources

@@ -246,3 +246,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-tribes@9.0.0.M25?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-tribes@8.5.19
 - pkg:maven/org.apache.tomcat/tomcat-tribes@8.5.19?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-tribes@9.0.0.M26
+- pkg:maven/org.apache.tomcat/tomcat-tribes@9.0.0.M26?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-tribes@8.5.20
+- pkg:maven/org.apache.tomcat/tomcat-tribes@8.5.20?classifier=sources

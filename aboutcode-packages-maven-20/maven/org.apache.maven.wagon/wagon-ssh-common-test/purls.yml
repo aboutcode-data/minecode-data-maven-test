@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.maven.wagon/wagon-ssh-common-test@2.10?classifier=sources
 - pkg:maven/org.apache.maven.wagon/wagon-ssh-common-test@2.12
 - pkg:maven/org.apache.maven.wagon/wagon-ssh-common-test@2.12?classifier=sources
+- pkg:maven/org.apache.maven.wagon/wagon-ssh-common-test@3.0.0
+- pkg:maven/org.apache.maven.wagon/wagon-ssh-common-test@3.0.0?classifier=sources

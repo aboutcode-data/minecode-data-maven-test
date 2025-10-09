@@ -74,3 +74,5 @@
 - pkg:maven/org.apache.karaf.jndi/org.apache.karaf.jndi.core@4.1.1?classifier=sources
 - pkg:maven/org.apache.karaf.jndi/org.apache.karaf.jndi.core@4.0.9
 - pkg:maven/org.apache.karaf.jndi/org.apache.karaf.jndi.core@4.0.9?classifier=sources
+- pkg:maven/org.apache.karaf.jndi/org.apache.karaf.jndi.core@4.1.2
+- pkg:maven/org.apache.karaf.jndi/org.apache.karaf.jndi.core@4.1.2?classifier=sources

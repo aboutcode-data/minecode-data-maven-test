@@ -1,2 +1,4 @@
 - pkg:maven/org.aksw.rdfunit/rdfunit-w3c-dqv@0.8
 - pkg:maven/org.aksw.rdfunit/rdfunit-w3c-dqv@0.8?classifier=sources
+- pkg:maven/org.aksw.rdfunit/rdfunit-w3c-dqv@0.8.1
+- pkg:maven/org.aksw.rdfunit/rdfunit-w3c-dqv@0.8.1?classifier=sources
