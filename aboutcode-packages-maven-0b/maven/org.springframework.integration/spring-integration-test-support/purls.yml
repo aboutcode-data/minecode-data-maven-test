@@ -24,3 +24,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.1.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.0.10.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.0.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-test-support@5.1.2.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-test-support@5.1.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-test-support@5.0.11.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-test-support@5.0.11.RELEASE?classifier=sources

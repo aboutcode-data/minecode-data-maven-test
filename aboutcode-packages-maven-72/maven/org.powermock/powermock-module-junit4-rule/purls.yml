@@ -60,3 +60,5 @@
 - pkg:maven/org.powermock/powermock-module-junit4-rule@2.0.0-RC.3?classifier=sources
 - pkg:maven/org.powermock/powermock-module-junit4-rule@2.0.0-RC.4
 - pkg:maven/org.powermock/powermock-module-junit4-rule@2.0.0-RC.4?classifier=sources
+- pkg:maven/org.powermock/powermock-module-junit4-rule@2.0.0
+- pkg:maven/org.powermock/powermock-module-junit4-rule@2.0.0?classifier=sources

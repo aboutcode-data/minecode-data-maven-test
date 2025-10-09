@@ -1,2 +1,4 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-api@0.15.3
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding2-api@0.15.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding2-api@0.15.4
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding2-api@0.15.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-restconf@2013.10.19.15.3
 - pkg:maven/org.opendaylight.mdsal.model/ietf-restconf@2013.10.19.15.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-restconf@2013.10.19.15.4
+- pkg:maven/org.opendaylight.mdsal.model/ietf-restconf@2013.10.19.15.4?classifier=sources

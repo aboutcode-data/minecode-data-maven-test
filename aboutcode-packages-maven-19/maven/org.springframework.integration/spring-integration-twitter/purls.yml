@@ -182,3 +182,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-twitter@5.0.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-twitter@4.3.18.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-twitter@4.3.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-twitter@5.0.11.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-twitter@5.0.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-twitter@4.3.19.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-twitter@4.3.19.RELEASE?classifier=sources

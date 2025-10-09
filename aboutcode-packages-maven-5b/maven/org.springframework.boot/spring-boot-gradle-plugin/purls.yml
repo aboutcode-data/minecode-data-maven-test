@@ -130,3 +130,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@2.0.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@1.5.18.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@1.5.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@2.1.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@2.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@1.5.19.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-plugin@1.5.19.RELEASE?classifier=sources
