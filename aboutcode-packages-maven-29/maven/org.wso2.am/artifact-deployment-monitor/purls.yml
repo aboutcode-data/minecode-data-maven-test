@@ -46,3 +46,5 @@
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@2.2.0-update7?classifier=sources
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@2.5.0-Alpha?type=war
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@2.5.0-Alpha?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.5.0-Beta?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.5.0-Beta?classifier=sources

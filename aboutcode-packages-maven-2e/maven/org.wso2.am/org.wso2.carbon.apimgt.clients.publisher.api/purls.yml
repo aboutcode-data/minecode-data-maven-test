@@ -38,3 +38,5 @@
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.clients.publisher.api@2.2.0-update7?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.clients.publisher.api@2.5.0-Alpha
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.clients.publisher.api@2.5.0-Alpha?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.clients.publisher.api@2.5.0-Beta
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.clients.publisher.api@2.5.0-Beta?classifier=sources

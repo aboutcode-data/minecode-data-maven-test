@@ -91,3 +91,5 @@
 - pkg:maven/org.smallmind/forge-deploy@3.2.3?classifier=sources
 - pkg:maven/org.smallmind/forge-deploy@3.3.0
 - pkg:maven/org.smallmind/forge-deploy@3.3.0?classifier=sources
+- pkg:maven/org.smallmind/forge-deploy@3.3.1
+- pkg:maven/org.smallmind/forge-deploy@3.3.1?classifier=sources

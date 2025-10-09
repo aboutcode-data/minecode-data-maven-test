@@ -6,3 +6,5 @@
 - pkg:maven/org.sessl/sessl-integration@0.15?classifier=sources
 - pkg:maven/org.sessl/sessl-integration@0.16
 - pkg:maven/org.sessl/sessl-integration@0.16?classifier=sources
+- pkg:maven/org.sessl/sessl-integration@0.17
+- pkg:maven/org.sessl/sessl-integration@0.17?classifier=sources

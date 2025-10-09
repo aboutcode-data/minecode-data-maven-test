@@ -64,3 +64,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-tracing-elasticsearch@0.88.4?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-tracing-elasticsearch@0.87.10
 - pkg:maven/org.stagemonitor/stagemonitor-tracing-elasticsearch@0.87.10?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-tracing-elasticsearch@0.87.11
+- pkg:maven/org.stagemonitor/stagemonitor-tracing-elasticsearch@0.87.11?classifier=sources
