@@ -71,3 +71,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.27.1
 - pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.28.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.28.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.29.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-monitor@1.29.0?classifier=sources

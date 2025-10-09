@@ -4,3 +4,5 @@
 - pkg:maven/com.rapid7/r7insight_java@1.1.40?classifier=sources
 - pkg:maven/com.rapid7/r7insight_java@2.0.0
 - pkg:maven/com.rapid7/r7insight_java@2.0.0?classifier=sources
+- pkg:maven/com.rapid7/r7insight_java@3.0.0
+- pkg:maven/com.rapid7/r7insight_java@3.0.0?classifier=sources

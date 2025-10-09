@@ -282,3 +282,7 @@
 - pkg:maven/com.mikepenz/materialdrawer@8.0.0-a01?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer@8.0.0-a02?type=aar
 - pkg:maven/com.mikepenz/materialdrawer@8.0.0-a02?classifier=sources
+- pkg:maven/com.mikepenz/materialdrawer@7.0.0-rc09?type=aar
+- pkg:maven/com.mikepenz/materialdrawer@7.0.0-rc09?classifier=sources
+- pkg:maven/com.mikepenz/materialdrawer@7.0.0?type=aar
+- pkg:maven/com.mikepenz/materialdrawer@7.0.0?classifier=sources
