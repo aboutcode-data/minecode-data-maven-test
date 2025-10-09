@@ -86,3 +86,4 @@
 - pkg:maven/com.facebook.presto/presto-hive-hadoop1@0.139?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-hadoop1@0.141?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-hadoop1@0.140?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-hadoop1@0.142?classifier=sources

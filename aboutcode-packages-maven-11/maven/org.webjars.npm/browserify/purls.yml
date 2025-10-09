@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/browserify@11.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/browserify@13.0.0
 - pkg:maven/org.webjars.npm/browserify@13.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/browserify@9.0.8
+- pkg:maven/org.webjars.npm/browserify@9.0.8?classifier=sources

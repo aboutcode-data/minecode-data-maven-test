@@ -1,2 +1,4 @@
 - pkg:maven/com.atomikos/transactions-tcc-rest-api@4.0.0
 - pkg:maven/com.atomikos/transactions-tcc-rest-api@4.0.0?classifier=sources
+- pkg:maven/com.atomikos/transactions-tcc-rest-api@4.0.1
+- pkg:maven/com.atomikos/transactions-tcc-rest-api@4.0.1?classifier=sources
