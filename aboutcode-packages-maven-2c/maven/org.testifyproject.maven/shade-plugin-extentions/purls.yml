@@ -16,3 +16,5 @@
 - pkg:maven/org.testifyproject.maven/shade-plugin-extentions@0.9.8?classifier=sources
 - pkg:maven/org.testifyproject.maven/shade-plugin-extentions@0.9.9
 - pkg:maven/org.testifyproject.maven/shade-plugin-extentions@0.9.9?classifier=sources
+- pkg:maven/org.testifyproject.maven/shade-plugin-extentions@1.0.0
+- pkg:maven/org.testifyproject.maven/shade-plugin-extentions@1.0.0?classifier=sources

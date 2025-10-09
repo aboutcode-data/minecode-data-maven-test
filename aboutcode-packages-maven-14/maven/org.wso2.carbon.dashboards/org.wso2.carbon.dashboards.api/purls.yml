@@ -48,3 +48,7 @@
 - pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.0.beta4?classifier=sources
 - pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.0.beta3
 - pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.0.beta3?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.3
+- pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.3?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.2
+- pkg:maven/org.wso2.carbon.dashboards/org.wso2.carbon.dashboards.api@4.0.2?classifier=sources

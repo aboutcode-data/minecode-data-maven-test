@@ -28,3 +28,5 @@
 - pkg:maven/ai.grakn/grakn-core@0.18.0?classifier=sources
 - pkg:maven/ai.grakn/grakn-core@0.17.1
 - pkg:maven/ai.grakn/grakn-core@0.17.1?classifier=sources
+- pkg:maven/ai.grakn/grakn-core@1.0.0
+- pkg:maven/ai.grakn/grakn-core@1.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.testifyproject.external/external-snakeyaml@0.9.8?classifier=sources
 - pkg:maven/org.testifyproject.external/external-snakeyaml@0.9.9
 - pkg:maven/org.testifyproject.external/external-snakeyaml@0.9.9?classifier=sources
+- pkg:maven/org.testifyproject.external/external-snakeyaml@1.0.0
+- pkg:maven/org.testifyproject.external/external-snakeyaml@1.0.0?classifier=sources

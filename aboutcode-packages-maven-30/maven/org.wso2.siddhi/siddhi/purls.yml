@@ -77,3 +77,6 @@
 - pkg:maven/org.wso2.siddhi/siddhi@4.0.0-beta18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@4.0.0-beta17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@4.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.siddhi/siddhi@4.0.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.siddhi/siddhi@4.0.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.siddhi/siddhi@4.0.2?classifier=source-release&type=zip
