@@ -14,3 +14,5 @@
 - pkg:maven/io.github.cdimascio/java-dotenv@2.0.0?classifier=sources
 - pkg:maven/io.github.cdimascio/java-dotenv@1.2.0
 - pkg:maven/io.github.cdimascio/java-dotenv@1.2.0?classifier=sources
+- pkg:maven/io.github.cdimascio/java-dotenv@3.0.0
+- pkg:maven/io.github.cdimascio/java-dotenv@3.0.0?classifier=sources

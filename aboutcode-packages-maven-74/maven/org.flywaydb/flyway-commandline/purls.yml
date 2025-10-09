@@ -30,3 +30,5 @@
 - pkg:maven/org.flywaydb/flyway-commandline@5.0.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-commandline@5.0.3?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@5.0.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@5.0.4?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@5.0.4?classifier=sources

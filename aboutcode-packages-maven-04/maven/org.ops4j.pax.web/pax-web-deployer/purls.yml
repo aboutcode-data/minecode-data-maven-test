@@ -232,3 +232,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@6.0.9?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@6.1.0
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@6.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@4.4.2
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@4.4.2?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@4.3.5
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@4.3.5?classifier=sources
