@@ -58,3 +58,5 @@
 - pkg:maven/com.twitter/util-registry_2.12@19.5.0?classifier=sources
 - pkg:maven/com.twitter/util-registry_2.12@19.5.1
 - pkg:maven/com.twitter/util-registry_2.12@19.5.1?classifier=sources
+- pkg:maven/com.twitter/util-registry_2.12@19.6.0
+- pkg:maven/com.twitter/util-registry_2.12@19.6.0?classifier=sources

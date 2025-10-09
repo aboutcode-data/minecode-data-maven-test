@@ -1,2 +1,4 @@
 - pkg:maven/io.aboutcode.stage.persistence.jdbc/core@1.0.0
 - pkg:maven/io.aboutcode.stage.persistence.jdbc/core@1.0.0?classifier=sources
+- pkg:maven/io.aboutcode.stage.persistence.jdbc/core@1.1.0
+- pkg:maven/io.aboutcode.stage.persistence.jdbc/core@1.1.0?classifier=sources
