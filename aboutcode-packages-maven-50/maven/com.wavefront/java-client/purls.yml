@@ -92,3 +92,9 @@
 - pkg:maven/com.wavefront/java-client@4.19?classifier=sources
 - pkg:maven/com.wavefront/java-client@4.20
 - pkg:maven/com.wavefront/java-client@4.20?classifier=sources
+- pkg:maven/com.wavefront/java-client@4.23
+- pkg:maven/com.wavefront/java-client@4.23?classifier=sources
+- pkg:maven/com.wavefront/java-client@4.22
+- pkg:maven/com.wavefront/java-client@4.22?classifier=sources
+- pkg:maven/com.wavefront/java-client@4.21
+- pkg:maven/com.wavefront/java-client@4.21?classifier=sources

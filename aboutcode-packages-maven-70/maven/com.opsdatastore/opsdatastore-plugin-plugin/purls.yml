@@ -8,3 +8,5 @@
 - pkg:maven/com.opsdatastore/opsdatastore-plugin-plugin@1.2.1-RC2?classifier=sources
 - pkg:maven/com.opsdatastore/opsdatastore-plugin-plugin@1.2.1-RC3
 - pkg:maven/com.opsdatastore/opsdatastore-plugin-plugin@1.2.1-RC3?classifier=sources
+- pkg:maven/com.opsdatastore/opsdatastore-plugin-plugin@1.2.1
+- pkg:maven/com.opsdatastore/opsdatastore-plugin-plugin@1.2.1?classifier=sources

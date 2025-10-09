@@ -134,3 +134,7 @@
 - pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.1-okta?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.2-okta
 - pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.2-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.4-okta
+- pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.4-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.3-okta
+- pkg:maven/com.stormpath.sdk/stormpath-servlet-plugin@2.0.3-okta?classifier=sources
