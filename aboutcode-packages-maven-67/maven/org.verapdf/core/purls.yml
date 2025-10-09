@@ -16,3 +16,7 @@
 - pkg:maven/org.verapdf/core@1.12.1?classifier=sources
 - pkg:maven/org.verapdf/core@1.14.1-RC
 - pkg:maven/org.verapdf/core@1.14.1-RC?classifier=sources
+- pkg:maven/org.verapdf/core@1.14.3-RC
+- pkg:maven/org.verapdf/core@1.14.3-RC?classifier=sources
+- pkg:maven/org.verapdf/core@1.14.2-RC
+- pkg:maven/org.verapdf/core@1.14.2-RC?classifier=sources

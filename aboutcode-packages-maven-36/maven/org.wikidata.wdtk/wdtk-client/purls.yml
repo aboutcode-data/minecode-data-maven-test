@@ -10,3 +10,5 @@
 - pkg:maven/org.wikidata.wdtk/wdtk-client@0.8.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-client@0.9.0
 - pkg:maven/org.wikidata.wdtk/wdtk-client@0.9.0?classifier=sources
+- pkg:maven/org.wikidata.wdtk/wdtk-client@0.10.0
+- pkg:maven/org.wikidata.wdtk/wdtk-client@0.10.0?classifier=sources

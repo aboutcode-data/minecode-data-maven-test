@@ -72,3 +72,5 @@
 - pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.authenticator.federated@2.0.1?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.authenticator.federated@2.0.0
 - pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.authenticator.federated@2.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.authenticator.federated@3.0.22
+- pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.authenticator.federated@3.0.22?classifier=sources

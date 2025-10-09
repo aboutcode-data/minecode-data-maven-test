@@ -86,3 +86,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621222
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621222?classifier=sources

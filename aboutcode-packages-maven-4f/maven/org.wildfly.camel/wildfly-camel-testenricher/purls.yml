@@ -74,3 +74,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@10.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@10.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@10.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621222
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621222?classifier=sources

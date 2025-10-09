@@ -61,3 +61,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@9.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@10.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@10.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621222
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621222?classifier=sources

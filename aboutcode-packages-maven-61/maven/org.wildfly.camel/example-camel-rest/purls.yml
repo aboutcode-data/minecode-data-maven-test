@@ -30,3 +30,5 @@
 - pkg:maven/org.wildfly.camel/example-camel-rest@2.3.0.redhat-621211?classifier=sources
 - pkg:maven/org.wildfly.camel/example-camel-rest@2.3.0.redhat-621177?type=war
 - pkg:maven/org.wildfly.camel/example-camel-rest@2.3.0.redhat-621177?classifier=sources
+- pkg:maven/org.wildfly.camel/example-camel-rest@2.3.0.redhat-621222?type=war
+- pkg:maven/org.wildfly.camel/example-camel-rest@2.3.0.redhat-621222?classifier=sources
