@@ -4,3 +4,5 @@
 - pkg:maven/org.vx68k.bitbucket/bitbucket-api-client-webapp@5.0-alpha.3?classifier=sources
 - pkg:maven/org.vx68k.bitbucket/bitbucket-api-client-webapp@5.0-alpha.2?type=war
 - pkg:maven/org.vx68k.bitbucket/bitbucket-api-client-webapp@5.0-alpha.2?classifier=sources
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client-webapp@5.0-alpha.4?type=war
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client-webapp@5.0-alpha.4?classifier=sources

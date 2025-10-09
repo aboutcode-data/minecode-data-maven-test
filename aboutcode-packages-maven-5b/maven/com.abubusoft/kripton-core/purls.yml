@@ -92,3 +92,5 @@
 - pkg:maven/com.abubusoft/kripton-core@5.0.0-rc.4?classifier=sources
 - pkg:maven/com.abubusoft/kripton-core@5.0.0-rc.5
 - pkg:maven/com.abubusoft/kripton-core@5.0.0-rc.5?classifier=sources
+- pkg:maven/com.abubusoft/kripton-core@5.0.0
+- pkg:maven/com.abubusoft/kripton-core@5.0.0?classifier=sources

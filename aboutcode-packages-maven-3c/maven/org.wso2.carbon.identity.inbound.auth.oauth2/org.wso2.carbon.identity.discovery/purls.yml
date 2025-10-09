@@ -610,3 +610,7 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.57?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.56
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.56?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.60
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.60?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.59
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.discovery@6.0.59?classifier=sources

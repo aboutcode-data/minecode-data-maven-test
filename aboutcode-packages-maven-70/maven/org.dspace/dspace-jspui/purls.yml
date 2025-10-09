@@ -87,3 +87,5 @@
 - pkg:maven/org.dspace/dspace-jspui@5.9?classifier=sources
 - pkg:maven/org.dspace/dspace-jspui@4.9?type=war
 - pkg:maven/org.dspace/dspace-jspui@4.9?classifier=sources
+- pkg:maven/org.dspace/dspace-jspui@5.10?type=war
+- pkg:maven/org.dspace/dspace-jspui@5.10?classifier=sources

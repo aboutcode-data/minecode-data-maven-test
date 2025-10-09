@@ -8,3 +8,5 @@
 - pkg:maven/ch.squaredesk.nova/websockets@5.2.0?classifier=sources
 - pkg:maven/ch.squaredesk.nova/websockets@5.3.0
 - pkg:maven/ch.squaredesk.nova/websockets@5.3.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/websockets@6.0.0
+- pkg:maven/ch.squaredesk.nova/websockets@6.0.0?classifier=sources

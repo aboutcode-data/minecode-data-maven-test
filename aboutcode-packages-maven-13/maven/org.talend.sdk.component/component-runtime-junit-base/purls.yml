@@ -32,3 +32,5 @@
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.0.2?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.0.4
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.0.4?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.1.0
+- pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.1.0?classifier=sources

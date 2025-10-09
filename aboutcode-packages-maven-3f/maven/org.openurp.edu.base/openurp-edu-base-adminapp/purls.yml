@@ -18,3 +18,5 @@
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.8?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.10?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.10?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.12?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.12?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.7.0-RC4?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.7.0-RC3?type=war
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.7.0-RC3?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.7.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/road-traffic-demo@1.7.0?classifier=sources
