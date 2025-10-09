@@ -108,3 +108,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet-bridge@2.14.6-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet-bridge@2.14.7-01
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet-bridge@2.14.7-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restlet-bridge@2.14.8-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restlet-bridge@2.14.8-01?classifier=sources

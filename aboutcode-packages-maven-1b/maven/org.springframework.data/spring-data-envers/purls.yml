@@ -60,3 +60,5 @@
 - pkg:maven/org.springframework.data/spring-data-envers@1.1.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-envers@2.0.4.RELEASE
 - pkg:maven/org.springframework.data/spring-data-envers@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-envers@2.0.5.RELEASE
+- pkg:maven/org.springframework.data/spring-data-envers@2.0.5.RELEASE?classifier=sources

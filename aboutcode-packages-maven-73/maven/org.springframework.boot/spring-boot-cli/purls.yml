@@ -104,3 +104,5 @@
 - pkg:maven/org.springframework.boot/spring-boot-cli@1.5.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-cli@1.5.10.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-cli@1.5.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-cli@2.0.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-cli@2.0.0.RELEASE?classifier=sources
