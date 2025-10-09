@@ -18,3 +18,7 @@
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.6?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.7
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.7?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@3.8
+- pkg:maven/de.adorsys.ledgers/gateway-app@3.8?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@3.6.1
+- pkg:maven/de.adorsys.ledgers/gateway-app@3.6.1?classifier=sources

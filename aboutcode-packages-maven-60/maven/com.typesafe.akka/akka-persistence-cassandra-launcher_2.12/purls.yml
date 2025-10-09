@@ -64,3 +64,5 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.12@0.98?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.12@0.62
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.12@0.62?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.12@0.99
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.12@0.99?classifier=sources

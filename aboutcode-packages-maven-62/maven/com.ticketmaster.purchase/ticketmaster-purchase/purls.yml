@@ -28,3 +28,5 @@
 - pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.0.7.2?classifier=sources
 - pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.0.7.4?type=aar
 - pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.0.7.4?classifier=sources
+- pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.0.9?type=aar
+- pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.0.9?classifier=sources

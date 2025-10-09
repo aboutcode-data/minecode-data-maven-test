@@ -90,3 +90,7 @@
 - pkg:maven/de.adorsys.psd2/xs2a-core@3.7?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-core@2.9
 - pkg:maven/de.adorsys.psd2/xs2a-core@2.9?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-core@3.8
+- pkg:maven/de.adorsys.psd2/xs2a-core@3.8?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-core@2.10
+- pkg:maven/de.adorsys.psd2/xs2a-core@2.10?classifier=sources

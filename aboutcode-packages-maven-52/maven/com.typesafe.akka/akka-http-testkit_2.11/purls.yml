@@ -92,3 +92,5 @@
 - pkg:maven/com.typesafe.akka/akka-http-testkit_2.11@10.0.15?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-testkit_2.11@10.1.8
 - pkg:maven/com.typesafe.akka/akka-http-testkit_2.11@10.1.8?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-testkit_2.11@10.1.9
+- pkg:maven/com.typesafe.akka/akka-http-testkit_2.11@10.1.9?classifier=sources
