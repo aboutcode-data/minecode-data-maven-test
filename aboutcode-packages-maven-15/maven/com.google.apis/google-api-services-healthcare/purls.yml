@@ -28,3 +28,9 @@
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev20190321-1.27.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev20190321-1.26.0
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev20190321-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha2-rev20190325-1.28.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha2-rev20190325-1.28.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha2-rev20190325-1.27.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha2-rev20190325-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha2-rev20190325-1.26.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha2-rev20190325-1.26.0?classifier=sources

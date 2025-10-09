@@ -103,3 +103,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@2.0.15
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@2.0.16
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@1.0.21
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@1.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.service@1.0.21?classifier=sources-commercial

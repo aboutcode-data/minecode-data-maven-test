@@ -213,3 +213,5 @@
 - pkg:maven/com.indeed/proctor-codegen-test@1.2.4?classifier=sources
 - pkg:maven/com.indeed/proctor-codegen-test@1.2.8
 - pkg:maven/com.indeed/proctor-codegen-test@1.2.8?classifier=sources
+- pkg:maven/com.indeed/proctor-codegen-test@1.2.9
+- pkg:maven/com.indeed/proctor-codegen-test@1.2.9?classifier=sources
