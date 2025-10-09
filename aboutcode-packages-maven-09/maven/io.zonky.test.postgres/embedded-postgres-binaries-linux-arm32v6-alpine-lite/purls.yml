@@ -26,3 +26,5 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@11.5.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@10.10.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@10.10.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@12.0.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@12.0.0?classifier=sources

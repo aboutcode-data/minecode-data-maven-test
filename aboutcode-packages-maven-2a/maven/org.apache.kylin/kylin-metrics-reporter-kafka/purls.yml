@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.kylin/kylin-metrics-reporter-kafka@2.6.3?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-metrics-reporter-kafka@3.0.0-alpha2
 - pkg:maven/org.apache.kylin/kylin-metrics-reporter-kafka@3.0.0-alpha2?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-metrics-reporter-kafka@2.6.4
+- pkg:maven/org.apache.kylin/kylin-metrics-reporter-kafka@2.6.4?classifier=sources

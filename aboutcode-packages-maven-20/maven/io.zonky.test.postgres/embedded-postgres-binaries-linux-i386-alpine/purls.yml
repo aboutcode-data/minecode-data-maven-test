@@ -82,3 +82,5 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine@11.5.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine@10.10.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine@10.10.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine@12.0.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine@12.0.0?classifier=sources

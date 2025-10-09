@@ -13,3 +13,5 @@
 - pkg:maven/io.siddhi.distribution/io.siddhi.distribution.event.simulator.core@5.1.0-beta
 - pkg:maven/io.siddhi.distribution/io.siddhi.distribution.event.simulator.core@5.1.0-alpha
 - pkg:maven/io.siddhi.distribution/io.siddhi.distribution.event.simulator.core@5.1.0-alpha?classifier=sources
+- pkg:maven/io.siddhi.distribution/io.siddhi.distribution.event.simulator.core@5.1.0
+- pkg:maven/io.siddhi.distribution/io.siddhi.distribution.event.simulator.core@5.1.0?classifier=sources

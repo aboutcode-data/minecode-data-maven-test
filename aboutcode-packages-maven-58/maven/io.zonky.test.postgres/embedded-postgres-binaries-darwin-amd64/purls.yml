@@ -82,3 +82,5 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-amd64@11.5.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-amd64@10.10.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-amd64@10.10.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-amd64@12.0.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-amd64@12.0.0?classifier=sources

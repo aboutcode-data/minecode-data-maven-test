@@ -240,3 +240,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket@9.0.26?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket@8.5.46
 - pkg:maven/org.apache.tomcat/tomcat-websocket@8.5.46?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket@9.0.27
+- pkg:maven/org.apache.tomcat/tomcat-websocket@9.0.27?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket@8.5.47
+- pkg:maven/org.apache.tomcat/tomcat-websocket@8.5.47?classifier=sources
