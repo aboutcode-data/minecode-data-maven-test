@@ -24,3 +24,9 @@
 - pkg:maven/com.sun.istack/istack-commons-soimp@2.20?classifier=sources
 - pkg:maven/com.sun.istack/istack-commons-soimp@2.22
 - pkg:maven/com.sun.istack/istack-commons-soimp@2.22?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-soimp@3.0
+- pkg:maven/com.sun.istack/istack-commons-soimp@3.0?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-soimp@2.24
+- pkg:maven/com.sun.istack/istack-commons-soimp@2.24?classifier=sources
+- pkg:maven/com.sun.istack/istack-commons-soimp@2.23
+- pkg:maven/com.sun.istack/istack-commons-soimp@2.23?classifier=sources
