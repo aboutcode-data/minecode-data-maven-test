@@ -126,3 +126,5 @@
 - pkg:maven/org.apache.karaf/apache-karaf@4.0.9?classifier=src&type=tar.gz
 - pkg:maven/org.apache.karaf/apache-karaf@4.1.2?classifier=src&type=zip
 - pkg:maven/org.apache.karaf/apache-karaf@4.1.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf/apache-karaf@4.0.10?classifier=src&type=zip
+- pkg:maven/org.apache.karaf/apache-karaf@4.0.10?classifier=src&type=tar.gz

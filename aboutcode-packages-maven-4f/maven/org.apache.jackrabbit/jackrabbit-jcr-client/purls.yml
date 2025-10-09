@@ -222,3 +222,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-client@2.15.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-client@2.14.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-client@2.14.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-client@2.8.6
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-client@2.8.6?classifier=sources

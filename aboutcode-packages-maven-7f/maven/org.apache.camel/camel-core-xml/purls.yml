@@ -168,3 +168,5 @@
 - pkg:maven/org.apache.camel/camel-core-xml@2.19.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-core-xml@2.19.3
 - pkg:maven/org.apache.camel/camel-core-xml@2.19.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-core-xml@2.18.5
+- pkg:maven/org.apache.camel/camel-core-xml@2.18.5?classifier=sources

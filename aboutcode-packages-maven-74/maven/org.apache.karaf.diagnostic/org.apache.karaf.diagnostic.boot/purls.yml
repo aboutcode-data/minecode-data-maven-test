@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.boot@4.0.9?classifier=sources
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.boot@4.1.2
 - pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.boot@4.1.2?classifier=sources
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.boot@4.0.10
+- pkg:maven/org.apache.karaf.diagnostic/org.apache.karaf.diagnostic.boot@4.0.10?classifier=sources

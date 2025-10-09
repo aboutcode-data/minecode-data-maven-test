@@ -110,3 +110,5 @@
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.kar@4.0.9?classifier=sources
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.kar@4.1.2
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.kar@4.1.2?classifier=sources
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.kar@4.0.10
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.kar@4.0.10?classifier=sources
