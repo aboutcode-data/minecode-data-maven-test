@@ -318,3 +318,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-message@7.4.5?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-message@8.3-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-message@8.3-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-message@8.3
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-message@8.3?classifier=sources

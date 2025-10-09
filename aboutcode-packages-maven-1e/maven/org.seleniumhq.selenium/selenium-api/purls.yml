@@ -152,3 +152,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-api@3.0.0-beta3?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-api@3.0.0-beta4
 - pkg:maven/org.seleniumhq.selenium/selenium-api@3.0.0-beta4?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-api@3.0.0
+- pkg:maven/org.seleniumhq.selenium/selenium-api@3.0.0?classifier=sources
