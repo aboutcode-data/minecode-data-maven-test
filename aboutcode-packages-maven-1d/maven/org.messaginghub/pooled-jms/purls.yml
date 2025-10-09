@@ -14,3 +14,5 @@
 - pkg:maven/org.messaginghub/pooled-jms@0.5.2?classifier=sources
 - pkg:maven/org.messaginghub/pooled-jms@1.0.0
 - pkg:maven/org.messaginghub/pooled-jms@1.0.0?classifier=sources
+- pkg:maven/org.messaginghub/pooled-jms@1.0.1
+- pkg:maven/org.messaginghub/pooled-jms@1.0.1?classifier=sources

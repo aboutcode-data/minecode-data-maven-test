@@ -68,3 +68,5 @@
 - pkg:maven/org.projectlombok/lombok@1.16.20?classifier=sources
 - pkg:maven/org.projectlombok/lombok@1.16.22
 - pkg:maven/org.projectlombok/lombok@1.16.22?classifier=sources
+- pkg:maven/org.projectlombok/lombok@1.18.0
+- pkg:maven/org.projectlombok/lombok@1.18.0?classifier=sources

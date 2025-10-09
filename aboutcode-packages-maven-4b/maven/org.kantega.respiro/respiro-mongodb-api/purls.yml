@@ -32,3 +32,7 @@
 - pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.12?classifier=sources
 - pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.13
 - pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.13?classifier=sources
+- pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.15
+- pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.15?classifier=sources
+- pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.14
+- pkg:maven/org.kantega.respiro/respiro-mongodb-api@2.14?classifier=sources

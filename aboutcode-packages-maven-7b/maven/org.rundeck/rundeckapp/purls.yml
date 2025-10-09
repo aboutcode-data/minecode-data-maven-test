@@ -124,3 +124,5 @@
 - pkg:maven/org.rundeck/rundeckapp@2.11.3?classifier=sources
 - pkg:maven/org.rundeck/rundeckapp@2.11.2?type=war
 - pkg:maven/org.rundeck/rundeckapp@2.11.2?classifier=sources
+- pkg:maven/org.rundeck/rundeckapp@2.11.4?type=war
+- pkg:maven/org.rundeck/rundeckapp@2.11.4?classifier=sources

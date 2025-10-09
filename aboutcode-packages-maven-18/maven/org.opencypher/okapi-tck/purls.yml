@@ -5,3 +5,5 @@
 - pkg:maven/org.opencypher/okapi-tck@1.0.0-beta3
 - pkg:maven/org.opencypher/okapi-tck@1.0.0-beta5
 - pkg:maven/org.opencypher/okapi-tck@1.0.0-beta4
+- pkg:maven/org.opencypher/okapi-tck@0.1.2
+- pkg:maven/org.opencypher/okapi-tck@0.1.2?classifier=sources

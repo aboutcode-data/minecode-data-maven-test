@@ -86,3 +86,5 @@
 - pkg:maven/org.fujion/fujion-highcharts@2.0.0-RC7?classifier=sources
 - pkg:maven/org.fujion/fujion-highcharts@2.0.0-RC9
 - pkg:maven/org.fujion/fujion-highcharts@2.0.0-RC9?classifier=sources
+- pkg:maven/org.fujion/fujion-highcharts@2.0.0
+- pkg:maven/org.fujion/fujion-highcharts@2.0.0?classifier=sources
