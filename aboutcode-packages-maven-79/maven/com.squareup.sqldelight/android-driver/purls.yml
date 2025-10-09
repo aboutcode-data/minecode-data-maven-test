@@ -22,3 +22,5 @@
 - pkg:maven/com.squareup.sqldelight/android-driver@1.0.0-rc6?classifier=sources
 - pkg:maven/com.squareup.sqldelight/android-driver@1.0.0-rc7?type=aar
 - pkg:maven/com.squareup.sqldelight/android-driver@1.0.0-rc7?classifier=sources
+- pkg:maven/com.squareup.sqldelight/android-driver@1.0.0?type=aar
+- pkg:maven/com.squareup.sqldelight/android-driver@1.0.0?classifier=sources

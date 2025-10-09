@@ -96,3 +96,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@0.25.0?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@0.26.0?type=aar
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@0.26.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@eh-beta.1?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@eh-beta.1?classifier=sources
