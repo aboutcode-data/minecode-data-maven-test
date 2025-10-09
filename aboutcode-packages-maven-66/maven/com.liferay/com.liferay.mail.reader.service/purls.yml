@@ -263,3 +263,6 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.service@3.0.28
 - pkg:maven/com.liferay/com.liferay.mail.reader.service@3.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.service@3.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.service@2.1.13
+- pkg:maven/com.liferay/com.liferay.mail.reader.service@2.1.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.service@2.1.13?classifier=sources-commercial

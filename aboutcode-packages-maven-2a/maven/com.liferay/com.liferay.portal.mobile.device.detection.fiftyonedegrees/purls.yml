@@ -105,3 +105,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees@4.0.6
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees@2.0.9
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees@2.0.9?classifier=sources-commercial

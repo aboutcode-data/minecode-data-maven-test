@@ -45,3 +45,6 @@
 - pkg:maven/com.liferay/com.liferay.application.list.user.personal.site.permissions@4.0.2
 - pkg:maven/com.liferay/com.liferay.application.list.user.personal.site.permissions@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.user.personal.site.permissions@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.user.personal.site.permissions@2.0.11
+- pkg:maven/com.liferay/com.liferay.application.list.user.personal.site.permissions@2.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.user.personal.site.permissions@2.0.11?classifier=sources-commercial

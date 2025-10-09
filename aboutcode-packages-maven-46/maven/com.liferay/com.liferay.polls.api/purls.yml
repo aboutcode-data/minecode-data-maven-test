@@ -90,3 +90,6 @@
 - pkg:maven/com.liferay/com.liferay.polls.api@5.0.8
 - pkg:maven/com.liferay/com.liferay.polls.api@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.api@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.api@4.0.15
+- pkg:maven/com.liferay/com.liferay.polls.api@4.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.api@4.0.15?classifier=sources-commercial

@@ -326,3 +326,7 @@
 - pkg:maven/com.netflix.conductor/conductor-test-harness@2.13.4-alpha.3?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-test-harness@2.15.0
 - pkg:maven/com.netflix.conductor/conductor-test-harness@2.15.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-test-harness@2.15.2-beta
+- pkg:maven/com.netflix.conductor/conductor-test-harness@2.15.2-beta?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-test-harness@2.15.1
+- pkg:maven/com.netflix.conductor/conductor-test-harness@2.15.1?classifier=sources

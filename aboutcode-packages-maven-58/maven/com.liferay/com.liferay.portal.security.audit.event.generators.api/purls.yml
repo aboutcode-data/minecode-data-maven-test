@@ -16,3 +16,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators.api@3.0.2
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators.api@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators.api@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators.api@1.0.2
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators.api@1.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators.api@1.0.2?classifier=sources-commercial

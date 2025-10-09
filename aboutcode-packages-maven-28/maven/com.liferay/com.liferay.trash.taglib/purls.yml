@@ -65,3 +65,6 @@
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.5
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.taglib@2.0.13
+- pkg:maven/com.liferay/com.liferay.trash.taglib@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.taglib@2.0.13?classifier=sources-commercial

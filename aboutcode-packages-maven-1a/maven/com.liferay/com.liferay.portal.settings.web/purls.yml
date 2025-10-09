@@ -164,3 +164,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.19
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.17
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.17?classifier=sources-commercial

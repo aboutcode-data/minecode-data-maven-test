@@ -335,3 +335,6 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.37
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@1.1.60
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@1.1.60?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@1.1.60?classifier=sources-commercial

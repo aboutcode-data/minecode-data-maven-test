@@ -111,3 +111,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.9
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.26
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.26?classifier=sources-commercial

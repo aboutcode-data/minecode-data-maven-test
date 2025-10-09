@@ -355,3 +355,6 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.17
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@1.0.80
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@1.0.80?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@1.0.80?classifier=sources-commercial

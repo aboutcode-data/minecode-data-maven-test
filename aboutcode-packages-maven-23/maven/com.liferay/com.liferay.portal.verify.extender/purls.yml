@@ -110,3 +110,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.5
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.12
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.12?classifier=sources-commercial

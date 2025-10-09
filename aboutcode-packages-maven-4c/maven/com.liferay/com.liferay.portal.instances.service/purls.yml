@@ -55,3 +55,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.instances.service@3.0.3
 - pkg:maven/com.liferay/com.liferay.portal.instances.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.instances.service@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.12
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.instances.service@1.0.12?classifier=sources-commercial
