@@ -86,3 +86,5 @@
 - pkg:maven/com.typesafe.akka/akka-cluster-sharding_2.12@2.6.0-M6?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-cluster-sharding_2.12@2.5.25
 - pkg:maven/com.typesafe.akka/akka-cluster-sharding_2.12@2.5.25?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-cluster-sharding_2.12@2.6.0-M7
+- pkg:maven/com.typesafe.akka/akka-cluster-sharding_2.12@2.6.0-M7?classifier=sources
