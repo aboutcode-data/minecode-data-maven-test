@@ -36,3 +36,5 @@
 - pkg:maven/info.picocli/picocli@2.2.1?classifier=sources
 - pkg:maven/info.picocli/picocli@2.2.2
 - pkg:maven/info.picocli/picocli@2.2.2?classifier=sources
+- pkg:maven/info.picocli/picocli@2.3.0
+- pkg:maven/info.picocli/picocli@2.3.0?classifier=sources

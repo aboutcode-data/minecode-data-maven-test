@@ -126,3 +126,5 @@
 - pkg:maven/com.scireum/sirius-db@3.6.2?classifier=sources
 - pkg:maven/com.scireum/sirius-db@3.6.3
 - pkg:maven/com.scireum/sirius-db@3.6.3?classifier=sources
+- pkg:maven/com.scireum/sirius-db@3.7
+- pkg:maven/com.scireum/sirius-db@3.7?classifier=sources

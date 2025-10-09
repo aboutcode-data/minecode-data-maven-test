@@ -1,2 +1,4 @@
 - pkg:maven/edu.psu.swe.scim/scim-server-memory@2.20?type=war
 - pkg:maven/edu.psu.swe.scim/scim-server-memory@2.20?classifier=sources
+- pkg:maven/edu.psu.swe.scim/scim-server-memory@2.21?type=war
+- pkg:maven/edu.psu.swe.scim/scim-server-memory@2.21?classifier=sources
