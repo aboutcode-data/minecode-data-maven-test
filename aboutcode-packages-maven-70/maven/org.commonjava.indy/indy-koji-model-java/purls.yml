@@ -71,3 +71,5 @@
 - pkg:maven/org.commonjava.indy/indy-koji-model-java@1.7.6?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-koji-model-java@1.7.7
 - pkg:maven/org.commonjava.indy/indy-koji-model-java@1.7.7?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-koji-model-java@1.8.0
+- pkg:maven/org.commonjava.indy/indy-koji-model-java@1.8.0?classifier=sources

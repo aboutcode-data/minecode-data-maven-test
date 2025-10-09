@@ -4,3 +4,5 @@
 - pkg:maven/io.univalence/spark-test_2.12@0.2%2B347-ce741e3f?classifier=sources
 - pkg:maven/io.univalence/spark-test_2.12@0.2%2B345-9ef7f9ce
 - pkg:maven/io.univalence/spark-test_2.12@0.2%2B345-9ef7f9ce?classifier=sources
+- pkg:maven/io.univalence/spark-test_2.12@0.3
+- pkg:maven/io.univalence/spark-test_2.12@0.3?classifier=sources

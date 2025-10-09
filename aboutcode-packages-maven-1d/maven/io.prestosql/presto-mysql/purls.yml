@@ -14,3 +14,4 @@
 - pkg:maven/io.prestosql/presto-mysql@312?classifier=sources
 - pkg:maven/io.prestosql/presto-mysql@314?classifier=sources
 - pkg:maven/io.prestosql/presto-mysql@315?classifier=sources
+- pkg:maven/io.prestosql/presto-mysql@316?classifier=sources
