@@ -37,3 +37,5 @@
 - pkg:maven/com.facebook.presto/presto-server-rpm@0.144?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server-rpm@0.145?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server-rpm@0.144.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server-rpm@0.146?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server-rpm@0.144.3?classifier=sources

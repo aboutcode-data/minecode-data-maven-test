@@ -98,3 +98,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.71?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.70
 - pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.70?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.74
+- pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.74?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.73
+- pkg:maven/com.amazonaws/aws-java-sdk-waf@1.10.73?classifier=sources

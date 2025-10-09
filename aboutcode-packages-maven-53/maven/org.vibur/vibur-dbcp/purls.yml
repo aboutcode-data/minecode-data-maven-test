@@ -24,3 +24,5 @@
 - pkg:maven/org.vibur/vibur-dbcp@7.0?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp@8.0
 - pkg:maven/org.vibur/vibur-dbcp@8.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp@9.0
+- pkg:maven/org.vibur/vibur-dbcp@9.0?classifier=sources
