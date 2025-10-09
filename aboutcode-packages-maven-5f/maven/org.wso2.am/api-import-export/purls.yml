@@ -26,3 +26,5 @@
 - pkg:maven/org.wso2.am/api-import-export@2.1.0-update12?classifier=sources
 - pkg:maven/org.wso2.am/api-import-export@2.1.0-update13?type=war
 - pkg:maven/org.wso2.am/api-import-export@2.1.0-update13?classifier=sources
+- pkg:maven/org.wso2.am/api-import-export@2.1.0-update14?type=war
+- pkg:maven/org.wso2.am/api-import-export@2.1.0-update14?classifier=sources
