@@ -42,3 +42,5 @@
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk-kms@2.3.2?classifier=sources
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk-kms@2.4.0
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk-kms@2.4.0?classifier=sources
+- pkg:maven/com.ibm.cos/ibm-cos-java-sdk-kms@2.4.1
+- pkg:maven/com.ibm.cos/ibm-cos-java-sdk-kms@2.4.1?classifier=sources

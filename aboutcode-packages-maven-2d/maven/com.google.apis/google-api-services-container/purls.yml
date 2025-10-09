@@ -950,3 +950,7 @@
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev20181109-1.27.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev20181109-1.26.0
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev20181109-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20181113-1.27.0
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20181113-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20181113-1.26.0
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20181113-1.26.0?classifier=sources

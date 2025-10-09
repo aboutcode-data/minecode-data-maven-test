@@ -66,3 +66,5 @@
 - pkg:maven/com.github.davidmoten/rxjava2-jdbc@0.1-RC41?classifier=sources
 - pkg:maven/com.github.davidmoten/rxjava2-jdbc@0.1-RC42
 - pkg:maven/com.github.davidmoten/rxjava2-jdbc@0.1-RC42?classifier=sources
+- pkg:maven/com.github.davidmoten/rxjava2-jdbc@0.2.0
+- pkg:maven/com.github.davidmoten/rxjava2-jdbc@0.2.0?classifier=sources

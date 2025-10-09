@@ -130,3 +130,5 @@
 - pkg:maven/com.infotel.seleniumRobot/core@4.1.2?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@4.1.4?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.1.4?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.2.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.2.0?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/com.hazelcast/hazelcast-code-generator@1.7.0-8?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-code-generator@1.7.0
 - pkg:maven/com.hazelcast/hazelcast-code-generator@1.7.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-code-generator@1.8.0-1
+- pkg:maven/com.hazelcast/hazelcast-code-generator@1.8.0-1?classifier=sources
