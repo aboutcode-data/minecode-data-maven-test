@@ -71,3 +71,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha-2
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha-2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0?classifier=sources
