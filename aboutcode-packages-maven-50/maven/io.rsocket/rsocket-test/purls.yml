@@ -46,3 +46,5 @@
 - pkg:maven/io.rsocket/rsocket-test@0.12.2-RC3?classifier=sources
 - pkg:maven/io.rsocket/rsocket-test@0.12.2-RC4
 - pkg:maven/io.rsocket/rsocket-test@0.12.2-RC4?classifier=sources
+- pkg:maven/io.rsocket/rsocket-test@1.0.0-RC1
+- pkg:maven/io.rsocket/rsocket-test@1.0.0-RC1?classifier=sources

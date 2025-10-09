@@ -54,3 +54,5 @@
 - pkg:maven/io.grpc/grpc-benchmarks@1.21.0?classifier=sources
 - pkg:maven/io.grpc/grpc-benchmarks@1.22.0
 - pkg:maven/io.grpc/grpc-benchmarks@1.22.0?classifier=sources
+- pkg:maven/io.grpc/grpc-benchmarks@1.22.1
+- pkg:maven/io.grpc/grpc-benchmarks@1.22.1?classifier=sources

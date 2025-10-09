@@ -18,3 +18,5 @@
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen-maven-plugin@3.0.8?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen-maven-plugin@3.0.9
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen-maven-plugin@3.0.9?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen-maven-plugin@3.0.10
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen-maven-plugin@3.0.10?classifier=sources

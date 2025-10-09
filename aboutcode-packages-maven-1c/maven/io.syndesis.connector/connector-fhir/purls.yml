@@ -56,3 +56,7 @@
 - pkg:maven/io.syndesis.connector/connector-fhir@1.7.8?classifier=sources
 - pkg:maven/io.syndesis.connector/connector-fhir@1.7.7
 - pkg:maven/io.syndesis.connector/connector-fhir@1.7.7?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-fhir@1.7.9
+- pkg:maven/io.syndesis.connector/connector-fhir@1.7.9?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-fhir@1.7.10
+- pkg:maven/io.syndesis.connector/connector-fhir@1.7.10?classifier=sources
