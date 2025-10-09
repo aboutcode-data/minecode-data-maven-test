@@ -34,3 +34,7 @@
 - pkg:maven/org.fluentlenium/fluentlenium-spock@4.3.0?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-spock@3.9.0
 - pkg:maven/org.fluentlenium/fluentlenium-spock@3.9.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-spock@4.3.1
+- pkg:maven/org.fluentlenium/fluentlenium-spock@4.3.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-spock@3.9.1
+- pkg:maven/org.fluentlenium/fluentlenium-spock@3.9.1?classifier=sources

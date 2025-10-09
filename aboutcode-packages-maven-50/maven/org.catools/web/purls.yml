@@ -16,3 +16,5 @@
 - pkg:maven/org.catools/web@0.0.28?classifier=sources
 - pkg:maven/org.catools/web@0.0.27
 - pkg:maven/org.catools/web@0.0.27?classifier=sources
+- pkg:maven/org.catools/web@0.0.30
+- pkg:maven/org.catools/web@0.0.30?classifier=sources

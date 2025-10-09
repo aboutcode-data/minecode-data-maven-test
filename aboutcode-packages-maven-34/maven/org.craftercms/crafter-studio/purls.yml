@@ -52,3 +52,5 @@
 - pkg:maven/org.craftercms/crafter-studio@3.0.24?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@3.0.25?type=war
 - pkg:maven/org.craftercms/crafter-studio@3.0.25?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@3.1.1?type=war
+- pkg:maven/org.craftercms/crafter-studio@3.1.1?classifier=sources
