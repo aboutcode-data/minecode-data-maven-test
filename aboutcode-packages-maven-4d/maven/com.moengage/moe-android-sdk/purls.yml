@@ -244,3 +244,7 @@
 - pkg:maven/com.moengage/moe-android-sdk@8.0.02?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@8.0.01?type=aar
 - pkg:maven/com.moengage/moe-android-sdk@8.0.01?classifier=sources
+- pkg:maven/com.moengage/moe-android-sdk@8.0.04?type=aar
+- pkg:maven/com.moengage/moe-android-sdk@8.0.04?classifier=sources
+- pkg:maven/com.moengage/moe-android-sdk@8.0.03?type=aar
+- pkg:maven/com.moengage/moe-android-sdk@8.0.03?classifier=sources

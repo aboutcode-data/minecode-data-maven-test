@@ -16,3 +16,7 @@
 - pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.8?classifier=sources
 - pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.7
 - pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.7?classifier=sources
+- pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.9
+- pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.9?classifier=sources
+- pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.10
+- pkg:maven/com.tqdev.metrics/metrics-jetty@0.9.10?classifier=sources

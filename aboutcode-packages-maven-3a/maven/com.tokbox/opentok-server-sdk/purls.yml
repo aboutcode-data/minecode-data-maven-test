@@ -18,3 +18,5 @@
 - pkg:maven/com.tokbox/opentok-server-sdk@3.1.0?classifier=sources
 - pkg:maven/com.tokbox/opentok-server-sdk@4.0.0
 - pkg:maven/com.tokbox/opentok-server-sdk@4.0.0?classifier=sources
+- pkg:maven/com.tokbox/opentok-server-sdk@4.1.0
+- pkg:maven/com.tokbox/opentok-server-sdk@4.1.0?classifier=sources

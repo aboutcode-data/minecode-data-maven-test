@@ -36,3 +36,5 @@
 - pkg:maven/com.openshift/openshift-restclient-java@5.9.2.Final?classifier=sources
 - pkg:maven/com.openshift/openshift-restclient-java@5.9.1.Final
 - pkg:maven/com.openshift/openshift-restclient-java@5.9.1.Final?classifier=sources
+- pkg:maven/com.openshift/openshift-restclient-java@5.9.3.Final
+- pkg:maven/com.openshift/openshift-restclient-java@5.9.3.Final?classifier=sources

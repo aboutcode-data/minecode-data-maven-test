@@ -26,3 +26,7 @@
 - pkg:maven/com.moengage/moe-core@2.0.02?classifier=sources
 - pkg:maven/com.moengage/moe-core@2.0.01?type=aar
 - pkg:maven/com.moengage/moe-core@2.0.01?classifier=sources
+- pkg:maven/com.moengage/moe-core@2.0.05?type=aar
+- pkg:maven/com.moengage/moe-core@2.0.05?classifier=sources
+- pkg:maven/com.moengage/moe-core@2.0.04?type=aar
+- pkg:maven/com.moengage/moe-core@2.0.04?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.quhaodian/hibernate_common@1.1.9
 - pkg:maven/com.quhaodian/hibernate_common@1.1.9?classifier=sources
+- pkg:maven/com.quhaodian/hibernate_common@1.2.0
+- pkg:maven/com.quhaodian/hibernate_common@1.2.0?classifier=sources

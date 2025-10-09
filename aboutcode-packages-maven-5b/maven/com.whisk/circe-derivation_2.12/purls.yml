@@ -1,1 +1,2 @@
 - pkg:maven/com.whisk/circe-derivation_2.12@0.8.0-M2-whisk
+- pkg:maven/com.whisk/circe-derivation_2.12@0.8.0-M2-whisk?classifier=sources
