@@ -44,3 +44,5 @@
 - pkg:maven/de.taimos/dvalin-mongodb@1.21?classifier=sources
 - pkg:maven/de.taimos/dvalin-mongodb@1.22
 - pkg:maven/de.taimos/dvalin-mongodb@1.22?classifier=sources
+- pkg:maven/de.taimos/dvalin-mongodb@1.23
+- pkg:maven/de.taimos/dvalin-mongodb@1.23?classifier=sources
