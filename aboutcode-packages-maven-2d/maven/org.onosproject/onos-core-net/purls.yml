@@ -252,3 +252,5 @@
 - pkg:maven/org.onosproject/onos-core-net@1.12.2-rc2?classifier=sources
 - pkg:maven/org.onosproject/onos-core-net@1.13.9
 - pkg:maven/org.onosproject/onos-core-net@1.13.9?classifier=sources
+- pkg:maven/org.onosproject/onos-core-net@2.2.0-b1
+- pkg:maven/org.onosproject/onos-core-net@2.2.0-b1?classifier=sources

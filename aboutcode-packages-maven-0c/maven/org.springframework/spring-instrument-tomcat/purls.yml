@@ -172,3 +172,5 @@
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.23.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.24.RELEASE
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.24.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.3.25.RELEASE
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.3.25.RELEASE?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.onosproject/io_grpc_grpc_stub@2.1.0-rc7?classifier=sources
 - pkg:maven/org.onosproject/io_grpc_grpc_stub@2.1.0
 - pkg:maven/org.onosproject/io_grpc_grpc_stub@2.1.0?classifier=sources
+- pkg:maven/org.onosproject/io_grpc_grpc_stub@2.2.0-b1
+- pkg:maven/org.onosproject/io_grpc_grpc_stub@2.2.0-b1?classifier=sources

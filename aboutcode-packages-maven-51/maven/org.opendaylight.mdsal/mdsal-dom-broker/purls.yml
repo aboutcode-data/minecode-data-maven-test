@@ -20,3 +20,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-dom-broker@3.0.9?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-dom-broker@3.0.10
 - pkg:maven/org.opendaylight.mdsal/mdsal-dom-broker@3.0.10?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-dom-broker@4.0.3
+- pkg:maven/org.opendaylight.mdsal/mdsal-dom-broker@4.0.3?classifier=sources

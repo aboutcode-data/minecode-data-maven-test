@@ -216,3 +216,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-core@5.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-core@5.1.6.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-core@5.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-core@5.1.7.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-core@5.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-core@4.3.21.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-core@4.3.21.RELEASE?classifier=sources
