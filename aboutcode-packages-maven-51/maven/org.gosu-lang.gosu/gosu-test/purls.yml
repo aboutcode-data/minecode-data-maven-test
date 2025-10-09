@@ -42,3 +42,5 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-test@1.14?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test@1.13.7
 - pkg:maven/org.gosu-lang.gosu/gosu-test@1.13.7?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-test@1.14.1
+- pkg:maven/org.gosu-lang.gosu/gosu-test@1.14.1?classifier=sources
