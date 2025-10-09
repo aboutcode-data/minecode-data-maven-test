@@ -64,3 +64,5 @@
 - pkg:maven/com.typesafe.play/shaded-asynchttpclient@2.0.0-M3?classifier=sources
 - pkg:maven/com.typesafe.play/shaded-asynchttpclient@1.1.10
 - pkg:maven/com.typesafe.play/shaded-asynchttpclient@1.1.10?classifier=sources
+- pkg:maven/com.typesafe.play/shaded-asynchttpclient@2.0.0-M4
+- pkg:maven/com.typesafe.play/shaded-asynchttpclient@2.0.0-M4?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-preview7?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc1?type=war
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc1?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc2?type=war
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc2?classifier=sources

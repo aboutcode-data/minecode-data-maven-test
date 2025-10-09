@@ -18,3 +18,5 @@
 - pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@2.7?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@2.8
 - pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@2.8?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@2.9
+- pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@2.9?classifier=sources
