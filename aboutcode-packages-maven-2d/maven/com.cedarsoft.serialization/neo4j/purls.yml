@@ -36,3 +36,5 @@
 - pkg:maven/com.cedarsoft.serialization/neo4j@8.5.0?classifier=sources
 - pkg:maven/com.cedarsoft.serialization/neo4j@8.7.0
 - pkg:maven/com.cedarsoft.serialization/neo4j@8.7.0?classifier=sources
+- pkg:maven/com.cedarsoft.serialization/neo4j@8.8.0
+- pkg:maven/com.cedarsoft.serialization/neo4j@8.8.0?classifier=sources

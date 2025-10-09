@@ -726,3 +726,5 @@
 - pkg:maven/com.genesys/provisioning@9.0.11?classifier=sources
 - pkg:maven/com.genesys/provisioning@9.0.12
 - pkg:maven/com.genesys/provisioning@9.0.12?classifier=sources
+- pkg:maven/com.genesys/provisioning@9.0.13
+- pkg:maven/com.genesys/provisioning@9.0.13?classifier=sources

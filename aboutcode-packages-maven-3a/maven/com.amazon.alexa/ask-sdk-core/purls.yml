@@ -72,3 +72,5 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-core@2.11.3?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-core@2.12.0
 - pkg:maven/com.amazon.alexa/ask-sdk-core@2.12.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-core@2.13.0
+- pkg:maven/com.amazon.alexa/ask-sdk-core@2.13.0?classifier=sources
