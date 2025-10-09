@@ -1,2 +1,4 @@
 - pkg:maven/info.laht/yaj-rpc-tcp@0.8
 - pkg:maven/info.laht/yaj-rpc-tcp@0.8?classifier=sources
+- pkg:maven/info.laht/yaj-rpc-tcp@0.9
+- pkg:maven/info.laht/yaj-rpc-tcp@0.9?classifier=sources

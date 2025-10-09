@@ -8,3 +8,5 @@
 - pkg:maven/io.rsocket/rsocket-transport-aeron@0.11.2?classifier=sources
 - pkg:maven/io.rsocket/rsocket-transport-aeron@0.11.4
 - pkg:maven/io.rsocket/rsocket-transport-aeron@0.11.4?classifier=sources
+- pkg:maven/io.rsocket/rsocket-transport-aeron@0.11.5
+- pkg:maven/io.rsocket/rsocket-transport-aeron@0.11.5?classifier=sources
