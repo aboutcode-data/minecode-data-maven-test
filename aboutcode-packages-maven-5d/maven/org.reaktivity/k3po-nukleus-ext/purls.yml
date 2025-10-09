@@ -70,3 +70,5 @@
 - pkg:maven/org.reaktivity/k3po-nukleus-ext@0.22?classifier=sources
 - pkg:maven/org.reaktivity/k3po-nukleus-ext@0.24
 - pkg:maven/org.reaktivity/k3po-nukleus-ext@0.24?classifier=sources
+- pkg:maven/org.reaktivity/k3po-nukleus-ext@0.25
+- pkg:maven/org.reaktivity/k3po-nukleus-ext@0.25?classifier=sources

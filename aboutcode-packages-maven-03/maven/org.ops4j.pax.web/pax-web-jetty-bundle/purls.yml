@@ -250,3 +250,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-bundle@6.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-bundle@7.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-bundle@7.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-bundle@7.1.0
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-bundle@7.1.0?classifier=sources

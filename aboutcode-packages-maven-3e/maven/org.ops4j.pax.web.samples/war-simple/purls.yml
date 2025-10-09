@@ -137,3 +137,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-simple@6.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-simple@7.0.0?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-simple@7.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-simple@7.1.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-simple@7.1.0?classifier=sources

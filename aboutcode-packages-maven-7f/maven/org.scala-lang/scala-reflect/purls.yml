@@ -152,3 +152,5 @@
 - pkg:maven/org.scala-lang/scala-reflect@2.13.0-M4-pre-20d3c21?classifier=sources
 - pkg:maven/org.scala-lang/scala-reflect@2.12.6
 - pkg:maven/org.scala-lang/scala-reflect@2.12.6?classifier=sources
+- pkg:maven/org.scala-lang/scala-reflect@2.13.0-M4
+- pkg:maven/org.scala-lang/scala-reflect@2.13.0-M4?classifier=sources
