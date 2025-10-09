@@ -70,3 +70,5 @@
 - pkg:maven/com.twitter/scalding_2.10@0.16.1-RC3?classifier=sources
 - pkg:maven/com.twitter/scalding_2.10@0.16.1-cascading3-RC1
 - pkg:maven/com.twitter/scalding_2.10@0.16.1-cascading3-RC1?classifier=sources
+- pkg:maven/com.twitter/scalding_2.10@0.16.1-cascading3-RC2
+- pkg:maven/com.twitter/scalding_2.10@0.16.1-cascading3-RC2?classifier=sources
