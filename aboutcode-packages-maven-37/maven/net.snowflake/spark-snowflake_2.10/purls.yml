@@ -94,3 +94,5 @@
 - pkg:maven/net.snowflake/spark-snowflake_2.10@2.4.10-spark_2.2?classifier=sources
 - pkg:maven/net.snowflake/spark-snowflake_2.10@2.4.11-spark_2.2
 - pkg:maven/net.snowflake/spark-snowflake_2.10@2.4.11-spark_2.2?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.10@2.4.12-spark_2.2
+- pkg:maven/net.snowflake/spark-snowflake_2.10@2.4.12-spark_2.2?classifier=sources
