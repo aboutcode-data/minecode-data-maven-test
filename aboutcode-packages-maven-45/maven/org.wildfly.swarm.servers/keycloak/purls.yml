@@ -3,3 +3,5 @@
 - pkg:maven/org.wildfly.swarm.servers/keycloak@1.0.0.Alpha7
 - pkg:maven/org.wildfly.swarm.servers/keycloak@1.0.0.Beta7
 - pkg:maven/org.wildfly.swarm.servers/keycloak@1.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly.swarm.servers/keycloak@1.0.0.CR1
+- pkg:maven/org.wildfly.swarm.servers/keycloak@1.0.0.CR1?classifier=sources

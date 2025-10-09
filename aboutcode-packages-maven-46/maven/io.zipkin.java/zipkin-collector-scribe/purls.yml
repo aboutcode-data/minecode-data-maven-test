@@ -12,3 +12,5 @@
 - pkg:maven/io.zipkin.java/zipkin-collector-scribe@0.21.0?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-collector-scribe@0.21.3
 - pkg:maven/io.zipkin.java/zipkin-collector-scribe@0.21.3?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-collector-scribe@0.21.5
+- pkg:maven/io.zipkin.java/zipkin-collector-scribe@0.21.5?classifier=sources

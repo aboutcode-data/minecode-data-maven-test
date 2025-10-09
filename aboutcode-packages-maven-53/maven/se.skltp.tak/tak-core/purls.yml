@@ -28,3 +28,5 @@
 - pkg:maven/se.skltp.tak/tak-core@2.0?classifier=sources
 - pkg:maven/se.skltp.tak/tak-core@2.1.0-RC
 - pkg:maven/se.skltp.tak/tak-core@2.1.0-RC?classifier=sources
+- pkg:maven/se.skltp.tak/tak-core@2.1.0
+- pkg:maven/se.skltp.tak/tak-core@2.1.0?classifier=sources
