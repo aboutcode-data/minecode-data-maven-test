@@ -284,3 +284,5 @@
 - pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.2.8?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.1.18
 - pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.1.18?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.3.1
+- pkg:maven/org.apache.cxf/cxf-wsdl-validator-plugin@3.3.1?classifier=sources

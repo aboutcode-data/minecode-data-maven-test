@@ -64,3 +64,5 @@
 - pkg:maven/com.kyleu/projectile-lib-thrift_2.12@1.3.4?classifier=sources
 - pkg:maven/com.kyleu/projectile-lib-thrift_2.12@1.3.2
 - pkg:maven/com.kyleu/projectile-lib-thrift_2.12@1.3.2?classifier=sources
+- pkg:maven/com.kyleu/projectile-lib-thrift_2.12@1.5.0
+- pkg:maven/com.kyleu/projectile-lib-thrift_2.12@1.5.0?classifier=sources

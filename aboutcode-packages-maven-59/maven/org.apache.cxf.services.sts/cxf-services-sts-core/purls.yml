@@ -192,3 +192,5 @@
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-core@3.2.8?classifier=sources
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-core@3.1.18
 - pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-core@3.1.18?classifier=sources
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-core@3.3.1
+- pkg:maven/org.apache.cxf.services.sts/cxf-services-sts-core@3.3.1?classifier=sources
