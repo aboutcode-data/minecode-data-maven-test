@@ -24,3 +24,5 @@
 - pkg:maven/com.milaboratory/milib@1.7?classifier=sources
 - pkg:maven/com.milaboratory/milib@1.6
 - pkg:maven/com.milaboratory/milib@1.6?classifier=sources
+- pkg:maven/com.milaboratory/milib@1.7.1
+- pkg:maven/com.milaboratory/milib@1.7.1?classifier=sources
