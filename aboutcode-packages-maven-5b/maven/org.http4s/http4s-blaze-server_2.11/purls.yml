@@ -32,3 +32,7 @@
 - pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.0a?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.0
 - pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.0?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.1a
+- pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.1a?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.1
+- pkg:maven/org.http4s/http4s-blaze-server_2.11@0.13.1?classifier=sources

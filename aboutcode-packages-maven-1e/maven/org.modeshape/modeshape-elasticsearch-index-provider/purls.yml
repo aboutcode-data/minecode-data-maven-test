@@ -1,2 +1,4 @@
 - pkg:maven/org.modeshape/modeshape-elasticsearch-index-provider@4.6.0.Final
 - pkg:maven/org.modeshape/modeshape-elasticsearch-index-provider@4.6.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-elasticsearch-index-provider@5.0.0.Final
+- pkg:maven/org.modeshape/modeshape-elasticsearch-index-provider@5.0.0.Final?classifier=sources
