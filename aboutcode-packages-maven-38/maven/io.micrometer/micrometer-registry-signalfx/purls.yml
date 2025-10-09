@@ -2,3 +2,5 @@
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.0.0-rc.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.0.0-rc.8
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.0.0-rc.8?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.0.0
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.0.0?classifier=sources

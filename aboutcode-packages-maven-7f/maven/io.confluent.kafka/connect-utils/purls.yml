@@ -28,3 +28,5 @@
 - pkg:maven/io.confluent.kafka/connect-utils@0.0.1.28?classifier=sources
 - pkg:maven/io.confluent.kafka/connect-utils@0.0.1.27
 - pkg:maven/io.confluent.kafka/connect-utils@0.0.1.27?classifier=sources
+- pkg:maven/io.confluent.kafka/connect-utils@%257BmvnBuildNumber%257D
+- pkg:maven/io.confluent.kafka/connect-utils@%257BmvnBuildNumber%257D?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture@3.0.0-BETA
 - pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture@3.0.0-BETA?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture@3.0.0
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture@3.0.0?classifier=sources

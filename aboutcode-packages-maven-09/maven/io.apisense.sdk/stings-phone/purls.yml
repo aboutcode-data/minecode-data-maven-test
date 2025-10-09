@@ -28,3 +28,5 @@
 - pkg:maven/io.apisense.sdk/stings-phone@1.11.6?classifier=sources
 - pkg:maven/io.apisense.sdk/stings-phone@1.11.7?type=aar
 - pkg:maven/io.apisense.sdk/stings-phone@1.11.7?classifier=sources
+- pkg:maven/io.apisense.sdk/stings-phone@1.12.0.beta1?type=aar
+- pkg:maven/io.apisense.sdk/stings-phone@1.12.0.beta1?classifier=sources
