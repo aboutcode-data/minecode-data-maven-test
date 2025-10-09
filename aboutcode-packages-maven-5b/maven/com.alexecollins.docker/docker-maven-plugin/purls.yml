@@ -98,3 +98,5 @@
 - pkg:maven/com.alexecollins.docker/docker-maven-plugin@2.11.19?classifier=sources
 - pkg:maven/com.alexecollins.docker/docker-maven-plugin@2.11.20
 - pkg:maven/com.alexecollins.docker/docker-maven-plugin@2.11.20?classifier=sources
+- pkg:maven/com.alexecollins.docker/docker-maven-plugin@2.11.21
+- pkg:maven/com.alexecollins.docker/docker-maven-plugin@2.11.21?classifier=sources
