@@ -12,3 +12,7 @@
 - pkg:maven/org.catools/sql@0.0.6?classifier=sources
 - pkg:maven/org.catools/sql@0.0.7
 - pkg:maven/org.catools/sql@0.0.7?classifier=sources
+- pkg:maven/org.catools/sql@0.0.20
+- pkg:maven/org.catools/sql@0.0.20?classifier=sources
+- pkg:maven/org.catools/sql@0.0.19
+- pkg:maven/org.catools/sql@0.0.19?classifier=sources

@@ -146,3 +146,5 @@
 - pkg:maven/org.craftercms/crafter-search-server@3.0.20?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-server@3.0.19?type=war
 - pkg:maven/org.craftercms/crafter-search-server@3.0.19?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-server@3.0.21?type=war
+- pkg:maven/org.craftercms/crafter-search-server@3.0.21?classifier=sources

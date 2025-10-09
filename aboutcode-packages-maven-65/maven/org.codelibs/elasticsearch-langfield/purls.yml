@@ -57,3 +57,5 @@
 - pkg:maven/org.codelibs/elasticsearch-langfield@6.7.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-langfield@6.8.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-langfield@6.8.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-langfield@6.7.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-langfield@6.7.1?classifier=sources
