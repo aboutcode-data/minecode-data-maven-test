@@ -32,3 +32,7 @@
 - pkg:maven/com.github.mizool.technology/technology-web@0.19?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-web@0.18
 - pkg:maven/com.github.mizool.technology/technology-web@0.18?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-web@0.20
+- pkg:maven/com.github.mizool.technology/technology-web@0.20?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-web@%2525NEXT_DEVELOP_SNAPSHOT%2525
+- pkg:maven/com.github.mizool.technology/technology-web@%2525NEXT_DEVELOP_SNAPSHOT%2525?classifier=sources

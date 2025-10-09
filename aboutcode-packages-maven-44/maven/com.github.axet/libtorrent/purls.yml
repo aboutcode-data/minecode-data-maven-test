@@ -78,3 +78,7 @@
 - pkg:maven/com.github.axet/libtorrent@0.13.25?classifier=sources
 - pkg:maven/com.github.axet/libtorrent@0.13.27?type=aar
 - pkg:maven/com.github.axet/libtorrent@0.13.27?classifier=sources
+- pkg:maven/com.github.axet/libtorrent@0.13.29?type=aar
+- pkg:maven/com.github.axet/libtorrent@0.13.29?classifier=sources
+- pkg:maven/com.github.axet/libtorrent@0.13.28?type=aar
+- pkg:maven/com.github.axet/libtorrent@0.13.28?classifier=sources

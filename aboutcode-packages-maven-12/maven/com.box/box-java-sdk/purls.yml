@@ -48,3 +48,5 @@
 - pkg:maven/com.box/box-java-sdk@2.15.0?classifier=sources
 - pkg:maven/com.box/box-java-sdk@2.16.0
 - pkg:maven/com.box/box-java-sdk@2.16.0?classifier=sources
+- pkg:maven/com.box/box-java-sdk@2.16.1
+- pkg:maven/com.box/box-java-sdk@2.16.1?classifier=sources
