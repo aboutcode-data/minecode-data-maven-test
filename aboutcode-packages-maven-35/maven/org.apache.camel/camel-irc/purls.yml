@@ -193,3 +193,5 @@
 - pkg:maven/org.apache.camel/camel-irc@2.18.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-irc@2.19.0
 - pkg:maven/org.apache.camel/camel-irc@2.19.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-irc@2.17.7
+- pkg:maven/org.apache.camel/camel-irc@2.17.7?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.everit.osgi.dev/eosgi-maven-plugin@4.0.5?classifier=sources
 - pkg:maven/org.everit.osgi.dev/eosgi-maven-plugin@4.1.0
 - pkg:maven/org.everit.osgi.dev/eosgi-maven-plugin@4.1.0?classifier=sources
+- pkg:maven/org.everit.osgi.dev/eosgi-maven-plugin@4.1.1
+- pkg:maven/org.everit.osgi.dev/eosgi-maven-plugin@4.1.1?classifier=sources
