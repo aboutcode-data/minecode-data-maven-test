@@ -90,3 +90,7 @@
 - pkg:maven/org.spincast/spincast-plugins-http-caching@1.7.1?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-http-caching@1.7.0
 - pkg:maven/org.spincast/spincast-plugins-http-caching@1.7.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-caching@1.9.0
+- pkg:maven/org.spincast/spincast-plugins-http-caching@1.9.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-caching@1.10.0
+- pkg:maven/org.spincast/spincast-plugins-http-caching@1.10.0?classifier=sources

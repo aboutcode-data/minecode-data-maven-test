@@ -6,3 +6,5 @@
 - pkg:maven/org.codelibs.elasticsearch.lib/ssl-config@7.0.0-rc2?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.lib/ssl-config@7.0.0
 - pkg:maven/org.codelibs.elasticsearch.lib/ssl-config@7.0.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.lib/ssl-config@7.0.1
+- pkg:maven/org.codelibs.elasticsearch.lib/ssl-config@7.0.1?classifier=sources

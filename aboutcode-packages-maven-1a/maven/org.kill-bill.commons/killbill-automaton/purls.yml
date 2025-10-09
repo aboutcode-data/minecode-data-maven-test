@@ -150,3 +150,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-automaton@0.22.4?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-automaton@0.23.0
 - pkg:maven/org.kill-bill.commons/killbill-automaton@0.23.0?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-automaton@0.23.1
+- pkg:maven/org.kill-bill.commons/killbill-automaton@0.23.1?classifier=sources
