@@ -22,3 +22,7 @@
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.8.10.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.8.11.RELEASE
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.8.11.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.9.0.RELEASE
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.9.0.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.8.12.RELEASE
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.8.12.RELEASE?classifier=sources
