@@ -138,3 +138,7 @@
 - pkg:maven/org.http4s/http4s-core_2.10@0.14.10a?classifier=sources
 - pkg:maven/org.http4s/http4s-core_2.10@0.14.10
 - pkg:maven/org.http4s/http4s-core_2.10@0.14.10?classifier=sources
+- pkg:maven/org.http4s/http4s-core_2.10@0.14.11a
+- pkg:maven/org.http4s/http4s-core_2.10@0.14.11a?classifier=sources
+- pkg:maven/org.http4s/http4s-core_2.10@0.14.11
+- pkg:maven/org.http4s/http4s-core_2.10@0.14.11?classifier=sources

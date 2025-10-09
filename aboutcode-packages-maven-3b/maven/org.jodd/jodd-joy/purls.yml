@@ -54,3 +54,7 @@
 - pkg:maven/org.jodd/jodd-joy@3.7?classifier=sources
 - pkg:maven/org.jodd/jodd-joy@3.7.1
 - pkg:maven/org.jodd/jodd-joy@3.7.1?classifier=sources
+- pkg:maven/org.jodd/jodd-joy@3.8.0
+- pkg:maven/org.jodd/jodd-joy@3.8.0?classifier=sources
+- pkg:maven/org.jodd/jodd-joy@3.8
+- pkg:maven/org.jodd/jodd-joy@3.8?classifier=sources

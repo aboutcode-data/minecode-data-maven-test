@@ -82,3 +82,9 @@
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.23.2
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.23.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.23.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.24
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.24?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.24?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.22.3
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.22.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-selectable@2.22.3?classifier=project-src&type=zip
