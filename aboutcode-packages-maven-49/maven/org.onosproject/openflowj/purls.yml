@@ -22,3 +22,5 @@
 - pkg:maven/org.onosproject/openflowj@0.9.7.onos?classifier=sources
 - pkg:maven/org.onosproject/openflowj@0.9.8.onos
 - pkg:maven/org.onosproject/openflowj@0.9.8.onos?classifier=sources
+- pkg:maven/org.onosproject/openflowj@3.2.0.onos
+- pkg:maven/org.onosproject/openflowj@3.2.0.onos?classifier=sources

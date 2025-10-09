@@ -473,3 +473,5 @@
 - pkg:maven/org.mockito/mockito-core@2.7.20?classifier=sources
 - pkg:maven/org.mockito/mockito-core@2.7.22
 - pkg:maven/org.mockito/mockito-core@2.7.22?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.8.9
+- pkg:maven/org.mockito/mockito-core@2.8.9?classifier=sources
