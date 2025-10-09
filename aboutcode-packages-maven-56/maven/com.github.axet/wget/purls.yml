@@ -80,3 +80,7 @@
 - pkg:maven/com.github.axet/wget@1.2.15?classifier=sources
 - pkg:maven/com.github.axet/wget@1.2.14
 - pkg:maven/com.github.axet/wget@1.2.14?classifier=sources
+- pkg:maven/com.github.axet/wget@1.2.17
+- pkg:maven/com.github.axet/wget@1.2.17?classifier=sources
+- pkg:maven/com.github.axet/wget@1.2.16
+- pkg:maven/com.github.axet/wget@1.2.16?classifier=sources

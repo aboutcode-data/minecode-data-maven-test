@@ -1,2 +1,4 @@
 - pkg:maven/com.cloudant/cloudant-sync-datastore-javase@0.15.0
 - pkg:maven/com.cloudant/cloudant-sync-datastore-javase@0.15.0?classifier=sources
+- pkg:maven/com.cloudant/cloudant-sync-datastore-javase@0.15.1
+- pkg:maven/com.cloudant/cloudant-sync-datastore-javase@0.15.1?classifier=sources

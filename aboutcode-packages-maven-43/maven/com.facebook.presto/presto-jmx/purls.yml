@@ -21,3 +21,5 @@
 - pkg:maven/com.facebook.presto/presto-jmx@0.132?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jmx@0.133?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jmx@0.134?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jmx@0.136?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jmx@0.135?classifier=sources
