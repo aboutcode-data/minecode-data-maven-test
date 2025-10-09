@@ -26,3 +26,5 @@
 - pkg:maven/org.hspconsortium.sandbox/hspc-sandbox-manager@1.8.0?classifier=sources
 - pkg:maven/org.hspconsortium.sandbox/hspc-sandbox-manager@1.8.3?type=war
 - pkg:maven/org.hspconsortium.sandbox/hspc-sandbox-manager@1.8.3?classifier=sources
+- pkg:maven/org.hspconsortium.sandbox/hspc-sandbox-manager@1.7.3?type=war
+- pkg:maven/org.hspconsortium.sandbox/hspc-sandbox-manager@1.7.3?classifier=sources

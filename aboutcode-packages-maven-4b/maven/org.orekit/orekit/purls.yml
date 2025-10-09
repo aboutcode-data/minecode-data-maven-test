@@ -15,3 +15,5 @@
 - pkg:maven/org.orekit/orekit@7.2?classifier=sources
 - pkg:maven/org.orekit/orekit@8.0
 - pkg:maven/org.orekit/orekit@8.0?classifier=sources
+- pkg:maven/org.orekit/orekit@9.0
+- pkg:maven/org.orekit/orekit@9.0?classifier=sources
