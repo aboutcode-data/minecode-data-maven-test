@@ -306,3 +306,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.10-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.10
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.10?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.8.3
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.8.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.11-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-pkix@10.11-rc-1?classifier=sources

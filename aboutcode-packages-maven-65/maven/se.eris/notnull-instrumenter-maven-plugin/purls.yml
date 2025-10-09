@@ -30,3 +30,5 @@
 - pkg:maven/se.eris/notnull-instrumenter-maven-plugin@0.6.7?classifier=sources
 - pkg:maven/se.eris/notnull-instrumenter-maven-plugin@0.6.8
 - pkg:maven/se.eris/notnull-instrumenter-maven-plugin@0.6.8?classifier=sources
+- pkg:maven/se.eris/notnull-instrumenter-maven-plugin@0.6.9-beta
+- pkg:maven/se.eris/notnull-instrumenter-maven-plugin@0.6.9-beta?classifier=sources
