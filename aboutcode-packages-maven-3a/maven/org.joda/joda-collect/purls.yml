@@ -6,3 +6,5 @@
 - pkg:maven/org.joda/joda-collect@1.0?classifier=sources
 - pkg:maven/org.joda/joda-collect@0.9
 - pkg:maven/org.joda/joda-collect@0.9?classifier=sources
+- pkg:maven/org.joda/joda-collect@1.0.1
+- pkg:maven/org.joda/joda-collect@1.0.1?classifier=sources

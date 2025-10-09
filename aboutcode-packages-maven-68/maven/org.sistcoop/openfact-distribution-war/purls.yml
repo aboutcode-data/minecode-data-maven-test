@@ -40,3 +40,13 @@
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.4.Final?classifier=sources
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.3.Final?type=war
 - pkg:maven/org.sistcoop/openfact-distribution-war@1.0.3.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.1.1.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.1.1.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.9.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.9.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.7.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.7.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.6.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.6.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.5.Final?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.5.Final?classifier=sources

@@ -88,3 +88,5 @@
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-server@4.3.7.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-server@5.1.10.Final
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-server@5.1.10.Final?classifier=sources
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-server@5.2.1.Final
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-server@5.2.1.Final?classifier=sources
