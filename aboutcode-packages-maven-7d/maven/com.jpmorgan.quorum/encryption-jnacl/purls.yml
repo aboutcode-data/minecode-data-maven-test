@@ -12,3 +12,5 @@
 - pkg:maven/com.jpmorgan.quorum/encryption-jnacl@0.9.4?classifier=sources
 - pkg:maven/com.jpmorgan.quorum/encryption-jnacl@0.10
 - pkg:maven/com.jpmorgan.quorum/encryption-jnacl@0.10?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/encryption-jnacl@0.10.0
+- pkg:maven/com.jpmorgan.quorum/encryption-jnacl@0.10.0?classifier=sources

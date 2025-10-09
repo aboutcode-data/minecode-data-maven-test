@@ -103,3 +103,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot-autoconfigure@0.88.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot-autoconfigure@0.89.0
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot-autoconfigure@0.89.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot-autoconfigure@0.90.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot-autoconfigure@0.90.0?classifier=sources
