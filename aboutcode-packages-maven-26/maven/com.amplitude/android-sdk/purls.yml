@@ -112,3 +112,5 @@
 - pkg:maven/com.amplitude/android-sdk@2.21.0?classifier=sources
 - pkg:maven/com.amplitude/android-sdk@2.22.0
 - pkg:maven/com.amplitude/android-sdk@2.22.0?classifier=sources
+- pkg:maven/com.amplitude/android-sdk@2.22.1
+- pkg:maven/com.amplitude/android-sdk@2.22.1?classifier=sources
