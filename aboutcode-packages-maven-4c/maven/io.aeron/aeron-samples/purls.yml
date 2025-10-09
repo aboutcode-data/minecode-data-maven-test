@@ -10,3 +10,5 @@
 - pkg:maven/io.aeron/aeron-samples@0.9.9?classifier=sources
 - pkg:maven/io.aeron/aeron-samples@1.0
 - pkg:maven/io.aeron/aeron-samples@1.0?classifier=sources
+- pkg:maven/io.aeron/aeron-samples@1.0.1
+- pkg:maven/io.aeron/aeron-samples@1.0.1?classifier=sources

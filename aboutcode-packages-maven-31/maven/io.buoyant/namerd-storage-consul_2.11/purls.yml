@@ -1,2 +1,4 @@
 - pkg:maven/io.buoyant/namerd-storage-consul_2.11@0.7.3
 - pkg:maven/io.buoyant/namerd-storage-consul_2.11@0.7.3?classifier=sources
+- pkg:maven/io.buoyant/namerd-storage-consul_2.11@0.7.4
+- pkg:maven/io.buoyant/namerd-storage-consul_2.11@0.7.4?classifier=sources

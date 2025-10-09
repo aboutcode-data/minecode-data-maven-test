@@ -138,3 +138,5 @@
 - pkg:maven/io.airlift/units@0.132?classifier=sources
 - pkg:maven/io.airlift/units@0.134
 - pkg:maven/io.airlift/units@0.134?classifier=sources
+- pkg:maven/io.airlift/units@1.0
+- pkg:maven/io.airlift/units@1.0?classifier=sources

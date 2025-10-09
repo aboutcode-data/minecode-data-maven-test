@@ -178,3 +178,5 @@
 - pkg:maven/com.sun.jersey.contribs/jersey-apache-client@1.19.1?classifier=sources
 - pkg:maven/com.sun.jersey.contribs/jersey-apache-client@1.18.5
 - pkg:maven/com.sun.jersey.contribs/jersey-apache-client@1.18.5?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-apache-client@1.19.2
+- pkg:maven/com.sun.jersey.contribs/jersey-apache-client@1.19.2?classifier=sources
