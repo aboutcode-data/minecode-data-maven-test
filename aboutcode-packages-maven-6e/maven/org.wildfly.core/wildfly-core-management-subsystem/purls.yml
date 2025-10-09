@@ -102,3 +102,7 @@
 - pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.6.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.5.Final
 - pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.5.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.8.Final
+- pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.8.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.7.Final
+- pkg:maven/org.wildfly.core/wildfly-core-management-subsystem@3.0.7.Final?classifier=sources

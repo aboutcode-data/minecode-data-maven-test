@@ -535,3 +535,8 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.206
 - pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.206?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.213
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.213?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.212
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.212?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.211
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.211?classifier=sources
