@@ -128,3 +128,5 @@
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-maven@0.16.11?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-maven@0.17.0
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-maven@0.17.0?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-test-harness-maven@0.17.1
+- pkg:maven/org.commonjava.maven.galley/galley-test-harness-maven@0.17.1?classifier=sources

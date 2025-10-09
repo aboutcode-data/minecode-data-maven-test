@@ -4,3 +4,5 @@
 - pkg:maven/io.zeebe/zeebe-broker@0.21.0-alpha3?classifier=sources
 - pkg:maven/io.zeebe/zeebe-broker@0.21.0
 - pkg:maven/io.zeebe/zeebe-broker@0.21.0?classifier=sources
+- pkg:maven/io.zeebe/zeebe-broker@0.21.1
+- pkg:maven/io.zeebe/zeebe-broker@0.21.1?classifier=sources

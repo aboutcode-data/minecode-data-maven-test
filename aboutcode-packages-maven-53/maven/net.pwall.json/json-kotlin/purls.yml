@@ -24,3 +24,5 @@
 - pkg:maven/net.pwall.json/json-kotlin@0.12?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin@0.11
 - pkg:maven/net.pwall.json/json-kotlin@0.11?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@1.0
+- pkg:maven/net.pwall.json/json-kotlin@1.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.0.Alpha6?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.0.Alpha7
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.0.Alpha7?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.0.Beta1
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.0.Beta1?classifier=sources

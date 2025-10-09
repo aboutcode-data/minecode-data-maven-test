@@ -27,3 +27,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hcatalog@2.14.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hcatalog@2.15.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hcatalog@2.15.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hcatalog@2.16.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hcatalog@2.16.0?classifier=sources

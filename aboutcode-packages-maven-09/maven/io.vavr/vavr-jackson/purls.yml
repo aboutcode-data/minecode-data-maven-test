@@ -10,3 +10,5 @@
 - pkg:maven/io.vavr/vavr-jackson@0.9.3?classifier=sources
 - pkg:maven/io.vavr/vavr-jackson@0.10.0
 - pkg:maven/io.vavr/vavr-jackson@0.10.0?classifier=sources
+- pkg:maven/io.vavr/vavr-jackson@0.10.2
+- pkg:maven/io.vavr/vavr-jackson@0.10.2?classifier=sources
