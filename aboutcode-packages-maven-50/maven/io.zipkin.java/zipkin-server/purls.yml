@@ -186,3 +186,7 @@
 - pkg:maven/io.zipkin.java/zipkin-server@1.19.2?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-server@1.19.1
 - pkg:maven/io.zipkin.java/zipkin-server@1.19.1?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-server@1.19.4
+- pkg:maven/io.zipkin.java/zipkin-server@1.19.4?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-server@1.19.3
+- pkg:maven/io.zipkin.java/zipkin-server@1.19.3?classifier=sources

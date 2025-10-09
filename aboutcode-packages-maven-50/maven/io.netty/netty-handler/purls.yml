@@ -178,3 +178,7 @@
 - pkg:maven/io.netty/netty-handler@4.1.7.Final?classifier=sources
 - pkg:maven/io.netty/netty-handler@4.0.43.Final
 - pkg:maven/io.netty/netty-handler@4.0.43.Final?classifier=sources
+- pkg:maven/io.netty/netty-handler@4.1.8.Final
+- pkg:maven/io.netty/netty-handler@4.1.8.Final?classifier=sources
+- pkg:maven/io.netty/netty-handler@4.0.44.Final
+- pkg:maven/io.netty/netty-handler@4.0.44.Final?classifier=sources

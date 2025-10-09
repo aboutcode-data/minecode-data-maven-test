@@ -184,3 +184,7 @@
 - pkg:maven/net.openhft/chronicle-wire@1.7.21?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@1.7.20
 - pkg:maven/net.openhft/chronicle-wire@1.7.20?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@1.7.23
+- pkg:maven/net.openhft/chronicle-wire@1.7.23?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@1.7.22
+- pkg:maven/net.openhft/chronicle-wire@1.7.22?classifier=sources

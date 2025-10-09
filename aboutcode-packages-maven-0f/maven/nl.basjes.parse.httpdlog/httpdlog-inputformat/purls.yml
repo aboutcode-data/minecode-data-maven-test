@@ -34,3 +34,5 @@
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-inputformat@2.7?classifier=sources
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-inputformat@2.8
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-inputformat@2.8?classifier=sources
+- pkg:maven/nl.basjes.parse.httpdlog/httpdlog-inputformat@3.0
+- pkg:maven/nl.basjes.parse.httpdlog/httpdlog-inputformat@3.0?classifier=sources
