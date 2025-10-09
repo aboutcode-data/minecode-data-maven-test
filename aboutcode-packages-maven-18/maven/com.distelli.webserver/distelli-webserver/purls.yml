@@ -130,3 +130,7 @@
 - pkg:maven/com.distelli.webserver/distelli-webserver@9.13.0?classifier=sources
 - pkg:maven/com.distelli.webserver/distelli-webserver@9.13.2
 - pkg:maven/com.distelli.webserver/distelli-webserver@9.13.2?classifier=sources
+- pkg:maven/com.distelli.webserver/distelli-webserver@9.14.0
+- pkg:maven/com.distelli.webserver/distelli-webserver@9.14.0?classifier=sources
+- pkg:maven/com.distelli.webserver/distelli-webserver@9.13.3
+- pkg:maven/com.distelli.webserver/distelli-webserver@9.13.3?classifier=sources
