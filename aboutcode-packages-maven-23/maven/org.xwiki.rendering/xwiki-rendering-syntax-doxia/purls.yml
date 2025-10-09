@@ -360,3 +360,5 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@9.3?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@8.4.5
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@8.4.5?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@9.4-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-doxia@9.4-rc-1?classifier=sources
