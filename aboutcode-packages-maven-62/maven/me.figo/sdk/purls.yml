@@ -80,3 +80,5 @@
 - pkg:maven/me.figo/sdk@3.1.8?classifier=sources
 - pkg:maven/me.figo/sdk@3.2.0
 - pkg:maven/me.figo/sdk@3.2.0?classifier=sources
+- pkg:maven/me.figo/sdk@4.0.2
+- pkg:maven/me.figo/sdk@4.0.2?classifier=sources
