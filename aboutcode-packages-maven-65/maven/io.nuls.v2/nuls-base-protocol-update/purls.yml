@@ -8,3 +8,5 @@
 - pkg:maven/io.nuls.v2/nuls-base-protocol-update@1.0.0-beta2?classifier=sources
 - pkg:maven/io.nuls.v2/nuls-base-protocol-update@1.0.0-beta3
 - pkg:maven/io.nuls.v2/nuls-base-protocol-update@1.0.0-beta3?classifier=sources
+- pkg:maven/io.nuls.v2/nuls-base-protocol-update@1.0.0.RELEASE
+- pkg:maven/io.nuls.v2/nuls-base-protocol-update@1.0.0.RELEASE?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-git@3.3.3?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-git@3.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-git@3.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-git@3.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-git@3.5.0?classifier=sources
