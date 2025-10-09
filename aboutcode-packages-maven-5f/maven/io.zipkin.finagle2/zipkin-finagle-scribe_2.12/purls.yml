@@ -22,3 +22,5 @@
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.10?classifier=sources
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.11
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.11?classifier=sources
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.13
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.13?classifier=sources

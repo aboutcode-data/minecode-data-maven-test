@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.7?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.8?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.8?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.15.9?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.15.9?classifier=sources

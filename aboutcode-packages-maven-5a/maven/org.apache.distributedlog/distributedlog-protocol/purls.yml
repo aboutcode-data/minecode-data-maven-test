@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.distributedlog/distributedlog-protocol@4.7.3?classifier=sources
 - pkg:maven/org.apache.distributedlog/distributedlog-protocol@4.9.0
 - pkg:maven/org.apache.distributedlog/distributedlog-protocol@4.9.0?classifier=sources
+- pkg:maven/org.apache.distributedlog/distributedlog-protocol@4.8.2
+- pkg:maven/org.apache.distributedlog/distributedlog-protocol@4.8.2?classifier=sources

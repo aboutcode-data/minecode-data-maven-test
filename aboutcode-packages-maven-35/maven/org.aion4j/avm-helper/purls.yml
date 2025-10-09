@@ -1,2 +1,4 @@
 - pkg:maven/org.aion4j/avm-helper@0.1.0
 - pkg:maven/org.aion4j/avm-helper@0.1.0?classifier=sources
+- pkg:maven/org.aion4j/avm-helper@0.5.0-beta1
+- pkg:maven/org.aion4j/avm-helper@0.5.0-beta1?classifier=sources

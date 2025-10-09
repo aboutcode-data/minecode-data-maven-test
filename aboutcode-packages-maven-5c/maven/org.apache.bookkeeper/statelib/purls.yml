@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.bookkeeper/statelib@4.7.3?classifier=sources
 - pkg:maven/org.apache.bookkeeper/statelib@4.9.0
 - pkg:maven/org.apache.bookkeeper/statelib@4.9.0?classifier=sources
+- pkg:maven/org.apache.bookkeeper/statelib@4.8.2
+- pkg:maven/org.apache.bookkeeper/statelib@4.8.2?classifier=sources
