@@ -34,3 +34,5 @@
 - pkg:maven/org.sakaiproject.scheduler/scheduler-component-shared@10.4?classifier=sources
 - pkg:maven/org.sakaiproject.scheduler/scheduler-component-shared@10.6
 - pkg:maven/org.sakaiproject.scheduler/scheduler-component-shared@10.6?classifier=sources
+- pkg:maven/org.sakaiproject.scheduler/scheduler-component-shared@10.7
+- pkg:maven/org.sakaiproject.scheduler/scheduler-component-shared@10.7?classifier=sources
