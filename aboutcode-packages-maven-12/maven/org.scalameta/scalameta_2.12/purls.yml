@@ -54,3 +54,5 @@
 - pkg:maven/org.scalameta/scalameta_2.12@1.5.0?classifier=sources
 - pkg:maven/org.scalameta/scalameta_2.12@3.4.0
 - pkg:maven/org.scalameta/scalameta_2.12@3.4.0?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.12@3.5.0
+- pkg:maven/org.scalameta/scalameta_2.12@3.5.0?classifier=sources

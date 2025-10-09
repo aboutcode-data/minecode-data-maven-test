@@ -132,3 +132,7 @@
 - pkg:maven/org.stagemonitor/stagemonitor-core@0.88.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-core@0.87.6
 - pkg:maven/org.stagemonitor/stagemonitor-core@0.87.6?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-core@0.88.2
+- pkg:maven/org.stagemonitor/stagemonitor-core@0.88.2?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-core@0.87.7
+- pkg:maven/org.stagemonitor/stagemonitor-core@0.87.7?classifier=sources
