@@ -298,3 +298,5 @@
 - pkg:maven/org.neo4j/neo4j-logging@3.2.14?classifier=sources
 - pkg:maven/org.neo4j/neo4j-logging@3.5.4
 - pkg:maven/org.neo4j/neo4j-logging@3.5.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-logging@3.4.13
+- pkg:maven/org.neo4j/neo4j-logging@3.4.13?classifier=sources

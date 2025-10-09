@@ -236,3 +236,5 @@
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.9.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.2.Final
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.3.10.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.3.10.Final?classifier=sources

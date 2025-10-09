@@ -130,3 +130,5 @@
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.92.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.93.0
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.93.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.94.0
+- pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.94.0?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/org.libreoffice/officebean@5.3.4?classifier=sources
 - pkg:maven/org.libreoffice/officebean@5.3.3
 - pkg:maven/org.libreoffice/officebean@5.3.3?classifier=sources
+- pkg:maven/org.libreoffice/officebean@6.2.3
+- pkg:maven/org.libreoffice/officebean@6.2.3?classifier=sources

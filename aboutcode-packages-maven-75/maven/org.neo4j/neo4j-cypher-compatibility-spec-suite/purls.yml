@@ -164,3 +164,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@3.2.14?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@3.5.4
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@3.5.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@3.4.13
+- pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@3.4.13?classifier=sources

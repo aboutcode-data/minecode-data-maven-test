@@ -74,3 +74,5 @@
 - pkg:maven/org.jboss.galleon/galleon-core@3.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.galleon/galleon-core@3.0.2.Final
 - pkg:maven/org.jboss.galleon/galleon-core@3.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.galleon/galleon-core@4.0.0.Alpha1
+- pkg:maven/org.jboss.galleon/galleon-core@4.0.0.Alpha1?classifier=sources
