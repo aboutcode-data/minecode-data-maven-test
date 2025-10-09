@@ -1,2 +1,4 @@
 - pkg:maven/com.floragunn/search-guard-tlstool@1.0
 - pkg:maven/com.floragunn/search-guard-tlstool@1.0?classifier=sources
+- pkg:maven/com.floragunn/search-guard-tlstool@1.1?type=zip
+- pkg:maven/com.floragunn/search-guard-tlstool@1.1?classifier=sources

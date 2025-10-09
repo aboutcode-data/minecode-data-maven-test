@@ -34,3 +34,5 @@
 - pkg:maven/com.github.davidmoten/aws-maven-plugin@0.2.16?classifier=sources
 - pkg:maven/com.github.davidmoten/aws-maven-plugin@0.2.15
 - pkg:maven/com.github.davidmoten/aws-maven-plugin@0.2.15?classifier=sources
+- pkg:maven/com.github.davidmoten/aws-maven-plugin@0.2.17
+- pkg:maven/com.github.davidmoten/aws-maven-plugin@0.2.17?classifier=sources

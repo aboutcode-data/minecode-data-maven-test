@@ -22,3 +22,5 @@
 - pkg:maven/com.bitmovin.api/bitmovin-java@1.9.0?classifier=sources
 - pkg:maven/com.bitmovin.api/bitmovin-java@1.10.0
 - pkg:maven/com.bitmovin.api/bitmovin-java@1.10.0?classifier=sources
+- pkg:maven/com.bitmovin.api/bitmovin-java@1.11.0
+- pkg:maven/com.bitmovin.api/bitmovin-java@1.11.0?classifier=sources

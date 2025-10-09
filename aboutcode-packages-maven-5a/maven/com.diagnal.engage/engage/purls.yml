@@ -120,3 +120,5 @@
 - pkg:maven/com.diagnal.engage/engage@1.2.5-alpah11?classifier=sources
 - pkg:maven/com.diagnal.engage/engage@1.2.5-alpah10?type=aar
 - pkg:maven/com.diagnal.engage/engage@1.2.5-alpah10?classifier=sources
+- pkg:maven/com.diagnal.engage/engage@1.2.7?type=aar
+- pkg:maven/com.diagnal.engage/engage@1.2.7?classifier=sources

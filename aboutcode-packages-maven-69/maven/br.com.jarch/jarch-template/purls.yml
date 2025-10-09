@@ -10,3 +10,7 @@
 - pkg:maven/br.com.jarch/jarch-template@18.2.8.2?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@18.2.8.1?type=war
 - pkg:maven/br.com.jarch/jarch-template@18.2.8.1?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@18.2.15?type=war
+- pkg:maven/br.com.jarch/jarch-template@18.2.15?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@18.2.14?type=war
+- pkg:maven/br.com.jarch/jarch-template@18.2.14?classifier=sources
