@@ -120,3 +120,5 @@
 - pkg:maven/com.newrelic.agent.android/android-agent@5.12.3?classifier=sources
 - pkg:maven/com.newrelic.agent.android/android-agent@5.13.0
 - pkg:maven/com.newrelic.agent.android/android-agent@5.13.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/android-agent@5.14.0
+- pkg:maven/com.newrelic.agent.android/android-agent@5.14.0?classifier=sources
