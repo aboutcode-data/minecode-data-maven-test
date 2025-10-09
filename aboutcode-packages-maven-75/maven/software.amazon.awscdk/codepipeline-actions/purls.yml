@@ -2,3 +2,5 @@
 - pkg:maven/software.amazon.awscdk/codepipeline-actions@0.28.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codepipeline-actions@0.29.0
 - pkg:maven/software.amazon.awscdk/codepipeline-actions@0.29.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codepipeline-actions@0.30.0
+- pkg:maven/software.amazon.awscdk/codepipeline-actions@0.30.0?classifier=sources
