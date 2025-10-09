@@ -10,3 +10,5 @@
 - pkg:maven/org.update4j/update4j@1.1.1-beta?classifier=sources
 - pkg:maven/org.update4j/update4j@1.1.0-beta
 - pkg:maven/org.update4j/update4j@1.1.0-beta?classifier=sources
+- pkg:maven/org.update4j/update4j@1.2.0
+- pkg:maven/org.update4j/update4j@1.2.0?classifier=sources

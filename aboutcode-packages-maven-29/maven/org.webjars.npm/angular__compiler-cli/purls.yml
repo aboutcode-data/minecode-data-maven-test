@@ -64,3 +64,5 @@
 - pkg:maven/org.webjars.npm/angular__compiler-cli@5.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/angular__compiler-cli@6.0.7
 - pkg:maven/org.webjars.npm/angular__compiler-cli@6.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/angular__compiler-cli@6.1.0
+- pkg:maven/org.webjars.npm/angular__compiler-cli@6.1.0?classifier=sources

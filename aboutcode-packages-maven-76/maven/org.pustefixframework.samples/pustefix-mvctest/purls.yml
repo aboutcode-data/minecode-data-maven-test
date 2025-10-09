@@ -4,3 +4,5 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.23.0?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.3?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.3?classifier=sources
+- pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.4?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.4?classifier=sources
