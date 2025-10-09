@@ -24,3 +24,5 @@
 - pkg:maven/net.named-data/jndn@0.11?classifier=sources
 - pkg:maven/net.named-data/jndn@0.12
 - pkg:maven/net.named-data/jndn@0.12?classifier=sources
+- pkg:maven/net.named-data/jndn@0.13
+- pkg:maven/net.named-data/jndn@0.13?classifier=sources

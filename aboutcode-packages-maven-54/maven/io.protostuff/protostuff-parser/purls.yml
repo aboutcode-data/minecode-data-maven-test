@@ -60,3 +60,7 @@
 - pkg:maven/io.protostuff/protostuff-parser@2.0.0-alpha19?classifier=sources
 - pkg:maven/io.protostuff/protostuff-parser@1.4.4
 - pkg:maven/io.protostuff/protostuff-parser@1.4.4?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@2.0.0-alpha21
+- pkg:maven/io.protostuff/protostuff-parser@2.0.0-alpha21?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@2.0.0-alpha20
+- pkg:maven/io.protostuff/protostuff-parser@2.0.0-alpha20?classifier=sources

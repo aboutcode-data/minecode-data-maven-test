@@ -1,1 +1,3 @@
 - pkg:maven/io.debezium/debezium-parent@0.1.0?classifier=source-release&type=zip
+- pkg:maven/io.debezium/debezium-parent@0.2.1?classifier=source-release&type=zip
+- pkg:maven/io.debezium/debezium-parent@0.2.0?classifier=source-release&type=zip
