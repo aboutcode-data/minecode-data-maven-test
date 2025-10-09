@@ -50,3 +50,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.9.4
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.9.4?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.9.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.9.6
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.9.6?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.9.6?classifier=source-release&type=zip

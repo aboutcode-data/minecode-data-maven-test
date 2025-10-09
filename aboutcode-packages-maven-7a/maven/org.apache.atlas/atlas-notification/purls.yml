@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.atlas/atlas-notification@0.8.2?classifier=sources
 - pkg:maven/org.apache.atlas/atlas-notification@1.0.0
 - pkg:maven/org.apache.atlas/atlas-notification@1.0.0?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-notification@1.1.0
+- pkg:maven/org.apache.atlas/atlas-notification@1.1.0?classifier=sources

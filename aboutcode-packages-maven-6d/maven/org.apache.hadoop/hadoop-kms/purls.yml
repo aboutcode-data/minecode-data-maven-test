@@ -47,3 +47,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-kms@2.7.7?type=war
 - pkg:maven/org.apache.hadoop/hadoop-kms@2.7.7?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-kms@3.1.1
+- pkg:maven/org.apache.hadoop/hadoop-kms@2.8.5?type=war

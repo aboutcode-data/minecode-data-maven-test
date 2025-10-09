@@ -76,3 +76,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-client@2.7.7
 - pkg:maven/org.apache.hadoop/hadoop-client@2.7.7?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-client@3.1.1
+- pkg:maven/org.apache.hadoop/hadoop-client@2.8.5

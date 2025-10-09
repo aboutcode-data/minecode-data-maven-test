@@ -72,3 +72,5 @@
 - pkg:maven/io.sentry/sentry@1.7.9?classifier=sources
 - pkg:maven/io.sentry/sentry@1.7.8
 - pkg:maven/io.sentry/sentry@1.7.8?classifier=sources
+- pkg:maven/io.sentry/sentry@1.7.10
+- pkg:maven/io.sentry/sentry@1.7.10?classifier=sources
