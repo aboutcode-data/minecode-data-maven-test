@@ -14,3 +14,5 @@
 - pkg:maven/org.vertexium/vertexium-security@2.5.7?classifier=sources
 - pkg:maven/org.vertexium/vertexium-security@2.6.2
 - pkg:maven/org.vertexium/vertexium-security@2.6.2?classifier=sources
+- pkg:maven/org.vertexium/vertexium-security@3.0.0
+- pkg:maven/org.vertexium/vertexium-security@3.0.0?classifier=sources

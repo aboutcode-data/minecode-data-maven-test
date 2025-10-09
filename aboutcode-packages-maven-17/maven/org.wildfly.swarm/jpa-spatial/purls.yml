@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.swarm/jpa-spatial@2017.9.4?classifier=sources
 - pkg:maven/org.wildfly.swarm/jpa-spatial@2017.9.5
 - pkg:maven/org.wildfly.swarm/jpa-spatial@2017.9.5?classifier=sources
+- pkg:maven/org.wildfly.swarm/jpa-spatial@2017.10.0
+- pkg:maven/org.wildfly.swarm/jpa-spatial@2017.10.0?classifier=sources

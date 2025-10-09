@@ -84,3 +84,5 @@
 - pkg:maven/org.vertexium/vertexium-blueprints@2.6.2?classifier=sources
 - pkg:maven/org.vertexium/vertexium-blueprints@2.4.6
 - pkg:maven/org.vertexium/vertexium-blueprints@2.4.6?classifier=sources
+- pkg:maven/org.vertexium/vertexium-blueprints@3.0.0
+- pkg:maven/org.vertexium/vertexium-blueprints@3.0.0?classifier=sources
