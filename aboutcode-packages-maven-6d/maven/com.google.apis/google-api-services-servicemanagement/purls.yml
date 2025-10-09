@@ -1006,3 +1006,7 @@
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20191113-1.29.2?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20191113-1.28.0
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20191113-1.28.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev473-1.25.0
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev473-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev473-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev473-1.18.0-rc?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.daml.ledger/participant-state-ledger-configuration-java-proto@100.13.38
 - pkg:maven/com.daml.ledger/participant-state-ledger-configuration-java-proto@100.13.38?classifier=sources
+- pkg:maven/com.daml.ledger/participant-state-ledger-configuration-java-proto@100.13.39
+- pkg:maven/com.daml.ledger/participant-state-ledger-configuration-java-proto@100.13.39?classifier=sources

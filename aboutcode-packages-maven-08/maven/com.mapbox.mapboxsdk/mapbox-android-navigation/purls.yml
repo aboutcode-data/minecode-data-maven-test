@@ -152,3 +152,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@0.42.2?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@0.42.4?type=aar
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@0.42.4?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@free-drive-v0.42-alpha.1?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-navigation@free-drive-v0.42-alpha.1?classifier=sources
