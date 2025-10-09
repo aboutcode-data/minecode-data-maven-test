@@ -10,3 +10,5 @@
 - pkg:maven/com.ibm.watson.developer_cloud/assistant@5.4.0?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/assistant@5.5.0
 - pkg:maven/com.ibm.watson.developer_cloud/assistant@5.5.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/assistant@6.0.0
+- pkg:maven/com.ibm.watson.developer_cloud/assistant@6.0.0?classifier=sources
