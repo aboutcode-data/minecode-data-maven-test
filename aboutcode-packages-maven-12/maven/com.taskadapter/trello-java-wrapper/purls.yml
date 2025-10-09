@@ -8,3 +8,5 @@
 - pkg:maven/com.taskadapter/trello-java-wrapper@0.8?classifier=sources
 - pkg:maven/com.taskadapter/trello-java-wrapper@0.9
 - pkg:maven/com.taskadapter/trello-java-wrapper@0.9?classifier=sources
+- pkg:maven/com.taskadapter/trello-java-wrapper@0.10
+- pkg:maven/com.taskadapter/trello-java-wrapper@0.10?classifier=sources

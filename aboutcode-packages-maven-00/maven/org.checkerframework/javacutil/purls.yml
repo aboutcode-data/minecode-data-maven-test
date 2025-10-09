@@ -104,3 +104,5 @@
 - pkg:maven/org.checkerframework/javacutil@2.5.7?classifier=sources
 - pkg:maven/org.checkerframework/javacutil@2.5.8
 - pkg:maven/org.checkerframework/javacutil@2.5.8?classifier=sources
+- pkg:maven/org.checkerframework/javacutil@2.6.0
+- pkg:maven/org.checkerframework/javacutil@2.6.0?classifier=sources

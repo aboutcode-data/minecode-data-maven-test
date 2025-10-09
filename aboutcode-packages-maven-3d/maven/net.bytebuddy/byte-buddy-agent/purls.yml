@@ -358,3 +358,5 @@
 - pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.7?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.8
 - pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.8?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.9
+- pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.9?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.21.0?classifier=sources
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.22.0
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.22.0?classifier=sources
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.22.1
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.22.1?classifier=sources
