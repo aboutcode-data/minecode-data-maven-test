@@ -374,3 +374,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-context@9.5.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-context@9.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-context@9.5?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-context@9.6-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-context@9.6-rc-1?classifier=sources

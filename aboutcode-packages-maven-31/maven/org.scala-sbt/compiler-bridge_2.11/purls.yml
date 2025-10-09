@@ -48,3 +48,5 @@
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.0.0-X18?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.0.0-X17
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.0.0-X17?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.0.0-X19
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.0.0-X19?classifier=sources

@@ -64,3 +64,7 @@
 - pkg:maven/org.redisson/redisson-all@3.4.3?classifier=sources
 - pkg:maven/org.redisson/redisson-all@2.9.3
 - pkg:maven/org.redisson/redisson-all@2.9.3?classifier=sources
+- pkg:maven/org.redisson/redisson-all@3.4.4
+- pkg:maven/org.redisson/redisson-all@3.4.4?classifier=sources
+- pkg:maven/org.redisson/redisson-all@2.9.4
+- pkg:maven/org.redisson/redisson-all@2.9.4?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.12?classifier=sources
 - pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.12.1
 - pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.12.1?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.13rc1
+- pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.13rc1?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.12.2
+- pkg:maven/org.simpleflatmapper/sfm-jdbi3@3.12.2?classifier=sources
