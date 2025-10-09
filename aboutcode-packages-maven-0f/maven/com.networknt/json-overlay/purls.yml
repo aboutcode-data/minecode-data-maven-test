@@ -24,3 +24,7 @@
 - pkg:maven/com.networknt/json-overlay@1.5.30?classifier=sources
 - pkg:maven/com.networknt/json-overlay@1.5.31
 - pkg:maven/com.networknt/json-overlay@1.5.31?classifier=sources
+- pkg:maven/com.networknt/json-overlay@2.0.0
+- pkg:maven/com.networknt/json-overlay@2.0.0?classifier=sources
+- pkg:maven/com.networknt/json-overlay@1.5.32
+- pkg:maven/com.networknt/json-overlay@1.5.32?classifier=sources
