@@ -196,3 +196,5 @@
 - pkg:maven/org.apache.lucene/lucene-core@7.7.2?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-core@8.2.0
 - pkg:maven/org.apache.lucene/lucene-core@8.2.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-core@8.3.0
+- pkg:maven/org.apache.lucene/lucene-core@8.3.0?classifier=sources
