@@ -38,3 +38,7 @@
 - pkg:maven/cloud.localstack/localstack-utils@0.1.17?classifier=sources
 - pkg:maven/cloud.localstack/localstack-utils@0.1.19
 - pkg:maven/cloud.localstack/localstack-utils@0.1.19?classifier=sources
+- pkg:maven/cloud.localstack/localstack-utils@0.1.21
+- pkg:maven/cloud.localstack/localstack-utils@0.1.21?classifier=sources
+- pkg:maven/cloud.localstack/localstack-utils@0.1.20
+- pkg:maven/cloud.localstack/localstack-utils@0.1.20?classifier=sources

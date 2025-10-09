@@ -44,3 +44,5 @@
 - pkg:maven/org.zalando/riptide-backup@2.10.1?classifier=sources
 - pkg:maven/org.zalando/riptide-backup@2.11.0
 - pkg:maven/org.zalando/riptide-backup@2.11.0?classifier=sources
+- pkg:maven/org.zalando/riptide-backup@3.0.0-RC.0
+- pkg:maven/org.zalando/riptide-backup@3.0.0-RC.0?classifier=sources
