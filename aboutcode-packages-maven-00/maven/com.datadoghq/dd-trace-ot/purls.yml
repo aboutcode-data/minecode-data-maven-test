@@ -92,3 +92,5 @@
 - pkg:maven/com.datadoghq/dd-trace-ot@0.35.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@0.36.0
 - pkg:maven/com.datadoghq/dd-trace-ot@0.36.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.37.0
+- pkg:maven/com.datadoghq/dd-trace-ot@0.37.0?classifier=sources

@@ -208,3 +208,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.10.0.pr3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.10.0
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.10.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.10.1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.10.1?classifier=sources

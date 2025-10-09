@@ -392,3 +392,7 @@
 - pkg:maven/com.google.apis/google-api-services-indexing@v3-rev54-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-indexing@v3-rev55-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-indexing@v3-rev55-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-indexing@v3-rev70-1.25.0
+- pkg:maven/com.google.apis/google-api-services-indexing@v3-rev70-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-indexing@v3-rev70-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-indexing@v3-rev70-1.18.0-rc?classifier=sources

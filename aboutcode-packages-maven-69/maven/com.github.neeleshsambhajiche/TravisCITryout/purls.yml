@@ -12,3 +12,7 @@
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@6.0?classifier=sources
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@8.0
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@8.0?classifier=sources
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@9.0
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@9.0?classifier=sources
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@10.0
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@10.0?classifier=sources
