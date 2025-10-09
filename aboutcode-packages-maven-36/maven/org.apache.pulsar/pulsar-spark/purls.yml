@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.pulsar/pulsar-spark@1.22.1-incubating
 - pkg:maven/org.apache.pulsar/pulsar-spark@1.22.1-incubating?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-spark@2.0.1-incubating
+- pkg:maven/org.apache.pulsar/pulsar-spark@2.0.1-incubating?classifier=sources

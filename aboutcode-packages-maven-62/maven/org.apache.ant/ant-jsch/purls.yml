@@ -38,3 +38,7 @@
 - pkg:maven/org.apache.ant/ant-jsch@1.9.11?classifier=sources
 - pkg:maven/org.apache.ant/ant-jsch@1.10.3
 - pkg:maven/org.apache.ant/ant-jsch@1.10.3?classifier=sources
+- pkg:maven/org.apache.ant/ant-jsch@1.9.12
+- pkg:maven/org.apache.ant/ant-jsch@1.9.12?classifier=sources
+- pkg:maven/org.apache.ant/ant-jsch@1.10.4
+- pkg:maven/org.apache.ant/ant-jsch@1.10.4?classifier=sources
