@@ -117,3 +117,6 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.2.38
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.2.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.2.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@1.2.39
+- pkg:maven/com.liferay/com.liferay.message.boards.web@1.2.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@1.2.39?classifier=sources-commercial

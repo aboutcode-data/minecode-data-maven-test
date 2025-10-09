@@ -92,3 +92,5 @@
 - pkg:maven/com.netflix.dyno/dyno-jedis@1.6.3-rc.8?classifier=sources
 - pkg:maven/com.netflix.dyno/dyno-jedis@1.6.3-rc.10
 - pkg:maven/com.netflix.dyno/dyno-jedis@1.6.3-rc.10?classifier=sources
+- pkg:maven/com.netflix.dyno/dyno-jedis@1.6.3
+- pkg:maven/com.netflix.dyno/dyno-jedis@1.6.3?classifier=sources

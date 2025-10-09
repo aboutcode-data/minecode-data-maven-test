@@ -134,3 +134,5 @@
 - pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@5.17.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@5.17.2
 - pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@5.17.2?classifier=sources
+- pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@5.18.0
+- pkg:maven/com.newrelic.agent.android/agent-gradle-plugin@5.18.0?classifier=sources

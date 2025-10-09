@@ -76,3 +76,7 @@
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.4.0.jre8?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.4.0.jre7
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.4.0.jre7?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.5.0.jre9-preview
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.5.0.jre9-preview?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.5.0.jre8-preview
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.5.0.jre8-preview?classifier=sources

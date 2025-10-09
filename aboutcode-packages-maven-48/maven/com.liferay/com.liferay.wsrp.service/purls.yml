@@ -88,3 +88,6 @@
 - pkg:maven/com.liferay/com.liferay.wsrp.service@1.1.10
 - pkg:maven/com.liferay/com.liferay.wsrp.service@1.1.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wsrp.service@1.1.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wsrp.service@2.0.0
+- pkg:maven/com.liferay/com.liferay.wsrp.service@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wsrp.service@2.0.0?classifier=sources-commercial

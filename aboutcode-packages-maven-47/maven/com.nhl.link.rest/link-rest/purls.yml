@@ -50,3 +50,7 @@
 - pkg:maven/com.nhl.link.rest/link-rest@1.27?classifier=sources
 - pkg:maven/com.nhl.link.rest/link-rest@2.11
 - pkg:maven/com.nhl.link.rest/link-rest@2.11?classifier=sources
+- pkg:maven/com.nhl.link.rest/link-rest@2.12
+- pkg:maven/com.nhl.link.rest/link-rest@2.12?classifier=sources
+- pkg:maven/com.nhl.link.rest/link-rest@1.28
+- pkg:maven/com.nhl.link.rest/link-rest@1.28?classifier=sources
