@@ -120,3 +120,5 @@
 - pkg:maven/org.thymeleaf/thymeleaf@3.0.5.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf@3.0.4.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf@3.0.4.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf@3.0.6.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf@3.0.6.RELEASE?classifier=sources

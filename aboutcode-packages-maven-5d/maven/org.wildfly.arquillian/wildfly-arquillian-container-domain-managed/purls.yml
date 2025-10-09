@@ -34,3 +34,5 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-managed@2.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-managed@2.0.1.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-managed@2.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-managed@2.1.0.Alpha2
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-managed@2.1.0.Alpha2?classifier=sources
