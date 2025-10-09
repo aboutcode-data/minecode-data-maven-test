@@ -295,3 +295,5 @@
 - pkg:maven/com.hazelcast/hazelcast-all@3.9.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-all@3.10-BETA-1
 - pkg:maven/com.hazelcast/hazelcast-all@3.10-BETA-1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-all@3.10-BETA-2
+- pkg:maven/com.hazelcast/hazelcast-all@3.10-BETA-2?classifier=sources
