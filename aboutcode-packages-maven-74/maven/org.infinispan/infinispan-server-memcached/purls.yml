@@ -234,3 +234,5 @@
 - pkg:maven/org.infinispan/infinispan-server-memcached@8.1.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-memcached@5.2.18.Final
 - pkg:maven/org.infinispan/infinispan-server-memcached@5.2.18.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-memcached@8.2.0.CR1
+- pkg:maven/org.infinispan/infinispan-server-memcached@8.2.0.CR1?classifier=sources

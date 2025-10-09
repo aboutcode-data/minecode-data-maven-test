@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc.build-agent/server@0.2
+- pkg:maven/org.jboss.pnc.build-agent/server@0.2?classifier=sources
