@@ -14,3 +14,7 @@
 - pkg:maven/org.web3j/besu@4.5.8?classifier=sources
 - pkg:maven/org.web3j/besu@4.5.9
 - pkg:maven/org.web3j/besu@4.5.9?classifier=sources
+- pkg:maven/org.web3j/besu@4.5.11
+- pkg:maven/org.web3j/besu@4.5.11?classifier=sources
+- pkg:maven/org.web3j/besu@4.5.10
+- pkg:maven/org.web3j/besu@4.5.10?classifier=sources
