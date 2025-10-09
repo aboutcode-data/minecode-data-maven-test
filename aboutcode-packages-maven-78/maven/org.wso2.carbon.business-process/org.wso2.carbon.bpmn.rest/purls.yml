@@ -80,3 +80,5 @@
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.59?classifier=sources
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.62?type=war
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.62?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.63?type=war
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpmn.rest@4.4.63?classifier=sources

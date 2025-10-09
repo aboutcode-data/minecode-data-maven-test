@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.is/org.wso2.identity.passivests.filter@5.6.0-alpha?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.identity.passivests.filter@5.6.0-alpha2
 - pkg:maven/org.wso2.is/org.wso2.identity.passivests.filter@5.6.0-alpha2?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.identity.passivests.filter@5.6.0-beta
+- pkg:maven/org.wso2.is/org.wso2.identity.passivests.filter@5.6.0-beta?classifier=sources

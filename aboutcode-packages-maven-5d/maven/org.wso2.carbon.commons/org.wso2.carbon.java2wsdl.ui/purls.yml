@@ -85,3 +85,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.java2wsdl.ui@4.6.30
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.java2wsdl.ui@4.6.30?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.java2wsdl.ui@4.6.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.java2wsdl.ui@4.6.31
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.java2wsdl.ui@4.6.31?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.java2wsdl.ui@4.6.31?classifier=source-release&type=zip

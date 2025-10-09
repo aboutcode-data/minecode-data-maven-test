@@ -97,3 +97,6 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.odata.endpoint@4.4.54
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.odata.endpoint@4.4.54?classifier=sources
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.odata.endpoint@4.4.54?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.odata.endpoint@4.4.55
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.odata.endpoint@4.4.55?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.odata.endpoint@4.4.55?classifier=source-release&type=zip

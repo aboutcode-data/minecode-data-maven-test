@@ -154,3 +154,6 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api.stub@4.6.78
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api.stub@4.6.78?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api.stub@4.6.78?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api.stub@4.6.79
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api.stub@4.6.79?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.rest.api.stub@4.6.79?classifier=source-release&type=zip
