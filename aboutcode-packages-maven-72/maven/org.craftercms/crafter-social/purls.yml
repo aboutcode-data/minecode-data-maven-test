@@ -88,3 +88,9 @@
 - pkg:maven/org.craftercms/crafter-social@3.0.11?classifier=sources
 - pkg:maven/org.craftercms/crafter-social@2.5.16?type=war
 - pkg:maven/org.craftercms/crafter-social@2.5.16?classifier=sources
+- pkg:maven/org.craftercms/crafter-social@3.0.13?type=war
+- pkg:maven/org.craftercms/crafter-social@3.0.13?classifier=sources
+- pkg:maven/org.craftercms/crafter-social@3.0.12?type=war
+- pkg:maven/org.craftercms/crafter-social@3.0.12?classifier=sources
+- pkg:maven/org.craftercms/crafter-social@2.5.17?type=war
+- pkg:maven/org.craftercms/crafter-social@2.5.17?classifier=sources

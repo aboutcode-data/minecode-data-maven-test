@@ -170,3 +170,5 @@
 - pkg:maven/org.apache.wicket/wicket-core@7.10.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-core@6.29.0
 - pkg:maven/org.apache.wicket/wicket-core@6.29.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-core@8.0.0
+- pkg:maven/org.apache.wicket/wicket-core@8.0.0?classifier=sources

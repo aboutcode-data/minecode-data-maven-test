@@ -150,3 +150,7 @@
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.8-RC3?classifier=sources
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.8-RC2
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.8-RC2?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.8-RC4
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.8-RC4?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.8
+- pkg:maven/org.dbflute/dbflute-runtime@1.1.8?classifier=sources

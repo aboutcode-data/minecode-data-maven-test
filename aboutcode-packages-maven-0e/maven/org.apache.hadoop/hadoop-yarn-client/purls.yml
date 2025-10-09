@@ -76,3 +76,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-client@2.7.6?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-client@3.0.2
 - pkg:maven/org.apache.hadoop/hadoop-yarn-client@3.0.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-client@2.8.4

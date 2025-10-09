@@ -182,3 +182,5 @@
 - pkg:maven/net.time4j/time4j-olson@3.41?classifier=sources
 - pkg:maven/net.time4j/time4j-olson@4.37
 - pkg:maven/net.time4j/time4j-olson@4.37?classifier=sources
+- pkg:maven/net.time4j/time4j-olson@4.38
+- pkg:maven/net.time4j/time4j-olson@4.38?classifier=sources

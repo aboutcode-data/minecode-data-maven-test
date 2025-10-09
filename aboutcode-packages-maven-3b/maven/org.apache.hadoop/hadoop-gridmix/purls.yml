@@ -84,3 +84,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@2.7.6?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.0.2
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.0.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@2.8.4

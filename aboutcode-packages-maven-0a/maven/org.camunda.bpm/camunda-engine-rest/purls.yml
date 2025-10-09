@@ -88,3 +88,5 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.9.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.9.0-alpha4?type=war
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.9.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine-rest@7.9.0-alpha5?type=war
+- pkg:maven/org.camunda.bpm/camunda-engine-rest@7.9.0-alpha5?classifier=sources

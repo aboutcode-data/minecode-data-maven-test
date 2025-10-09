@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@8.0.0-M9?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@7.10.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@7.10.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-javax@8.0.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-javax@8.0.0?classifier=sources

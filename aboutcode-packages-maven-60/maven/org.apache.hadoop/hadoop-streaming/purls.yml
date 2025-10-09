@@ -104,3 +104,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-streaming@2.7.6?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-streaming@3.0.2
 - pkg:maven/org.apache.hadoop/hadoop-streaming@3.0.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-streaming@2.8.4
