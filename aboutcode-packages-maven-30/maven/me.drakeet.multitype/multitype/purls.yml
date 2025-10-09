@@ -20,3 +20,5 @@
 - pkg:maven/me.drakeet.multitype/multitype@1.2.4?classifier=sources
 - pkg:maven/me.drakeet.multitype/multitype@1.2.3?type=aar
 - pkg:maven/me.drakeet.multitype/multitype@1.2.3?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype@2.1.0?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@2.1.0?classifier=sources

@@ -126,3 +126,5 @@
 - pkg:maven/de.otto.edison/edison-mongo@0.75.0?classifier=sources
 - pkg:maven/de.otto.edison/edison-mongo@0.74.0
 - pkg:maven/de.otto.edison/edison-mongo@0.74.0?classifier=sources
+- pkg:maven/de.otto.edison/edison-mongo@0.76.0
+- pkg:maven/de.otto.edison/edison-mongo@0.76.0?classifier=sources
