@@ -14,3 +14,5 @@
 - pkg:maven/org.kevoree.mwg.plugins/importer@7?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/importer@10
 - pkg:maven/org.kevoree.mwg.plugins/importer@10?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@11
+- pkg:maven/org.kevoree.mwg.plugins/importer@11?classifier=sources

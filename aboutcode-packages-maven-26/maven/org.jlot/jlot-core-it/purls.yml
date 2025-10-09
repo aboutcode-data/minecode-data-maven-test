@@ -40,3 +40,7 @@
 - pkg:maven/org.jlot/jlot-core-it@0.112?classifier=sources
 - pkg:maven/org.jlot/jlot-core-it@0.113
 - pkg:maven/org.jlot/jlot-core-it@0.113?classifier=sources
+- pkg:maven/org.jlot/jlot-core-it@1.2
+- pkg:maven/org.jlot/jlot-core-it@1.2?classifier=sources
+- pkg:maven/org.jlot/jlot-core-it@1.0
+- pkg:maven/org.jlot/jlot-core-it@1.0?classifier=sources

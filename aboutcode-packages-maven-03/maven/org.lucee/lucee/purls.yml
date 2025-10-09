@@ -36,3 +36,7 @@
 - pkg:maven/org.lucee/lucee@5.1.0.34?classifier=sources
 - pkg:maven/org.lucee/lucee@5.0.1.85
 - pkg:maven/org.lucee/lucee@5.0.1.85?classifier=sources
+- pkg:maven/org.lucee/lucee@5.2.0.11-ALPHA
+- pkg:maven/org.lucee/lucee@5.2.0.11-ALPHA?classifier=sources
+- pkg:maven/org.lucee/lucee@5.1.1.65
+- pkg:maven/org.lucee/lucee@5.1.1.65?classifier=sources
