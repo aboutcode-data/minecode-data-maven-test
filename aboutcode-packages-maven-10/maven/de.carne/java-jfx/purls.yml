@@ -2,3 +2,5 @@
 - pkg:maven/de.carne/java-jfx@3?classifier=sources
 - pkg:maven/de.carne/java-jfx@4
 - pkg:maven/de.carne/java-jfx@4?classifier=sources
+- pkg:maven/de.carne/java-jfx@5
+- pkg:maven/de.carne/java-jfx@5?classifier=sources

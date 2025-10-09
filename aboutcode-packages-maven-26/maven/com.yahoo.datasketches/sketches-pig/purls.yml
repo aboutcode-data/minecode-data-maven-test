@@ -24,3 +24,5 @@
 - pkg:maven/com.yahoo.datasketches/sketches-pig@0.8.2?classifier=sources
 - pkg:maven/com.yahoo.datasketches/sketches-pig@0.10.0
 - pkg:maven/com.yahoo.datasketches/sketches-pig@0.10.0?classifier=sources
+- pkg:maven/com.yahoo.datasketches/sketches-pig@0.10.1
+- pkg:maven/com.yahoo.datasketches/sketches-pig@0.10.1?classifier=sources

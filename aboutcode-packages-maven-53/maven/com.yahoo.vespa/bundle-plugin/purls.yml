@@ -1,2 +1,6 @@
 - pkg:maven/com.yahoo.vespa/bundle-plugin@6.143.177
 - pkg:maven/com.yahoo.vespa/bundle-plugin@6.143.177?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.144.26
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.144.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.143.255
+- pkg:maven/com.yahoo.vespa/bundle-plugin@6.143.255?classifier=sources
