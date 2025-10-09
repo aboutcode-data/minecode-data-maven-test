@@ -40,3 +40,5 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-private@11.4?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-private@12.0
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-private@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-private@12.1
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-private@12.1?classifier=sources

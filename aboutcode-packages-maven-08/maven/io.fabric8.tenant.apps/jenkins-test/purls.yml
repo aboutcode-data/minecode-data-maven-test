@@ -70,3 +70,5 @@
 - pkg:maven/io.fabric8.tenant.apps/jenkins-test@4.0.65?classifier=sources
 - pkg:maven/io.fabric8.tenant.apps/jenkins-test@4.0.64
 - pkg:maven/io.fabric8.tenant.apps/jenkins-test@4.0.64?classifier=sources
+- pkg:maven/io.fabric8.tenant.apps/jenkins-test@4.0.75
+- pkg:maven/io.fabric8.tenant.apps/jenkins-test@4.0.75?classifier=sources

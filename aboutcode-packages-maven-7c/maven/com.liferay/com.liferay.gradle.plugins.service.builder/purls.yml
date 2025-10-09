@@ -226,3 +226,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.1.23
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.1.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.1.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.1.28
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.1.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@2.1.28?classifier=sources-commercial

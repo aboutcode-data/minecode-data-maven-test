@@ -54,3 +54,5 @@
 - pkg:maven/org.sakaiproject.sitestats/sitestats-api@11.4?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-api@12.0
 - pkg:maven/org.sakaiproject.sitestats/sitestats-api@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.sitestats/sitestats-api@12.1
+- pkg:maven/org.sakaiproject.sitestats/sitestats-api@12.1?classifier=sources

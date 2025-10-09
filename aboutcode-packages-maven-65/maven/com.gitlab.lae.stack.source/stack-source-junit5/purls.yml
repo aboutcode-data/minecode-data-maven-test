@@ -26,3 +26,5 @@
 - pkg:maven/com.gitlab.lae.stack.source/stack-source-junit5@0.2-beta14?classifier=sources
 - pkg:maven/com.gitlab.lae.stack.source/stack-source-junit5@0.2-beta13
 - pkg:maven/com.gitlab.lae.stack.source/stack-source-junit5@0.2-beta13?classifier=sources
+- pkg:maven/com.gitlab.lae.stack.source/stack-source-junit5@0.2
+- pkg:maven/com.gitlab.lae.stack.source/stack-source-junit5@0.2?classifier=sources
