@@ -28,3 +28,5 @@
 - pkg:maven/com.sap.cloud.s4hana/core@1.10.0?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana/core@1.11.1
 - pkg:maven/com.sap.cloud.s4hana/core@1.11.1?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana/core@2.0.0-M3
+- pkg:maven/com.sap.cloud.s4hana/core@2.0.0-M3?classifier=sources

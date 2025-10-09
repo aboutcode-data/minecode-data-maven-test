@@ -60,3 +60,7 @@
 - pkg:maven/com.netease.nimlib/nrtc@3.4.0?classifier=sources
 - pkg:maven/com.netease.nimlib/nrtc@5.0.0?type=aar
 - pkg:maven/com.netease.nimlib/nrtc@5.0.0?classifier=sources
+- pkg:maven/com.netease.nimlib/nrtc@5.1.1?type=aar
+- pkg:maven/com.netease.nimlib/nrtc@5.1.1?classifier=sources
+- pkg:maven/com.netease.nimlib/nrtc@5.1.0?type=aar
+- pkg:maven/com.netease.nimlib/nrtc@5.1.0?classifier=sources
