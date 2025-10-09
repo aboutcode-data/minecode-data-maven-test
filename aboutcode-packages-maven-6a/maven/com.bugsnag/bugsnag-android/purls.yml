@@ -74,3 +74,5 @@
 - pkg:maven/com.bugsnag/bugsnag-android@3.8.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android@3.9.0?type=aar
 - pkg:maven/com.bugsnag/bugsnag-android@3.9.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android@4.0.0?type=aar
+- pkg:maven/com.bugsnag/bugsnag-android@4.0.0?classifier=sources

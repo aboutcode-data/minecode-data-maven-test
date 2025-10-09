@@ -52,3 +52,5 @@
 - pkg:maven/com.clouway.security/oauth2-server@1.0-RC28?classifier=sources
 - pkg:maven/com.clouway.security/oauth2-server@1.0
 - pkg:maven/com.clouway.security/oauth2-server@1.0?classifier=sources
+- pkg:maven/com.clouway.security/oauth2-server@1.0.1
+- pkg:maven/com.clouway.security/oauth2-server@1.0.1?classifier=sources

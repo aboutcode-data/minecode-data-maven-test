@@ -14,3 +14,5 @@
 - pkg:maven/com.brettonw.bedrock/database@1.0.7?classifier=sources
 - pkg:maven/com.brettonw.bedrock/database@1.0.6
 - pkg:maven/com.brettonw.bedrock/database@1.0.6?classifier=sources
+- pkg:maven/com.brettonw.bedrock/database@1.2.0
+- pkg:maven/com.brettonw.bedrock/database@1.2.0?classifier=sources
