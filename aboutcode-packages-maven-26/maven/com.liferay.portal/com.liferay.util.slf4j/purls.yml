@@ -16,3 +16,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.slf4j@3.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.slf4j@4.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.slf4j@4.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.slf4j@4.0.1
+- pkg:maven/com.liferay.portal/com.liferay.util.slf4j@4.0.1?classifier=sources
