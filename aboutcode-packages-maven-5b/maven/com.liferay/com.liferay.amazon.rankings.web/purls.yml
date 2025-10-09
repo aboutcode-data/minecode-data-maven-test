@@ -54,3 +54,6 @@
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.7
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.7?classifier=sources-commercial

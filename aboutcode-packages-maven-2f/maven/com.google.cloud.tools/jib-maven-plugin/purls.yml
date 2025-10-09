@@ -32,3 +32,5 @@
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.3?classifier=sources
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.8
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.8?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.9
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.9?classifier=sources
