@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.oodt/cas-product@1.2.3?classifier=sources
 - pkg:maven/org.apache.oodt/cas-product@1.2.4?type=war
 - pkg:maven/org.apache.oodt/cas-product@1.2.4?classifier=sources
+- pkg:maven/org.apache.oodt/cas-product@1.2.5?type=war
+- pkg:maven/org.apache.oodt/cas-product@1.2.5?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.10.2?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.20.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.20.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.5.9
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.5.9?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.5.8
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-parent@4.5.8?classifier=sources

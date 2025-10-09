@@ -32,3 +32,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-authy-core@5.3.3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-authy-core@5.2.7
 - pkg:maven/org.apereo.cas/cas-server-support-authy-core@5.2.7?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-authy-core@6.0.0-RC2
+- pkg:maven/org.apereo.cas/cas-server-support-authy-core@6.0.0-RC2?classifier=sources
