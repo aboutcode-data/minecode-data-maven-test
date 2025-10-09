@@ -16,3 +16,5 @@
 - pkg:maven/org.javimmutable/javimmutable-collections@1.7?classifier=sources
 - pkg:maven/org.javimmutable/javimmutable-collections@1.8
 - pkg:maven/org.javimmutable/javimmutable-collections@1.8?classifier=sources
+- pkg:maven/org.javimmutable/javimmutable-collections@1.9-beta-3
+- pkg:maven/org.javimmutable/javimmutable-collections@1.9-beta-3?classifier=sources

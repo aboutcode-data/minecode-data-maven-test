@@ -58,3 +58,5 @@
 - pkg:maven/org.infinispan/infinispan-tasks-api@8.2.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@9.1.1.Final
 - pkg:maven/org.infinispan/infinispan-tasks-api@9.1.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tasks-api@9.2.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-tasks-api@9.2.0.Alpha1?classifier=sources

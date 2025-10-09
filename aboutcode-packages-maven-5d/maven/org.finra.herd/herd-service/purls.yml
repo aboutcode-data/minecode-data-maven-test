@@ -52,3 +52,5 @@
 - pkg:maven/org.finra.herd/herd-service@0.52.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-service@0.53.0
 - pkg:maven/org.finra.herd/herd-service@0.53.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-service@0.54.0
+- pkg:maven/org.finra.herd/herd-service@0.54.0?classifier=sources

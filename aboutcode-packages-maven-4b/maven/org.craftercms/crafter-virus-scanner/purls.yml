@@ -38,3 +38,5 @@
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.0?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.1
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.1?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@2.5.7
+- pkg:maven/org.craftercms/crafter-virus-scanner@2.5.7?classifier=sources

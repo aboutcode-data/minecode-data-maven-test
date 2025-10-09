@@ -311,3 +311,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-jdbc@8.1.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-jdbc@9.1.1.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-jdbc@9.1.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-jdbc@9.2.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-cachestore-jdbc@9.2.0.Alpha1?classifier=sources

@@ -248,3 +248,7 @@
 - pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.2a?classifier=sources
 - pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.2
 - pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.2?classifier=sources
+- pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.4a
+- pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.4a?classifier=sources
+- pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.4
+- pkg:maven/org.http4s/http4s-json4s-native_2.10@0.16.4?classifier=sources

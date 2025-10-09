@@ -316,3 +316,5 @@
 - pkg:maven/org.infinispan/infinispan-lucene-demo@8.1.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-lucene-demo@9.1.1.Final
 - pkg:maven/org.infinispan/infinispan-lucene-demo@9.1.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-lucene-demo@9.2.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-lucene-demo@9.2.0.Alpha1?classifier=sources

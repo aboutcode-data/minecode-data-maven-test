@@ -20,3 +20,7 @@
 - pkg:maven/org.ldaptive/ldaptive-webapp@1.2.2?type=war
 - pkg:maven/org.ldaptive/ldaptive-webapp@1.2.2?classifier=sources
 - pkg:maven/org.ldaptive/ldaptive-webapp@1.0.11?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.2.3?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.2.3?classifier=sources
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.1.2?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.1.2?classifier=sources
