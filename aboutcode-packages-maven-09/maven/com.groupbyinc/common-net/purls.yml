@@ -64,3 +64,7 @@
 - pkg:maven/com.groupbyinc/common-net@52?classifier=sources
 - pkg:maven/com.groupbyinc/common-net@53
 - pkg:maven/com.groupbyinc/common-net@53?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@55
+- pkg:maven/com.groupbyinc/common-net@55?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@54
+- pkg:maven/com.groupbyinc/common-net@54?classifier=sources

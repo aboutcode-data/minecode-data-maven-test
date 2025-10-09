@@ -64,3 +64,7 @@
 - pkg:maven/com.groupbyinc/common-jackson@52?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@53
 - pkg:maven/com.groupbyinc/common-jackson@53?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@55
+- pkg:maven/com.groupbyinc/common-jackson@55?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@54
+- pkg:maven/com.groupbyinc/common-jackson@54?classifier=sources
