@@ -54,3 +54,5 @@
 - pkg:maven/com.spotify/scio-jdbc_2.12@0.7.0-beta3?classifier=sources
 - pkg:maven/com.spotify/scio-jdbc_2.12@0.7.0
 - pkg:maven/com.spotify/scio-jdbc_2.12@0.7.0?classifier=sources
+- pkg:maven/com.spotify/scio-jdbc_2.12@0.7.1
+- pkg:maven/com.spotify/scio-jdbc_2.12@0.7.1?classifier=sources

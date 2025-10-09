@@ -1,2 +1,4 @@
 - pkg:maven/com.omniwyse/hrms-commons@1.0
 - pkg:maven/com.omniwyse/hrms-commons@1.0?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0.01
+- pkg:maven/com.omniwyse/hrms-commons@1.0.01?classifier=sources

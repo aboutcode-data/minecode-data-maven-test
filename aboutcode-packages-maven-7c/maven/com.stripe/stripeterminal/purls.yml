@@ -6,3 +6,5 @@
 - pkg:maven/com.stripe/stripeterminal@0.3?classifier=sources
 - pkg:maven/com.stripe/stripeterminal@0.4?type=aar
 - pkg:maven/com.stripe/stripeterminal@0.4?classifier=sources
+- pkg:maven/com.stripe/stripeterminal@0.4.1?type=aar
+- pkg:maven/com.stripe/stripeterminal@0.4.1?classifier=sources

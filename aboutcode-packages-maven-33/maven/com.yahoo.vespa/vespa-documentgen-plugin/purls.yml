@@ -286,3 +286,5 @@
 - pkg:maven/com.yahoo.vespa/vespa-documentgen-plugin@7.6.98?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-documentgen-plugin@7.7.18
 - pkg:maven/com.yahoo.vespa/vespa-documentgen-plugin@7.7.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-documentgen-plugin@7.9.16
+- pkg:maven/com.yahoo.vespa/vespa-documentgen-plugin@7.9.16?classifier=sources
