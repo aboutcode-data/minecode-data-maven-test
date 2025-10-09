@@ -26,3 +26,5 @@
 - pkg:maven/org.testcontainers/mssqlserver@1.9.0?classifier=sources
 - pkg:maven/org.testcontainers/mssqlserver@1.10.0
 - pkg:maven/org.testcontainers/mssqlserver@1.10.0?classifier=sources
+- pkg:maven/org.testcontainers/mssqlserver@1.10.1
+- pkg:maven/org.testcontainers/mssqlserver@1.10.1?classifier=sources

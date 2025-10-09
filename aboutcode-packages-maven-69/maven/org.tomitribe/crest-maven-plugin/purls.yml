@@ -6,3 +6,5 @@
 - pkg:maven/org.tomitribe/crest-maven-plugin@0.7?classifier=sources
 - pkg:maven/org.tomitribe/crest-maven-plugin@0.8
 - pkg:maven/org.tomitribe/crest-maven-plugin@0.8?classifier=sources
+- pkg:maven/org.tomitribe/crest-maven-plugin@0.10
+- pkg:maven/org.tomitribe/crest-maven-plugin@0.10?classifier=sources

@@ -168,3 +168,5 @@
 - pkg:maven/org.rundeck/rundeck-core@3.0.7-20181008?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.0.8-20181029
 - pkg:maven/org.rundeck/rundeck-core@3.0.8-20181029?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@2.11.8
+- pkg:maven/org.rundeck/rundeck-core@2.11.8?classifier=sources
