@@ -124,3 +124,5 @@
 - pkg:maven/org.lastaflute.doc/lasta-doc@0.3.5-RC3?classifier=sources
 - pkg:maven/org.lastaflute.doc/lasta-doc@0.3.5-RC2
 - pkg:maven/org.lastaflute.doc/lasta-doc@0.3.5-RC2?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.5
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.5?classifier=sources
