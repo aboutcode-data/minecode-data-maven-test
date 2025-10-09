@@ -1,2 +1,4 @@
 - pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.15?type=war
 - pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.15?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.17?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.17?classifier=sources

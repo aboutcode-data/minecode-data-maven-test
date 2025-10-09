@@ -4,3 +4,5 @@
 - pkg:maven/io.github.mouadj92/schedule-release@4.0?classifier=sources
 - pkg:maven/io.github.mouadj92/schedule-release@2.0?type=aar
 - pkg:maven/io.github.mouadj92/schedule-release@2.0?classifier=sources
+- pkg:maven/io.github.mouadj92/schedule-release@6.0?type=aar
+- pkg:maven/io.github.mouadj92/schedule-release@6.0?classifier=sources
