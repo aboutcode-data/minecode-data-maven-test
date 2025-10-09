@@ -70,3 +70,5 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-hibernate@19.1?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-hibernate@19.3
 - pkg:maven/org.sakaiproject.samigo/samigo-hibernate@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-hibernate@12.7
+- pkg:maven/org.sakaiproject.samigo/samigo-hibernate@12.7?classifier=sources

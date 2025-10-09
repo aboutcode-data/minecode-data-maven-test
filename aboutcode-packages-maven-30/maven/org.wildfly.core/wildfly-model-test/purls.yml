@@ -480,3 +480,5 @@
 - pkg:maven/org.wildfly.core/wildfly-model-test@11.0.0.Beta2?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-model-test@10.0.2.Final
 - pkg:maven/org.wildfly.core/wildfly-model-test@10.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-model-test@10.0.3.Final
+- pkg:maven/org.wildfly.core/wildfly-model-test@10.0.3.Final?classifier=sources

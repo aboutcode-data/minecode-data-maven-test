@@ -20,3 +20,5 @@
 - pkg:maven/org.sakaiproject.velocity/sakai-velocity-util@19.1?classifier=sources
 - pkg:maven/org.sakaiproject.velocity/sakai-velocity-util@19.3
 - pkg:maven/org.sakaiproject.velocity/sakai-velocity-util@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.velocity/sakai-velocity-util@12.7
+- pkg:maven/org.sakaiproject.velocity/sakai-velocity-util@12.7?classifier=sources
