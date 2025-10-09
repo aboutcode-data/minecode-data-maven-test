@@ -24,3 +24,5 @@
 - pkg:maven/com.azavea.geotrellis/geotrellis-macros_2.10@0.10.0-RC3?classifier=sources
 - pkg:maven/com.azavea.geotrellis/geotrellis-macros_2.10@0.10.0-RC4
 - pkg:maven/com.azavea.geotrellis/geotrellis-macros_2.10@0.10.0-RC4?classifier=sources
+- pkg:maven/com.azavea.geotrellis/geotrellis-macros_2.10@0.10.0
+- pkg:maven/com.azavea.geotrellis/geotrellis-macros_2.10@0.10.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.facebook.fresco/imagepipeline-base@0.9.0?type=aar
 - pkg:maven/com.facebook.fresco/imagepipeline-base@0.9.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-base@0.10.0?type=aar
+- pkg:maven/com.facebook.fresco/imagepipeline-base@0.10.0?classifier=sources
