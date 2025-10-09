@@ -52,3 +52,4 @@
 - pkg:maven/org.apache.jena/jena-tdb@3.10.0
 - pkg:maven/org.apache.jena/jena-tdb@3.10.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-tdb@3.11.0
+- pkg:maven/org.apache.jena/jena-tdb@3.11.0?classifier=sources

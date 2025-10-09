@@ -1,2 +1,4 @@
 - pkg:maven/net.kyori/text-serializer-legacy@2.0.0
 - pkg:maven/net.kyori/text-serializer-legacy@2.0.0?classifier=sources
+- pkg:maven/net.kyori/text-serializer-legacy@3.0.0
+- pkg:maven/net.kyori/text-serializer-legacy@3.0.0?classifier=sources
