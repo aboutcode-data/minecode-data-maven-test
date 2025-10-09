@@ -25,3 +25,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-build-tools@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-build-tools@2.7.0
 - pkg:maven/org.apache.beam/beam-sdks-java-build-tools@2.7.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-build-tools@2.8.0
+- pkg:maven/org.apache.beam/beam-sdks-java-build-tools@2.8.0?classifier=sources
