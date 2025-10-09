@@ -340,3 +340,5 @@
 - pkg:maven/org.http4k/http4k-server-jetty@3.28.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-jetty@3.29.0
 - pkg:maven/org.http4k/http4k-server-jetty@3.29.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@3.31.0
+- pkg:maven/org.http4k/http4k-server-jetty@3.31.0?classifier=sources

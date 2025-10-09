@@ -28,3 +28,7 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.2-Beta-2?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.2-Beta-3?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.2-Beta-3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.3?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.2?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.2?classifier=sources
