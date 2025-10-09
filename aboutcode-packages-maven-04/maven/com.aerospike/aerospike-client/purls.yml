@@ -88,3 +88,5 @@
 - pkg:maven/com.aerospike/aerospike-client@4.0.7?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client@4.0.8
 - pkg:maven/com.aerospike/aerospike-client@4.0.8?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client@4.1.0
+- pkg:maven/com.aerospike/aerospike-client@4.1.0?classifier=sources

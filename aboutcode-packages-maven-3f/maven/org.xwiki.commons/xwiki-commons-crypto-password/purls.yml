@@ -234,3 +234,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@9.8.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@9.9
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@9.9?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@9.10-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@9.10-rc-1?classifier=sources
