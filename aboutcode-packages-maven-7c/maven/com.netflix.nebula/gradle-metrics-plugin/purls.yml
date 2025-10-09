@@ -78,3 +78,5 @@
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@4.3.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@5.0.0
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@5.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@5.1.0
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@5.1.0?classifier=sources

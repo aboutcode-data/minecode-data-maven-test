@@ -14,3 +14,5 @@
 - pkg:maven/com.pakulov.kafka/kafka-graphite-clients@0.2.2?classifier=sources
 - pkg:maven/com.pakulov.kafka/kafka-graphite-clients@0.2.4
 - pkg:maven/com.pakulov.kafka/kafka-graphite-clients@0.2.4?classifier=sources
+- pkg:maven/com.pakulov.kafka/kafka-graphite-clients@0.4.0
+- pkg:maven/com.pakulov.kafka/kafka-graphite-clients@0.4.0?classifier=sources

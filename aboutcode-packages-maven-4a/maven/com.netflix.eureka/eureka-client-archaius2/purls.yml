@@ -102,3 +102,5 @@
 - pkg:maven/com.netflix.eureka/eureka-client-archaius2@1.4.10?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-client-archaius2@1.4.11-rc.1
 - pkg:maven/com.netflix.eureka/eureka-client-archaius2@1.4.11-rc.1?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-archaius2@1.4.11
+- pkg:maven/com.netflix.eureka/eureka-client-archaius2@1.4.11?classifier=sources

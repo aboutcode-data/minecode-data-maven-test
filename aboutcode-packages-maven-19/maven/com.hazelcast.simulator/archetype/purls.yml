@@ -8,3 +8,5 @@
 - pkg:maven/com.hazelcast.simulator/archetype@0.7?classifier=sources
 - pkg:maven/com.hazelcast.simulator/archetype@0.8
 - pkg:maven/com.hazelcast.simulator/archetype@0.8?classifier=sources
+- pkg:maven/com.hazelcast.simulator/archetype@0.8.1
+- pkg:maven/com.hazelcast.simulator/archetype@0.8.1?classifier=sources
