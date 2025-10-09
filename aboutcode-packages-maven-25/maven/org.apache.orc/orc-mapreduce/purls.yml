@@ -52,3 +52,7 @@
 - pkg:maven/org.apache.orc/orc-mapreduce@1.6.1?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@1.5.7
 - pkg:maven/org.apache.orc/orc-mapreduce@1.5.7?classifier=sources
+- pkg:maven/org.apache.orc/orc-mapreduce@1.6.2
+- pkg:maven/org.apache.orc/orc-mapreduce@1.6.2?classifier=sources
+- pkg:maven/org.apache.orc/orc-mapreduce@1.5.8
+- pkg:maven/org.apache.orc/orc-mapreduce@1.5.8?classifier=sources

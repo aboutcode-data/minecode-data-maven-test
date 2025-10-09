@@ -86,3 +86,5 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-spring-rabbit@5.8.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-spring-rabbit@5.9.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-spring-rabbit@5.9.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-spring-rabbit@5.9.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-spring-rabbit@5.9.1?classifier=sources

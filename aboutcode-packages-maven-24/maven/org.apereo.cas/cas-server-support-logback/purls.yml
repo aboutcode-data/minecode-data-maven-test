@@ -32,3 +32,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.1.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.0.6
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.0.6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.1.2
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.1.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.0.7
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.0.7?classifier=sources

@@ -72,3 +72,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@5.3.14?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@5.3.13
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@5.3.13?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@6.1.2
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@6.1.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@6.0.7
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-amqp@6.0.7?classifier=sources
