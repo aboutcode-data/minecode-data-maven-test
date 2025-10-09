@@ -1,2 +1,4 @@
 - pkg:maven/io.prestosql/presto-matching@300
 - pkg:maven/io.prestosql/presto-matching@300?classifier=sources
+- pkg:maven/io.prestosql/presto-matching@301
+- pkg:maven/io.prestosql/presto-matching@301?classifier=sources

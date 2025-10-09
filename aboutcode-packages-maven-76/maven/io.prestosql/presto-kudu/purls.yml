@@ -1,1 +1,2 @@
 - pkg:maven/io.prestosql/presto-kudu@300?classifier=sources
+- pkg:maven/io.prestosql/presto-kudu@301?classifier=sources

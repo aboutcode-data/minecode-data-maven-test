@@ -12,3 +12,5 @@
 - pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.8?classifier=sources
 - pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.9?type=war
 - pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.9?classifier=sources
+- pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.10?type=war
+- pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.10?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.prestosql/presto-benchmark-driver@300
 - pkg:maven/io.prestosql/presto-benchmark-driver@300?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@301
+- pkg:maven/io.prestosql/presto-benchmark-driver@301?classifier=sources

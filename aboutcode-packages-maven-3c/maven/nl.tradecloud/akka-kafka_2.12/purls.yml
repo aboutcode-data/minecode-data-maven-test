@@ -8,3 +8,5 @@
 - pkg:maven/nl.tradecloud/akka-kafka_2.12@0.68?classifier=sources
 - pkg:maven/nl.tradecloud/akka-kafka_2.12@0.67
 - pkg:maven/nl.tradecloud/akka-kafka_2.12@0.67?classifier=sources
+- pkg:maven/nl.tradecloud/akka-kafka_2.12@0.69
+- pkg:maven/nl.tradecloud/akka-kafka_2.12@0.69?classifier=sources

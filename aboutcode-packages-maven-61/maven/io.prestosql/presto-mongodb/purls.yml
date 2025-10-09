@@ -1,1 +1,2 @@
 - pkg:maven/io.prestosql/presto-mongodb@300?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@301?classifier=sources

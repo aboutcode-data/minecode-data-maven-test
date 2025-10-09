@@ -32,3 +32,5 @@
 - pkg:maven/me.saro/commons@1.6?classifier=sources
 - pkg:maven/me.saro/commons@1.10
 - pkg:maven/me.saro/commons@1.10?classifier=sources
+- pkg:maven/me.saro/commons@2.0
+- pkg:maven/me.saro/commons@2.0?classifier=sources

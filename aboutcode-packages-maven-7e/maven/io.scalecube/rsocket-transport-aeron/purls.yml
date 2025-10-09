@@ -14,3 +14,7 @@
 - pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.7?classifier=sources
 - pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.9
 - pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.9?classifier=sources
+- pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.11
+- pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.11?classifier=sources
+- pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.10
+- pkg:maven/io.scalecube/rsocket-transport-aeron@0.1.10?classifier=sources
