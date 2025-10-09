@@ -154,3 +154,6 @@
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@3.1.12?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@3.0.14?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@2.6.17?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@3.2.0?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@3.1.13?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-javafirst@3.0.15?classifier=sources
