@@ -104,3 +104,5 @@
 - pkg:maven/org.apache.activemq/activemq-web-demo@5.15.8?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-demo@5.15.9?type=war
 - pkg:maven/org.apache.activemq/activemq-web-demo@5.15.9?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-demo@5.15.10?type=war
+- pkg:maven/org.apache.activemq/activemq-web-demo@5.15.10?classifier=sources
