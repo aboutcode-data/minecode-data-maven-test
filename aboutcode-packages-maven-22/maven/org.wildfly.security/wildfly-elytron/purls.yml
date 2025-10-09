@@ -266,3 +266,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.9.0.CR5?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.9.1.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.9.1.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.6.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.6.3.Final?classifier=sources

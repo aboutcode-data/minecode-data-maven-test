@@ -30,3 +30,5 @@
 - pkg:maven/org.tentackle/tentackle-sql@11.3.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-sql@8.2.4.0
 - pkg:maven/org.tentackle/tentackle-sql@8.2.4.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-sql@8.2.5.0
+- pkg:maven/org.tentackle/tentackle-sql@8.2.5.0?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/org.wicketstuff/wicket-gchart@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-gchart@7.14.0
 - pkg:maven/org.wicketstuff/wicket-gchart@7.14.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart@9.0.0-M2
+- pkg:maven/org.wicketstuff/wicket-gchart@9.0.0-M2?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart@8.5.0
+- pkg:maven/org.wicketstuff/wicket-gchart@8.5.0?classifier=sources

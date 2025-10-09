@@ -108,3 +108,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@7.14.0
 - pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@7.14.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@9.0.0-M2
+- pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@9.0.0-M2?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@8.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-restannotations-json@8.5.0?classifier=sources
