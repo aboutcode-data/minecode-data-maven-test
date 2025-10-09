@@ -30,3 +30,5 @@
 - pkg:maven/org.gweninterpreter/gwen-web@1.7.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@1.8.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@1.8.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@1.8.1?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@1.8.1?classifier=sources

@@ -152,3 +152,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-maven-plugin@9.3.11.v20160721?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-maven-plugin@9.2.18.v20160721
 - pkg:maven/org.eclipse.jetty/jetty-maven-plugin@9.2.18.v20160721?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-maven-plugin@9.4.0.M1
+- pkg:maven/org.eclipse.jetty/jetty-maven-plugin@9.4.0.M1?classifier=sources

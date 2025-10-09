@@ -16,3 +16,5 @@
 - pkg:maven/one.util/huntbugs-maven-plugin@0.0.7?classifier=sources
 - pkg:maven/one.util/huntbugs-maven-plugin@0.0.9
 - pkg:maven/one.util/huntbugs-maven-plugin@0.0.9?classifier=sources
+- pkg:maven/one.util/huntbugs-maven-plugin@0.0.10
+- pkg:maven/one.util/huntbugs-maven-plugin@0.0.10?classifier=sources
