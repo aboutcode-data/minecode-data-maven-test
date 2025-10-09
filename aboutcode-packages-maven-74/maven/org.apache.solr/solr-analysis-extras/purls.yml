@@ -154,3 +154,5 @@
 - pkg:maven/org.apache.solr/solr-analysis-extras@7.7.1?classifier=sources
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.0.0
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.0.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-analysis-extras@6.6.6
+- pkg:maven/org.apache.solr/solr-analysis-extras@6.6.6?classifier=sources

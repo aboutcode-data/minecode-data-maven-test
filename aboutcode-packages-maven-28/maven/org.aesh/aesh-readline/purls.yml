@@ -40,3 +40,7 @@
 - pkg:maven/org.aesh/aesh-readline@1.14?classifier=sources
 - pkg:maven/org.aesh/aesh-readline@1.15
 - pkg:maven/org.aesh/aesh-readline@1.15?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.17
+- pkg:maven/org.aesh/aesh-readline@1.17?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.16
+- pkg:maven/org.aesh/aesh-readline@1.16?classifier=sources
