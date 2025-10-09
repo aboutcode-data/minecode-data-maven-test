@@ -46,3 +46,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-storm@2.4.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.0.0-rc1
+- pkg:maven/org.elasticsearch/elasticsearch-storm@5.0.0-rc1?classifier=sources
