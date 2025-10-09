@@ -1,0 +1,4 @@
+- pkg:maven/org.tensorflow/libtensorflow@1.1.0-rc0-windows-fix
+- pkg:maven/org.tensorflow/libtensorflow@1.1.0-rc0-windows-fix?classifier=sources
+- pkg:maven/org.tensorflow/libtensorflow@1.1.0-rc0
+- pkg:maven/org.tensorflow/libtensorflow@1.1.0-rc0?classifier=sources
