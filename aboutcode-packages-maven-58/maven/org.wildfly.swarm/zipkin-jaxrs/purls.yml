@@ -8,3 +8,5 @@
 - pkg:maven/org.wildfly.swarm/zipkin-jaxrs@2017.1?classifier=sources
 - pkg:maven/org.wildfly.swarm/zipkin-jaxrs@2016.12.1
 - pkg:maven/org.wildfly.swarm/zipkin-jaxrs@2016.12.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/zipkin-jaxrs@2017.2.0
+- pkg:maven/org.wildfly.swarm/zipkin-jaxrs@2017.2.0?classifier=sources

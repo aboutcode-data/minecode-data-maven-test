@@ -2,3 +2,5 @@
 - pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.2?classifier=sources
 - pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.1
 - pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.1?classifier=sources
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.3?type=war
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.3?classifier=sources

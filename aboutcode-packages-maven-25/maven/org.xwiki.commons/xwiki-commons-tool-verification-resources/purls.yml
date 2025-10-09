@@ -340,3 +340,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@8.4.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@9.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@9.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@9.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@9.0?classifier=sources
