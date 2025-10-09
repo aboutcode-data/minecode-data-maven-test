@@ -112,3 +112,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-job-scheduler@0.30.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-job-scheduler@0.21.12.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-job-scheduler@0.21.12.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-job-scheduler@0.30.2.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-job-scheduler@0.30.2.Final?classifier=sources

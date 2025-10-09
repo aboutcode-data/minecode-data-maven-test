@@ -290,3 +290,7 @@
 - pkg:maven/org.glassfish/javax.faces@2.2.16?classifier=sources
 - pkg:maven/org.glassfish/javax.faces@2.4.0
 - pkg:maven/org.glassfish/javax.faces@2.4.0?classifier=sources
+- pkg:maven/org.glassfish/javax.faces@2.3.4
+- pkg:maven/org.glassfish/javax.faces@2.3.4?classifier=sources
+- pkg:maven/org.glassfish/javax.faces@2.2.8-27
+- pkg:maven/org.glassfish/javax.faces@2.2.8-27?classifier=sources

@@ -52,3 +52,7 @@
 - pkg:maven/org.http4k/http4k-server-apache@3.21.2?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@3.22.2
 - pkg:maven/org.http4k/http4k-server-apache@3.22.2?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@3.23.0
+- pkg:maven/org.http4k/http4k-server-apache@3.23.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@3.22.4
+- pkg:maven/org.http4k/http4k-server-apache@3.22.4?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.8?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.9?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.10?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.10?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.ikasan/ikasan-im-jboss6-sftp-maven-plugin@2.0.0-rc2?classifier=sources
 - pkg:maven/org.ikasan/ikasan-im-jboss6-sftp-maven-plugin@2.0.0-rc3
 - pkg:maven/org.ikasan/ikasan-im-jboss6-sftp-maven-plugin@2.0.0-rc3?classifier=sources
+- pkg:maven/org.ikasan/ikasan-im-jboss6-sftp-maven-plugin@2.0.0
+- pkg:maven/org.ikasan/ikasan-im-jboss6-sftp-maven-plugin@2.0.0?classifier=sources

@@ -84,3 +84,5 @@
 - pkg:maven/org.ikasan/ikasan-spec-recovery-manager@2.0.0-rc2?classifier=sources
 - pkg:maven/org.ikasan/ikasan-spec-recovery-manager@2.0.0-rc3
 - pkg:maven/org.ikasan/ikasan-spec-recovery-manager@2.0.0-rc3?classifier=sources
+- pkg:maven/org.ikasan/ikasan-spec-recovery-manager@2.0.0
+- pkg:maven/org.ikasan/ikasan-spec-recovery-manager@2.0.0?classifier=sources
