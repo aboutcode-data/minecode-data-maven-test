@@ -22,3 +22,5 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-redis@2.10.1?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-redis@2.10
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-redis@2.10?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-redis@3.2
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-redis@3.2?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/io.airlift.drift/drift-client@1.16?classifier=sources
 - pkg:maven/io.airlift.drift/drift-client@1.17
 - pkg:maven/io.airlift.drift/drift-client@1.17?classifier=sources
+- pkg:maven/io.airlift.drift/drift-client@1.18
+- pkg:maven/io.airlift.drift/drift-client@1.18?classifier=sources

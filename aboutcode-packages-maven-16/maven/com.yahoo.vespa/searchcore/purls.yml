@@ -292,3 +292,9 @@
 - pkg:maven/com.yahoo.vespa/searchcore@7.12.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/searchcore@7.11.13
 - pkg:maven/com.yahoo.vespa/searchcore@7.11.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchcore@7.15.21
+- pkg:maven/com.yahoo.vespa/searchcore@7.15.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchcore@7.14.17
+- pkg:maven/com.yahoo.vespa/searchcore@7.14.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/searchcore@7.13.75
+- pkg:maven/com.yahoo.vespa/searchcore@7.13.75?classifier=sources
