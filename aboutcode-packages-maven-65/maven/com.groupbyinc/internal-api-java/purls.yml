@@ -12,3 +12,5 @@
 - pkg:maven/com.groupbyinc/internal-api-java@1.0?classifier=sources
 - pkg:maven/com.groupbyinc/internal-api-java@1.6
 - pkg:maven/com.groupbyinc/internal-api-java@1.6?classifier=sources
+- pkg:maven/com.groupbyinc/internal-api-java@1.7
+- pkg:maven/com.groupbyinc/internal-api-java@1.7?classifier=sources

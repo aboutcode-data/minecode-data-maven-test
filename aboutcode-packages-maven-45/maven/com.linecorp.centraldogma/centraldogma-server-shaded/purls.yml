@@ -15,3 +15,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-shaded@0.28.1?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-shaded@0.29.0
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-shaded@0.29.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-shaded@0.30.0
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-shaded@0.30.0?classifier=sources

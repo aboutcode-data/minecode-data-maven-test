@@ -80,3 +80,5 @@
 - pkg:maven/com.hack23.cia/jms-broker@2018.5.8?classifier=sources
 - pkg:maven/com.hack23.cia/jms-broker@2018.5.21
 - pkg:maven/com.hack23.cia/jms-broker@2018.5.21?classifier=sources
+- pkg:maven/com.hack23.cia/jms-broker@2018.7.31
+- pkg:maven/com.hack23.cia/jms-broker@2018.7.31?classifier=sources

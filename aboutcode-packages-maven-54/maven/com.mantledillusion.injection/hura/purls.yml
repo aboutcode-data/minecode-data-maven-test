@@ -24,3 +24,5 @@
 - pkg:maven/com.mantledillusion.injection/hura@1.0.0.ALPHA11?classifier=sources
 - pkg:maven/com.mantledillusion.injection/hura@1.0.0.BETA2
 - pkg:maven/com.mantledillusion.injection/hura@1.0.0.BETA2?classifier=sources
+- pkg:maven/com.mantledillusion.injection/hura@1.0.0
+- pkg:maven/com.mantledillusion.injection/hura@1.0.0?classifier=sources

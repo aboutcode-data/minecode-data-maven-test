@@ -158,3 +158,5 @@
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev23-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev23-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev23-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev23-1.24.1
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev23-1.24.1?classifier=sources
