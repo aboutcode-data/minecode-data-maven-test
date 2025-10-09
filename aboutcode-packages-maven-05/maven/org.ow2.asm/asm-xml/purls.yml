@@ -28,3 +28,5 @@
 - pkg:maven/org.ow2.asm/asm-xml@6.0_BETA?classifier=sources
 - pkg:maven/org.ow2.asm/asm-xml@6.0
 - pkg:maven/org.ow2.asm/asm-xml@6.0?classifier=sources
+- pkg:maven/org.ow2.asm/asm-xml@6.1-beta
+- pkg:maven/org.ow2.asm/asm-xml@6.1-beta?classifier=sources

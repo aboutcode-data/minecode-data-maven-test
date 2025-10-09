@@ -8,3 +8,5 @@
 - pkg:maven/org.trellisldp/trellis-agent@0.2.2?classifier=sources
 - pkg:maven/org.trellisldp/trellis-agent@0.5.0
 - pkg:maven/org.trellisldp/trellis-agent@0.5.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-agent@0.5.1
+- pkg:maven/org.trellisldp/trellis-agent@0.5.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.1.0-RC2?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.1.0-RC4
 - pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.1.0-RC4?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.1.0
+- pkg:maven/org.scala-sbt/zinc-compile-core_2.12@1.1.0?classifier=sources

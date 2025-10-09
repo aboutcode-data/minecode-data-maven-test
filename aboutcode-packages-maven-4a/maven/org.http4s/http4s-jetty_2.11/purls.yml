@@ -304,3 +304,5 @@
 - pkg:maven/org.http4s/http4s-jetty_2.11@0.16.6?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty_2.11@0.18.0-M7
 - pkg:maven/org.http4s/http4s-jetty_2.11@0.18.0-M7?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty_2.11@0.18.0-M8
+- pkg:maven/org.http4s/http4s-jetty_2.11@0.18.0-M8?classifier=sources
