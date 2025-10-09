@@ -46,3 +46,5 @@
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.1.6?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.1.8
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.1.8?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.1.9
+- pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.1.9?classifier=sources

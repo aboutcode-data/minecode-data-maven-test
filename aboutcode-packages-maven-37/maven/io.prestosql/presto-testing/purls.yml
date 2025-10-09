@@ -1,2 +1,4 @@
 - pkg:maven/io.prestosql/presto-testing@326
 - pkg:maven/io.prestosql/presto-testing@326?classifier=sources
+- pkg:maven/io.prestosql/presto-testing@327
+- pkg:maven/io.prestosql/presto-testing@327?classifier=sources
