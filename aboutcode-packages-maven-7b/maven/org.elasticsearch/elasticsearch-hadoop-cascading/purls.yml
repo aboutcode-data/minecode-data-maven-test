@@ -216,3 +216,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.6.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@5.6.16
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@5.6.16?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.7.0
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.7.0?classifier=sources

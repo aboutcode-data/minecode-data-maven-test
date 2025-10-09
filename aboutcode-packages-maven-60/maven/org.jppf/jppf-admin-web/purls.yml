@@ -14,3 +14,5 @@
 - pkg:maven/org.jppf/jppf-admin-web@6.0.2?classifier=sources
 - pkg:maven/org.jppf/jppf-admin-web@6.1-beta?type=war
 - pkg:maven/org.jppf/jppf-admin-web@6.1-beta?classifier=sources
+- pkg:maven/org.jppf/jppf-admin-web@6.1?type=war
+- pkg:maven/org.jppf/jppf-admin-web@6.1?classifier=sources

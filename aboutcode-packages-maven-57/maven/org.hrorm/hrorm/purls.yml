@@ -40,3 +40,5 @@
 - pkg:maven/org.hrorm/hrorm@0.7.3?classifier=sources
 - pkg:maven/org.hrorm/hrorm@0.8.0
 - pkg:maven/org.hrorm/hrorm@0.8.0?classifier=sources
+- pkg:maven/org.hrorm/hrorm@0.9.0
+- pkg:maven/org.hrorm/hrorm@0.9.0?classifier=sources

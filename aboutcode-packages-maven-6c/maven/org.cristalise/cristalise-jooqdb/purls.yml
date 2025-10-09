@@ -12,3 +12,5 @@
 - pkg:maven/org.cristalise/cristalise-jooqdb@3.7.0?classifier=sources
 - pkg:maven/org.cristalise/cristalise-jooqdb@4.0.0-RC2
 - pkg:maven/org.cristalise/cristalise-jooqdb@4.0.0-RC2?classifier=sources
+- pkg:maven/org.cristalise/cristalise-jooqdb@4.0.0
+- pkg:maven/org.cristalise/cristalise-jooqdb@4.0.0?classifier=sources

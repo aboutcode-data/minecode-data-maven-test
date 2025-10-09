@@ -14,3 +14,5 @@
 - pkg:maven/org.cristalise/cristalise-gui@3.7.0?classifier=sources
 - pkg:maven/org.cristalise/cristalise-gui@4.0.0-RC2
 - pkg:maven/org.cristalise/cristalise-gui@4.0.0-RC2?classifier=sources
+- pkg:maven/org.cristalise/cristalise-gui@4.0.0
+- pkg:maven/org.cristalise/cristalise-gui@4.0.0?classifier=sources
