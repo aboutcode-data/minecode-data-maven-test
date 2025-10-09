@@ -34,3 +34,5 @@
 - pkg:maven/org.aion4j/aion4j-maven-plugin@0.4.7?classifier=sources
 - pkg:maven/org.aion4j/aion4j-maven-plugin@0.5.0-beta1
 - pkg:maven/org.aion4j/aion4j-maven-plugin@0.5.0-beta1?classifier=sources
+- pkg:maven/org.aion4j/aion4j-maven-plugin@0.5.0
+- pkg:maven/org.aion4j/aion4j-maven-plugin@0.5.0?classifier=sources
