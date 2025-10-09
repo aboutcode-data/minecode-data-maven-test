@@ -54,3 +54,5 @@
 - pkg:maven/com.github.oscerd/camel-cassandra@2.20.2?classifier=sources
 - pkg:maven/com.github.oscerd/camel-cassandra@2.21.0
 - pkg:maven/com.github.oscerd/camel-cassandra@2.21.0?classifier=sources
+- pkg:maven/com.github.oscerd/camel-cassandra@2.21.1
+- pkg:maven/com.github.oscerd/camel-cassandra@2.21.1?classifier=sources

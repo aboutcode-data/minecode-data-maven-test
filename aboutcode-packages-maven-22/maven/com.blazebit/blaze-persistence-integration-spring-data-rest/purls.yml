@@ -4,3 +4,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-rest@1.2.0-Alpha5?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-rest@1.2.0-RC1
 - pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-rest@1.2.0-RC1?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-rest@1.2.0
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-rest@1.2.0?classifier=sources

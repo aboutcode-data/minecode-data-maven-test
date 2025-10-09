@@ -88,3 +88,7 @@
 - pkg:maven/com.blackducksoftware.integration/hub-common-rest@8.3.1?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/hub-common-rest@8.3.0
 - pkg:maven/com.blackducksoftware.integration/hub-common-rest@8.3.0?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@9.0.1
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@9.0.1?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@9.0.0
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@9.0.0?classifier=sources

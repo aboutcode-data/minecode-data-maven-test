@@ -72,3 +72,5 @@
 - pkg:maven/com.dorkbox/SystemTray@3.12?classifier=sources
 - pkg:maven/com.dorkbox/SystemTray@3.13
 - pkg:maven/com.dorkbox/SystemTray@3.13?classifier=sources
+- pkg:maven/com.dorkbox/SystemTray@3.14
+- pkg:maven/com.dorkbox/SystemTray@3.14?classifier=sources

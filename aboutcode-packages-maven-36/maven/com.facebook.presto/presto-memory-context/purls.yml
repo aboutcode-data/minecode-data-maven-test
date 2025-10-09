@@ -14,3 +14,5 @@
 - pkg:maven/com.facebook.presto/presto-memory-context@0.199?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory-context@0.200
 - pkg:maven/com.facebook.presto/presto-memory-context@0.200?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory-context@0.201
+- pkg:maven/com.facebook.presto/presto-memory-context@0.201?classifier=sources
