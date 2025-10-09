@@ -32,3 +32,5 @@
 - pkg:maven/org.zalando/spring-cloud-config-aws-kms@2.2?classifier=sources
 - pkg:maven/org.zalando/spring-cloud-config-aws-kms@4.0-beta1
 - pkg:maven/org.zalando/spring-cloud-config-aws-kms@4.0-beta1?classifier=sources
+- pkg:maven/org.zalando/spring-cloud-config-aws-kms@4.0
+- pkg:maven/org.zalando/spring-cloud-config-aws-kms@4.0?classifier=sources

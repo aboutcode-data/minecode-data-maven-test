@@ -108,3 +108,5 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.1.CR2?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.1.CR1
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.1.CR1?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.1.CR3
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@3.0.1.CR3?classifier=sources

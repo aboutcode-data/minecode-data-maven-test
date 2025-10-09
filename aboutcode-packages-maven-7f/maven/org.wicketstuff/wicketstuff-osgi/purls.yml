@@ -150,3 +150,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-osgi@7.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-osgi@6.30.0
 - pkg:maven/org.wicketstuff/wicketstuff-osgi@6.30.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-osgi@8.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-osgi@8.3.0?classifier=sources

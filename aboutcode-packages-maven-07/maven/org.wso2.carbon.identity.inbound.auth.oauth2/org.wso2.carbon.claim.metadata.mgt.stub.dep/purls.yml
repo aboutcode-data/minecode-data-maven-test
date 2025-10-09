@@ -142,3 +142,7 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.89?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.92
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.92?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.94
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.94?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.93
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.claim.metadata.mgt.stub.dep@6.0.93?classifier=sources

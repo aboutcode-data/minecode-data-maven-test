@@ -142,3 +142,5 @@
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m18?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m19?type=war
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m19?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m20?type=war
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m20?classifier=sources

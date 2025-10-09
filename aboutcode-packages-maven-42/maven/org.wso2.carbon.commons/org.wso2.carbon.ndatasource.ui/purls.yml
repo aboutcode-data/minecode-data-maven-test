@@ -145,3 +145,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.ui@4.6.50
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.ui@4.6.50?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.ui@4.6.50?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.ui@4.6.51
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.ui@4.6.51?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.ui@4.6.51?classifier=source-release&type=zip
