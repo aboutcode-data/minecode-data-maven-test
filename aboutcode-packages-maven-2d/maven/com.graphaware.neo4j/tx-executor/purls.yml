@@ -166,3 +166,5 @@
 - pkg:maven/com.graphaware.neo4j/tx-executor@3.4.12.52?classifier=sources
 - pkg:maven/com.graphaware.neo4j/tx-executor@3.5.3.53
 - pkg:maven/com.graphaware.neo4j/tx-executor@3.5.3.53?classifier=sources
+- pkg:maven/com.graphaware.neo4j/tx-executor@3.5.4.53
+- pkg:maven/com.graphaware.neo4j/tx-executor@3.5.4.53?classifier=sources
