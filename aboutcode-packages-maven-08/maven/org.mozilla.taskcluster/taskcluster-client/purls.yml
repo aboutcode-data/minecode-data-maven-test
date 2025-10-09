@@ -334,3 +334,5 @@
 - pkg:maven/org.mozilla.taskcluster/taskcluster-client@1.0.169?classifier=sources
 - pkg:maven/org.mozilla.taskcluster/taskcluster-client@1.0.168
 - pkg:maven/org.mozilla.taskcluster/taskcluster-client@1.0.168?classifier=sources
+- pkg:maven/org.mozilla.taskcluster/taskcluster-client@1.0.170
+- pkg:maven/org.mozilla.taskcluster/taskcluster-client@1.0.170?classifier=sources

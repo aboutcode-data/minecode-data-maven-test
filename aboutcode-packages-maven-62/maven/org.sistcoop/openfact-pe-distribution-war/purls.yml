@@ -1,2 +1,4 @@
 - pkg:maven/org.sistcoop/openfact-pe-distribution-war@1.0.RC2?type=war
 - pkg:maven/org.sistcoop/openfact-pe-distribution-war@1.0.RC2?classifier=sources
+- pkg:maven/org.sistcoop/openfact-pe-distribution-war@1.0.RC3?type=war
+- pkg:maven/org.sistcoop/openfact-pe-distribution-war@1.0.RC3?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.pac4j/pac4j-jwt@2.0.0?classifier=sources
 - pkg:maven/org.pac4j/pac4j-jwt@1.9.8
 - pkg:maven/org.pac4j/pac4j-jwt@1.9.8?classifier=sources
+- pkg:maven/org.pac4j/pac4j-jwt@1.9.9
+- pkg:maven/org.pac4j/pac4j-jwt@1.9.9?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/org.sonarsource.java/java-jacoco@4.8.0.9441?classifier=sources
 - pkg:maven/org.sonarsource.java/java-jacoco@4.9.0.9858
 - pkg:maven/org.sonarsource.java/java-jacoco@4.9.0.9858?classifier=sources
+- pkg:maven/org.sonarsource.java/java-jacoco@4.10.0.10260
+- pkg:maven/org.sonarsource.java/java-jacoco@4.10.0.10260?classifier=sources

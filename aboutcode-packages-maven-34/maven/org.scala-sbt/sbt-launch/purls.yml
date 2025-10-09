@@ -12,3 +12,5 @@
 - pkg:maven/org.scala-sbt/sbt-launch@0.99.2?classifier=sources
 - pkg:maven/org.scala-sbt/sbt-launch@1.0.0-M5
 - pkg:maven/org.scala-sbt/sbt-launch@1.0.0-M5?classifier=sources
+- pkg:maven/org.scala-sbt/sbt-launch@1.0.0-M6
+- pkg:maven/org.scala-sbt/sbt-launch@1.0.0-M6?classifier=sources
