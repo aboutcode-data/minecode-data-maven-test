@@ -1,2 +1,4 @@
 - pkg:maven/com.softwaremill.sttp/zio_2.12@1.5.9
 - pkg:maven/com.softwaremill.sttp/zio_2.12@1.5.9?classifier=sources
+- pkg:maven/com.softwaremill.sttp/zio_2.12@1.5.10
+- pkg:maven/com.softwaremill.sttp/zio_2.12@1.5.10?classifier=sources

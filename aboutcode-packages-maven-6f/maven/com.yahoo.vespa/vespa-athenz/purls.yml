@@ -97,3 +97,5 @@
 - pkg:maven/com.yahoo.vespa/vespa-athenz@7.6.98?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-athenz@7.7.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-athenz@7.9.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-athenz@7.12.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-athenz@7.11.13?classifier=sources

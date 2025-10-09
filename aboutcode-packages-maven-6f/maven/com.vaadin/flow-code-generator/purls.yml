@@ -30,3 +30,5 @@
 - pkg:maven/com.vaadin/flow-code-generator@1.2.4?classifier=sources
 - pkg:maven/com.vaadin/flow-code-generator@1.3.0
 - pkg:maven/com.vaadin/flow-code-generator@1.3.0?classifier=sources
+- pkg:maven/com.vaadin/flow-code-generator@1.4.0
+- pkg:maven/com.vaadin/flow-code-generator@1.4.0?classifier=sources
