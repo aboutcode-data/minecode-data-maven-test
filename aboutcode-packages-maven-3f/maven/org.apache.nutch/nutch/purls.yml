@@ -39,3 +39,5 @@
 - pkg:maven/org.apache.nutch/nutch@1.13?classifier=sources
 - pkg:maven/org.apache.nutch/nutch@1.14
 - pkg:maven/org.apache.nutch/nutch@1.14?classifier=sources
+- pkg:maven/org.apache.nutch/nutch@1.15
+- pkg:maven/org.apache.nutch/nutch@1.15?classifier=sources

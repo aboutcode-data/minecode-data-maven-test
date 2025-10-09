@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.activemq/activemq-cf@5.15.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-cf@5.15.4
 - pkg:maven/org.apache.activemq/activemq-cf@5.15.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-cf@5.15.5
+- pkg:maven/org.apache.activemq/activemq-cf@5.15.5?classifier=sources

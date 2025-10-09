@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.karaf.demos.deployer.bundle/my-bundle@3.0.9?classifier=sources
 - pkg:maven/org.apache.karaf.demos.deployer.bundle/my-bundle@4.2.0
 - pkg:maven/org.apache.karaf.demos.deployer.bundle/my-bundle@4.2.0?classifier=sources
+- pkg:maven/org.apache.karaf.demos.deployer.bundle/my-bundle@4.1.6
+- pkg:maven/org.apache.karaf.demos.deployer.bundle/my-bundle@4.1.6?classifier=sources
