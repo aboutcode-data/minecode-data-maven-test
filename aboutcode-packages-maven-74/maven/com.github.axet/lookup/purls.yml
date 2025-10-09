@@ -88,3 +88,5 @@
 - pkg:maven/com.github.axet/lookup@0.2.11?classifier=sources
 - pkg:maven/com.github.axet/lookup@0.2.10
 - pkg:maven/com.github.axet/lookup@0.2.10?classifier=sources
+- pkg:maven/com.github.axet/lookup@0.2.15
+- pkg:maven/com.github.axet/lookup@0.2.15?classifier=sources

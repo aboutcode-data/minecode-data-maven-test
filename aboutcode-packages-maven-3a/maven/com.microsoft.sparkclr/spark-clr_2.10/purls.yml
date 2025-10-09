@@ -18,3 +18,5 @@
 - pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.5.100-testrelease-22?classifier=sources
 - pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.4.102-testrelease-19
 - pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.4.102-testrelease-19?classifier=sources
+- pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.000-PREVIEW-1
+- pkg:maven/com.microsoft.sparkclr/spark-clr_2.10@1.6.000-PREVIEW-1?classifier=sources
