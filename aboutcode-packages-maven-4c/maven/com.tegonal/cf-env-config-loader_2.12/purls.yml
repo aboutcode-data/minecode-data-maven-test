@@ -1,0 +1,4 @@
+- pkg:maven/com.tegonal/cf-env-config-loader_2.12@1.0.0-RC5
+- pkg:maven/com.tegonal/cf-env-config-loader_2.12@1.0.0-RC5?classifier=sources
+- pkg:maven/com.tegonal/cf-env-config-loader_2.12@1.0.0
+- pkg:maven/com.tegonal/cf-env-config-loader_2.12@1.0.0?classifier=sources

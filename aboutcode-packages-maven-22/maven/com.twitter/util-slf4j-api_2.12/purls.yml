@@ -34,3 +34,5 @@
 - pkg:maven/com.twitter/util-slf4j-api_2.12@18.8.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-api_2.12@18.9.0
 - pkg:maven/com.twitter/util-slf4j-api_2.12@18.9.0?classifier=sources
+- pkg:maven/com.twitter/util-slf4j-api_2.12@18.9.1
+- pkg:maven/com.twitter/util-slf4j-api_2.12@18.9.1?classifier=sources

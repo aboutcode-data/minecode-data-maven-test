@@ -18,3 +18,7 @@
 - pkg:maven/com.pathomation/pma-java@2.0.0.13?classifier=sources
 - pkg:maven/com.pathomation/pma-java@2.0.0.12
 - pkg:maven/com.pathomation/pma-java@2.0.0.12?classifier=sources
+- pkg:maven/com.pathomation/pma-java@2.0.0.15-SNAPCHOT
+- pkg:maven/com.pathomation/pma-java@2.0.0.15-SNAPCHOT?classifier=sources
+- pkg:maven/com.pathomation/pma-java@2.0.0.15
+- pkg:maven/com.pathomation/pma-java@2.0.0.15?classifier=sources
