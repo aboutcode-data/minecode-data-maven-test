@@ -52,3 +52,7 @@
 - pkg:maven/com.blackducksoftware.integration/integration-rest@0.10.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/integration-rest@0.0.1_nexus2
 - pkg:maven/com.blackducksoftware.integration/integration-rest@0.0.1_nexus2?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/integration-rest@0.10.2
+- pkg:maven/com.blackducksoftware.integration/integration-rest@0.10.2?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/integration-rest@0.10.1
+- pkg:maven/com.blackducksoftware.integration/integration-rest@0.10.1?classifier=sources

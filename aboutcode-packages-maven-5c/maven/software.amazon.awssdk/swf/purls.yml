@@ -90,3 +90,4 @@
 - pkg:maven/software.amazon.awssdk/swf@2.5.7?classifier=sources
 - pkg:maven/software.amazon.awssdk/swf@2.5.10
 - pkg:maven/software.amazon.awssdk/swf@2.5.10?classifier=sources
+- pkg:maven/software.amazon.awssdk/swf@2.5.15

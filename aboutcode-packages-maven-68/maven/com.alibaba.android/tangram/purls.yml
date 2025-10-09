@@ -86,3 +86,7 @@
 - pkg:maven/com.alibaba.android/tangram@3.3.2?classifier=sources
 - pkg:maven/com.alibaba.android/tangram@3.3.4?type=aar
 - pkg:maven/com.alibaba.android/tangram@3.3.4?classifier=sources
+- pkg:maven/com.alibaba.android/tangram@3.3.6?type=aar
+- pkg:maven/com.alibaba.android/tangram@3.3.6?classifier=sources
+- pkg:maven/com.alibaba.android/tangram@3.3.5?type=aar
+- pkg:maven/com.alibaba.android/tangram@3.3.5?classifier=sources

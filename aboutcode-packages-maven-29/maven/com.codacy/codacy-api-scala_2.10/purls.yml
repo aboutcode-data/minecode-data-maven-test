@@ -36,3 +36,7 @@
 - pkg:maven/com.codacy/codacy-api-scala_2.10@3.1.858?classifier=sources
 - pkg:maven/com.codacy/codacy-api-scala_2.10@3.1.851
 - pkg:maven/com.codacy/codacy-api-scala_2.10@3.1.851?classifier=sources
+- pkg:maven/com.codacy/codacy-api-scala_2.10@4.0.0
+- pkg:maven/com.codacy/codacy-api-scala_2.10@4.0.0?classifier=sources
+- pkg:maven/com.codacy/codacy-api-scala_2.10@3.1.120
+- pkg:maven/com.codacy/codacy-api-scala_2.10@3.1.120?classifier=sources

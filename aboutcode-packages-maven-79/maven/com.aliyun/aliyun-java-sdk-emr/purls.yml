@@ -10,3 +10,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-emr@2.3.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-emr@3.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-emr@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-emr@3.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-emr@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-emr@3.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-emr@3.0.1?classifier=sources
