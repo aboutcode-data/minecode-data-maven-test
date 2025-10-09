@@ -72,3 +72,7 @@
 - pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.3.0-RC12?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.3.0-RC11?type=war
 - pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.3.0-RC11?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.4.0-RC2?type=war
+- pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.4.0-RC2?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.4.0-RC1?type=war
+- pkg:maven/de.wayofquality.blended/blended.samples.spray.helloworld@2.4.0-RC1?classifier=sources

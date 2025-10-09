@@ -47,3 +47,6 @@
 - pkg:maven/com.yahoo.vespa/orchestrator@6.196.148?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator@6.198.37?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator@6.197.154?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator@6.201.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator@6.200.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator@6.199.105?classifier=sources

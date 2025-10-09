@@ -46,3 +46,5 @@
 - pkg:maven/fr.brouillard.oss/jgitver-maven-plugin@1.1.7?classifier=sources
 - pkg:maven/fr.brouillard.oss/jgitver-maven-plugin@1.1.8
 - pkg:maven/fr.brouillard.oss/jgitver-maven-plugin@1.1.8?classifier=sources
+- pkg:maven/fr.brouillard.oss/jgitver-maven-plugin@1.2.0-alpha01
+- pkg:maven/fr.brouillard.oss/jgitver-maven-plugin@1.2.0-alpha01?classifier=sources
