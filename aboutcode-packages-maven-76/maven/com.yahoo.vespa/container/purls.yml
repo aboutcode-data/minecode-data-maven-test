@@ -222,3 +222,5 @@
 - pkg:maven/com.yahoo.vespa/container@6.304.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/container@6.303.29
 - pkg:maven/com.yahoo.vespa/container@6.303.29?classifier=sources
+- pkg:maven/com.yahoo.vespa/container@6.305.35
+- pkg:maven/com.yahoo.vespa/container@6.305.35?classifier=sources

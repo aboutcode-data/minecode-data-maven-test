@@ -112,3 +112,7 @@
 - pkg:maven/com.netflix.conductor/conductor-mysql-persistence@2.0.0-rc5?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-mysql-persistence@2.0.0
 - pkg:maven/com.netflix.conductor/conductor-mysql-persistence@2.0.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-mysql-persistence@2.1.0
+- pkg:maven/com.netflix.conductor/conductor-mysql-persistence@2.1.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-mysql-persistence@1.12.4
+- pkg:maven/com.netflix.conductor/conductor-mysql-persistence@1.12.4?classifier=sources

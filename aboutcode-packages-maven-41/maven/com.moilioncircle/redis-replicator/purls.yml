@@ -80,3 +80,7 @@
 - pkg:maven/com.moilioncircle/redis-replicator@3.0.0-RC2?classifier=sources
 - pkg:maven/com.moilioncircle/redis-replicator@2.6.0
 - pkg:maven/com.moilioncircle/redis-replicator@2.6.0?classifier=sources
+- pkg:maven/com.moilioncircle/redis-replicator@3.0.0
+- pkg:maven/com.moilioncircle/redis-replicator@3.0.0?classifier=sources
+- pkg:maven/com.moilioncircle/redis-replicator@2.6.1
+- pkg:maven/com.moilioncircle/redis-replicator@2.6.1?classifier=sources

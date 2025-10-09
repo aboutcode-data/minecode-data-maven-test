@@ -10,3 +10,5 @@
 - pkg:maven/com.microsoft.azure/azure-storage-blob@10.0.4-rc?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-storage-blob@10.1.0
 - pkg:maven/com.microsoft.azure/azure-storage-blob@10.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.2.0
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.2.0?classifier=sources
