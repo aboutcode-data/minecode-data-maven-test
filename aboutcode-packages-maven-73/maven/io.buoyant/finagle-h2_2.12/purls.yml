@@ -36,3 +36,5 @@
 - pkg:maven/io.buoyant/finagle-h2_2.12@1.4.3?classifier=sources
 - pkg:maven/io.buoyant/finagle-h2_2.12@1.4.2
 - pkg:maven/io.buoyant/finagle-h2_2.12@1.4.2?classifier=sources
+- pkg:maven/io.buoyant/finagle-h2_2.12@1.4.4
+- pkg:maven/io.buoyant/finagle-h2_2.12@1.4.4?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/io.gravitee.gateway.security/gravitee-gateway-security-jwt@1.16.4?classifier=sources
 - pkg:maven/io.gravitee.gateway.security/gravitee-gateway-security-jwt@1.15.4
 - pkg:maven/io.gravitee.gateway.security/gravitee-gateway-security-jwt@1.15.4?classifier=sources
+- pkg:maven/io.gravitee.gateway.security/gravitee-gateway-security-jwt@1.15.5
+- pkg:maven/io.gravitee.gateway.security/gravitee-gateway-security-jwt@1.15.5?classifier=sources

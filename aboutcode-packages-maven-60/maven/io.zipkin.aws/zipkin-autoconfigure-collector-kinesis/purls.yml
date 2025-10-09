@@ -68,3 +68,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-autoconfigure-collector-kinesis@0.11.2?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-autoconfigure-collector-kinesis@0.11.0
 - pkg:maven/io.zipkin.aws/zipkin-autoconfigure-collector-kinesis@0.11.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-autoconfigure-collector-kinesis@0.12.0
+- pkg:maven/io.zipkin.aws/zipkin-autoconfigure-collector-kinesis@0.12.0?classifier=sources

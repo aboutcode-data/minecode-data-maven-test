@@ -44,3 +44,5 @@
 - pkg:maven/net.officefloor.core/officexml@2.16.0?classifier=sources
 - pkg:maven/net.officefloor.core/officexml@2.18.0
 - pkg:maven/net.officefloor.core/officexml@2.18.0?classifier=sources
+- pkg:maven/net.officefloor.core/officexml@3.0.0
+- pkg:maven/net.officefloor.core/officexml@3.0.0?classifier=sources
