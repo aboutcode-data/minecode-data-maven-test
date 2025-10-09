@@ -42,3 +42,7 @@
 - pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0-RC1?classifier=sources
 - pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0-M14
 - pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0-M14?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0-RC2
+- pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0-RC2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0
+- pkg:maven/org.tpolecat/doobie-h2_2.11@0.5.0?classifier=sources

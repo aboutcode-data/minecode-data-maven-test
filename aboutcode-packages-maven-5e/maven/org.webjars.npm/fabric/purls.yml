@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/fabric@2.0.0-rc.3?classifier=sources
 - pkg:maven/org.webjars.npm/fabric@1.6.7
 - pkg:maven/org.webjars.npm/fabric@1.6.7?classifier=sources
+- pkg:maven/org.webjars.npm/fabric@2.0.0
+- pkg:maven/org.webjars.npm/fabric@2.0.0?classifier=sources

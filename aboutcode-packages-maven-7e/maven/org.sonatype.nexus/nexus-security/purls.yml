@@ -150,3 +150,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-security@3.7.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-security@2.14.6-02
 - pkg:maven/org.sonatype.nexus/nexus-security@2.14.6-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-security@3.8.0-02
+- pkg:maven/org.sonatype.nexus/nexus-security@3.8.0-02?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.teiid.connectors/translator-jpa@10.0.2?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-jpa@10.1.0
 - pkg:maven/org.teiid.connectors/translator-jpa@10.1.0?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-jpa@10.0.3
+- pkg:maven/org.teiid.connectors/translator-jpa@10.0.3?classifier=sources
