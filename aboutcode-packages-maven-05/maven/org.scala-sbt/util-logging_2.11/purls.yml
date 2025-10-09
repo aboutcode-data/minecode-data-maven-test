@@ -54,3 +54,5 @@
 - pkg:maven/org.scala-sbt/util-logging_2.11@1.0.0-M27?classifier=sources
 - pkg:maven/org.scala-sbt/util-logging_2.11@1.0.0-M28
 - pkg:maven/org.scala-sbt/util-logging_2.11@1.0.0-M28?classifier=sources
+- pkg:maven/org.scala-sbt/util-logging_2.11@1.0.0-RC3
+- pkg:maven/org.scala-sbt/util-logging_2.11@1.0.0-RC3?classifier=sources

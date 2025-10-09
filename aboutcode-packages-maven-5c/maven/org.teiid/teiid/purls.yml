@@ -1,0 +1,3 @@
+- pkg:maven/org.teiid/teiid@10.0.0.Alpha2
+- pkg:maven/org.teiid/teiid@10.0.0.Alpha2?classifier=src&type=zip
+- pkg:maven/org.teiid/teiid@10.0.0.Alpha2?classifier=sources

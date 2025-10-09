@@ -38,3 +38,7 @@
 - pkg:maven/org.springframework.data/spring-data-envers@1.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-envers@1.0.11.RELEASE
 - pkg:maven/org.springframework.data/spring-data-envers@1.0.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-envers@1.1.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-envers@1.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-envers@1.1.5.RELEASE
+- pkg:maven/org.springframework.data/spring-data-envers@1.1.5.RELEASE?classifier=sources

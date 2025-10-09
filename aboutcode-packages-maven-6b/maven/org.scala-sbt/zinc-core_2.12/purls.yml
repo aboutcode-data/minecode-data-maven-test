@@ -24,3 +24,5 @@
 - pkg:maven/org.scala-sbt/zinc-core_2.12@1.0.0-X19?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-core_2.12@1.0.0-X20
 - pkg:maven/org.scala-sbt/zinc-core_2.12@1.0.0-X20?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-core_2.12@1.0.0-RC3
+- pkg:maven/org.scala-sbt/zinc-core_2.12@1.0.0-RC3?classifier=sources

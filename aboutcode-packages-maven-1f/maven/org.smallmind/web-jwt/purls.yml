@@ -34,3 +34,5 @@
 - pkg:maven/org.smallmind/web-jwt@2.4.23?classifier=sources
 - pkg:maven/org.smallmind/web-jwt@2.4.24
 - pkg:maven/org.smallmind/web-jwt@2.4.24?classifier=sources
+- pkg:maven/org.smallmind/web-jwt@3.0.0
+- pkg:maven/org.smallmind/web-jwt@3.0.0?classifier=sources
