@@ -245,3 +245,5 @@
 - pkg:maven/org.apache.camel/camel-flatpack@2.22.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-flatpack@2.24.0
 - pkg:maven/org.apache.camel/camel-flatpack@2.24.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-flatpack@3.0.0-M3
+- pkg:maven/org.apache.camel/camel-flatpack@3.0.0-M3?classifier=sources

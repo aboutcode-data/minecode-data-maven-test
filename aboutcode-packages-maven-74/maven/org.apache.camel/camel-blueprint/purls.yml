@@ -109,3 +109,5 @@
 - pkg:maven/org.apache.camel/camel-blueprint@2.23.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.22.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.24.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M3
+- pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M3?classifier=sources

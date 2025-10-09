@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.camel/camel-ipfs@2.23.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-ipfs@2.24.0
 - pkg:maven/org.apache.camel/camel-ipfs@2.24.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-ipfs@3.0.0-M3
+- pkg:maven/org.apache.camel/camel-ipfs@3.0.0-M3?classifier=sources

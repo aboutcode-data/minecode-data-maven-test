@@ -90,3 +90,5 @@
 - pkg:maven/org.apache.camel/camel-catalog-lucene@2.22.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-catalog-lucene@2.24.0
 - pkg:maven/org.apache.camel/camel-catalog-lucene@2.24.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-catalog-lucene@3.0.0-M3
+- pkg:maven/org.apache.camel/camel-catalog-lucene@3.0.0-M3?classifier=sources
