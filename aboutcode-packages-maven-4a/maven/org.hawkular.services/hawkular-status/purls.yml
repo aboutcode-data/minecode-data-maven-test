@@ -6,3 +6,5 @@
 - pkg:maven/org.hawkular.services/hawkular-status@0.0.11.Final?classifier=sources
 - pkg:maven/org.hawkular.services/hawkular-status@0.0.12.Final?type=war
 - pkg:maven/org.hawkular.services/hawkular-status@0.0.12.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-status@0.0.13.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-status@0.0.13.Final?classifier=sources

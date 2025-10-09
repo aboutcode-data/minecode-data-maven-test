@@ -132,3 +132,7 @@
 - pkg:maven/org.kaazing/gateway.transport@5.2.3-RC003?classifier=sources
 - pkg:maven/org.kaazing/gateway.transport@5.2.3-RC002
 - pkg:maven/org.kaazing/gateway.transport@5.2.3-RC002?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport@5.2.4-RC001
+- pkg:maven/org.kaazing/gateway.transport@5.2.4-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport@5.2.3
+- pkg:maven/org.kaazing/gateway.transport@5.2.3?classifier=sources

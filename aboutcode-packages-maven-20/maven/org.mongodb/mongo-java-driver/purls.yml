@@ -175,3 +175,5 @@
 - pkg:maven/org.mongodb/mongo-java-driver@3.3.0?classifier=sources
 - pkg:maven/org.mongodb/mongo-java-driver@2.14.3
 - pkg:maven/org.mongodb/mongo-java-driver@2.14.3?classifier=sources
+- pkg:maven/org.mongodb/mongo-java-driver@3.4.0-beta1
+- pkg:maven/org.mongodb/mongo-java-driver@3.4.0-beta1?classifier=sources

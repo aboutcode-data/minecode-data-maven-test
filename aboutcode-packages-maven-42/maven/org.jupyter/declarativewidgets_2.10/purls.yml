@@ -4,3 +4,5 @@
 - pkg:maven/org.jupyter/declarativewidgets_2.10@0.6.2?classifier=sources
 - pkg:maven/org.jupyter/declarativewidgets_2.10@0.7.0.dev
 - pkg:maven/org.jupyter/declarativewidgets_2.10@0.7.0.dev?classifier=sources
+- pkg:maven/org.jupyter/declarativewidgets_2.10@0.7.0
+- pkg:maven/org.jupyter/declarativewidgets_2.10@0.7.0?classifier=sources

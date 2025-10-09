@@ -64,3 +64,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-redis@6.0.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-redis@5.0.11.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-redis@5.0.11.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-redis@5.0.12.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-redis@5.0.12.RELEASE?classifier=sources
