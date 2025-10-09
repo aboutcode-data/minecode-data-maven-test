@@ -14,3 +14,5 @@
 - pkg:maven/com.rockset/rockset-java@0.5.12?classifier=sources
 - pkg:maven/com.rockset/rockset-java@0.5.13
 - pkg:maven/com.rockset/rockset-java@0.5.13?classifier=sources
+- pkg:maven/com.rockset/rockset-java@0.6.0
+- pkg:maven/com.rockset/rockset-java@0.6.0?classifier=sources

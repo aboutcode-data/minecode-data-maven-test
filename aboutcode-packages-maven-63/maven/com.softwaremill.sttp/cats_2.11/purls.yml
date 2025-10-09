@@ -90,3 +90,5 @@
 - pkg:maven/com.softwaremill.sttp/cats_2.11@1.5.19?classifier=sources
 - pkg:maven/com.softwaremill.sttp/cats_2.11@1.5.18
 - pkg:maven/com.softwaremill.sttp/cats_2.11@1.5.18?classifier=sources
+- pkg:maven/com.softwaremill.sttp/cats_2.11@1.6.0
+- pkg:maven/com.softwaremill.sttp/cats_2.11@1.6.0?classifier=sources
