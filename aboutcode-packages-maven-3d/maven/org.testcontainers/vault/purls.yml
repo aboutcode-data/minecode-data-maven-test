@@ -38,3 +38,5 @@
 - pkg:maven/org.testcontainers/vault@1.10.4?classifier=sources
 - pkg:maven/org.testcontainers/vault@1.10.6
 - pkg:maven/org.testcontainers/vault@1.10.6?classifier=sources
+- pkg:maven/org.testcontainers/vault@1.10.7
+- pkg:maven/org.testcontainers/vault@1.10.7?classifier=sources

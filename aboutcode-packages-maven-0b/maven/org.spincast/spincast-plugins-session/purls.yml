@@ -26,3 +26,7 @@
 - pkg:maven/org.spincast/spincast-plugins-session@0.9.54?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-session@0.9.55
 - pkg:maven/org.spincast/spincast-plugins-session@0.9.55?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-session@1.1.0
+- pkg:maven/org.spincast/spincast-plugins-session@1.1.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-session@1.0.0
+- pkg:maven/org.spincast/spincast-plugins-session@1.0.0?classifier=sources

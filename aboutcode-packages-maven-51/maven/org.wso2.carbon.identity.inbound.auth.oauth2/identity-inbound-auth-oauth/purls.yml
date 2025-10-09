@@ -348,3 +348,6 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.0.102?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.0.101?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.0.100?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.0.105?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.0.104?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.0.103?classifier=source-release&type=zip
