@@ -23,3 +23,5 @@
 - pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@6.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@6.0.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@6.0.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@7.0.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@6.0.5.Final?classifier=source-release&type=zip
