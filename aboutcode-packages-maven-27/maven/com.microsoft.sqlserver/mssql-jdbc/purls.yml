@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre8
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre8?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre7
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre7?classifier=sources
