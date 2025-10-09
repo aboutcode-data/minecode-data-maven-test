@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.spark/spark-launcher_2.11@2.2.2?classifier=sources
 - pkg:maven/org.apache.spark/spark-launcher_2.11@2.3.2
 - pkg:maven/org.apache.spark/spark-launcher_2.11@2.3.2?classifier=sources
+- pkg:maven/org.apache.spark/spark-launcher_2.11@2.4.0
+- pkg:maven/org.apache.spark/spark-launcher_2.11@2.4.0?classifier=sources

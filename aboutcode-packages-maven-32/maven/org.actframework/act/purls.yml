@@ -164,3 +164,7 @@
 - pkg:maven/org.actframework/act@1.8.8-RC11?classifier=sources
 - pkg:maven/org.actframework/act@1.8.8-RC10
 - pkg:maven/org.actframework/act@1.8.8-RC10?classifier=sources
+- pkg:maven/org.actframework/act@1.8.9
+- pkg:maven/org.actframework/act@1.8.9?classifier=sources
+- pkg:maven/org.actframework/act@1.8.8
+- pkg:maven/org.actframework/act@1.8.8?classifier=sources

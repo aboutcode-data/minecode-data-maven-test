@@ -260,3 +260,7 @@
 - pkg:maven/net.openhft/chronicle-queue@5.16.15?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.16.16
 - pkg:maven/net.openhft/chronicle-queue@5.16.16?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.17.0
+- pkg:maven/net.openhft/chronicle-queue@5.17.0?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@4.6.109.1
+- pkg:maven/net.openhft/chronicle-queue@4.6.109.1?classifier=sources

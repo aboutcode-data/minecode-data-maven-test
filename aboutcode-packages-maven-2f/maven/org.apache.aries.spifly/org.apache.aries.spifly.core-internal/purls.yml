@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.aries.spifly/org.apache.aries.spifly.core-internal@1.0.14
 - pkg:maven/org.apache.aries.spifly/org.apache.aries.spifly.core-internal@1.0.14?classifier=sources
 - pkg:maven/org.apache.aries.spifly/org.apache.aries.spifly.core-internal@1.0.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.spifly/org.apache.aries.spifly.core-internal@1.1
+- pkg:maven/org.apache.aries.spifly/org.apache.aries.spifly.core-internal@1.1?classifier=sources
