@@ -1,1 +1,2 @@
 - pkg:maven/io.wizzie/enricher-query-compiler@0.5.1
+- pkg:maven/io.wizzie/enricher-query-compiler@0.5.1?classifier=sources

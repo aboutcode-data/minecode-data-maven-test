@@ -138,3 +138,5 @@
 - pkg:maven/io.protostuff/protostuff-maven-plugin@2.2.18?classifier=sources
 - pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.9
 - pkg:maven/io.protostuff/protostuff-maven-plugin@1.5.9?classifier=sources
+- pkg:maven/io.protostuff/protostuff-maven-plugin@2.2.24
+- pkg:maven/io.protostuff/protostuff-maven-plugin@2.2.24?classifier=sources
