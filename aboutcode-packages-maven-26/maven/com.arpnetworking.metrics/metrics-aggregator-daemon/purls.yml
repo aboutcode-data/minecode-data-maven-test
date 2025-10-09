@@ -54,3 +54,5 @@
 - pkg:maven/com.arpnetworking.metrics/metrics-aggregator-daemon@1.9.9?classifier=sources
 - pkg:maven/com.arpnetworking.metrics/metrics-aggregator-daemon@1.9.10
 - pkg:maven/com.arpnetworking.metrics/metrics-aggregator-daemon@1.9.10?classifier=sources
+- pkg:maven/com.arpnetworking.metrics/metrics-aggregator-daemon@1.10.0
+- pkg:maven/com.arpnetworking.metrics/metrics-aggregator-daemon@1.10.0?classifier=sources

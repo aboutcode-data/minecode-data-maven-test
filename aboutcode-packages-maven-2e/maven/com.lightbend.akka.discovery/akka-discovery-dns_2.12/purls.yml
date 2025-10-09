@@ -16,3 +16,5 @@
 - pkg:maven/com.lightbend.akka.discovery/akka-discovery-dns_2.12@0.13.0?classifier=sources
 - pkg:maven/com.lightbend.akka.discovery/akka-discovery-dns_2.12@0.14.0
 - pkg:maven/com.lightbend.akka.discovery/akka-discovery-dns_2.12@0.14.0?classifier=sources
+- pkg:maven/com.lightbend.akka.discovery/akka-discovery-dns_2.12@0.15.0
+- pkg:maven/com.lightbend.akka.discovery/akka-discovery-dns_2.12@0.15.0?classifier=sources
