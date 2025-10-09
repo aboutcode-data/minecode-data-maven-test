@@ -54,3 +54,5 @@
 - pkg:maven/com.facebook.presto/presto-matching@0.209?classifier=sources
 - pkg:maven/com.facebook.presto/presto-matching@0.210
 - pkg:maven/com.facebook.presto/presto-matching@0.210?classifier=sources
+- pkg:maven/com.facebook.presto/presto-matching@0.211
+- pkg:maven/com.facebook.presto/presto-matching@0.211?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/com.github.shepherdviolet/thistle@9.8?classifier=sources
 - pkg:maven/com.github.shepherdviolet/thistle@9.9
 - pkg:maven/com.github.shepherdviolet/thistle@9.9?classifier=sources
+- pkg:maven/com.github.shepherdviolet/thistle@9.10
+- pkg:maven/com.github.shepherdviolet/thistle@9.10?classifier=sources
+- pkg:maven/com.github.shepherdviolet/thistle@10.0
+- pkg:maven/com.github.shepherdviolet/thistle@10.0?classifier=sources

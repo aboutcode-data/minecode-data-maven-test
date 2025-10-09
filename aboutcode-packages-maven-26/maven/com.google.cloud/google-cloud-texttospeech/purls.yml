@@ -44,3 +44,5 @@
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.60.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.61.0-beta
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.61.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@0.62.0-beta
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@0.62.0-beta?classifier=sources
