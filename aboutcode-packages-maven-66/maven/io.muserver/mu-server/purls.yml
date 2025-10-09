@@ -108,3 +108,5 @@
 - pkg:maven/io.muserver/mu-server@0.16.0?classifier=sources
 - pkg:maven/io.muserver/mu-server@0.15.4
 - pkg:maven/io.muserver/mu-server@0.15.4?classifier=sources
+- pkg:maven/io.muserver/mu-server@0.16.1
+- pkg:maven/io.muserver/mu-server@0.16.1?classifier=sources

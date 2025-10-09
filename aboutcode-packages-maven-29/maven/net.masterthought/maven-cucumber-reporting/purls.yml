@@ -74,3 +74,5 @@
 - pkg:maven/net.masterthought/maven-cucumber-reporting@4.2.1?classifier=sources
 - pkg:maven/net.masterthought/maven-cucumber-reporting@4.2.4
 - pkg:maven/net.masterthought/maven-cucumber-reporting@4.2.4?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@4.3.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@4.3.0?classifier=sources

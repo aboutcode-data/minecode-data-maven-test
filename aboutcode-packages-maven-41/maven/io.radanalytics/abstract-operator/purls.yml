@@ -43,3 +43,6 @@
 - pkg:maven/io.radanalytics/abstract-operator@0.4.7?classifier=sources
 - pkg:maven/io.radanalytics/abstract-operator@0.4.6
 - pkg:maven/io.radanalytics/abstract-operator@0.4.6?classifier=sources
+- pkg:maven/io.radanalytics/abstract-operator@0.4.9?classifier=sources
+- pkg:maven/io.radanalytics/abstract-operator@0.4.10
+- pkg:maven/io.radanalytics/abstract-operator@0.4.10?classifier=sources
