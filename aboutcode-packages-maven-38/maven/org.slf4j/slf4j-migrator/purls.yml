@@ -106,3 +106,5 @@
 - pkg:maven/org.slf4j/slf4j-migrator@1.8.0-beta4?classifier=sources
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.26
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.26?classifier=sources
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.27
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.27?classifier=sources

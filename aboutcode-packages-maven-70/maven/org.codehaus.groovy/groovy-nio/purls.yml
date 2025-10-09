@@ -130,3 +130,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.4.17?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.0-beta-2
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.0-beta-2?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-nio@2.5.8
+- pkg:maven/org.codehaus.groovy/groovy-nio@2.5.8?classifier=sources

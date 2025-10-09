@@ -1,0 +1,4 @@
+- pkg:maven/io.nuls.v2/off-smartcontract-api@0.9
+- pkg:maven/io.nuls.v2/off-smartcontract-api@0.9?classifier=sources
+- pkg:maven/io.nuls.v2/off-smartcontract-api@0.10
+- pkg:maven/io.nuls.v2/off-smartcontract-api@0.10?classifier=sources

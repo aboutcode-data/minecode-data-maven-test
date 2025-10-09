@@ -344,3 +344,5 @@
 - pkg:maven/org.http4s/http4s-circe_2.11@0.20.8?classifier=sources
 - pkg:maven/org.http4s/http4s-circe_2.11@0.20.7
 - pkg:maven/org.http4s/http4s-circe_2.11@0.20.7?classifier=sources
+- pkg:maven/org.http4s/http4s-circe_2.11@0.20.9
+- pkg:maven/org.http4s/http4s-circe_2.11@0.20.9?classifier=sources
