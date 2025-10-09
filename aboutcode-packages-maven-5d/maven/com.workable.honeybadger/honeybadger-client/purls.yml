@@ -6,3 +6,5 @@
 - pkg:maven/com.workable.honeybadger/honeybadger-client@1.4?classifier=sources
 - pkg:maven/com.workable.honeybadger/honeybadger-client@1.5
 - pkg:maven/com.workable.honeybadger/honeybadger-client@1.5?classifier=sources
+- pkg:maven/com.workable.honeybadger/honeybadger-client@1.5.1
+- pkg:maven/com.workable.honeybadger/honeybadger-client@1.5.1?classifier=sources

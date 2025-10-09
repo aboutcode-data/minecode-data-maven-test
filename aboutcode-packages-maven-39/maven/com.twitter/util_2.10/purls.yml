@@ -82,3 +82,5 @@
 - pkg:maven/com.twitter/util_2.10@6.29.0?classifier=sources
 - pkg:maven/com.twitter/util_2.10@6.30.0
 - pkg:maven/com.twitter/util_2.10@6.30.0?classifier=sources
+- pkg:maven/com.twitter/util_2.10@6.32.0
+- pkg:maven/com.twitter/util_2.10@6.32.0?classifier=sources
