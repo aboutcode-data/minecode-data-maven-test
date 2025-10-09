@@ -4,3 +4,5 @@
 - pkg:maven/org.bitbucket.cowwoc.requirements/natives@4.0.5-RC?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc.requirements/natives@5.0.0
 - pkg:maven/org.bitbucket.cowwoc.requirements/natives@5.0.0?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc.requirements/natives@5.1.0
+- pkg:maven/org.bitbucket.cowwoc.requirements/natives@5.1.0?classifier=sources

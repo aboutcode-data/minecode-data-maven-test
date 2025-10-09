@@ -70,3 +70,5 @@
 - pkg:maven/org.faktorips/faktorips-runtime-client@3.21.8?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-client@3.22.2
 - pkg:maven/org.faktorips/faktorips-runtime-client@3.22.2?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-client@19.7.0
+- pkg:maven/org.faktorips/faktorips-runtime-client@19.7.0?classifier=sources

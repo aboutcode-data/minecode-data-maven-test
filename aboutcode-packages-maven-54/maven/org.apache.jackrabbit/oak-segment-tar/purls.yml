@@ -166,3 +166,7 @@
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.14.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.14
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.14?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.15
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.15?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.10.3
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.10.3?classifier=sources
