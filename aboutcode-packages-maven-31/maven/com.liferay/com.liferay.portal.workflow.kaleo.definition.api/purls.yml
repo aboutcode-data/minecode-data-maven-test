@@ -47,3 +47,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@3.0.9
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@2.1.4
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@2.1.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@2.1.4?classifier=sources-commercial

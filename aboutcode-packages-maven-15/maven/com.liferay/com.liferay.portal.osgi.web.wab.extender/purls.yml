@@ -161,3 +161,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.extender@2.0.38
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.extender@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.extender@2.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.extender@2.0.39
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.extender@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.extender@2.0.39?classifier=sources-commercial

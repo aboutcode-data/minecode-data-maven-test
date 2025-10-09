@@ -8,3 +8,5 @@
 - pkg:maven/com.netflix.metacat/metacat-war@1.2.0?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-war@1.2.1?type=war
 - pkg:maven/com.netflix.metacat/metacat-war@1.2.1?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-war@1.2.2?type=war
+- pkg:maven/com.netflix.metacat/metacat-war@1.2.2?classifier=sources

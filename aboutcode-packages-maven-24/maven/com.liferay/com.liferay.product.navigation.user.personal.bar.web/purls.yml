@@ -36,3 +36,6 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.14
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.14?classifier=sources-commercial

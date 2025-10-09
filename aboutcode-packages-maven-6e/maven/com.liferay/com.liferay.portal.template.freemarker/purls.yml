@@ -170,3 +170,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.16
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.21
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.21?classifier=sources-commercial
