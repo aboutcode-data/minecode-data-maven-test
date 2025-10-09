@@ -318,3 +318,7 @@
 - pkg:maven/com.netflix.priam/priam-web@3.11.48?classifier=sources
 - pkg:maven/com.netflix.priam/priam-web@3.1.78?type=war
 - pkg:maven/com.netflix.priam/priam-web@3.1.78?classifier=sources
+- pkg:maven/com.netflix.priam/priam-web@3.11.49?type=war
+- pkg:maven/com.netflix.priam/priam-web@3.11.49?classifier=sources
+- pkg:maven/com.netflix.priam/priam-web@3.1.79?type=war
+- pkg:maven/com.netflix.priam/priam-web@3.1.79?classifier=sources

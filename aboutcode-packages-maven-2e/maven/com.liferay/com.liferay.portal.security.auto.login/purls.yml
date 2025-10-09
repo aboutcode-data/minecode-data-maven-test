@@ -77,3 +77,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@2.1.14
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@2.1.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@2.1.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.8
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.8?classifier=sources-commercial
