@@ -190,3 +190,9 @@
 - pkg:maven/io.fabric8/openshift-client@1.4.7?classifier=sources
 - pkg:maven/io.fabric8/openshift-client@1.4.8
 - pkg:maven/io.fabric8/openshift-client@1.4.8?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@1.4.9
+- pkg:maven/io.fabric8/openshift-client@1.4.9?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@1.4.11
+- pkg:maven/io.fabric8/openshift-client@1.4.11?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@1.4.10
+- pkg:maven/io.fabric8/openshift-client@1.4.10?classifier=sources
