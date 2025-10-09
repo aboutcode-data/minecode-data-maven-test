@@ -316,3 +316,7 @@
 - pkg:maven/org.wildfly.core/wildfly-model-test@3.0.7.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-model-test@3.0.9.Final
 - pkg:maven/org.wildfly.core/wildfly-model-test@3.0.9.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-model-test@4.0.0.Alpha2
+- pkg:maven/org.wildfly.core/wildfly-model-test@4.0.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-model-test@4.0.0.Alpha1
+- pkg:maven/org.wildfly.core/wildfly-model-test@4.0.0.Alpha1?classifier=sources

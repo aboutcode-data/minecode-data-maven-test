@@ -60,3 +60,5 @@
 - pkg:maven/org.webjars.bower/react@0.14.9?classifier=sources
 - pkg:maven/org.webjars.bower/react@0.14.8
 - pkg:maven/org.webjars.bower/react@0.14.8?classifier=sources
+- pkg:maven/org.webjars.bower/react@16.0.0
+- pkg:maven/org.webjars.bower/react@16.0.0?classifier=sources

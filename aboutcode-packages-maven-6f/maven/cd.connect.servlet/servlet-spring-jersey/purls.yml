@@ -14,3 +14,5 @@
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.6?classifier=sources
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.8
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.8?classifier=sources
+- pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.9
+- pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.9?classifier=sources

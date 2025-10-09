@@ -14,3 +14,7 @@
 - pkg:maven/com.airbnb.android/epoxy-databinding@2.6.0?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-databinding@2.7.0?type=aar
 - pkg:maven/com.airbnb.android/epoxy-databinding@2.7.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-databinding@2.7.2?type=aar
+- pkg:maven/com.airbnb.android/epoxy-databinding@2.7.2?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-databinding@2.7.1?type=aar
+- pkg:maven/com.airbnb.android/epoxy-databinding@2.7.1?classifier=sources

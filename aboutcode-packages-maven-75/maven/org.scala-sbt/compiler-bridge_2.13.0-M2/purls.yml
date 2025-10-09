@@ -1,0 +1,4 @@
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap2
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap2?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap?classifier=sources

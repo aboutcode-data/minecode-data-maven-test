@@ -1,2 +1,4 @@
 - pkg:maven/ai.olami/olami-android-client@2.0.0?type=aar
 - pkg:maven/ai.olami/olami-android-client@2.0.0?classifier=sources
+- pkg:maven/ai.olami/olami-android-client@2.1.0?type=aar
+- pkg:maven/ai.olami/olami-android-client@2.1.0?classifier=sources

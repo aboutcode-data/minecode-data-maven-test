@@ -188,3 +188,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-server@3.5.3?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-server@3.6.0
 - pkg:maven/org.seleniumhq.selenium/selenium-server@3.6.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-server@3.7.0
+- pkg:maven/org.seleniumhq.selenium/selenium-server@3.7.0?classifier=sources

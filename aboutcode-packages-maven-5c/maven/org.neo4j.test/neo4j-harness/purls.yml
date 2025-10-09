@@ -208,3 +208,5 @@
 - pkg:maven/org.neo4j.test/neo4j-harness@3.0.12?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness@3.3.0
 - pkg:maven/org.neo4j.test/neo4j-harness@3.3.0?classifier=sources
+- pkg:maven/org.neo4j.test/neo4j-harness@3.2.7
+- pkg:maven/org.neo4j.test/neo4j-harness@3.2.7?classifier=sources
