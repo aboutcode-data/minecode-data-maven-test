@@ -36,3 +36,5 @@
 - pkg:maven/org.mockito/mockito-junit-jupiter@2.28.2?classifier=sources
 - pkg:maven/org.mockito/mockito-junit-jupiter@2.28.1
 - pkg:maven/org.mockito/mockito-junit-jupiter@2.28.1?classifier=sources
+- pkg:maven/org.mockito/mockito-junit-jupiter@3.0.0
+- pkg:maven/org.mockito/mockito-junit-jupiter@3.0.0?classifier=sources

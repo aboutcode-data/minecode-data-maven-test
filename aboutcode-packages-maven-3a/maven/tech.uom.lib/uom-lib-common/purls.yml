@@ -6,3 +6,5 @@
 - pkg:maven/tech.uom.lib/uom-lib-common@1.2?classifier=sources
 - pkg:maven/tech.uom.lib/uom-lib-common@2.0-PRD
 - pkg:maven/tech.uom.lib/uom-lib-common@2.0-PRD?classifier=sources
+- pkg:maven/tech.uom.lib/uom-lib-common@2.0
+- pkg:maven/tech.uom.lib/uom-lib-common@2.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.infrastructurebuilder/ibexceptions@4?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibexceptions@3
 - pkg:maven/org.infrastructurebuilder/ibexceptions@3?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibexceptions@7
+- pkg:maven/org.infrastructurebuilder/ibexceptions@7?classifier=sources

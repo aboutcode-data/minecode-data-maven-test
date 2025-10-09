@@ -25,3 +25,5 @@
 - pkg:maven/org.yamcs/yamcs-server@4.9.4?classifier=sources
 - pkg:maven/org.yamcs/yamcs-server@4.10.0
 - pkg:maven/org.yamcs/yamcs-server@4.10.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-server@4.10.1
+- pkg:maven/org.yamcs/yamcs-server@4.10.1?classifier=sources
