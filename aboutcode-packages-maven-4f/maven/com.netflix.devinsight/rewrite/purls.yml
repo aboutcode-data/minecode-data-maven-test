@@ -42,3 +42,5 @@
 - pkg:maven/com.netflix.devinsight/rewrite@0.17.1?classifier=sources
 - pkg:maven/com.netflix.devinsight/rewrite@0.17.0
 - pkg:maven/com.netflix.devinsight/rewrite@0.17.0?classifier=sources
+- pkg:maven/com.netflix.devinsight/rewrite@0.13.2
+- pkg:maven/com.netflix.devinsight/rewrite@0.13.2?classifier=sources

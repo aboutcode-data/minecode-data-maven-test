@@ -12,3 +12,5 @@
 - pkg:maven/com.kagurabi.example/kagura-example-javascript@1.8?classifier=sources
 - pkg:maven/com.kagurabi.example/kagura-example-javascript@1.9?type=war
 - pkg:maven/com.kagurabi.example/kagura-example-javascript@1.9?classifier=sources
+- pkg:maven/com.kagurabi.example/kagura-example-javascript@1.9.1?type=war
+- pkg:maven/com.kagurabi.example/kagura-example-javascript@1.9.1?classifier=sources
