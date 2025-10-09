@@ -1,2 +1,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache@1.0.0
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache@1.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache@2.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache@2.0.0?classifier=sources

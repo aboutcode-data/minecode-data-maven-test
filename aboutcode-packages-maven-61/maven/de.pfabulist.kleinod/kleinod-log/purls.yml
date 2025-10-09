@@ -1,2 +1,4 @@
 - pkg:maven/de.pfabulist.kleinod/kleinod-log@1.0
 - pkg:maven/de.pfabulist.kleinod/kleinod-log@1.0?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/kleinod-log@1.0.1
+- pkg:maven/de.pfabulist.kleinod/kleinod-log@1.0.1?classifier=sources

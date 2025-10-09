@@ -130,3 +130,5 @@
 - pkg:maven/com.untzuntz.ustack/ustack-server@2.1.45?classifier=sources
 - pkg:maven/com.untzuntz.ustack/ustack-server@2.1.48
 - pkg:maven/com.untzuntz.ustack/ustack-server@2.1.48?classifier=sources
+- pkg:maven/com.untzuntz.ustack/ustack-server@1.0.0
+- pkg:maven/com.untzuntz.ustack/ustack-server@1.0.0?classifier=sources
