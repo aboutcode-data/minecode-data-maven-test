@@ -16,3 +16,7 @@
 - pkg:maven/org.http4k/http4k-server-jetty@1.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-jetty@0.22.0
 - pkg:maven/org.http4k/http4k-server-jetty@0.22.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@1.9.0
+- pkg:maven/org.http4k/http4k-server-jetty@1.9.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@1.8.0
+- pkg:maven/org.http4k/http4k-server-jetty@1.8.0?classifier=sources

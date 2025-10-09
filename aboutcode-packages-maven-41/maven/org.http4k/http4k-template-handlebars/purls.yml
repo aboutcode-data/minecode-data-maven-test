@@ -18,3 +18,7 @@
 - pkg:maven/org.http4k/http4k-template-handlebars@0.22.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-handlebars@0.21.0
 - pkg:maven/org.http4k/http4k-template-handlebars@0.21.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-handlebars@1.9.0
+- pkg:maven/org.http4k/http4k-template-handlebars@1.9.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-handlebars@1.8.0
+- pkg:maven/org.http4k/http4k-template-handlebars@1.8.0?classifier=sources

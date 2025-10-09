@@ -16,3 +16,7 @@
 - pkg:maven/org.http4k/http4k-format-gson@1.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-gson@0.22.0
 - pkg:maven/org.http4k/http4k-format-gson@0.22.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-gson@1.9.0
+- pkg:maven/org.http4k/http4k-format-gson@1.9.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-gson@1.8.0
+- pkg:maven/org.http4k/http4k-format-gson@1.8.0?classifier=sources
