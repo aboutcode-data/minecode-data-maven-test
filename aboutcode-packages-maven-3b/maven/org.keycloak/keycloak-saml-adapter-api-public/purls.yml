@@ -1,2 +1,4 @@
 - pkg:maven/org.keycloak/keycloak-saml-adapter-api-public@1.9.2.Final
 - pkg:maven/org.keycloak/keycloak-saml-adapter-api-public@1.9.2.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-adapter-api-public@1.9.3.Final
+- pkg:maven/org.keycloak/keycloak-saml-adapter-api-public@1.9.3.Final?classifier=sources

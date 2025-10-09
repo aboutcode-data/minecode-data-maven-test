@@ -26,3 +26,5 @@
 - pkg:maven/org.keycloak/keycloak-saml-tomcat8-adapter@1.9.1.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-saml-tomcat8-adapter@1.9.2.Final
 - pkg:maven/org.keycloak/keycloak-saml-tomcat8-adapter@1.9.2.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-tomcat8-adapter@1.9.3.Final
+- pkg:maven/org.keycloak/keycloak-saml-tomcat8-adapter@1.9.3.Final?classifier=sources
