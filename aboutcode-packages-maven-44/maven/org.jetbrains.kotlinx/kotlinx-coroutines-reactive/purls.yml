@@ -18,3 +18,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.21.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.22
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.22?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.22.1
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.22.1?classifier=sources

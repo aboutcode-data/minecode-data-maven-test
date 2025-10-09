@@ -304,3 +304,5 @@
 - pkg:maven/org.http4k/http4k-template-handlebars@3.13.3?classifier=sources
 - pkg:maven/org.http4k/http4k-template-handlebars@3.13.2
 - pkg:maven/org.http4k/http4k-template-handlebars@3.13.2?classifier=sources
+- pkg:maven/org.http4k/http4k-template-handlebars@3.14.0
+- pkg:maven/org.http4k/http4k-template-handlebars@3.14.0?classifier=sources

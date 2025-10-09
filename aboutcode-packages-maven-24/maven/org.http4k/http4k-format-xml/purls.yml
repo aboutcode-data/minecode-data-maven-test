@@ -108,3 +108,5 @@
 - pkg:maven/org.http4k/http4k-format-xml@3.13.4?classifier=sources
 - pkg:maven/org.http4k/http4k-format-xml@3.13.3
 - pkg:maven/org.http4k/http4k-format-xml@3.13.3?classifier=sources
+- pkg:maven/org.http4k/http4k-format-xml@3.14.0
+- pkg:maven/org.http4k/http4k-format-xml@3.14.0?classifier=sources

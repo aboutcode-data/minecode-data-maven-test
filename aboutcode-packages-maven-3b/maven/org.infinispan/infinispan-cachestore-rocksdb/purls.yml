@@ -44,3 +44,7 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.1.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.2.0.CR1
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.2.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.2.0.CR2
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.2.0.CR2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.1.5.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.1.5.Final?classifier=sources
