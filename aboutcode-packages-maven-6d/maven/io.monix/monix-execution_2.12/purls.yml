@@ -74,3 +74,7 @@
 - pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC2-cb74787?classifier=sources
 - pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC4
 - pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC4?classifier=sources
+- pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC5
+- pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC5?classifier=sources
+- pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC4-99273a4
+- pkg:maven/io.monix/monix-execution_2.12@3.0.0-RC4-99273a4?classifier=sources

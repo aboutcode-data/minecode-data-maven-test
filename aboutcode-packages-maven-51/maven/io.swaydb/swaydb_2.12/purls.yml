@@ -34,3 +34,5 @@
 - pkg:maven/io.swaydb/swaydb_2.12@0.8-beta.6?classifier=sources
 - pkg:maven/io.swaydb/swaydb_2.12@0.8-beta.8
 - pkg:maven/io.swaydb/swaydb_2.12@0.8-beta.8?classifier=sources
+- pkg:maven/io.swaydb/swaydb_2.12@0.9-ALPHA.1
+- pkg:maven/io.swaydb/swaydb_2.12@0.9-ALPHA.1?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/io.projectreactor/reactor-core@3.2.10.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.2.11.RELEASE
 - pkg:maven/io.projectreactor/reactor-core@3.2.11.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.2.12.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.2.12.RELEASE?classifier=sources

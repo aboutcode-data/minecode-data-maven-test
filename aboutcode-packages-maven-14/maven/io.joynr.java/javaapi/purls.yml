@@ -224,3 +224,5 @@
 - pkg:maven/io.joynr.java/javaapi@1.8.3?classifier=sources
 - pkg:maven/io.joynr.java/javaapi@1.10.0
 - pkg:maven/io.joynr.java/javaapi@1.10.0?classifier=sources
+- pkg:maven/io.joynr.java/javaapi@1.7.2
+- pkg:maven/io.joynr.java/javaapi@1.7.2?classifier=sources
