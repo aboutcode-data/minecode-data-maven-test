@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.phoenix/phoenix-client@4.14.1-HBase-1.2
 - pkg:maven/org.apache.phoenix/phoenix-client@4.14.1-HBase-1.1
 - pkg:maven/org.apache.phoenix/phoenix-client@4.14.1-HBase-0.98
+- pkg:maven/org.apache.phoenix/phoenix-client@4.14.1-HBase-1.4?classifier=sources

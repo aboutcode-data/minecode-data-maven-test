@@ -63,3 +63,6 @@
 - pkg:maven/org.apache.kylin/kylin@2.6.1?classifier=src&type=zip
 - pkg:maven/org.apache.kylin/kylin@2.6.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.kylin/kylin@2.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@3.0.0-alpha?classifier=src&type=zip
+- pkg:maven/org.apache.kylin/kylin@3.0.0-alpha?classifier=src&type=tar.gz
+- pkg:maven/org.apache.kylin/kylin@3.0.0-alpha?classifier=source-release&type=zip

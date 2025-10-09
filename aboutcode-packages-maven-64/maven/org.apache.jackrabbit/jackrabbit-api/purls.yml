@@ -304,3 +304,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.8.10?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.19.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.19.2?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.1
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.1?classifier=sources
