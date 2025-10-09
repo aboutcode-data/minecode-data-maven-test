@@ -614,3 +614,5 @@
 - pkg:maven/com.github.axet/android-library@1.22.0?classifier=sources
 - pkg:maven/com.github.axet/android-library@1.21.7?type=aar
 - pkg:maven/com.github.axet/android-library@1.21.7?classifier=sources
+- pkg:maven/com.github.axet/android-library@1.22.3?type=aar
+- pkg:maven/com.github.axet/android-library@1.22.3?classifier=sources

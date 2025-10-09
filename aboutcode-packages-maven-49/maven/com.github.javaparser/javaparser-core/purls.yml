@@ -138,3 +138,7 @@
 - pkg:maven/com.github.javaparser/javaparser-core@3.5.14?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-core@3.5.15
 - pkg:maven/com.github.javaparser/javaparser-core@3.5.15?classifier=sources
+- pkg:maven/com.github.javaparser/javaparser-core@3.5.17
+- pkg:maven/com.github.javaparser/javaparser-core@3.5.17?classifier=sources
+- pkg:maven/com.github.javaparser/javaparser-core@3.5.16
+- pkg:maven/com.github.javaparser/javaparser-core@3.5.16?classifier=sources

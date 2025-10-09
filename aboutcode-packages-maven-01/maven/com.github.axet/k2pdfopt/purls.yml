@@ -12,3 +12,7 @@
 - pkg:maven/com.github.axet/k2pdfopt@0.0.8?classifier=sources
 - pkg:maven/com.github.axet/k2pdfopt@0.0.7?type=aar
 - pkg:maven/com.github.axet/k2pdfopt@0.0.7?classifier=sources
+- pkg:maven/com.github.axet/k2pdfopt@0.0.9?type=aar
+- pkg:maven/com.github.axet/k2pdfopt@0.0.9?classifier=sources
+- pkg:maven/com.github.axet/k2pdfopt@0.0.10?type=aar
+- pkg:maven/com.github.axet/k2pdfopt@0.0.10?classifier=sources

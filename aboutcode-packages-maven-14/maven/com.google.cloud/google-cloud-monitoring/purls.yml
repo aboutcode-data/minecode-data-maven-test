@@ -100,3 +100,5 @@
 - pkg:maven/com.google.cloud/google-cloud-monitoring@0.37.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring@0.36.0-beta
 - pkg:maven/com.google.cloud/google-cloud-monitoring@0.36.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring@0.38.0-beta
+- pkg:maven/com.google.cloud/google-cloud-monitoring@0.38.0-beta?classifier=sources

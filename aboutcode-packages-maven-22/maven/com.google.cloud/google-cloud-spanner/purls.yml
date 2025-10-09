@@ -82,3 +82,5 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner@0.36.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner@0.20.0b-beta
 - pkg:maven/com.google.cloud/google-cloud-spanner@0.20.0b-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner@0.38.0-beta
+- pkg:maven/com.google.cloud/google-cloud-spanner@0.38.0-beta?classifier=sources
