@@ -438,3 +438,7 @@
 - pkg:maven/software.amazon.awssdk/ses@2.10.20?classifier=sources
 - pkg:maven/software.amazon.awssdk/ses@2.10.19
 - pkg:maven/software.amazon.awssdk/ses@2.10.19?classifier=sources
+- pkg:maven/software.amazon.awssdk/ses@2.10.25
+- pkg:maven/software.amazon.awssdk/ses@2.10.25?classifier=sources
+- pkg:maven/software.amazon.awssdk/ses@2.10.24
+- pkg:maven/software.amazon.awssdk/ses@2.10.24?classifier=sources

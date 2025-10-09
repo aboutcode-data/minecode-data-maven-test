@@ -552,3 +552,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-script@11.3.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-script@10.11.10
 - pkg:maven/org.xwiki.commons/xwiki-commons-script@10.11.10?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-script@11.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-script@11.10?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/software.amazon.awscdk/greengrass@1.17.1.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/greengrass@1.17.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/greengrass@1.17.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/greengrass@1.18.0
+- pkg:maven/software.amazon.awscdk/greengrass@1.18.0?classifier=sources
