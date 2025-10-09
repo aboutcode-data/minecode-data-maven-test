@@ -36,3 +36,5 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-cluster@1.2.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-cluster@2.0.3.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-cluster@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-cluster@2.1.0.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-cluster@2.1.0.RELEASE?classifier=sources

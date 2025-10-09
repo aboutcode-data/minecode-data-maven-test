@@ -92,3 +92,5 @@
 - pkg:maven/org.sonarsource.java/sonar-jacoco-listeners@5.10.1.16922?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-jacoco-listeners@5.10.2.17019
 - pkg:maven/org.sonarsource.java/sonar-jacoco-listeners@5.10.2.17019?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-jacoco-listeners@5.11.0.17289
+- pkg:maven/org.sonarsource.java/sonar-jacoco-listeners@5.11.0.17289?classifier=sources
