@@ -88,3 +88,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.3.1
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.3.1?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@6.0.2
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@6.0.2?classifier=sources

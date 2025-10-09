@@ -20,3 +20,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core@5.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core@6.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core@6.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core@6.1.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core@6.1.0?classifier=sources

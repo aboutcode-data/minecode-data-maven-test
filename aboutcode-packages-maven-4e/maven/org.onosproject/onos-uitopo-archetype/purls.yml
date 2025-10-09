@@ -7,3 +7,6 @@
 - pkg:maven/org.onosproject/onos-uitopo-archetype@1.8.0?classifier=sources
 - pkg:maven/org.onosproject/onos-uitopo-archetype@1.8.2?classifier=sources
 - pkg:maven/org.onosproject/onos-uitopo-archetype@1.8.1?classifier=sources
+- pkg:maven/org.onosproject/onos-uitopo-archetype@1.9.0-test1?classifier=sources
+- pkg:maven/org.onosproject/onos-uitopo-archetype@1.9.0-b1b?classifier=sources
+- pkg:maven/org.onosproject/onos-uitopo-archetype@1.9.0-b1?classifier=sources
