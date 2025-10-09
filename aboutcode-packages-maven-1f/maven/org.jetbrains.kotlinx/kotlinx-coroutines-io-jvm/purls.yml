@@ -17,3 +17,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-io-jvm@0.1.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-io-jvm@0.1.10
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-io-jvm@0.1.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-io-jvm@0.1.11
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-io-jvm@0.1.11?classifier=sources

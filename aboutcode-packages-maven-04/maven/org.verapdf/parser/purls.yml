@@ -38,3 +38,5 @@
 - pkg:maven/org.verapdf/parser@1.14.11-RC?classifier=sources
 - pkg:maven/org.verapdf/parser@1.14.10-RC
 - pkg:maven/org.verapdf/parser@1.14.10-RC?classifier=sources
+- pkg:maven/org.verapdf/parser@1.14.1
+- pkg:maven/org.verapdf/parser@1.14.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.verapdf/pdf-model@1.14.35-RC?classifier=sources
 - pkg:maven/org.verapdf/pdf-model@1.14.2-RC
 - pkg:maven/org.verapdf/pdf-model@1.14.2-RC?classifier=sources
+- pkg:maven/org.verapdf/pdf-model@1.14.1
+- pkg:maven/org.verapdf/pdf-model@1.14.1?classifier=sources

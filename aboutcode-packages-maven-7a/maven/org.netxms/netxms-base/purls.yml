@@ -26,3 +26,5 @@
 - pkg:maven/org.netxms/netxms-base@2.2.13?classifier=sources
 - pkg:maven/org.netxms/netxms-base@2.2.15
 - pkg:maven/org.netxms/netxms-base@2.2.15?classifier=sources
+- pkg:maven/org.netxms/netxms-base@2.2.16
+- pkg:maven/org.netxms/netxms-base@2.2.16?classifier=sources

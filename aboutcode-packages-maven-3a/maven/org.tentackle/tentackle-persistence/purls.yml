@@ -34,3 +34,5 @@
 - pkg:maven/org.tentackle/tentackle-persistence@8.2.5.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-persistence@11.4.0.0
 - pkg:maven/org.tentackle/tentackle-persistence@11.4.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-persistence@11.4.0.1
+- pkg:maven/org.tentackle/tentackle-persistence@11.4.0.1?classifier=sources
