@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@6.6.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@6.6.1
 - pkg:maven/org.apache.lucene/lucene-suggest@6.6.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@7.0.0
+- pkg:maven/org.apache.lucene/lucene-suggest@7.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.restx/restx-server-jetty7@0.35-rc1
 - pkg:maven/io.restx/restx-server-jetty7@0.35-rc1?classifier=sources
+- pkg:maven/io.restx/restx-server-jetty7@0.35-rc2
+- pkg:maven/io.restx/restx-server-jetty7@0.35-rc2?classifier=sources

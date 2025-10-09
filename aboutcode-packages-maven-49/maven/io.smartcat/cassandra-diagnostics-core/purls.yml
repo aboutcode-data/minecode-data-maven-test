@@ -34,3 +34,5 @@
 - pkg:maven/io.smartcat/cassandra-diagnostics-core@1.4.7?classifier=sources
 - pkg:maven/io.smartcat/cassandra-diagnostics-core@1.4.8
 - pkg:maven/io.smartcat/cassandra-diagnostics-core@1.4.8?classifier=sources
+- pkg:maven/io.smartcat/cassandra-diagnostics-core@1.4.10
+- pkg:maven/io.smartcat/cassandra-diagnostics-core@1.4.10?classifier=sources
