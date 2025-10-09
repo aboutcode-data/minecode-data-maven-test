@@ -26,3 +26,7 @@
 - pkg:maven/com.metaring/platform-plugin-eclipse@1.1.5?classifier=sources
 - pkg:maven/com.metaring/platform-plugin-eclipse@1.1.1
 - pkg:maven/com.metaring/platform-plugin-eclipse@1.1.1?classifier=sources
+- pkg:maven/com.metaring/platform-plugin-eclipse@1.2.3
+- pkg:maven/com.metaring/platform-plugin-eclipse@1.2.3?classifier=sources
+- pkg:maven/com.metaring/platform-plugin-eclipse@1.2.2
+- pkg:maven/com.metaring/platform-plugin-eclipse@1.2.2?classifier=sources

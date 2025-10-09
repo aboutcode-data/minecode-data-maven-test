@@ -104,3 +104,9 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.comment@4.0.2
 - pkg:maven/com.liferay/com.liferay.message.boards.comment@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.comment@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.comment@4.0.3
+- pkg:maven/com.liferay/com.liferay.message.boards.comment@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.comment@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.comment@2.0.24
+- pkg:maven/com.liferay/com.liferay.message.boards.comment@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.comment@2.0.24?classifier=sources-commercial

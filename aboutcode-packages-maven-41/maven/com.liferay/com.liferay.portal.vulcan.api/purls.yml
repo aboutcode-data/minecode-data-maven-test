@@ -106,3 +106,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@2.8.2
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@2.8.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@2.8.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.api@3.7.4
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.api@3.7.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.api@3.7.4?classifier=sources-commercial

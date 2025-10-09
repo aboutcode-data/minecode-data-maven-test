@@ -64,3 +64,6 @@
 - pkg:maven/com.liferay/com.liferay.organizations.service@1.0.14
 - pkg:maven/com.liferay/com.liferay.organizations.service@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.service@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.service@2.0.9
+- pkg:maven/com.liferay/com.liferay.organizations.service@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.service@2.0.9?classifier=sources-commercial

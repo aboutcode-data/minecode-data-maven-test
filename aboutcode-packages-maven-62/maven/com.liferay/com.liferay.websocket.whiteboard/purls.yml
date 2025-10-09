@@ -53,3 +53,6 @@
 - pkg:maven/com.liferay/com.liferay.websocket.whiteboard@1.0.7
 - pkg:maven/com.liferay/com.liferay.websocket.whiteboard@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.websocket.whiteboard@1.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.websocket.whiteboard@3.0.3
+- pkg:maven/com.liferay/com.liferay.websocket.whiteboard@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.websocket.whiteboard@3.0.3?classifier=sources-commercial

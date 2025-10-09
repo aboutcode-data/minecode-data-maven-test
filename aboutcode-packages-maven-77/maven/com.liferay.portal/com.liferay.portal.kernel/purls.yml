@@ -704,3 +704,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.27.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.27.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.27.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.117.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.117.0?classifier=sources
