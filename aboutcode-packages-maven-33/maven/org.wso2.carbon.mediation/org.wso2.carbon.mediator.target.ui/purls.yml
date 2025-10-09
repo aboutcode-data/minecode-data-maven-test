@@ -67,3 +67,6 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.target.ui@4.6.48
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.target.ui@4.6.48?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.target.ui@4.6.48?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.target.ui@4.6.49
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.target.ui@4.6.49?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.target.ui@4.6.49?classifier=source-release&type=zip
