@@ -240,3 +240,7 @@
 - pkg:maven/com.yahoo.vespa/configgen@6.289.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/configgen@6.297.80
 - pkg:maven/com.yahoo.vespa/configgen@6.297.80?classifier=sources
+- pkg:maven/com.yahoo.vespa/configgen@6.301.8
+- pkg:maven/com.yahoo.vespa/configgen@6.301.8?classifier=sources
+- pkg:maven/com.yahoo.vespa/configgen@6.300.15
+- pkg:maven/com.yahoo.vespa/configgen@6.300.15?classifier=sources

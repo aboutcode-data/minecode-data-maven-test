@@ -1,2 +1,4 @@
 - pkg:maven/com.structurizr/structurizr-adr-tools@1.0.0-RC7
 - pkg:maven/com.structurizr/structurizr-adr-tools@1.0.0-RC7?classifier=sources
+- pkg:maven/com.structurizr/structurizr-adr-tools@1.0.0
+- pkg:maven/com.structurizr/structurizr-adr-tools@1.0.0?classifier=sources

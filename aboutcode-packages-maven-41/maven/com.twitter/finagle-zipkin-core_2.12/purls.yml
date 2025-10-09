@@ -38,3 +38,5 @@
 - pkg:maven/com.twitter/finagle-zipkin-core_2.12@18.9.0?classifier=sources
 - pkg:maven/com.twitter/finagle-zipkin-core_2.12@18.9.1
 - pkg:maven/com.twitter/finagle-zipkin-core_2.12@18.9.1?classifier=sources
+- pkg:maven/com.twitter/finagle-zipkin-core_2.12@18.10.0
+- pkg:maven/com.twitter/finagle-zipkin-core_2.12@18.10.0?classifier=sources

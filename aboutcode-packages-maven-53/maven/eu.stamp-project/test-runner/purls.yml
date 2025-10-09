@@ -20,3 +20,5 @@
 - pkg:maven/eu.stamp-project/test-runner@1.0.9?classifier=sources
 - pkg:maven/eu.stamp-project/test-runner@1.1.0
 - pkg:maven/eu.stamp-project/test-runner@1.1.0?classifier=sources
+- pkg:maven/eu.stamp-project/test-runner@1.1.1
+- pkg:maven/eu.stamp-project/test-runner@1.1.1?classifier=sources
