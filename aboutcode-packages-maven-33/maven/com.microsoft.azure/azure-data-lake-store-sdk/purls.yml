@@ -20,3 +20,5 @@
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview2
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview2?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.4
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.4?classifier=sources

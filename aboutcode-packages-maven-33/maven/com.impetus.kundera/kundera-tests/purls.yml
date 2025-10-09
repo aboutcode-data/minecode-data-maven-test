@@ -52,3 +52,5 @@
 - pkg:maven/com.impetus.kundera/kundera-tests@3.10.1?classifier=sources
 - pkg:maven/com.impetus.kundera/kundera-tests@3.11
 - pkg:maven/com.impetus.kundera/kundera-tests@3.11?classifier=sources
+- pkg:maven/com.impetus.kundera/kundera-tests@3.12
+- pkg:maven/com.impetus.kundera/kundera-tests@3.12?classifier=sources
