@@ -188,3 +188,5 @@
 - pkg:maven/org.elasticsearch.gradle/build-tools@7.2.1?classifier=sources
 - pkg:maven/org.elasticsearch.gradle/build-tools@6.8.2
 - pkg:maven/org.elasticsearch.gradle/build-tools@6.8.2?classifier=sources
+- pkg:maven/org.elasticsearch.gradle/build-tools@7.3.1
+- pkg:maven/org.elasticsearch.gradle/build-tools@7.3.1?classifier=sources

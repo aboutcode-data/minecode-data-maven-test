@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.flink/flink-tests@0.10.2-hadoop1?classifier=sources
 - pkg:maven/org.apache.flink/flink-tests@0.10.2
 - pkg:maven/org.apache.flink/flink-tests@0.10.2?classifier=sources
+- pkg:maven/org.apache.flink/flink-tests@1.9.0
+- pkg:maven/org.apache.flink/flink-tests@1.9.0?classifier=sources

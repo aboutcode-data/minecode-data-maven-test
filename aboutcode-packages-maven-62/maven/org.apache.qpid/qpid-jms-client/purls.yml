@@ -72,3 +72,5 @@
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.43.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.44.0
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.44.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-jms-client@0.45.0
+- pkg:maven/org.apache.qpid/qpid-jms-client@0.45.0?classifier=sources

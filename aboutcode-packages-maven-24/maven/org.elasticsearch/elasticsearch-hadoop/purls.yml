@@ -216,3 +216,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.3.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.2.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@6.8.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.3.1?classifier=sources
