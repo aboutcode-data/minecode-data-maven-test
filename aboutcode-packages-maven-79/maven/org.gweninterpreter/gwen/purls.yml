@@ -28,3 +28,5 @@
 - pkg:maven/org.gweninterpreter/gwen@2.7.3?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@2.7.2
 - pkg:maven/org.gweninterpreter/gwen@2.7.2?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@2.8.0
+- pkg:maven/org.gweninterpreter/gwen@2.8.0?classifier=sources

@@ -112,3 +112,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.26
 - pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.26?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.28
+- pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.28?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.resourceresolver@1.5.28?classifier=source-release&type=zip

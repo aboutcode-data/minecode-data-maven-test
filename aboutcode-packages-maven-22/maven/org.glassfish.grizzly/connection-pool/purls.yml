@@ -80,3 +80,7 @@
 - pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0-beta11?classifier=sources
 - pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0-beta10
 - pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0-beta10?classifier=sources
+- pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0-beta13
+- pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0-beta13?classifier=sources
+- pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0
+- pkg:maven/org.glassfish.grizzly/connection-pool@2.4.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.deflaker/deflaker-surefire-reexec-junit4@2.19.1
+- pkg:maven/org.deflaker/deflaker-surefire-reexec-junit4@2.19.1?classifier=sources
+- pkg:maven/org.deflaker/deflaker-surefire-reexec-junit4@2.18
+- pkg:maven/org.deflaker/deflaker-surefire-reexec-junit4@2.18?classifier=sources

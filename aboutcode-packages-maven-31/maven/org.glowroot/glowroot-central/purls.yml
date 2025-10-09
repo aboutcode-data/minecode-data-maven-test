@@ -28,3 +28,5 @@
 - pkg:maven/org.glowroot/glowroot-central@0.9.21?classifier=sources
 - pkg:maven/org.glowroot/glowroot-central@0.9.20
 - pkg:maven/org.glowroot/glowroot-central@0.9.20?classifier=sources
+- pkg:maven/org.glowroot/glowroot-central@0.9.22
+- pkg:maven/org.glowroot/glowroot-central@0.9.22?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.hive/hive-contrib@2.1.1?classifier=sources
 - pkg:maven/org.apache.hive/hive-contrib@1.2.2
 - pkg:maven/org.apache.hive/hive-contrib@1.2.2?classifier=sources
+- pkg:maven/org.apache.hive/hive-contrib@2.3.0
+- pkg:maven/org.apache.hive/hive-contrib@2.3.0?classifier=sources

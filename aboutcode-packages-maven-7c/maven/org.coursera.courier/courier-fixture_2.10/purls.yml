@@ -1,2 +1,4 @@
 - pkg:maven/org.coursera.courier/courier-fixture_2.10@2.0.9
 - pkg:maven/org.coursera.courier/courier-fixture_2.10@2.0.9?classifier=sources
+- pkg:maven/org.coursera.courier/courier-fixture_2.10@2.0.11
+- pkg:maven/org.coursera.courier/courier-fixture_2.10@2.0.11?classifier=sources
