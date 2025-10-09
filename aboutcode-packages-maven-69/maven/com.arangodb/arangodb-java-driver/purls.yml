@@ -134,3 +134,5 @@
 - pkg:maven/com.arangodb/arangodb-java-driver@4.3.7?classifier=sources
 - pkg:maven/com.arangodb/arangodb-java-driver@4.3.6
 - pkg:maven/com.arangodb/arangodb-java-driver@4.3.6?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@4.4.1
+- pkg:maven/com.arangodb/arangodb-java-driver@4.4.1?classifier=sources

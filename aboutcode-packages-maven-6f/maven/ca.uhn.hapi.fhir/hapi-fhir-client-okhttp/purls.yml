@@ -18,3 +18,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp@3.2.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp@3.3.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp@3.3.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp@3.4.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp@3.4.0?classifier=sources

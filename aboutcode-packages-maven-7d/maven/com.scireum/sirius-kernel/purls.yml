@@ -212,3 +212,5 @@
 - pkg:maven/com.scireum/sirius-kernel@9.8?classifier=sources
 - pkg:maven/com.scireum/sirius-kernel@9.10
 - pkg:maven/com.scireum/sirius-kernel@9.10?classifier=sources
+- pkg:maven/com.scireum/sirius-kernel@9.11
+- pkg:maven/com.scireum/sirius-kernel@9.11?classifier=sources

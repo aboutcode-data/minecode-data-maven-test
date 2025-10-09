@@ -6,3 +6,5 @@
 - pkg:maven/com.lucadev/coinmarketcap-api@1.2?classifier=sources
 - pkg:maven/com.lucadev/coinmarketcap-api@2.0
 - pkg:maven/com.lucadev/coinmarketcap-api@2.0?classifier=sources
+- pkg:maven/com.lucadev/coinmarketcap-api@2.1
+- pkg:maven/com.lucadev/coinmarketcap-api@2.1?classifier=sources

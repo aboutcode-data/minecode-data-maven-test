@@ -56,3 +56,7 @@
 - pkg:maven/org.restheart/restheart@3.2.4?classifier=sources
 - pkg:maven/org.restheart/restheart@3.2.3?type=zip
 - pkg:maven/org.restheart/restheart@3.2.3?classifier=sources
+- pkg:maven/org.restheart/restheart@3.3.2
+- pkg:maven/org.restheart/restheart@3.3.2?classifier=sources
+- pkg:maven/org.restheart/restheart@3.2.5?type=zip
+- pkg:maven/org.restheart/restheart@3.2.5?classifier=sources
