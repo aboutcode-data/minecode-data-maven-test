@@ -78,3 +78,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-bom@5.3.12.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-bom@6.1.0-RC6?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-bom@6.1.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-bom@6.1.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-bom@6.0.6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-bom@5.3.14?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-bom@5.3.13?classifier=sources

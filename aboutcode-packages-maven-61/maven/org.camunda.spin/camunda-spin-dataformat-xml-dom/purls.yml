@@ -72,3 +72,7 @@
 - pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.6.10?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.5.7
 - pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.5.7?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.7.3
+- pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.7.3?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.6.11
+- pkg:maven/org.camunda.spin/camunda-spin-dataformat-xml-dom@1.6.11?classifier=sources

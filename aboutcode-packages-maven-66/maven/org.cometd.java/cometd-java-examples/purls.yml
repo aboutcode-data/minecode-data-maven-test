@@ -156,3 +156,5 @@
 - pkg:maven/org.cometd.java/cometd-java-examples@3.1.9?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-examples@3.1.10?type=war
 - pkg:maven/org.cometd.java/cometd-java-examples@3.1.10?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-examples@3.1.11?type=war
+- pkg:maven/org.cometd.java/cometd-java-examples@3.1.11?classifier=sources

@@ -76,3 +76,5 @@
 - pkg:maven/org.eclipse.che.selenium/che-selenium-test@7.2.0?classifier=sources
 - pkg:maven/org.eclipse.che.selenium/che-selenium-test@7.3.0
 - pkg:maven/org.eclipse.che.selenium/che-selenium-test@7.3.0?classifier=sources
+- pkg:maven/org.eclipse.che.selenium/che-selenium-test@7.3.1
+- pkg:maven/org.eclipse.che.selenium/che-selenium-test@7.3.1?classifier=sources

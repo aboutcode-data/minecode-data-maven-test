@@ -25,3 +25,6 @@
 - pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.1.4
 - pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.1.4?classifier=sources
 - pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.1.8
+- pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.1.8?classifier=sources
+- pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.1.8?classifier=source-release&type=zip
