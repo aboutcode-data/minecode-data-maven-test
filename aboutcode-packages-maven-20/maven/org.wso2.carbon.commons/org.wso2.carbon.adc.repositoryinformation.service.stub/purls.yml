@@ -70,3 +70,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.adc.repositoryinformation.service.stub@4.6.24
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.adc.repositoryinformation.service.stub@4.6.24?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.adc.repositoryinformation.service.stub@4.6.24?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.adc.repositoryinformation.service.stub@4.6.26
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.adc.repositoryinformation.service.stub@4.6.26?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.adc.repositoryinformation.service.stub@4.6.26?classifier=source-release&type=zip
