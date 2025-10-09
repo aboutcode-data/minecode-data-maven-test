@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.storm/storm-kafka@0.10.0?classifier=sources
 - pkg:maven/org.apache.storm/storm-kafka@0.9.6
 - pkg:maven/org.apache.storm/storm-kafka@0.9.6?classifier=sources
+- pkg:maven/org.apache.storm/storm-kafka@1.0.0
+- pkg:maven/org.apache.storm/storm-kafka@1.0.0?classifier=sources

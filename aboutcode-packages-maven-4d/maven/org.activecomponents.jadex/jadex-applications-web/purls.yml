@@ -1,2 +1,6 @@
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC16?type=war
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC16?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC32?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.0-RC32?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0-DEVELOPMENT?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0-DEVELOPMENT?classifier=sources

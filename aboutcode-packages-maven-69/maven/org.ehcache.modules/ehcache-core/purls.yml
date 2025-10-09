@@ -16,3 +16,5 @@
 - pkg:maven/org.ehcache.modules/ehcache-core@3.0.0.rc2?classifier=sources
 - pkg:maven/org.ehcache.modules/ehcache-core@3.0.0.rc3
 - pkg:maven/org.ehcache.modules/ehcache-core@3.0.0.rc3?classifier=sources
+- pkg:maven/org.ehcache.modules/ehcache-core@3.0.0
+- pkg:maven/org.ehcache.modules/ehcache-core@3.0.0?classifier=sources

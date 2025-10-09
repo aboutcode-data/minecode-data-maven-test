@@ -80,3 +80,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.0?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.33
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.0.33?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.69
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.69?classifier=sources

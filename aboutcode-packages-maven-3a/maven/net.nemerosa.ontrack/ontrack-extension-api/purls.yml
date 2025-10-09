@@ -30,3 +30,4 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-api@2.20.1?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-api@2.20.6
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-api@2.20.6?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-api@refac-postgresql-a8971e3
