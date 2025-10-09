@@ -174,3 +174,5 @@
 - pkg:maven/org.atmosphere/atmosphere-redis@2.4.20?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-redis@2.4.21
 - pkg:maven/org.atmosphere/atmosphere-redis@2.4.21?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-redis@2.5.0
+- pkg:maven/org.atmosphere/atmosphere-redis@2.5.0?classifier=sources

@@ -72,3 +72,7 @@
 - pkg:maven/no.digipost/sdp-xsd@2.10?classifier=sources
 - pkg:maven/no.digipost/sdp-xsd@2.11
 - pkg:maven/no.digipost/sdp-xsd@2.11?classifier=sources
+- pkg:maven/no.digipost/sdp-xsd@2.13
+- pkg:maven/no.digipost/sdp-xsd@2.13?classifier=sources
+- pkg:maven/no.digipost/sdp-xsd@2.12
+- pkg:maven/no.digipost/sdp-xsd@2.12?classifier=sources

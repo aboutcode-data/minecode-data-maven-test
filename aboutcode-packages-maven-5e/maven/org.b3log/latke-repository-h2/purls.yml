@@ -254,3 +254,7 @@
 - pkg:maven/org.b3log/latke-repository-h2@2.4.59?classifier=sources
 - pkg:maven/org.b3log/latke-repository-h2@2.4.60
 - pkg:maven/org.b3log/latke-repository-h2@2.4.60?classifier=sources
+- pkg:maven/org.b3log/latke-repository-h2@2.5.0
+- pkg:maven/org.b3log/latke-repository-h2@2.5.0?classifier=sources
+- pkg:maven/org.b3log/latke-repository-h2@2.4.64
+- pkg:maven/org.b3log/latke-repository-h2@2.4.64?classifier=sources

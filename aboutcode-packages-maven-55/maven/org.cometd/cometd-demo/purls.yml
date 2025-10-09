@@ -184,3 +184,5 @@
 - pkg:maven/org.cometd/cometd-demo@4.0.4?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@3.1.9?type=war
 - pkg:maven/org.cometd/cometd-demo@3.1.9?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@3.1.10?type=war
+- pkg:maven/org.cometd/cometd-demo@3.1.10?classifier=sources
