@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.akka/akka-camel_2.13@2.5.23
 - pkg:maven/com.typesafe.akka/akka-camel_2.13@2.5.23?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-camel_2.13@2.5.24
+- pkg:maven/com.typesafe.akka/akka-camel_2.13@2.5.24?classifier=sources

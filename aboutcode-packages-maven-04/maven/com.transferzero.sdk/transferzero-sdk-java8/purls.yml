@@ -1,2 +1,4 @@
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java8@1.0.0
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java8@1.0.0?classifier=sources
+- pkg:maven/com.transferzero.sdk/transferzero-sdk-java8@1.2.0
+- pkg:maven/com.transferzero.sdk/transferzero-sdk-java8@1.2.0?classifier=sources

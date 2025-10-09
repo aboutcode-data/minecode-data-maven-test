@@ -50,3 +50,5 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.92.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.92.1
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.92.1?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.92.2
+- pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.92.2?classifier=sources
