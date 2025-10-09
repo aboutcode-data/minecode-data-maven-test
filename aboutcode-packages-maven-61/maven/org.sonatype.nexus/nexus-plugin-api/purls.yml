@@ -210,3 +210,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.3.2-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.4.0-02
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.4.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.5.0-02
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.5.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.5-02
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.5-02?classifier=sources

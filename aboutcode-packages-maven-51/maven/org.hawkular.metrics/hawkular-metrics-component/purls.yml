@@ -93,3 +93,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.27.1.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.27.2.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.27.2.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.27.3.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-component@0.27.3.Final?classifier=sources
