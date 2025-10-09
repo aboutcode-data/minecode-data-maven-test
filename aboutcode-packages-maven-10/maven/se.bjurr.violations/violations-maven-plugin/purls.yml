@@ -14,3 +14,9 @@
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.8?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.9
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.9?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.13
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.13?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.12
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.12?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.11
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.11?classifier=sources

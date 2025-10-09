@@ -102,3 +102,7 @@
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.7.0-beta2?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.7.0-beta3?type=war
 - pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.7.0-beta3?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m1?type=war
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.8.0-m1?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.7.0?type=war
+- pkg:maven/org.wso2.is/org.wso2.sample.is.sso.agent@5.7.0?classifier=sources

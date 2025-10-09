@@ -4,3 +4,7 @@
 - pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.0?classifier=sources
 - pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.1
 - pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.1?classifier=sources
+- pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.2
+- pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.2?classifier=sources
+- pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.0-preview-12
+- pkg:maven/software.amazon.awssdk/codegen-generated-classes-test@2.0.0-preview-12?classifier=sources
