@@ -139,3 +139,9 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.68
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.68?classifier=sources
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.68?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.70
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.70?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.70?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.69
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.69?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.task.ui@4.4.69?classifier=source-release&type=zip

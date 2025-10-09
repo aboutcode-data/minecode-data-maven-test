@@ -22,3 +22,5 @@
 - pkg:maven/org.whitesource/whitesource-gradle-plugin@18.3.2?classifier=sources
 - pkg:maven/org.whitesource/whitesource-gradle-plugin@18.4.2
 - pkg:maven/org.whitesource/whitesource-gradle-plugin@18.4.2?classifier=sources
+- pkg:maven/org.whitesource/whitesource-gradle-plugin@18.6.3
+- pkg:maven/org.whitesource/whitesource-gradle-plugin@18.6.3?classifier=sources

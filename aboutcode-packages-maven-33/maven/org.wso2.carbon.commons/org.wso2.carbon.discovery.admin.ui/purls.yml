@@ -124,3 +124,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.admin.ui@4.6.38
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.admin.ui@4.6.38?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.admin.ui@4.6.38?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.admin.ui@4.6.44
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.admin.ui@4.6.44?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.admin.ui@4.6.44?classifier=source-release&type=zip
