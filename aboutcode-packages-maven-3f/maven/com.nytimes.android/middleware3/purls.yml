@@ -2,3 +2,5 @@
 - pkg:maven/com.nytimes.android/middleware3@3.0.0-alpha?classifier=sources
 - pkg:maven/com.nytimes.android/middleware3@3.0.0-beta
 - pkg:maven/com.nytimes.android/middleware3@3.0.0-beta?classifier=sources
+- pkg:maven/com.nytimes.android/middleware3@3.0.0
+- pkg:maven/com.nytimes.android/middleware3@3.0.0?classifier=sources

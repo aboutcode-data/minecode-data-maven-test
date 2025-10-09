@@ -1,2 +1,4 @@
 - pkg:maven/com.playfab/server-sdk@0.62.180122
 - pkg:maven/com.playfab/server-sdk@0.62.180122?classifier=sources
+- pkg:maven/com.playfab/server-sdk@0.63.180131
+- pkg:maven/com.playfab/server-sdk@0.63.180131?classifier=sources

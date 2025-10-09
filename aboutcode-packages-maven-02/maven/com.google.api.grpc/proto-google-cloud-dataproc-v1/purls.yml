@@ -1,2 +1,4 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dataproc-v1@0.1.28
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dataproc-v1@0.1.28?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dataproc-v1@0.1.29
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dataproc-v1@0.1.29?classifier=sources

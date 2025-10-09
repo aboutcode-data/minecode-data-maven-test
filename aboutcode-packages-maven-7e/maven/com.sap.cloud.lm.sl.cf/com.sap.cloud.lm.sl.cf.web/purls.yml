@@ -22,3 +22,5 @@
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.52.3?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.52.2?type=war
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.52.2?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.53.0?type=war
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.53.0?classifier=sources

@@ -25,3 +25,5 @@
 - pkg:maven/com.microsoft.azure/azure-keyvault@0.9.7?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-keyvault@1.0.0
 - pkg:maven/com.microsoft.azure/azure-keyvault@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-keyvault@1.1-alpha-1
+- pkg:maven/com.microsoft.azure/azure-keyvault@1.1-alpha-1?classifier=sources
