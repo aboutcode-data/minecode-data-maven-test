@@ -40,3 +40,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-nio@0.24.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-nio@0.25.0-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-nio@0.25.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-nio@0.25.3-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-nio@0.25.3?classifier=sources

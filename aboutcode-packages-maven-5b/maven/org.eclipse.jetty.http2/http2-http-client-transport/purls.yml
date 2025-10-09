@@ -148,3 +148,5 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.4.12.RC2?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.4.12.v20180830
 - pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.4.12.v20180830?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.25.v20180904
+- pkg:maven/org.eclipse.jetty.http2/http2-http-client-transport@9.3.25.v20180904?classifier=sources

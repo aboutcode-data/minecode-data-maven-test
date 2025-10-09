@@ -128,3 +128,5 @@
 - pkg:maven/org.http4k/http4k-serverless-lambda@3.36.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-lambda@3.35.2
 - pkg:maven/org.http4k/http4k-serverless-lambda@3.35.2?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda@3.37.1
+- pkg:maven/org.http4k/http4k-serverless-lambda@3.37.1?classifier=sources

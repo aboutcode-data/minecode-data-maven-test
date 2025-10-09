@@ -134,3 +134,5 @@
 - pkg:maven/org.keycloak/keycloak-wildfly-extensions@4.2.0.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-extensions@4.3.0.Final
 - pkg:maven/org.keycloak/keycloak-wildfly-extensions@4.3.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-extensions@4.4.0.Final
+- pkg:maven/org.keycloak/keycloak-wildfly-extensions@4.4.0.Final?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.cloudfoundry.tools/push-apps-standalone@0.0.55?classifier=sources
 - pkg:maven/org.cloudfoundry.tools/push-apps-standalone@0.0.54
 - pkg:maven/org.cloudfoundry.tools/push-apps-standalone@0.0.54?classifier=sources
+- pkg:maven/org.cloudfoundry.tools/push-apps-standalone@0.0.56
+- pkg:maven/org.cloudfoundry.tools/push-apps-standalone@0.0.56?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/org.apache.poi/poi-scratchpad@3.17-beta1?classifier=sources
 - pkg:maven/org.apache.poi/poi-scratchpad@3.17
 - pkg:maven/org.apache.poi/poi-scratchpad@3.17?classifier=sources
+- pkg:maven/org.apache.poi/poi-scratchpad@4.0.0
+- pkg:maven/org.apache.poi/poi-scratchpad@4.0.0?classifier=sources

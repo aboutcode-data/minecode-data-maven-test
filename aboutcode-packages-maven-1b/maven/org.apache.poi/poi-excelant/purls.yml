@@ -56,3 +56,5 @@
 - pkg:maven/org.apache.poi/poi-excelant@3.17-beta1?classifier=sources
 - pkg:maven/org.apache.poi/poi-excelant@3.17
 - pkg:maven/org.apache.poi/poi-excelant@3.17?classifier=sources
+- pkg:maven/org.apache.poi/poi-excelant@4.0.0
+- pkg:maven/org.apache.poi/poi-excelant@4.0.0?classifier=sources

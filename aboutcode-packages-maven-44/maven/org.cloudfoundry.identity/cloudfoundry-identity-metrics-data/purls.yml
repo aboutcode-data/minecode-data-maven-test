@@ -58,3 +58,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.12.4?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.10.2
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.10.2?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.20.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.20.0?classifier=sources
