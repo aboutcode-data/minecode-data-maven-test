@@ -51,3 +51,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@2.0.6
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@2.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@2.0.7
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@1.0.15
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.apple@1.0.15?classifier=sources-commercial

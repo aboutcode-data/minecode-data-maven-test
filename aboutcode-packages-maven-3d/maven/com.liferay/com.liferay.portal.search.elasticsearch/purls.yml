@@ -132,3 +132,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.35
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.38
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.38?classifier=sources-commercial

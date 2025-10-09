@@ -12,3 +12,4 @@
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.0.9?classifier=sources
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.0.10
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.0.10?classifier=sources
+- pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.0.11

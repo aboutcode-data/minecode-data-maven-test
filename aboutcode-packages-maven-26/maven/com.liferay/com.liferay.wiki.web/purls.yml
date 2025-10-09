@@ -221,3 +221,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.19
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.20
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.web@3.0.26
+- pkg:maven/com.liferay/com.liferay.wiki.web@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@3.0.26?classifier=sources-commercial

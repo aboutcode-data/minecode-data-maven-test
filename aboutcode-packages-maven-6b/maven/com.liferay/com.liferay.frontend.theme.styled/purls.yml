@@ -121,3 +121,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.styled@3.0.8
 - pkg:maven/com.liferay/com.liferay.frontend.theme.styled@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.styled@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@3.0.9
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@2.1.11
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@2.1.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@2.1.11?classifier=sources-commercial

@@ -150,3 +150,5 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@2.14.11?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@2.14.12
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@2.14.12?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@2.14.13
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@2.14.13?classifier=sources

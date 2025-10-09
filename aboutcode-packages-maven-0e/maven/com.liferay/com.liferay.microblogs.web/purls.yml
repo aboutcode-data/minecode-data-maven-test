@@ -92,3 +92,9 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.8
 - pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.9
+- pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.web@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.32
+- pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.web@2.0.32?classifier=sources-commercial
