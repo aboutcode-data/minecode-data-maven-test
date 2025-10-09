@@ -38,3 +38,5 @@
 - pkg:maven/org.http4s/blaze-core_2.10@0.12.4?classifier=sources
 - pkg:maven/org.http4s/blaze-core_2.10@0.13.0
 - pkg:maven/org.http4s/blaze-core_2.10@0.13.0?classifier=sources
+- pkg:maven/org.http4s/blaze-core_2.10@0.12.5
+- pkg:maven/org.http4s/blaze-core_2.10@0.12.5?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/org.http4s/http4s-tests_2.11@0.15.9a?classifier=sources
 - pkg:maven/org.http4s/http4s-tests_2.11@0.15.9
 - pkg:maven/org.http4s/http4s-tests_2.11@0.15.9?classifier=sources
+- pkg:maven/org.http4s/http4s-tests_2.11@0.15.10a
+- pkg:maven/org.http4s/http4s-tests_2.11@0.15.10a?classifier=sources
+- pkg:maven/org.http4s/http4s-tests_2.11@0.15.10
+- pkg:maven/org.http4s/http4s-tests_2.11@0.15.10?classifier=sources

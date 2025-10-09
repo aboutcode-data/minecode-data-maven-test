@@ -8,3 +8,5 @@
 - pkg:maven/org.hawkular.agent/hawkular-javaagent@0.29.3.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-javaagent@0.29.4.Final
 - pkg:maven/org.hawkular.agent/hawkular-javaagent@0.29.4.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-javaagent@1.0.0.CR1
+- pkg:maven/org.hawkular.agent/hawkular-javaagent@1.0.0.CR1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-maven@1.1.2-2
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-maven@1.1.2-2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-maven@1.1.2
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-maven@1.1.2?classifier=sources
