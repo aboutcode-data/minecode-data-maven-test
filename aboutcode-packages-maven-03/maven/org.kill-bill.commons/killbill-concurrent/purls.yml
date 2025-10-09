@@ -78,3 +78,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.19?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.15.2
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.15.2?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.20
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.20?classifier=sources
