@@ -32,3 +32,5 @@
 - pkg:maven/org.immutables/android-stub@2.2-beta-3?classifier=sources
 - pkg:maven/org.immutables/android-stub@2.2-beta-2
 - pkg:maven/org.immutables/android-stub@2.2-beta-2?classifier=sources
+- pkg:maven/org.immutables/android-stub@2.2
+- pkg:maven/org.immutables/android-stub@2.2?classifier=sources

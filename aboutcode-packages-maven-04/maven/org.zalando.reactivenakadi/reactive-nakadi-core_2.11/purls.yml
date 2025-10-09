@@ -1,2 +1,4 @@
 - pkg:maven/org.zalando.reactivenakadi/reactive-nakadi-core_2.11@0.0.02
 - pkg:maven/org.zalando.reactivenakadi/reactive-nakadi-core_2.11@0.0.02?classifier=sources
+- pkg:maven/org.zalando.reactivenakadi/reactive-nakadi-core_2.11@0.0.03
+- pkg:maven/org.zalando.reactivenakadi/reactive-nakadi-core_2.11@0.0.03?classifier=sources

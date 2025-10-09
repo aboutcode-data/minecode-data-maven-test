@@ -1,2 +1,4 @@
 - pkg:maven/org.nd4j/nd4j-common@0.4-rc3.8
 - pkg:maven/org.nd4j/nd4j-common@0.4-rc3.8?classifier=sources
+- pkg:maven/org.nd4j/nd4j-common@0.4-rc3.9
+- pkg:maven/org.nd4j/nd4j-common@0.4-rc3.9?classifier=sources
