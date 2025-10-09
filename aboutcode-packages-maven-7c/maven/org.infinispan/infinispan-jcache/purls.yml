@@ -281,3 +281,7 @@
 - pkg:maven/org.infinispan/infinispan-jcache@10.0.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache@9.4.5.Final
 - pkg:maven/org.infinispan/infinispan-jcache@9.4.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-jcache@9.4.6.Final
+- pkg:maven/org.infinispan/infinispan-jcache@9.4.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-jcache@10.0.0.Alpha3
+- pkg:maven/org.infinispan/infinispan-jcache@10.0.0.Alpha3?classifier=sources

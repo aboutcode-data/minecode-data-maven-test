@@ -118,3 +118,5 @@
 - pkg:maven/org.finra.herd/herd-service@0.86.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-service@0.87.0
 - pkg:maven/org.finra.herd/herd-service@0.87.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-service@0.88.0
+- pkg:maven/org.finra.herd/herd-service@0.88.0?classifier=sources
