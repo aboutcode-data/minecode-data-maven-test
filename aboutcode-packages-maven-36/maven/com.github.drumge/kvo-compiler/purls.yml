@@ -18,3 +18,7 @@
 - pkg:maven/com.github.drumge/kvo-compiler@0.2.5-weak_refrence-3?classifier=sources
 - pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin
 - pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin?classifier=sources
+- pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin.2
+- pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin.2?classifier=sources
+- pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin.1
+- pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin.1?classifier=sources
