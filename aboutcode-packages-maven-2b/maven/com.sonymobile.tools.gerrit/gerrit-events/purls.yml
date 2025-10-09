@@ -54,3 +54,5 @@
 - pkg:maven/com.sonymobile.tools.gerrit/gerrit-events@2.11.3?classifier=sources
 - pkg:maven/com.sonymobile.tools.gerrit/gerrit-events@2.12.0
 - pkg:maven/com.sonymobile.tools.gerrit/gerrit-events@2.12.0?classifier=sources
+- pkg:maven/com.sonymobile.tools.gerrit/gerrit-events@2.12.1
+- pkg:maven/com.sonymobile.tools.gerrit/gerrit-events@2.12.1?classifier=sources

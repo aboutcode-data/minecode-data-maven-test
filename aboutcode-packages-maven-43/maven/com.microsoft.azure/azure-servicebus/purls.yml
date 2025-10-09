@@ -51,3 +51,7 @@
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.3-PREVIEW?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.1.1
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.1.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.2.4-PREVIEW
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.2.4-PREVIEW?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.1.2
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.1.2?classifier=sources

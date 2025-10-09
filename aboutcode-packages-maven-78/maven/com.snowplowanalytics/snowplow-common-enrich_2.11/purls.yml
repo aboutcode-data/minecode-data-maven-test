@@ -40,3 +40,7 @@
 - pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0-M3?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0-M5
 - pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0-M5?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0-M6
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0-M6?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.11@0.31.0?classifier=sources
