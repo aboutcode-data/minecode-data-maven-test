@@ -6,3 +6,5 @@
 - pkg:maven/org.apereo.uportal/uportal-app-framework@6.0.2?classifier=sources
 - pkg:maven/org.apereo.uportal/uportal-app-framework@6.0.1?type=war
 - pkg:maven/org.apereo.uportal/uportal-app-framework@6.0.1?classifier=sources
+- pkg:maven/org.apereo.uportal/uportal-app-framework@6.0.4?type=war
+- pkg:maven/org.apereo.uportal/uportal-app-framework@6.0.4?classifier=sources

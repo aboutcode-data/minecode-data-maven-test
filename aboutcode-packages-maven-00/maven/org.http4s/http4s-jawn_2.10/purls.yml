@@ -242,3 +242,7 @@
 - pkg:maven/org.http4s/http4s-jawn_2.10@0.16.4a?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_2.10@0.16.4
 - pkg:maven/org.http4s/http4s-jawn_2.10@0.16.4?classifier=sources
+- pkg:maven/org.http4s/http4s-jawn_2.10@0.16.5a
+- pkg:maven/org.http4s/http4s-jawn_2.10@0.16.5a?classifier=sources
+- pkg:maven/org.http4s/http4s-jawn_2.10@0.16.5
+- pkg:maven/org.http4s/http4s-jawn_2.10@0.16.5?classifier=sources

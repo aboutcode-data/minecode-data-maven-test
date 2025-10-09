@@ -56,3 +56,5 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp@5.1.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp@5.0.9?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@5.0.9?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp@5.1.5?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp@5.1.5?classifier=sources
