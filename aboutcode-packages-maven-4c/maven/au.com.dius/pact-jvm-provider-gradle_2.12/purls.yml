@@ -1,2 +1,6 @@
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.0
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.0?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.5
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.5?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.1
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.1?classifier=sources

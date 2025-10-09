@@ -78,3 +78,5 @@
 - pkg:maven/com.alibaba/dubbo@2.4.11?classifier=sources
 - pkg:maven/com.alibaba/dubbo@2.5.4
 - pkg:maven/com.alibaba/dubbo@2.5.4?classifier=sources
+- pkg:maven/com.alibaba/dubbo@2.5.5
+- pkg:maven/com.alibaba/dubbo@2.5.5?classifier=sources
