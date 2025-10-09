@@ -24,3 +24,5 @@
 - pkg:maven/com.ibm.watson.developer_cloud/core@3.9.0?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/core@4.0.0
 - pkg:maven/com.ibm.watson.developer_cloud/core@4.0.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/core@4.1.0
+- pkg:maven/com.ibm.watson.developer_cloud/core@4.1.0?classifier=sources

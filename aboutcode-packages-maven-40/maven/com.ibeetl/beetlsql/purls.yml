@@ -216,3 +216,7 @@
 - pkg:maven/com.ibeetl/beetlsql@2.9.15?classifier=sources
 - pkg:maven/com.ibeetl/beetlsql@2.9.16
 - pkg:maven/com.ibeetl/beetlsql@2.9.16?classifier=sources
+- pkg:maven/com.ibeetl/beetlsql@2.10.1
+- pkg:maven/com.ibeetl/beetlsql@2.10.1?classifier=sources
+- pkg:maven/com.ibeetl/beetlsql@2.10.0
+- pkg:maven/com.ibeetl/beetlsql@2.10.0?classifier=sources
