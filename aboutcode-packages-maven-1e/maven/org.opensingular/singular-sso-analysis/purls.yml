@@ -38,3 +38,5 @@
 - pkg:maven/org.opensingular/singular-sso-analysis@1.6.9.4?classifier=sources
 - pkg:maven/org.opensingular/singular-sso-analysis@1.7.1-RC4?type=war
 - pkg:maven/org.opensingular/singular-sso-analysis@1.7.1-RC4?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-analysis@1.7.1?type=war
+- pkg:maven/org.opensingular/singular-sso-analysis@1.7.1?classifier=sources
