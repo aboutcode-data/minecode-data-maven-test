@@ -64,3 +64,5 @@
 - pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-home@6.0.0?classifier=sources
 - pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-home@5.5.0?type=war
 - pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-home@5.5.0?classifier=sources
+- pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-home@6.1.0?type=war
+- pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-home@6.1.0?classifier=sources
