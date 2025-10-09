@@ -72,3 +72,5 @@
 - pkg:maven/org.eclipse.che.infrastructure.docker/docker-auth@7.1.0?classifier=sources
 - pkg:maven/org.eclipse.che.infrastructure.docker/docker-auth@6.19.6
 - pkg:maven/org.eclipse.che.infrastructure.docker/docker-auth@6.19.6?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure.docker/docker-auth@7.2.0
+- pkg:maven/org.eclipse.che.infrastructure.docker/docker-auth@7.2.0?classifier=sources

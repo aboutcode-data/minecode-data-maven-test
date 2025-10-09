@@ -56,3 +56,5 @@
 - pkg:maven/org.eclipse.che.core/che-core-tracing-web@7.1.0?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-tracing-web@6.19.6
 - pkg:maven/org.eclipse.che.core/che-core-tracing-web@6.19.6?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-tracing-web@7.2.0
+- pkg:maven/org.eclipse.che.core/che-core-tracing-web@7.2.0?classifier=sources

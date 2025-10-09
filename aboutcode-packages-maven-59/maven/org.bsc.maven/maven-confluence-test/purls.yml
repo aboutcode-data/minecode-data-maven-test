@@ -102,3 +102,5 @@
 - pkg:maven/org.bsc.maven/maven-confluence-test@6.3.2?classifier=sources
 - pkg:maven/org.bsc.maven/maven-confluence-test@6.4
 - pkg:maven/org.bsc.maven/maven-confluence-test@6.4?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-test@6.4.1
+- pkg:maven/org.bsc.maven/maven-confluence-test@6.4.1?classifier=sources
