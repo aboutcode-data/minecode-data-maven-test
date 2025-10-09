@@ -12,3 +12,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@0.1.8?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@0.1.7
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@0.1.7?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@0.1.9
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@0.1.9?classifier=sources
