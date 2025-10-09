@@ -1,0 +1,4 @@
+- pkg:maven/io.bloombox/java-client@1.0-beta3
+- pkg:maven/io.bloombox/java-client@1.0-beta3?classifier=sources
+- pkg:maven/io.bloombox/java-client@1.0-beta2
+- pkg:maven/io.bloombox/java-client@1.0-beta2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.ebean/ebean-gradle-plugin@10.2.2?classifier=sources
 - pkg:maven/io.ebean/ebean-gradle-plugin@10.2.3
 - pkg:maven/io.ebean/ebean-gradle-plugin@10.2.3?classifier=sources
+- pkg:maven/io.ebean/ebean-gradle-plugin@11.5.1
+- pkg:maven/io.ebean/ebean-gradle-plugin@11.5.1?classifier=sources

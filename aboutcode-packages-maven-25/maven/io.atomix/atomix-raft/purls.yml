@@ -22,3 +22,11 @@
 - pkg:maven/io.atomix/atomix-raft@2.0.8?classifier=sources
 - pkg:maven/io.atomix/atomix-raft@2.0.7
 - pkg:maven/io.atomix/atomix-raft@2.0.7?classifier=sources
+- pkg:maven/io.atomix/atomix-raft@2.0.9
+- pkg:maven/io.atomix/atomix-raft@2.0.9?classifier=sources
+- pkg:maven/io.atomix/atomix-raft@2.0.12
+- pkg:maven/io.atomix/atomix-raft@2.0.12?classifier=sources
+- pkg:maven/io.atomix/atomix-raft@2.0.11
+- pkg:maven/io.atomix/atomix-raft@2.0.11?classifier=sources
+- pkg:maven/io.atomix/atomix-raft@2.0.10
+- pkg:maven/io.atomix/atomix-raft@2.0.10?classifier=sources
