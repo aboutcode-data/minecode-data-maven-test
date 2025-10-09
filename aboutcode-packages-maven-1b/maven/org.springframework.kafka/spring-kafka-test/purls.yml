@@ -32,3 +32,7 @@
 - pkg:maven/org.springframework.kafka/spring-kafka-test@1.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@1.1.6.RELEASE
 - pkg:maven/org.springframework.kafka/spring-kafka-test@1.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@1.2.3.RELEASE
+- pkg:maven/org.springframework.kafka/spring-kafka-test@1.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@1.1.7.RELEASE
+- pkg:maven/org.springframework.kafka/spring-kafka-test@1.1.7.RELEASE?classifier=sources

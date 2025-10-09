@@ -176,3 +176,7 @@
 - pkg:maven/org.neo4j/neo4j-unsafe@3.3.0-beta01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-unsafe@3.2.4
 - pkg:maven/org.neo4j/neo4j-unsafe@3.2.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-unsafe@3.3.0-beta02
+- pkg:maven/org.neo4j/neo4j-unsafe@3.3.0-beta02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-unsafe@3.2.5
+- pkg:maven/org.neo4j/neo4j-unsafe@3.2.5?classifier=sources
