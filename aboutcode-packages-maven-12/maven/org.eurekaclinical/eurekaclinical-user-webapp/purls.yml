@@ -36,3 +36,7 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-20?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-21?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-21?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-23?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-23?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-22?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@1.0-Alpha-22?classifier=sources

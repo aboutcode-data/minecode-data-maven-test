@@ -46,3 +46,9 @@
 - pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-17?classifier=sources
 - pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-16?type=war
 - pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-16?classifier=sources
+- pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-21?type=war
+- pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-21?classifier=sources
+- pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-20?type=war
+- pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-20?classifier=sources
+- pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-19?type=war
+- pkg:maven/org.eurekaclinical/cas-server@3.0-Alpha-19?classifier=sources

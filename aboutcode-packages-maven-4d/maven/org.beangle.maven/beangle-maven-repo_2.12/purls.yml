@@ -8,3 +8,5 @@
 - pkg:maven/org.beangle.maven/beangle-maven-repo_2.12@0.3.4?classifier=sources
 - pkg:maven/org.beangle.maven/beangle-maven-repo_2.12@0.3.3?type=war
 - pkg:maven/org.beangle.maven/beangle-maven-repo_2.12@0.3.3?classifier=sources
+- pkg:maven/org.beangle.maven/beangle-maven-repo_2.12@0.3.5?type=war
+- pkg:maven/org.beangle.maven/beangle-maven-repo_2.12@0.3.5?classifier=sources

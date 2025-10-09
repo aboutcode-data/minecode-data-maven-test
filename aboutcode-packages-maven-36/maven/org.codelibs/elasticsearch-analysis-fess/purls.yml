@@ -22,3 +22,5 @@
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@5.4.2?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@5.5.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@5.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@5.5.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@5.5.1?classifier=sources
