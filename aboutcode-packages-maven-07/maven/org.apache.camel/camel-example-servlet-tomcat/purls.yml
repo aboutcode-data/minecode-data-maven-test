@@ -158,3 +158,5 @@
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat@2.18.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat@2.19.1?type=war
 - pkg:maven/org.apache.camel/camel-example-servlet-tomcat@2.19.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat@2.19.2?type=war
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat@2.19.2?classifier=sources
