@@ -34,3 +34,5 @@
 - pkg:maven/com.hazelcast/hazelcast-client-protocol@1.4.0-11?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-client-protocol@1.4.0-10
 - pkg:maven/com.hazelcast/hazelcast-client-protocol@1.4.0-10?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.4.0-12
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.4.0-12?classifier=sources

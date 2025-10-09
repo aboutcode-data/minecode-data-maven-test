@@ -402,3 +402,7 @@
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev14-1.20.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev14-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev14-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2beta1-rev498-1.22.0
+- pkg:maven/com.google.apis/google-api-services-logging@v2beta1-rev498-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2beta1-rev498-1.20.0
+- pkg:maven/com.google.apis/google-api-services-logging@v2beta1-rev498-1.20.0?classifier=sources

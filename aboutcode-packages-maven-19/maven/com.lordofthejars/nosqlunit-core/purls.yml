@@ -44,3 +44,5 @@
 - pkg:maven/com.lordofthejars/nosqlunit-core@0.9.0?classifier=sources
 - pkg:maven/com.lordofthejars/nosqlunit-core@0.10.0
 - pkg:maven/com.lordofthejars/nosqlunit-core@0.10.0?classifier=sources
+- pkg:maven/com.lordofthejars/nosqlunit-core@0.13.1
+- pkg:maven/com.lordofthejars/nosqlunit-core@0.13.1?classifier=sources
