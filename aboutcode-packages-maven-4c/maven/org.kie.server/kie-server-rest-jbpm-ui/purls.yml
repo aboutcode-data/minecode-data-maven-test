@@ -18,3 +18,5 @@
 - pkg:maven/org.kie.server/kie-server-rest-jbpm-ui@6.5.0.CR2?classifier=sources
 - pkg:maven/org.kie.server/kie-server-rest-jbpm-ui@7.0.0.Beta2
 - pkg:maven/org.kie.server/kie-server-rest-jbpm-ui@7.0.0.Beta2?classifier=sources
+- pkg:maven/org.kie.server/kie-server-rest-jbpm-ui@6.5.0.Final
+- pkg:maven/org.kie.server/kie-server-rest-jbpm-ui@6.5.0.Final?classifier=sources
