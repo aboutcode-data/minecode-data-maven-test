@@ -5,3 +5,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-kafka-shaded@0.41.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-kafka-shaded@0.42.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-kafka-shaded@0.43.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-kafka-shaded@0.45.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-kafka-shaded@0.44.0?classifier=sources

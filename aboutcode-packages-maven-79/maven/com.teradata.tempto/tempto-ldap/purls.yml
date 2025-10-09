@@ -38,3 +38,5 @@
 - pkg:maven/com.teradata.tempto/tempto-ldap@1.29?classifier=sources
 - pkg:maven/com.teradata.tempto/tempto-ldap@1.28
 - pkg:maven/com.teradata.tempto/tempto-ldap@1.28?classifier=sources
+- pkg:maven/com.teradata.tempto/tempto-ldap@1.31
+- pkg:maven/com.teradata.tempto/tempto-ldap@1.31?classifier=sources
