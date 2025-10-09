@@ -16,3 +16,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-conda@0.0.11?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-conda@0.0.10
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-conda@0.0.10?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-conda@0.0.15
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-conda@0.0.15?classifier=sources
