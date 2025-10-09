@@ -44,3 +44,7 @@
 - pkg:maven/com.codacy/codacy-libraries_2.12@17.0.2?classifier=sources
 - pkg:maven/com.codacy/codacy-libraries_2.12@17.0.3
 - pkg:maven/com.codacy/codacy-libraries_2.12@17.0.3?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.12@17.0.4-regiontoprojset.2fc1c88
+- pkg:maven/com.codacy/codacy-libraries_2.12@17.0.4-regiontoprojset.2fc1c88?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.12@17.0.4
+- pkg:maven/com.codacy/codacy-libraries_2.12@17.0.4?classifier=sources

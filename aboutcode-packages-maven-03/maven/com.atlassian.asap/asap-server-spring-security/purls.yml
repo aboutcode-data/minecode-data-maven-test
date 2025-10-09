@@ -124,3 +124,5 @@
 - pkg:maven/com.atlassian.asap/asap-server-spring-security@2.21.13?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-server-spring-security@2.21.12
 - pkg:maven/com.atlassian.asap/asap-server-spring-security@2.21.12?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-server-spring-security@2.22.0
+- pkg:maven/com.atlassian.asap/asap-server-spring-security@2.22.0?classifier=sources
