@@ -188,3 +188,6 @@
 - pkg:maven/com.liferay/com.liferay.server.admin.web@1.0.44
 - pkg:maven/com.liferay/com.liferay.server.admin.web@1.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@1.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.7?classifier=sources-commercial

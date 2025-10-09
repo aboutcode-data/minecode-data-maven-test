@@ -318,3 +318,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.44
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.10
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.10?classifier=sources-commercial

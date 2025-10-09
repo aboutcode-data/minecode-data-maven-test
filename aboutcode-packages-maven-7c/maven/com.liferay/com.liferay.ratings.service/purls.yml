@@ -69,3 +69,6 @@
 - pkg:maven/com.liferay/com.liferay.ratings.service@1.0.16
 - pkg:maven/com.liferay/com.liferay.ratings.service@1.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.service@1.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.service@3.0.3
+- pkg:maven/com.liferay/com.liferay.ratings.service@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.service@3.0.3?classifier=sources-commercial

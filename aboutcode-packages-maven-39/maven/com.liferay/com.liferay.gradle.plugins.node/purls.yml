@@ -195,3 +195,6 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@4.6.17
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@4.6.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@4.6.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@4.6.18
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@4.6.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@4.6.18?classifier=sources-commercial

@@ -148,3 +148,6 @@
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@2.0.10
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@2.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.12
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.12?classifier=sources-commercial

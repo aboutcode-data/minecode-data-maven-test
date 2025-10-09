@@ -115,3 +115,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.38
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.40
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.40?classifier=sources-commercial
