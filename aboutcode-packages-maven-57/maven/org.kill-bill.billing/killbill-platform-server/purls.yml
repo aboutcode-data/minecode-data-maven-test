@@ -173,3 +173,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.37.14?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.37.15?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.37.15?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.37.16?type=war
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.37.16?classifier=sources

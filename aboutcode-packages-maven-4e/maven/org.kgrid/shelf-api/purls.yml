@@ -1,2 +1,4 @@
 - pkg:maven/org.kgrid/shelf-api@1.5.10.RELEASE
 - pkg:maven/org.kgrid/shelf-api@1.5.10.RELEASE?classifier=sources
+- pkg:maven/org.kgrid/shelf-api@0.5.8
+- pkg:maven/org.kgrid/shelf-api@0.5.8?classifier=sources

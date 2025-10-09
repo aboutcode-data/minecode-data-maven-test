@@ -46,3 +46,5 @@
 - pkg:maven/org.neo4j/neo4j-fulltext-addon@3.4.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-fulltext-addon@3.5.0-alpha01
 - pkg:maven/org.neo4j/neo4j-fulltext-addon@3.5.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-fulltext-addon@3.3.6
+- pkg:maven/org.neo4j/neo4j-fulltext-addon@3.3.6?classifier=sources
