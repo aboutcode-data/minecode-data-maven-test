@@ -28,3 +28,5 @@
 - pkg:maven/org.wildfly.swarm/gradle-arquillian-adapter@2017.12.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/gradle-arquillian-adapter@2012.12.0
 - pkg:maven/org.wildfly.swarm/gradle-arquillian-adapter@2012.12.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/gradle-arquillian-adapter@2018.1.0
+- pkg:maven/org.wildfly.swarm/gradle-arquillian-adapter@2018.1.0?classifier=sources

@@ -50,3 +50,7 @@
 - pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.3.Final?classifier=sources
 - pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.4.Final
 - pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.4.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.6.Final
+- pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.6.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.5.Final
+- pkg:maven/org.wildfly.build/wildfly-feature-pack-build-maven-plugin@1.2.5.Final?classifier=sources

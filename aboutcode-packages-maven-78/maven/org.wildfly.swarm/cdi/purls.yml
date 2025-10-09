@@ -61,3 +61,5 @@
 - pkg:maven/org.wildfly.swarm/cdi@2017.12.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/cdi@2012.12.0
 - pkg:maven/org.wildfly.swarm/cdi@2012.12.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/cdi@2018.1.0
+- pkg:maven/org.wildfly.swarm/cdi@2018.1.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.admin.ui@4.5.12?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.admin.ui@4.5.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.admin.ui@4.6.13
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.admin.ui@4.6.13?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.admin.ui@4.6.13?classifier=source-release&type=zip
