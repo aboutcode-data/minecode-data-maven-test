@@ -32,3 +32,7 @@
 - pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.1.1-update22?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.1.1-update23
 - pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.1.1-update23?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.2.0
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.2.0?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.1.1-update24
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport@6.1.1-update24?classifier=sources

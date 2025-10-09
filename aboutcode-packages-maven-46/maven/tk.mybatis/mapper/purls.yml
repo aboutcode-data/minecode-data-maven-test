@@ -62,3 +62,7 @@
 - pkg:maven/tk.mybatis/mapper@4.0.0-beta?classifier=sources
 - pkg:maven/tk.mybatis/mapper@3.5.3
 - pkg:maven/tk.mybatis/mapper@3.5.3?classifier=sources
+- pkg:maven/tk.mybatis/mapper@4.0.0-beta3
+- pkg:maven/tk.mybatis/mapper@4.0.0-beta3?classifier=sources
+- pkg:maven/tk.mybatis/mapper@4.0.0
+- pkg:maven/tk.mybatis/mapper@4.0.0?classifier=sources

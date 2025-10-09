@@ -66,3 +66,7 @@
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-bin-20180227-ddf2799-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-bin-20180226-1b4fbf3-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-bin-20180226-1b4fbf3-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-bin-20180304-4cfffbe-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-bin-20180304-4cfffbe-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.7@0.7.0-RC1?classifier=sources
