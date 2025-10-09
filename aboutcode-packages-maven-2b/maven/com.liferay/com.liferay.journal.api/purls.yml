@@ -76,3 +76,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.api@2.12.10
 - pkg:maven/com.liferay/com.liferay.journal.api@2.12.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.api@2.12.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.api@2.13.0
+- pkg:maven/com.liferay/com.liferay.journal.api@2.13.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.api@2.13.0?classifier=sources-commercial

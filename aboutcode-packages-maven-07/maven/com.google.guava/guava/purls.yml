@@ -150,3 +150,7 @@
 - pkg:maven/com.google.guava/guava@24.1.1-jre?classifier=sources
 - pkg:maven/com.google.guava/guava@24.1.1-android
 - pkg:maven/com.google.guava/guava@24.1.1-android?classifier=sources
+- pkg:maven/com.google.guava/guava@25.1-jre
+- pkg:maven/com.google.guava/guava@25.1-jre?classifier=sources
+- pkg:maven/com.google.guava/guava@25.1-android
+- pkg:maven/com.google.guava/guava@25.1-android?classifier=sources

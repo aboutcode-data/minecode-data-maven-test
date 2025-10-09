@@ -44,3 +44,5 @@
 - pkg:maven/com.google.cloud/google-cloud-bigtable@0.47.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigtable@0.48.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-bigtable@0.48.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable@0.49.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-bigtable@0.49.0-alpha?classifier=sources

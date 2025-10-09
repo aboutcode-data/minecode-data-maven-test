@@ -66,3 +66,6 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.19
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.21
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.21?classifier=sources-commercial
