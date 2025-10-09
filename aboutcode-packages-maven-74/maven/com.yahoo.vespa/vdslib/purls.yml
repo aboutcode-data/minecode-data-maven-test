@@ -126,3 +126,5 @@
 - pkg:maven/com.yahoo.vespa/vdslib@6.305.35?classifier=sources
 - pkg:maven/com.yahoo.vespa/vdslib@6.307.67?classifier=sources
 - pkg:maven/com.yahoo.vespa/vdslib@6.308.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/vdslib@6.311.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/vdslib@6.310.38?classifier=sources

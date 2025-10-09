@@ -88,3 +88,7 @@
 - pkg:maven/io.atomix/atomix-gossip@3.0.6?classifier=sources
 - pkg:maven/io.atomix/atomix-gossip@3.0.7
 - pkg:maven/io.atomix/atomix-gossip@3.0.7?classifier=sources
+- pkg:maven/io.atomix/atomix-gossip@3.1.0-beta1
+- pkg:maven/io.atomix/atomix-gossip@3.1.0-beta1?classifier=sources
+- pkg:maven/io.atomix/atomix-gossip@3.0.8
+- pkg:maven/io.atomix/atomix-gossip@3.0.8?classifier=sources
