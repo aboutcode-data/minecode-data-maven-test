@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.activemq.examples.broker/security-ldap@1.5.4?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/security-ldap@2.0.0
 - pkg:maven/org.apache.activemq.examples.broker/security-ldap@2.0.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/security-ldap@2.1.0
+- pkg:maven/org.apache.activemq.examples.broker/security-ldap@2.1.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/security-ldap@1.5.5
+- pkg:maven/org.apache.activemq.examples.broker/security-ldap@1.5.5?classifier=sources

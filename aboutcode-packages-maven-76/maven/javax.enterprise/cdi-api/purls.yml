@@ -70,3 +70,5 @@
 - pkg:maven/javax.enterprise/cdi-api@2.0-PFD?classifier=sources
 - pkg:maven/javax.enterprise/cdi-api@2.0-PFD2
 - pkg:maven/javax.enterprise/cdi-api@2.0-PFD2?classifier=sources
+- pkg:maven/javax.enterprise/cdi-api@2.0
+- pkg:maven/javax.enterprise/cdi-api@2.0?classifier=sources

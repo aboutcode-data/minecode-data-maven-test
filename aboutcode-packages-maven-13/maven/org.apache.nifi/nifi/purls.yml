@@ -19,3 +19,4 @@
 - pkg:maven/org.apache.nifi/nifi@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.nifi/nifi@1.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.nifi/nifi@0.7.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.nifi/nifi@1.2.0?classifier=source-release&type=zip

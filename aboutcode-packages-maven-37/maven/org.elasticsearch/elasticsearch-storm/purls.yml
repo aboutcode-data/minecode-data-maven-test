@@ -80,3 +80,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.3.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.4.0
 - pkg:maven/org.elasticsearch/elasticsearch-storm@5.4.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-storm@6.0.0-alpha-1
+- pkg:maven/org.elasticsearch/elasticsearch-storm@6.0.0-alpha-1?classifier=sources
