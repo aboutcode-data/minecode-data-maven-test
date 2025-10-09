@@ -268,3 +268,5 @@
 - pkg:maven/org.clojure/clojure@1.10.0-beta7?classifier=sources
 - pkg:maven/org.clojure/clojure@1.10.0-RC2
 - pkg:maven/org.clojure/clojure@1.10.0-RC2?classifier=sources
+- pkg:maven/org.clojure/clojure@1.10.0-RC3
+- pkg:maven/org.clojure/clojure@1.10.0-RC3?classifier=sources

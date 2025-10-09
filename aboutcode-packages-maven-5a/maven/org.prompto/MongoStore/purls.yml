@@ -32,3 +32,5 @@
 - pkg:maven/org.prompto/MongoStore@0.0.20?classifier=sources
 - pkg:maven/org.prompto/MongoStore@0.0.19
 - pkg:maven/org.prompto/MongoStore@0.0.19?classifier=sources
+- pkg:maven/org.prompto/MongoStore@0.0.24
+- pkg:maven/org.prompto/MongoStore@0.0.24?classifier=sources

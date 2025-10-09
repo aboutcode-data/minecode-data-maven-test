@@ -16,3 +16,5 @@
 - pkg:maven/at.favre.lib/armadillo@0.5.0?classifier=sources
 - pkg:maven/at.favre.lib/armadillo@0.6.0?type=aar
 - pkg:maven/at.favre.lib/armadillo@0.6.0?classifier=sources
+- pkg:maven/at.favre.lib/armadillo@0.7.0?type=aar
+- pkg:maven/at.favre.lib/armadillo@0.7.0?classifier=sources

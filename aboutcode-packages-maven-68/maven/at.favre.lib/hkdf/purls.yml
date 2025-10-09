@@ -10,3 +10,5 @@
 - pkg:maven/at.favre.lib/hkdf@0.4.4?classifier=sources
 - pkg:maven/at.favre.lib/hkdf@1.0.0
 - pkg:maven/at.favre.lib/hkdf@1.0.0?classifier=sources
+- pkg:maven/at.favre.lib/hkdf@1.0.1
+- pkg:maven/at.favre.lib/hkdf@1.0.1?classifier=sources
