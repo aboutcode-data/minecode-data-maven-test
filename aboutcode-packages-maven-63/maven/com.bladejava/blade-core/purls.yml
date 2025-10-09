@@ -74,3 +74,5 @@
 - pkg:maven/com.bladejava/blade-core@1.5.0?classifier=sources
 - pkg:maven/com.bladejava/blade-core@1.5.1
 - pkg:maven/com.bladejava/blade-core@1.5.1?classifier=sources
+- pkg:maven/com.bladejava/blade-core@1.6.0-alpha
+- pkg:maven/com.bladejava/blade-core@1.6.0-alpha?classifier=sources
