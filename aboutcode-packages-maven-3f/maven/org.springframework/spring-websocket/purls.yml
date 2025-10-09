@@ -84,3 +84,5 @@
 - pkg:maven/org.springframework/spring-websocket@4.3.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@5.0.0.RELEASE
 - pkg:maven/org.springframework/spring-websocket@5.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@4.3.12.RELEASE
+- pkg:maven/org.springframework/spring-websocket@4.3.12.RELEASE?classifier=sources

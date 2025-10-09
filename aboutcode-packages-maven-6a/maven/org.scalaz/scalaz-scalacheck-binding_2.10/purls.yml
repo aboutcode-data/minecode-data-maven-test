@@ -166,3 +166,7 @@
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.2.15?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.1.15
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.1.15?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.2.16-scalacheck-1.13
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.2.16-scalacheck-1.13?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.2.16
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.10@7.2.16?classifier=sources

@@ -186,3 +186,5 @@
 - pkg:maven/org.springframework/spring-aspects@4.3.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aspects@5.0.0.RELEASE
 - pkg:maven/org.springframework/spring-aspects@5.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-aspects@4.3.12.RELEASE
+- pkg:maven/org.springframework/spring-aspects@4.3.12.RELEASE?classifier=sources

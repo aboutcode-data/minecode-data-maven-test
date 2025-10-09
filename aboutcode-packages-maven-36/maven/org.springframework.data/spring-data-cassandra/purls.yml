@@ -80,3 +80,5 @@
 - pkg:maven/org.springframework.data/spring-data-cassandra@1.5.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-cassandra@2.0.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-cassandra@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-cassandra@1.5.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-cassandra@1.5.8.RELEASE?classifier=sources

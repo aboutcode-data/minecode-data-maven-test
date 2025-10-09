@@ -90,3 +90,5 @@
 - pkg:maven/org.springframework.data/spring-data-solr@2.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@3.0.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-solr@3.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-solr@2.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-solr@2.1.8.RELEASE?classifier=sources

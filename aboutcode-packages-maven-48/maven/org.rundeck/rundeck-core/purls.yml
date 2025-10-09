@@ -112,3 +112,5 @@
 - pkg:maven/org.rundeck/rundeck-core@2.9.2?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@2.9.3
 - pkg:maven/org.rundeck/rundeck-core@2.9.3?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@2.9.4
+- pkg:maven/org.rundeck/rundeck-core@2.9.4?classifier=sources

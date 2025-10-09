@@ -82,3 +82,7 @@
 - pkg:maven/org.lucee/lucee@5.2.4.36-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@5.2.4.37-RC
 - pkg:maven/org.lucee/lucee@5.2.4.37-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@5.2.5.20-RC
+- pkg:maven/org.lucee/lucee@5.2.5.20-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@5.2.4.37
+- pkg:maven/org.lucee/lucee@5.2.4.37?classifier=sources
