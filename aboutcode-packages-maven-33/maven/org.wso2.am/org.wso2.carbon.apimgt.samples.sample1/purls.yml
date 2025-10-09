@@ -40,3 +40,5 @@
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample1@2.5.0-Alpha?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample1@2.5.0-Beta
 - pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample1@2.5.0-Beta?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample1@2.5.0
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample1@2.5.0?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/org.wso2.am/api-import-export@2.5.0-Alpha?classifier=sources
 - pkg:maven/org.wso2.am/api-import-export@2.5.0-Beta?type=war
 - pkg:maven/org.wso2.am/api-import-export@2.5.0-Beta?classifier=sources
+- pkg:maven/org.wso2.am/api-import-export@2.5.0?type=war
+- pkg:maven/org.wso2.am/api-import-export@2.5.0?classifier=sources

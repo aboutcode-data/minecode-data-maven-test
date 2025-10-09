@@ -56,3 +56,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@6.7.4?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@7.2
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@7.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@7.2.1
+- pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@7.2.1?classifier=sources
