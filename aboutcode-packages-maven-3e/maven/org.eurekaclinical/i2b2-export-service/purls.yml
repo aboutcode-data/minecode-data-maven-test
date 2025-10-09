@@ -30,3 +30,7 @@
 - pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-8?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-8?classifier=src&type=tar.gz
 - pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-8?classifier=sources
+- pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-9?type=war
+- pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-9?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-9?classifier=src&type=tar.gz
+- pkg:maven/org.eurekaclinical/i2b2-export-service@1.1-Alpha-9?classifier=sources

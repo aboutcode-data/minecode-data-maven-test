@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.activemq/activemq-osgi@5.13.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.13.4
 - pkg:maven/org.apache.activemq/activemq-osgi@5.13.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-osgi@5.14.0
+- pkg:maven/org.apache.activemq/activemq-osgi@5.14.0?classifier=sources

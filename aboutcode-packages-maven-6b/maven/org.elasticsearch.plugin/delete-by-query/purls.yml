@@ -17,3 +17,4 @@
 - pkg:maven/org.elasticsearch.plugin/delete-by-query@5.0.0-alpha2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/delete-by-query@2.3.3?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/delete-by-query@2.3.4?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/delete-by-query@2.3.5?classifier=sources
