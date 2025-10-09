@@ -48,3 +48,5 @@
 - pkg:maven/org.javers/javers-spring-jpa@3.9.7?classifier=sources
 - pkg:maven/org.javers/javers-spring-jpa@3.10.0
 - pkg:maven/org.javers/javers-spring-jpa@3.10.0?classifier=sources
+- pkg:maven/org.javers/javers-spring-jpa@3.10.1
+- pkg:maven/org.javers/javers-spring-jpa@3.10.1?classifier=sources

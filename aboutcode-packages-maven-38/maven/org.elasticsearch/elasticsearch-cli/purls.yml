@@ -20,3 +20,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-cli@6.2.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-cli@6.3.0
 - pkg:maven/org.elasticsearch/elasticsearch-cli@6.3.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-cli@6.3.1
+- pkg:maven/org.elasticsearch/elasticsearch-cli@6.3.1?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.3.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@5.6.10
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@5.6.10?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.3.1
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.3.1?classifier=sources
