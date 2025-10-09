@@ -8,3 +8,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-voltdb@1.19?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-voltdb@1.21
 - pkg:maven/com.playtika.testcontainers/embedded-voltdb@1.21?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-voltdb@1.22
+- pkg:maven/com.playtika.testcontainers/embedded-voltdb@1.22?classifier=sources

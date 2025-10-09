@@ -36,3 +36,5 @@
 - pkg:maven/com.siftscience/sift-android@0.10.3-beta?classifier=sources
 - pkg:maven/com.siftscience/sift-android@0.10.4?type=aar
 - pkg:maven/com.siftscience/sift-android@0.10.4?classifier=sources
+- pkg:maven/com.siftscience/sift-android@0.10.5?type=aar
+- pkg:maven/com.siftscience/sift-android@0.10.5?classifier=sources

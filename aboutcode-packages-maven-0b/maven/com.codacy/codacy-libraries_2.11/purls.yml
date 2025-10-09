@@ -32,3 +32,5 @@
 - pkg:maven/com.codacy/codacy-libraries_2.11@14.0.1?classifier=sources
 - pkg:maven/com.codacy/codacy-libraries_2.11@14.1.0
 - pkg:maven/com.codacy/codacy-libraries_2.11@14.1.0?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.11@15.0.0
+- pkg:maven/com.codacy/codacy-libraries_2.11@15.0.0?classifier=sources

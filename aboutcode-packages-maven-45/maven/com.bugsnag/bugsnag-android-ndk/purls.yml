@@ -26,3 +26,5 @@
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@4.12.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@4.13.0?type=aar
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@4.13.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@4.14.0?type=aar
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@4.14.0?classifier=sources
