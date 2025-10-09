@@ -245,3 +245,5 @@
 - pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.5.0-bin-20171120-c48f7b0-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.5.0-bin-20171119-4fefb64-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.5.0-RC1?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.6.0-bin-20171201-ca0725b-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-sbt-bridge@0.6.0-bin-20171130-eb2472d-NIGHTLY?classifier=sources

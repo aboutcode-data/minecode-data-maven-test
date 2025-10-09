@@ -85,3 +85,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.38
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.39
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.39?classifier=sources-commercial
