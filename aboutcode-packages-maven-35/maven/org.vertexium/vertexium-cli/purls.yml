@@ -110,3 +110,5 @@
 - pkg:maven/org.vertexium/vertexium-cli@4.0.0?classifier=sources
 - pkg:maven/org.vertexium/vertexium-cli@3.2.3
 - pkg:maven/org.vertexium/vertexium-cli@3.2.3?classifier=sources
+- pkg:maven/org.vertexium/vertexium-cli@4.1.0
+- pkg:maven/org.vertexium/vertexium-cli@4.1.0?classifier=sources

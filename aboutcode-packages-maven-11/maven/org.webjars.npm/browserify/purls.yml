@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/browserify@16.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/browserify@13.3.0
 - pkg:maven/org.webjars.npm/browserify@13.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/browserify@16.2.0
+- pkg:maven/org.webjars.npm/browserify@16.2.0?classifier=sources

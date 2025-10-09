@@ -34,3 +34,5 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-feature-spec-gen@1.0.0.Alpha11?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-feature-spec-gen@1.0.0.Alpha10
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-feature-spec-gen@1.0.0.Alpha10?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-feature-spec-gen@1.0.0.Alpha19
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-feature-spec-gen@1.0.0.Alpha19?classifier=sources
