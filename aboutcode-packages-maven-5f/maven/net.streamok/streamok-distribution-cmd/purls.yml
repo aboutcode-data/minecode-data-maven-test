@@ -1,2 +1,4 @@
 - pkg:maven/net.streamok/streamok-distribution-cmd@0.0.2
 - pkg:maven/net.streamok/streamok-distribution-cmd@0.0.2?classifier=sources
+- pkg:maven/net.streamok/streamok-distribution-cmd@0.0.3
+- pkg:maven/net.streamok/streamok-distribution-cmd@0.0.3?classifier=sources

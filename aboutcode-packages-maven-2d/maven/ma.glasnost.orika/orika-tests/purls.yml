@@ -12,3 +12,5 @@
 - pkg:maven/ma.glasnost.orika/orika-tests@1.5.0-beta0?classifier=sources
 - pkg:maven/ma.glasnost.orika/orika-tests@1.4.6
 - pkg:maven/ma.glasnost.orika/orika-tests@1.4.6?classifier=sources
+- pkg:maven/ma.glasnost.orika/orika-tests@1.5.0
+- pkg:maven/ma.glasnost.orika/orika-tests@1.5.0?classifier=sources
