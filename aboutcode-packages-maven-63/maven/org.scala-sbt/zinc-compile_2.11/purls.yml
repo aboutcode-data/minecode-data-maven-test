@@ -50,3 +50,5 @@
 - pkg:maven/org.scala-sbt/zinc-compile_2.11@1.0.0-RC3?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-compile_2.11@1.0.0
 - pkg:maven/org.scala-sbt/zinc-compile_2.11@1.0.0?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-compile_2.11@1.0.1
+- pkg:maven/org.scala-sbt/zinc-compile_2.11@1.0.1?classifier=sources

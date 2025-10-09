@@ -29,3 +29,4 @@
 - pkg:maven/org.sonatype.nexus.buildsupport/extjs-maven-plugin@3.5.1-02
 - pkg:maven/org.sonatype.nexus.buildsupport/extjs-maven-plugin@3.5.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.buildsupport/extjs-maven-plugin@3.5.2-01
+- pkg:maven/org.sonatype.nexus.buildsupport/extjs-maven-plugin@3.5.2-01?classifier=sources

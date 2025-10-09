@@ -114,3 +114,5 @@
 - pkg:maven/org.mock-server/mockserver-war@3.10.7?classifier=sources
 - pkg:maven/org.mock-server/mockserver-war@3.10.8?type=war
 - pkg:maven/org.mock-server/mockserver-war@3.10.8?classifier=sources
+- pkg:maven/org.mock-server/mockserver-war@3.11?type=war
+- pkg:maven/org.mock-server/mockserver-war@3.11?classifier=sources

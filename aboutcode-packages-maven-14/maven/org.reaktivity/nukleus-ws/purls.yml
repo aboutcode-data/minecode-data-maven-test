@@ -42,3 +42,7 @@
 - pkg:maven/org.reaktivity/nukleus-ws@0.21?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-ws@0.20
 - pkg:maven/org.reaktivity/nukleus-ws@0.20?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-ws@0.24
+- pkg:maven/org.reaktivity/nukleus-ws@0.24?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-ws@0.23
+- pkg:maven/org.reaktivity/nukleus-ws@0.23?classifier=sources

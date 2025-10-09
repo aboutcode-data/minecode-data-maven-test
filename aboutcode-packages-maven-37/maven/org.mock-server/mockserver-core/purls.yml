@@ -118,3 +118,5 @@
 - pkg:maven/org.mock-server/mockserver-core@3.10.7?classifier=sources
 - pkg:maven/org.mock-server/mockserver-core@3.10.8
 - pkg:maven/org.mock-server/mockserver-core@3.10.8?classifier=sources
+- pkg:maven/org.mock-server/mockserver-core@3.11
+- pkg:maven/org.mock-server/mockserver-core@3.11?classifier=sources

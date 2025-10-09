@@ -24,3 +24,5 @@
 - pkg:maven/org.opencb.cellbase/cellbase-core@4.5.0-rc.3?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-core@4.5.0-rc.2.1
 - pkg:maven/org.opencb.cellbase/cellbase-core@4.5.0-rc.2.1?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-core@4.5.0
+- pkg:maven/org.opencb.cellbase/cellbase-core@4.5.0?classifier=sources
