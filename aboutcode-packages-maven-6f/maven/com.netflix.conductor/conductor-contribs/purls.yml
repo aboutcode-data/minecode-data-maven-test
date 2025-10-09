@@ -198,3 +198,11 @@
 - pkg:maven/com.netflix.conductor/conductor-contribs@1.12.4?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.1.1
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.1.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.2.1
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.2.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.2.0
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.2.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@1.12.5
+- pkg:maven/com.netflix.conductor/conductor-contribs@1.12.5?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@1.12.4-rc3
+- pkg:maven/com.netflix.conductor/conductor-contribs@1.12.4-rc3?classifier=sources

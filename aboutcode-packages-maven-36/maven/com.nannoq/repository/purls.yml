@@ -12,3 +12,5 @@
 - pkg:maven/com.nannoq/repository@1.0.8?classifier=sources
 - pkg:maven/com.nannoq/repository@1.0.7
 - pkg:maven/com.nannoq/repository@1.0.7?classifier=sources
+- pkg:maven/com.nannoq/repository@1.1.0
+- pkg:maven/com.nannoq/repository@1.1.0?classifier=sources

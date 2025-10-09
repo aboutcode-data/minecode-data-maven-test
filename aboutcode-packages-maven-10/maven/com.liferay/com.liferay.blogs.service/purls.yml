@@ -125,3 +125,6 @@
 - pkg:maven/com.liferay/com.liferay.blogs.service@1.1.20
 - pkg:maven/com.liferay/com.liferay.blogs.service@1.1.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@1.1.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.service@2.0.21
+- pkg:maven/com.liferay/com.liferay.blogs.service@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.service@2.0.21?classifier=sources-commercial

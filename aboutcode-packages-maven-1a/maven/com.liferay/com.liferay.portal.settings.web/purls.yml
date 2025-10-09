@@ -98,3 +98,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.11
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.web@1.2.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.15
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.web@2.0.15?classifier=sources-commercial

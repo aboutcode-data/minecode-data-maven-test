@@ -161,3 +161,6 @@
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.50
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.18?classifier=sources-commercial

@@ -222,3 +222,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.19
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.20
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@1.2.8
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@1.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.service@1.2.8?classifier=sources-commercial
