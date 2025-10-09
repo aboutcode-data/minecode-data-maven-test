@@ -8,3 +8,5 @@
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@Greenwich.SR1.2?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@Greenwich.SR2
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@Greenwich.SR2?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-data-jdbc@Finchley.SR4
+- pkg:maven/ai.ylyue/yue-library-data-jdbc@Finchley.SR4?classifier=sources

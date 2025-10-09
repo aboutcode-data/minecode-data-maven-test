@@ -30,3 +30,5 @@
 - pkg:maven/software.amazon.awscdk/cdk-customresources@1.7.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-customresources@1.8.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/cdk-customresources@1.8.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-customresources@1.9.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/cdk-customresources@1.9.0.DEVPREVIEW?classifier=sources
