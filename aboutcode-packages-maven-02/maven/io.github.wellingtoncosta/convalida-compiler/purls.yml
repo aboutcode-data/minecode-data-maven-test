@@ -1,2 +1,4 @@
 - pkg:maven/io.github.wellingtoncosta/convalida-compiler@3.0.0-beta01
 - pkg:maven/io.github.wellingtoncosta/convalida-compiler@3.0.0-beta01?classifier=sources
+- pkg:maven/io.github.wellingtoncosta/convalida-compiler@3.0.0
+- pkg:maven/io.github.wellingtoncosta/convalida-compiler@3.0.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/io.syndesis.server/server-builder-image-generator@1.5.7?classifier=sources
 - pkg:maven/io.syndesis.server/server-builder-image-generator@1.5.9
 - pkg:maven/io.syndesis.server/server-builder-image-generator@1.5.9?classifier=sources
+- pkg:maven/io.syndesis.server/server-builder-image-generator@1.5.10
+- pkg:maven/io.syndesis.server/server-builder-image-generator@1.5.10?classifier=sources

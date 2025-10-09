@@ -24,3 +24,5 @@
 - pkg:maven/io.scalecube/reactor-aeron-core@0.0.11?classifier=sources
 - pkg:maven/io.scalecube/reactor-aeron-core@0.0.15
 - pkg:maven/io.scalecube/reactor-aeron-core@0.0.15?classifier=sources
+- pkg:maven/io.scalecube/reactor-aeron-core@0.1.0
+- pkg:maven/io.scalecube/reactor-aeron-core@0.1.0?classifier=sources
