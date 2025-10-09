@@ -12,3 +12,5 @@
 - pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.90.0?classifier=sources
 - pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.80.0
 - pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.80.0?classifier=sources
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.80.1
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.80.1?classifier=sources

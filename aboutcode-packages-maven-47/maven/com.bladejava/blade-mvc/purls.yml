@@ -124,3 +124,7 @@
 - pkg:maven/com.bladejava/blade-mvc@2.0.11.RELEASE?classifier=sources
 - pkg:maven/com.bladejava/blade-mvc@2.0.11.BETA
 - pkg:maven/com.bladejava/blade-mvc@2.0.11.BETA?classifier=sources
+- pkg:maven/com.bladejava/blade-mvc@2.0.12.RELEASE
+- pkg:maven/com.bladejava/blade-mvc@2.0.12.RELEASE?classifier=sources
+- pkg:maven/com.bladejava/blade-mvc@2.0.12.BETA
+- pkg:maven/com.bladejava/blade-mvc@2.0.12.BETA?classifier=sources

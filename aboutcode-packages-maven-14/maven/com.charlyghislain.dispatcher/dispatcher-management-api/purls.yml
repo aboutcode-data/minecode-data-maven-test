@@ -1,2 +1,4 @@
 - pkg:maven/com.charlyghislain.dispatcher/dispatcher-management-api@1.0.0
 - pkg:maven/com.charlyghislain.dispatcher/dispatcher-management-api@1.0.0?classifier=sources
+- pkg:maven/com.charlyghislain.dispatcher/dispatcher-management-api@2.0.0
+- pkg:maven/com.charlyghislain.dispatcher/dispatcher-management-api@2.0.0?classifier=sources
