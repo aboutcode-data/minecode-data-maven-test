@@ -64,3 +64,5 @@
 - pkg:maven/org.apereo.cas/cas-server-core-events-configuration-cloud-bus@5.2.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-events-configuration-cloud-bus@6.0.0-RC2
 - pkg:maven/org.apereo.cas/cas-server-core-events-configuration-cloud-bus@6.0.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-core-events-configuration-cloud-bus@5.2.8
+- pkg:maven/org.apereo.cas/cas-server-core-events-configuration-cloud-bus@5.2.8?classifier=sources

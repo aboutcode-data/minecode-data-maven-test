@@ -10,3 +10,5 @@
 - pkg:maven/com.quadient.dataservices/dataservices-client-jersey@0.12?classifier=sources
 - pkg:maven/com.quadient.dataservices/dataservices-client-jersey@0.11
 - pkg:maven/com.quadient.dataservices/dataservices-client-jersey@0.11?classifier=sources
+- pkg:maven/com.quadient.dataservices/dataservices-client-jersey@0.14
+- pkg:maven/com.quadient.dataservices/dataservices-client-jersey@0.14?classifier=sources

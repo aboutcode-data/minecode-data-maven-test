@@ -43,3 +43,9 @@
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@1.0.18
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@1.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@3.0.0
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@2.0.0
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@2.0.0?classifier=sources-commercial

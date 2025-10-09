@@ -100,3 +100,5 @@
 - pkg:maven/com.paypal.android.sdk/paypal-one-touch@2.15.2?classifier=sources
 - pkg:maven/com.paypal.android.sdk/paypal-one-touch@2.16.0?type=aar
 - pkg:maven/com.paypal.android.sdk/paypal-one-touch@2.16.0?classifier=sources
+- pkg:maven/com.paypal.android.sdk/paypal-one-touch@2.17.0?type=aar
+- pkg:maven/com.paypal.android.sdk/paypal-one-touch@2.17.0?classifier=sources

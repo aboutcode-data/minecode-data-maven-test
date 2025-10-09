@@ -1,2 +1,4 @@
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen-cli@3.0.0
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen-cli@3.0.0?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen-cli@3.0.1
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen-cli@3.0.1?classifier=sources

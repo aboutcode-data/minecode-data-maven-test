@@ -81,3 +81,5 @@
 - pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.3?classifier=sources
 - pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.2?type=aar
 - pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.2?classifier=sources
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.5?type=aar
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.5?classifier=sources
