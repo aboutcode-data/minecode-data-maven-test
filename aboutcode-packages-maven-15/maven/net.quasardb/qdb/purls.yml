@@ -8,3 +8,5 @@
 - pkg:maven/net.quasardb/qdb@0.0.1?classifier=sources
 - pkg:maven/net.quasardb/qdb@2.7.0
 - pkg:maven/net.quasardb/qdb@2.7.0?classifier=sources
+- pkg:maven/net.quasardb/qdb@3.0.0
+- pkg:maven/net.quasardb/qdb@3.0.0?classifier=sources

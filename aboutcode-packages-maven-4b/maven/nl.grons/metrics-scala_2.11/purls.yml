@@ -68,3 +68,7 @@
 - pkg:maven/nl.grons/metrics-scala_2.11@3.5.9?classifier=sources
 - pkg:maven/nl.grons/metrics-scala_2.11@4.0.0
 - pkg:maven/nl.grons/metrics-scala_2.11@4.0.0?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.11@3.5.10_a2.3
+- pkg:maven/nl.grons/metrics-scala_2.11@3.5.10_a2.3?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.11@3.5.10
+- pkg:maven/nl.grons/metrics-scala_2.11@3.5.10?classifier=sources
