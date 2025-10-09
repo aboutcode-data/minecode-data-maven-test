@@ -94,3 +94,7 @@
 - pkg:maven/com.blackducksoftware.integration/hub-common@6.1.2?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/hub-common@2.1.1
 - pkg:maven/com.blackducksoftware.integration/hub-common@2.1.1?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common@7.3.0
+- pkg:maven/com.blackducksoftware.integration/hub-common@7.3.0?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common@7.2.0
+- pkg:maven/com.blackducksoftware.integration/hub-common@7.2.0?classifier=sources
