@@ -48,3 +48,5 @@
 - pkg:maven/org.teiid/teiid-eclipselink-platform@10.2.3?classifier=sources
 - pkg:maven/org.teiid/teiid-eclipselink-platform@10.3.3
 - pkg:maven/org.teiid/teiid-eclipselink-platform@10.3.3?classifier=sources
+- pkg:maven/org.teiid/teiid-eclipselink-platform@11.0.1
+- pkg:maven/org.teiid/teiid-eclipselink-platform@11.0.1?classifier=sources

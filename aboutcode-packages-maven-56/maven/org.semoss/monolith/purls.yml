@@ -2,3 +2,9 @@
 - pkg:maven/org.semoss/monolith@0.0.2?classifier=sources
 - pkg:maven/org.semoss/monolith@3.3.1?type=war
 - pkg:maven/org.semoss/monolith@3.3.1?classifier=sources
+- pkg:maven/org.semoss/monolith@3.3.2.2?type=war
+- pkg:maven/org.semoss/monolith@3.3.2.2?classifier=sources
+- pkg:maven/org.semoss/monolith@3.3.2.1?type=war
+- pkg:maven/org.semoss/monolith@3.3.2.1?classifier=sources
+- pkg:maven/org.semoss/monolith@3.3.2?type=war
+- pkg:maven/org.semoss/monolith@3.3.2?classifier=sources

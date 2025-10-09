@@ -45,3 +45,7 @@
 - pkg:maven/org.webjars/d3js@4.10.2?classifier=sources
 - pkg:maven/org.webjars/d3js@5.4.0
 - pkg:maven/org.webjars/d3js@5.4.0?classifier=sources
+- pkg:maven/org.webjars/d3js@5.5.0
+- pkg:maven/org.webjars/d3js@5.5.0?classifier=sources
+- pkg:maven/org.webjars/d3js@4.13.0
+- pkg:maven/org.webjars/d3js@4.13.0?classifier=sources

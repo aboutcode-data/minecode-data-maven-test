@@ -120,3 +120,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-logging@2.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-logging@1.5.14.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-logging@1.5.14.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-logging@2.0.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-logging@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-logging@1.5.15.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-logging@1.5.15.RELEASE?classifier=sources
