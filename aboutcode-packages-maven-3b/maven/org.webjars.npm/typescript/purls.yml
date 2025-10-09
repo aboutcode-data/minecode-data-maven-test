@@ -94,3 +94,5 @@
 - pkg:maven/org.webjars.npm/typescript@2.9.2?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@2.0.0-dev.20160711
 - pkg:maven/org.webjars.npm/typescript@2.0.0-dev.20160711?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.0.0-rc
+- pkg:maven/org.webjars.npm/typescript@3.0.0-rc?classifier=sources

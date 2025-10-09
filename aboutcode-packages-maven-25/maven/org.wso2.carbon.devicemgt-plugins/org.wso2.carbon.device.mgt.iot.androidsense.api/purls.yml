@@ -172,3 +172,6 @@
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.androidsense.api@4.1.7?type=war
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.androidsense.api@4.1.7?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.androidsense.api@4.1.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.androidsense.api@4.1.8?type=war
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.androidsense.api@4.1.8?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.androidsense.api@4.1.8?classifier=source-release&type=zip

@@ -211,3 +211,6 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.cloud.gateway.agent@4.6.98
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.cloud.gateway.agent@4.6.98?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.cloud.gateway.agent@4.6.98?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.cloud.gateway.agent@4.6.99
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.cloud.gateway.agent@4.6.99?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.cloud.gateway.agent@4.6.99?classifier=source-release&type=zip
