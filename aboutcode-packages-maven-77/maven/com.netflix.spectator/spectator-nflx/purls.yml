@@ -58,3 +58,5 @@
 - pkg:maven/com.netflix.spectator/spectator-nflx@0.38.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-nflx@0.39.0
 - pkg:maven/com.netflix.spectator/spectator-nflx@0.39.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-nflx@0.40.0
+- pkg:maven/com.netflix.spectator/spectator-nflx@0.40.0?classifier=sources

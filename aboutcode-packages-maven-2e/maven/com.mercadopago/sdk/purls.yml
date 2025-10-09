@@ -1,0 +1,4 @@
+- pkg:maven/com.mercadopago/sdk@WORKSHOP?type=aar
+- pkg:maven/com.mercadopago/sdk@WORKSHOP?classifier=sources
+- pkg:maven/com.mercadopago/sdk@BETA_WORKSHOP?type=aar
+- pkg:maven/com.mercadopago/sdk@BETA_WORKSHOP?classifier=sources

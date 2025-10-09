@@ -166,3 +166,7 @@
 - pkg:maven/com.orientechnologies/orientdb-client@2.1.18?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-client@2.1.19
 - pkg:maven/com.orientechnologies/orientdb-client@2.1.19?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-client@2.2.2
+- pkg:maven/com.orientechnologies/orientdb-client@2.2.2?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-client@2.2.1
+- pkg:maven/com.orientechnologies/orientdb-client@2.2.1?classifier=sources

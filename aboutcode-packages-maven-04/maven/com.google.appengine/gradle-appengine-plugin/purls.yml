@@ -64,3 +64,5 @@
 - pkg:maven/com.google.appengine/gradle-appengine-plugin@1.9.32?classifier=sources
 - pkg:maven/com.google.appengine/gradle-appengine-plugin@1.9.34
 - pkg:maven/com.google.appengine/gradle-appengine-plugin@1.9.34?classifier=sources
+- pkg:maven/com.google.appengine/gradle-appengine-plugin@1.9.38
+- pkg:maven/com.google.appengine/gradle-appengine-plugin@1.9.38?classifier=sources

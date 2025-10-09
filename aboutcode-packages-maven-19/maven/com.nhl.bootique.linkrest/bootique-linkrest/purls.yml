@@ -8,3 +8,5 @@
 - pkg:maven/com.nhl.bootique.linkrest/bootique-linkrest@0.8?classifier=sources
 - pkg:maven/com.nhl.bootique.linkrest/bootique-linkrest@0.9
 - pkg:maven/com.nhl.bootique.linkrest/bootique-linkrest@0.9?classifier=sources
+- pkg:maven/com.nhl.bootique.linkrest/bootique-linkrest@0.10
+- pkg:maven/com.nhl.bootique.linkrest/bootique-linkrest@0.10?classifier=sources

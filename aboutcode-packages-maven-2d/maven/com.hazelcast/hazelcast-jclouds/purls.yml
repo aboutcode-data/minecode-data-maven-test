@@ -14,3 +14,5 @@
 - pkg:maven/com.hazelcast/hazelcast-jclouds@3.6.2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-jclouds@3.6.3
 - pkg:maven/com.hazelcast/hazelcast-jclouds@3.6.3?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-jclouds@3.7-EA
+- pkg:maven/com.hazelcast/hazelcast-jclouds@3.7-EA?classifier=sources
