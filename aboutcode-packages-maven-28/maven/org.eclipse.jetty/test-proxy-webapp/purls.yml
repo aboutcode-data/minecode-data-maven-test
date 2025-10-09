@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.12.v20160915?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.13.M0?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.13.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.13.v20161014?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.13.v20161014?classifier=sources

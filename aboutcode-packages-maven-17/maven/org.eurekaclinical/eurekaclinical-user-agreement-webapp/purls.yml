@@ -24,3 +24,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-webapp@1.0-Alpha-10?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-webapp@1.0?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-webapp@1.0?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-webapp@1.1?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-webapp@1.1?classifier=sources

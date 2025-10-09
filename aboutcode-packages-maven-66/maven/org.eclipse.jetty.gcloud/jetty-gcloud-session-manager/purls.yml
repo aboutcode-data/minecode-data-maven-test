@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-session-manager@9.3.12.v20160915?classifier=sources
 - pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-session-manager@9.3.13.M0
 - pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-session-manager@9.3.13.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-session-manager@9.3.13.v20161014
+- pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-session-manager@9.3.13.v20161014?classifier=sources

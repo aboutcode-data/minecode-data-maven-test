@@ -20,3 +20,7 @@
 - pkg:maven/org.daisy.dotify/dotify.task.impl@2.8.0?classifier=sources
 - pkg:maven/org.daisy.dotify/dotify.task.impl@2.7.0
 - pkg:maven/org.daisy.dotify/dotify.task.impl@2.7.0?classifier=sources
+- pkg:maven/org.daisy.dotify/dotify.task.impl@2.9.0
+- pkg:maven/org.daisy.dotify/dotify.task.impl@2.9.0?classifier=sources
+- pkg:maven/org.daisy.dotify/dotify.task.impl@2.10.0
+- pkg:maven/org.daisy.dotify/dotify.task.impl@2.10.0?classifier=sources

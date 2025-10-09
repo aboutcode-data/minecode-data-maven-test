@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.nifi/nifi-hbase_1_1_2-client-service@1.0.0-BETA?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-hbase_1_1_2-client-service@1.0.0
 - pkg:maven/org.apache.nifi/nifi-hbase_1_1_2-client-service@1.0.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-hbase_1_1_2-client-service@0.7.1
+- pkg:maven/org.apache.nifi/nifi-hbase_1_1_2-client-service@0.7.1?classifier=sources
