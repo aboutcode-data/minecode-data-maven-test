@@ -8,3 +8,7 @@
 - pkg:maven/no.ssb.rawdata/rawdata-client-api@0.8?classifier=sources
 - pkg:maven/no.ssb.rawdata/rawdata-client-api@0.9
 - pkg:maven/no.ssb.rawdata/rawdata-client-api@0.9?classifier=sources
+- pkg:maven/no.ssb.rawdata/rawdata-client-api@0.11
+- pkg:maven/no.ssb.rawdata/rawdata-client-api@0.11?classifier=sources
+- pkg:maven/no.ssb.rawdata/rawdata-client-api@0.10
+- pkg:maven/no.ssb.rawdata/rawdata-client-api@0.10?classifier=sources

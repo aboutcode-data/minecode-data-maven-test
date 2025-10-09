@@ -41,3 +41,7 @@
 - pkg:maven/org.apache.camel/camel-itest-jms2@2.24.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.0.0-M3
+- pkg:maven/org.apache.camel/camel-itest-jms2@2.23.3
+- pkg:maven/org.apache.camel/camel-itest-jms2@2.23.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest-jms2@2.22.5
+- pkg:maven/org.apache.camel/camel-itest-jms2@2.22.5?classifier=sources

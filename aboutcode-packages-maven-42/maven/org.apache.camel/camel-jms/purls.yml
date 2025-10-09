@@ -255,3 +255,7 @@
 - pkg:maven/org.apache.camel/camel-jms@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jms@3.0.0-M3
 - pkg:maven/org.apache.camel/camel-jms@3.0.0-M3?classifier=sources
+- pkg:maven/org.apache.camel/camel-jms@2.23.3
+- pkg:maven/org.apache.camel/camel-jms@2.23.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-jms@2.22.5
+- pkg:maven/org.apache.camel/camel-jms@2.22.5?classifier=sources
