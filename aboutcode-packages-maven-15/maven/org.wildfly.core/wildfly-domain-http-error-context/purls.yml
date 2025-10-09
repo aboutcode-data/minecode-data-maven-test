@@ -236,3 +236,5 @@
 - pkg:maven/org.wildfly.core/wildfly-domain-http-error-context@3.0.0.Alpha24?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-domain-http-error-context@3.0.0.Beta5
 - pkg:maven/org.wildfly.core/wildfly-domain-http-error-context@3.0.0.Beta5?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-domain-http-error-context@2.2.1.CR2
+- pkg:maven/org.wildfly.core/wildfly-domain-http-error-context@2.2.1.CR2?classifier=sources
