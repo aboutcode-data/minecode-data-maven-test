@@ -38,3 +38,5 @@
 - pkg:maven/org.dbtools/dbtools-room-sqliteorg@1.5.3?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room-sqliteorg@1.5.4?type=aar
 - pkg:maven/org.dbtools/dbtools-room-sqliteorg@1.5.4?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-sqliteorg@2.0.0?type=aar
+- pkg:maven/org.dbtools/dbtools-room-sqliteorg@2.0.0?classifier=sources

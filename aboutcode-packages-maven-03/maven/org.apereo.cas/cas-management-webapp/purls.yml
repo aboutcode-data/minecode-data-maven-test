@@ -88,3 +88,5 @@
 - pkg:maven/org.apereo.cas/cas-management-webapp@5.2.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-management-webapp@5.1.9?type=war
 - pkg:maven/org.apereo.cas/cas-management-webapp@5.1.9?classifier=sources
+- pkg:maven/org.apereo.cas/cas-management-webapp@5.2.5?type=war
+- pkg:maven/org.apereo.cas/cas-management-webapp@5.2.5?classifier=sources

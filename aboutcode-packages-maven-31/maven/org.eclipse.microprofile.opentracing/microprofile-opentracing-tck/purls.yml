@@ -1,3 +1,4 @@
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck@1.0
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck@1.0?classifier=sources
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck@1.1
+- pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck@1.1?classifier=sources
