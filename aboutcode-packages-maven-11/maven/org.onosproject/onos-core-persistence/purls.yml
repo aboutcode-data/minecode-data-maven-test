@@ -84,3 +84,5 @@
 - pkg:maven/org.onosproject/onos-core-persistence@1.10.3?classifier=sources
 - pkg:maven/org.onosproject/onos-core-persistence@1.11.0-b4
 - pkg:maven/org.onosproject/onos-core-persistence@1.11.0-b4?classifier=sources
+- pkg:maven/org.onosproject/onos-core-persistence@1.11.0-rc1
+- pkg:maven/org.onosproject/onos-core-persistence@1.11.0-rc1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.onosproject/onos-apps-route-service-api@1.11.0-b4
 - pkg:maven/org.onosproject/onos-apps-route-service-api@1.11.0-b4?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-route-service-api@1.11.0-rc1
+- pkg:maven/org.onosproject/onos-apps-route-service-api@1.11.0-rc1?classifier=sources

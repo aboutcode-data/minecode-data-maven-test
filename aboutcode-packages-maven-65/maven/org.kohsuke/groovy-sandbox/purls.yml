@@ -24,3 +24,7 @@
 - pkg:maven/org.kohsuke/groovy-sandbox@1.11?classifier=sources
 - pkg:maven/org.kohsuke/groovy-sandbox@1.12
 - pkg:maven/org.kohsuke/groovy-sandbox@1.12?classifier=sources
+- pkg:maven/org.kohsuke/groovy-sandbox@1.15
+- pkg:maven/org.kohsuke/groovy-sandbox@1.15?classifier=sources
+- pkg:maven/org.kohsuke/groovy-sandbox@1.14
+- pkg:maven/org.kohsuke/groovy-sandbox@1.14?classifier=sources

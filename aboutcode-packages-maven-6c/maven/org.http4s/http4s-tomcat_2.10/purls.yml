@@ -224,3 +224,5 @@
 - pkg:maven/org.http4s/http4s-tomcat_2.10@0.15.15a?classifier=sources
 - pkg:maven/org.http4s/http4s-tomcat_2.10@0.15.15
 - pkg:maven/org.http4s/http4s-tomcat_2.10@0.15.15?classifier=sources
+- pkg:maven/org.http4s/http4s-tomcat_2.10@0.16.0a-RC1
+- pkg:maven/org.http4s/http4s-tomcat_2.10@0.16.0a-RC1?classifier=sources
