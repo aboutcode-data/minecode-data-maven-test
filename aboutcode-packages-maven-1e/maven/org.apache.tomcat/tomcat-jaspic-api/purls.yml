@@ -74,3 +74,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.10?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.32
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.32?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.11
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.11?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.33
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.33?classifier=sources

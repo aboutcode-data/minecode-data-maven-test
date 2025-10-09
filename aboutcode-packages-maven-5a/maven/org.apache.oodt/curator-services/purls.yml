@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.oodt/curator-services@1.2.2?classifier=sources
 - pkg:maven/org.apache.oodt/curator-services@1.2.3?type=war
 - pkg:maven/org.apache.oodt/curator-services@1.2.3?classifier=sources
+- pkg:maven/org.apache.oodt/curator-services@1.2.4?type=war
+- pkg:maven/org.apache.oodt/curator-services@1.2.4?classifier=sources

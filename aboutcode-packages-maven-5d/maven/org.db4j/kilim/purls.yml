@@ -34,3 +34,15 @@
 - pkg:maven/org.db4j/kilim@2.0.0-19-jdk10?classifier=sources
 - pkg:maven/org.db4j/kilim@2.0.0-19
 - pkg:maven/org.db4j/kilim@2.0.0-19?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-21-jdk7
+- pkg:maven/org.db4j/kilim@2.0.0-21-jdk7?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-20-jdk7
+- pkg:maven/org.db4j/kilim@2.0.0-20-jdk7?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-20-jdk11
+- pkg:maven/org.db4j/kilim@2.0.0-20-jdk11?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-20-jdk10
+- pkg:maven/org.db4j/kilim@2.0.0-20-jdk10?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-20
+- pkg:maven/org.db4j/kilim@2.0.0-20?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.0-19-jdk11
+- pkg:maven/org.db4j/kilim@2.0.0-19-jdk11?classifier=sources

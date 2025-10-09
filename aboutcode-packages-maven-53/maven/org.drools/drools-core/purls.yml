@@ -208,3 +208,5 @@
 - pkg:maven/org.drools/drools-core@7.8.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-core@7.9.0.Final
 - pkg:maven/org.drools/drools-core@7.9.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-core@7.10.0.Final
+- pkg:maven/org.drools/drools-core@7.10.0.Final?classifier=sources
