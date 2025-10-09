@@ -376,3 +376,11 @@
 - pkg:maven/org.eclipse.jetty/jetty-webapp@8.1.20.v20160902?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-webapp@7.6.20.v20160902
 - pkg:maven/org.eclipse.jetty/jetty-webapp@7.6.20.v20160902?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.19.v20160908
+- pkg:maven/org.eclipse.jetty/jetty-webapp@9.2.19.v20160908?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-webapp@8.2.0.v20160908
+- pkg:maven/org.eclipse.jetty/jetty-webapp@8.2.0.v20160908?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-webapp@8.1.21.v20160908
+- pkg:maven/org.eclipse.jetty/jetty-webapp@8.1.21.v20160908?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-webapp@7.6.21.v20160908
+- pkg:maven/org.eclipse.jetty/jetty-webapp@7.6.21.v20160908?classifier=sources

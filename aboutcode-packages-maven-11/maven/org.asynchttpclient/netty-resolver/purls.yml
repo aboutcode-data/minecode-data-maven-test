@@ -58,3 +58,5 @@
 - pkg:maven/org.asynchttpclient/netty-resolver@2.0.14?classifier=sources
 - pkg:maven/org.asynchttpclient/netty-resolver@2.0.13
 - pkg:maven/org.asynchttpclient/netty-resolver@2.0.13?classifier=sources
+- pkg:maven/org.asynchttpclient/netty-resolver@2.0.15
+- pkg:maven/org.asynchttpclient/netty-resolver@2.0.15?classifier=sources

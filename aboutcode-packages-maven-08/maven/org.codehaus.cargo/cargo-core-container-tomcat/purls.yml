@@ -111,3 +111,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.4.19?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.5.0
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.5.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.5.1
+- pkg:maven/org.codehaus.cargo/cargo-core-container-tomcat@1.5.1?classifier=sources

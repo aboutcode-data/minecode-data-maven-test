@@ -58,3 +58,5 @@
 - pkg:maven/org.fluentlenium/fluentlenium-testng@0.13.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-testng@0.13.2
 - pkg:maven/org.fluentlenium/fluentlenium-testng@0.13.2?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-testng@1.0.0-RC1
+- pkg:maven/org.fluentlenium/fluentlenium-testng@1.0.0-RC1?classifier=sources

@@ -92,3 +92,5 @@
 - pkg:maven/org.codehaus.cargo/simple-jar@1.4.19?classifier=sources
 - pkg:maven/org.codehaus.cargo/simple-jar@1.5.0
 - pkg:maven/org.codehaus.cargo/simple-jar@1.5.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/simple-jar@1.5.1
+- pkg:maven/org.codehaus.cargo/simple-jar@1.5.1?classifier=sources
