@@ -17,3 +17,4 @@
 - pkg:maven/net.morimekta.providence/providence-core-jackson@0.2.3
 - pkg:maven/net.morimekta.providence/providence-core-jackson@0.2.3?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-core-jackson@0.5.4
+- pkg:maven/net.morimekta.providence/providence-core-jackson@0.5.4?classifier=sources

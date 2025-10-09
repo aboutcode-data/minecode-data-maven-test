@@ -51,3 +51,5 @@
 - pkg:maven/de.wayofquality.blended/blended.mgmt.repo.rest@2.1.2?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.mgmt.repo.rest@2.3.0-RC2?type=war
 - pkg:maven/de.wayofquality.blended/blended.mgmt.repo.rest@2.3.0-RC2?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.mgmt.repo.rest@2.3.0-RC3?type=war
+- pkg:maven/de.wayofquality.blended/blended.mgmt.repo.rest@2.3.0-RC3?classifier=sources
