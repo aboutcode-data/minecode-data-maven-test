@@ -20,3 +20,5 @@
 - pkg:maven/io.arrow-kt/arrow-test@0.8.2?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-test@0.9.0
 - pkg:maven/io.arrow-kt/arrow-test@0.9.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-test@0.10.0
+- pkg:maven/io.arrow-kt/arrow-test@0.10.0?classifier=sources

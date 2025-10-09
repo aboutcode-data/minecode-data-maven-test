@@ -54,3 +54,7 @@
 - pkg:maven/io.github.fslev/cucumber-utils@4.30?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-utils@4.40
 - pkg:maven/io.github.fslev/cucumber-utils@4.40?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-utils@4.44
+- pkg:maven/io.github.fslev/cucumber-utils@4.44?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-utils@4.42
+- pkg:maven/io.github.fslev/cucumber-utils@4.42?classifier=sources

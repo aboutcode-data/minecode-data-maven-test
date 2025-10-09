@@ -56,3 +56,5 @@
 - pkg:maven/io.ebean/ebean-annotation@4.12?classifier=sources
 - pkg:maven/io.ebean/ebean-annotation@4.13
 - pkg:maven/io.ebean/ebean-annotation@4.13?classifier=sources
+- pkg:maven/io.ebean/ebean-annotation@5.1
+- pkg:maven/io.ebean/ebean-annotation@5.1?classifier=sources

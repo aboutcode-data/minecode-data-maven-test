@@ -72,3 +72,13 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@11.4.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@10.9.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@10.9.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@9.6.15
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@9.6.15?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@9.5.19
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@9.5.19?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@9.4.24
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@9.4.24?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@11.5.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@11.5.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@10.10.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-amd64-alpine@10.10.0?classifier=sources
