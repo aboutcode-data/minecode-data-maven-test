@@ -1,2 +1,4 @@
 - pkg:maven/net.time4j/time4j-ui@4.20
 - pkg:maven/net.time4j/time4j-ui@4.20?classifier=sources
+- pkg:maven/net.time4j/time4j-ui@4.21
+- pkg:maven/net.time4j/time4j-ui@4.21?classifier=sources

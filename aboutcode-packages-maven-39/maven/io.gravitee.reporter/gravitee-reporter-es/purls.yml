@@ -24,3 +24,5 @@
 - pkg:maven/io.gravitee.reporter/gravitee-reporter-es@0.12.0?classifier=sources
 - pkg:maven/io.gravitee.reporter/gravitee-reporter-es@1.0.0?type=zip
 - pkg:maven/io.gravitee.reporter/gravitee-reporter-es@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-es@1.1.0?type=zip
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-es@1.1.0?classifier=sources
