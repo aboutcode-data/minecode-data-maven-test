@@ -260,3 +260,5 @@
 - pkg:maven/org.wildfly.core/wildfly-patching@3.0.0.Beta13?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-patching@3.0.0.Beta12
 - pkg:maven/org.wildfly.core/wildfly-patching@3.0.0.Beta12?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-patching@3.0.0.Beta16
+- pkg:maven/org.wildfly.core/wildfly-patching@3.0.0.Beta16?classifier=sources

@@ -40,3 +40,6 @@
 - pkg:maven/org.wildfly.common/wildfly-common@1.2.0.Beta9
 - pkg:maven/org.wildfly.common/wildfly-common@1.2.0.Beta9?classifier=sources
 - pkg:maven/org.wildfly.common/wildfly-common@1.2.0.Beta9?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.common/wildfly-common@1.2.0.Beta10
+- pkg:maven/org.wildfly.common/wildfly-common@1.2.0.Beta10?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.2.0.Beta10?classifier=source-release&type=zip
