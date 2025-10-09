@@ -16,3 +16,4 @@
 - pkg:maven/org.elasticsearch.plugin/discovery-multicast@2.3.3?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/discovery-multicast@2.3.4?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/discovery-multicast@2.3.5?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/discovery-multicast@2.4.0?classifier=sources
