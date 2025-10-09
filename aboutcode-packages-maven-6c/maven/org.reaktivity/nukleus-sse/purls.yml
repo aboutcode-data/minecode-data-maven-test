@@ -118,3 +118,5 @@
 - pkg:maven/org.reaktivity/nukleus-sse@0.58?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-sse@0.57
 - pkg:maven/org.reaktivity/nukleus-sse@0.57?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-sse@0.61
+- pkg:maven/org.reaktivity/nukleus-sse@0.61?classifier=sources
