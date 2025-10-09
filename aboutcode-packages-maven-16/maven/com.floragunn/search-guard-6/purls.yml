@@ -77,3 +77,5 @@
 - pkg:maven/com.floragunn/search-guard-6@6.1.0-22.3?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.1-22.3-api
 - pkg:maven/com.floragunn/search-guard-6@6.1-22.3-api?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.3.1-compliance-2?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.3.1-22.3?classifier=sources

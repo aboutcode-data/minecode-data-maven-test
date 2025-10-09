@@ -1,2 +1,6 @@
 - pkg:maven/com.arxanfintech/java-common@1.5.1
 - pkg:maven/com.arxanfintech/java-common@1.5.1?classifier=sources
+- pkg:maven/com.arxanfintech/java-common@2.0.1a
+- pkg:maven/com.arxanfintech/java-common@2.0.1a?classifier=sources
+- pkg:maven/com.arxanfintech/java-common@2.0.1
+- pkg:maven/com.arxanfintech/java-common@2.0.1?classifier=sources

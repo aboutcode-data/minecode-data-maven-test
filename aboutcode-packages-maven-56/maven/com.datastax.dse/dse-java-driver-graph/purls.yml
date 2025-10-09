@@ -24,3 +24,5 @@
 - pkg:maven/com.datastax.dse/dse-java-driver-graph@1.6.5?classifier=sources
 - pkg:maven/com.datastax.dse/dse-java-driver-graph@1.6.7
 - pkg:maven/com.datastax.dse/dse-java-driver-graph@1.6.7?classifier=sources
+- pkg:maven/com.datastax.dse/dse-java-driver-graph@1.6.8
+- pkg:maven/com.datastax.dse/dse-java-driver-graph@1.6.8?classifier=sources
