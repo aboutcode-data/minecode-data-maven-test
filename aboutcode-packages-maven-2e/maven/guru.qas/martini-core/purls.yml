@@ -36,3 +36,5 @@
 - pkg:maven/guru.qas/martini-core@2.5.0?classifier=sources
 - pkg:maven/guru.qas/martini-core@4.0.0-JDK10
 - pkg:maven/guru.qas/martini-core@4.0.0-JDK10?classifier=sources
+- pkg:maven/guru.qas/martini-core@4.1.0
+- pkg:maven/guru.qas/martini-core@4.1.0?classifier=sources

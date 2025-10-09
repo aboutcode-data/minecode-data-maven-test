@@ -1,2 +1,4 @@
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@2.5.0-SBT?type=zip
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@2.5.0-SBT?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0-M1?type=zip
+- pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0-M1?classifier=sources

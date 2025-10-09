@@ -64,3 +64,5 @@
 - pkg:maven/io.zipkin.reporter2/zipkin-reporter@2.7.11?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-reporter@2.7.12
 - pkg:maven/io.zipkin.reporter2/zipkin-reporter@2.7.12?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-reporter@2.7.13
+- pkg:maven/io.zipkin.reporter2/zipkin-reporter@2.7.13?classifier=sources

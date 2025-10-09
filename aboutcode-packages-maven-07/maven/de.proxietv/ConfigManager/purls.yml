@@ -10,3 +10,5 @@
 - pkg:maven/de.proxietv/ConfigManager@1.8?classifier=sources
 - pkg:maven/de.proxietv/ConfigManager@1.6
 - pkg:maven/de.proxietv/ConfigManager@1.6?classifier=sources
+- pkg:maven/de.proxietv/ConfigManager@2.1
+- pkg:maven/de.proxietv/ConfigManager@2.1?classifier=sources
