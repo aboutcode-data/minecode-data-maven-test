@@ -30,3 +30,5 @@
 - pkg:maven/org.zalando/tracer-hystrix@0.15.1?classifier=sources
 - pkg:maven/org.zalando/tracer-hystrix@0.16.0
 - pkg:maven/org.zalando/tracer-hystrix@0.16.0?classifier=sources
+- pkg:maven/org.zalando/tracer-hystrix@0.17.0
+- pkg:maven/org.zalando/tracer-hystrix@0.17.0?classifier=sources

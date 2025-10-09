@@ -334,3 +334,7 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.16?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.15
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.20
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.20?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.19
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oauth.common.testng@6.0.19?classifier=sources
