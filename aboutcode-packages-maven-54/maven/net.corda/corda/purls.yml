@@ -1,2 +1,4 @@
 - pkg:maven/net.corda/corda@0.7
 - pkg:maven/net.corda/corda@0.7?classifier=sources
+- pkg:maven/net.corda/corda@0.8
+- pkg:maven/net.corda/corda@0.8?classifier=sources
