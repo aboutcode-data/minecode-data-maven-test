@@ -32,3 +32,5 @@
 - pkg:maven/io.vertx/vertx-web-api-service@3.8.3-01?classifier=sources
 - pkg:maven/io.vertx/vertx-web-api-service@3.8.4
 - pkg:maven/io.vertx/vertx-web-api-service@3.8.4?classifier=sources
+- pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone4
+- pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone4?classifier=sources

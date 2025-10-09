@@ -40,3 +40,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-jedis@4.0.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-jedis@3.0.1
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-jedis@3.0.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-jedis@4.0.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-jedis@4.0.1?classifier=sources
