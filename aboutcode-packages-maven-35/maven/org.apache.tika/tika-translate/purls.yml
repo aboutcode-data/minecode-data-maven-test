@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.tika/tika-translate@1.14?classifier=sources
 - pkg:maven/org.apache.tika/tika-translate@1.15
 - pkg:maven/org.apache.tika/tika-translate@1.15?classifier=sources
+- pkg:maven/org.apache.tika/tika-translate@1.16
+- pkg:maven/org.apache.tika/tika-translate@1.16?classifier=sources
