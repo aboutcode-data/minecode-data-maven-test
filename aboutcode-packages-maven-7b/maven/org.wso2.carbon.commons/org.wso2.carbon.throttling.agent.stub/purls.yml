@@ -127,3 +127,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.throttling.agent.stub@4.6.44
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.throttling.agent.stub@4.6.44?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.throttling.agent.stub@4.6.44?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.throttling.agent.stub@4.6.45
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.throttling.agent.stub@4.6.45?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.throttling.agent.stub@4.6.45?classifier=source-release&type=zip
