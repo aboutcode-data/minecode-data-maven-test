@@ -46,3 +46,5 @@
 - pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.2.3.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.3.1.Final?type=war
 - pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.3.1.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.3.2.Final?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.3.2.Final?classifier=sources

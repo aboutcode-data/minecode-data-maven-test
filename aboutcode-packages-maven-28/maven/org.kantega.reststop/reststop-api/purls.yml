@@ -58,3 +58,5 @@
 - pkg:maven/org.kantega.reststop/reststop-api@3.8?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-api@3.9
 - pkg:maven/org.kantega.reststop/reststop-api@3.9?classifier=sources
+- pkg:maven/org.kantega.reststop/reststop-api@3.10
+- pkg:maven/org.kantega.reststop/reststop-api@3.10?classifier=sources

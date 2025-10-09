@@ -24,3 +24,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-analytics-service@1.1-Beta-7?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-analytics-service@1.1-Beta-10?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-analytics-service@1.1-Beta-10?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-analytics-service@1.1-Beta-11?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-analytics-service@1.1-Beta-11?classifier=sources

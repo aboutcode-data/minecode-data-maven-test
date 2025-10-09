@@ -260,3 +260,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.12.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.12.RC1
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.12.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.2.26.v20180806
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.2.26.v20180806?classifier=sources

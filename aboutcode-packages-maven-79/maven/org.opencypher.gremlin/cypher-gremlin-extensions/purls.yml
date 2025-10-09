@@ -1,2 +1,4 @@
 - pkg:maven/org.opencypher.gremlin/cypher-gremlin-extensions@0.9.10
 - pkg:maven/org.opencypher.gremlin/cypher-gremlin-extensions@0.9.10?classifier=sources
+- pkg:maven/org.opencypher.gremlin/cypher-gremlin-extensions@0.9.11
+- pkg:maven/org.opencypher.gremlin/cypher-gremlin-extensions@0.9.11?classifier=sources

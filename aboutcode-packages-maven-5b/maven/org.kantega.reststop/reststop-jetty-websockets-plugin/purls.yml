@@ -8,3 +8,5 @@
 - pkg:maven/org.kantega.reststop/reststop-jetty-websockets-plugin@3.8?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-jetty-websockets-plugin@3.9
 - pkg:maven/org.kantega.reststop/reststop-jetty-websockets-plugin@3.9?classifier=sources
+- pkg:maven/org.kantega.reststop/reststop-jetty-websockets-plugin@3.10
+- pkg:maven/org.kantega.reststop/reststop-jetty-websockets-plugin@3.10?classifier=sources

@@ -224,3 +224,7 @@
 - pkg:maven/org.jboss.xnio/xnio-api@3.5.5.Final?classifier=sources
 - pkg:maven/org.jboss.xnio/xnio-api@3.6.3.Final
 - pkg:maven/org.jboss.xnio/xnio-api@3.6.3.Final?classifier=sources
+- pkg:maven/org.jboss.xnio/xnio-api@3.6.4.Final
+- pkg:maven/org.jboss.xnio/xnio-api@3.6.4.Final?classifier=sources
+- pkg:maven/org.jboss.xnio/xnio-api@3.0.17.GA
+- pkg:maven/org.jboss.xnio/xnio-api@3.0.17.GA?classifier=sources

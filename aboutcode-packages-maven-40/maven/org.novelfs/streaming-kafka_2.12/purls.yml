@@ -24,3 +24,5 @@
 - pkg:maven/org.novelfs/streaming-kafka_2.12@0.2.7?classifier=sources
 - pkg:maven/org.novelfs/streaming-kafka_2.12@0.2.6
 - pkg:maven/org.novelfs/streaming-kafka_2.12@0.2.6?classifier=sources
+- pkg:maven/org.novelfs/streaming-kafka_2.12@0.4.0
+- pkg:maven/org.novelfs/streaming-kafka_2.12@0.4.0?classifier=sources

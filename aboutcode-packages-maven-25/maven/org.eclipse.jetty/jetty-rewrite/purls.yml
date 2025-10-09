@@ -490,3 +490,4 @@
 - pkg:maven/org.eclipse.jetty/jetty-rewrite@9.4.12.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-rewrite@9.4.12.RC1
 - pkg:maven/org.eclipse.jetty/jetty-rewrite@9.4.12.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-rewrite@9.2.26.v20180806
