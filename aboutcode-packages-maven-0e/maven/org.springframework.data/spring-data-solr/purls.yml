@@ -178,3 +178,7 @@
 - pkg:maven/org.springframework.data/spring-data-solr@4.1.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@4.0.12.RELEASE
 - pkg:maven/org.springframework.data/spring-data-solr@4.0.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-solr@4.1.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-solr@4.1.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-solr@4.0.13.RELEASE
+- pkg:maven/org.springframework.data/spring-data-solr@4.0.13.RELEASE?classifier=sources
