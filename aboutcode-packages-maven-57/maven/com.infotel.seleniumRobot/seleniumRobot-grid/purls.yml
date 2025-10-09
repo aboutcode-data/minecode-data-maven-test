@@ -10,3 +10,5 @@
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@3.2.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@3.4.0
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@3.4.0?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@3.5.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@3.5.0?classifier=sources

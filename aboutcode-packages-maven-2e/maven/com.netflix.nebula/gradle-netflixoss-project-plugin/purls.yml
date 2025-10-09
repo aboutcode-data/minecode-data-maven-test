@@ -80,3 +80,5 @@
 - pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@4.0.2?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@4.1.0
 - pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@4.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@5.0.0
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@5.0.0?classifier=sources
