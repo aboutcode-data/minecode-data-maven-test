@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.che/ls-golang-agent@6.15.0?classifier=sources
 - pkg:maven/org.eclipse.che/ls-golang-agent@6.16.0
 - pkg:maven/org.eclipse.che/ls-golang-agent@6.16.0?classifier=sources
+- pkg:maven/org.eclipse.che/ls-golang-agent@6.17.0
+- pkg:maven/org.eclipse.che/ls-golang-agent@6.17.0?classifier=sources

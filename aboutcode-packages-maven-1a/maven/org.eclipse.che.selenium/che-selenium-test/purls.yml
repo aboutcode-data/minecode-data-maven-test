@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.che.selenium/che-selenium-test@6.15.0?classifier=sources
 - pkg:maven/org.eclipse.che.selenium/che-selenium-test@6.16.0
 - pkg:maven/org.eclipse.che.selenium/che-selenium-test@6.16.0?classifier=sources
+- pkg:maven/org.eclipse.che.selenium/che-selenium-test@6.17.0
+- pkg:maven/org.eclipse.che.selenium/che-selenium-test@6.17.0?classifier=sources

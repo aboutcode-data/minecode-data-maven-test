@@ -24,3 +24,5 @@
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-test@6.0-rc4?classifier=sources
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-test@6.0
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-test@6.0?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-plugin-test@6.1
+- pkg:maven/org.bsc.maven/maven-confluence-plugin-test@6.1?classifier=sources

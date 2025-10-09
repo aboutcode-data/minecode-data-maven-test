@@ -72,3 +72,5 @@
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.0-rc4?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.0
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.0?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.1
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.1?classifier=sources

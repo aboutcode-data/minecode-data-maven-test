@@ -114,3 +114,5 @@
 - pkg:maven/org.dbflute.tomcat/tomcat-boot@0.7.0-RC2?classifier=sources
 - pkg:maven/org.dbflute.tomcat/tomcat-boot@0.7.0
 - pkg:maven/org.dbflute.tomcat/tomcat-boot@0.7.0?classifier=sources
+- pkg:maven/org.dbflute.tomcat/tomcat-boot@0.7.1-RC1
+- pkg:maven/org.dbflute.tomcat/tomcat-boot@0.7.1-RC1?classifier=sources
