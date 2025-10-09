@@ -14,3 +14,7 @@
 - pkg:maven/com.datathings/greycat-ml@7?classifier=sources
 - pkg:maven/com.datathings/greycat-ml@8
 - pkg:maven/com.datathings/greycat-ml@8?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8.2
+- pkg:maven/com.datathings/greycat-ml@8.2?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8.1
+- pkg:maven/com.datathings/greycat-ml@8.1?classifier=sources

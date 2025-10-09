@@ -118,3 +118,7 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.8.8?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.9.0.pr3
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.9.0.pr3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.9.0.pr4
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.9.0.pr4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.8.9
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-guice@2.8.9?classifier=sources
