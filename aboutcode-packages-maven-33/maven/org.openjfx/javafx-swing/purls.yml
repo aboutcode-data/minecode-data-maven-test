@@ -78,3 +78,5 @@
 - pkg:maven/org.openjfx/javafx-swing@13-ea%2B14?classifier=sources
 - pkg:maven/org.openjfx/javafx-swing@13
 - pkg:maven/org.openjfx/javafx-swing@13?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@14-ea%2B1
+- pkg:maven/org.openjfx/javafx-swing@14-ea%2B1?classifier=sources

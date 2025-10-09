@@ -150,3 +150,7 @@
 - pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.75?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.74
 - pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.74?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.78
+- pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.78?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.77
+- pkg:maven/org.reaktivity/nukleus-http-cache.spec@0.77?classifier=sources

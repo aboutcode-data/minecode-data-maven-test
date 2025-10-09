@@ -246,3 +246,5 @@
 - pkg:maven/org.springframework/spring-tx@5.0.15.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-tx@4.3.25.RELEASE
 - pkg:maven/org.springframework/spring-tx@4.3.25.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-tx@5.1.10.RELEASE
+- pkg:maven/org.springframework/spring-tx@5.1.10.RELEASE?classifier=sources
