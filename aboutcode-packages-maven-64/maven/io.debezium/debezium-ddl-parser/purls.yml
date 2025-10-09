@@ -2,3 +2,5 @@
 - pkg:maven/io.debezium/debezium-ddl-parser@0.8.0.Beta1?classifier=sources
 - pkg:maven/io.debezium/debezium-ddl-parser@0.8.0.CR1
 - pkg:maven/io.debezium/debezium-ddl-parser@0.8.0.CR1?classifier=sources
+- pkg:maven/io.debezium/debezium-ddl-parser@0.8.0.Final
+- pkg:maven/io.debezium/debezium-ddl-parser@0.8.0.Final?classifier=sources

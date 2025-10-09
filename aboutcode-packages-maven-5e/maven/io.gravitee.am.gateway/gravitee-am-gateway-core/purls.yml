@@ -36,3 +36,5 @@
 - pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-core@1.6.3?classifier=sources
 - pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-core@1.6.4
 - pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-core@1.6.4?classifier=sources
+- pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-core@2.0.0
+- pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-core@2.0.0?classifier=sources
