@@ -289,3 +289,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch@5.5.3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@5.6.1
 - pkg:maven/org.elasticsearch/elasticsearch@5.6.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@6.0.0-rc1
+- pkg:maven/org.elasticsearch/elasticsearch@6.0.0-rc1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@5.6.2
+- pkg:maven/org.elasticsearch/elasticsearch@5.6.2?classifier=sources

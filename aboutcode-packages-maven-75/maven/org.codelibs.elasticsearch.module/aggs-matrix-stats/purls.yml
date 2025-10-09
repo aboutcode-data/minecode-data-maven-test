@@ -40,3 +40,7 @@
 - pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@5.6.1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@5.5.3
 - pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@5.5.3?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@6.0.0-rc1
+- pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@6.0.0-rc1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@5.6.2
+- pkg:maven/org.codelibs.elasticsearch.module/aggs-matrix-stats@5.6.2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.dmfs/optional@0.6?classifier=sources
 - pkg:maven/org.dmfs/optional@1.8
 - pkg:maven/org.dmfs/optional@1.8?classifier=sources
+- pkg:maven/org.dmfs/optional@1.9
+- pkg:maven/org.dmfs/optional@1.9?classifier=sources

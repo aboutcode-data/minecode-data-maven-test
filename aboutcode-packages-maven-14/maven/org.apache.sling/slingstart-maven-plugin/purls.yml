@@ -55,3 +55,6 @@
 - pkg:maven/org.apache.sling/slingstart-maven-plugin@1.7.8
 - pkg:maven/org.apache.sling/slingstart-maven-plugin@1.7.8?classifier=sources
 - pkg:maven/org.apache.sling/slingstart-maven-plugin@1.7.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/slingstart-maven-plugin@1.7.10
+- pkg:maven/org.apache.sling/slingstart-maven-plugin@1.7.10?classifier=sources
+- pkg:maven/org.apache.sling/slingstart-maven-plugin@1.7.10?classifier=source-release&type=zip

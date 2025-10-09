@@ -34,3 +34,7 @@
 - pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.4?classifier=sources
 - pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.7?type=war
 - pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.7?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.9?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.9?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.8?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@1.9.8?classifier=sources
