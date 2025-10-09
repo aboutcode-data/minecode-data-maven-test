@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/failsafe-actuator@0.1
+- pkg:maven/org.zalando/failsafe-actuator@0.1?classifier=sources
