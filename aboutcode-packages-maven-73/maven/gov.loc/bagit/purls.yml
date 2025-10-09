@@ -19,3 +19,5 @@
 - pkg:maven/gov.loc/bagit@5.0.0-ALPHA
 - pkg:maven/gov.loc/bagit@5.0.0-ALPHA?classifier=sources
 - pkg:maven/gov.loc/bagit@4.11.0?classifier=sources
+- pkg:maven/gov.loc/bagit@5.0.0-BETA
+- pkg:maven/gov.loc/bagit@5.0.0-BETA?classifier=sources
