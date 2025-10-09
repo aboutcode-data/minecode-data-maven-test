@@ -52,3 +52,5 @@
 - pkg:maven/com.netease.nimlib/basesdk@5.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/basesdk@4.6.0.99?type=aar
 - pkg:maven/com.netease.nimlib/basesdk@4.6.0.99?classifier=sources
+- pkg:maven/com.netease.nimlib/basesdk@5.5.0?type=aar
+- pkg:maven/com.netease.nimlib/basesdk@5.5.0?classifier=sources

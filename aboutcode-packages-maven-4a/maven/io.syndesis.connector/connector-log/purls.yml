@@ -1,2 +1,4 @@
 - pkg:maven/io.syndesis.connector/connector-log@1.4.0-20180720
 - pkg:maven/io.syndesis.connector/connector-log@1.4.0-20180720?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-log@1.4.2
+- pkg:maven/io.syndesis.connector/connector-log@1.4.2?classifier=sources

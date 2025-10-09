@@ -36,3 +36,5 @@
 - pkg:maven/io.syndesis.server/server-logging-jsondb@1.3.12?classifier=sources
 - pkg:maven/io.syndesis.server/server-logging-jsondb@1.4.0-20180720
 - pkg:maven/io.syndesis.server/server-logging-jsondb@1.4.0-20180720?classifier=sources
+- pkg:maven/io.syndesis.server/server-logging-jsondb@1.4.2
+- pkg:maven/io.syndesis.server/server-logging-jsondb@1.4.2?classifier=sources

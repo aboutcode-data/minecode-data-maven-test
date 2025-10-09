@@ -148,3 +148,5 @@
 - pkg:maven/com.theneura/android-sdk@5.1.0%28MDSF%29?classifier=sources
 - pkg:maven/com.theneura/android-sdk@5.1.0?type=aar
 - pkg:maven/com.theneura/android-sdk@5.1.0?classifier=sources
+- pkg:maven/com.theneura/android-sdk@5.1.1.21%28Beta%29?type=aar
+- pkg:maven/com.theneura/android-sdk@5.1.1.21%28Beta%29?classifier=sources

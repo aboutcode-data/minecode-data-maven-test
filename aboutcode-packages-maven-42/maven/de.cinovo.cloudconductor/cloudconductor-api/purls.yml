@@ -20,3 +20,5 @@
 - pkg:maven/de.cinovo.cloudconductor/cloudconductor-api@2.14?classifier=sources
 - pkg:maven/de.cinovo.cloudconductor/cloudconductor-api@3.0
 - pkg:maven/de.cinovo.cloudconductor/cloudconductor-api@3.0?classifier=sources
+- pkg:maven/de.cinovo.cloudconductor/cloudconductor-api@3.1
+- pkg:maven/de.cinovo.cloudconductor/cloudconductor-api@3.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.2.0-M2?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.2.0
 - pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.2.0?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.2.1
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.2.1?classifier=sources
