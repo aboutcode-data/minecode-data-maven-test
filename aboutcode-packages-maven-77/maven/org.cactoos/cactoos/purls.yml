@@ -124,3 +124,7 @@
 - pkg:maven/org.cactoos/cactoos@0.28?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.29
 - pkg:maven/org.cactoos/cactoos@0.29?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.29.2
+- pkg:maven/org.cactoos/cactoos@0.29.2?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.29.1
+- pkg:maven/org.cactoos/cactoos@0.29.1?classifier=sources

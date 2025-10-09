@@ -20,3 +20,4 @@
 - pkg:maven/org.apache.nifi/nifi-service-bundle-archetype@0.7.4?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-service-bundle-archetype@1.4.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-service-bundle-archetype@1.5.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-service-bundle-archetype@1.6.0?classifier=sources

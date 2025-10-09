@@ -8,3 +8,5 @@
 - pkg:maven/org.cloudfoundry.tools/push-apps@0.0.46?classifier=sources
 - pkg:maven/org.cloudfoundry.tools/push-apps@0.0.50
 - pkg:maven/org.cloudfoundry.tools/push-apps@0.0.50?classifier=sources
+- pkg:maven/org.cloudfoundry.tools/push-apps@0.0.51
+- pkg:maven/org.cloudfoundry.tools/push-apps@0.0.51?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.8.0?classifier=sources
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.9.0
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.9.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.10
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.10?classifier=sources
