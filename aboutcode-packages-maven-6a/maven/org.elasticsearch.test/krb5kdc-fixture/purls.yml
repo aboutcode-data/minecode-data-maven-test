@@ -74,3 +74,7 @@
 - pkg:maven/org.elasticsearch.test/krb5kdc-fixture@6.3.1?classifier=sources
 - pkg:maven/org.elasticsearch.test/krb5kdc-fixture@6.3.2
 - pkg:maven/org.elasticsearch.test/krb5kdc-fixture@6.3.2?classifier=sources
+- pkg:maven/org.elasticsearch.test/krb5kdc-fixture@6.4.0
+- pkg:maven/org.elasticsearch.test/krb5kdc-fixture@6.4.0?classifier=sources
+- pkg:maven/org.elasticsearch.test/krb5kdc-fixture@5.6.11
+- pkg:maven/org.elasticsearch.test/krb5kdc-fixture@5.6.11?classifier=sources

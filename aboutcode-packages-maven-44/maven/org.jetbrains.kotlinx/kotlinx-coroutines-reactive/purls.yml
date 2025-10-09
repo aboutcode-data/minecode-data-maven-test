@@ -38,3 +38,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.23.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.24.0-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.24.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.25.0-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@0.25.0?classifier=sources

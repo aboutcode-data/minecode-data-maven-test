@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.che.core/che-wsagent-core@6.10.0?type=war
+- pkg:maven/org.eclipse.che.core/che-wsagent-core@6.10.0?classifier=sources

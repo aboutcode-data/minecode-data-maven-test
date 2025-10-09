@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@6.10.0
+- pkg:maven/org.eclipse.che.infrastructure.docker/docker-client@6.10.0?classifier=sources
