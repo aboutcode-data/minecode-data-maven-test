@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/jsdom@7.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@0.8.11
 - pkg:maven/org.webjars.npm/jsdom@0.8.11?classifier=sources
+- pkg:maven/org.webjars.npm/jsdom@8.2.0
+- pkg:maven/org.webjars.npm/jsdom@8.2.0?classifier=sources
