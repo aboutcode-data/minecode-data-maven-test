@@ -50,3 +50,5 @@
 - pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.7.0.2?classifier=sources
 - pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.6.9.3?type=war
 - pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.6.9.3?classifier=sources
+- pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.7.1-RC1?type=war
+- pkg:maven/org.opensingular/singular-wkhtmltopdf-ws@1.7.1-RC1?classifier=sources

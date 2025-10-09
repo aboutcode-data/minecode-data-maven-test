@@ -44,3 +44,5 @@
 - pkg:maven/org.ligoj.app/app-api@1.7.10?classifier=sources
 - pkg:maven/org.ligoj.app/app-api@1.7.11?type=war
 - pkg:maven/org.ligoj.app/app-api@1.7.11?classifier=sources
+- pkg:maven/org.ligoj.app/app-api@1.7.12?type=war
+- pkg:maven/org.ligoj.app/app-api@1.7.12?classifier=sources

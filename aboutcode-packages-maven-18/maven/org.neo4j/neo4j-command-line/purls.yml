@@ -150,3 +150,5 @@
 - pkg:maven/org.neo4j/neo4j-command-line@3.4.0-alpha10?classifier=sources
 - pkg:maven/org.neo4j/neo4j-command-line@3.4.0-beta01
 - pkg:maven/org.neo4j/neo4j-command-line@3.4.0-beta01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-command-line@3.3.5
+- pkg:maven/org.neo4j/neo4j-command-line@3.3.5?classifier=sources
