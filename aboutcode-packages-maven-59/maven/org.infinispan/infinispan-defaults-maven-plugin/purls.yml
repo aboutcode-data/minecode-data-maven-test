@@ -106,3 +106,5 @@
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.4.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@10.0.0.Alpha2
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@10.0.0.Alpha2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.4.5.Final
+- pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.4.5.Final?classifier=sources

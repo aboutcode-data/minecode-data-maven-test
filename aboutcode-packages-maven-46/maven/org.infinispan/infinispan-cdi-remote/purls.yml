@@ -168,3 +168,5 @@
 - pkg:maven/org.infinispan/infinispan-cdi-remote@9.4.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cdi-remote@10.0.0.Alpha2
 - pkg:maven/org.infinispan/infinispan-cdi-remote@10.0.0.Alpha2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cdi-remote@9.4.5.Final
+- pkg:maven/org.infinispan/infinispan-cdi-remote@9.4.5.Final?classifier=sources

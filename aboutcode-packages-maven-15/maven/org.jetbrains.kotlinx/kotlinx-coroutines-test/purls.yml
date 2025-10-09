@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test@1.1.0-alpha
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test@1.1.0-alpha?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test@1.1.0
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test@1.1.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.1000
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.1000?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.6.0
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.6.0?classifier=sources

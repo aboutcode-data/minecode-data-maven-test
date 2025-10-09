@@ -166,3 +166,5 @@
 - pkg:maven/org.infinispan/infinispan-spring4-common@10.0.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring4-common@9.4.4.Final
 - pkg:maven/org.infinispan/infinispan-spring4-common@9.4.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring4-common@9.4.5.Final
+- pkg:maven/org.infinispan/infinispan-spring4-common@9.4.5.Final?classifier=sources

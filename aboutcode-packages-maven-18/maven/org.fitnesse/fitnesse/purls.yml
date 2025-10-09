@@ -50,3 +50,5 @@
 - pkg:maven/org.fitnesse/fitnesse@20171210?classifier=sources
 - pkg:maven/org.fitnesse/fitnesse@20180127
 - pkg:maven/org.fitnesse/fitnesse@20180127?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20181221
+- pkg:maven/org.fitnesse/fitnesse@20181221?classifier=sources

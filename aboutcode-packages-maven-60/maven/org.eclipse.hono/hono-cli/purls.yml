@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.hono/hono-cli@0.8-M2?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-cli@0.8
 - pkg:maven/org.eclipse.hono/hono-cli@0.8?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-cli@0.9-M1
+- pkg:maven/org.eclipse.hono/hono-cli@0.9-M1?classifier=sources

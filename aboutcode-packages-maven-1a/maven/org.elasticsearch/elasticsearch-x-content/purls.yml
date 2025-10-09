@@ -22,3 +22,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.5.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.5.3
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.5.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.0.0-alpha2
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.0.0-alpha2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@6.5.4
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@6.5.4?classifier=sources
