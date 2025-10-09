@@ -178,3 +178,7 @@
 - pkg:maven/org.wicketstuff/progressbar-example@6.28.0?classifier=sources
 - pkg:maven/org.wicketstuff/progressbar-example@8.0.0-M8?type=war
 - pkg:maven/org.wicketstuff/progressbar-example@8.0.0-M8?classifier=sources
+- pkg:maven/org.wicketstuff/progressbar-example@8.0.0-M9?type=war
+- pkg:maven/org.wicketstuff/progressbar-example@8.0.0-M9?classifier=sources
+- pkg:maven/org.wicketstuff/progressbar-example@7.10.0?type=war
+- pkg:maven/org.wicketstuff/progressbar-example@7.10.0?classifier=sources
