@@ -108,3 +108,5 @@
 - pkg:maven/org.jboss.resteasy/eagledns-fork@4.0.0.Beta5?classifier=sources
 - pkg:maven/org.jboss.resteasy/eagledns-fork@3.6.1.Final
 - pkg:maven/org.jboss.resteasy/eagledns-fork@3.6.1.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/eagledns-fork@3.6.1.SP1
+- pkg:maven/org.jboss.resteasy/eagledns-fork@3.6.1.SP1?classifier=sources
