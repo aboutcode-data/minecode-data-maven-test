@@ -1,2 +1,4 @@
 - pkg:maven/com.google.security/fences-maven-enforcer-rule@1.1-beta
 - pkg:maven/com.google.security/fences-maven-enforcer-rule@1.1-beta?classifier=sources
+- pkg:maven/com.google.security/fences-maven-enforcer-rule@1.2-beta
+- pkg:maven/com.google.security/fences-maven-enforcer-rule@1.2-beta?classifier=sources

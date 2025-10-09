@@ -1,2 +1,4 @@
 - pkg:maven/com.getsentry.raven/raven-logback@7.0.0
 - pkg:maven/com.getsentry.raven/raven-logback@7.0.0?classifier=sources
+- pkg:maven/com.getsentry.raven/raven-logback@7.1.0
+- pkg:maven/com.getsentry.raven/raven-logback@7.1.0?classifier=sources
