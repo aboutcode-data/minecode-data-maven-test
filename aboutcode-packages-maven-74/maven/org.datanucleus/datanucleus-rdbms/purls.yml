@@ -252,3 +252,5 @@
 - pkg:maven/org.datanucleus/datanucleus-rdbms@5.0.0-release?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-rdbms@4.1.14
 - pkg:maven/org.datanucleus/datanucleus-rdbms@4.1.14?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-rdbms@5.0.1
+- pkg:maven/org.datanucleus/datanucleus-rdbms@5.0.1?classifier=sources

@@ -132,3 +132,7 @@
 - pkg:maven/org.jboss.weld/weld-spi@3.0.Alpha20?classifier=sources
 - pkg:maven/org.jboss.weld/weld-spi@2.4.Beta1
 - pkg:maven/org.jboss.weld/weld-spi@2.4.Beta1?classifier=sources
+- pkg:maven/org.jboss.weld/weld-spi@3.0.Alpha21
+- pkg:maven/org.jboss.weld/weld-spi@3.0.Alpha21?classifier=sources
+- pkg:maven/org.jboss.weld/weld-spi@2.4.CR1
+- pkg:maven/org.jboss.weld/weld-spi@2.4.CR1?classifier=sources
