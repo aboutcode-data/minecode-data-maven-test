@@ -168,3 +168,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.15?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.16
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.16?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-logging@0.89.0
+- pkg:maven/org.stagemonitor/stagemonitor-logging@0.89.0?classifier=sources
