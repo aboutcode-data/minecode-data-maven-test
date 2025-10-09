@@ -29,3 +29,5 @@
 - pkg:maven/com.scalyr/scalyr-client@6.0.13?classifier=sources
 - pkg:maven/com.scalyr/scalyr-client@6.0.16
 - pkg:maven/com.scalyr/scalyr-client@6.0.16?classifier=sources
+- pkg:maven/com.scalyr/scalyr-client@6.0.18
+- pkg:maven/com.scalyr/scalyr-client@6.0.18?classifier=sources
