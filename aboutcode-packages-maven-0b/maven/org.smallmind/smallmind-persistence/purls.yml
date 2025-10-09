@@ -102,3 +102,5 @@
 - pkg:maven/org.smallmind/smallmind-persistence@3.1.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-persistence@2.4.25
 - pkg:maven/org.smallmind/smallmind-persistence@2.4.25?classifier=sources
+- pkg:maven/org.smallmind/smallmind-persistence@3.1.1
+- pkg:maven/org.smallmind/smallmind-persistence@3.1.1?classifier=sources

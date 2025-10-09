@@ -66,3 +66,5 @@
 - pkg:maven/org.smallmind/schema-validation-plugin@3.1.0?classifier=sources
 - pkg:maven/org.smallmind/schema-validation-plugin@2.4.25
 - pkg:maven/org.smallmind/schema-validation-plugin@2.4.25?classifier=sources
+- pkg:maven/org.smallmind/schema-validation-plugin@3.1.1
+- pkg:maven/org.smallmind/schema-validation-plugin@3.1.1?classifier=sources

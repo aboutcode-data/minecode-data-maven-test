@@ -32,3 +32,5 @@
 - pkg:maven/org.zalando/riptide-core@2.4.0?classifier=sources
 - pkg:maven/org.zalando/riptide-core@2.5.0
 - pkg:maven/org.zalando/riptide-core@2.5.0?classifier=sources
+- pkg:maven/org.zalando/riptide-core@2.5.1
+- pkg:maven/org.zalando/riptide-core@2.5.1?classifier=sources

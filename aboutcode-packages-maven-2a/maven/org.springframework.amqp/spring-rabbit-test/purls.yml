@@ -28,3 +28,5 @@
 - pkg:maven/org.springframework.amqp/spring-rabbit-test@1.7.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-rabbit-test@1.6.10.RELEASE
 - pkg:maven/org.springframework.amqp/spring-rabbit-test@1.6.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@1.6.11.RELEASE
+- pkg:maven/org.springframework.amqp/spring-rabbit-test@1.6.11.RELEASE?classifier=sources

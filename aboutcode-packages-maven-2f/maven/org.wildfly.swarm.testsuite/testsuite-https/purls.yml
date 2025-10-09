@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-https@2017.9.4?type=war
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-https@2017.9.4?classifier=sources
