@@ -52,3 +52,5 @@
 - pkg:maven/io.wisetime/wisetime-connector@0.0.0-NOT_A_GIT_REPOSITORY?classifier=sources
 - pkg:maven/io.wisetime/wisetime-connector@1.4.0
 - pkg:maven/io.wisetime/wisetime-connector@1.4.0?classifier=sources
+- pkg:maven/io.wisetime/wisetime-connector@2.2.5
+- pkg:maven/io.wisetime/wisetime-connector@2.2.5?classifier=sources

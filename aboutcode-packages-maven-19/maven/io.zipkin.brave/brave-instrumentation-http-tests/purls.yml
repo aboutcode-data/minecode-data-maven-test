@@ -158,3 +158,5 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-http-tests@5.6.10?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-http-tests@5.6.11
 - pkg:maven/io.zipkin.brave/brave-instrumentation-http-tests@5.6.11?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-http-tests@5.7.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-http-tests@5.7.0?classifier=sources

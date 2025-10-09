@@ -40,3 +40,5 @@
 - pkg:maven/io.udash/udash-css_2.12@0.8.0-RC10?classifier=sources
 - pkg:maven/io.udash/udash-css_2.12@0.8.0
 - pkg:maven/io.udash/udash-css_2.12@0.8.0?classifier=sources
+- pkg:maven/io.udash/udash-css_2.12@0.8.0-releasetest
+- pkg:maven/io.udash/udash-css_2.12@0.8.0-releasetest?classifier=sources

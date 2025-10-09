@@ -418,3 +418,7 @@
 - pkg:maven/io.mangoo/mangooio-maven-archetype@5.8.1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-maven-archetype@5.9.0
 - pkg:maven/io.mangoo/mangooio-maven-archetype@5.9.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@5.10.0-RC2
+- pkg:maven/io.mangoo/mangooio-maven-archetype@5.10.0-RC2?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@5.10.0-RC1
+- pkg:maven/io.mangoo/mangooio-maven-archetype@5.10.0-RC1?classifier=sources
