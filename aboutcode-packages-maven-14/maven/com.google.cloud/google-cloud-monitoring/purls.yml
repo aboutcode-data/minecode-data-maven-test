@@ -66,3 +66,5 @@
 - pkg:maven/com.google.cloud/google-cloud-monitoring@0.21.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring@0.21.1-alpha
 - pkg:maven/com.google.cloud/google-cloud-monitoring@0.21.1-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring@0.22.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-monitoring@0.22.0-alpha?classifier=sources

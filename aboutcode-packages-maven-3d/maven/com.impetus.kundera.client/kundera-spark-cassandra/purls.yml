@@ -22,3 +22,5 @@
 - pkg:maven/com.impetus.kundera.client/kundera-spark-cassandra@3.9.1?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-spark-cassandra@3.10
 - pkg:maven/com.impetus.kundera.client/kundera-spark-cassandra@3.10?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-spark-cassandra@3.10.1
+- pkg:maven/com.impetus.kundera.client/kundera-spark-cassandra@3.10.1?classifier=sources

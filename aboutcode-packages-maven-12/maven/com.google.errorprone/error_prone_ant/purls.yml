@@ -98,3 +98,5 @@
 - pkg:maven/com.google.errorprone/error_prone_ant@2.0.21?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_ant@2.0.20
 - pkg:maven/com.google.errorprone/error_prone_ant@2.0.20?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_ant@2.1.0
+- pkg:maven/com.google.errorprone/error_prone_ant@2.1.0?classifier=sources

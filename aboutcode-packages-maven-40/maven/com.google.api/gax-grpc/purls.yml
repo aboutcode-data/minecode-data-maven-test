@@ -28,3 +28,5 @@
 - pkg:maven/com.google.api/gax-grpc@0.23.0?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@0.22.2
 - pkg:maven/com.google.api/gax-grpc@0.22.2?classifier=sources
+- pkg:maven/com.google.api/gax-grpc@0.24.0
+- pkg:maven/com.google.api/gax-grpc@0.24.0?classifier=sources
