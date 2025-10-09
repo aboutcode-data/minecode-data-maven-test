@@ -30,3 +30,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-rest-jackson2@3.5.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-rest-jackson2@3.6.0-02
 - pkg:maven/org.sonatype.nexus/nexus-rest-jackson2@3.6.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-rest-jackson2@3.6.1-02
+- pkg:maven/org.sonatype.nexus/nexus-rest-jackson2@3.6.1-02?classifier=sources

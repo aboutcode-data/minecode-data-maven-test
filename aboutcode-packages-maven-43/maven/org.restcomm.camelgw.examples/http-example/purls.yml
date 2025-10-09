@@ -24,3 +24,5 @@
 - pkg:maven/org.restcomm.camelgw.examples/http-example@7.0.13?classifier=sources
 - pkg:maven/org.restcomm.camelgw.examples/http-example@7.0.14?type=war
 - pkg:maven/org.restcomm.camelgw.examples/http-example@7.0.14?classifier=sources
+- pkg:maven/org.restcomm.camelgw.examples/http-example@7.1.0-64?type=war
+- pkg:maven/org.restcomm.camelgw.examples/http-example@7.1.0-64?classifier=sources

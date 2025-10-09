@@ -36,3 +36,5 @@
 - pkg:maven/org.telegram/telegrambots@3.3?classifier=sources
 - pkg:maven/org.telegram/telegrambots@3.4
 - pkg:maven/org.telegram/telegrambots@3.4?classifier=sources
+- pkg:maven/org.telegram/telegrambots@3.5
+- pkg:maven/org.telegram/telegrambots@3.5?classifier=sources
