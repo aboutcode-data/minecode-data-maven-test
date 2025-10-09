@@ -28,3 +28,5 @@
 - pkg:maven/org.tentackle/tentackle-check-maven-plugin@11.4.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-check-maven-plugin@11.4.0.1
 - pkg:maven/org.tentackle/tentackle-check-maven-plugin@11.4.0.1?classifier=sources
+- pkg:maven/org.tentackle/tentackle-check-maven-plugin@8.2.6.0
+- pkg:maven/org.tentackle/tentackle-check-maven-plugin@8.2.6.0?classifier=sources
