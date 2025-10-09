@@ -48,3 +48,5 @@
 - pkg:maven/io.paradoxical/docker-client@1.24?classifier=sources
 - pkg:maven/io.paradoxical/docker-client@1.26
 - pkg:maven/io.paradoxical/docker-client@1.26?classifier=sources
+- pkg:maven/io.paradoxical/docker-client@1.27
+- pkg:maven/io.paradoxical/docker-client@1.27?classifier=sources

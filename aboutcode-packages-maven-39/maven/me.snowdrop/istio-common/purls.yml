@@ -28,3 +28,5 @@
 - pkg:maven/me.snowdrop/istio-common@1.0.0.Beta4?classifier=sources
 - pkg:maven/me.snowdrop/istio-common@1.0.0
 - pkg:maven/me.snowdrop/istio-common@1.0.0?classifier=sources
+- pkg:maven/me.snowdrop/istio-common@1.0.1
+- pkg:maven/me.snowdrop/istio-common@1.0.1?classifier=sources
