@@ -59,3 +59,5 @@
 - pkg:maven/com.apptentive/apptentive-android@4.1.4?classifier=sources
 - pkg:maven/com.apptentive/apptentive-android@4.0.3?type=aar
 - pkg:maven/com.apptentive/apptentive-android@4.0.3?classifier=sources
+- pkg:maven/com.apptentive/apptentive-android@5.0.2?type=aar
+- pkg:maven/com.apptentive/apptentive-android@5.0.2?classifier=sources

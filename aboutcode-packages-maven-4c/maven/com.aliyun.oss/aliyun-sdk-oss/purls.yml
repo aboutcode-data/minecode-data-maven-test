@@ -60,3 +60,7 @@
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.2?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.3
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.8.3?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0-for-dtc
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0-for-dtc?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0?classifier=sources
