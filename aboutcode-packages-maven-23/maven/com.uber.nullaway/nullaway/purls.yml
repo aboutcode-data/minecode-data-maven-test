@@ -54,3 +54,7 @@
 - pkg:maven/com.uber.nullaway/nullaway@0.4.7?classifier=sources
 - pkg:maven/com.uber.nullaway/nullaway@0.5.0
 - pkg:maven/com.uber.nullaway/nullaway@0.5.0?classifier=sources
+- pkg:maven/com.uber.nullaway/nullaway@0.5.2
+- pkg:maven/com.uber.nullaway/nullaway@0.5.2?classifier=sources
+- pkg:maven/com.uber.nullaway/nullaway@0.5.1
+- pkg:maven/com.uber.nullaway/nullaway@0.5.1?classifier=sources

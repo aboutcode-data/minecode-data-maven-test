@@ -30,3 +30,5 @@
 - pkg:maven/com.squareup/connect@2.9.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.20180712.0
 - pkg:maven/com.squareup/connect@2.20180712.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.20180712.1
+- pkg:maven/com.squareup/connect@2.20180712.1?classifier=sources
