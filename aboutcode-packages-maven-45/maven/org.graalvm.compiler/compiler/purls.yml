@@ -8,3 +8,5 @@
 - pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc11?classifier=sources
 - pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc12
 - pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc12?classifier=sources
+- pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc13
+- pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc13?classifier=sources

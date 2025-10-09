@@ -306,3 +306,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-leveldb@9.3.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-leveldb@9.4.8.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-leveldb@9.4.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-leveldb@9.4.9.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-leveldb@9.4.9.Final?classifier=sources

@@ -294,3 +294,5 @@
 - pkg:maven/org.infinispan.server/infinispan-server-endpoints@9.4.8.Final?classifier=sources
 - pkg:maven/org.infinispan.server/infinispan-server-endpoints@10.0.0.Beta2
 - pkg:maven/org.infinispan.server/infinispan-server-endpoints@10.0.0.Beta2?classifier=sources
+- pkg:maven/org.infinispan.server/infinispan-server-endpoints@9.4.9.Final
+- pkg:maven/org.infinispan.server/infinispan-server-endpoints@9.4.9.Final?classifier=sources
