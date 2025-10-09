@@ -34,3 +34,5 @@
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.18?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.17?type=war
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.17?classifier=sources
+- pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.19?type=war
+- pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.19?classifier=sources

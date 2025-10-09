@@ -12,3 +12,5 @@
 - pkg:maven/org.jppf/jppf-jmxremote-nio@6.1-alpha-2?classifier=sources
 - pkg:maven/org.jppf/jppf-jmxremote-nio@6.0.2
 - pkg:maven/org.jppf/jppf-jmxremote-nio@6.0.2?classifier=sources
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.1-beta
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.1-beta?classifier=sources

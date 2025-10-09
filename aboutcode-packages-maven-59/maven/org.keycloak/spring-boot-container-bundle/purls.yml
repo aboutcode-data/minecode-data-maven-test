@@ -58,3 +58,5 @@
 - pkg:maven/org.keycloak/spring-boot-container-bundle@4.8.2.Final?classifier=sources
 - pkg:maven/org.keycloak/spring-boot-container-bundle@4.8.3.Final
 - pkg:maven/org.keycloak/spring-boot-container-bundle@4.8.3.Final?classifier=sources
+- pkg:maven/org.keycloak/spring-boot-container-bundle@5.0.0
+- pkg:maven/org.keycloak/spring-boot-container-bundle@5.0.0?classifier=sources
