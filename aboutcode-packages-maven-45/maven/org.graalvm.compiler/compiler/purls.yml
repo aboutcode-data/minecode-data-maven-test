@@ -16,3 +16,5 @@
 - pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc15?classifier=sources
 - pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc16
 - pkg:maven/org.graalvm.compiler/compiler@1.0.0-rc16?classifier=sources
+- pkg:maven/org.graalvm.compiler/compiler@19.0.0
+- pkg:maven/org.graalvm.compiler/compiler@19.0.0?classifier=sources

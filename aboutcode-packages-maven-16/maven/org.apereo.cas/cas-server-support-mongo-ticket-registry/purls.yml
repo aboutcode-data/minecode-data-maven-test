@@ -104,3 +104,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-mongo-ticket-registry@5.3.10?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-mongo-ticket-registry@6.1.0-RC3
 - pkg:maven/org.apereo.cas/cas-server-support-mongo-ticket-registry@6.1.0-RC3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-mongo-ticket-registry@6.0.4
+- pkg:maven/org.apereo.cas/cas-server-support-mongo-ticket-registry@6.0.4?classifier=sources

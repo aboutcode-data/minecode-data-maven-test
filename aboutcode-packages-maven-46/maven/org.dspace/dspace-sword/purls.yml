@@ -88,3 +88,5 @@
 - pkg:maven/org.dspace/dspace-sword@4.9?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@5.10?type=war
 - pkg:maven/org.dspace/dspace-sword@5.10?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@7.0-preview-1?type=war
+- pkg:maven/org.dspace/dspace-sword@7.0-preview-1?classifier=sources

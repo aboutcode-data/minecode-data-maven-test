@@ -98,3 +98,7 @@
 - pkg:maven/org.http4k/http4k-cloudnative@3.142.0?classifier=sources
 - pkg:maven/org.http4k/http4k-cloudnative@3.141.0
 - pkg:maven/org.http4k/http4k-cloudnative@3.141.0?classifier=sources
+- pkg:maven/org.http4k/http4k-cloudnative@3.143.1
+- pkg:maven/org.http4k/http4k-cloudnative@3.143.1?classifier=sources
+- pkg:maven/org.http4k/http4k-cloudnative@3.143.0
+- pkg:maven/org.http4k/http4k-cloudnative@3.143.0?classifier=sources

@@ -402,3 +402,7 @@
 - pkg:maven/org.javers/javers-persistence-mongo@5.4.0-RC?classifier=sources
 - pkg:maven/org.javers/javers-persistence-mongo@5.4.0
 - pkg:maven/org.javers/javers-persistence-mongo@5.4.0?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@5.5.0-RC1
+- pkg:maven/org.javers/javers-persistence-mongo@5.5.0-RC1?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@5.5.0
+- pkg:maven/org.javers/javers-persistence-mongo@5.5.0?classifier=sources

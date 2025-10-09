@@ -102,3 +102,5 @@
 - pkg:maven/org.dspace/dspace-swordv2@4.9?classifier=sources
 - pkg:maven/org.dspace/dspace-swordv2@5.10?type=war
 - pkg:maven/org.dspace/dspace-swordv2@5.10?classifier=sources
+- pkg:maven/org.dspace/dspace-swordv2@7.0-preview-1?type=war
+- pkg:maven/org.dspace/dspace-swordv2@7.0-preview-1?classifier=sources

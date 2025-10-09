@@ -88,3 +88,5 @@
 - pkg:maven/org.dspace/dspace-services@4.9?classifier=sources
 - pkg:maven/org.dspace/dspace-services@5.10
 - pkg:maven/org.dspace/dspace-services@5.10?classifier=sources
+- pkg:maven/org.dspace/dspace-services@7.0-preview-1
+- pkg:maven/org.dspace/dspace-services@7.0-preview-1?classifier=sources

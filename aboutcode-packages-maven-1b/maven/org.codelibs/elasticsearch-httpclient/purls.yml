@@ -4,3 +4,5 @@
 - pkg:maven/org.codelibs/elasticsearch-httpclient@6.6.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-httpclient@7.0.0
 - pkg:maven/org.codelibs/elasticsearch-httpclient@7.0.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-httpclient@7.0.1
+- pkg:maven/org.codelibs/elasticsearch-httpclient@7.0.1?classifier=sources

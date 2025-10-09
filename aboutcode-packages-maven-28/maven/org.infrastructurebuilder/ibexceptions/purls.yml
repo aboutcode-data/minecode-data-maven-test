@@ -1,0 +1,4 @@
+- pkg:maven/org.infrastructurebuilder/ibexceptions@2
+- pkg:maven/org.infrastructurebuilder/ibexceptions@2?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibexceptions@1
+- pkg:maven/org.infrastructurebuilder/ibexceptions@1?classifier=sources
