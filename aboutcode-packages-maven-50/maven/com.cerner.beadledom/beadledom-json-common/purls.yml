@@ -10,3 +10,5 @@
 - pkg:maven/com.cerner.beadledom/beadledom-json-common@2.8?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-json-common@3.0
 - pkg:maven/com.cerner.beadledom/beadledom-json-common@3.0?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-json-common@3.1
+- pkg:maven/com.cerner.beadledom/beadledom-json-common@3.1?classifier=sources

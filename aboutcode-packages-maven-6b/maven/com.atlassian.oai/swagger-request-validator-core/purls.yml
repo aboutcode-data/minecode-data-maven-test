@@ -86,3 +86,5 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-core@2.0.0-rc3?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-core@1.5.0
 - pkg:maven/com.atlassian.oai/swagger-request-validator-core@1.5.0?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-core@2.0.0
+- pkg:maven/com.atlassian.oai/swagger-request-validator-core@2.0.0?classifier=sources

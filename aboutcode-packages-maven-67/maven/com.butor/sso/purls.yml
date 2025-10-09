@@ -30,3 +30,5 @@
 - pkg:maven/com.butor/sso@1.0.20?classifier=sources
 - pkg:maven/com.butor/sso@1.0.22?type=war
 - pkg:maven/com.butor/sso@1.0.22?classifier=sources
+- pkg:maven/com.butor/sso@1.0.23?type=war
+- pkg:maven/com.butor/sso@1.0.23?classifier=sources

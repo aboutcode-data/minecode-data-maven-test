@@ -56,3 +56,7 @@
 - pkg:maven/uk.gov.gchq.gaffer/federated-store@1.6.0-RC2?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/federated-store@1.6.0
 - pkg:maven/uk.gov.gchq.gaffer/federated-store@1.6.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/federated-store@1.7.0-RC2
+- pkg:maven/uk.gov.gchq.gaffer/federated-store@1.7.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/federated-store@1.7.0-RC1
+- pkg:maven/uk.gov.gchq.gaffer/federated-store@1.7.0-RC1?classifier=sources

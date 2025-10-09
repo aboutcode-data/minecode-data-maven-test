@@ -18,3 +18,5 @@
 - pkg:maven/com.cerner.beadledom/beadledom-core@2.8?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-core@3.0
 - pkg:maven/com.cerner.beadledom/beadledom-core@3.0?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-core@3.1
+- pkg:maven/com.cerner.beadledom/beadledom-core@3.1?classifier=sources
