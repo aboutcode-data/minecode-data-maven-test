@@ -40,3 +40,5 @@
 - pkg:maven/org.wso2.carbon.config/org.wso2.carbon.config.test.coverage@1.0.1?classifier=sources
 - pkg:maven/org.wso2.carbon.config/org.wso2.carbon.config.test.coverage@1.0.0
 - pkg:maven/org.wso2.carbon.config/org.wso2.carbon.config.test.coverage@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.config/org.wso2.carbon.config.test.coverage@2.1.15
+- pkg:maven/org.wso2.carbon.config/org.wso2.carbon.config.test.coverage@2.1.15?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@1.4.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@1.4.6?type=war
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@1.4.6?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@1.4.10?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@1.4.10?classifier=sources

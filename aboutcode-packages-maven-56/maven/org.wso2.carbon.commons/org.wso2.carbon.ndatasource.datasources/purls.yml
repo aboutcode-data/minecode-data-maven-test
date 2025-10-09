@@ -252,3 +252,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.datasources@4.4.0
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.datasources@4.4.0?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.datasources@4.3.6
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.datasources@4.7.12
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.datasources@4.7.12?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.ndatasource.datasources@4.7.12?classifier=source-release&type=zip

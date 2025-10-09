@@ -262,3 +262,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer.subversion@4.2.5?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer.subversion@4.2.4
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer.subversion@4.2.4?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer.subversion@4.7.12
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer.subversion@4.7.12?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer.subversion@4.7.12?classifier=source-release&type=zip
