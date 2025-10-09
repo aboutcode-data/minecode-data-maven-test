@@ -32,3 +32,5 @@
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-base@4.2.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-base@4.2.8
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-base@4.2.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-base@4.3.0
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-base@4.3.0?classifier=sources

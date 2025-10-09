@@ -136,3 +136,7 @@
 - pkg:maven/org.kuali.rice/rice-standalone@2.3.13?classifier=sources
 - pkg:maven/org.kuali.rice/rice-standalone@2.1.16?type=war
 - pkg:maven/org.kuali.rice/rice-standalone@2.1.16?classifier=sources
+- pkg:maven/org.kuali.rice/rice-standalone@2.5.17?type=war
+- pkg:maven/org.kuali.rice/rice-standalone@2.5.17?classifier=sources
+- pkg:maven/org.kuali.rice/rice-standalone@2.5.16?type=war
+- pkg:maven/org.kuali.rice/rice-standalone@2.5.16?classifier=sources

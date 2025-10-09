@@ -36,3 +36,5 @@
 - pkg:maven/org.jlot/jlot-web@0.105?classifier=sources
 - pkg:maven/org.jlot/jlot-web@0.111?type=war
 - pkg:maven/org.jlot/jlot-web@0.111?classifier=sources
+- pkg:maven/org.jlot/jlot-web@0.112?type=war
+- pkg:maven/org.jlot/jlot-web@0.112?classifier=sources

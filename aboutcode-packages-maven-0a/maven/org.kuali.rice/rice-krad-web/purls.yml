@@ -60,3 +60,7 @@
 - pkg:maven/org.kuali.rice/rice-krad-web@2.5.15?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krad-web@2.3.13?type=war
 - pkg:maven/org.kuali.rice/rice-krad-web@2.3.13?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-web@2.5.17?type=war
+- pkg:maven/org.kuali.rice/rice-krad-web@2.5.17?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-web@2.5.16?type=war
+- pkg:maven/org.kuali.rice/rice-krad-web@2.5.16?classifier=sources

@@ -266,3 +266,5 @@
 - pkg:maven/org.neo4j/server-api@3.1.0-M08?classifier=sources
 - pkg:maven/org.neo4j/server-api@2.3.7
 - pkg:maven/org.neo4j/server-api@2.3.7?classifier=sources
+- pkg:maven/org.neo4j/server-api@3.0.5
+- pkg:maven/org.neo4j/server-api@3.0.5?classifier=sources
