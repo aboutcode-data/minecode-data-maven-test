@@ -30,3 +30,7 @@
 - pkg:maven/com.hubspot/HorizonApache@0.0.21?classifier=sources
 - pkg:maven/com.hubspot/HorizonApache@0.0.20
 - pkg:maven/com.hubspot/HorizonApache@0.0.20?classifier=sources
+- pkg:maven/com.hubspot/HorizonApache@0.0.24
+- pkg:maven/com.hubspot/HorizonApache@0.0.24?classifier=sources
+- pkg:maven/com.hubspot/HorizonApache@0.0.22
+- pkg:maven/com.hubspot/HorizonApache@0.0.22?classifier=sources

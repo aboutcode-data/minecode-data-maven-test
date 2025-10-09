@@ -36,3 +36,15 @@
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.9?classifier=sources
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.10?type=war
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.10?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.16?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.16?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.15?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.15?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.14?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.14?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.13?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.13?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.12?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.12?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.11?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.11?classifier=sources

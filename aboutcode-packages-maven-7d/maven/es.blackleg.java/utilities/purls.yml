@@ -12,3 +12,5 @@
 - pkg:maven/es.blackleg.java/utilities@1.12?classifier=sources
 - pkg:maven/es.blackleg.java/utilities@1.11
 - pkg:maven/es.blackleg.java/utilities@1.11?classifier=sources
+- pkg:maven/es.blackleg.java/utilities@1.15
+- pkg:maven/es.blackleg.java/utilities@1.15?classifier=sources
