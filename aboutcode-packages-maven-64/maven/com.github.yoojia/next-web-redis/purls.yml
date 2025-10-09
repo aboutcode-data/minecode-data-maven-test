@@ -1,2 +1,6 @@
 - pkg:maven/com.github.yoojia/next-web-redis@1.1
 - pkg:maven/com.github.yoojia/next-web-redis@1.1?classifier=sources
+- pkg:maven/com.github.yoojia/next-web-redis@2.a.16-1
+- pkg:maven/com.github.yoojia/next-web-redis@2.a.16-1?classifier=sources
+- pkg:maven/com.github.yoojia/next-web-redis@2.a.16
+- pkg:maven/com.github.yoojia/next-web-redis@2.a.16?classifier=sources

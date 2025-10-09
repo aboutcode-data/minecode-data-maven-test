@@ -36,3 +36,5 @@
 - pkg:maven/com.github.os72/protoc-jar-maven-plugin@3.0.0-b3?classifier=sources
 - pkg:maven/com.github.os72/protoc-jar-maven-plugin@3.0.0-b4
 - pkg:maven/com.github.os72/protoc-jar-maven-plugin@3.0.0-b4?classifier=sources
+- pkg:maven/com.github.os72/protoc-jar-maven-plugin@3.0.0
+- pkg:maven/com.github.os72/protoc-jar-maven-plugin@3.0.0?classifier=sources

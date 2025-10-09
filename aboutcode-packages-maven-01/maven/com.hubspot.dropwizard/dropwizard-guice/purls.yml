@@ -46,3 +46,5 @@
 - pkg:maven/com.hubspot.dropwizard/dropwizard-guice@0.8.4.0?classifier=sources
 - pkg:maven/com.hubspot.dropwizard/dropwizard-guice@0.6.6
 - pkg:maven/com.hubspot.dropwizard/dropwizard-guice@0.6.6?classifier=sources
+- pkg:maven/com.hubspot.dropwizard/dropwizard-guice@1.0.0
+- pkg:maven/com.hubspot.dropwizard/dropwizard-guice@1.0.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.12.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@5.0.19
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@6.0.12
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@6.0.12?classifier=sources

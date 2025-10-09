@@ -138,3 +138,5 @@
 - pkg:maven/com.netflix.servo/servo-core@0.12.8?classifier=sources
 - pkg:maven/com.netflix.servo/servo-core@0.12.7
 - pkg:maven/com.netflix.servo/servo-core@0.12.7?classifier=sources
+- pkg:maven/com.netflix.servo/servo-core@0.12.9
+- pkg:maven/com.netflix.servo/servo-core@0.12.9?classifier=sources

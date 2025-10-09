@@ -38,3 +38,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@2.12.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@5.0.19
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@6.0.12
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@6.0.12?classifier=sources

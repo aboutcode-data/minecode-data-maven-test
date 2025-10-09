@@ -34,3 +34,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-guice-bridge@2.12.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-guice-bridge@5.0.19
 - pkg:maven/com.linkedin.pegasus/restli-guice-bridge@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-guice-bridge@6.0.12
+- pkg:maven/com.linkedin.pegasus/restli-guice-bridge@6.0.12?classifier=sources
