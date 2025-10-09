@@ -37,3 +37,6 @@
 - pkg:maven/org.testobject/testobject-java-api@0.1.14?classifier=sources
 - pkg:maven/org.testobject/testobject-java-api@0.1.13?classifier=sources
 - pkg:maven/org.testobject/testobject-java-api@0.1.12?classifier=sources
+- pkg:maven/org.testobject/testobject-java-api@0.2.1
+- pkg:maven/org.testobject/testobject-java-api@0.2.1?classifier=sources
+- pkg:maven/org.testobject/testobject-java-api@0.2.0?classifier=sources

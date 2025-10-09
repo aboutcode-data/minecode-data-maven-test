@@ -94,3 +94,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@7.0?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@6.7.3?type=war
 - pkg:maven/org.sonarsource.sonarqube/sonar-web@6.7.3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@6.7.4?type=war
+- pkg:maven/org.sonarsource.sonarqube/sonar-web@6.7.4?classifier=sources

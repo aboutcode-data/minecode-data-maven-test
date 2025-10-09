@@ -62,3 +62,5 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugins@1.0.0.CR11?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugins@1.0.0.CR10
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugins@1.0.0.CR10?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugins@1.0.0.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugins@1.0.0.Final?classifier=sources
