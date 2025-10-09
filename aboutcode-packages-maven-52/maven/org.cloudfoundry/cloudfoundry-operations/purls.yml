@@ -68,3 +68,7 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-operations@2.18.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-operations@2.19.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-operations@2.19.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-operations@3.0.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-operations@3.0.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-operations@2.20.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-operations@2.20.0.RELEASE?classifier=sources

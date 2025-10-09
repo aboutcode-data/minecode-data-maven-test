@@ -55,3 +55,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-client@3.0.0-alpha4
 - pkg:maven/org.apache.hadoop/hadoop-client@2.7.4
 - pkg:maven/org.apache.hadoop/hadoop-client@2.7.4?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-client@3.0.0-beta1

@@ -32,3 +32,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-stream-kinesis@0.5.2?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-stream-kinesis@0.6.1
 - pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-stream-kinesis@0.6.1?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-stream-kinesis@0.7.0
+- pkg:maven/io.zipkin.aws/zipkin-sparkstreaming-stream-kinesis@0.7.0?classifier=sources

@@ -78,3 +78,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-common@3.0.0-alpha4
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-common@2.7.4
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-common@2.7.4?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-common@3.0.0-beta1
