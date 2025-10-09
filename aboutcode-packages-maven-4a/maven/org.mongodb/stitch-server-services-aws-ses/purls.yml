@@ -4,3 +4,5 @@
 - pkg:maven/org.mongodb/stitch-server-services-aws-ses@4.0.0-beta-3?classifier=sources
 - pkg:maven/org.mongodb/stitch-server-services-aws-ses@4.0.0-beta-4
 - pkg:maven/org.mongodb/stitch-server-services-aws-ses@4.0.0-beta-4?classifier=sources
+- pkg:maven/org.mongodb/stitch-server-services-aws-ses@4.0.0
+- pkg:maven/org.mongodb/stitch-server-services-aws-ses@4.0.0?classifier=sources

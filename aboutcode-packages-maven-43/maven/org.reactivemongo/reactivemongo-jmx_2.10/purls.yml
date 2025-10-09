@@ -30,3 +30,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.10@0.12.7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.10@0.13.0
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.10@0.13.0?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-jmx_2.10@0.14.0
+- pkg:maven/org.reactivemongo/reactivemongo-jmx_2.10@0.14.0?classifier=sources
