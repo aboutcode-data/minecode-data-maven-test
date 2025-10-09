@@ -48,3 +48,7 @@
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.5.0-alpha2?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.4.1-update3?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.4.1-update3?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.5.0-alpha3?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.5.0-alpha3?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.4.1-update4?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.4.1-update4?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/tech.sourced/engine@0.5.1?classifier=sources
 - pkg:maven/tech.sourced/engine@0.5.0
 - pkg:maven/tech.sourced/engine@0.5.0?classifier=sources
+- pkg:maven/tech.sourced/engine@0.5.2
+- pkg:maven/tech.sourced/engine@0.5.2?classifier=sources

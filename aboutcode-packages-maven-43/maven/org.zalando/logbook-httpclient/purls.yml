@@ -60,3 +60,5 @@
 - pkg:maven/org.zalando/logbook-httpclient@1.5.5?classifier=sources
 - pkg:maven/org.zalando/logbook-httpclient@1.5.4
 - pkg:maven/org.zalando/logbook-httpclient@1.5.4?classifier=sources
+- pkg:maven/org.zalando/logbook-httpclient@1.6.0
+- pkg:maven/org.zalando/logbook-httpclient@1.6.0?classifier=sources
