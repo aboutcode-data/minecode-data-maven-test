@@ -189,3 +189,7 @@
 - pkg:maven/org.apache.camel/camel-testng@2.22.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-testng@2.21.5
 - pkg:maven/org.apache.camel/camel-testng@2.21.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-testng@2.23.2
+- pkg:maven/org.apache.camel/camel-testng@2.23.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-testng@2.22.4
+- pkg:maven/org.apache.camel/camel-testng@2.22.4?classifier=sources

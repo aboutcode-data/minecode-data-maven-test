@@ -152,3 +152,5 @@
 - pkg:maven/org.apache.camel/apache-camel@2.21.5?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.0.0-M1?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.0.0-M2?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.23.2?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.22.4?classifier=src&type=zip

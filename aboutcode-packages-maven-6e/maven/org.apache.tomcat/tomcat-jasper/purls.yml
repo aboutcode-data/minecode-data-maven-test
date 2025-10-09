@@ -347,3 +347,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-jasper@8.5.39
 - pkg:maven/org.apache.tomcat/tomcat-jasper@8.5.39?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jasper@9.0.19
+- pkg:maven/org.apache.tomcat/tomcat-jasper@9.0.19?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jasper@8.5.40
+- pkg:maven/org.apache.tomcat/tomcat-jasper@8.5.40?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jasper@7.0.94
+- pkg:maven/org.apache.tomcat/tomcat-jasper@7.0.94?classifier=sources
