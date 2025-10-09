@@ -106,3 +106,5 @@
 - pkg:maven/org.infinispan/infinispan-cli-interpreter@8.1.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-interpreter@8.2.5.Final
 - pkg:maven/org.infinispan/infinispan-cli-interpreter@8.2.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-interpreter@9.0.0.Beta1
+- pkg:maven/org.infinispan/infinispan-cli-interpreter@9.0.0.Beta1?classifier=sources

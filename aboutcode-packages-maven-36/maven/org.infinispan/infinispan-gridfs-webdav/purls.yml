@@ -271,3 +271,5 @@
 - pkg:maven/org.infinispan/infinispan-gridfs-webdav@8.1.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gridfs-webdav@8.2.5.Final?type=war
 - pkg:maven/org.infinispan/infinispan-gridfs-webdav@8.2.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gridfs-webdav@9.0.0.Beta1?type=war
+- pkg:maven/org.infinispan/infinispan-gridfs-webdav@9.0.0.Beta1?classifier=sources
