@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon/flow@1.0
 - pkg:maven/software.amazon/flow@1.0?classifier=sources
+- pkg:maven/software.amazon/flow@1.1
+- pkg:maven/software.amazon/flow@1.1?classifier=sources

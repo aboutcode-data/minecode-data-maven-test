@@ -22,3 +22,5 @@
 - pkg:maven/software.amazon.awssdk/cloudwatch@2.0.0-preview-11?classifier=sources
 - pkg:maven/software.amazon.awssdk/cloudwatch@2.0.0
 - pkg:maven/software.amazon.awssdk/cloudwatch@2.0.0?classifier=sources
+- pkg:maven/software.amazon.awssdk/cloudwatch@2.0.1
+- pkg:maven/software.amazon.awssdk/cloudwatch@2.0.1?classifier=sources

@@ -134,3 +134,5 @@
 - pkg:maven/org.zanata/zanata-maven-plugin@4.6.0-rc-2?classifier=sources
 - pkg:maven/org.zanata/zanata-maven-plugin@4.6.0
 - pkg:maven/org.zanata/zanata-maven-plugin@4.6.0?classifier=sources
+- pkg:maven/org.zanata/zanata-maven-plugin@4.6.1
+- pkg:maven/org.zanata/zanata-maven-plugin@4.6.1?classifier=sources
