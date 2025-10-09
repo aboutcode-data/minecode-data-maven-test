@@ -438,3 +438,5 @@
 - pkg:maven/io.undertow/undertow-servlet@2.0.5.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-servlet@1.4.25.Final
 - pkg:maven/io.undertow/undertow-servlet@1.4.25.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-servlet@2.0.7.Final
+- pkg:maven/io.undertow/undertow-servlet@2.0.7.Final?classifier=sources

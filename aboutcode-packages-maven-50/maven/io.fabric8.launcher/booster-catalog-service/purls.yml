@@ -37,3 +37,6 @@
 - pkg:maven/io.fabric8.launcher/booster-catalog-service@32
 - pkg:maven/io.fabric8.launcher/booster-catalog-service@32?classifier=sources
 - pkg:maven/io.fabric8.launcher/booster-catalog-service@32?classifier=source-release&type=zip
+- pkg:maven/io.fabric8.launcher/booster-catalog-service@33
+- pkg:maven/io.fabric8.launcher/booster-catalog-service@33?classifier=sources
+- pkg:maven/io.fabric8.launcher/booster-catalog-service@33?classifier=source-release&type=zip

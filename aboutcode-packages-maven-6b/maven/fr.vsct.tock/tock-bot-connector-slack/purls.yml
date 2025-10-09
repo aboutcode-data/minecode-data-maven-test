@@ -24,3 +24,5 @@
 - pkg:maven/fr.vsct.tock/tock-bot-connector-slack@0.9.4?classifier=sources
 - pkg:maven/fr.vsct.tock/tock-bot-connector-slack@1.0.0-rc0
 - pkg:maven/fr.vsct.tock/tock-bot-connector-slack@1.0.0-rc0?classifier=sources
+- pkg:maven/fr.vsct.tock/tock-bot-connector-slack@1.0.0
+- pkg:maven/fr.vsct.tock/tock-bot-connector-slack@1.0.0?classifier=sources

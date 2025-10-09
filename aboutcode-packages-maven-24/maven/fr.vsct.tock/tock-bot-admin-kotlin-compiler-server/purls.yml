@@ -10,3 +10,5 @@
 - pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler-server@0.9.4?classifier=sources
 - pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler-server@1.0.0-rc0
 - pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler-server@1.0.0-rc0?classifier=sources
+- pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler-server@1.0.0
+- pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler-server@1.0.0?classifier=sources
