@@ -196,3 +196,5 @@
 - pkg:maven/com.github.javaparser/javaparser-core-generators@3.13.9?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-core-generators@3.13.10
 - pkg:maven/com.github.javaparser/javaparser-core-generators@3.13.10?classifier=sources
+- pkg:maven/com.github.javaparser/javaparser-core-generators@3.14.0
+- pkg:maven/com.github.javaparser/javaparser-core-generators@3.14.0?classifier=sources

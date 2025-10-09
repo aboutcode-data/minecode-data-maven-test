@@ -20,3 +20,5 @@
 - pkg:maven/com.indigitall/android@1.2.7?classifier=sources
 - pkg:maven/com.indigitall/android@1.2.9?type=aar
 - pkg:maven/com.indigitall/android@1.2.9?classifier=sources
+- pkg:maven/com.indigitall/android@1.2.10?type=aar
+- pkg:maven/com.indigitall/android@1.2.10?classifier=sources

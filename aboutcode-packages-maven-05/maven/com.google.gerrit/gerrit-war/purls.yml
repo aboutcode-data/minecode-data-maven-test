@@ -112,3 +112,5 @@
 - pkg:maven/com.google.gerrit/gerrit-war@2.13.14?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.0.0-rc1?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.13?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.0.0-rc2?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.16.8?type=war
