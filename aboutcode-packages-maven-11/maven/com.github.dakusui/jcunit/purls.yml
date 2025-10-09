@@ -108,3 +108,5 @@
 - pkg:maven/com.github.dakusui/jcunit@0.8.8?classifier=sources
 - pkg:maven/com.github.dakusui/jcunit@0.8.7
 - pkg:maven/com.github.dakusui/jcunit@0.8.7?classifier=sources
+- pkg:maven/com.github.dakusui/jcunit@0.8.10
+- pkg:maven/com.github.dakusui/jcunit@0.8.10?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/com.cedarsoftware/java-util@1.26.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@1.26.1
 - pkg:maven/com.cedarsoftware/java-util@1.26.1?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@1.27.0
+- pkg:maven/com.cedarsoftware/java-util@1.27.0?classifier=sources

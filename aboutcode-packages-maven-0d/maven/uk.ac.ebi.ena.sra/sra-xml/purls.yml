@@ -26,3 +26,9 @@
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.32?classifier=sources
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.33
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.33?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@ADD_AGP_UNLOCALISED_LIST
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@ADD_AGP_UNLOCALISED_LIST?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.34
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.34?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.33_ADD_AGP_UNLOCALISED_LIST
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.33_ADD_AGP_UNLOCALISED_LIST?classifier=sources
