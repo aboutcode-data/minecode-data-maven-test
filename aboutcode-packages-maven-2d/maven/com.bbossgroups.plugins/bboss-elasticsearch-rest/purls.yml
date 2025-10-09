@@ -260,3 +260,7 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.8.8?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.8.9
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.8.9?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.9.1
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.9.1?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.9.0
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@5.9.0?classifier=sources

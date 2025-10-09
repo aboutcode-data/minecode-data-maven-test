@@ -1562,3 +1562,11 @@
 - pkg:maven/ch.epfl.lamp/scala-library@0.20.0-RC1?classifier=sources
 - pkg:maven/ch.epfl.lamp/scala-library@0.19.0
 - pkg:maven/ch.epfl.lamp/scala-library@0.19.0?classifier=sources
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191111-bc87529-NIGHTLY
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191111-bc87529-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191107-3cb93f3-NIGHTLY
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191107-3cb93f3-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191106-f44f09f-NIGHTLY
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191106-f44f09f-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191105-22e64e2-NIGHTLY
+- pkg:maven/ch.epfl.lamp/scala-library@0.21.0-bin-20191105-22e64e2-NIGHTLY?classifier=sources

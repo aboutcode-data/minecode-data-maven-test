@@ -36,3 +36,5 @@
 - pkg:maven/com.baidu.hugegraph/hugegraph-client@1.7.9?classifier=sources
 - pkg:maven/com.baidu.hugegraph/hugegraph-client@1.7.10
 - pkg:maven/com.baidu.hugegraph/hugegraph-client@1.7.10?classifier=sources
+- pkg:maven/com.baidu.hugegraph/hugegraph-client@1.8.0
+- pkg:maven/com.baidu.hugegraph/hugegraph-client@1.8.0?classifier=sources
