@@ -105,3 +105,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@4.10.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@4.11.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@4.11.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@4.13.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-client-lib@4.13.0?classifier=sources

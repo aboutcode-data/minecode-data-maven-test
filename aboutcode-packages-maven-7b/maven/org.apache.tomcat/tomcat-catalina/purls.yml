@@ -300,3 +300,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.0.51?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.86
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.86?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.8
+- pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.8?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.31
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.31?classifier=sources

@@ -157,3 +157,7 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.2.1.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.2.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.3.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.2.2.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.2.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@8.2.11.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@8.2.11.Final?classifier=sources

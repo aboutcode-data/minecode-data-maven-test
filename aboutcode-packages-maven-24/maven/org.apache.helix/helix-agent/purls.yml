@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.helix/helix-agent@0.6.9?classifier=sources
 - pkg:maven/org.apache.helix/helix-agent@0.8.0
 - pkg:maven/org.apache.helix/helix-agent@0.8.0?classifier=sources
+- pkg:maven/org.apache.helix/helix-agent@0.8.1
+- pkg:maven/org.apache.helix/helix-agent@0.8.1?classifier=sources

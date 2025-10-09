@@ -129,3 +129,5 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.10.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.11.0?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.11.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.13.0?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.13.0?classifier=sources
