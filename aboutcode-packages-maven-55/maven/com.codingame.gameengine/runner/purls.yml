@@ -110,3 +110,5 @@
 - pkg:maven/com.codingame.gameengine/runner@2.15?classifier=sources
 - pkg:maven/com.codingame.gameengine/runner@3.0.0
 - pkg:maven/com.codingame.gameengine/runner@3.0.0?classifier=sources
+- pkg:maven/com.codingame.gameengine/runner@3.1.0
+- pkg:maven/com.codingame.gameengine/runner@3.1.0?classifier=sources

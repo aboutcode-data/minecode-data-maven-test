@@ -60,3 +60,5 @@
 - pkg:maven/com.crobox.clickhouse/client_2.11@0.8.11?classifier=sources
 - pkg:maven/com.crobox.clickhouse/client_2.11@0.8.10
 - pkg:maven/com.crobox.clickhouse/client_2.11@0.8.10?classifier=sources
+- pkg:maven/com.crobox.clickhouse/client_2.11@0.8.13
+- pkg:maven/com.crobox.clickhouse/client_2.11@0.8.13?classifier=sources
