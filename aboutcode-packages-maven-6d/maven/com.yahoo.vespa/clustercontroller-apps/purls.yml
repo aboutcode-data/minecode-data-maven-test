@@ -158,3 +158,5 @@
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@7.26.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@7.25.26?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@7.24.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@7.28.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@7.27.24?classifier=sources
