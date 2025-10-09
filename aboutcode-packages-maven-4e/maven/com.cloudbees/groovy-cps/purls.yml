@@ -64,3 +64,5 @@
 - pkg:maven/com.cloudbees/groovy-cps@1.23?classifier=sources
 - pkg:maven/com.cloudbees/groovy-cps@1.24
 - pkg:maven/com.cloudbees/groovy-cps@1.24?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps@1.27
+- pkg:maven/com.cloudbees/groovy-cps@1.27?classifier=sources

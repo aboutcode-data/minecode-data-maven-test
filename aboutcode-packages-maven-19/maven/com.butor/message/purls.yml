@@ -18,3 +18,5 @@
 - pkg:maven/com.butor/message@1.0.18?classifier=sources
 - pkg:maven/com.butor/message@1.0.19?type=war
 - pkg:maven/com.butor/message@1.0.19?classifier=sources
+- pkg:maven/com.butor/message@1.0.24?type=war
+- pkg:maven/com.butor/message@1.0.24?classifier=sources
