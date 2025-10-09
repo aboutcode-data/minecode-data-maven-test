@@ -76,3 +76,5 @@
 - pkg:maven/org.kaazing/gateway.transport@5.0.1.54?classifier=sources
 - pkg:maven/org.kaazing/gateway.transport@5.0.1.53
 - pkg:maven/org.kaazing/gateway.transport@5.0.1.53?classifier=sources
+- pkg:maven/org.kaazing/gateway.transport@5.1.0-RC004
+- pkg:maven/org.kaazing/gateway.transport@5.1.0-RC004?classifier=sources

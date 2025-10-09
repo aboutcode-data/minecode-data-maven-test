@@ -1,2 +1,4 @@
 - pkg:maven/org.forgerock.cuppa/cuppa-junit@1.0.0
 - pkg:maven/org.forgerock.cuppa/cuppa-junit@1.0.0?classifier=sources
+- pkg:maven/org.forgerock.cuppa/cuppa-junit@1.1.0
+- pkg:maven/org.forgerock.cuppa/cuppa-junit@1.1.0?classifier=sources

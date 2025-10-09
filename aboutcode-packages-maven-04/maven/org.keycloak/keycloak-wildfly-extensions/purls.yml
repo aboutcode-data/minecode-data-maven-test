@@ -42,3 +42,5 @@
 - pkg:maven/org.keycloak/keycloak-wildfly-extensions@1.9.0.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-extensions@1.9.1.Final
 - pkg:maven/org.keycloak/keycloak-wildfly-extensions@1.9.1.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-extensions@1.9.2.Final
+- pkg:maven/org.keycloak/keycloak-wildfly-extensions@1.9.2.Final?classifier=sources
