@@ -36,3 +36,7 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-rest-client@3.9.3?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-rest-client@3.11
 - pkg:maven/de.adorsys.ledgers/ledgers-rest-client@3.11?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-rest-client@5.0
+- pkg:maven/de.adorsys.ledgers/ledgers-rest-client@5.0?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-rest-client@4.0
+- pkg:maven/de.adorsys.ledgers/ledgers-rest-client@4.0?classifier=sources
