@@ -24,3 +24,7 @@
 - pkg:maven/com.theartos/artos@0.0.11?classifier=sources
 - pkg:maven/com.theartos/artos@0.0.12
 - pkg:maven/com.theartos/artos@0.0.12?classifier=sources
+- pkg:maven/com.theartos/artos@0.0.13-beta-2
+- pkg:maven/com.theartos/artos@0.0.13-beta-2?classifier=sources
+- pkg:maven/com.theartos/artos@0.0.13-beta-1
+- pkg:maven/com.theartos/artos@0.0.13-beta-1?classifier=sources

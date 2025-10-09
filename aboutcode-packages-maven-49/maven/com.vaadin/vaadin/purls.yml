@@ -208,3 +208,6 @@
 - pkg:maven/com.vaadin/vaadin@14.0.0
 - pkg:maven/com.vaadin/vaadin@14.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin@13.0.12
+- pkg:maven/com.vaadin/vaadin@14.0.2
+- pkg:maven/com.vaadin/vaadin@14.0.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin@13.0.13

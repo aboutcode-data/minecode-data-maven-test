@@ -24,3 +24,5 @@
 - pkg:maven/com.wavefront/wavefront-sdk-java@1.11?classifier=sources
 - pkg:maven/com.wavefront/wavefront-sdk-java@1.10
 - pkg:maven/com.wavefront/wavefront-sdk-java@1.10?classifier=sources
+- pkg:maven/com.wavefront/wavefront-sdk-java@1.12
+- pkg:maven/com.wavefront/wavefront-sdk-java@1.12?classifier=sources

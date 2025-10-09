@@ -76,3 +76,5 @@
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.4.8?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@2.0.8
 - pkg:maven/com.vaadin/flow-html-components-testbench@2.0.8?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@1.0.13
+- pkg:maven/com.vaadin/flow-html-components-testbench@1.0.13?classifier=sources
