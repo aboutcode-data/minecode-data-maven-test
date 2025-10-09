@@ -342,3 +342,5 @@
 - pkg:maven/org.neo4j/neo4j-import-tool@3.5.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-import-tool@3.5.8
 - pkg:maven/org.neo4j/neo4j-import-tool@3.5.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-import-tool@3.4.15
+- pkg:maven/org.neo4j/neo4j-import-tool@3.4.15?classifier=sources

@@ -215,3 +215,5 @@
 - pkg:maven/org.uberfire/uberfire-webapp@2.20.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-webapp@2.21.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@2.22.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@2.22.0.Final?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-runtime-util@3.5.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-runtime-util@3.5.8
 - pkg:maven/org.neo4j/neo4j-cypher-runtime-util@3.5.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-runtime-util@3.4.15
+- pkg:maven/org.neo4j/neo4j-cypher-runtime-util@3.4.15?classifier=sources
