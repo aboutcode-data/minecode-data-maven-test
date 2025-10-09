@@ -39,3 +39,5 @@
 - pkg:maven/org.apache.servicemix.tooling.archetypes/servicemix-osgi-bundle@7.0.0.M2?classifier=sources
 - pkg:maven/org.apache.servicemix.tooling.archetypes/servicemix-osgi-bundle@6.1.2?classifier=sources
 - pkg:maven/org.apache.servicemix.tooling.archetypes/servicemix-osgi-bundle@6.0.4?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling.archetypes/servicemix-osgi-bundle@6.1.3?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling.archetypes/servicemix-osgi-bundle@6.0.5?classifier=sources

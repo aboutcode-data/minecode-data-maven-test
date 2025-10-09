@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@0.0.16
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@0.0.16?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@0.0.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.5.13
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.5.13?classifier=sources

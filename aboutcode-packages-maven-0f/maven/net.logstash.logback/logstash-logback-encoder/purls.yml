@@ -58,3 +58,5 @@
 - pkg:maven/net.logstash.logback/logstash-logback-encoder@4.6?classifier=sources
 - pkg:maven/net.logstash.logback/logstash-logback-encoder@4.7
 - pkg:maven/net.logstash.logback/logstash-logback-encoder@4.7?classifier=sources
+- pkg:maven/net.logstash.logback/logstash-logback-encoder@4.8
+- pkg:maven/net.logstash.logback/logstash-logback-encoder@4.8?classifier=sources
