@@ -168,3 +168,5 @@
 - pkg:maven/io.gravitee.gateway.http/gravitee-gateway-http-client-vertx@1.16.6?classifier=sources
 - pkg:maven/io.gravitee.gateway.http/gravitee-gateway-http-client-vertx@1.15.7
 - pkg:maven/io.gravitee.gateway.http/gravitee-gateway-http-client-vertx@1.15.7?classifier=sources
+- pkg:maven/io.gravitee.gateway.http/gravitee-gateway-http-client-vertx@1.15.8
+- pkg:maven/io.gravitee.gateway.http/gravitee-gateway-http-client-vertx@1.15.8?classifier=sources
