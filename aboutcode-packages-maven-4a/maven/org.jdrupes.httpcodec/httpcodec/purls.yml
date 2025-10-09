@@ -10,3 +10,5 @@
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@0.9.12?classifier=sources
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@0.9.13
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@0.9.13?classifier=sources
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.0
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.0?classifier=sources

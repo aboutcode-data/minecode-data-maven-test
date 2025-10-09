@@ -56,3 +56,5 @@
 - pkg:maven/org.dspace/dspace-rest@5.7?classifier=sources
 - pkg:maven/org.dspace/dspace-rest@4.8?type=war
 - pkg:maven/org.dspace/dspace-rest@4.8?classifier=sources
+- pkg:maven/org.dspace/dspace-rest@5.8?type=war
+- pkg:maven/org.dspace/dspace-rest@5.8?classifier=sources

@@ -204,3 +204,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.1.4-2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.1.4
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.1.4?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.1.4-3
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.1.4-3?classifier=sources

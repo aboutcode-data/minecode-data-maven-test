@@ -34,3 +34,5 @@
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@3.0.2?classifier=sources
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@3.0.3?type=war
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@3.0.3?classifier=sources
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@3.0.4?type=war
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@3.0.4?classifier=sources
