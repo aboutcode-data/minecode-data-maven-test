@@ -118,3 +118,5 @@
 - pkg:maven/com.android.tools.lint/lint-api@25.0.0?classifier=sources
 - pkg:maven/com.android.tools.lint/lint-api@25.1.0
 - pkg:maven/com.android.tools.lint/lint-api@25.1.0?classifier=sources
+- pkg:maven/com.android.tools.lint/lint-api@25.1.2
+- pkg:maven/com.android.tools.lint/lint-api@25.1.2?classifier=sources
