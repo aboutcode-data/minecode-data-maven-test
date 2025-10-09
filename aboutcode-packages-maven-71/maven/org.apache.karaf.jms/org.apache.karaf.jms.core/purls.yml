@@ -56,3 +56,5 @@
 - pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.core@2.3.12?classifier=sources
 - pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.core@3.0.6
 - pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.core@3.0.6?classifier=sources
+- pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.core@4.0.5
+- pkg:maven/org.apache.karaf.jms/org.apache.karaf.jms.core@4.0.5?classifier=sources

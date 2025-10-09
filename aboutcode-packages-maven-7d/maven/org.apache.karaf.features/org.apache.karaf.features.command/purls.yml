@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.karaf.features/org.apache.karaf.features.command@2.3.12?classifier=sources
 - pkg:maven/org.apache.karaf.features/org.apache.karaf.features.command@3.0.6
 - pkg:maven/org.apache.karaf.features/org.apache.karaf.features.command@3.0.6?classifier=sources
+- pkg:maven/org.apache.karaf.features/org.apache.karaf.features.command@4.0.5
+- pkg:maven/org.apache.karaf.features/org.apache.karaf.features.command@4.0.5?classifier=sources

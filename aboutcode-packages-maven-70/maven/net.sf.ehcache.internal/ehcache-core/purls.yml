@@ -40,3 +40,5 @@
 - pkg:maven/net.sf.ehcache.internal/ehcache-core@2.10.1?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-core@2.8.8
 - pkg:maven/net.sf.ehcache.internal/ehcache-core@2.8.8?classifier=sources
+- pkg:maven/net.sf.ehcache.internal/ehcache-core@2.10.2
+- pkg:maven/net.sf.ehcache.internal/ehcache-core@2.10.2?classifier=sources
