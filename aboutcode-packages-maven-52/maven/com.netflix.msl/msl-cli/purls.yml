@@ -24,3 +24,5 @@
 - pkg:maven/com.netflix.msl/msl-cli@1.1203.0?classifier=sources
 - pkg:maven/com.netflix.msl/msl-cli@1.1204.0?type=war
 - pkg:maven/com.netflix.msl/msl-cli@1.1204.0?classifier=sources
+- pkg:maven/com.netflix.msl/msl-cli@1.1205.0?type=war
+- pkg:maven/com.netflix.msl/msl-cli@1.1205.0?classifier=sources
