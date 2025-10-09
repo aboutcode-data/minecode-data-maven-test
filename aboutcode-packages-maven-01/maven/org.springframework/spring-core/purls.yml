@@ -286,3 +286,5 @@
 - pkg:maven/org.springframework/spring-core@5.0.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-core@4.3.24.RELEASE
 - pkg:maven/org.springframework/spring-core@4.3.24.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-core@5.1.8.RELEASE
+- pkg:maven/org.springframework/spring-core@5.1.8.RELEASE?classifier=sources

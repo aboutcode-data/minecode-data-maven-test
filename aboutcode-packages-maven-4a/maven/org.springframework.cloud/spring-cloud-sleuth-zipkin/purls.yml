@@ -74,3 +74,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-sleuth-zipkin@2.1.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-sleuth-zipkin@1.3.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-sleuth-zipkin@1.3.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-sleuth-zipkin@2.0.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-sleuth-zipkin@2.0.4.RELEASE?classifier=sources

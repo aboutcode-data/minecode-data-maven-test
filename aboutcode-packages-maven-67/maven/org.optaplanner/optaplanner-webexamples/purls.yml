@@ -162,3 +162,5 @@
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.22.0.t042?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.22.0.Final?type=war
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.22.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.23.0.Final?type=war
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.23.0.Final?classifier=sources
