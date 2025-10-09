@@ -48,3 +48,5 @@
 - pkg:maven/org.jbpm.contrib/repository@7.29.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository@7.30.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.30.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.31.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.31.0.Final?classifier=sources
