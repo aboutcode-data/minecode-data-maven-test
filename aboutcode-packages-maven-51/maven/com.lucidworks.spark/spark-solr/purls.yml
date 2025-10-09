@@ -62,3 +62,9 @@
 - pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta9?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta8
 - pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta8?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta11
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta11?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta10
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0-beta10?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0
+- pkg:maven/com.lucidworks.spark/spark-solr@3.0.0?classifier=sources
