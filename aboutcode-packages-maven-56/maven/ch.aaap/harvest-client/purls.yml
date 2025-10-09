@@ -8,3 +8,5 @@
 - pkg:maven/ch.aaap/harvest-client@0.2.3?classifier=sources
 - pkg:maven/ch.aaap/harvest-client@0.8
 - pkg:maven/ch.aaap/harvest-client@0.8?classifier=sources
+- pkg:maven/ch.aaap/harvest-client@0.8.1
+- pkg:maven/ch.aaap/harvest-client@0.8.1?classifier=sources
