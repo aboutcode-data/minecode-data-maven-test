@@ -40,3 +40,5 @@
 - pkg:maven/io.swagger/swagger-servlet@1.5.23?classifier=sources
 - pkg:maven/io.swagger/swagger-servlet@1.5.24
 - pkg:maven/io.swagger/swagger-servlet@1.5.24?classifier=sources
+- pkg:maven/io.swagger/swagger-servlet@1.6.0
+- pkg:maven/io.swagger/swagger-servlet@1.6.0?classifier=sources
