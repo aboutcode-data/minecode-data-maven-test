@@ -110,3 +110,7 @@
 - pkg:maven/com.typesafe.play/shaded-oauth@1.1.14?classifier=sources
 - pkg:maven/com.typesafe.play/shaded-oauth@2.1.0-M7
 - pkg:maven/com.typesafe.play/shaded-oauth@2.1.0-M7?classifier=sources
+- pkg:maven/com.typesafe.play/shaded-oauth@2.1.0-RC2
+- pkg:maven/com.typesafe.play/shaded-oauth@2.1.0-RC2?classifier=sources
+- pkg:maven/com.typesafe.play/shaded-oauth@2.1.0-RC1
+- pkg:maven/com.typesafe.play/shaded-oauth@2.1.0-RC1?classifier=sources

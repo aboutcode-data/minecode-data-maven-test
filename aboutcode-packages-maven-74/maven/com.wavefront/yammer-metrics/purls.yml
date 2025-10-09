@@ -74,3 +74,5 @@
 - pkg:maven/com.wavefront/yammer-metrics@2019-09.0?classifier=sources
 - pkg:maven/com.wavefront/yammer-metrics@2019-09.2
 - pkg:maven/com.wavefront/yammer-metrics@2019-09.2?classifier=sources
+- pkg:maven/com.wavefront/yammer-metrics@2019-11.1
+- pkg:maven/com.wavefront/yammer-metrics@2019-11.1?classifier=sources

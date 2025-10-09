@@ -432,3 +432,5 @@
 - pkg:maven/com.yahoo.vespa/vespa-hadoop@7.126.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-hadoop@7.125.11
 - pkg:maven/com.yahoo.vespa/vespa-hadoop@7.125.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.132.16
+- pkg:maven/com.yahoo.vespa/vespa-hadoop@7.132.16?classifier=sources

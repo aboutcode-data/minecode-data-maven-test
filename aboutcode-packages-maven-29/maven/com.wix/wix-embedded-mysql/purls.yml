@@ -78,3 +78,5 @@
 - pkg:maven/com.wix/wix-embedded-mysql@4.5.0?classifier=sources
 - pkg:maven/com.wix/wix-embedded-mysql@4.4.0
 - pkg:maven/com.wix/wix-embedded-mysql@4.4.0?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql@4.6.1
+- pkg:maven/com.wix/wix-embedded-mysql@4.6.1?classifier=sources
