@@ -208,3 +208,7 @@
 - pkg:maven/com.facebook.presto/presto-jdbc@0.144.6?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jdbc@0.150
 - pkg:maven/com.facebook.presto/presto-jdbc@0.150?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jdbc@0.151
+- pkg:maven/com.facebook.presto/presto-jdbc@0.151?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jdbc@0.144.7
+- pkg:maven/com.facebook.presto/presto-jdbc@0.144.7?classifier=sources
