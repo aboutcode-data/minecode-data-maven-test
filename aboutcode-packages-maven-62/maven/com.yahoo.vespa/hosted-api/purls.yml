@@ -108,3 +108,5 @@
 - pkg:maven/com.yahoo.vespa/hosted-api@7.142.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/hosted-api@7.145.41
 - pkg:maven/com.yahoo.vespa/hosted-api@7.145.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/hosted-api@7.147.12
+- pkg:maven/com.yahoo.vespa/hosted-api@7.147.12?classifier=sources

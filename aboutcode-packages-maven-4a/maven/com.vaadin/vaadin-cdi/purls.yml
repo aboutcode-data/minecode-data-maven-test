@@ -20,3 +20,5 @@
 - pkg:maven/com.vaadin/vaadin-cdi@10.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cdi@11.0.0
 - pkg:maven/com.vaadin/vaadin-cdi@11.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-cdi@11.0.1
+- pkg:maven/com.vaadin/vaadin-cdi@11.0.1?classifier=sources

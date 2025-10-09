@@ -57,3 +57,7 @@
 - pkg:maven/com.weicoder/web@2.5.0?classifier=sources
 - pkg:maven/com.weicoder/web@1.1.0
 - pkg:maven/com.weicoder/web@1.1.0?classifier=sources
+- pkg:maven/com.weicoder/web@3.1.2
+- pkg:maven/com.weicoder/web@3.1.2?classifier=sources
+- pkg:maven/com.weicoder/web@3.1.1
+- pkg:maven/com.weicoder/web@3.1.1?classifier=sources

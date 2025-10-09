@@ -86,3 +86,7 @@
 - pkg:maven/com.workiva/frugal@3.4.10?classifier=sources
 - pkg:maven/com.workiva/frugal@3.4.12
 - pkg:maven/com.workiva/frugal@3.4.12?classifier=sources
+- pkg:maven/com.workiva/frugal@3.5.1
+- pkg:maven/com.workiva/frugal@3.5.1?classifier=sources
+- pkg:maven/com.workiva/frugal@3.5.0
+- pkg:maven/com.workiva/frugal@3.5.0?classifier=sources
