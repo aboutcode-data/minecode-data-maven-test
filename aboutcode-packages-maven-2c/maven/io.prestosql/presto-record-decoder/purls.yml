@@ -46,3 +46,5 @@
 - pkg:maven/io.prestosql/presto-record-decoder@321?classifier=sources
 - pkg:maven/io.prestosql/presto-record-decoder@323
 - pkg:maven/io.prestosql/presto-record-decoder@323?classifier=sources
+- pkg:maven/io.prestosql/presto-record-decoder@324
+- pkg:maven/io.prestosql/presto-record-decoder@324?classifier=sources

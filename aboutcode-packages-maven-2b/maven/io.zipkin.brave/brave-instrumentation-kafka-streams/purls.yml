@@ -32,3 +32,5 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.7.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.8.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.8.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.9.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.9.0?classifier=sources

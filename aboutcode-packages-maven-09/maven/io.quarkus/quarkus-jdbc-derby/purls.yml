@@ -1,3 +1,7 @@
 - pkg:maven/io.quarkus/quarkus-jdbc-derby@0.25.0
 - pkg:maven/io.quarkus/quarkus-jdbc-derby@0.26.1
 - pkg:maven/io.quarkus/quarkus-jdbc-derby@0.26.0
+- pkg:maven/io.quarkus/quarkus-jdbc-derby@0.28.0
+- pkg:maven/io.quarkus/quarkus-jdbc-derby@0.28.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-jdbc-derby@0.27.0
+- pkg:maven/io.quarkus/quarkus-jdbc-derby@0.27.0?classifier=sources

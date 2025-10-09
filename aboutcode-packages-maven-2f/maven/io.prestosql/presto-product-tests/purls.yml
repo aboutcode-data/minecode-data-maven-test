@@ -46,3 +46,5 @@
 - pkg:maven/io.prestosql/presto-product-tests@321?classifier=sources
 - pkg:maven/io.prestosql/presto-product-tests@323
 - pkg:maven/io.prestosql/presto-product-tests@323?classifier=sources
+- pkg:maven/io.prestosql/presto-product-tests@324
+- pkg:maven/io.prestosql/presto-product-tests@324?classifier=sources

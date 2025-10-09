@@ -46,3 +46,5 @@
 - pkg:maven/io.prestosql/presto-base-jdbc@321?classifier=sources
 - pkg:maven/io.prestosql/presto-base-jdbc@323
 - pkg:maven/io.prestosql/presto-base-jdbc@323?classifier=sources
+- pkg:maven/io.prestosql/presto-base-jdbc@324
+- pkg:maven/io.prestosql/presto-base-jdbc@324?classifier=sources
