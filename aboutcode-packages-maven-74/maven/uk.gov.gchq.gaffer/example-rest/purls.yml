@@ -2,3 +2,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/example-rest@0.5.1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/example-rest@0.5.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/example-rest@0.5.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/example-rest@0.6.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/example-rest@0.6.0?classifier=sources

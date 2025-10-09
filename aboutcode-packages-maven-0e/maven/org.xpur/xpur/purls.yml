@@ -4,3 +4,5 @@
 - pkg:maven/org.xpur/xpur@0.3?classifier=sources
 - pkg:maven/org.xpur/xpur@0.2
 - pkg:maven/org.xpur/xpur@0.2?classifier=sources
+- pkg:maven/org.xpur/xpur@0.5
+- pkg:maven/org.xpur/xpur@0.5?classifier=sources
