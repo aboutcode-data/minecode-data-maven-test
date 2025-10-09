@@ -162,3 +162,5 @@
 - pkg:maven/com.groupbyinc/common-jackson@102?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@104
 - pkg:maven/com.groupbyinc/common-jackson@104?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@105
+- pkg:maven/com.groupbyinc/common-jackson@105?classifier=sources
