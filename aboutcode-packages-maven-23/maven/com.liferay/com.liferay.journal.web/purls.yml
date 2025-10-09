@@ -140,3 +140,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@1.10.12
 - pkg:maven/com.liferay/com.liferay.journal.web@1.10.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@1.10.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.web@1.10.13
+- pkg:maven/com.liferay/com.liferay.journal.web@1.10.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@1.10.13?classifier=sources-commercial

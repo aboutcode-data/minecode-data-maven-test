@@ -102,3 +102,5 @@
 - pkg:maven/com.riskified/riskified-sdk@1.0.9?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@1.0.7-sync
 - pkg:maven/com.riskified/riskified-sdk@1.0.7-sync?classifier=sources
+- pkg:maven/com.riskified/riskified-sdk@v1.0.10
+- pkg:maven/com.riskified/riskified-sdk@v1.0.10?classifier=sources
