@@ -77,3 +77,7 @@
 - pkg:maven/org.zanata/zanata-adapter-properties@4.4.0-alpha-3?classifier=sources
 - pkg:maven/org.zanata/zanata-adapter-properties@4.4.0-alpha-2
 - pkg:maven/org.zanata/zanata-adapter-properties@4.4.0-alpha-2?classifier=sources
+- pkg:maven/org.zanata/zanata-adapter-properties@4.4.1
+- pkg:maven/org.zanata/zanata-adapter-properties@4.4.1?classifier=sources
+- pkg:maven/org.zanata/zanata-adapter-properties@4.4.0
+- pkg:maven/org.zanata/zanata-adapter-properties@4.4.0?classifier=sources
