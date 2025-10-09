@@ -96,3 +96,4 @@
 - pkg:maven/org.apache.camel/camel@3.0.0-M2?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.23.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.22.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.24.0?classifier=source-release&type=zip

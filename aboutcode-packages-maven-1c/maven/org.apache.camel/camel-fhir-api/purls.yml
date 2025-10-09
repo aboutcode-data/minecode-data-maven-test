@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.camel/camel-fhir-api@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.camel/camel-fhir-api@2.23.2
 - pkg:maven/org.apache.camel/camel-fhir-api@2.23.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-fhir-api@2.24.0
+- pkg:maven/org.apache.camel/camel-fhir-api@2.24.0?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.camel/camel-mongodb3@2.23.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-mongodb3@2.22.4
 - pkg:maven/org.apache.camel/camel-mongodb3@2.22.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-mongodb3@2.24.0
+- pkg:maven/org.apache.camel/camel-mongodb3@2.24.0?classifier=sources
