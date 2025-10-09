@@ -16,3 +16,5 @@
 - pkg:maven/de.taimos/interconnect-maven-plugin@1.9?classifier=sources
 - pkg:maven/de.taimos/interconnect-maven-plugin@1.10
 - pkg:maven/de.taimos/interconnect-maven-plugin@1.10?classifier=sources
+- pkg:maven/de.taimos/interconnect-maven-plugin@1.11
+- pkg:maven/de.taimos/interconnect-maven-plugin@1.11?classifier=sources
