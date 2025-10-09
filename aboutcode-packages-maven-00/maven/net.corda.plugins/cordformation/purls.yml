@@ -12,3 +12,5 @@
 - pkg:maven/net.corda.plugins/cordformation@0.8.1?classifier=sources
 - pkg:maven/net.corda.plugins/cordformation@0.8.3
 - pkg:maven/net.corda.plugins/cordformation@0.8.3?classifier=sources
+- pkg:maven/net.corda.plugins/cordformation@0.10.0
+- pkg:maven/net.corda.plugins/cordformation@0.10.0?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.typesafe.akka/akka-stream_2.11@2.5-M2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream_2.11@2.4.17
 - pkg:maven/com.typesafe.akka/akka-stream_2.11@2.4.17?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-stream_2.11@2.5.0-RC1
+- pkg:maven/com.typesafe.akka/akka-stream_2.11@2.5.0-RC1?classifier=sources
