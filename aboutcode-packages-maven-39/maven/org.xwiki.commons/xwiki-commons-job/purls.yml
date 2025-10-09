@@ -480,3 +480,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@11.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.11.8
 - pkg:maven/org.xwiki.commons/xwiki-commons-job@10.11.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@11.4-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-job@11.4-rc-1?classifier=sources

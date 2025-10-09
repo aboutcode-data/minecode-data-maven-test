@@ -510,3 +510,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-configuration-api@11.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-configuration-api@10.11.8
 - pkg:maven/org.xwiki.commons/xwiki-commons-configuration-api@10.11.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-configuration-api@11.4-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-configuration-api@11.4-rc-1?classifier=sources

@@ -24,3 +24,6 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector@1.0.0
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector@2.0.9
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector@2.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector@2.0.9?classifier=source-release&type=zip

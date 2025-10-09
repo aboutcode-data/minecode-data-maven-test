@@ -338,3 +338,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@11.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@10.11.8
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@10.11.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@11.4-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-store-filesystem@11.4-rc-1?classifier=sources
