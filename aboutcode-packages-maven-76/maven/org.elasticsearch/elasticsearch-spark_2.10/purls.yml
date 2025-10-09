@@ -36,3 +36,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark_2.10@2.3.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark_2.10@5.0.0-alpha3
 - pkg:maven/org.elasticsearch/elasticsearch-spark_2.10@5.0.0-alpha3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark_2.10@5.0.0-alpha4
+- pkg:maven/org.elasticsearch/elasticsearch-spark_2.10@5.0.0-alpha4?classifier=sources
