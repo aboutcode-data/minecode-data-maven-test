@@ -1,2 +1,6 @@
 - pkg:maven/software.amazon.awssdk/iotevents@2.5.54
 - pkg:maven/software.amazon.awssdk/iotevents@2.5.54?classifier=sources
+- pkg:maven/software.amazon.awssdk/iotevents@2.5.56
+- pkg:maven/software.amazon.awssdk/iotevents@2.5.56?classifier=sources
+- pkg:maven/software.amazon.awssdk/iotevents@2.5.55
+- pkg:maven/software.amazon.awssdk/iotevents@2.5.55?classifier=sources

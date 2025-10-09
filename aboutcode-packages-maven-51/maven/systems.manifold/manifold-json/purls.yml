@@ -128,3 +128,5 @@
 - pkg:maven/systems.manifold/manifold-json@0.70-alpha?classifier=sources
 - pkg:maven/systems.manifold/manifold-json@2019.1.0-gw
 - pkg:maven/systems.manifold/manifold-json@2019.1.0-gw?classifier=sources
+- pkg:maven/systems.manifold/manifold-json@2019.1.2
+- pkg:maven/systems.manifold/manifold-json@2019.1.2?classifier=sources
