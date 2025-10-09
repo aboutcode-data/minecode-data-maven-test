@@ -168,3 +168,6 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@4.0.16
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@4.0.16?classifier=sources-commercial

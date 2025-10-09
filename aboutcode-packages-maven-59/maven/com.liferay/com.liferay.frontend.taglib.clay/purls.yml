@@ -133,3 +133,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@1.4.3
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@1.4.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@1.4.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@2.2.10
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@2.2.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@2.2.10?classifier=sources-commercial

@@ -163,3 +163,6 @@
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.15
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.16
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.user.associated.data.web@4.0.16?classifier=sources-commercial

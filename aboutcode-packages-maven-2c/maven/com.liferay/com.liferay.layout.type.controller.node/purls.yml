@@ -66,3 +66,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@2.0.12
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@4.0.5
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@4.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@4.0.5?classifier=sources-commercial

@@ -182,3 +182,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.api@2.6.12
 - pkg:maven/com.liferay/com.liferay.wiki.api@2.6.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.api@2.6.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.api@4.1.4
+- pkg:maven/com.liferay/com.liferay.wiki.api@4.1.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.api@4.1.4?classifier=sources-commercial

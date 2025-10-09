@@ -138,3 +138,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.template.context.contributor@1.0.45
 - pkg:maven/com.liferay/com.liferay.project.templates.template.context.contributor@1.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.template.context.contributor@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.template.context.contributor@1.0.48
+- pkg:maven/com.liferay/com.liferay.project.templates.template.context.contributor@1.0.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.template.context.contributor@1.0.48?classifier=sources-commercial

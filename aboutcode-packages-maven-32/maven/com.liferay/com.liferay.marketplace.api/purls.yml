@@ -97,3 +97,6 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.14
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.api@6.0.3
+- pkg:maven/com.liferay/com.liferay.marketplace.api@6.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.api@6.0.3?classifier=sources-commercial

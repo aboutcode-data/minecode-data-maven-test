@@ -149,3 +149,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.api@1.0.48
 - pkg:maven/com.liferay/com.liferay.project.templates.api@1.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.api@1.0.48?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.api@1.0.52
+- pkg:maven/com.liferay/com.liferay.project.templates.api@1.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.api@1.0.52?classifier=sources-commercial

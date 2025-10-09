@@ -139,3 +139,6 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@2.0.12
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.impl@3.0.24
+- pkg:maven/com.liferay/com.liferay.headless.delivery.impl@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.impl@3.0.24?classifier=sources-commercial

@@ -106,3 +106,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.storage.service@2.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.storage.service@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.storage.service@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.storage.service@4.0.9
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.storage.service@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.storage.service@4.0.9?classifier=sources-commercial
