@@ -14,3 +14,5 @@
 - pkg:maven/org.grails/grails-http-core@1.0.4.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-http-core@1.0.5.RELEASE
 - pkg:maven/org.grails/grails-http-core@1.0.5.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-http-core@1.1.0.RC1
+- pkg:maven/org.grails/grails-http-core@1.1.0.RC1?classifier=sources

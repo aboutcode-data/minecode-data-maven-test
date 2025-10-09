@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.0.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@0.29.0.Final?classifier=sources

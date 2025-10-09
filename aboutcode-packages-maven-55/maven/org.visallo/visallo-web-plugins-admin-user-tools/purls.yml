@@ -28,3 +28,5 @@
 - pkg:maven/org.visallo/visallo-web-plugins-admin-user-tools@3.1.0-RC1?classifier=sources
 - pkg:maven/org.visallo/visallo-web-plugins-admin-user-tools@3.1.0-RC2
 - pkg:maven/org.visallo/visallo-web-plugins-admin-user-tools@3.1.0-RC2?classifier=sources
+- pkg:maven/org.visallo/visallo-web-plugins-admin-user-tools@3.1.0
+- pkg:maven/org.visallo/visallo-web-plugins-admin-user-tools@3.1.0?classifier=sources

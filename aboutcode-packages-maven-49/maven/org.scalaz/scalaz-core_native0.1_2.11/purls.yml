@@ -1,2 +1,4 @@
 - pkg:maven/org.scalaz/scalaz-core_native0.1_2.11@7.3.0-M10
 - pkg:maven/org.scalaz/scalaz-core_native0.1_2.11@7.3.0-M10?classifier=sources
+- pkg:maven/org.scalaz/scalaz-core_native0.1_2.11@7.2.10
+- pkg:maven/org.scalaz/scalaz-core_native0.1_2.11@7.2.10?classifier=sources

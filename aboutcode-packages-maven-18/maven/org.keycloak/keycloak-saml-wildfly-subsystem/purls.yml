@@ -64,3 +64,5 @@
 - pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@2.5.4.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@2.5.5.Final
 - pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@2.5.5.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@3.0.0.CR1
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@3.0.0.CR1?classifier=sources
