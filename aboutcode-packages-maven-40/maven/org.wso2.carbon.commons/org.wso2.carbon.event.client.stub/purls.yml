@@ -154,3 +154,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.client.stub@4.6.52
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.client.stub@4.6.52?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.client.stub@4.6.52?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.client.stub@4.6.65
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.client.stub@4.6.65?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.event.client.stub@4.6.65?classifier=source-release&type=zip

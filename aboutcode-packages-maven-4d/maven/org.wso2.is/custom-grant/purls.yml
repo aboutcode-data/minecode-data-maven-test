@@ -156,3 +156,5 @@
 - pkg:maven/org.wso2.is/custom-grant@5.8.0-m26?classifier=sources
 - pkg:maven/org.wso2.is/custom-grant@5.8.0-m25
 - pkg:maven/org.wso2.is/custom-grant@5.8.0-m25?classifier=sources
+- pkg:maven/org.wso2.is/custom-grant@5.8.0-beta4
+- pkg:maven/org.wso2.is/custom-grant@5.8.0-beta4?classifier=sources
