@@ -12,3 +12,5 @@
 - pkg:maven/org.javalite/javalite-async@2.2?classifier=sources
 - pkg:maven/org.javalite/javalite-async@1.16.j7
 - pkg:maven/org.javalite/javalite-async@1.16.j7?classifier=sources
+- pkg:maven/org.javalite/javalite-async@2.3
+- pkg:maven/org.javalite/javalite-async@2.3?classifier=sources

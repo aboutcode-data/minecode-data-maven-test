@@ -34,3 +34,5 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@7.2.18?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@7.2.20
 - pkg:maven/org.hpccsystems/spark-hpcc@7.2.20?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@7.2.22
+- pkg:maven/org.hpccsystems/spark-hpcc@7.2.22?classifier=sources
