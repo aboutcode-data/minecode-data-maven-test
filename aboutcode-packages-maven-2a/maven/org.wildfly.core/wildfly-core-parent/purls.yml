@@ -204,3 +204,4 @@
 - pkg:maven/org.wildfly.core/wildfly-core-parent@10.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@11.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@11.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@10.0.2.Final?classifier=source-release&type=zip

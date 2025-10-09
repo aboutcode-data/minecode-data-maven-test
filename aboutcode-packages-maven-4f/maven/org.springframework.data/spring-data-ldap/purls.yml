@@ -100,3 +100,7 @@
 - pkg:maven/org.springframework.data/spring-data-ldap@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-ldap@2.1.11.RELEASE
 - pkg:maven/org.springframework.data/spring-data-ldap@2.1.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-ldap@2.2.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-ldap@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-ldap@2.1.12.RELEASE
+- pkg:maven/org.springframework.data/spring-data-ldap@2.1.12.RELEASE?classifier=sources

@@ -142,3 +142,5 @@
 - pkg:maven/org.webjars.npm/vuetify@2.1.9?classifier=sources
 - pkg:maven/org.webjars.npm/vuetify@2.1.7
 - pkg:maven/org.webjars.npm/vuetify@2.1.7?classifier=sources
+- pkg:maven/org.webjars.npm/vuetify@1.5.20
+- pkg:maven/org.webjars.npm/vuetify@1.5.20?classifier=sources

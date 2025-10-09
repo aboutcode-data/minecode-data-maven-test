@@ -6,3 +6,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.11@0.18.7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.11@0.18.8
 - pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.11@0.18.8?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.11@0.19.0
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.11@0.19.0?classifier=sources
