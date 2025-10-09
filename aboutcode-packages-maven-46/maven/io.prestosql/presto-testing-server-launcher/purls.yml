@@ -38,3 +38,5 @@
 - pkg:maven/io.prestosql/presto-testing-server-launcher@318?classifier=sources
 - pkg:maven/io.prestosql/presto-testing-server-launcher@319
 - pkg:maven/io.prestosql/presto-testing-server-launcher@319?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-server-launcher@320
+- pkg:maven/io.prestosql/presto-testing-server-launcher@320?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-mysql-v1@2.16.2?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-mysql-v1@2.17.0
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-mysql-v1@2.17.0?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-mysql-v1@2.17.1
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-mysql-v1@2.17.1?classifier=sources
