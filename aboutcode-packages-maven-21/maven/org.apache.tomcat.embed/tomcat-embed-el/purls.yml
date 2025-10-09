@@ -268,3 +268,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.16?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.38
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.38?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.93
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@7.0.93?classifier=sources

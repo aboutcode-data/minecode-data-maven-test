@@ -50,3 +50,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/tribe@6.5.4?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/tribe@6.6.0
 - pkg:maven/org.codelibs.elasticsearch.module/tribe@6.6.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/tribe@6.6.1
+- pkg:maven/org.codelibs.elasticsearch.module/tribe@6.6.1?classifier=sources

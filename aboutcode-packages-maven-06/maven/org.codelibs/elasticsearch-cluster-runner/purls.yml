@@ -166,3 +166,5 @@
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@6.6.0.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.0.0-beta1.0
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.0.0-beta1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@6.6.1.0
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@6.6.1.0?classifier=sources
