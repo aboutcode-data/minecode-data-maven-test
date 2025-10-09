@@ -34,3 +34,5 @@
 - pkg:maven/com.microsoft.azure/azure-cosmosdb@2.4.4?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-cosmosdb@2.4.3
 - pkg:maven/com.microsoft.azure/azure-cosmosdb@2.4.3?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-cosmosdb@3.0.0-beta-1
+- pkg:maven/com.microsoft.azure/azure-cosmosdb@3.0.0-beta-1?classifier=sources
