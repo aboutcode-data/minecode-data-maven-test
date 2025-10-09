@@ -216,3 +216,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.58?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.57
 - pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.57?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.60
+- pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.60?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.59
+- pkg:maven/com.amazonaws/aws-java-sdk-core@1.10.59?classifier=sources

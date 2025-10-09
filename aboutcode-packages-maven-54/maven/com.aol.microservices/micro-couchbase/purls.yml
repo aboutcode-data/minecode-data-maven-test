@@ -46,3 +46,5 @@
 - pkg:maven/com.aol.microservices/micro-couchbase@0.80.1?classifier=sources
 - pkg:maven/com.aol.microservices/micro-couchbase@0.80
 - pkg:maven/com.aol.microservices/micro-couchbase@0.80?classifier=sources
+- pkg:maven/com.aol.microservices/micro-couchbase@0.81
+- pkg:maven/com.aol.microservices/micro-couchbase@0.81?classifier=sources

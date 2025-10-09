@@ -4,3 +4,5 @@
 - pkg:maven/com.backendless/backendless@3.0.8?classifier=sources
 - pkg:maven/com.backendless/backendless@3.0.8.2
 - pkg:maven/com.backendless/backendless@3.0.8.2?classifier=sources
+- pkg:maven/com.backendless/backendless@3.0.10
+- pkg:maven/com.backendless/backendless@3.0.10?classifier=sources

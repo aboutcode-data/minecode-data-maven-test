@@ -5,3 +5,7 @@
 - pkg:maven/com.dorkbox/InputConsole@1.5?classifier=sources
 - pkg:maven/com.dorkbox/InputConsole@1.4
 - pkg:maven/com.dorkbox/InputConsole@1.4?classifier=sources
+- pkg:maven/com.dorkbox/InputConsole@2.4
+- pkg:maven/com.dorkbox/InputConsole@2.4?classifier=sources
+- pkg:maven/com.dorkbox/InputConsole@2.2
+- pkg:maven/com.dorkbox/InputConsole@2.2?classifier=sources
