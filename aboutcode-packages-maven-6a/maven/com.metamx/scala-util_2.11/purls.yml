@@ -20,3 +20,5 @@
 - pkg:maven/com.metamx/scala-util_2.11@1.11.8?classifier=sources
 - pkg:maven/com.metamx/scala-util_2.11@1.11.10
 - pkg:maven/com.metamx/scala-util_2.11@1.11.10?classifier=sources
+- pkg:maven/com.metamx/scala-util_2.11@1.12.0
+- pkg:maven/com.metamx/scala-util_2.11@1.12.0?classifier=sources
