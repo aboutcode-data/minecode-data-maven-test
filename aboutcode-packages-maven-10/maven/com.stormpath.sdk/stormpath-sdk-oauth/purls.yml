@@ -138,3 +138,5 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-oauth@2.0.0-okta-rc3?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-oauth@2.0.0-okta
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-oauth@2.0.0-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-oauth@2.0.1-okta
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-oauth@2.0.1-okta?classifier=sources

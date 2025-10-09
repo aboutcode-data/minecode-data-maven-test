@@ -62,3 +62,5 @@
 - pkg:maven/com.streamsets/streamsets-datacollector-sdk@2.6.0.0?classifier=sources
 - pkg:maven/com.streamsets/streamsets-datacollector-sdk@2.6.0.1
 - pkg:maven/com.streamsets/streamsets-datacollector-sdk@2.6.0.1?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-sdk@2.7.0.0
+- pkg:maven/com.streamsets/streamsets-datacollector-sdk@2.7.0.0?classifier=sources

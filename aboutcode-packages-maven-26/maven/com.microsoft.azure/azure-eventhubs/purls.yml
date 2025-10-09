@@ -52,3 +52,5 @@
 - pkg:maven/com.microsoft.azure/azure-eventhubs@0.14.3?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-eventhubs@0.14.4
 - pkg:maven/com.microsoft.azure/azure-eventhubs@0.14.4?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs@0.14.5
+- pkg:maven/com.microsoft.azure/azure-eventhubs@0.14.5?classifier=sources
