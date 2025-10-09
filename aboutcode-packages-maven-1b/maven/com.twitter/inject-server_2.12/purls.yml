@@ -20,3 +20,5 @@
 - pkg:maven/com.twitter/inject-server_2.12@18.2.0?classifier=sources
 - pkg:maven/com.twitter/inject-server_2.12@18.3.0
 - pkg:maven/com.twitter/inject-server_2.12@18.3.0?classifier=sources
+- pkg:maven/com.twitter/inject-server_2.12@18.4.0
+- pkg:maven/com.twitter/inject-server_2.12@18.4.0?classifier=sources
