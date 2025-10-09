@@ -1,2 +1,4 @@
 - pkg:maven/com.appian/connected-systems-core@0.1.0
 - pkg:maven/com.appian/connected-systems-core@0.1.0?classifier=sources
+- pkg:maven/com.appian/connected-systems-core@1.0.0
+- pkg:maven/com.appian/connected-systems-core@1.0.0?classifier=sources

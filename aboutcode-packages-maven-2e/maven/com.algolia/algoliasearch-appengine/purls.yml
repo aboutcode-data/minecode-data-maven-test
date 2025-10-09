@@ -92,3 +92,7 @@
 - pkg:maven/com.algolia/algoliasearch-appengine@2.19.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-appengine@2.20.0
 - pkg:maven/com.algolia/algoliasearch-appengine@2.20.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.21.1
+- pkg:maven/com.algolia/algoliasearch-appengine@2.21.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.21.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.21.0?classifier=sources

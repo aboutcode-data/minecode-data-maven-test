@@ -1,2 +1,6 @@
 - pkg:maven/com.codacy/events-rabbitmq_2.12@2.0.1-cleanup.689d6fb
 - pkg:maven/com.codacy/events-rabbitmq_2.12@2.0.1-cleanup.689d6fb?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.12@2.0.0-cleanup.76cd279_circe_0.9.1
+- pkg:maven/com.codacy/events-rabbitmq_2.12@2.0.0-cleanup.76cd279_circe_0.9.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.12@2.0.0-cleanup.76cd279_circe_0.8.0
+- pkg:maven/com.codacy/events-rabbitmq_2.12@2.0.0-cleanup.76cd279_circe_0.8.0?classifier=sources

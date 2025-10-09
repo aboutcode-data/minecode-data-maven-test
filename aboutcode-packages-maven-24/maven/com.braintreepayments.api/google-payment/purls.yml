@@ -1,2 +1,4 @@
 - pkg:maven/com.braintreepayments.api/google-payment@1.0.0?type=aar
 - pkg:maven/com.braintreepayments.api/google-payment@1.0.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/google-payment@2.0.0?type=aar
+- pkg:maven/com.braintreepayments.api/google-payment@2.0.0?classifier=sources

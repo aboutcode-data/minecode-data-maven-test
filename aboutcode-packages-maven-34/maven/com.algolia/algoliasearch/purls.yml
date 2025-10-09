@@ -166,3 +166,7 @@
 - pkg:maven/com.algolia/algoliasearch@1.12.3?classifier=sources
 - pkg:maven/com.algolia/algoliasearch@2.20.0
 - pkg:maven/com.algolia/algoliasearch@2.20.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@2.21.1
+- pkg:maven/com.algolia/algoliasearch@2.21.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@2.21.0
+- pkg:maven/com.algolia/algoliasearch@2.21.0?classifier=sources
