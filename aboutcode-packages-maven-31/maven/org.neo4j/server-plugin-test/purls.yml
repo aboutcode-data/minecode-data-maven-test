@@ -120,3 +120,7 @@
 - pkg:maven/org.neo4j/server-plugin-test@3.5.0-alpha04?classifier=sources
 - pkg:maven/org.neo4j/server-plugin-test@3.4.4
 - pkg:maven/org.neo4j/server-plugin-test@3.4.4?classifier=sources
+- pkg:maven/org.neo4j/server-plugin-test@3.5.0-alpha05
+- pkg:maven/org.neo4j/server-plugin-test@3.5.0-alpha05?classifier=sources
+- pkg:maven/org.neo4j/server-plugin-test@3.4.5
+- pkg:maven/org.neo4j/server-plugin-test@3.4.5?classifier=sources

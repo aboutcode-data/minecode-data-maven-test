@@ -22,3 +22,6 @@
 - pkg:maven/org.ow2.petals/petals-topology@1.9.3
 - pkg:maven/org.ow2.petals/petals-topology@1.9.3?classifier=sources
 - pkg:maven/org.ow2.petals/petals-topology@1.9.3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-topology@1.10.0
+- pkg:maven/org.ow2.petals/petals-topology@1.10.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-topology@1.10.0?classifier=source-release&type=zip

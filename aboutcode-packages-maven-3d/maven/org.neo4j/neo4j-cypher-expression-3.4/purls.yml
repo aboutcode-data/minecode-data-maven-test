@@ -36,3 +36,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-expression-3.4@3.4.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-expression-3.4@3.4.4
 - pkg:maven/org.neo4j/neo4j-cypher-expression-3.4@3.4.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-expression-3.4@3.4.5
+- pkg:maven/org.neo4j/neo4j-cypher-expression-3.4@3.4.5?classifier=sources

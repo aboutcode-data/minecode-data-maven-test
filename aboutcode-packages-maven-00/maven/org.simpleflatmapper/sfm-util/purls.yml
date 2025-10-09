@@ -124,3 +124,5 @@
 - pkg:maven/org.simpleflatmapper/sfm-util@3.18.2?classifier=sources
 - pkg:maven/org.simpleflatmapper/sfm-util@3.19.0
 - pkg:maven/org.simpleflatmapper/sfm-util@3.19.0?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-util@4.0.0-beta
+- pkg:maven/org.simpleflatmapper/sfm-util@4.0.0-beta?classifier=sources
