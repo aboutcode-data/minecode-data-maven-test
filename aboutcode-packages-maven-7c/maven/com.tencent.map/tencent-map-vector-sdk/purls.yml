@@ -52,3 +52,5 @@
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@2.1.9.15?classifier=sources
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@2.1.10.0?type=aar
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@2.1.10.0?classifier=sources
+- pkg:maven/com.tencent.map/tencent-map-vector-sdk@2.1.9.19?type=aar
+- pkg:maven/com.tencent.map/tencent-map-vector-sdk@2.1.9.19?classifier=sources

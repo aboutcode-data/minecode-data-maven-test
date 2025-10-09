@@ -1,0 +1,8 @@
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.9.0
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.9.0?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.8.0
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.8.0?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.7.0
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.7.0?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.0.0-SNAPSHIT
+- pkg:maven/com.mcxiaoke.packer-ng/plugin@1.0.0-SNAPSHIT?classifier=sources
