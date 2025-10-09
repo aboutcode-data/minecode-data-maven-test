@@ -80,3 +80,5 @@
 - pkg:maven/org.mock-server/mockserver-examples@3.10.2?classifier=sources
 - pkg:maven/org.mock-server/mockserver-examples@3.10.3?type=war
 - pkg:maven/org.mock-server/mockserver-examples@3.10.3?classifier=sources
+- pkg:maven/org.mock-server/mockserver-examples@3.10.4?type=war
+- pkg:maven/org.mock-server/mockserver-examples@3.10.4?classifier=sources
