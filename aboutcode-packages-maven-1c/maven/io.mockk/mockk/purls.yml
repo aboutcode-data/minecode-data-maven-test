@@ -64,3 +64,5 @@
 - pkg:maven/io.mockk/mockk@1.7.16?classifier=sources
 - pkg:maven/io.mockk/mockk@1.7.17
 - pkg:maven/io.mockk/mockk@1.7.17?classifier=sources
+- pkg:maven/io.mockk/mockk@1.8
+- pkg:maven/io.mockk/mockk@1.8?classifier=sources
