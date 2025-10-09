@@ -237,3 +237,7 @@
 - pkg:maven/org.mockito/mockito-core@2.0.96-beta?classifier=sources
 - pkg:maven/org.mockito/mockito-core@2.0.95-beta
 - pkg:maven/org.mockito/mockito-core@2.0.95-beta?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.0.101-beta
+- pkg:maven/org.mockito/mockito-core@2.0.101-beta?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.0.100-beta
+- pkg:maven/org.mockito/mockito-core@2.0.100-beta?classifier=sources

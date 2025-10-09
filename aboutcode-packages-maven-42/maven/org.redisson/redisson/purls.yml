@@ -94,3 +94,7 @@
 - pkg:maven/org.redisson/redisson@2.2.22?classifier=sources
 - pkg:maven/org.redisson/redisson@2.2.23
 - pkg:maven/org.redisson/redisson@2.2.23?classifier=sources
+- pkg:maven/org.redisson/redisson@2.2.24
+- pkg:maven/org.redisson/redisson@2.2.24?classifier=sources
+- pkg:maven/org.redisson/redisson@0.9.0
+- pkg:maven/org.redisson/redisson@0.9.0?classifier=sources
