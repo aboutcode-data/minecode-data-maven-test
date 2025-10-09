@@ -56,3 +56,5 @@
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.25.3?classifier=sources
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.20.4
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.20.4?classifier=sources
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.25.4
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@1.25.4?classifier=sources

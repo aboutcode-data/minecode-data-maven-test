@@ -8,3 +8,7 @@
 - pkg:maven/io.github.fslev/cucumber-utils@4.7?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-utils@4.6
 - pkg:maven/io.github.fslev/cucumber-utils@4.6?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-utils@4.9
+- pkg:maven/io.github.fslev/cucumber-utils@4.9?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-utils@4.10
+- pkg:maven/io.github.fslev/cucumber-utils@4.10?classifier=sources

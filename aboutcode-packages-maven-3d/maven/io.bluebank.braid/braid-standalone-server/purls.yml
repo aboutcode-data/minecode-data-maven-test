@@ -26,3 +26,7 @@
 - pkg:maven/io.bluebank.braid/braid-standalone-server@3.3.3?classifier=sources
 - pkg:maven/io.bluebank.braid/braid-standalone-server@3.3.2
 - pkg:maven/io.bluebank.braid/braid-standalone-server@3.3.2?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-standalone-server@4.1.0-RC01
+- pkg:maven/io.bluebank.braid/braid-standalone-server@4.1.0-RC01?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-standalone-server@3.3.4
+- pkg:maven/io.bluebank.braid/braid-standalone-server@3.3.4?classifier=sources
