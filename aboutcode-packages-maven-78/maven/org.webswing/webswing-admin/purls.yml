@@ -22,3 +22,5 @@
 - pkg:maven/org.webswing/webswing-admin@2.6.1?classifier=sources
 - pkg:maven/org.webswing/webswing-admin@2.6.3?type=war
 - pkg:maven/org.webswing/webswing-admin@2.6.3?classifier=sources
+- pkg:maven/org.webswing/webswing-admin@2.6.4?type=war
+- pkg:maven/org.webswing/webswing-admin@2.6.4?classifier=sources

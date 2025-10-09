@@ -274,3 +274,9 @@
 - pkg:maven/software.amazon.awssdk/rds@2.7.11?classifier=sources
 - pkg:maven/software.amazon.awssdk/rds@2.7.10
 - pkg:maven/software.amazon.awssdk/rds@2.7.10?classifier=sources
+- pkg:maven/software.amazon.awssdk/rds@2.7.16
+- pkg:maven/software.amazon.awssdk/rds@2.7.16?classifier=sources
+- pkg:maven/software.amazon.awssdk/rds@2.7.15
+- pkg:maven/software.amazon.awssdk/rds@2.7.15?classifier=sources
+- pkg:maven/software.amazon.awssdk/rds@2.7.14
+- pkg:maven/software.amazon.awssdk/rds@2.7.14?classifier=sources
