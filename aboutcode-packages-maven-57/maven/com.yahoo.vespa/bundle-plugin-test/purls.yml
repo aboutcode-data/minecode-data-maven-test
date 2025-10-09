@@ -41,3 +41,6 @@
 - pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.221.26?classifier=sources
 - pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.220.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.219.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.225.3?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.224.75?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.223.147?classifier=sources

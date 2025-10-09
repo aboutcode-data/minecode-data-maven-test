@@ -38,3 +38,5 @@
 - pkg:maven/fish.payara.extras/payara-micro@5.Beta2?classifier=sources
 - pkg:maven/fish.payara.extras/payara-micro@4.1.2.181
 - pkg:maven/fish.payara.extras/payara-micro@4.1.2.181?classifier=sources
+- pkg:maven/fish.payara.extras/payara-micro@5.181
+- pkg:maven/fish.payara.extras/payara-micro@5.181?classifier=sources

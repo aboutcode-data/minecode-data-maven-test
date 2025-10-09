@@ -24,3 +24,5 @@
 - pkg:maven/com.uber.jaeger/jaeger-tracerresolver@0.24.0?classifier=sources
 - pkg:maven/com.uber.jaeger/jaeger-tracerresolver@0.25.0
 - pkg:maven/com.uber.jaeger/jaeger-tracerresolver@0.25.0?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-tracerresolver@0.26.0
+- pkg:maven/com.uber.jaeger/jaeger-tracerresolver@0.26.0?classifier=sources

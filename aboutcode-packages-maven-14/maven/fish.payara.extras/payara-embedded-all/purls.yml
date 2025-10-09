@@ -42,3 +42,5 @@
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.Beta2?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.2.181
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.2.181?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@5.181
+- pkg:maven/fish.payara.extras/payara-embedded-all@5.181?classifier=sources

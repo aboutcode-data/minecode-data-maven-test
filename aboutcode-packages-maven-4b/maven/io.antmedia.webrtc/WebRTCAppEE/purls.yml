@@ -8,3 +8,5 @@
 - pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.2.5?classifier=sources
 - pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.2.4?type=war
 - pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.2.4?classifier=sources
+- pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.2.6?type=war
+- pkg:maven/io.antmedia.webrtc/WebRTCAppEE@1.2.6?classifier=sources

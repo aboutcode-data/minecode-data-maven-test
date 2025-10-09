@@ -44,3 +44,5 @@
 - pkg:maven/de.escalon.hypermedia/webapp@0.3.2?classifier=sources
 - pkg:maven/de.escalon.hypermedia/webapp@0.4.0?type=war
 - pkg:maven/de.escalon.hypermedia/webapp@0.4.0?classifier=sources
+- pkg:maven/de.escalon.hypermedia/webapp@0.4.1?type=war
+- pkg:maven/de.escalon.hypermedia/webapp@0.4.1?classifier=sources

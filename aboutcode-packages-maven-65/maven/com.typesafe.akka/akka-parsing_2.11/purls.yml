@@ -74,3 +74,7 @@
 - pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.1.0-RC2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.1.0
 - pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.1.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.0.13
+- pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.0.13?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.0.12
+- pkg:maven/com.typesafe.akka/akka-parsing_2.11@10.0.12?classifier=sources

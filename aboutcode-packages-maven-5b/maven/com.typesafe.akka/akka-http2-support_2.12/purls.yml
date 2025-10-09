@@ -30,3 +30,7 @@
 - pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.1.0-RC2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.1.0
 - pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.1.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.0.13
+- pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.0.13?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.0.12
+- pkg:maven/com.typesafe.akka/akka-http2-support_2.12@10.0.12?classifier=sources
