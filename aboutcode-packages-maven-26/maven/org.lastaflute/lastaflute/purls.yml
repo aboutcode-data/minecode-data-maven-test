@@ -438,3 +438,5 @@
 - pkg:maven/org.lastaflute/lastaflute@1.0.0-RCB?classifier=sources
 - pkg:maven/org.lastaflute/lastaflute@1.0.0-RCA
 - pkg:maven/org.lastaflute/lastaflute@1.0.0-RCA?classifier=sources
+- pkg:maven/org.lastaflute/lastaflute@1.0.0
+- pkg:maven/org.lastaflute/lastaflute@1.0.0?classifier=sources

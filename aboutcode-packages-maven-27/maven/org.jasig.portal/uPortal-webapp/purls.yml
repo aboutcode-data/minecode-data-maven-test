@@ -12,3 +12,5 @@
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.0.0-M6?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.0.0-M7?type=war
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.0.0-M7?classifier=sources
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.0.0-M8?type=war
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.0.0-M8?classifier=sources

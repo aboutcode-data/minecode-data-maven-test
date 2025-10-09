@@ -6,3 +6,5 @@
 - pkg:maven/org.seleniumhq.selenium/lift@3.5.2?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/lift@3.5.3
 - pkg:maven/org.seleniumhq.selenium/lift@3.5.3?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.6.0
+- pkg:maven/org.seleniumhq.selenium/lift@3.6.0?classifier=sources

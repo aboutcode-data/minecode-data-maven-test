@@ -188,3 +188,7 @@
 - pkg:maven/org.redisson/redisson@2.10.3?classifier=sources
 - pkg:maven/org.redisson/redisson@2.10.2
 - pkg:maven/org.redisson/redisson@2.10.2?classifier=sources
+- pkg:maven/org.redisson/redisson@3.5.4
+- pkg:maven/org.redisson/redisson@3.5.4?classifier=sources
+- pkg:maven/org.redisson/redisson@2.10.4
+- pkg:maven/org.redisson/redisson@2.10.4?classifier=sources

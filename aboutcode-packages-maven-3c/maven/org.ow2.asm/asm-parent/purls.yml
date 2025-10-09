@@ -12,3 +12,4 @@
 - pkg:maven/org.ow2.asm/asm-parent@6.0_ALPHA?classifier=sources
 - pkg:maven/org.ow2.asm/asm-parent@5.2?classifier=sources
 - pkg:maven/org.ow2.asm/asm-parent@6.0_BETA?classifier=sources
+- pkg:maven/org.ow2.asm/asm-parent@6.0?classifier=sources
