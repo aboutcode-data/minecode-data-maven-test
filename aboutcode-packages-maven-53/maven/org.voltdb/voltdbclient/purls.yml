@@ -24,3 +24,5 @@
 - pkg:maven/org.voltdb/voltdbclient@6.3?classifier=sources
 - pkg:maven/org.voltdb/voltdbclient@6.4
 - pkg:maven/org.voltdb/voltdbclient@6.4?classifier=sources
+- pkg:maven/org.voltdb/voltdbclient@6.5
+- pkg:maven/org.voltdb/voltdbclient@6.5?classifier=sources

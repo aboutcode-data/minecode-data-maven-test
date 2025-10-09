@@ -19,3 +19,7 @@
 - pkg:maven/org.wildfly.swarm/security@1.0.0.Final
 - pkg:maven/org.wildfly.swarm/security@1.0.1.Final
 - pkg:maven/org.wildfly.swarm/security@1.0.2.Final
+- pkg:maven/org.wildfly.swarm/security@2016.8.1
+- pkg:maven/org.wildfly.swarm/security@2016.8.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/security@2016.8
+- pkg:maven/org.wildfly.swarm/security@2016.8?classifier=sources

@@ -11,3 +11,7 @@
 - pkg:maven/org.wildfly.swarm/keycloak-server@1.0.0.CR2
 - pkg:maven/org.wildfly.swarm/keycloak-server@1.0.0.Final
 - pkg:maven/org.wildfly.swarm/keycloak-server@1.0.1.Final
+- pkg:maven/org.wildfly.swarm/keycloak-server@2016.8.1
+- pkg:maven/org.wildfly.swarm/keycloak-server@2016.8.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/keycloak-server@2016.8
+- pkg:maven/org.wildfly.swarm/keycloak-server@2016.8?classifier=sources

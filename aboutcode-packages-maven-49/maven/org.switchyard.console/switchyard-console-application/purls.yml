@@ -44,3 +44,5 @@
 - pkg:maven/org.switchyard.console/switchyard-console-application@2.0.1.redhat-621107?classifier=sources
 - pkg:maven/org.switchyard.console/switchyard-console-application@2.0.1.redhat-621117?type=war
 - pkg:maven/org.switchyard.console/switchyard-console-application@2.0.1.redhat-621117?classifier=sources
+- pkg:maven/org.switchyard.console/switchyard-console-application@2.1.0.Final?type=war
+- pkg:maven/org.switchyard.console/switchyard-console-application@2.1.0.Final?classifier=sources
