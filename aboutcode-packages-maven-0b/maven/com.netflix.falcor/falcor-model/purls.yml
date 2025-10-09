@@ -184,3 +184,5 @@
 - pkg:maven/com.netflix.falcor/falcor-model@0.90.0?classifier=sources
 - pkg:maven/com.netflix.falcor/falcor-model@0.89.0
 - pkg:maven/com.netflix.falcor/falcor-model@0.89.0?classifier=sources
+- pkg:maven/com.netflix.falcor/falcor-model@0.96.0
+- pkg:maven/com.netflix.falcor/falcor-model@0.96.0?classifier=sources
