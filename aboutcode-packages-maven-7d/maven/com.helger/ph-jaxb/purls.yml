@@ -14,3 +14,5 @@
 - pkg:maven/com.helger/ph-jaxb@6.2.4?classifier=sources
 - pkg:maven/com.helger/ph-jaxb@8.0.0-rc1
 - pkg:maven/com.helger/ph-jaxb@8.0.0-rc1?classifier=sources
+- pkg:maven/com.helger/ph-jaxb@8.0.0
+- pkg:maven/com.helger/ph-jaxb@8.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.upyun/java-sdk@3.4?classifier=sources
 - pkg:maven/com.upyun/java-sdk@3.6
 - pkg:maven/com.upyun/java-sdk@3.6?classifier=sources
+- pkg:maven/com.upyun/java-sdk@3.7
+- pkg:maven/com.upyun/java-sdk@3.7?classifier=sources

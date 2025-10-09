@@ -8,3 +8,5 @@
 - pkg:maven/com.mapzen.tangram/tangram@0.2.2?classifier=sources
 - pkg:maven/com.mapzen.tangram/tangram@0.3?type=aar
 - pkg:maven/com.mapzen.tangram/tangram@0.3?classifier=sources
+- pkg:maven/com.mapzen.tangram/tangram@0.3.1?type=aar
+- pkg:maven/com.mapzen.tangram/tangram@0.3.1?classifier=sources
