@@ -52,3 +52,5 @@
 - pkg:maven/me.snowdrop/istio-model@1.1.0-Beta3?classifier=sources
 - pkg:maven/me.snowdrop/istio-model@1.1.0-Beta5
 - pkg:maven/me.snowdrop/istio-model@1.1.0-Beta5?classifier=sources
+- pkg:maven/me.snowdrop/istio-model@1.1.0
+- pkg:maven/me.snowdrop/istio-model@1.1.0?classifier=sources
