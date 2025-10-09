@@ -42,3 +42,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-mechanism-oauth2@1.10.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-mechanism-oauth2@1.11.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-mechanism-oauth2@1.11.0.CR1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-mechanism-oauth2@2.0.0.Alpha5
+- pkg:maven/org.wildfly.security/wildfly-elytron-mechanism-oauth2@2.0.0.Alpha5?classifier=sources

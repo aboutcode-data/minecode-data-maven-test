@@ -77,3 +77,6 @@
 - pkg:maven/org.wso2.carbon.dashboards.samples/org.wso2.carbon.dashboards.samples.feature@4.0.58?classifier=sources
 - pkg:maven/org.wso2.carbon.dashboards.samples/org.wso2.carbon.dashboards.samples.feature@4.0.57?classifier=sources
 - pkg:maven/org.wso2.carbon.dashboards.samples/org.wso2.carbon.dashboards.samples.feature@4.0.13?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards.samples/org.wso2.carbon.dashboards.samples.feature@4.1.1?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards.samples/org.wso2.carbon.dashboards.samples.feature@4.1.0?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards.samples/org.wso2.carbon.dashboards.samples.feature@4.0.71?classifier=sources

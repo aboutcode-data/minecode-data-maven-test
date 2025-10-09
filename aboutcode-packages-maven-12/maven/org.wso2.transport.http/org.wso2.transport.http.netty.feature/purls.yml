@@ -224,3 +224,6 @@
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.feature@6.0.292?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.feature@6.0.294?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.feature@6.0.293?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.feature@6.2.29?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.feature@6.2.28?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.feature@6.2.27?classifier=sources

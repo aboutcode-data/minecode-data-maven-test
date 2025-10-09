@@ -68,3 +68,4 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@2.3.0.redhat-621222
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@2.3.0.redhat-621222?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@10.2.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@10.3.0
