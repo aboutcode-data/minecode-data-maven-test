@@ -54,3 +54,7 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.3.11.v20160721?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.0.M1
 - pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.0.M1?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.0.RC0
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.4.0.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.3.12.v20160915
+- pkg:maven/org.eclipse.jetty.http2/http2-hpack@9.3.12.v20160915?classifier=sources

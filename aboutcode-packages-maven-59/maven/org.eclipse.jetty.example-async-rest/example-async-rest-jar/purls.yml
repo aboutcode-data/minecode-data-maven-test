@@ -234,3 +234,9 @@
 - pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@8.2.0.v20160908?classifier=sources
 - pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@8.1.21.v20160908
 - pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@8.1.21.v20160908?classifier=sources
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@9.4.0.RC0
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@9.4.0.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@9.3.12.v20160915
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@9.3.12.v20160915?classifier=sources
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@8.1.22.v20160922
+- pkg:maven/org.eclipse.jetty.example-async-rest/example-async-rest-jar@8.1.22.v20160922?classifier=sources

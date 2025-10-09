@@ -25,3 +25,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.jcr-mock@1.1.14
 - pkg:maven/org.apache.sling/org.apache.sling.testing.jcr-mock@1.1.14?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.jcr-mock@1.1.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.jcr-mock@1.1.16
+- pkg:maven/org.apache.sling/org.apache.sling.testing.jcr-mock@1.1.16?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.jcr-mock@1.1.16?classifier=source-release&type=zip

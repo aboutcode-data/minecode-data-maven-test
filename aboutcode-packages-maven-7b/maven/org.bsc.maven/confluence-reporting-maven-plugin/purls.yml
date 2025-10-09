@@ -38,3 +38,5 @@
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@4.12?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@4.13
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@4.13?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@5.0-beta1
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@5.0-beta1?classifier=sources
