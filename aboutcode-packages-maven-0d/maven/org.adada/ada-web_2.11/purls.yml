@@ -4,3 +4,5 @@
 - pkg:maven/org.adada/ada-web_2.11@0.7.3.RC.6?classifier=sources
 - pkg:maven/org.adada/ada-web_2.11@0.7.3.RC.9
 - pkg:maven/org.adada/ada-web_2.11@0.7.3.RC.9?classifier=sources
+- pkg:maven/org.adada/ada-web_2.11@0.7.3
+- pkg:maven/org.adada/ada-web_2.11@0.7.3?classifier=sources

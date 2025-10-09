@@ -20,3 +20,5 @@
 - pkg:maven/org.drools/camel-container-tests-module@7.22.0.Final?classifier=sources
 - pkg:maven/org.drools/camel-container-tests-module@7.23.0.Final?type=war
 - pkg:maven/org.drools/camel-container-tests-module@7.23.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.24.0.t043?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.24.0.t043?classifier=sources

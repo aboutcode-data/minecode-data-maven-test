@@ -8,3 +8,5 @@
 - pkg:maven/org.alluxio/alluxio-integration-mesos@1.6.0?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-mesos@2.0.0-preview
 - pkg:maven/org.alluxio/alluxio-integration-mesos@2.0.0-preview?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-mesos@2.0.0
+- pkg:maven/org.alluxio/alluxio-integration-mesos@2.0.0?classifier=sources

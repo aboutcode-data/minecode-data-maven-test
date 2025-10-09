@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.ecore@2.11.1?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.ecore@2.15.0
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.ecore@2.15.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.ecore@2.18.0
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.ecore@2.18.0?classifier=sources

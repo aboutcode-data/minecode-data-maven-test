@@ -20,3 +20,5 @@
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.97.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.98.0
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.98.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.99.0
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.99.0?classifier=sources
