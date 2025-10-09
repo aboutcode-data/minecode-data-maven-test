@@ -220,3 +220,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-core@2.13.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-core@2.12.7
 - pkg:maven/com.amazonaws/aws-android-sdk-core@2.12.7?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-core@2.13.2
+- pkg:maven/com.amazonaws/aws-android-sdk-core@2.13.2?classifier=sources

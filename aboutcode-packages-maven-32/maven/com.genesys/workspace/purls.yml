@@ -732,3 +732,5 @@
 - pkg:maven/com.genesys/workspace@9.0.12?classifier=sources
 - pkg:maven/com.genesys/workspace@9.0.14
 - pkg:maven/com.genesys/workspace@9.0.14?classifier=sources
+- pkg:maven/com.genesys/workspace@9.0.15
+- pkg:maven/com.genesys/workspace@9.0.15?classifier=sources

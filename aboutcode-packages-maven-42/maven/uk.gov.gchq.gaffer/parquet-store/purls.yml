@@ -88,3 +88,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/parquet-store@1.9.0-RC2?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/parquet-store@1.9.0-RC1
 - pkg:maven/uk.gov.gchq.gaffer/parquet-store@1.9.0-RC1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/parquet-store@1.9.0
+- pkg:maven/uk.gov.gchq.gaffer/parquet-store@1.9.0?classifier=sources
