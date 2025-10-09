@@ -14,3 +14,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-billing@1.6.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-billing@1.7.0-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-billing@1.7.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-billing@1.8.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-billing@1.8.0-beta?classifier=sources

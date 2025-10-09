@@ -22,3 +22,5 @@
 - pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.39?classifier=sources
 - pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.38
 - pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.38?classifier=sources
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.40
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.40?classifier=sources

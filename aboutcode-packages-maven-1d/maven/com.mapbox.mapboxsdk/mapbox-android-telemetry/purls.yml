@@ -40,3 +40,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@2.2.10?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@3.0.0-beta.2?type=aar
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@3.0.0-beta.2?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@3.0.0-beta.3?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@3.0.0-beta.3?classifier=sources
