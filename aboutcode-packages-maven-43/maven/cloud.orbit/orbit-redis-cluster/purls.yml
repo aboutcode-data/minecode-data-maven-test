@@ -56,3 +56,5 @@
 - pkg:maven/cloud.orbit/orbit-redis-cluster@1.4.0-rc1?classifier=sources
 - pkg:maven/cloud.orbit/orbit-redis-cluster@1.4.0-oldredisson
 - pkg:maven/cloud.orbit/orbit-redis-cluster@1.4.0-oldredisson?classifier=sources
+- pkg:maven/cloud.orbit/orbit-redis-cluster@1.4.0-rc2
+- pkg:maven/cloud.orbit/orbit-redis-cluster@1.4.0-rc2?classifier=sources

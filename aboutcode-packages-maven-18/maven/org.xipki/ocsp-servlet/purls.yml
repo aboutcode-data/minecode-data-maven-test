@@ -10,3 +10,5 @@
 - pkg:maven/org.xipki/ocsp-servlet@5.3.0?classifier=sources
 - pkg:maven/org.xipki/ocsp-servlet@5.3.1?type=war
 - pkg:maven/org.xipki/ocsp-servlet@5.3.1?classifier=sources
+- pkg:maven/org.xipki/ocsp-servlet@5.3.2?type=war
+- pkg:maven/org.xipki/ocsp-servlet@5.3.2?classifier=sources

@@ -74,3 +74,9 @@
 - pkg:maven/software.amazon.awscdk/sagemaker@0.35.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/sagemaker@0.36.0
 - pkg:maven/software.amazon.awscdk/sagemaker@0.36.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/sagemaker@0.37.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/sagemaker@0.37.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/sagemaker@0.36.2.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/sagemaker@0.36.2.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/sagemaker@0.36.1
+- pkg:maven/software.amazon.awscdk/sagemaker@0.36.1?classifier=sources
