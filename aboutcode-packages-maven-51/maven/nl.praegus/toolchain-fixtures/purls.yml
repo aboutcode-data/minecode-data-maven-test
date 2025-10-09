@@ -28,3 +28,5 @@
 - pkg:maven/nl.praegus/toolchain-fixtures@1.10.1?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fixtures@1.10
 - pkg:maven/nl.praegus/toolchain-fixtures@1.10?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.13
+- pkg:maven/nl.praegus/toolchain-fixtures@1.13?classifier=sources
