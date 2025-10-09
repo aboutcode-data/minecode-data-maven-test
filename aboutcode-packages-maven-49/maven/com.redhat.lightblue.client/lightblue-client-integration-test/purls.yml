@@ -32,3 +32,5 @@
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-integration-test@4.6.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-integration-test@5.1.0
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-integration-test@5.1.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-integration-test@5.2.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-integration-test@5.2.0?classifier=sources
