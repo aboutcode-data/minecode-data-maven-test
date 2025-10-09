@@ -10,3 +10,5 @@
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha8?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha9
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Alpha9?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Beta1
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch-aws@6.0.0.Beta1?classifier=sources

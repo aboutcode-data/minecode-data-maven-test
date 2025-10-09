@@ -78,3 +78,5 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@7.4.20?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@7.2.44
 - pkg:maven/org.hpccsystems/spark-hpcc@7.2.44?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@7.4.22
+- pkg:maven/org.hpccsystems/spark-hpcc@7.4.22?classifier=sources
