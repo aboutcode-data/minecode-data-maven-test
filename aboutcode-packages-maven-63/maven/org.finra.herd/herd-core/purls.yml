@@ -106,3 +106,5 @@
 - pkg:maven/org.finra.herd/herd-core@0.80.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-core@0.81.0
 - pkg:maven/org.finra.herd/herd-core@0.81.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-core@0.82.0
+- pkg:maven/org.finra.herd/herd-core@0.82.0?classifier=sources

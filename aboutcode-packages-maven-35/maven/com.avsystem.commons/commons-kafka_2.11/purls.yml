@@ -82,3 +82,5 @@
 - pkg:maven/com.avsystem.commons/commons-kafka_2.11@1.33.0?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-kafka_2.11@1.33.2
 - pkg:maven/com.avsystem.commons/commons-kafka_2.11@1.33.2?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-kafka_2.11@1.33.3
+- pkg:maven/com.avsystem.commons/commons-kafka_2.11@1.33.3?classifier=sources

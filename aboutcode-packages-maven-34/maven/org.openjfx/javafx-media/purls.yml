@@ -10,3 +10,5 @@
 - pkg:maven/org.openjfx/javafx-media@11?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@11.0.1-ea%2B1
 - pkg:maven/org.openjfx/javafx-media@11.0.1-ea%2B1?classifier=sources
+- pkg:maven/org.openjfx/javafx-media@11.0.1
+- pkg:maven/org.openjfx/javafx-media@11.0.1?classifier=sources

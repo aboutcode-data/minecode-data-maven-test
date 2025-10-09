@@ -29,3 +29,6 @@
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@11
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@11?classifier=sources
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@11?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@12
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@12?classifier=sources
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@12?classifier=source-release&type=zip

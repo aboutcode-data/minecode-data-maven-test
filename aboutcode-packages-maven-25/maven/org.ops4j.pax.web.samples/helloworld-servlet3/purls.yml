@@ -186,3 +186,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-servlet3@7.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-servlet3@6.0.11?type=war
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-servlet3@6.0.11?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-servlet3@7.2.4?type=war
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-servlet3@7.2.4?classifier=sources

@@ -96,3 +96,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@6.0.11?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@6.0.11?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@7.2.4?type=war
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@7.2.4?classifier=sources
