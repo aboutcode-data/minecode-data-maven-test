@@ -1,3 +1,5 @@
 - pkg:maven/org.odpi.egeria/stewardship-action-api@0.1
 - pkg:maven/org.odpi.egeria/stewardship-action-api@0.2
 - pkg:maven/org.odpi.egeria/stewardship-action-api@1.0
+- pkg:maven/org.odpi.egeria/stewardship-action-api@1.1
+- pkg:maven/org.odpi.egeria/stewardship-action-api@1.1?classifier=sources
