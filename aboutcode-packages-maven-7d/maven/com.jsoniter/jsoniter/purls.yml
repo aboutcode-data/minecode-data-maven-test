@@ -26,3 +26,5 @@
 - pkg:maven/com.jsoniter/jsoniter@0.9.13?classifier=sources
 - pkg:maven/com.jsoniter/jsoniter@0.9.15
 - pkg:maven/com.jsoniter/jsoniter@0.9.15?classifier=sources
+- pkg:maven/com.jsoniter/jsoniter@0.9.16
+- pkg:maven/com.jsoniter/jsoniter@0.9.16?classifier=sources

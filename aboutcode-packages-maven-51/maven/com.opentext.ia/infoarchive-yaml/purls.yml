@@ -120,3 +120,7 @@
 - pkg:maven/com.opentext.ia/infoarchive-yaml@8.5.2?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-yaml@8.5.1
 - pkg:maven/com.opentext.ia/infoarchive-yaml@8.5.1?classifier=sources
+- pkg:maven/com.opentext.ia/infoarchive-yaml@9.0.0
+- pkg:maven/com.opentext.ia/infoarchive-yaml@9.0.0?classifier=sources
+- pkg:maven/com.opentext.ia/infoarchive-yaml@8.6.1
+- pkg:maven/com.opentext.ia/infoarchive-yaml@8.6.1?classifier=sources

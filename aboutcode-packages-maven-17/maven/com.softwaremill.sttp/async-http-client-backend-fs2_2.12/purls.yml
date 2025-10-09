@@ -6,3 +6,7 @@
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.16?classifier=sources
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.17
 - pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.17?classifier=sources
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.20
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.20?classifier=sources
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.18
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.12@0.0.18?classifier=sources
