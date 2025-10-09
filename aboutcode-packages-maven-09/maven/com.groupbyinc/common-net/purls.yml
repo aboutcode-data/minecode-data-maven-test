@@ -288,3 +288,5 @@
 - pkg:maven/com.groupbyinc/common-net@172?classifier=sources
 - pkg:maven/com.groupbyinc/common-net@171
 - pkg:maven/com.groupbyinc/common-net@171?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@180
+- pkg:maven/com.groupbyinc/common-net@180?classifier=sources

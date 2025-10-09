@@ -102,3 +102,5 @@
 - pkg:maven/com.google.cloud/google-cloud-core-grpc@1.38.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core-grpc@1.39.0
 - pkg:maven/com.google.cloud/google-cloud-core-grpc@1.39.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core-grpc@1.40.0
+- pkg:maven/com.google.cloud/google-cloud-core-grpc@1.40.0?classifier=sources

@@ -250,3 +250,5 @@
 - pkg:maven/com.groupbyinc/common-web@172?classifier=sources
 - pkg:maven/com.groupbyinc/common-web@171
 - pkg:maven/com.groupbyinc/common-web@171?classifier=sources
+- pkg:maven/com.groupbyinc/common-web@180
+- pkg:maven/com.groupbyinc/common-web@180?classifier=sources
