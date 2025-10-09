@@ -86,3 +86,5 @@
 - pkg:maven/com.lithium.flow/flow@0.7-beta11?classifier=sources
 - pkg:maven/com.lithium.flow/flow@0.7-beta12
 - pkg:maven/com.lithium.flow/flow@0.7-beta12?classifier=sources
+- pkg:maven/com.lithium.flow/flow@0.7
+- pkg:maven/com.lithium.flow/flow@0.7?classifier=sources

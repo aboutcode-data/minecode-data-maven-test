@@ -30,3 +30,5 @@
 - pkg:maven/com.tunnelvisionlabs/antlr4@4.6?classifier=sources
 - pkg:maven/com.tunnelvisionlabs/antlr4@4.7
 - pkg:maven/com.tunnelvisionlabs/antlr4@4.7?classifier=sources
+- pkg:maven/com.tunnelvisionlabs/antlr4@4.7.1
+- pkg:maven/com.tunnelvisionlabs/antlr4@4.7.1?classifier=sources

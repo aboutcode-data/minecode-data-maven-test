@@ -26,3 +26,5 @@
 - pkg:maven/com.hubrick.vertx/vertx-kafka-service@1.2.11?classifier=sources
 - pkg:maven/com.hubrick.vertx/vertx-kafka-service@1.2.10
 - pkg:maven/com.hubrick.vertx/vertx-kafka-service@1.2.10?classifier=sources
+- pkg:maven/com.hubrick.vertx/vertx-kafka-service@1.2.12
+- pkg:maven/com.hubrick.vertx/vertx-kafka-service@1.2.12?classifier=sources
