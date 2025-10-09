@@ -1,0 +1,4 @@
+- pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.8
+- pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.8?classifier=sources
+- pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.7
+- pkg:maven/com.tqdev.metrics/metrics-jdbc@0.9.7?classifier=sources
