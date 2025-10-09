@@ -168,3 +168,5 @@
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@7.69.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@7.68.36?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@7.72.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@7.74.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@7.73.13?classifier=sources

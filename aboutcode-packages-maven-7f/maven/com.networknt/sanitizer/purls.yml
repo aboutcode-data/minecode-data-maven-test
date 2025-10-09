@@ -150,3 +150,7 @@
 - pkg:maven/com.networknt/sanitizer@1.6.4?classifier=sources
 - pkg:maven/com.networknt/sanitizer@1.6.3
 - pkg:maven/com.networknt/sanitizer@1.6.3?classifier=sources
+- pkg:maven/com.networknt/sanitizer@2.0.2
+- pkg:maven/com.networknt/sanitizer@2.0.2?classifier=sources
+- pkg:maven/com.networknt/sanitizer@1.6.5
+- pkg:maven/com.networknt/sanitizer@1.6.5?classifier=sources

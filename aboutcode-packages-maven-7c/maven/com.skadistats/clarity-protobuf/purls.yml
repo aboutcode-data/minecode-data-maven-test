@@ -34,3 +34,5 @@
 - pkg:maven/com.skadistats/clarity-protobuf@4.13?classifier=sources
 - pkg:maven/com.skadistats/clarity-protobuf@4.15
 - pkg:maven/com.skadistats/clarity-protobuf@4.15?classifier=sources
+- pkg:maven/com.skadistats/clarity-protobuf@4.16
+- pkg:maven/com.skadistats/clarity-protobuf@4.16?classifier=sources
