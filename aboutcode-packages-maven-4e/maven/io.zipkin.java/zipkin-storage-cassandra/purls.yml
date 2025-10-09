@@ -140,3 +140,7 @@
 - pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.22.0?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.23.0
 - pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.23.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.23.2
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.23.2?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.23.1
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra@1.23.1?classifier=sources
