@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/express@5.0.0-alpha.7?classifier=sources
 - pkg:maven/org.webjars.npm/express@4.11.0
 - pkg:maven/org.webjars.npm/express@4.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/express@4.16.4
+- pkg:maven/org.webjars.npm/express@4.16.4?classifier=sources

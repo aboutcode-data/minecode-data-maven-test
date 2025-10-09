@@ -18,3 +18,5 @@
 - pkg:maven/org.webswing/webswing-server-war@2.5.12?classifier=sources
 - pkg:maven/org.webswing/webswing-server-war@2.6?type=war
 - pkg:maven/org.webswing/webswing-server-war@2.6?classifier=sources
+- pkg:maven/org.webswing/webswing-server-war@2.6.1?type=war
+- pkg:maven/org.webswing/webswing-server-war@2.6.1?classifier=sources

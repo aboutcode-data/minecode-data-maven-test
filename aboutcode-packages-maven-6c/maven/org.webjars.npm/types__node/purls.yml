@@ -118,3 +118,7 @@
 - pkg:maven/org.webjars.npm/types__node@11.13.4?classifier=sources
 - pkg:maven/org.webjars.npm/types__node@11.13.6
 - pkg:maven/org.webjars.npm/types__node@11.13.6?classifier=sources
+- pkg:maven/org.webjars.npm/types__node@8.10.48
+- pkg:maven/org.webjars.npm/types__node@8.10.48?classifier=sources
+- pkg:maven/org.webjars.npm/types__node@12.0.0
+- pkg:maven/org.webjars.npm/types__node@12.0.0?classifier=sources
