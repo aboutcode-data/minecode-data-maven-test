@@ -28,3 +28,5 @@
 - pkg:maven/org.jodd/jodd-decora@4.1.2
 - pkg:maven/org.jodd/jodd-decora@4.1.2?classifier=sources
 - pkg:maven/org.jodd/jodd-decora@4.1.4?classifier=sources
+- pkg:maven/org.jodd/jodd-decora@3.6.8
+- pkg:maven/org.jodd/jodd-decora@3.6.8?classifier=sources

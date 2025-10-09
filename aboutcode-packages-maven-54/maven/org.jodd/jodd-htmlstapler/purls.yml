@@ -28,3 +28,5 @@
 - pkg:maven/org.jodd/jodd-htmlstapler@4.1.2
 - pkg:maven/org.jodd/jodd-htmlstapler@4.1.2?classifier=sources
 - pkg:maven/org.jodd/jodd-htmlstapler@4.1.4?classifier=sources
+- pkg:maven/org.jodd/jodd-htmlstapler@3.6.8
+- pkg:maven/org.jodd/jodd-htmlstapler@3.6.8?classifier=sources

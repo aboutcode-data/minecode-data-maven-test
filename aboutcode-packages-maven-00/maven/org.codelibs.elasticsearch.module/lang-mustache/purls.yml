@@ -70,3 +70,7 @@
 - pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@6.2.1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@6.2.0
 - pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@6.2.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@6.2.2
+- pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@6.2.2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@5.6.8
+- pkg:maven/org.codelibs.elasticsearch.module/lang-mustache@5.6.8?classifier=sources

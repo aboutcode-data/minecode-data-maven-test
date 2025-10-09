@@ -80,3 +80,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-openshift-security-filter@0.28.3.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-openshift-security-filter@0.21.11.Final
 - pkg:maven/org.hawkular.metrics/hawkular-openshift-security-filter@0.21.11.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-openshift-security-filter@0.29.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-openshift-security-filter@0.29.0.Final?classifier=sources

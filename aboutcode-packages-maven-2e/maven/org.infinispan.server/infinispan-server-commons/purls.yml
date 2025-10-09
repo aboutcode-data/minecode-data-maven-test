@@ -122,3 +122,5 @@
 - pkg:maven/org.infinispan.server/infinispan-server-commons@9.1.5.Final?classifier=sources
 - pkg:maven/org.infinispan.server/infinispan-server-commons@9.1.6.Final
 - pkg:maven/org.infinispan.server/infinispan-server-commons@9.1.6.Final?classifier=sources
+- pkg:maven/org.infinispan.server/infinispan-server-commons@9.2.0.CR3
+- pkg:maven/org.infinispan.server/infinispan-server-commons@9.2.0.CR3?classifier=sources

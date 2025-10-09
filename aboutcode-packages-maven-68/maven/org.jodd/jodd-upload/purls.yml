@@ -80,3 +80,5 @@
 - pkg:maven/org.jodd/jodd-upload@4.1.4?classifier=sources
 - pkg:maven/org.jodd/jodd-upload@3.6.4-liferay
 - pkg:maven/org.jodd/jodd-upload@3.6.4-liferay?classifier=sources
+- pkg:maven/org.jodd/jodd-upload@3.6.8
+- pkg:maven/org.jodd/jodd-upload@3.6.8?classifier=sources
