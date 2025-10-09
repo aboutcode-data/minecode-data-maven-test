@@ -36,3 +36,5 @@
 - pkg:maven/com.wildbit.java/postmark@1.1.9?classifier=sources
 - pkg:maven/com.wildbit.java/postmark@1.1.8
 - pkg:maven/com.wildbit.java/postmark@1.1.8?classifier=sources
+- pkg:maven/com.wildbit.java/postmark@1.2.0
+- pkg:maven/com.wildbit.java/postmark@1.2.0?classifier=sources
