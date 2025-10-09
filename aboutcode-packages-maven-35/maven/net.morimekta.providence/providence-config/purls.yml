@@ -118,3 +118,5 @@
 - pkg:maven/net.morimekta.providence/providence-config@2.0-beta4?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-config@2.0-beta3
 - pkg:maven/net.morimekta.providence/providence-config@2.0-beta3?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-config@2.0.0
+- pkg:maven/net.morimekta.providence/providence-config@2.0.0?classifier=sources

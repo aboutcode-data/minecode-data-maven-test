@@ -78,3 +78,9 @@
 - pkg:maven/com.qiniu/qsuits@6.20-thin?classifier=sources
 - pkg:maven/com.qiniu/qsuits@6.20
 - pkg:maven/com.qiniu/qsuits@6.20?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.30-thin
+- pkg:maven/com.qiniu/qsuits@6.30-thin?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.30
+- pkg:maven/com.qiniu/qsuits@6.30?classifier=sources
+- pkg:maven/com.qiniu/qsuits@6.20-beta
+- pkg:maven/com.qiniu/qsuits@6.20-beta?classifier=sources
