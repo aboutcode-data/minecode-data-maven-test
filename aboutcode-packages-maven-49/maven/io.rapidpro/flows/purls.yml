@@ -40,3 +40,5 @@
 - pkg:maven/io.rapidpro/flows@1.5.0?classifier=sources
 - pkg:maven/io.rapidpro/flows@1.4.0
 - pkg:maven/io.rapidpro/flows@1.4.0?classifier=sources
+- pkg:maven/io.rapidpro/flows@11.0.1
+- pkg:maven/io.rapidpro/flows@11.0.1?classifier=sources

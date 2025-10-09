@@ -1,2 +1,4 @@
 - pkg:maven/fr.ird.observe.toolkit/common-client@1.6
 - pkg:maven/fr.ird.observe.toolkit/common-client@1.6?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-client@2.0-alpha-1
+- pkg:maven/fr.ird.observe.toolkit/common-client@2.0-alpha-1?classifier=sources

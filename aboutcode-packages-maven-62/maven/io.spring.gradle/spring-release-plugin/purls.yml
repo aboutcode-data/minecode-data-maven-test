@@ -28,3 +28,5 @@
 - pkg:maven/io.spring.gradle/spring-release-plugin@0.13.0?classifier=sources
 - pkg:maven/io.spring.gradle/spring-release-plugin@0.12.0
 - pkg:maven/io.spring.gradle/spring-release-plugin@0.12.0?classifier=sources
+- pkg:maven/io.spring.gradle/spring-release-plugin@0.15.0
+- pkg:maven/io.spring.gradle/spring-release-plugin@0.15.0?classifier=sources

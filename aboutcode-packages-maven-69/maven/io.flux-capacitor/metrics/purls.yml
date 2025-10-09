@@ -10,3 +10,5 @@
 - pkg:maven/io.flux-capacitor/metrics@0.0.6?classifier=sources
 - pkg:maven/io.flux-capacitor/metrics@0.2
 - pkg:maven/io.flux-capacitor/metrics@0.2?classifier=sources
+- pkg:maven/io.flux-capacitor/metrics@0.3
+- pkg:maven/io.flux-capacitor/metrics@0.3?classifier=sources

@@ -41,3 +41,7 @@
 - pkg:maven/io.jboot/jboot@1.0-rc.4?classifier=sources
 - pkg:maven/io.jboot/jboot@1.0-rc.3
 - pkg:maven/io.jboot/jboot@1.0-rc.3?classifier=sources
+- pkg:maven/io.jboot/jboot@1.1.0
+- pkg:maven/io.jboot/jboot@1.1.0?classifier=sources
+- pkg:maven/io.jboot/jboot@1.0
+- pkg:maven/io.jboot/jboot@1.0?classifier=sources
