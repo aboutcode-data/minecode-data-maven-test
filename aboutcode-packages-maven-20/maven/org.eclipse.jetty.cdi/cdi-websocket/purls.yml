@@ -98,3 +98,7 @@
 - pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.4.7.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.21.RC0
 - pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.21.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.4.7.v20170914
+- pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.4.7.v20170914?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.21.v20170918
+- pkg:maven/org.eclipse.jetty.cdi/cdi-websocket@9.3.21.v20170918?classifier=sources

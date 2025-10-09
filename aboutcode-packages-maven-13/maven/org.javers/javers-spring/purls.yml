@@ -264,3 +264,5 @@
 - pkg:maven/org.javers/javers-spring@3.5.0?classifier=sources
 - pkg:maven/org.javers/javers-spring@3.4.0
 - pkg:maven/org.javers/javers-spring@3.4.0?classifier=sources
+- pkg:maven/org.javers/javers-spring@3.5.1
+- pkg:maven/org.javers/javers-spring@3.5.1?classifier=sources

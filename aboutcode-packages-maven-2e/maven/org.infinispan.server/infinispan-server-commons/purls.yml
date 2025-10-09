@@ -98,3 +98,5 @@
 - pkg:maven/org.infinispan.server/infinispan-server-commons@8.2.8.Final?classifier=sources
 - pkg:maven/org.infinispan.server/infinispan-server-commons@8.1.9.Final
 - pkg:maven/org.infinispan.server/infinispan-server-commons@8.1.9.Final?classifier=sources
+- pkg:maven/org.infinispan.server/infinispan-server-commons@9.1.1.Final
+- pkg:maven/org.infinispan.server/infinispan-server-commons@9.1.1.Final?classifier=sources

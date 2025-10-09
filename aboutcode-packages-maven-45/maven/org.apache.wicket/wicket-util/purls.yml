@@ -164,3 +164,5 @@
 - pkg:maven/org.apache.wicket/wicket-util@8.0.0-M7?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@6.27.1
 - pkg:maven/org.apache.wicket/wicket-util@6.27.1?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@7.9.0
+- pkg:maven/org.apache.wicket/wicket-util@7.9.0?classifier=sources

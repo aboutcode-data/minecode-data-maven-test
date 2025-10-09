@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@9.0.0.M3?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@9.0.0.M5
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@9.0.0.M5?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections-api@9.0.0
+- pkg:maven/org.eclipse.collections/eclipse-collections-api@9.0.0?classifier=sources

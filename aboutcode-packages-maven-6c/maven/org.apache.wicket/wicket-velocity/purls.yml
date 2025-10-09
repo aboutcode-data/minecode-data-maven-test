@@ -256,3 +256,5 @@
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M7?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@6.27.1
 - pkg:maven/org.apache.wicket/wicket-velocity@6.27.1?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@7.9.0
+- pkg:maven/org.apache.wicket/wicket-velocity@7.9.0?classifier=sources

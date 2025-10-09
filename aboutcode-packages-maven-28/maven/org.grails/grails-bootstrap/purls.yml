@@ -251,3 +251,5 @@
 - pkg:maven/org.grails/grails-bootstrap@3.2.11?classifier=sources
 - pkg:maven/org.grails/grails-bootstrap@3.3.0
 - pkg:maven/org.grails/grails-bootstrap@3.3.0?classifier=sources
+- pkg:maven/org.grails/grails-bootstrap@3.3.1
+- pkg:maven/org.grails/grails-bootstrap@3.3.1?classifier=sources
