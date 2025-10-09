@@ -36,3 +36,5 @@
 - pkg:maven/com.aol.microservices/micro-dist-lock@0.90.6?classifier=sources
 - pkg:maven/com.aol.microservices/micro-dist-lock@0.91
 - pkg:maven/com.aol.microservices/micro-dist-lock@0.91?classifier=sources
+- pkg:maven/com.aol.microservices/micro-dist-lock@0.91.1
+- pkg:maven/com.aol.microservices/micro-dist-lock@0.91.1?classifier=sources

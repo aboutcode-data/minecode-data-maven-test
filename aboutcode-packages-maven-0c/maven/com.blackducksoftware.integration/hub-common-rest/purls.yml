@@ -16,3 +16,7 @@
 - pkg:maven/com.blackducksoftware.integration/hub-common-rest@1.2.4?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/hub-common-rest@1.2.3
 - pkg:maven/com.blackducksoftware.integration/hub-common-rest@1.2.3?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@2.1.0
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@2.1.0?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@2.0.0
+- pkg:maven/com.blackducksoftware.integration/hub-common-rest@2.0.0?classifier=sources
