@@ -14,3 +14,7 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-6?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-8?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-8?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-9?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-9?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-10?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.0-Alpha-10?classifier=sources

@@ -62,3 +62,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.51?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.60
 - pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.60?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test@1.2.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-test@1.2.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.61
+- pkg:maven/org.jetbrains.kotlin/kotlin-test@1.1.61?classifier=sources
