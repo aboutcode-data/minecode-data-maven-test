@@ -52,3 +52,5 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.21.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.22.0
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.22.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.23.0
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.23.0?classifier=sources
