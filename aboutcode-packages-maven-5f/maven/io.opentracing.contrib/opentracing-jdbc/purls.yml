@@ -46,3 +46,5 @@
 - pkg:maven/io.opentracing.contrib/opentracing-jdbc@0.2.2?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-jdbc@0.2.1
 - pkg:maven/io.opentracing.contrib/opentracing-jdbc@0.2.1?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-jdbc@0.2.3
+- pkg:maven/io.opentracing.contrib/opentracing-jdbc@0.2.3?classifier=sources
