@@ -30,3 +30,9 @@
 - pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.15?classifier=sources
 - pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.16
 - pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.16?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.19
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.19?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.18
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.18?classifier=sources
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.17
+- pkg:maven/ru.yandex.qatools.embed/postgresql-embedded@1.17?classifier=sources

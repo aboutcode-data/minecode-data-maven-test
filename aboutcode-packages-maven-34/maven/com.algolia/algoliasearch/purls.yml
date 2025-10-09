@@ -78,3 +78,9 @@
 - pkg:maven/com.algolia/algoliasearch@1.9.2?classifier=sources
 - pkg:maven/com.algolia/algoliasearch@2.5.0
 - pkg:maven/com.algolia/algoliasearch@2.5.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@2.6.1
+- pkg:maven/com.algolia/algoliasearch@2.6.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@2.6.0
+- pkg:maven/com.algolia/algoliasearch@2.6.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@1.10.0
+- pkg:maven/com.algolia/algoliasearch@1.10.0?classifier=sources

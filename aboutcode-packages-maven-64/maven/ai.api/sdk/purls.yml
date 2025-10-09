@@ -50,3 +50,5 @@
 - pkg:maven/ai.api/sdk@1.10.0?classifier=sources
 - pkg:maven/ai.api/sdk@2.0.0
 - pkg:maven/ai.api/sdk@2.0.0?classifier=sources
+- pkg:maven/ai.api/sdk@2.0.1
+- pkg:maven/ai.api/sdk@2.0.1?classifier=sources
