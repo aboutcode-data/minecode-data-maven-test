@@ -47,3 +47,4 @@
 - pkg:maven/org.keycloak/keycloak-parent@3.1.0.CR1?classifier=source-release&type=zip
 - pkg:maven/org.keycloak/keycloak-parent@3.2.0.CR1?classifier=source-release&type=zip
 - pkg:maven/org.keycloak/keycloak-parent@3.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.keycloak/keycloak-parent@3.2.1.Final?classifier=source-release&type=zip
