@@ -94,3 +94,5 @@
 - pkg:maven/org.kaazing/gateway.service.echo@5.1.0-RC011?classifier=sources
 - pkg:maven/org.kaazing/gateway.service.echo@5.1.0-RC010
 - pkg:maven/org.kaazing/gateway.service.echo@5.1.0-RC010?classifier=sources
+- pkg:maven/org.kaazing/gateway.service.echo@5.1.0
+- pkg:maven/org.kaazing/gateway.service.echo@5.1.0?classifier=sources
