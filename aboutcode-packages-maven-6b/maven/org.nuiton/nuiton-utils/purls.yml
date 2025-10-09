@@ -141,3 +141,5 @@
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-17?classifier=sources
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-18
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-18?classifier=sources
+- pkg:maven/org.nuiton/nuiton-utils@3.0
+- pkg:maven/org.nuiton/nuiton-utils@3.0?classifier=sources
