@@ -132,3 +132,5 @@
 - pkg:maven/org.eurekaclinical/eureka-webapp@3.0-Alpha-15?classifier=sources
 - pkg:maven/org.eurekaclinical/eureka-webapp@3.0-Alpha-16?type=war
 - pkg:maven/org.eurekaclinical/eureka-webapp@3.0-Alpha-16?classifier=sources
+- pkg:maven/org.eurekaclinical/eureka-webapp@3.0-Alpha-17?type=war
+- pkg:maven/org.eurekaclinical/eureka-webapp@3.0-Alpha-17?classifier=sources
