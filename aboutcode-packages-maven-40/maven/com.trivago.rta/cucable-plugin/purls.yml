@@ -34,3 +34,5 @@
 - pkg:maven/com.trivago.rta/cucable-plugin@0.1.11?classifier=sources
 - pkg:maven/com.trivago.rta/cucable-plugin@0.1.10
 - pkg:maven/com.trivago.rta/cucable-plugin@0.1.10?classifier=sources
+- pkg:maven/com.trivago.rta/cucable-plugin@1.0.0
+- pkg:maven/com.trivago.rta/cucable-plugin@1.0.0?classifier=sources

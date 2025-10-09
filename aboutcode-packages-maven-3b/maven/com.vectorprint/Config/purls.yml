@@ -36,3 +36,5 @@
 - pkg:maven/com.vectorprint/Config@7.0?classifier=sources
 - pkg:maven/com.vectorprint/Config@7.4
 - pkg:maven/com.vectorprint/Config@7.4?classifier=sources
+- pkg:maven/com.vectorprint/Config@8.0
+- pkg:maven/com.vectorprint/Config@8.0?classifier=sources
