@@ -70,3 +70,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-core@0.27.2?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-core@0.28.0
 - pkg:maven/org.stagemonitor/stagemonitor-core@0.28.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-core@0.29.0
+- pkg:maven/org.stagemonitor/stagemonitor-core@0.29.0?classifier=sources

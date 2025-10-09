@@ -90,3 +90,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.channel@2.3.0?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.channel@3.0.0
 - pkg:maven/org.tinygroup/org.tinygroup.channel@3.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.channel@tiny-3.0.0
+- pkg:maven/org.tinygroup/org.tinygroup.channel@tiny-3.0.0?classifier=sources

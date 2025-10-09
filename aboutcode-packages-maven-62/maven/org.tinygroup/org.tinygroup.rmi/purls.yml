@@ -90,3 +90,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.rmi@2.3.0?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.rmi@3.0.0
 - pkg:maven/org.tinygroup/org.tinygroup.rmi@3.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.rmi@tiny-3.0.0
+- pkg:maven/org.tinygroup/org.tinygroup.rmi@tiny-3.0.0?classifier=sources
