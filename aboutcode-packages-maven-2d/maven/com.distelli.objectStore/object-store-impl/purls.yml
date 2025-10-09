@@ -76,3 +76,7 @@
 - pkg:maven/com.distelli.objectStore/object-store-impl@9.0.1?classifier=sources
 - pkg:maven/com.distelli.objectStore/object-store-impl@9.0.0
 - pkg:maven/com.distelli.objectStore/object-store-impl@9.0.0?classifier=sources
+- pkg:maven/com.distelli.objectStore/object-store-impl@9.2.0
+- pkg:maven/com.distelli.objectStore/object-store-impl@9.2.0?classifier=sources
+- pkg:maven/com.distelli.objectStore/object-store-impl@9.1.0
+- pkg:maven/com.distelli.objectStore/object-store-impl@9.1.0?classifier=sources

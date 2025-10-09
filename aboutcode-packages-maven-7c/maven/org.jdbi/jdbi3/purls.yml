@@ -22,3 +22,5 @@
 - pkg:maven/org.jdbi/jdbi3@3.0.0-alpha8?classifier=sources
 - pkg:maven/org.jdbi/jdbi3@3.0.0-alpha10
 - pkg:maven/org.jdbi/jdbi3@3.0.0-alpha10?classifier=sources
+- pkg:maven/org.jdbi/jdbi3@3.0.0-beta1
+- pkg:maven/org.jdbi/jdbi3@3.0.0-beta1?classifier=sources

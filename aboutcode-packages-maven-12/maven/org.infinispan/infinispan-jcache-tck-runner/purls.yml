@@ -100,3 +100,5 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.0.0.CR4?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@8.1.8.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@8.1.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.0.0.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.0.0.Final?classifier=sources

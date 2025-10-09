@@ -4,3 +4,5 @@
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.0.0-alpha9?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.0.0-alpha10
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.0.0-alpha10?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-oracle12@3.0.0-beta1
+- pkg:maven/org.jdbi/jdbi3-oracle12@3.0.0-beta1?classifier=sources
