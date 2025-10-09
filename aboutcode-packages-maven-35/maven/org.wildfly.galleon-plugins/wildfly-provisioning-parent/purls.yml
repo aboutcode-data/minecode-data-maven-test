@@ -60,3 +60,4 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@4.0.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@4.0.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@4.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@4.0.0.Final?classifier=source-release&type=zip

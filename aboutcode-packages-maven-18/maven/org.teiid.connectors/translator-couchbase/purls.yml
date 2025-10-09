@@ -82,3 +82,5 @@
 - pkg:maven/org.teiid.connectors/translator-couchbase@12.0.2?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-couchbase@11.2.3
 - pkg:maven/org.teiid.connectors/translator-couchbase@11.2.3?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-couchbase@12.2.0
+- pkg:maven/org.teiid.connectors/translator-couchbase@12.2.0?classifier=sources

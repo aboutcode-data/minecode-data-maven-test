@@ -4,3 +4,7 @@
 - pkg:maven/org.teamapps/teamapps-client@0.9.5?classifier=sources
 - pkg:maven/org.teamapps/teamapps-client@0.9.7?type=zip
 - pkg:maven/org.teamapps/teamapps-client@0.9.7?classifier=sources
+- pkg:maven/org.teamapps/teamapps-client@0.9.9?type=zip
+- pkg:maven/org.teamapps/teamapps-client@0.9.9?classifier=sources
+- pkg:maven/org.teamapps/teamapps-client@0.9.10?type=zip
+- pkg:maven/org.teamapps/teamapps-client@0.9.10?classifier=sources

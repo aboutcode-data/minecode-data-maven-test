@@ -86,3 +86,5 @@
 - pkg:maven/org.ujorm/ujo-wicket@1.88?classifier=sources
 - pkg:maven/org.ujorm/ujo-wicket@1.90
 - pkg:maven/org.ujorm/ujo-wicket@1.90?classifier=sources
+- pkg:maven/org.ujorm/ujo-wicket@1.90.1
+- pkg:maven/org.ujorm/ujo-wicket@1.90.1?classifier=sources

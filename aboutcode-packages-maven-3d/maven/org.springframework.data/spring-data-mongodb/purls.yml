@@ -192,3 +192,7 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb@2.0.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.10.20.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb@1.10.20.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb@2.1.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.10.21.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb@1.10.21.RELEASE?classifier=sources

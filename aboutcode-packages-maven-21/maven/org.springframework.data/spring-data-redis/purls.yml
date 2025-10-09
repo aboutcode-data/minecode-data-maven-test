@@ -174,3 +174,7 @@
 - pkg:maven/org.springframework.data/spring-data-redis@2.0.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-redis@1.8.20.RELEASE
 - pkg:maven/org.springframework.data/spring-data-redis@1.8.20.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-redis@2.1.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-redis@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-redis@1.8.21.RELEASE
+- pkg:maven/org.springframework.data/spring-data-redis@1.8.21.RELEASE?classifier=sources
