@@ -24,3 +24,5 @@
 - pkg:maven/com.samsix/s6-db@1.0.14?classifier=sources
 - pkg:maven/com.samsix/s6-db@1.0.13
 - pkg:maven/com.samsix/s6-db@1.0.13?classifier=sources
+- pkg:maven/com.samsix/s6-db@1.1.0
+- pkg:maven/com.samsix/s6-db@1.1.0?classifier=sources

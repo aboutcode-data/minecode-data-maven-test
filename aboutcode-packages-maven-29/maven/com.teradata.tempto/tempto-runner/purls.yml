@@ -40,3 +40,5 @@
 - pkg:maven/com.teradata.tempto/tempto-runner@1.14?classifier=sources
 - pkg:maven/com.teradata.tempto/tempto-runner@1.15
 - pkg:maven/com.teradata.tempto/tempto-runner@1.15?classifier=sources
+- pkg:maven/com.teradata.tempto/tempto-runner@1.16
+- pkg:maven/com.teradata.tempto/tempto-runner@1.16?classifier=sources
