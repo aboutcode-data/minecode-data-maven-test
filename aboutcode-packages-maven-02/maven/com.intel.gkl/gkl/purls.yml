@@ -51,3 +51,5 @@
 - pkg:maven/com.intel.gkl/gkl@0.8.1?classifier=sources
 - pkg:maven/com.intel.gkl/gkl@0.6.1
 - pkg:maven/com.intel.gkl/gkl@0.6.1?classifier=sources
+- pkg:maven/com.intel.gkl/gkl@0.8.2
+- pkg:maven/com.intel.gkl/gkl@0.8.2?classifier=sources

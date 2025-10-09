@@ -8,3 +8,7 @@
 - pkg:maven/com.github.zuacaldeira/flex-app@1.1.7?classifier=sources
 - pkg:maven/com.github.zuacaldeira/flex-app@1.1.8?type=war
 - pkg:maven/com.github.zuacaldeira/flex-app@1.1.8?classifier=sources
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.9?type=war
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.9?classifier=sources
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.10?type=war
+- pkg:maven/com.github.zuacaldeira/flex-app@1.1.10?classifier=sources
