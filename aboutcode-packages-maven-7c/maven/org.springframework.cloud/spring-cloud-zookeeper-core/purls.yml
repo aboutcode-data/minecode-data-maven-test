@@ -30,3 +30,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-core@2.0.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-core@2.1.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-core@2.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-core@1.2.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-core@1.2.3.RELEASE?classifier=sources
