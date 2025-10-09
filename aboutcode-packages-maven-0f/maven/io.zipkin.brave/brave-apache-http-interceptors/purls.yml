@@ -64,3 +64,5 @@
 - pkg:maven/io.zipkin.brave/brave-apache-http-interceptors@4.3.4?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-apache-http-interceptors@4.4.0
 - pkg:maven/io.zipkin.brave/brave-apache-http-interceptors@4.4.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-apache-http-interceptors@4.5.0
+- pkg:maven/io.zipkin.brave/brave-apache-http-interceptors@4.5.0?classifier=sources

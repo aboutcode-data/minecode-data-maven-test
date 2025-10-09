@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.jclouds.karaf/recipe@1.9.3?classifier=sources
 - pkg:maven/org.apache.jclouds.karaf/recipe@2.0.1
 - pkg:maven/org.apache.jclouds.karaf/recipe@2.0.1?classifier=sources
+- pkg:maven/org.apache.jclouds.karaf/recipe@2.0.2
+- pkg:maven/org.apache.jclouds.karaf/recipe@2.0.2?classifier=sources
