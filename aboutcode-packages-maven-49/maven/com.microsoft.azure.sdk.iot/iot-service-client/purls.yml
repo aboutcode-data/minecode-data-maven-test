@@ -54,3 +54,5 @@
 - pkg:maven/com.microsoft.azure.sdk.iot/iot-service-client@1.13.3?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot/iot-service-client@1.13.4
 - pkg:maven/com.microsoft.azure.sdk.iot/iot-service-client@1.13.4?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot/iot-service-client@1.14.0
+- pkg:maven/com.microsoft.azure.sdk.iot/iot-service-client@1.14.0?classifier=sources

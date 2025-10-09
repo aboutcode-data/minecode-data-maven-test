@@ -18,3 +18,5 @@
 - pkg:maven/com.nexmo/stitch@1.7.0?classifier=sources
 - pkg:maven/com.nexmo/stitch@1.6.0?type=aar
 - pkg:maven/com.nexmo/stitch@1.6.0?classifier=sources
+- pkg:maven/com.nexmo/stitch@1.8.0?type=aar
+- pkg:maven/com.nexmo/stitch@1.8.0?classifier=sources

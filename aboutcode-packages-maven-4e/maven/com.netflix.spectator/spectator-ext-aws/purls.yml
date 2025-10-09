@@ -94,3 +94,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-aws@0.70.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-aws@0.69.0
 - pkg:maven/com.netflix.spectator/spectator-ext-aws@0.69.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-aws@0.71.0
+- pkg:maven/com.netflix.spectator/spectator-ext-aws@0.71.0?classifier=sources
