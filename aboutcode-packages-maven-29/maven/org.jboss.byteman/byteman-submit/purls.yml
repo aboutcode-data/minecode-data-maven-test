@@ -46,3 +46,7 @@
 - pkg:maven/org.jboss.byteman/byteman-submit@4.0.0-BETA1?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-submit@4.0.0-BETA2
 - pkg:maven/org.jboss.byteman/byteman-submit@4.0.0-BETA2?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-submit@4.0.0-BETA3
+- pkg:maven/org.jboss.byteman/byteman-submit@4.0.0-BETA3?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-submit@3.0.7
+- pkg:maven/org.jboss.byteman/byteman-submit@3.0.7?classifier=sources

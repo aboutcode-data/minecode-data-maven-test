@@ -34,3 +34,7 @@
 - pkg:maven/org.craftercms/crafter-search-itest@2.5.1?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-itest@2.5.2?type=war
 - pkg:maven/org.craftercms/crafter-search-itest@2.5.2?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-itest@2.5.4?type=war
+- pkg:maven/org.craftercms/crafter-search-itest@2.5.4?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-itest@2.5.3?type=war
+- pkg:maven/org.craftercms/crafter-search-itest@2.5.3?classifier=sources
