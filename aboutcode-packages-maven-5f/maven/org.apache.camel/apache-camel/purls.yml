@@ -165,3 +165,4 @@
 - pkg:maven/org.apache.camel/apache-camel@2.23.4?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.0.0-RC2?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.0.0-RC3?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@3.0.0?classifier=src&type=zip

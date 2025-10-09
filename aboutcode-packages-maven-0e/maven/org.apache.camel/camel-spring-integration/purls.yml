@@ -131,3 +131,4 @@
 - pkg:maven/org.apache.camel/camel-spring-integration@2.23.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-integration@3.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-integration@3.0.0-RC3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-integration@3.0.0?classifier=sources
