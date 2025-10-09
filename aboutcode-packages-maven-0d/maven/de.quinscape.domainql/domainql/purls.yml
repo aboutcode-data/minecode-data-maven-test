@@ -1,2 +1,4 @@
 - pkg:maven/de.quinscape.domainql/domainql@0.9
 - pkg:maven/de.quinscape.domainql/domainql@0.9?classifier=sources
+- pkg:maven/de.quinscape.domainql/domainql@0.10
+- pkg:maven/de.quinscape.domainql/domainql@0.10?classifier=sources

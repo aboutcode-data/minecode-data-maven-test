@@ -1,0 +1,3 @@
+- pkg:maven/io.fabric8/maven-model-helper@5
+- pkg:maven/io.fabric8/maven-model-helper@5?classifier=sources
+- pkg:maven/io.fabric8/maven-model-helper@5?classifier=source-release&type=zip
