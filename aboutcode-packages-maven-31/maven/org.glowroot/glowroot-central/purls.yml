@@ -1,2 +1,4 @@
 - pkg:maven/org.glowroot/glowroot-central@0.9.6
 - pkg:maven/org.glowroot/glowroot-central@0.9.6?classifier=sources
+- pkg:maven/org.glowroot/glowroot-central@0.9.7
+- pkg:maven/org.glowroot/glowroot-central@0.9.7?classifier=sources
