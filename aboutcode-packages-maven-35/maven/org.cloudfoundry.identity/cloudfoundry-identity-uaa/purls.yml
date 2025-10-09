@@ -163,3 +163,13 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.5.6?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.12.3?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.12.3?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.7.6?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.7.6?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.5.7?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.5.7?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.19.2?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.19.2?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.12.4?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.12.4?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.10.2?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-uaa@4.10.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.cache2k/cache2k-osgi-all@1.1.1.Alpha
 - pkg:maven/org.cache2k/cache2k-osgi-all@1.1.1.Alpha?classifier=sources
+- pkg:maven/org.cache2k/cache2k-osgi-all@1.1.2.Alpha
+- pkg:maven/org.cache2k/cache2k-osgi-all@1.1.2.Alpha?classifier=sources

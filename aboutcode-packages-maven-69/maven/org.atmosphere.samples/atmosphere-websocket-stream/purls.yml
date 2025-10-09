@@ -18,3 +18,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-stream@2.4.26?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-stream@2.4.27?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-websocket-stream@2.4.27?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-websocket-stream@2.4.28?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-websocket-stream@2.4.28?classifier=sources

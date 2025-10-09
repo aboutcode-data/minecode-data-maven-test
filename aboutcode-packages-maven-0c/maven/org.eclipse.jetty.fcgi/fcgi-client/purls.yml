@@ -212,3 +212,5 @@
 - pkg:maven/org.eclipse.jetty.fcgi/fcgi-client@9.4.1.v20180619?classifier=sources
 - pkg:maven/org.eclipse.jetty.fcgi/fcgi-client@9.4.0.v20180619
 - pkg:maven/org.eclipse.jetty.fcgi/fcgi-client@9.4.0.v20180619?classifier=sources
+- pkg:maven/org.eclipse.jetty.fcgi/fcgi-client@9.4.12.RC0
+- pkg:maven/org.eclipse.jetty.fcgi/fcgi-client@9.4.12.RC0?classifier=sources
