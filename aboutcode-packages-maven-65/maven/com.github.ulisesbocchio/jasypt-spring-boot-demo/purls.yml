@@ -14,3 +14,5 @@
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot-demo@1.7?classifier=sources
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot-demo@1.5-java6
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot-demo@1.5-java6?classifier=sources
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot-demo@1.5-java7
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot-demo@1.5-java7?classifier=sources

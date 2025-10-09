@@ -1,1 +1,4 @@
 - pkg:maven/com.intuit.wasabi/wasabi-repository-datastax@1.0.20170113205431
+- pkg:maven/com.intuit.wasabi/wasabi-repository-datastax@1.0.20170113205431?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-repository-datastax@1.0.20170112014341
+- pkg:maven/com.intuit.wasabi/wasabi-repository-datastax@1.0.20170112014341?classifier=sources
