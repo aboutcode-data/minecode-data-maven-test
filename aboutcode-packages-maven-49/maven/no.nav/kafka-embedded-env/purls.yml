@@ -6,3 +6,5 @@
 - pkg:maven/no.nav/kafka-embedded-env@2.0.0?classifier=sources
 - pkg:maven/no.nav/kafka-embedded-env@2.0.2
 - pkg:maven/no.nav/kafka-embedded-env@2.0.2?classifier=sources
+- pkg:maven/no.nav/kafka-embedded-env@2.1.0
+- pkg:maven/no.nav/kafka-embedded-env@2.1.0?classifier=sources

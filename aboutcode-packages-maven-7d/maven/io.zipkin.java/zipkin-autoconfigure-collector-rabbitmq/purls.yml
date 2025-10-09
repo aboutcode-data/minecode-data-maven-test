@@ -118,3 +118,7 @@
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.12.1?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.12.2
 - pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.12.2?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.12.3
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.12.3?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.11.13
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-rabbitmq@2.11.13?classifier=sources

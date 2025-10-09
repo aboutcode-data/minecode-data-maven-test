@@ -154,3 +154,5 @@
 - pkg:maven/org.apache.solr/solr-clustering@7.6.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-clustering@7.7.0
 - pkg:maven/org.apache.solr/solr-clustering@7.7.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-clustering@7.7.1
+- pkg:maven/org.apache.solr/solr-clustering@7.7.1?classifier=sources
