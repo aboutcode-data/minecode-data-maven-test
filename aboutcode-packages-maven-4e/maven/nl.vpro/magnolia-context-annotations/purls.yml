@@ -1,2 +1,4 @@
 - pkg:maven/nl.vpro/magnolia-context-annotations@1.0.0
 - pkg:maven/nl.vpro/magnolia-context-annotations@1.0.0?classifier=sources
+- pkg:maven/nl.vpro/magnolia-context-annotations@1.1.0
+- pkg:maven/nl.vpro/magnolia-context-annotations@1.1.0?classifier=sources

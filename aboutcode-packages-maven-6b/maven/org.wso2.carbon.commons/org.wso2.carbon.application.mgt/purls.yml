@@ -143,3 +143,5 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.application.mgt@4.6.49?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.application.mgt@4.6.49?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.application.mgt@4.6.50
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.application.mgt@4.6.50?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.application.mgt@4.6.50?classifier=source-release&type=zip
