@@ -24,3 +24,5 @@
 - pkg:maven/org.webjars.npm/babel-runtime@6.26.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-runtime@6.0.8
 - pkg:maven/org.webjars.npm/babel-runtime@6.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/babel-runtime@7.0.0-beta.3
+- pkg:maven/org.webjars.npm/babel-runtime@7.0.0-beta.3?classifier=sources
