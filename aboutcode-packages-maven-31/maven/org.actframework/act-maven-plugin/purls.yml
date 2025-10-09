@@ -1,2 +1,4 @@
 - pkg:maven/org.actframework/act-maven-plugin@1.8.5.0
 - pkg:maven/org.actframework/act-maven-plugin@1.8.5.0?classifier=sources
+- pkg:maven/org.actframework/act-maven-plugin@1.8.8.0
+- pkg:maven/org.actframework/act-maven-plugin@1.8.8.0?classifier=sources

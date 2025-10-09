@@ -112,3 +112,5 @@
 - pkg:maven/org.clojure/tools.deps.alpha@0.5.417?classifier=sources
 - pkg:maven/org.clojure/tools.deps.alpha@0.5.425
 - pkg:maven/org.clojure/tools.deps.alpha@0.5.425?classifier=sources
+- pkg:maven/org.clojure/tools.deps.alpha@0.5.435
+- pkg:maven/org.clojure/tools.deps.alpha@0.5.435?classifier=sources

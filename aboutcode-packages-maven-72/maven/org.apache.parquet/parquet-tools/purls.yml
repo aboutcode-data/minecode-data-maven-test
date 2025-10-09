@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.parquet/parquet-tools@1.8.2?classifier=sources
 - pkg:maven/org.apache.parquet/parquet-tools@1.10.0
 - pkg:maven/org.apache.parquet/parquet-tools@1.10.0?classifier=sources
+- pkg:maven/org.apache.parquet/parquet-tools@1.8.3
+- pkg:maven/org.apache.parquet/parquet-tools@1.8.3?classifier=sources
