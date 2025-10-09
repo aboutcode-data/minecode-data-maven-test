@@ -58,3 +58,5 @@
 - pkg:maven/org.webjars.npm/react@15.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/react@15.4.2
 - pkg:maven/org.webjars.npm/react@15.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.0.0-alpha.6
+- pkg:maven/org.webjars.npm/react@16.0.0-alpha.6?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.vivoweb/vitro-solr@1.9.1?classifier=sources
 - pkg:maven/org.vivoweb/vitro-solr@1.9.2?type=war
 - pkg:maven/org.vivoweb/vitro-solr@1.9.2?classifier=sources
+- pkg:maven/org.vivoweb/vitro-solr@1.10.0-alpha2?type=war
+- pkg:maven/org.vivoweb/vitro-solr@1.10.0-alpha2?classifier=sources
+- pkg:maven/org.vivoweb/vitro-solr@1.10.0-alpha1?type=war
+- pkg:maven/org.vivoweb/vitro-solr@1.10.0-alpha1?classifier=sources

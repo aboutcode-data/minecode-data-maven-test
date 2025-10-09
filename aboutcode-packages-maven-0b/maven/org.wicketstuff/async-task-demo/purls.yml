@@ -64,3 +64,5 @@
 - pkg:maven/org.wicketstuff/async-task-demo@6.26.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-demo@8.0.0-M4?type=war
 - pkg:maven/org.wicketstuff/async-task-demo@8.0.0-M4?classifier=sources
+- pkg:maven/org.wicketstuff/async-task-demo@8.0.0-M5?type=war
+- pkg:maven/org.wicketstuff/async-task-demo@8.0.0-M5?classifier=sources
