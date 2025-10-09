@@ -14,3 +14,7 @@
 - pkg:maven/io.confluent.kafka/connect-utils@0.1.13?classifier=sources
 - pkg:maven/io.confluent.kafka/connect-utils@0.1.15
 - pkg:maven/io.confluent.kafka/connect-utils@0.1.15?classifier=sources
+- pkg:maven/io.confluent.kafka/connect-utils@0.1.18
+- pkg:maven/io.confluent.kafka/connect-utils@0.1.18?classifier=sources
+- pkg:maven/io.confluent.kafka/connect-utils@0.1.16
+- pkg:maven/io.confluent.kafka/connect-utils@0.1.16?classifier=sources

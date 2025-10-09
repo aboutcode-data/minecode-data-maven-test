@@ -1,0 +1,2 @@
+- pkg:maven/io.confluent.kafka/connect-checkstyle@0.1.18
+- pkg:maven/io.confluent.kafka/connect-checkstyle@0.1.18?classifier=sources

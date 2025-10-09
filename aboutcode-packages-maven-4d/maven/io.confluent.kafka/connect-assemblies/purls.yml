@@ -1,0 +1,2 @@
+- pkg:maven/io.confluent.kafka/connect-assemblies@0.1.18
+- pkg:maven/io.confluent.kafka/connect-assemblies@0.1.18?classifier=sources
