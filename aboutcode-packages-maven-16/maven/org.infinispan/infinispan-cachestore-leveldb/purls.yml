@@ -136,3 +136,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-leveldb@8.1.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-leveldb@5.2.18.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-leveldb@5.2.18.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-leveldb@8.2.0.CR1
+- pkg:maven/org.infinispan/infinispan-cachestore-leveldb@8.2.0.CR1?classifier=sources

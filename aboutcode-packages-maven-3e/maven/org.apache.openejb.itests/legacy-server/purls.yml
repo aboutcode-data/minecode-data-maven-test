@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.openejb.itests/legacy-server@7.0.0-M1?classifier=sources
 - pkg:maven/org.apache.openejb.itests/legacy-server@4.7.3
 - pkg:maven/org.apache.openejb.itests/legacy-server@4.7.3?classifier=sources
+- pkg:maven/org.apache.openejb.itests/legacy-server@7.0.0-M2
+- pkg:maven/org.apache.openejb.itests/legacy-server@7.0.0-M2?classifier=sources
