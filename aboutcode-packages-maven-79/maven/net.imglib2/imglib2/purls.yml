@@ -28,3 +28,5 @@
 - pkg:maven/net.imglib2/imglib2@2.9.0?classifier=sources
 - pkg:maven/net.imglib2/imglib2@3.0.0
 - pkg:maven/net.imglib2/imglib2@3.0.0?classifier=sources
+- pkg:maven/net.imglib2/imglib2@3.1.0
+- pkg:maven/net.imglib2/imglib2@3.1.0?classifier=sources

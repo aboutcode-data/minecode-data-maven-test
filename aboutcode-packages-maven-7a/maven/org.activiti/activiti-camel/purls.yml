@@ -34,3 +34,5 @@
 - pkg:maven/org.activiti/activiti-camel@5.20.0?classifier=sources
 - pkg:maven/org.activiti/activiti-camel@5.21.0
 - pkg:maven/org.activiti/activiti-camel@5.21.0?classifier=sources
+- pkg:maven/org.activiti/activiti-camel@5.16.6
+- pkg:maven/org.activiti/activiti-camel@5.16.6?classifier=sources
