@@ -166,3 +166,7 @@
 - pkg:maven/org.cometd.java/cometd-java-common@3.1.10?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@3.1.11
 - pkg:maven/org.cometd.java/cometd-java-common@3.1.11?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-common@5.0.0-BETA0
+- pkg:maven/org.cometd.java/cometd-java-common@5.0.0-BETA0?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-common@4.0.5
+- pkg:maven/org.cometd.java/cometd-java-common@4.0.5?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/org.cometd.java/cometd-java-websocket-jetty-server@3.1.10?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-websocket-jetty-server@3.1.11
 - pkg:maven/org.cometd.java/cometd-java-websocket-jetty-server@3.1.11?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-websocket-jetty-server@4.0.5
+- pkg:maven/org.cometd.java/cometd-java-websocket-jetty-server@4.0.5?classifier=sources
