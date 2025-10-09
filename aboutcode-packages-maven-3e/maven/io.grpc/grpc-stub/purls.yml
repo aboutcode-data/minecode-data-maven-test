@@ -20,3 +20,5 @@
 - pkg:maven/io.grpc/grpc-stub@0.13.2?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@0.14.0
 - pkg:maven/io.grpc/grpc-stub@0.14.0?classifier=sources
+- pkg:maven/io.grpc/grpc-stub@0.14.1
+- pkg:maven/io.grpc/grpc-stub@0.14.1?classifier=sources

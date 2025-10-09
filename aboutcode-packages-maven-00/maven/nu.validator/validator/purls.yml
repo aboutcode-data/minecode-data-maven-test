@@ -16,3 +16,5 @@
 - pkg:maven/nu.validator/validator@16.1.1?classifier=sources
 - pkg:maven/nu.validator/validator@16.3.3
 - pkg:maven/nu.validator/validator@16.3.3?classifier=sources
+- pkg:maven/nu.validator/validator@16.6.18
+- pkg:maven/nu.validator/validator@16.6.18?classifier=sources

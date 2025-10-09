@@ -82,3 +82,5 @@
 - pkg:maven/io.nextflow/nxf-extrae@0.19.3?classifier=sources
 - pkg:maven/io.nextflow/nxf-extrae@0.20.0
 - pkg:maven/io.nextflow/nxf-extrae@0.20.0?classifier=sources
+- pkg:maven/io.nextflow/nxf-extrae@0.20.1
+- pkg:maven/io.nextflow/nxf-extrae@0.20.1?classifier=sources

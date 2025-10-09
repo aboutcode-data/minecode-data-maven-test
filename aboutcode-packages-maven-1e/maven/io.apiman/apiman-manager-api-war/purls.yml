@@ -55,3 +55,5 @@
 - pkg:maven/io.apiman/apiman-manager-api-war@1.2.6.Beta3?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-war@1.2.6.Final?type=war
 - pkg:maven/io.apiman/apiman-manager-api-war@1.2.6.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-war@1.2.7.Beta1?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war@1.2.7.Beta1?classifier=sources
