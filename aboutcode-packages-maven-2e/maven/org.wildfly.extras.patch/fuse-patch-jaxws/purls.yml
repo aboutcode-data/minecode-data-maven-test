@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.6.0?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.6.0.redhat-1?type=war
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.6.0.redhat-1?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.6.0.redhat-2?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.6.0.redhat-2?classifier=sources
