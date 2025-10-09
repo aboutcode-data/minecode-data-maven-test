@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.1.6.v20160112?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.8.RC0
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.8.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.8.v20160314
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.8.v20160314?classifier=sources

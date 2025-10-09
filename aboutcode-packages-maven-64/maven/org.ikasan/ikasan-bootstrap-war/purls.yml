@@ -50,3 +50,5 @@
 - pkg:maven/org.ikasan/ikasan-bootstrap-war@1.1.4?classifier=sources
 - pkg:maven/org.ikasan/ikasan-bootstrap-war@1.0.8?type=war
 - pkg:maven/org.ikasan/ikasan-bootstrap-war@1.0.8?classifier=sources
+- pkg:maven/org.ikasan/ikasan-bootstrap-war@1.1.5?type=war
+- pkg:maven/org.ikasan/ikasan-bootstrap-war@1.1.5?classifier=sources
