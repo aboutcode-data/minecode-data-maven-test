@@ -40,3 +40,5 @@
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-hystrix@5.1.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-hystrix@5.2.0
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-hystrix@5.2.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-hystrix@5.3.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-hystrix@5.3.0?classifier=sources
