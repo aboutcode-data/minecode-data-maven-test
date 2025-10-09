@@ -16,3 +16,5 @@
 - pkg:maven/com.baomidou/mybatis-plus-core@3.0-beta?classifier=sources
 - pkg:maven/com.baomidou/mybatis-plus-core@3.0-gamma
 - pkg:maven/com.baomidou/mybatis-plus-core@3.0-gamma?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-core@3.0-RC
+- pkg:maven/com.baomidou/mybatis-plus-core@3.0-RC?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/ru.vyarus/gradle-quality-plugin@3.0.0?classifier=sources
 - pkg:maven/ru.vyarus/gradle-quality-plugin@3.1.0
 - pkg:maven/ru.vyarus/gradle-quality-plugin@3.1.0?classifier=sources
+- pkg:maven/ru.vyarus/gradle-quality-plugin@3.1.1
+- pkg:maven/ru.vyarus/gradle-quality-plugin@3.1.1?classifier=sources

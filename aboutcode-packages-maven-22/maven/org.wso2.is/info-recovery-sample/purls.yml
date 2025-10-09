@@ -88,3 +88,5 @@
 - pkg:maven/org.wso2.is/info-recovery-sample@5.7.0-m4?classifier=sources
 - pkg:maven/org.wso2.is/info-recovery-sample@5.7.0-m3?type=war
 - pkg:maven/org.wso2.is/info-recovery-sample@5.7.0-m3?classifier=sources
+- pkg:maven/org.wso2.is/info-recovery-sample@5.7.0-m5?type=war
+- pkg:maven/org.wso2.is/info-recovery-sample@5.7.0-m5?classifier=sources
