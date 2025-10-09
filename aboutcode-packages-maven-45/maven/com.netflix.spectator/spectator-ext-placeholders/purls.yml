@@ -128,3 +128,5 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-placeholders@0.90.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-placeholders@0.91.0
 - pkg:maven/com.netflix.spectator/spectator-ext-placeholders@0.91.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-placeholders@0.92.0
+- pkg:maven/com.netflix.spectator/spectator-ext-placeholders@0.92.0?classifier=sources

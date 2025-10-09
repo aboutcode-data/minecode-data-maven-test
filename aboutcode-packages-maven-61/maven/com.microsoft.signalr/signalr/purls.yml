@@ -14,3 +14,5 @@
 - pkg:maven/com.microsoft.signalr/signalr@3.0.0-preview4-19216-03?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@3.0.0-preview5-19227-01
 - pkg:maven/com.microsoft.signalr/signalr@3.0.0-preview5-19227-01?classifier=sources
+- pkg:maven/com.microsoft.signalr/signalr@1.0.5
+- pkg:maven/com.microsoft.signalr/signalr@1.0.5?classifier=sources
