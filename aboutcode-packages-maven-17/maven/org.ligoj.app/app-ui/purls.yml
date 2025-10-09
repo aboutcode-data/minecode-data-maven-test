@@ -16,3 +16,5 @@
 - pkg:maven/org.ligoj.app/app-ui@1.6.10?classifier=sources
 - pkg:maven/org.ligoj.app/app-ui@1.6.12?type=war
 - pkg:maven/org.ligoj.app/app-ui@1.6.12?classifier=sources
+- pkg:maven/org.ligoj.app/app-ui@1.6.13?type=war
+- pkg:maven/org.ligoj.app/app-ui@1.6.13?classifier=sources

@@ -95,3 +95,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/wab-jetty-web@4.3.4?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-jetty-web@6.0.7
 - pkg:maven/org.ops4j.pax.web.samples/wab-jetty-web@6.0.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/wab-jetty-web@6.0.8
+- pkg:maven/org.ops4j.pax.web.samples/wab-jetty-web@6.0.8?classifier=sources

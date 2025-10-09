@@ -20,3 +20,5 @@
 - pkg:maven/org.membrane-soa/membrane-service-proxy@4.4.2?classifier=sources
 - pkg:maven/org.membrane-soa/membrane-service-proxy@4.5.0?type=zip
 - pkg:maven/org.membrane-soa/membrane-service-proxy@4.5.0?classifier=sources
+- pkg:maven/org.membrane-soa/membrane-service-proxy@4.5.1?type=zip
+- pkg:maven/org.membrane-soa/membrane-service-proxy@4.5.1?classifier=sources
