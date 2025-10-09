@@ -92,3 +92,5 @@
 - pkg:maven/org.apache.mina/mina-filter-compression@2.0.19?classifier=sources
 - pkg:maven/org.apache.mina/mina-filter-compression@2.0.20
 - pkg:maven/org.apache.mina/mina-filter-compression@2.0.20?classifier=sources
+- pkg:maven/org.apache.mina/mina-filter-compression@2.1.0
+- pkg:maven/org.apache.mina/mina-filter-compression@2.1.0?classifier=sources

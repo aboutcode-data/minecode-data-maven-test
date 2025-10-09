@@ -38,3 +38,5 @@
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.14.7?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.15
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.15?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.15.1
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.15.1?classifier=sources
