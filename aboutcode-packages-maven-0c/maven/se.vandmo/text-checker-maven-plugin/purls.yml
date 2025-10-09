@@ -22,3 +22,9 @@
 - pkg:maven/se.vandmo/text-checker-maven-plugin@0.13?classifier=sources
 - pkg:maven/se.vandmo/text-checker-maven-plugin@0.17
 - pkg:maven/se.vandmo/text-checker-maven-plugin@0.17?classifier=sources
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.20.9
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.20.9?classifier=sources
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.20.7
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.20.7?classifier=sources
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.19.24
+- pkg:maven/se.vandmo/text-checker-maven-plugin@0.19.24?classifier=sources

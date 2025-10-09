@@ -172,3 +172,6 @@
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.extensions.remote.session.endpoint@4.1.15?type=war
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.extensions.remote.session.endpoint@4.1.15?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.extensions.remote.session.endpoint@4.1.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.extensions.remote.session.endpoint@4.1.20?type=war
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.extensions.remote.session.endpoint@4.1.20?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.extensions.remote.session.endpoint@4.1.20?classifier=source-release&type=zip

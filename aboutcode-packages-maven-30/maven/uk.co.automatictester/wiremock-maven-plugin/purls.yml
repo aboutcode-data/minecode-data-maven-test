@@ -11,3 +11,5 @@
 - pkg:maven/uk.co.automatictester/wiremock-maven-plugin@2.13.1
 - pkg:maven/uk.co.automatictester/wiremock-maven-plugin@2.13.1?classifier=sources
 - pkg:maven/uk.co.automatictester/wiremock-maven-plugin@3.0.0
+- pkg:maven/uk.co.automatictester/wiremock-maven-plugin@4.0.0
+- pkg:maven/uk.co.automatictester/wiremock-maven-plugin@4.0.0?classifier=sources

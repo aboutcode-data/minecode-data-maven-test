@@ -74,3 +74,5 @@
 - pkg:maven/tech.tablesaw/tablesaw-core@0.25.0?classifier=sources
 - pkg:maven/tech.tablesaw/tablesaw-core@0.24.10
 - pkg:maven/tech.tablesaw/tablesaw-core@0.24.10?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-core@0.30.0
+- pkg:maven/tech.tablesaw/tablesaw-core@0.30.0?classifier=sources
