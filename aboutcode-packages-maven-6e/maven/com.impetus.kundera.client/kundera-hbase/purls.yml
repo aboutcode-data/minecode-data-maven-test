@@ -46,3 +46,5 @@
 - pkg:maven/com.impetus.kundera.client/kundera-hbase@3.9?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-hbase@3.9.1
 - pkg:maven/com.impetus.kundera.client/kundera-hbase@3.9.1?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-hbase@3.10
+- pkg:maven/com.impetus.kundera.client/kundera-hbase@3.10?classifier=sources
