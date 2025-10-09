@@ -58,3 +58,7 @@
 - pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@6.19.5?classifier=sources
 - pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@7.0.0-RC-1.0
 - pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@7.0.0-RC-1.0?classifier=sources
+- pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@7.0.0-RC-2.0
+- pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@7.0.0-RC-2.0?classifier=sources
+- pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@7.0.0-RC-1.1
+- pkg:maven/org.eclipse.che.plugin/che-plugin-clangd-lang-server@7.0.0-RC-1.1?classifier=sources

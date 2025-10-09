@@ -14,3 +14,5 @@
 - pkg:maven/org.janusgraph/janusgraph-cassandra@0.2.2?classifier=sources
 - pkg:maven/org.janusgraph/janusgraph-cassandra@0.2.3
 - pkg:maven/org.janusgraph/janusgraph-cassandra@0.2.3?classifier=sources
+- pkg:maven/org.janusgraph/janusgraph-cassandra@0.3.2
+- pkg:maven/org.janusgraph/janusgraph-cassandra@0.3.2?classifier=sources

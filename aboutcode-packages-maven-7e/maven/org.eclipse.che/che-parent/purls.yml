@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.che/che-parent@6.19.4?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@6.19.5?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.0.0-RC-1.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.0.0-RC-2.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.0.0-RC-1.1?classifier=source-release&type=zip

@@ -4,3 +4,5 @@
 - pkg:maven/org.entando.entando/entando-keycloak-auth@5.1.0?classifier=sources
 - pkg:maven/org.entando.entando/entando-keycloak-auth@5.1.2?type=war
 - pkg:maven/org.entando.entando/entando-keycloak-auth@5.1.2?classifier=sources
+- pkg:maven/org.entando.entando/entando-keycloak-auth@5.1.3?type=war
+- pkg:maven/org.entando.entando/entando-keycloak-auth@5.1.3?classifier=sources

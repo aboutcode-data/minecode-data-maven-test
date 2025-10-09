@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.junit.runtime@3.5.100?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.junit.runtime@3.5.300
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.junit.runtime@3.5.300?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.junit.runtime@3.5.400
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.junit.runtime@3.5.400?classifier=sources
