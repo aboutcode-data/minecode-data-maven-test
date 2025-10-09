@@ -34,3 +34,5 @@
 - pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-elasticsearch@2.11?classifier=sources
 - pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-elasticsearch@2.12
 - pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-elasticsearch@2.12?classifier=sources
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-elasticsearch@2.13
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-elasticsearch@2.13?classifier=sources
