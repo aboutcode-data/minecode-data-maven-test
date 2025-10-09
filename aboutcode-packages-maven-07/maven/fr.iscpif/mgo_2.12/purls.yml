@@ -24,3 +24,7 @@
 - pkg:maven/fr.iscpif/mgo_2.12@3.9?classifier=sources
 - pkg:maven/fr.iscpif/mgo_2.12@3.8
 - pkg:maven/fr.iscpif/mgo_2.12@3.8?classifier=sources
+- pkg:maven/fr.iscpif/mgo_2.12@3.11
+- pkg:maven/fr.iscpif/mgo_2.12@3.11?classifier=sources
+- pkg:maven/fr.iscpif/mgo_2.12@3.10
+- pkg:maven/fr.iscpif/mgo_2.12@3.10?classifier=sources

@@ -88,3 +88,7 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.7?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.30
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.30?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.51
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.51?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.86
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.86?classifier=sources

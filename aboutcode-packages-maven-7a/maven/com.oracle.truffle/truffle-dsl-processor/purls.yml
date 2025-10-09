@@ -50,3 +50,5 @@
 - pkg:maven/com.oracle.truffle/truffle-dsl-processor@0.32?classifier=sources
 - pkg:maven/com.oracle.truffle/truffle-dsl-processor@0.33
 - pkg:maven/com.oracle.truffle/truffle-dsl-processor@0.33?classifier=sources
+- pkg:maven/com.oracle.truffle/truffle-dsl-processor@1.0.0-rc1
+- pkg:maven/com.oracle.truffle/truffle-dsl-processor@1.0.0-rc1?classifier=sources

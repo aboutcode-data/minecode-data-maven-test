@@ -1,0 +1,4 @@
+- pkg:maven/fi.nationallibrary/mauiservice@1.0.0?type=war
+- pkg:maven/fi.nationallibrary/mauiservice@1.0.0?classifier=sources
+- pkg:maven/fi.nationallibrary/mauiservice@0.0.1?type=war
+- pkg:maven/fi.nationallibrary/mauiservice@0.0.1?classifier=sources

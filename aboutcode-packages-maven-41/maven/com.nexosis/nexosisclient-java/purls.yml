@@ -18,3 +18,7 @@
 - pkg:maven/com.nexosis/nexosisclient-java@2.0?classifier=sources
 - pkg:maven/com.nexosis/nexosisclient-java@3.1.0
 - pkg:maven/com.nexosis/nexosisclient-java@3.1.0?classifier=sources
+- pkg:maven/com.nexosis/nexosisclient-java@4.0.1
+- pkg:maven/com.nexosis/nexosisclient-java@4.0.1?classifier=sources
+- pkg:maven/com.nexosis/nexosisclient-java@4.0.0
+- pkg:maven/com.nexosis/nexosisclient-java@4.0.0?classifier=sources
