@@ -16,3 +16,9 @@
 - pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-beta-3?classifier=sources
 - pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-beta-4
 - pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-beta-4?classifier=sources
+- pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-rc
+- pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-rc?classifier=sources
+- pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-beta-5
+- pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5-beta-5?classifier=sources
+- pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5
+- pkg:maven/com.ctrip.ferriswheel/ferris-wheel-core@0.1.5?classifier=sources

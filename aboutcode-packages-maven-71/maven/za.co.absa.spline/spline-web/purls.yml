@@ -24,3 +24,5 @@
 - pkg:maven/za.co.absa.spline/spline-web@0.3.7?classifier=sources
 - pkg:maven/za.co.absa.spline/spline-web@0.3.8?type=war
 - pkg:maven/za.co.absa.spline/spline-web@0.3.8?classifier=sources
+- pkg:maven/za.co.absa.spline/spline-web@0.3.9?type=war
+- pkg:maven/za.co.absa.spline/spline-web@0.3.9?classifier=sources

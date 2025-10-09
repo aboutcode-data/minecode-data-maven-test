@@ -232,3 +232,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.13.6?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.13.7
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.13.7?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.14.0
+- pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.14.0?classifier=sources

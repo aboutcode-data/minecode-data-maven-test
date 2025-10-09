@@ -304,3 +304,7 @@
 - pkg:maven/com.chargebee/chargebee-java@2.6.8?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@2.6.9
 - pkg:maven/com.chargebee/chargebee-java@2.6.9?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@2.7.0
+- pkg:maven/com.chargebee/chargebee-java@2.7.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@1.1.77
+- pkg:maven/com.chargebee/chargebee-java@1.1.77?classifier=sources
