@@ -26,3 +26,5 @@
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.16?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.17
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.17?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.18
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.18?classifier=sources

@@ -75,3 +75,5 @@
 - pkg:maven/org.xerial/sqlite-jdbc@3.25.2?classifier=sources
 - pkg:maven/org.xerial/sqlite-jdbc@3.27.2
 - pkg:maven/org.xerial/sqlite-jdbc@3.27.2?classifier=sources
+- pkg:maven/org.xerial/sqlite-jdbc@3.27.2.1
+- pkg:maven/org.xerial/sqlite-jdbc@3.27.2.1?classifier=sources

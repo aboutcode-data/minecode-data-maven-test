@@ -332,3 +332,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-signer@10.11.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-signer@11.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-signer@11.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-signer@11.2-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-signer@11.2-rc-1?classifier=sources

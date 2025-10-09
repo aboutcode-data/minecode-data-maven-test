@@ -258,3 +258,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@10.11.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@11.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@11.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@11.2-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@11.2-rc-1?classifier=sources
