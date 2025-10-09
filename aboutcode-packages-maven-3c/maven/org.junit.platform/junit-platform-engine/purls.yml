@@ -28,3 +28,5 @@
 - pkg:maven/org.junit.platform/junit-platform-engine@1.0.3?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-engine@1.1.0-M2
 - pkg:maven/org.junit.platform/junit-platform-engine@1.1.0-M2?classifier=sources
+- pkg:maven/org.junit.platform/junit-platform-engine@1.1.0-RC1
+- pkg:maven/org.junit.platform/junit-platform-engine@1.1.0-RC1?classifier=sources
