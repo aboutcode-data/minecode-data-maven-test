@@ -30,3 +30,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-core-groovy@1.7?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-core-groovy@1.8
 - pkg:maven/com.twosigma.webtau/webtau-core-groovy@1.8?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-core-groovy@1.9
+- pkg:maven/com.twosigma.webtau/webtau-core-groovy@1.9?classifier=sources

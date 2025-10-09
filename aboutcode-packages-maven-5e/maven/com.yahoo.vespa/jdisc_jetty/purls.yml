@@ -345,3 +345,4 @@
 - pkg:maven/com.yahoo.vespa/jdisc_jetty@7.45.22
 - pkg:maven/com.yahoo.vespa/jdisc_jetty@7.45.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc_jetty@7.50.19
+- pkg:maven/com.yahoo.vespa/jdisc_jetty@7.50.19?classifier=sources

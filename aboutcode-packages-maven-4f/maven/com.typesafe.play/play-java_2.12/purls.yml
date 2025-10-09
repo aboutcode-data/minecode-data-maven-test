@@ -84,3 +84,5 @@
 - pkg:maven/com.typesafe.play/play-java_2.12@2.6.22?classifier=sources
 - pkg:maven/com.typesafe.play/play-java_2.12@2.6.23
 - pkg:maven/com.typesafe.play/play-java_2.12@2.6.23?classifier=sources
+- pkg:maven/com.typesafe.play/play-java_2.12@2.8.0-M1
+- pkg:maven/com.typesafe.play/play-java_2.12@2.8.0-M1?classifier=sources
