@@ -74,3 +74,7 @@
 - pkg:maven/org.scalatest/scalatest_2.12@3.0.8-RC3?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.12@3.0.8-RC4
 - pkg:maven/org.scalatest/scalatest_2.12@3.0.8-RC4?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.12@3.1.0-SNAP12
+- pkg:maven/org.scalatest/scalatest_2.12@3.1.0-SNAP12?classifier=sources
+- pkg:maven/org.scalatest/scalatest_2.12@3.0.8-RC5
+- pkg:maven/org.scalatest/scalatest_2.12@3.0.8-RC5?classifier=sources

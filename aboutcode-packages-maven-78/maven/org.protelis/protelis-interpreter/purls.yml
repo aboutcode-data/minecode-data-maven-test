@@ -46,3 +46,7 @@
 - pkg:maven/org.protelis/protelis-interpreter@12.0.0-j7?classifier=sources
 - pkg:maven/org.protelis/protelis-interpreter@12.0.0
 - pkg:maven/org.protelis/protelis-interpreter@12.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis-interpreter@12.1.0-j7
+- pkg:maven/org.protelis/protelis-interpreter@12.1.0-j7?classifier=sources
+- pkg:maven/org.protelis/protelis-interpreter@12.1.0
+- pkg:maven/org.protelis/protelis-interpreter@12.1.0?classifier=sources

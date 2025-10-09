@@ -24,3 +24,5 @@
 - pkg:maven/org.opendaylight.yangtools/yang-common@2.0.20?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-common@2.0.19
 - pkg:maven/org.opendaylight.yangtools/yang-common@2.0.19?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common@3.0.1
+- pkg:maven/org.opendaylight.yangtools/yang-common@3.0.1?classifier=sources

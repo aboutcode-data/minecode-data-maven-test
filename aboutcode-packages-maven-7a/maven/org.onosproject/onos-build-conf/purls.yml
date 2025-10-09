@@ -160,3 +160,5 @@
 - pkg:maven/org.onosproject/onos-build-conf@1.13.9-rc4?classifier=sources
 - pkg:maven/org.onosproject/onos-build-conf@2.1.0-rc7
 - pkg:maven/org.onosproject/onos-build-conf@2.1.0
+- pkg:maven/org.onosproject/onos-build-conf@1.12.2-rc2
+- pkg:maven/org.onosproject/onos-build-conf@1.12.2-rc2?classifier=sources

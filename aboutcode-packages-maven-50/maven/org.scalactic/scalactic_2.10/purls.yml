@@ -176,3 +176,7 @@
 - pkg:maven/org.scalactic/scalactic_2.10@3.0.8-RC3?classifier=sources
 - pkg:maven/org.scalactic/scalactic_2.10@3.0.8-RC4
 - pkg:maven/org.scalactic/scalactic_2.10@3.0.8-RC4?classifier=sources
+- pkg:maven/org.scalactic/scalactic_2.10@3.1.0-SNAP12
+- pkg:maven/org.scalactic/scalactic_2.10@3.1.0-SNAP12?classifier=sources
+- pkg:maven/org.scalactic/scalactic_2.10@3.0.8-RC5
+- pkg:maven/org.scalactic/scalactic_2.10@3.0.8-RC5?classifier=sources
