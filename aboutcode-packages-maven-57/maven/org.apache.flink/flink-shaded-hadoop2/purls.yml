@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.flink/flink-shaded-hadoop2@1.5.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-shaded-hadoop2@1.6.0
 - pkg:maven/org.apache.flink/flink-shaded-hadoop2@1.6.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-shaded-hadoop2@1.5.3
+- pkg:maven/org.apache.flink/flink-shaded-hadoop2@1.5.3?classifier=sources

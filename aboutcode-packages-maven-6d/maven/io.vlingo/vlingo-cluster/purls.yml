@@ -20,3 +20,5 @@
 - pkg:maven/io.vlingo/vlingo-cluster@0.4.3?classifier=sources
 - pkg:maven/io.vlingo/vlingo-cluster@0.4.2
 - pkg:maven/io.vlingo/vlingo-cluster@0.4.2?classifier=sources
+- pkg:maven/io.vlingo/vlingo-cluster@0.4.5
+- pkg:maven/io.vlingo/vlingo-cluster@0.4.5?classifier=sources

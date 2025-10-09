@@ -52,3 +52,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.scr@2.1.2
 - pkg:maven/org.apache.felix/org.apache.felix.scr@2.1.2?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.scr@2.1.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.scr@2.1.6
+- pkg:maven/org.apache.felix/org.apache.felix.scr@2.1.6?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.scr@2.1.6?classifier=source-release&type=zip

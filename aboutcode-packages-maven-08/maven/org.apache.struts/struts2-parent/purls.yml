@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.struts/struts2-parent@2.5.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5.14.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts2-parent@2.5.17?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts2-parent@2.3.35?classifier=source-release&type=zip
