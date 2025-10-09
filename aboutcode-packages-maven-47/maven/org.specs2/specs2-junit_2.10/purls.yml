@@ -219,3 +219,7 @@
 - pkg:maven/org.specs2/specs2-junit_2.10@3.7.2?classifier=sources
 - pkg:maven/org.specs2/specs2-junit_2.10@3.7.3-scalacheck-1.12
 - pkg:maven/org.specs2/specs2-junit_2.10@3.7.3-scalacheck-1.12?classifier=sources
+- pkg:maven/org.specs2/specs2-junit_2.10@3.7.3.1
+- pkg:maven/org.specs2/specs2-junit_2.10@3.7.3.1?classifier=sources
+- pkg:maven/org.specs2/specs2-junit_2.10@3.7.3
+- pkg:maven/org.specs2/specs2-junit_2.10@3.7.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.sonarsource.scanner.ant/sonarqube-ant-task@2.4
 - pkg:maven/org.sonarsource.scanner.ant/sonarqube-ant-task@2.4?classifier=sources
+- pkg:maven/org.sonarsource.scanner.ant/sonarqube-ant-task@2.4.1
+- pkg:maven/org.sonarsource.scanner.ant/sonarqube-ant-task@2.4.1?classifier=sources

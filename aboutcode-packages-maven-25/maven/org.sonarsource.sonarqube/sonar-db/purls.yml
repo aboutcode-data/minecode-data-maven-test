@@ -16,3 +16,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db@5.4?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db@5.5-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-db@5.5-RC1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db@5.5-RC2
+- pkg:maven/org.sonarsource.sonarqube/sonar-db@5.5-RC2?classifier=sources
