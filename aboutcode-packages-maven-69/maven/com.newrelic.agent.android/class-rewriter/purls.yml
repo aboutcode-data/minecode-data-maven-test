@@ -160,3 +160,5 @@
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.22.1?classifier=sources
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.23.0
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.23.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.24.0
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.24.0?classifier=sources

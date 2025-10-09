@@ -432,3 +432,9 @@
 - pkg:maven/com.nepxion/discovery-common-redis@4.11.9?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-redis@3.11.9
 - pkg:maven/com.nepxion/discovery-common-redis@3.11.9?classifier=sources
+- pkg:maven/com.nepxion/discovery-common-redis@5.4.0
+- pkg:maven/com.nepxion/discovery-common-redis@5.4.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-common-redis@4.12.0
+- pkg:maven/com.nepxion/discovery-common-redis@4.12.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-common-redis@3.12.0
+- pkg:maven/com.nepxion/discovery-common-redis@3.12.0?classifier=sources

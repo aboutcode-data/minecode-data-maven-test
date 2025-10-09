@@ -16,3 +16,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-brave@0.91.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-brave@0.92.0
 - pkg:maven/com.linecorp.armeria/armeria-brave@0.92.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-brave@0.93.0
+- pkg:maven/com.linecorp.armeria/armeria-brave@0.93.0?classifier=sources

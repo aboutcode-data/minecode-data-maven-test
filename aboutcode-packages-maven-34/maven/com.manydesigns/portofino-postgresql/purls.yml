@@ -32,3 +32,5 @@
 - pkg:maven/com.manydesigns/portofino-postgresql@4.2.7?classifier=sources
 - pkg:maven/com.manydesigns/portofino-postgresql@5.0.2
 - pkg:maven/com.manydesigns/portofino-postgresql@5.0.2?classifier=sources
+- pkg:maven/com.manydesigns/portofino-postgresql@5.0.3
+- pkg:maven/com.manydesigns/portofino-postgresql@5.0.3?classifier=sources

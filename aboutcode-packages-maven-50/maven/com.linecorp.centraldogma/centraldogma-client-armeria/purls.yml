@@ -51,3 +51,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.41.4?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.42.0
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.42.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.43.0
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.43.0?classifier=sources

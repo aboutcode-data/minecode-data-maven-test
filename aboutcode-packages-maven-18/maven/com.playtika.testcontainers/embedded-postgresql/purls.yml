@@ -26,3 +26,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.26?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.25
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.25?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.30
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.30?classifier=sources
