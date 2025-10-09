@@ -180,3 +180,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.31?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.52
 - pkg:maven/org.apache.tomcat/tomcat-util-scan@8.0.52?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@9.0.10
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@9.0.10?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.32
+- pkg:maven/org.apache.tomcat/tomcat-util-scan@8.5.32?classifier=sources

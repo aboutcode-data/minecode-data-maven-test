@@ -102,3 +102,7 @@
 - pkg:maven/org.dspace/dspace-lni-client@4.8?classifier=sources
 - pkg:maven/org.dspace/dspace-lni-client@5.8
 - pkg:maven/org.dspace/dspace-lni-client@5.8?classifier=sources
+- pkg:maven/org.dspace/dspace-lni-client@5.9
+- pkg:maven/org.dspace/dspace-lni-client@5.9?classifier=sources
+- pkg:maven/org.dspace/dspace-lni-client@4.9
+- pkg:maven/org.dspace/dspace-lni-client@4.9?classifier=sources

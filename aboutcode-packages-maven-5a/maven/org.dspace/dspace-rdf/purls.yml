@@ -38,3 +38,7 @@
 - pkg:maven/org.dspace/dspace-rdf@5.8?classifier=sources
 - pkg:maven/org.dspace/dspace-rdf@6.2?type=war
 - pkg:maven/org.dspace/dspace-rdf@6.2?classifier=sources
+- pkg:maven/org.dspace/dspace-rdf@6.3?type=war
+- pkg:maven/org.dspace/dspace-rdf@6.3?classifier=sources
+- pkg:maven/org.dspace/dspace-rdf@5.9?type=war
+- pkg:maven/org.dspace/dspace-rdf@5.9?classifier=sources

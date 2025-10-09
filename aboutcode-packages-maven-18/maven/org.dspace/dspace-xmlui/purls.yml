@@ -80,3 +80,9 @@
 - pkg:maven/org.dspace/dspace-xmlui@5.8?classifier=sources
 - pkg:maven/org.dspace/dspace-xmlui@6.2?type=war
 - pkg:maven/org.dspace/dspace-xmlui@6.2?classifier=sources
+- pkg:maven/org.dspace/dspace-xmlui@6.3?type=war
+- pkg:maven/org.dspace/dspace-xmlui@6.3?classifier=sources
+- pkg:maven/org.dspace/dspace-xmlui@5.9?type=war
+- pkg:maven/org.dspace/dspace-xmlui@5.9?classifier=sources
+- pkg:maven/org.dspace/dspace-xmlui@4.9?type=war
+- pkg:maven/org.dspace/dspace-xmlui@4.9?classifier=sources

@@ -56,3 +56,7 @@
 - pkg:maven/org.apache.pdfbox/xmpbox@1.8.14?classifier=sources
 - pkg:maven/org.apache.pdfbox/xmpbox@2.0.10
 - pkg:maven/org.apache.pdfbox/xmpbox@2.0.10?classifier=sources
+- pkg:maven/org.apache.pdfbox/xmpbox@2.0.11
+- pkg:maven/org.apache.pdfbox/xmpbox@2.0.11?classifier=sources
+- pkg:maven/org.apache.pdfbox/xmpbox@1.8.15
+- pkg:maven/org.apache.pdfbox/xmpbox@1.8.15?classifier=sources

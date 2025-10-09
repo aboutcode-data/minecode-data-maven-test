@@ -28,3 +28,5 @@
 - pkg:maven/org.asciidoctor/asciidoctorj@1.6.0-alpha.6?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj@1.6.0-alpha.7
 - pkg:maven/org.asciidoctor/asciidoctorj@1.6.0-alpha.7?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj@1.5.7
+- pkg:maven/org.asciidoctor/asciidoctorj@1.5.7?classifier=sources

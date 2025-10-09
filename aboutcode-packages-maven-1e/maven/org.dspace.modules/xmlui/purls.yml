@@ -51,3 +51,6 @@
 - pkg:maven/org.dspace.modules/xmlui@4.8?type=war
 - pkg:maven/org.dspace.modules/xmlui@5.8?type=war
 - pkg:maven/org.dspace.modules/xmlui@6.2?type=war
+- pkg:maven/org.dspace.modules/xmlui@6.3?type=war
+- pkg:maven/org.dspace.modules/xmlui@5.9?type=war
+- pkg:maven/org.dspace.modules/xmlui@4.9?type=war
