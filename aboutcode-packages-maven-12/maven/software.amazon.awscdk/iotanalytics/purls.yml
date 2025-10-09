@@ -70,3 +70,9 @@
 - pkg:maven/software.amazon.awscdk/iotanalytics@1.8.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/iotanalytics@1.9.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/iotanalytics@1.9.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotanalytics@1.11.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/iotanalytics@1.11.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotanalytics@1.10.1.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/iotanalytics@1.10.1.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotanalytics@1.10.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/iotanalytics@1.10.0.DEVPREVIEW?classifier=sources

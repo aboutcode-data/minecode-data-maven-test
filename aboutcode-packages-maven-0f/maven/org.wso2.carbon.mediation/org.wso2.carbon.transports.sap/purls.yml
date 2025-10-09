@@ -216,3 +216,7 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.16?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.22?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.22?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.21?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.transports.sap@4.7.21?classifier=source-release&type=zip
