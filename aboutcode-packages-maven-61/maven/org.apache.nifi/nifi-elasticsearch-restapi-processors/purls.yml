@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.nifi/nifi-elasticsearch-restapi-processors@1.6.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-elasticsearch-restapi-processors@1.7.0
 - pkg:maven/org.apache.nifi/nifi-elasticsearch-restapi-processors@1.7.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-elasticsearch-restapi-processors@1.7.1
+- pkg:maven/org.apache.nifi/nifi-elasticsearch-restapi-processors@1.7.1?classifier=sources

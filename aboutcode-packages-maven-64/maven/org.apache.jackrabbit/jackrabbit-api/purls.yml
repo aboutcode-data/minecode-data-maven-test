@@ -276,3 +276,7 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.8.8
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.8.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.8.9
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.8.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.17.4
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.17.4?classifier=sources

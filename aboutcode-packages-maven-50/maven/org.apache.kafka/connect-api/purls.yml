@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.kafka/connect-api@0.10.2.2?classifier=sources
 - pkg:maven/org.apache.kafka/connect-api@1.0.2
 - pkg:maven/org.apache.kafka/connect-api@1.0.2?classifier=sources
+- pkg:maven/org.apache.kafka/connect-api@1.1.1
+- pkg:maven/org.apache.kafka/connect-api@1.1.1?classifier=sources

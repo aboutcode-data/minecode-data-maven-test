@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-1.x-plugin@5.0.0-beta
 - pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-1.x-plugin@5.0.0-beta?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-1.x-plugin@5.0.0-beta2
+- pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-1.x-plugin@5.0.0-beta2?classifier=sources

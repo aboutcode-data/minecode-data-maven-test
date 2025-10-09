@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.syncope.ext.oidcclient/syncope-ext-oidcclient-client-enduser@2.0.9
 - pkg:maven/org.apache.syncope.ext.oidcclient/syncope-ext-oidcclient-client-enduser@2.0.9?classifier=sources
+- pkg:maven/org.apache.syncope.ext.oidcclient/syncope-ext-oidcclient-client-enduser@2.1.0
+- pkg:maven/org.apache.syncope.ext.oidcclient/syncope-ext-oidcclient-client-enduser@2.1.0?classifier=sources
