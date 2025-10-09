@@ -102,3 +102,5 @@
 - pkg:maven/org.jppf/jppf-admin@6.0.3?classifier=sources
 - pkg:maven/org.jppf/jppf-admin@6.1.1
 - pkg:maven/org.jppf/jppf-admin@6.1.1?classifier=sources
+- pkg:maven/org.jppf/jppf-admin@6.2-alpha
+- pkg:maven/org.jppf/jppf-admin@6.2-alpha?classifier=sources

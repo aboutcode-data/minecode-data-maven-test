@@ -70,3 +70,5 @@
 - pkg:maven/org.junit.jupiter/junit-jupiter-engine@5.5.0-RC2?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-engine@5.5.0
 - pkg:maven/org.junit.jupiter/junit-jupiter-engine@5.5.0?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-engine@5.5.1
+- pkg:maven/org.junit.jupiter/junit-jupiter-engine@5.5.1?classifier=sources
