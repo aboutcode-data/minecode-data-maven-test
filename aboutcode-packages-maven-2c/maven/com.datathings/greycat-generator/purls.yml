@@ -10,3 +10,5 @@
 - pkg:maven/com.datathings/greycat-generator@8.3?classifier=sources
 - pkg:maven/com.datathings/greycat-generator@9
 - pkg:maven/com.datathings/greycat-generator@9?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@10
+- pkg:maven/com.datathings/greycat-generator@10?classifier=sources

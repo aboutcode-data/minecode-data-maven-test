@@ -2,3 +2,5 @@
 - pkg:maven/xyz.greatapp/libs@0.0.19?classifier=sources
 - pkg:maven/xyz.greatapp/libs@0.0.17
 - pkg:maven/xyz.greatapp/libs@0.0.17?classifier=sources
+- pkg:maven/xyz.greatapp/libs@0.0.20
+- pkg:maven/xyz.greatapp/libs@0.0.20?classifier=sources

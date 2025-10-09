@@ -1,2 +1,6 @@
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-enforcer-pattern-size@2017.7.0
 - pkg:maven/org.wildfly.swarm/wildfly-swarm-enforcer-pattern-size@2017.7.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-enforcer-pattern-size@2017.8.1
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-enforcer-pattern-size@2017.8.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-enforcer-pattern-size@2017.8.0
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-enforcer-pattern-size@2017.8.0?classifier=sources

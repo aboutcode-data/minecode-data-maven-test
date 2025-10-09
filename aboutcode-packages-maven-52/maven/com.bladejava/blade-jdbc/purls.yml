@@ -36,3 +36,5 @@
 - pkg:maven/com.bladejava/blade-jdbc@0.1.6-beta?classifier=sources
 - pkg:maven/com.bladejava/blade-jdbc@0.1.6
 - pkg:maven/com.bladejava/blade-jdbc@0.1.6?classifier=sources
+- pkg:maven/com.bladejava/blade-jdbc@0.2.0
+- pkg:maven/com.bladejava/blade-jdbc@0.2.0?classifier=sources

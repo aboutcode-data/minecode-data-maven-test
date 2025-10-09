@@ -53,3 +53,7 @@
 - pkg:maven/org.wildfly.swarm/webservices@2017.6.1?classifier=sources
 - pkg:maven/org.wildfly.swarm/webservices@2017.7.0
 - pkg:maven/org.wildfly.swarm/webservices@2017.7.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/webservices@2017.8.1
+- pkg:maven/org.wildfly.swarm/webservices@2017.8.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/webservices@2017.8.0
+- pkg:maven/org.wildfly.swarm/webservices@2017.8.0?classifier=sources

@@ -76,3 +76,9 @@
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR1
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR4
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR4?classifier=sources
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR4?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR3
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR3?classifier=sources
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.0.0.CR3?classifier=source-release&type=zip

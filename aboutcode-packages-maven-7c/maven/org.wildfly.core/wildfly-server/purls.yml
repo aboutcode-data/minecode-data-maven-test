@@ -286,3 +286,7 @@
 - pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta27?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta28
 - pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta28?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta30
+- pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta30?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta29
+- pkg:maven/org.wildfly.core/wildfly-server@3.0.0.Beta29?classifier=sources

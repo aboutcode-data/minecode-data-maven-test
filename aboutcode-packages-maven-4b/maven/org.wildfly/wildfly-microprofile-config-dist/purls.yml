@@ -1,0 +1,6 @@
+- pkg:maven/org.wildfly/wildfly-microprofile-config-dist@1.0.1?type=zip
+- pkg:maven/org.wildfly/wildfly-microprofile-config-dist@1.0.1?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-microprofile-config-dist@1.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-microprofile-config-dist@1.0.0?type=zip
+- pkg:maven/org.wildfly/wildfly-microprofile-config-dist@1.0.0?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-microprofile-config-dist@1.0.0?classifier=src&type=tar.gz

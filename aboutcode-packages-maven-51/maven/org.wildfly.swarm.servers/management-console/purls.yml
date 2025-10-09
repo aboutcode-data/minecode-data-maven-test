@@ -30,3 +30,5 @@
 - pkg:maven/org.wildfly.swarm.servers/management-console@2017.6.0?classifier=sources
 - pkg:maven/org.wildfly.swarm.servers/management-console@2017.6.1
 - pkg:maven/org.wildfly.swarm.servers/management-console@2017.7.0
+- pkg:maven/org.wildfly.swarm.servers/management-console@2017.8.1
+- pkg:maven/org.wildfly.swarm.servers/management-console@2017.8.0

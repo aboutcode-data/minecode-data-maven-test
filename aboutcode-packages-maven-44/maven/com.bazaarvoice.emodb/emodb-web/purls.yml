@@ -32,3 +32,5 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.2?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.4?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.3?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.4-migration-1?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@1.0.1-migration?classifier=sources

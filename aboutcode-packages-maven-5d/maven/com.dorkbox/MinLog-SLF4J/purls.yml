@@ -12,3 +12,5 @@
 - pkg:maven/com.dorkbox/MinLog-SLF4J@1.8?classifier=sources
 - pkg:maven/com.dorkbox/MinLog-SLF4J@1.9
 - pkg:maven/com.dorkbox/MinLog-SLF4J@1.9?classifier=sources
+- pkg:maven/com.dorkbox/MinLog-SLF4J@1.11
+- pkg:maven/com.dorkbox/MinLog-SLF4J@1.11?classifier=sources

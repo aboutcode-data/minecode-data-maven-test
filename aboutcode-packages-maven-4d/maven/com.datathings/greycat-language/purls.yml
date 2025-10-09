@@ -10,3 +10,5 @@
 - pkg:maven/com.datathings/greycat-language@8.3?classifier=sources
 - pkg:maven/com.datathings/greycat-language@9
 - pkg:maven/com.datathings/greycat-language@9?classifier=sources
+- pkg:maven/com.datathings/greycat-language@10
+- pkg:maven/com.datathings/greycat-language@10?classifier=sources
