@@ -22,3 +22,5 @@
 - pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.3.3?classifier=sources
 - pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.3.3.1?type=zip
 - pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.3.3.1?classifier=sources
+- pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.3.4?type=zip
+- pkg:maven/org.wikimedia.elasticsearch.swift/swift-repository-plugin@2.3.4?classifier=sources

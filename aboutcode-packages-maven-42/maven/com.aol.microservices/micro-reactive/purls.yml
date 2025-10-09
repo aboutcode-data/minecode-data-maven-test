@@ -64,3 +64,5 @@
 - pkg:maven/com.aol.microservices/micro-reactive@0.87?classifier=sources
 - pkg:maven/com.aol.microservices/micro-reactive@0.86
 - pkg:maven/com.aol.microservices/micro-reactive@0.86?classifier=sources
+- pkg:maven/com.aol.microservices/micro-reactive@0.87.1
+- pkg:maven/com.aol.microservices/micro-reactive@0.87.1?classifier=sources
