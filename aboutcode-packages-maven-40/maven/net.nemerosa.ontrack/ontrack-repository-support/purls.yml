@@ -268,3 +268,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@2.32.1?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@2.32.0
 - pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@2.32.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@feature-529-dependencies-f19dccc
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@feature-529-dependencies-f19dccc?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@2.32.2
+- pkg:maven/net.nemerosa.ontrack/ontrack-repository-support@2.32.2?classifier=sources

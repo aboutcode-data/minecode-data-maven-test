@@ -214,3 +214,5 @@
 - pkg:maven/org.clojure/clojure@1.9.0-alpha19?classifier=sources
 - pkg:maven/org.clojure/clojure@1.9.0-alpha18?type=zip
 - pkg:maven/org.clojure/clojure@1.9.0-alpha18?classifier=sources
+- pkg:maven/org.clojure/clojure@1.9.0-alpha20?type=zip
+- pkg:maven/org.clojure/clojure@1.9.0-alpha20?classifier=sources

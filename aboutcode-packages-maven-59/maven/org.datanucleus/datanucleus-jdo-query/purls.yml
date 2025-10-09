@@ -60,3 +60,5 @@
 - pkg:maven/org.datanucleus/datanucleus-jdo-query@4.2.2?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-jdo-query@4.0.6
 - pkg:maven/org.datanucleus/datanucleus-jdo-query@4.0.6?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-jdo-query@5.0.2
+- pkg:maven/org.datanucleus/datanucleus-jdo-query@5.0.2?classifier=sources

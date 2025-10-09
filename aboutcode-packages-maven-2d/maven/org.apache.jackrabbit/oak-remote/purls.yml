@@ -130,3 +130,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-remote@1.6.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-remote@1.4.18
 - pkg:maven/org.apache.jackrabbit/oak-remote@1.4.18?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-remote@1.6.5
+- pkg:maven/org.apache.jackrabbit/oak-remote@1.6.5?classifier=sources

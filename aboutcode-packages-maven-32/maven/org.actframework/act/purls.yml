@@ -72,3 +72,7 @@
 - pkg:maven/org.actframework/act@1.4.10?classifier=sources
 - pkg:maven/org.actframework/act@1.3.13-LTS
 - pkg:maven/org.actframework/act@1.3.13-LTS?classifier=sources
+- pkg:maven/org.actframework/act@1.4.11
+- pkg:maven/org.actframework/act@1.4.11?classifier=sources
+- pkg:maven/org.actframework/act@1.3.14-LTS
+- pkg:maven/org.actframework/act@1.3.14-LTS?classifier=sources
