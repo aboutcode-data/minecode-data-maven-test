@@ -320,3 +320,7 @@
 - pkg:maven/org.neo4j/neo4j-lucene-index@3.2.0-alpha05?classifier=sources
 - pkg:maven/org.neo4j/neo4j-lucene-index@3.2.0-alpha04
 - pkg:maven/org.neo4j/neo4j-lucene-index@3.2.0-alpha04?classifier=sources
+- pkg:maven/org.neo4j/neo4j-lucene-index@3.2.0-alpha06
+- pkg:maven/org.neo4j/neo4j-lucene-index@3.2.0-alpha06?classifier=sources
+- pkg:maven/org.neo4j/neo4j-lucene-index@3.1.2
+- pkg:maven/org.neo4j/neo4j-lucene-index@3.1.2?classifier=sources
