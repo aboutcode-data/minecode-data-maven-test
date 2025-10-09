@@ -16,3 +16,5 @@
 - pkg:maven/com.impinj/itemsense-client@2.1.4?classifier=sources
 - pkg:maven/com.impinj/itemsense-client@2.2
 - pkg:maven/com.impinj/itemsense-client@2.2?classifier=sources
+- pkg:maven/com.impinj/itemsense-client@2.4.0
+- pkg:maven/com.impinj/itemsense-client@2.4.0?classifier=sources

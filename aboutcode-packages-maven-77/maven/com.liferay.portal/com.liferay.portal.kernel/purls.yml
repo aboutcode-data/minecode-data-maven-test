@@ -38,3 +38,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.13.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.15.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.15.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.16.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.16.0?classifier=sources
