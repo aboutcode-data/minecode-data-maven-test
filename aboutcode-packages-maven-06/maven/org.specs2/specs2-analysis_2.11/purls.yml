@@ -410,3 +410,5 @@
 - pkg:maven/org.specs2/specs2-analysis_2.11@3.9.5?classifier=sources
 - pkg:maven/org.specs2/specs2-analysis_2.11@4.0.0-RC5
 - pkg:maven/org.specs2/specs2-analysis_2.11@4.0.0-RC5?classifier=sources
+- pkg:maven/org.specs2/specs2-analysis_2.11@4.0.0
+- pkg:maven/org.specs2/specs2-analysis_2.11@4.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.quicktheories/quicktheories@0.20?classifier=sources
 - pkg:maven/org.quicktheories/quicktheories@0.15
 - pkg:maven/org.quicktheories/quicktheories@0.15?classifier=sources
+- pkg:maven/org.quicktheories/quicktheories@0.21
+- pkg:maven/org.quicktheories/quicktheories@0.21?classifier=sources
