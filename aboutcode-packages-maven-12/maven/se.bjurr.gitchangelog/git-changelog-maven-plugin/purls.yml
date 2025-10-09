@@ -105,3 +105,5 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.51
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.51?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.54
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.55
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.55?classifier=sources

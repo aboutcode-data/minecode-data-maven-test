@@ -138,3 +138,5 @@
 - pkg:maven/com.bertramlabs.plugins/handlebars-asset-pipeline@3.0.5?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/handlebars-asset-pipeline@3.0.4
 - pkg:maven/com.bertramlabs.plugins/handlebars-asset-pipeline@3.0.4?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/handlebars-asset-pipeline@2.15.1
+- pkg:maven/com.bertramlabs.plugins/handlebars-asset-pipeline@2.15.1?classifier=sources

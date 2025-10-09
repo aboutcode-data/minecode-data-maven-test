@@ -4,3 +4,7 @@
 - pkg:maven/top.infra/spring-boot-commons@1.0.1?classifier=sources
 - pkg:maven/top.infra/spring-boot-commons@1.0.2
 - pkg:maven/top.infra/spring-boot-commons@1.0.2?classifier=sources
+- pkg:maven/top.infra/spring-boot-commons@2.0.0
+- pkg:maven/top.infra/spring-boot-commons@2.0.0?classifier=sources
+- pkg:maven/top.infra/spring-boot-commons@1.0.2.U1
+- pkg:maven/top.infra/spring-boot-commons@1.0.2.U1?classifier=sources

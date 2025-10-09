@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.presto/presto-kudu@0.209?classifier=sources
+- pkg:maven/com.facebook.presto/presto-kudu@0.210?classifier=sources
