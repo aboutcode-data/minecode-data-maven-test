@@ -8,3 +8,5 @@
 - pkg:maven/com.dangdang/elastic-job-lite-console@2.0.3?classifier=sources
 - pkg:maven/com.dangdang/elastic-job-lite-console@2.0.4?type=war
 - pkg:maven/com.dangdang/elastic-job-lite-console@2.0.4?classifier=sources
+- pkg:maven/com.dangdang/elastic-job-lite-console@2.0.5?type=war
+- pkg:maven/com.dangdang/elastic-job-lite-console@2.0.5?classifier=sources

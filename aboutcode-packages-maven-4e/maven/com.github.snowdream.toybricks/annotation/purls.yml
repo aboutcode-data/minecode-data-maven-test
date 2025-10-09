@@ -1,0 +1,4 @@
+- pkg:maven/com.github.snowdream.toybricks/annotation@0.8
+- pkg:maven/com.github.snowdream.toybricks/annotation@0.8?classifier=sources
+- pkg:maven/com.github.snowdream.toybricks/annotation@0.1
+- pkg:maven/com.github.snowdream.toybricks/annotation@0.1?classifier=sources
