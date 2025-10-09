@@ -278,3 +278,7 @@
 - pkg:maven/com.yahoo.vespa/messagebus@6.330.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus@6.329.64
 - pkg:maven/com.yahoo.vespa/messagebus@6.329.64?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus@7.5.19
+- pkg:maven/com.yahoo.vespa/messagebus@7.5.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus@7.3.19
+- pkg:maven/com.yahoo.vespa/messagebus@7.3.19?classifier=sources

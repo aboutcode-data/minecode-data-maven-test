@@ -172,3 +172,5 @@
 - pkg:maven/io.github.anderscheow/android-library@2.0.7?classifier=sources
 - pkg:maven/io.github.anderscheow/android-library@2.0.8?type=aar
 - pkg:maven/io.github.anderscheow/android-library@2.0.8?classifier=sources
+- pkg:maven/io.github.anderscheow/android-library@2.0.9?type=aar
+- pkg:maven/io.github.anderscheow/android-library@2.0.9?classifier=sources

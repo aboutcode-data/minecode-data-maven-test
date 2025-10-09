@@ -156,3 +156,5 @@
 - pkg:maven/io.flux-capacitor/java-client@0.70?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.73
 - pkg:maven/io.flux-capacitor/java-client@0.73?classifier=sources
+- pkg:maven/io.flux-capacitor/java-client@0.74
+- pkg:maven/io.flux-capacitor/java-client@0.74?classifier=sources

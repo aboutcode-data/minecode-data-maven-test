@@ -12,3 +12,11 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.8?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.9
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.9?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@3.1
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@3.1?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@3.0
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@3.0?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.10.1
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.10.1?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.10
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-yarn@2.10?classifier=sources
