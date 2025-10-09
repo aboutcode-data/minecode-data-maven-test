@@ -28,3 +28,5 @@
 - pkg:maven/org.netxms/netxms-client@2.2.15?classifier=sources
 - pkg:maven/org.netxms/netxms-client@2.2.16
 - pkg:maven/org.netxms/netxms-client@2.2.16?classifier=sources
+- pkg:maven/org.netxms/netxms-client@3.0.2258
+- pkg:maven/org.netxms/netxms-client@3.0.2258?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@1.1.1-Beryllium-SR1?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@1.1.0-Beryllium
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@1.1.0-Beryllium?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@1.8.0
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@1.8.0?classifier=sources

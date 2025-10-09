@@ -44,3 +44,5 @@
 - pkg:maven/org.opendaylight.netconf/ietf-restconf-monitoring@1.4.4-Boron-SR4?classifier=sources
 - pkg:maven/org.opendaylight.netconf/ietf-restconf-monitoring@1.4.3-Boron-SR3
 - pkg:maven/org.opendaylight.netconf/ietf-restconf-monitoring@1.4.3-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.netconf/ietf-restconf-monitoring@1.10.0
+- pkg:maven/org.opendaylight.netconf/ietf-restconf-monitoring@1.10.0?classifier=sources

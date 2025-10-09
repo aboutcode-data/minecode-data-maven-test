@@ -40,3 +40,5 @@
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.5.1-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.5.0-Carbon
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.5.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.10.0
+- pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.10.0?classifier=sources

@@ -83,3 +83,5 @@
 - pkg:maven/org.opendaylight.controller/sal-core-api@1.1-Helium?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-core-api@1.0
 - pkg:maven/org.opendaylight.controller/sal-core-api@1.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-core-api@1.10.0
+- pkg:maven/org.opendaylight.controller/sal-core-api@1.10.0?classifier=sources

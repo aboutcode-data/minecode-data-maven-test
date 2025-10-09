@@ -50,3 +50,5 @@
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.10.1-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.10-Carbon
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.10-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.0
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.0?classifier=sources

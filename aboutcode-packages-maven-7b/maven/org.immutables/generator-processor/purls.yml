@@ -218,3 +218,5 @@
 - pkg:maven/org.immutables/generator-processor@2.8.0-CriteriaPreview3?classifier=sources
 - pkg:maven/org.immutables/generator-processor@2.8.0-CriteriaRc0
 - pkg:maven/org.immutables/generator-processor@2.8.0-CriteriaRc0?classifier=sources
+- pkg:maven/org.immutables/generator-processor@2.8.0
+- pkg:maven/org.immutables/generator-processor@2.8.0?classifier=sources

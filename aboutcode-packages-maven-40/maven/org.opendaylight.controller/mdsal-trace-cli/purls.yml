@@ -28,3 +28,5 @@
 - pkg:maven/org.opendaylight.controller/mdsal-trace-cli@1.5.3-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.controller/mdsal-trace-cli@1.5.2-Carbon
 - pkg:maven/org.opendaylight.controller/mdsal-trace-cli@1.5.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.controller/mdsal-trace-cli@1.10.0
+- pkg:maven/org.opendaylight.controller/mdsal-trace-cli@1.10.0?classifier=sources

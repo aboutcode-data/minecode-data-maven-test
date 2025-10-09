@@ -192,3 +192,5 @@
 - pkg:maven/org.neo4j/neo4j-configuration@3.4.15?classifier=sources
 - pkg:maven/org.neo4j/neo4j-configuration@3.5.9
 - pkg:maven/org.neo4j/neo4j-configuration@3.5.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j-configuration@3.5.10
+- pkg:maven/org.neo4j/neo4j-configuration@3.5.10?classifier=sources

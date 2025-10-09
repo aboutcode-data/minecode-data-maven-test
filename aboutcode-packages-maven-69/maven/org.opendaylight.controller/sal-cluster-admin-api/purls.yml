@@ -40,3 +40,5 @@
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@1.5.1-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@1.5.0-Carbon
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@1.5.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@1.10.0
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@1.10.0?classifier=sources

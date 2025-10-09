@@ -81,3 +81,5 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@1.1.1-Helium-SR1?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@1.1-Helium
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@1.1-Helium?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-clustering-commons@1.10.0
+- pkg:maven/org.opendaylight.controller/sal-clustering-commons@1.10.0?classifier=sources
