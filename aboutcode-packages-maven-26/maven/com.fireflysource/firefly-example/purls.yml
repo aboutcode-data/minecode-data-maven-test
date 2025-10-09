@@ -1,2 +1,4 @@
 - pkg:maven/com.fireflysource/firefly-example@4.0.21
 - pkg:maven/com.fireflysource/firefly-example@4.0.21?classifier=sources
+- pkg:maven/com.fireflysource/firefly-example@4.0.22
+- pkg:maven/com.fireflysource/firefly-example@4.0.22?classifier=sources

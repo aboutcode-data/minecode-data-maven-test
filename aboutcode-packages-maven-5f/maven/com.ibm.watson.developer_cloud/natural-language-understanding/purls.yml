@@ -1,2 +1,4 @@
 - pkg:maven/com.ibm.watson.developer_cloud/natural-language-understanding@3.7.0
 - pkg:maven/com.ibm.watson.developer_cloud/natural-language-understanding@3.7.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/natural-language-understanding@3.7.1
+- pkg:maven/com.ibm.watson.developer_cloud/natural-language-understanding@3.7.1?classifier=sources
