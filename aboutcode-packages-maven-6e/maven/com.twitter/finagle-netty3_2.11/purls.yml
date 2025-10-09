@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/finagle-netty3_2.11@7.0.0
 - pkg:maven/com.twitter/finagle-netty3_2.11@7.0.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty3_2.11@7.1.0
+- pkg:maven/com.twitter/finagle-netty3_2.11@7.1.0?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/com.saucelabs/ci-sauce@1.127?classifier=sources
 - pkg:maven/com.saucelabs/ci-sauce@1.126
 - pkg:maven/com.saucelabs/ci-sauce@1.126?classifier=sources
+- pkg:maven/com.saucelabs/ci-sauce@1.129
+- pkg:maven/com.saucelabs/ci-sauce@1.129?classifier=sources

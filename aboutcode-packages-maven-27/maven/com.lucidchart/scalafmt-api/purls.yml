@@ -30,3 +30,5 @@
 - pkg:maven/com.lucidchart/scalafmt-api@1.9?classifier=sources
 - pkg:maven/com.lucidchart/scalafmt-api@1.10
 - pkg:maven/com.lucidchart/scalafmt-api@1.10?classifier=sources
+- pkg:maven/com.lucidchart/scalafmt-api@1.11
+- pkg:maven/com.lucidchart/scalafmt-api@1.11?classifier=sources

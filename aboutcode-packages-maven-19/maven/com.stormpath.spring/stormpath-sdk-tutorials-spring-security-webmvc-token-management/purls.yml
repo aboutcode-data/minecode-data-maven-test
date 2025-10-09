@@ -32,3 +32,5 @@
 - pkg:maven/com.stormpath.spring/stormpath-sdk-tutorials-spring-security-webmvc-token-management@2.0.0-okta?classifier=sources
 - pkg:maven/com.stormpath.spring/stormpath-sdk-tutorials-spring-security-webmvc-token-management@2.0.1-okta?type=war
 - pkg:maven/com.stormpath.spring/stormpath-sdk-tutorials-spring-security-webmvc-token-management@2.0.1-okta?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-sdk-tutorials-spring-security-webmvc-token-management@2.0.2-okta?type=war
+- pkg:maven/com.stormpath.spring/stormpath-sdk-tutorials-spring-security-webmvc-token-management@2.0.2-okta?classifier=sources
