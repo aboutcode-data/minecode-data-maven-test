@@ -26,3 +26,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@3.0.2
 - pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@3.0.3
+- pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@2.0.8
+- pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scripting.beanshell@2.0.8?classifier=sources-commercial

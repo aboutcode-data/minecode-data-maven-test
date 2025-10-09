@@ -187,3 +187,6 @@
 - pkg:maven/com.liferay/com.liferay.login.web@2.0.20
 - pkg:maven/com.liferay/com.liferay.login.web@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.web@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.web@3.0.24
+- pkg:maven/com.liferay/com.liferay.login.web@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.web@3.0.24?classifier=sources-commercial

@@ -16,3 +16,5 @@
 - pkg:maven/com.github.drumge/kvo-api@0.2.9?classifier=sources
 - pkg:maven/com.github.drumge/kvo-api@0.2.8
 - pkg:maven/com.github.drumge/kvo-api@0.2.8?classifier=sources
+- pkg:maven/com.github.drumge/kvo-api@0.2.9-weak_refrence-1
+- pkg:maven/com.github.drumge/kvo-api@0.2.9-weak_refrence-1?classifier=sources

@@ -350,3 +350,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@1.10.46
 - pkg:maven/com.liferay/com.liferay.journal.web@1.10.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@1.10.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.web@2.0.48
+- pkg:maven/com.liferay/com.liferay.journal.web@2.0.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@2.0.48?classifier=sources-commercial

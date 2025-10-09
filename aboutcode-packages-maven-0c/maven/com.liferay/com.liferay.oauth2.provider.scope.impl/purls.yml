@@ -106,3 +106,6 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.37
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.39
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@1.0.39?classifier=sources-commercial
