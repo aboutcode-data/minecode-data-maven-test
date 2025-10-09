@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.target.mobile/target-vec@0.2.3-beta?type=aar
+- pkg:maven/com.adobe.target.mobile/target-vec@0.2.3-beta?classifier=sources
+- pkg:maven/com.adobe.target.mobile/target-vec@0.2.2?type=aar
+- pkg:maven/com.adobe.target.mobile/target-vec@0.2.2?classifier=sources

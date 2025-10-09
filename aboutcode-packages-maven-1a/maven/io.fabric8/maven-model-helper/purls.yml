@@ -7,3 +7,6 @@
 - pkg:maven/io.fabric8/maven-model-helper@6
 - pkg:maven/io.fabric8/maven-model-helper@6?classifier=sources
 - pkg:maven/io.fabric8/maven-model-helper@6?classifier=source-release&type=zip
+- pkg:maven/io.fabric8/maven-model-helper@8
+- pkg:maven/io.fabric8/maven-model-helper@8?classifier=sources
+- pkg:maven/io.fabric8/maven-model-helper@8?classifier=source-release&type=zip

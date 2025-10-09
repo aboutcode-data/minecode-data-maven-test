@@ -30,3 +30,7 @@
 - pkg:maven/io.mockk/mockk-agent-android@1.8.10.kotlin13?classifier=sources
 - pkg:maven/io.mockk/mockk-agent-android@1.8.10?type=aar
 - pkg:maven/io.mockk/mockk-agent-android@1.8.10?classifier=sources
+- pkg:maven/io.mockk/mockk-agent-android@1.8.12.kotlin13?type=aar
+- pkg:maven/io.mockk/mockk-agent-android@1.8.12.kotlin13?classifier=sources
+- pkg:maven/io.mockk/mockk-agent-android@1.8.12?type=aar
+- pkg:maven/io.mockk/mockk-agent-android@1.8.12?classifier=sources

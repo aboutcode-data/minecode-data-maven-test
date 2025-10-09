@@ -10,3 +10,5 @@
 - pkg:maven/ch.squaredesk.nova/http-spring@5.3.0?classifier=sources
 - pkg:maven/ch.squaredesk.nova/http-spring@6.0.0
 - pkg:maven/ch.squaredesk.nova/http-spring@6.0.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/http-spring@7.0.0
+- pkg:maven/ch.squaredesk.nova/http-spring@7.0.0?classifier=sources

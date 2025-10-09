@@ -34,3 +34,5 @@
 - pkg:maven/com.alibaba/transmittable-thread-local@2.8.0?classifier=sources
 - pkg:maven/com.alibaba/transmittable-thread-local@2.9.0
 - pkg:maven/com.alibaba/transmittable-thread-local@2.9.0?classifier=sources
+- pkg:maven/com.alibaba/transmittable-thread-local@2.10.0
+- pkg:maven/com.alibaba/transmittable-thread-local@2.10.0?classifier=sources

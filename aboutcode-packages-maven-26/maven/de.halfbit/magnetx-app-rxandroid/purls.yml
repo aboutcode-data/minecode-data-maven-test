@@ -10,3 +10,5 @@
 - pkg:maven/de.halfbit/magnetx-app-rxandroid@2.8-RC11?classifier=sources
 - pkg:maven/de.halfbit/magnetx-app-rxandroid@2.8?type=aar
 - pkg:maven/de.halfbit/magnetx-app-rxandroid@2.8?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app-rxandroid@3.0-alpha2?type=aar
+- pkg:maven/de.halfbit/magnetx-app-rxandroid@3.0-alpha2?classifier=sources
