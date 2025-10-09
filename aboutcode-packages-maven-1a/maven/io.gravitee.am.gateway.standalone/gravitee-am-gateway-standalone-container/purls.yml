@@ -32,3 +32,5 @@
 - pkg:maven/io.gravitee.am.gateway.standalone/gravitee-am-gateway-standalone-container@1.6.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.standalone/gravitee-am-gateway-standalone-container@1.6.0
 - pkg:maven/io.gravitee.am.gateway.standalone/gravitee-am-gateway-standalone-container@1.6.0?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.standalone/gravitee-am-gateway-standalone-container@1.6.3
+- pkg:maven/io.gravitee.am.gateway.standalone/gravitee-am-gateway-standalone-container@1.6.3?classifier=sources
