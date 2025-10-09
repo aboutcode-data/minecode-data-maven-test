@@ -22,3 +22,5 @@
 - pkg:maven/com.linecorp.armeria/armeria@0.9.0.Final?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria@0.10.0.Final
 - pkg:maven/com.linecorp.armeria/armeria@0.10.0.Final?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria@0.11.0.Final
+- pkg:maven/com.linecorp.armeria/armeria@0.11.0.Final?classifier=sources

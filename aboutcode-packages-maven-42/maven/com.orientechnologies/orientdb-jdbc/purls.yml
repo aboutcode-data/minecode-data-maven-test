@@ -80,3 +80,5 @@
 - pkg:maven/com.orientechnologies/orientdb-jdbc@2.0.18?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-jdbc@2.1.11
 - pkg:maven/com.orientechnologies/orientdb-jdbc@2.1.11?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-jdbc@2.1.12
+- pkg:maven/com.orientechnologies/orientdb-jdbc@2.1.12?classifier=sources
