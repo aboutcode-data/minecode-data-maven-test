@@ -32,3 +32,7 @@
 - pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.2?classifier=sources
 - pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.3
 - pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.3?classifier=sources
+- pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.4.1
+- pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.4.1?classifier=sources
+- pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.4
+- pkg:maven/com.dangdang/sharding-jdbc-config-spring@1.5.4?classifier=sources

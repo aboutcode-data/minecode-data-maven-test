@@ -74,3 +74,5 @@
 - pkg:maven/com.google.cloud/google-cloud-pubsub@0.23.1-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-pubsub@0.23.0-beta
 - pkg:maven/com.google.cloud/google-cloud-pubsub@0.23.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-pubsub@0.24.0-beta
+- pkg:maven/com.google.cloud/google-cloud-pubsub@0.24.0-beta?classifier=sources

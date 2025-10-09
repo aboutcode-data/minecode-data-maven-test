@@ -140,3 +140,5 @@
 - pkg:maven/com.facebook.presto/presto-product-tests@0.183?classifier=sources
 - pkg:maven/com.facebook.presto/presto-product-tests@0.184
 - pkg:maven/com.facebook.presto/presto-product-tests@0.184?classifier=sources
+- pkg:maven/com.facebook.presto/presto-product-tests@0.185
+- pkg:maven/com.facebook.presto/presto-product-tests@0.185?classifier=sources

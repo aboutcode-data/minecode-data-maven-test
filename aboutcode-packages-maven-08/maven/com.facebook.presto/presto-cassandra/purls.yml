@@ -137,3 +137,4 @@
 - pkg:maven/com.facebook.presto/presto-cassandra@0.182?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cassandra@0.183?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cassandra@0.184?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cassandra@0.185?classifier=sources
