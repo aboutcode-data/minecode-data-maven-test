@@ -40,3 +40,7 @@
 - pkg:maven/com.google.cloud/google-cloud-compat-checker@0.43.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compat-checker@0.42.1-alpha
 - pkg:maven/com.google.cloud/google-cloud-compat-checker@0.42.1-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compat-checker@0.45.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-compat-checker@0.45.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compat-checker@0.44.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-compat-checker@0.44.0-alpha?classifier=sources

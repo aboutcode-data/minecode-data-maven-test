@@ -30,3 +30,5 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-cdn@1.7.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-cdn@1.8.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-cdn@1.8.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-cdn@1.9.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-cdn@1.9.0?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/com.netflix.conductor/conductor-core@1.8.4?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-core@1.8.3
 - pkg:maven/com.netflix.conductor/conductor-core@1.8.3?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-core@1.8.5
+- pkg:maven/com.netflix.conductor/conductor-core@1.8.5?classifier=sources
