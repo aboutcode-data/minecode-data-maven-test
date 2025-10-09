@@ -58,3 +58,7 @@
 - pkg:maven/io.proxsee/proxsee-sdk@2.4.6?classifier=sources
 - pkg:maven/io.proxsee/proxsee-sdk@2.4.7?type=aar
 - pkg:maven/io.proxsee/proxsee-sdk@2.4.7?classifier=sources
+- pkg:maven/io.proxsee/proxsee-sdk@2.6.0?type=aar
+- pkg:maven/io.proxsee/proxsee-sdk@2.6.0?classifier=sources
+- pkg:maven/io.proxsee/proxsee-sdk@2.5.0?type=aar
+- pkg:maven/io.proxsee/proxsee-sdk@2.5.0?classifier=sources

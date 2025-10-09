@@ -1,2 +1,4 @@
 - pkg:maven/fr.acinq/bitcoinj-core@0.15-rc1
 - pkg:maven/fr.acinq/bitcoinj-core@0.15-rc1?classifier=sources
+- pkg:maven/fr.acinq/bitcoinj-core@0.15-rc2
+- pkg:maven/fr.acinq/bitcoinj-core@0.15-rc2?classifier=sources

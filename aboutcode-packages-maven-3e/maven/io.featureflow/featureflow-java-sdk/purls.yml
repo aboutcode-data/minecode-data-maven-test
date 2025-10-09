@@ -14,3 +14,5 @@
 - pkg:maven/io.featureflow/featureflow-java-sdk@0.0.12?classifier=sources
 - pkg:maven/io.featureflow/featureflow-java-sdk@0.0.15
 - pkg:maven/io.featureflow/featureflow-java-sdk@0.0.15?classifier=sources
+- pkg:maven/io.featureflow/featureflow-java-sdk@1.0.0
+- pkg:maven/io.featureflow/featureflow-java-sdk@1.0.0?classifier=sources

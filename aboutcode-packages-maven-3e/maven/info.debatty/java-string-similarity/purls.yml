@@ -40,3 +40,5 @@
 - pkg:maven/info.debatty/java-string-similarity@0.23?classifier=sources
 - pkg:maven/info.debatty/java-string-similarity@0.24
 - pkg:maven/info.debatty/java-string-similarity@0.24?classifier=sources
+- pkg:maven/info.debatty/java-string-similarity@1.0.0
+- pkg:maven/info.debatty/java-string-similarity@1.0.0?classifier=sources

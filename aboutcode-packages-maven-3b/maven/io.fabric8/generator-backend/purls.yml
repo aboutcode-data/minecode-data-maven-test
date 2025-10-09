@@ -114,3 +114,7 @@
 - pkg:maven/io.fabric8/generator-backend@1.0.64?classifier=sources
 - pkg:maven/io.fabric8/generator-backend@1.0.63?type=war
 - pkg:maven/io.fabric8/generator-backend@1.0.63?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.66?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.66?classifier=sources
+- pkg:maven/io.fabric8/generator-backend@1.0.65?type=war
+- pkg:maven/io.fabric8/generator-backend@1.0.65?classifier=sources
