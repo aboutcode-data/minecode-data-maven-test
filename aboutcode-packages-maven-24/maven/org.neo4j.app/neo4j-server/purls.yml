@@ -442,3 +442,5 @@
 - pkg:maven/org.neo4j.app/neo4j-server@3.5.4?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@3.4.13
 - pkg:maven/org.neo4j.app/neo4j-server@3.4.13?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server@3.5.5
+- pkg:maven/org.neo4j.app/neo4j-server@3.5.5?classifier=sources

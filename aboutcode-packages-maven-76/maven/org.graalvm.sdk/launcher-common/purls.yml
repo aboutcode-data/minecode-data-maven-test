@@ -14,3 +14,5 @@
 - pkg:maven/org.graalvm.sdk/launcher-common@1.0.0-rc14?classifier=sources
 - pkg:maven/org.graalvm.sdk/launcher-common@1.0.0-rc15
 - pkg:maven/org.graalvm.sdk/launcher-common@1.0.0-rc15?classifier=sources
+- pkg:maven/org.graalvm.sdk/launcher-common@1.0.0-rc16
+- pkg:maven/org.graalvm.sdk/launcher-common@1.0.0-rc16?classifier=sources

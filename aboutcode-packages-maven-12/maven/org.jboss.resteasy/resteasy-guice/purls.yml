@@ -194,3 +194,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-guice@4.0.0.CR2?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-guice@3.6.3.SP1
 - pkg:maven/org.jboss.resteasy/resteasy-guice@3.6.3.SP1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-guice@3.6.1.SP5
+- pkg:maven/org.jboss.resteasy/resteasy-guice@3.6.1.SP5?classifier=sources

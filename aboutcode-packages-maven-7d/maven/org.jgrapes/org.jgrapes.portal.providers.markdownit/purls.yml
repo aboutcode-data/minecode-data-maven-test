@@ -72,3 +72,5 @@
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.markdownit@0.20.7?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.markdownit@0.21.0
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.markdownit@0.21.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.portal.providers.markdownit@0.22.0
+- pkg:maven/org.jgrapes/org.jgrapes.portal.providers.markdownit@0.22.0?classifier=sources

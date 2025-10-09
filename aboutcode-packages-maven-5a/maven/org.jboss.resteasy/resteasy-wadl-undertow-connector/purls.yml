@@ -80,3 +80,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.0.0.CR2?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.6.3.SP1
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.6.3.SP1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.6.1.SP5
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.6.1.SP5?classifier=sources
