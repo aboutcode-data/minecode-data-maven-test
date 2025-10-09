@@ -88,3 +88,5 @@
 - pkg:maven/io.aeron/aeron-all@1.12.0?classifier=sources
 - pkg:maven/io.aeron/aeron-all@1.13.0
 - pkg:maven/io.aeron/aeron-all@1.13.0?classifier=sources
+- pkg:maven/io.aeron/aeron-all@1.14.0
+- pkg:maven/io.aeron/aeron-all@1.14.0?classifier=sources
