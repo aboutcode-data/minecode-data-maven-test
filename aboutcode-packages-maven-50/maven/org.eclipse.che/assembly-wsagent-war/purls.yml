@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.0?classifier=sources
 - pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.1?type=war
 - pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.1?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.2?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.2?classifier=sources
