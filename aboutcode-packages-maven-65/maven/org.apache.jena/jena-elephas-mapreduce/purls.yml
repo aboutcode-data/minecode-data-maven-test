@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.jena/jena-elephas-mapreduce@3.8.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-elephas-mapreduce@3.9.0
 - pkg:maven/org.apache.jena/jena-elephas-mapreduce@3.9.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-elephas-mapreduce@3.10.0
+- pkg:maven/org.apache.jena/jena-elephas-mapreduce@3.10.0?classifier=sources

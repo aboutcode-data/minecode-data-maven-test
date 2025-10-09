@@ -56,3 +56,5 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-derby-store@7.0.6?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-derby-store@6.1.7
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-derby-store@6.1.7?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-derby-store@7.1.0
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-derby-store@7.1.0?classifier=sources

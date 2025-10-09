@@ -38,3 +38,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-macro@2.5.4?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-macro@2.5.5
 - pkg:maven/org.codehaus.groovy/groovy-macro@2.5.5?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-macro@3.0.0-alpha-4
+- pkg:maven/org.codehaus.groovy/groovy-macro@3.0.0-alpha-4?classifier=sources

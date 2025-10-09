@@ -29,3 +29,5 @@
 - pkg:maven/org.openapitools/openapi-generator-gradle-plugin@3.3.3?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator-gradle-plugin@3.3.4
 - pkg:maven/org.openapitools/openapi-generator-gradle-plugin@3.3.4?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator-gradle-plugin@4.0.0-beta
+- pkg:maven/org.openapitools/openapi-generator-gradle-plugin@4.0.0-beta?classifier=sources

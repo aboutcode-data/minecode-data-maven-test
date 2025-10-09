@@ -14,3 +14,5 @@
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-test-commons@1.8.0.295?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-test-commons@1.9.0.327
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-test-commons@1.9.0.327?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-test-commons@1.10.0.416
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-test-commons@1.10.0.416?classifier=sources
