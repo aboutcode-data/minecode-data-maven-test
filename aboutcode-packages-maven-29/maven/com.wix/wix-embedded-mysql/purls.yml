@@ -36,3 +36,7 @@
 - pkg:maven/com.wix/wix-embedded-mysql@2.1.9?classifier=sources
 - pkg:maven/com.wix/wix-embedded-mysql@2.1.8
 - pkg:maven/com.wix/wix-embedded-mysql@2.1.8?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql@2.2.4
+- pkg:maven/com.wix/wix-embedded-mysql@2.2.4?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql@2.2.3
+- pkg:maven/com.wix/wix-embedded-mysql@2.2.3?classifier=sources
