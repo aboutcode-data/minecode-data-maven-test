@@ -46,3 +46,5 @@
 - pkg:maven/com.vaadin/flow-osgi@2.0.7?classifier=sources
 - pkg:maven/com.vaadin/flow-osgi@1.4.8
 - pkg:maven/com.vaadin/flow-osgi@1.4.8?classifier=sources
+- pkg:maven/com.vaadin/flow-osgi@2.0.8
+- pkg:maven/com.vaadin/flow-osgi@2.0.8?classifier=sources

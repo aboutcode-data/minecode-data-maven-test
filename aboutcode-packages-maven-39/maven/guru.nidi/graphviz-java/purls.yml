@@ -68,3 +68,5 @@
 - pkg:maven/guru.nidi/graphviz-java@0.8.10?classifier=sources
 - pkg:maven/guru.nidi/graphviz-java@0.9.0
 - pkg:maven/guru.nidi/graphviz-java@0.9.0?classifier=sources
+- pkg:maven/guru.nidi/graphviz-java@0.10.0
+- pkg:maven/guru.nidi/graphviz-java@0.10.0?classifier=sources

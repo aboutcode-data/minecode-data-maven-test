@@ -74,3 +74,5 @@
 - pkg:maven/com.vaadin/flow-server-production-mode@2.0.7?classifier=sources
 - pkg:maven/com.vaadin/flow-server-production-mode@1.4.8
 - pkg:maven/com.vaadin/flow-server-production-mode@1.4.8?classifier=sources
+- pkg:maven/com.vaadin/flow-server-production-mode@2.0.8
+- pkg:maven/com.vaadin/flow-server-production-mode@2.0.8?classifier=sources
