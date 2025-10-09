@@ -32,3 +32,5 @@
 - pkg:maven/nl.topicus/spanner-jdbc@0.17?classifier=sources
 - pkg:maven/nl.topicus/spanner-jdbc@0.16
 - pkg:maven/nl.topicus/spanner-jdbc@0.16?classifier=sources
+- pkg:maven/nl.topicus/spanner-jdbc@0.18
+- pkg:maven/nl.topicus/spanner-jdbc@0.18?classifier=sources

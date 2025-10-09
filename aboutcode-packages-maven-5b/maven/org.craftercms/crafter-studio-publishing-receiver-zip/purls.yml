@@ -24,3 +24,7 @@
 - pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.5.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.7?type=zip
 - pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.7?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.9?type=zip
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.8?type=zip
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.8?classifier=sources
