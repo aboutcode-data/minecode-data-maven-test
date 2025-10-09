@@ -18,3 +18,7 @@
 - pkg:maven/ai.preferred/venom@4.0.9?classifier=sources
 - pkg:maven/ai.preferred/venom@4.0.10
 - pkg:maven/ai.preferred/venom@4.0.10?classifier=sources
+- pkg:maven/ai.preferred/venom@4.1.1-SNAPHSOT
+- pkg:maven/ai.preferred/venom@4.1.1-SNAPHSOT?classifier=sources
+- pkg:maven/ai.preferred/venom@4.1.1
+- pkg:maven/ai.preferred/venom@4.1.1?classifier=sources

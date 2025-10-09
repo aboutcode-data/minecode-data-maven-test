@@ -190,3 +190,5 @@
 - pkg:maven/com.netflix.nebula/nebula-publishing-plugin@9.4.3?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-publishing-plugin@9.4.2
 - pkg:maven/com.netflix.nebula/nebula-publishing-plugin@9.4.2?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-publishing-plugin@9.4.5
+- pkg:maven/com.netflix.nebula/nebula-publishing-plugin@9.4.5?classifier=sources
