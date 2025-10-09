@@ -1,2 +1,8 @@
 - pkg:maven/software.amazon.awssdk/qldb@2.8.4
 - pkg:maven/software.amazon.awssdk/qldb@2.8.4?classifier=sources
+- pkg:maven/software.amazon.awssdk/qldb@2.8.7
+- pkg:maven/software.amazon.awssdk/qldb@2.8.7?classifier=sources
+- pkg:maven/software.amazon.awssdk/qldb@2.8.6
+- pkg:maven/software.amazon.awssdk/qldb@2.8.6?classifier=sources
+- pkg:maven/software.amazon.awssdk/qldb@2.8.5
+- pkg:maven/software.amazon.awssdk/qldb@2.8.5?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/cloud.testload/jmeter.pack-listener@1.8?classifier=sources
 - pkg:maven/cloud.testload/jmeter.pack-listener@1.9
 - pkg:maven/cloud.testload/jmeter.pack-listener@1.9?classifier=sources
+- pkg:maven/cloud.testload/jmeter.pack-listener@1.9.1
+- pkg:maven/cloud.testload/jmeter.pack-listener@1.9.1?classifier=sources

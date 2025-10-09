@@ -42,3 +42,5 @@
 - pkg:maven/software.amazon.awscdk/events-targets@1.6.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/events-targets@1.7.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/events-targets@1.7.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/events-targets@1.8.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/events-targets@1.8.0.DEVPREVIEW?classifier=sources

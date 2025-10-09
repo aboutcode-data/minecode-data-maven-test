@@ -180,3 +180,7 @@
 - pkg:maven/org.wicketstuff/gae-initializer-example@9.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/gae-initializer-example@8.5.0?type=war
 - pkg:maven/org.wicketstuff/gae-initializer-example@8.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/gae-initializer-example@8.6.0?type=war
+- pkg:maven/org.wicketstuff/gae-initializer-example@8.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/gae-initializer-example@7.15.0?type=war
+- pkg:maven/org.wicketstuff/gae-initializer-example@7.15.0?classifier=sources
