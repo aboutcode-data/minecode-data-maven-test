@@ -49,3 +49,5 @@
 - pkg:maven/com.google.guava/guava-tests@23.0-rc1
 - pkg:maven/com.google.guava/guava-tests@23.0-android
 - pkg:maven/com.google.guava/guava-tests@23.0
+- pkg:maven/com.google.guava/guava-tests@23.1-jre
+- pkg:maven/com.google.guava/guava-tests@23.1-android
