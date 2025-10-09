@@ -1,2 +1,6 @@
 - pkg:maven/com.github.xemiru.sponge/boxboy@1.0
 - pkg:maven/com.github.xemiru.sponge/boxboy@1.0?classifier=sources
+- pkg:maven/com.github.xemiru.sponge/boxboy@1.0a
+- pkg:maven/com.github.xemiru.sponge/boxboy@1.0a?classifier=sources
+- pkg:maven/com.github.xemiru.sponge/boxboy@1.0-fix1
+- pkg:maven/com.github.xemiru.sponge/boxboy@1.0-fix1?classifier=sources

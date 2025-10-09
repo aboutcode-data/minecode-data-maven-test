@@ -94,3 +94,5 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-servlet@2.15.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-servlet@3.0.0
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-servlet@3.0.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-servlet@3.0.1
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-servlet@3.0.1?classifier=sources

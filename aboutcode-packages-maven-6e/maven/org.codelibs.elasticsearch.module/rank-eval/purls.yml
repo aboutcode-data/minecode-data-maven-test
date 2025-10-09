@@ -10,3 +10,5 @@
 - pkg:maven/org.codelibs.elasticsearch.module/rank-eval@6.2.4?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/rank-eval@6.3.0
 - pkg:maven/org.codelibs.elasticsearch.module/rank-eval@6.3.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/rank-eval@6.3.1
+- pkg:maven/org.codelibs.elasticsearch.module/rank-eval@6.3.1?classifier=sources
