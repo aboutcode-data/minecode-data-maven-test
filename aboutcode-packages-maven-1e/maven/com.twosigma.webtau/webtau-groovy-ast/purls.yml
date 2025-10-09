@@ -40,3 +40,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-groovy-ast@1.13?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-groovy-ast@1.12
 - pkg:maven/com.twosigma.webtau/webtau-groovy-ast@1.12?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-groovy-ast@1.15
+- pkg:maven/com.twosigma.webtau/webtau-groovy-ast@1.15?classifier=sources

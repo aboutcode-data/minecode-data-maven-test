@@ -64,3 +64,5 @@
 - pkg:maven/com.spotify/apollo-okhttp-client@1.13.0?classifier=sources
 - pkg:maven/com.spotify/apollo-okhttp-client@1.14.0
 - pkg:maven/com.spotify/apollo-okhttp-client@1.14.0?classifier=sources
+- pkg:maven/com.spotify/apollo-okhttp-client@1.14.1
+- pkg:maven/com.spotify/apollo-okhttp-client@1.14.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-browser@1.13?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-browser@1.12
 - pkg:maven/com.twosigma.webtau/webtau-browser@1.12?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-browser@1.15
+- pkg:maven/com.twosigma.webtau/webtau-browser@1.15?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-java-runner@1.13?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-java-runner@1.12
 - pkg:maven/com.twosigma.webtau/webtau-java-runner@1.12?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-java-runner@1.15
+- pkg:maven/com.twosigma.webtau/webtau-java-runner@1.15?classifier=sources

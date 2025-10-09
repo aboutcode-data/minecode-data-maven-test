@@ -28,3 +28,5 @@
 - pkg:maven/com.swisscom.cloud.sb/bosh-service@6.14.3?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/bosh-service@6.14.2
 - pkg:maven/com.swisscom.cloud.sb/bosh-service@6.14.2?classifier=sources
+- pkg:maven/com.swisscom.cloud.sb/bosh-service@6.15.0
+- pkg:maven/com.swisscom.cloud.sb/bosh-service@6.15.0?classifier=sources
