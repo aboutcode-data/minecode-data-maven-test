@@ -151,3 +151,4 @@
 - pkg:maven/com.facebook.presto/presto-postgresql@0.214?classifier=sources
 - pkg:maven/com.facebook.presto/presto-postgresql@0.215?classifier=sources
 - pkg:maven/com.facebook.presto/presto-postgresql@0.216?classifier=sources
+- pkg:maven/com.facebook.presto/presto-postgresql@0.217?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.datastax.oss/java-driver-test-infra@4.0.0-beta2?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-test-infra@4.0.0-beta3
 - pkg:maven/com.datastax.oss/java-driver-test-infra@4.0.0-beta3?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-test-infra@4.0.0-rc1
+- pkg:maven/com.datastax.oss/java-driver-test-infra@4.0.0-rc1?classifier=sources
