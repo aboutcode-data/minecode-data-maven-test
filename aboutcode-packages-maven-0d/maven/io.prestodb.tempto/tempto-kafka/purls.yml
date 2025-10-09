@@ -1,0 +1,2 @@
+- pkg:maven/io.prestodb.tempto/tempto-kafka@1.46
+- pkg:maven/io.prestodb.tempto/tempto-kafka@1.46?classifier=sources
