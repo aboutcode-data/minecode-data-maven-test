@@ -208,3 +208,11 @@
 - pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta10?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.1.Final
 - pkg:maven/org.wildfly.core/wildfly-self-contained@2.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta15
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta15?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta14
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta14?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta13
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta13?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta12
+- pkg:maven/org.wildfly.core/wildfly-self-contained@3.0.0.Beta12?classifier=sources
