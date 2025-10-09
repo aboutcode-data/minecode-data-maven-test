@@ -16,3 +16,5 @@
 - pkg:maven/com.jetbeep/jetbeepsdk@0.8.9?classifier=sources
 - pkg:maven/com.jetbeep/jetbeepsdk@0.8.10?type=aar
 - pkg:maven/com.jetbeep/jetbeepsdk@0.8.10?classifier=sources
+- pkg:maven/com.jetbeep/jetbeepsdk@0.8.11?type=aar
+- pkg:maven/com.jetbeep/jetbeepsdk@0.8.11?classifier=sources

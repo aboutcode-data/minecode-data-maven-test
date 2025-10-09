@@ -34,3 +34,5 @@
 - pkg:maven/com.jfinal/jfinal@3.7?classifier=sources
 - pkg:maven/com.jfinal/jfinal@3.8
 - pkg:maven/com.jfinal/jfinal@3.8?classifier=sources
+- pkg:maven/com.jfinal/jfinal@4.0
+- pkg:maven/com.jfinal/jfinal@4.0?classifier=sources

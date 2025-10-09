@@ -116,3 +116,5 @@
 - pkg:maven/com.hazelcast/hazelcast-client-protocol@1.8.0-4?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-client-protocol@1.8.0-7
 - pkg:maven/com.hazelcast/hazelcast-client-protocol@1.8.0-7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.8.0
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.8.0?classifier=sources

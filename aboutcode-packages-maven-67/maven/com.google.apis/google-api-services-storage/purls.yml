@@ -3932,3 +3932,13 @@
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev154-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev154-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev154-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta2-rev188-1.25.0
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta2-rev188-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta2-rev188-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta2-rev188-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta1-rev214-1.25.0
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta1-rev214-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta1-rev214-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-storage@v1beta1-rev214-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev156-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev156-1.18.0-rc?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/com.google.cloud/google-cloud-redis@0.90.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-redis@0.91.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-redis@0.91.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.92.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.92.0-alpha?classifier=sources
