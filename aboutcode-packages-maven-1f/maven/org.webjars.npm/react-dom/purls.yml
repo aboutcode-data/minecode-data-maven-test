@@ -126,3 +126,5 @@
 - pkg:maven/org.webjars.npm/react-dom@16.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-dom@16.7.0-alpha.2
 - pkg:maven/org.webjars.npm/react-dom@16.7.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-dom@16.5.2
+- pkg:maven/org.webjars.npm/react-dom@16.5.2?classifier=sources

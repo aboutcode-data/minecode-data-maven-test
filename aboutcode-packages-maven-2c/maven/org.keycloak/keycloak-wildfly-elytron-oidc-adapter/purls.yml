@@ -48,3 +48,5 @@
 - pkg:maven/org.keycloak/keycloak-wildfly-elytron-oidc-adapter@4.5.0.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-elytron-oidc-adapter@4.6.0.Final
 - pkg:maven/org.keycloak/keycloak-wildfly-elytron-oidc-adapter@4.6.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-elytron-oidc-adapter@4.7.0.Final
+- pkg:maven/org.keycloak/keycloak-wildfly-elytron-oidc-adapter@4.7.0.Final?classifier=sources

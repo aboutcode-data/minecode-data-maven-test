@@ -42,3 +42,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-karaf@4.12.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-karaf@4.13.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-karaf@4.13.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-karaf@4.13.1
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-karaf@4.13.1?classifier=sources
