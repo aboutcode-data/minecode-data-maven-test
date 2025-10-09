@@ -220,3 +220,7 @@
 - pkg:maven/com.xiledsystems/aal@2.0.18?classifier=sources
 - pkg:maven/com.xiledsystems/aal@2.0.19?type=aar
 - pkg:maven/com.xiledsystems/aal@2.0.19?classifier=sources
+- pkg:maven/com.xiledsystems/aal@2.0.21?type=aar
+- pkg:maven/com.xiledsystems/aal@2.0.21?classifier=sources
+- pkg:maven/com.xiledsystems/aal@2.0.20?type=aar
+- pkg:maven/com.xiledsystems/aal@2.0.20?classifier=sources
