@@ -62,3 +62,7 @@
 - pkg:maven/com.github.ostrovskal/ssh@1.6.0?classifier=sources
 - pkg:maven/com.github.ostrovskal/ssh@1.5.9?type=aar
 - pkg:maven/com.github.ostrovskal/ssh@1.5.9?classifier=sources
+- pkg:maven/com.github.ostrovskal/ssh@1.6.2?type=aar
+- pkg:maven/com.github.ostrovskal/ssh@1.6.2?classifier=sources
+- pkg:maven/com.github.ostrovskal/ssh@1.6.1?type=aar
+- pkg:maven/com.github.ostrovskal/ssh@1.6.1?classifier=sources

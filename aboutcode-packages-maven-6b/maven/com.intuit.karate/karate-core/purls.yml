@@ -172,3 +172,5 @@
 - pkg:maven/com.intuit.karate/karate-core@0.8.0.RC9?classifier=sources
 - pkg:maven/com.intuit.karate/karate-core@0.8.0
 - pkg:maven/com.intuit.karate/karate-core@0.8.0?classifier=sources
+- pkg:maven/com.intuit.karate/karate-core@0.8.0.1
+- pkg:maven/com.intuit.karate/karate-core@0.8.0.1?classifier=sources

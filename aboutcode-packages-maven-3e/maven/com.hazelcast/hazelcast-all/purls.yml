@@ -307,3 +307,5 @@
 - pkg:maven/com.hazelcast/hazelcast-all@3.10.2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-all@3.10.3
 - pkg:maven/com.hazelcast/hazelcast-all@3.10.3?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-all@3.10.4
+- pkg:maven/com.hazelcast/hazelcast-all@3.10.4?classifier=sources
