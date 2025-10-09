@@ -8,3 +8,5 @@
 - pkg:maven/org.glowroot/glowroot-central@0.9.9?classifier=sources
 - pkg:maven/org.glowroot/glowroot-central@0.9.10
 - pkg:maven/org.glowroot/glowroot-central@0.9.10?classifier=sources
+- pkg:maven/org.glowroot/glowroot-central@0.9.12
+- pkg:maven/org.glowroot/glowroot-central@0.9.12?classifier=sources

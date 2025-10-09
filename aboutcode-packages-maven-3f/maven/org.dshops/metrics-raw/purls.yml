@@ -28,3 +28,7 @@
 - pkg:maven/org.dshops/metrics-raw@0.0.11?classifier=sources
 - pkg:maven/org.dshops/metrics-raw@0.0.10
 - pkg:maven/org.dshops/metrics-raw@0.0.10?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.3.1
+- pkg:maven/org.dshops/metrics-raw@0.3.1?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.3.0
+- pkg:maven/org.dshops/metrics-raw@0.3.0?classifier=sources
