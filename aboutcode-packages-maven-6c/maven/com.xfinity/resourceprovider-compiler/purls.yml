@@ -12,3 +12,5 @@
 - pkg:maven/com.xfinity/resourceprovider-compiler@0.9?classifier=sources
 - pkg:maven/com.xfinity/resourceprovider-compiler@0.11
 - pkg:maven/com.xfinity/resourceprovider-compiler@0.11?classifier=sources
+- pkg:maven/com.xfinity/resourceprovider-compiler@1.0
+- pkg:maven/com.xfinity/resourceprovider-compiler@1.0?classifier=sources

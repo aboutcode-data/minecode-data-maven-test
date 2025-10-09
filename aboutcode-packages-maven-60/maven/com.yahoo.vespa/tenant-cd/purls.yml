@@ -12,3 +12,5 @@
 - pkg:maven/com.yahoo.vespa/tenant-cd@6.305.35?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd@6.307.67
 - pkg:maven/com.yahoo.vespa/tenant-cd@6.307.67?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.308.12
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.308.12?classifier=sources

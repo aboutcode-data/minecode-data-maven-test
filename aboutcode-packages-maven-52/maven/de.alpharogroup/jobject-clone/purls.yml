@@ -28,3 +28,5 @@
 - pkg:maven/de.alpharogroup/jobject-clone@1.11?classifier=sources
 - pkg:maven/de.alpharogroup/jobject-clone@1.12
 - pkg:maven/de.alpharogroup/jobject-clone@1.12?classifier=sources
+- pkg:maven/de.alpharogroup/jobject-clone@2
+- pkg:maven/de.alpharogroup/jobject-clone@2?classifier=sources

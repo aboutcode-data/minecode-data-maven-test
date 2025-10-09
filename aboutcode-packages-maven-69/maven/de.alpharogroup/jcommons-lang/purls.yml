@@ -60,3 +60,5 @@
 - pkg:maven/de.alpharogroup/jcommons-lang@4.34?classifier=sources
 - pkg:maven/de.alpharogroup/jcommons-lang@4.35
 - pkg:maven/de.alpharogroup/jcommons-lang@4.35?classifier=sources
+- pkg:maven/de.alpharogroup/jcommons-lang@5
+- pkg:maven/de.alpharogroup/jcommons-lang@5?classifier=sources

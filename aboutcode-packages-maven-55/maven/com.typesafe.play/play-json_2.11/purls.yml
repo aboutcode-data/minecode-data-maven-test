@@ -132,3 +132,5 @@
 - pkg:maven/com.typesafe.play/play-json_2.11@2.6.10?classifier=sources
 - pkg:maven/com.typesafe.play/play-json_2.11@2.5.19
 - pkg:maven/com.typesafe.play/play-json_2.11@2.5.19?classifier=sources
+- pkg:maven/com.typesafe.play/play-json_2.11@2.7.0-RC1
+- pkg:maven/com.typesafe.play/play-json_2.11@2.7.0-RC1?classifier=sources

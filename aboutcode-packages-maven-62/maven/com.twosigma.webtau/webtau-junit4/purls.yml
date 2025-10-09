@@ -2,3 +2,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-junit4@0.30?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-junit4@0.31
 - pkg:maven/com.twosigma.webtau/webtau-junit4@0.31?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-junit4@1.0
+- pkg:maven/com.twosigma.webtau/webtau-junit4@1.0?classifier=sources

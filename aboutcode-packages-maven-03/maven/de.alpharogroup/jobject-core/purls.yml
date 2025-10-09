@@ -28,3 +28,5 @@
 - pkg:maven/de.alpharogroup/jobject-core@1.11?classifier=sources
 - pkg:maven/de.alpharogroup/jobject-core@1.12
 - pkg:maven/de.alpharogroup/jobject-core@1.12?classifier=sources
+- pkg:maven/de.alpharogroup/jobject-core@2
+- pkg:maven/de.alpharogroup/jobject-core@2?classifier=sources
