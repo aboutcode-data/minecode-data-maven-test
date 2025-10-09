@@ -30,3 +30,5 @@
 - pkg:maven/io.amient.affinity/spark_2.2-scala_2.11@0.7.2?classifier=sources
 - pkg:maven/io.amient.affinity/spark_2.2-scala_2.11@0.8.0
 - pkg:maven/io.amient.affinity/spark_2.2-scala_2.11@0.8.0?classifier=sources
+- pkg:maven/io.amient.affinity/spark_2.2-scala_2.11@0.8.1
+- pkg:maven/io.amient.affinity/spark_2.2-scala_2.11@0.8.1?classifier=sources

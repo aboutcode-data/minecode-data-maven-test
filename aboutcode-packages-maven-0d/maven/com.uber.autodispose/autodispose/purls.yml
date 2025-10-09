@@ -20,3 +20,5 @@
 - pkg:maven/com.uber.autodispose/autodispose@0.8.0?classifier=sources
 - pkg:maven/com.uber.autodispose/autodispose@1.0.0-RC1
 - pkg:maven/com.uber.autodispose/autodispose@1.0.0-RC1?classifier=sources
+- pkg:maven/com.uber.autodispose/autodispose@1.0.0-RC2
+- pkg:maven/com.uber.autodispose/autodispose@1.0.0-RC2?classifier=sources

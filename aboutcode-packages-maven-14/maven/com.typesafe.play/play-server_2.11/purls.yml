@@ -136,3 +136,5 @@
 - pkg:maven/com.typesafe.play/play-server_2.11@2.6.16?classifier=sources
 - pkg:maven/com.typesafe.play/play-server_2.11@2.7.0-M2
 - pkg:maven/com.typesafe.play/play-server_2.11@2.7.0-M2?classifier=sources
+- pkg:maven/com.typesafe.play/play-server_2.11@2.5.19
+- pkg:maven/com.typesafe.play/play-server_2.11@2.5.19?classifier=sources
