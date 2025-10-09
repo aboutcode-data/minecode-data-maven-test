@@ -14,3 +14,5 @@
 - pkg:maven/org.jooby/jooby-querydsl@1.0.0.CR7?classifier=sources
 - pkg:maven/org.jooby/jooby-querydsl@1.0.0.CR8
 - pkg:maven/org.jooby/jooby-querydsl@1.0.0.CR8?classifier=sources
+- pkg:maven/org.jooby/jooby-querydsl@1.0.0
+- pkg:maven/org.jooby/jooby-querydsl@1.0.0?classifier=sources
