@@ -173,3 +173,5 @@
 - pkg:maven/org.apache.camel/camel-crypto@2.18.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-crypto@2.20.0
 - pkg:maven/org.apache.camel/camel-crypto@2.20.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-crypto@2.19.4
+- pkg:maven/org.apache.camel/camel-crypto@2.19.4?classifier=sources
