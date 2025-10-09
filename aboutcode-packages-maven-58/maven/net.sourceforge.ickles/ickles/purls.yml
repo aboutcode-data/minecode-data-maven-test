@@ -18,3 +18,7 @@
 - pkg:maven/net.sourceforge.ickles/ickles@0.12?classifier=sources
 - pkg:maven/net.sourceforge.ickles/ickles@0.13
 - pkg:maven/net.sourceforge.ickles/ickles@0.13?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.15
+- pkg:maven/net.sourceforge.ickles/ickles@0.15?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.14
+- pkg:maven/net.sourceforge.ickles/ickles@0.14?classifier=sources

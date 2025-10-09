@@ -28,3 +28,7 @@
 - pkg:maven/org.apache.camel/camel-etcd-starter@2.20.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-etcd-starter@2.21.0
 - pkg:maven/org.apache.camel/camel-etcd-starter@2.21.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-etcd-starter@2.20.3
+- pkg:maven/org.apache.camel/camel-etcd-starter@2.20.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-etcd-starter@2.19.5
+- pkg:maven/org.apache.camel/camel-etcd-starter@2.19.5?classifier=sources

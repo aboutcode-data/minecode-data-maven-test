@@ -34,3 +34,7 @@
 - pkg:maven/org.apache.ant/ant-apache-log4j@1.9.10?classifier=sources
 - pkg:maven/org.apache.ant/ant-apache-log4j@1.10.2
 - pkg:maven/org.apache.ant/ant-apache-log4j@1.10.2?classifier=sources
+- pkg:maven/org.apache.ant/ant-apache-log4j@1.9.11
+- pkg:maven/org.apache.ant/ant-apache-log4j@1.9.11?classifier=sources
+- pkg:maven/org.apache.ant/ant-apache-log4j@1.10.3
+- pkg:maven/org.apache.ant/ant-apache-log4j@1.10.3?classifier=sources

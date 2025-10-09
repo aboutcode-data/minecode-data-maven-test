@@ -140,3 +140,7 @@
 - pkg:maven/net.time4j/time4j-calendar@4.35?classifier=sources
 - pkg:maven/net.time4j/time4j-calendar@3.40
 - pkg:maven/net.time4j/time4j-calendar@3.40?classifier=sources
+- pkg:maven/net.time4j/time4j-calendar@4.36
+- pkg:maven/net.time4j/time4j-calendar@4.36?classifier=sources
+- pkg:maven/net.time4j/time4j-calendar@3.41
+- pkg:maven/net.time4j/time4j-calendar@3.41?classifier=sources
