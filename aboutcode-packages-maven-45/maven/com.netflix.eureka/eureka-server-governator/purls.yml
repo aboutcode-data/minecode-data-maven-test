@@ -64,3 +64,5 @@
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.8.3?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.8.4?type=war
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.8.4?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.8.5?type=war
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.8.5?classifier=sources

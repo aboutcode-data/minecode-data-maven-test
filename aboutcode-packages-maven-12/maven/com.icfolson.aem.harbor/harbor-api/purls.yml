@@ -14,3 +14,5 @@
 - pkg:maven/com.icfolson.aem.harbor/harbor-api@2.0.0?classifier=sources
 - pkg:maven/com.icfolson.aem.harbor/harbor-api@1.1.0
 - pkg:maven/com.icfolson.aem.harbor/harbor-api@1.1.0?classifier=sources
+- pkg:maven/com.icfolson.aem.harbor/harbor-api@3.0.0
+- pkg:maven/com.icfolson.aem.harbor/harbor-api@3.0.0?classifier=sources

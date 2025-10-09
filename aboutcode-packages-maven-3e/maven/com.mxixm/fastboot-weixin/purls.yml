@@ -10,3 +10,5 @@
 - pkg:maven/com.mxixm/fastboot-weixin@0.2.1.alpha?classifier=sources
 - pkg:maven/com.mxixm/fastboot-weixin@0.2.1.beta
 - pkg:maven/com.mxixm/fastboot-weixin@0.2.1.beta?classifier=sources
+- pkg:maven/com.mxixm/fastboot-weixin@0.2.1.rc
+- pkg:maven/com.mxixm/fastboot-weixin@0.2.1.rc?classifier=sources

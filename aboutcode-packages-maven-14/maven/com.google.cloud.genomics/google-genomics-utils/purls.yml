@@ -122,3 +122,5 @@
 - pkg:maven/com.google.cloud.genomics/google-genomics-utils@v1-0.8?classifier=sources
 - pkg:maven/com.google.cloud.genomics/google-genomics-utils@v1-0.9
 - pkg:maven/com.google.cloud.genomics/google-genomics-utils@v1-0.9?classifier=sources
+- pkg:maven/com.google.cloud.genomics/google-genomics-utils@v1-0.10
+- pkg:maven/com.google.cloud.genomics/google-genomics-utils@v1-0.10?classifier=sources

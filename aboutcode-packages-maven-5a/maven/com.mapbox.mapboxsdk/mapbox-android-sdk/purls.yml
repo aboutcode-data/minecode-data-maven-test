@@ -108,3 +108,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk@5.2.0-beta.2?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk@5.2.0-beta.3
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk@5.2.0-beta.3?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk@5.1.5
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk@5.1.5?classifier=sources
