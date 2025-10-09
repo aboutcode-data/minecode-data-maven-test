@@ -8,3 +8,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-kafka@1.3?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-kafka@1.4
 - pkg:maven/com.playtika.testcontainers/embedded-kafka@1.4?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-kafka@1.5
+- pkg:maven/com.playtika.testcontainers/embedded-kafka@1.5?classifier=sources

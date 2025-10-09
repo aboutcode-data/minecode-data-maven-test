@@ -12,3 +12,5 @@
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.11@0.7.0-rc4?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.11@0.7.0-rc7
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.11@0.7.0-rc7?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.11@0.7.0
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.11@0.7.0?classifier=sources

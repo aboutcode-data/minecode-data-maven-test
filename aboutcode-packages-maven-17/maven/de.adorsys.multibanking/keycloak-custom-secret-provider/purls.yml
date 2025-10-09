@@ -70,3 +70,5 @@
 - pkg:maven/de.adorsys.multibanking/keycloak-custom-secret-provider@1.4.4?classifier=sources
 - pkg:maven/de.adorsys.multibanking/keycloak-custom-secret-provider@2.0.0
 - pkg:maven/de.adorsys.multibanking/keycloak-custom-secret-provider@2.0.0?classifier=sources
+- pkg:maven/de.adorsys.multibanking/keycloak-custom-secret-provider@2.1.0
+- pkg:maven/de.adorsys.multibanking/keycloak-custom-secret-provider@2.1.0?classifier=sources

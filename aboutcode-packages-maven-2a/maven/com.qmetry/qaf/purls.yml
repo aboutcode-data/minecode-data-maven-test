@@ -5,3 +5,5 @@
 - pkg:maven/com.qmetry/qaf@2.1.13-RC1?classifier=sources
 - pkg:maven/com.qmetry/qaf@2.1.13-RC3
 - pkg:maven/com.qmetry/qaf@2.1.13-RC3?classifier=sources
+- pkg:maven/com.qmetry/qaf@2.1.13
+- pkg:maven/com.qmetry/qaf@2.1.13?classifier=sources

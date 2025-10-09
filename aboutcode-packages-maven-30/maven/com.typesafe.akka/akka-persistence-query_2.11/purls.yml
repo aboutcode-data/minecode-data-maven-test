@@ -26,3 +26,5 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.11@2.5.8?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.11@2.5.9
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.11@2.5.9?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.11@2.5.10
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.11@2.5.10?classifier=sources

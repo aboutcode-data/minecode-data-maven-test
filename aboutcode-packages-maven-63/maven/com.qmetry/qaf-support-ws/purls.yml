@@ -4,3 +4,5 @@
 - pkg:maven/com.qmetry/qaf-support-ws@2.1.13-RC2?classifier=sources
 - pkg:maven/com.qmetry/qaf-support-ws@2.1.13-RC3
 - pkg:maven/com.qmetry/qaf-support-ws@2.1.13-RC3?classifier=sources
+- pkg:maven/com.qmetry/qaf-support-ws@2.1.13
+- pkg:maven/com.qmetry/qaf-support-ws@2.1.13?classifier=sources

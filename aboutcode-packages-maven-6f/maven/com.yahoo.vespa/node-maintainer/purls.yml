@@ -116,3 +116,5 @@
 - pkg:maven/com.yahoo.vespa/node-maintainer@6.207.23?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-maintainer@6.206.147
 - pkg:maven/com.yahoo.vespa/node-maintainer@6.206.147?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-maintainer@6.211.26
+- pkg:maven/com.yahoo.vespa/node-maintainer@6.211.26?classifier=sources

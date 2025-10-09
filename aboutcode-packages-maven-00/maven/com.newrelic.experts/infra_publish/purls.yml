@@ -24,3 +24,5 @@
 - pkg:maven/com.newrelic.experts/infra_publish@2.1.5?classifier=sources
 - pkg:maven/com.newrelic.experts/infra_publish@2.1.4
 - pkg:maven/com.newrelic.experts/infra_publish@2.1.4?classifier=sources
+- pkg:maven/com.newrelic.experts/infra_publish@2.1.7
+- pkg:maven/com.newrelic.experts/infra_publish@2.1.7?classifier=sources

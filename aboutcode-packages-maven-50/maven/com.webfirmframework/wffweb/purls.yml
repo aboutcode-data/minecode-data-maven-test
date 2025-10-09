@@ -90,3 +90,5 @@
 - pkg:maven/com.webfirmframework/wffweb@2.1.14?classifier=sources
 - pkg:maven/com.webfirmframework/wffweb@2.1.15
 - pkg:maven/com.webfirmframework/wffweb@2.1.15?classifier=sources
+- pkg:maven/com.webfirmframework/wffweb@3.0.0
+- pkg:maven/com.webfirmframework/wffweb@3.0.0?classifier=sources
