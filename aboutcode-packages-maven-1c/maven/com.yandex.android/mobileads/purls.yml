@@ -10,3 +10,5 @@
 - pkg:maven/com.yandex.android/mobileads@2.10?classifier=sources
 - pkg:maven/com.yandex.android/mobileads@2.11?type=aar
 - pkg:maven/com.yandex.android/mobileads@2.11?classifier=sources
+- pkg:maven/com.yandex.android/mobileads@2.12?type=aar
+- pkg:maven/com.yandex.android/mobileads@2.12?classifier=sources

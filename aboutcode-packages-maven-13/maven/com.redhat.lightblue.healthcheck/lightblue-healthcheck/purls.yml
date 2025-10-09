@@ -1,0 +1,4 @@
+- pkg:maven/com.redhat.lightblue.healthcheck/lightblue-healthcheck@1.1.0?type=war
+- pkg:maven/com.redhat.lightblue.healthcheck/lightblue-healthcheck@1.1.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.healthcheck/lightblue-healthcheck@1.0.0?type=war
+- pkg:maven/com.redhat.lightblue.healthcheck/lightblue-healthcheck@1.0.0?classifier=sources

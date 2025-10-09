@@ -172,3 +172,5 @@
 - pkg:maven/com.xiledsystems/aal@1.4.14?classifier=sources
 - pkg:maven/com.xiledsystems/aal@1.4.13?type=aar
 - pkg:maven/com.xiledsystems/aal@1.4.13?classifier=sources
+- pkg:maven/com.xiledsystems/aal@2.0.0-rc1?type=aar
+- pkg:maven/com.xiledsystems/aal@2.0.0-rc1?classifier=sources
