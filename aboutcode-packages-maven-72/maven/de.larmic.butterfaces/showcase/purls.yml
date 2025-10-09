@@ -256,3 +256,7 @@
 - pkg:maven/de.larmic.butterfaces/showcase@3.0.0.CR4?classifier=sources
 - pkg:maven/de.larmic.butterfaces/showcase@2.1.21?type=war
 - pkg:maven/de.larmic.butterfaces/showcase@2.1.21?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase@3.0.0.CR5?type=war
+- pkg:maven/de.larmic.butterfaces/showcase@3.0.0.CR5?classifier=sources
+- pkg:maven/de.larmic.butterfaces/showcase@2.1.22?type=war
+- pkg:maven/de.larmic.butterfaces/showcase@2.1.22?classifier=sources

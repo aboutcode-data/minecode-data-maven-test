@@ -128,3 +128,5 @@
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.28.0?classifier=sources
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.29.0?type=war
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.29.0?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.29.1?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.29.1?classifier=sources

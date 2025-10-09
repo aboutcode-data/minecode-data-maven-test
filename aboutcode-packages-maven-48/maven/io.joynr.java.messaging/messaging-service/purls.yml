@@ -140,3 +140,5 @@
 - pkg:maven/io.joynr.java.messaging/messaging-service@0.28.0?classifier=sources
 - pkg:maven/io.joynr.java.messaging/messaging-service@0.29.0
 - pkg:maven/io.joynr.java.messaging/messaging-service@0.29.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging/messaging-service@0.29.1
+- pkg:maven/io.joynr.java.messaging/messaging-service@0.29.1?classifier=sources
