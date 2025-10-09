@@ -2,3 +2,5 @@
 - pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.0.0-X18?classifier=sources
 - pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.0.0-RC3
 - pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.0.0-RC3?classifier=sources
+- pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.0.0
+- pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.0.0?classifier=sources

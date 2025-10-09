@@ -1,2 +1,4 @@
 - pkg:maven/org.openbase.bco/ontology@0.1.0
 - pkg:maven/org.openbase.bco/ontology@0.1.0?classifier=sources
+- pkg:maven/org.openbase.bco/ontology@1.4.0
+- pkg:maven/org.openbase.bco/ontology@1.4.0?classifier=sources

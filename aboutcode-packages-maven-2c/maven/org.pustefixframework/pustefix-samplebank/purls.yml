@@ -346,3 +346,5 @@
 - pkg:maven/org.pustefixframework/pustefix-samplebank@0.20.29?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-samplebank@0.20.30?type=war
 - pkg:maven/org.pustefixframework/pustefix-samplebank@0.20.30?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-samplebank@0.21.0?type=war
+- pkg:maven/org.pustefixframework/pustefix-samplebank@0.21.0?classifier=sources

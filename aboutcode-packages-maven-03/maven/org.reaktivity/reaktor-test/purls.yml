@@ -50,3 +50,5 @@
 - pkg:maven/org.reaktivity/reaktor-test@0.10.4?classifier=sources
 - pkg:maven/org.reaktivity/reaktor-test@0.20
 - pkg:maven/org.reaktivity/reaktor-test@0.20?classifier=sources
+- pkg:maven/org.reaktivity/reaktor-test@0.21
+- pkg:maven/org.reaktivity/reaktor-test@0.21?classifier=sources
