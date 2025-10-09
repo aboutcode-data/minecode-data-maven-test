@@ -36,3 +36,5 @@
 - pkg:maven/org.openstreetmap.atlas/atlas-checks@4.1.3?classifier=sources
 - pkg:maven/org.openstreetmap.atlas/atlas-checks@4.1.4
 - pkg:maven/org.openstreetmap.atlas/atlas-checks@4.1.4?classifier=sources
+- pkg:maven/org.openstreetmap.atlas/atlas-checks@5.0.0
+- pkg:maven/org.openstreetmap.atlas/atlas-checks@5.0.0?classifier=sources
