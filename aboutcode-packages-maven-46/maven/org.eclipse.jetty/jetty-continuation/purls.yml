@@ -418,3 +418,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-continuation@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-continuation@9.3.17.RC0
 - pkg:maven/org.eclipse.jetty/jetty-continuation@9.3.17.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-continuation@9.4.3.v20170317
+- pkg:maven/org.eclipse.jetty/jetty-continuation@9.4.3.v20170317?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-continuation@9.3.17.v20170317
+- pkg:maven/org.eclipse.jetty/jetty-continuation@9.3.17.v20170317?classifier=sources
