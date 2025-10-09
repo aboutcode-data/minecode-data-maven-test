@@ -26,3 +26,7 @@
 - pkg:maven/org.eclipse.che.core/che-core-api-devfile@6.19.3?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-api-devfile@7.0.0-beta-4.0
 - pkg:maven/org.eclipse.che.core/che-core-api-devfile@7.0.0-beta-4.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-devfile@7.0.0-beta-5.0
+- pkg:maven/org.eclipse.che.core/che-core-api-devfile@7.0.0-beta-5.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-devfile@6.19.4
+- pkg:maven/org.eclipse.che.core/che-core-api-devfile@6.19.4?classifier=sources

@@ -397,3 +397,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch@7.0.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@6.7.2
 - pkg:maven/org.elasticsearch/elasticsearch@6.7.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@7.1.0
+- pkg:maven/org.elasticsearch/elasticsearch@7.1.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@6.8.0
+- pkg:maven/org.elasticsearch/elasticsearch@6.8.0?classifier=sources

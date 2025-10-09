@@ -116,3 +116,5 @@
 - pkg:maven/org.grails/grails-plugin-interceptors@3.3.3?classifier=sources
 - pkg:maven/org.grails/grails-plugin-interceptors@4.0.0.RC1
 - pkg:maven/org.grails/grails-plugin-interceptors@4.0.0.RC1?classifier=sources
+- pkg:maven/org.grails/grails-plugin-interceptors@3.3.10
+- pkg:maven/org.grails/grails-plugin-interceptors@3.3.10?classifier=sources

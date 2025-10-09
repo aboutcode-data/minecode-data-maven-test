@@ -282,3 +282,5 @@
 - pkg:maven/org.clojure/clojure@1.10.1-beta2?classifier=sources
 - pkg:maven/org.clojure/clojure@1.10.1-beta3
 - pkg:maven/org.clojure/clojure@1.10.1-beta3?classifier=sources
+- pkg:maven/org.clojure/clojure@1.10.1-RC1
+- pkg:maven/org.clojure/clojure@1.10.1-RC1?classifier=sources
