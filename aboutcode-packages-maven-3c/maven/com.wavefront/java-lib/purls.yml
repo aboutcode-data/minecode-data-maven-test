@@ -130,3 +130,7 @@
 - pkg:maven/com.wavefront/java-lib@4.38?classifier=sources
 - pkg:maven/com.wavefront/java-lib@4.39
 - pkg:maven/com.wavefront/java-lib@4.39?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2019-09.1
+- pkg:maven/com.wavefront/java-lib@2019-09.1?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2019-09.0
+- pkg:maven/com.wavefront/java-lib@2019-09.0?classifier=sources

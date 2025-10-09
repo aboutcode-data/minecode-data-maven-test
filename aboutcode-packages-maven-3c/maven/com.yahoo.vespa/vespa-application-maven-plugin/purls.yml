@@ -410,3 +410,7 @@
 - pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.88.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.99.22
 - pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.109.10
+- pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.109.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.105.45
+- pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin@7.105.45?classifier=sources

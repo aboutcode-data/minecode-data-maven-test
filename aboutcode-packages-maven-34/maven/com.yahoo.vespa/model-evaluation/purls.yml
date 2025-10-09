@@ -99,3 +99,5 @@
 - pkg:maven/com.yahoo.vespa/model-evaluation@7.89.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/model-evaluation@7.88.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/model-evaluation@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/model-evaluation@7.109.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/model-evaluation@7.105.45?classifier=sources
