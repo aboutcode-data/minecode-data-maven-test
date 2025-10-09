@@ -60,3 +60,7 @@
 - pkg:maven/net.morimekta.providence/providence-storage-hazelcast@1.10.3?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-storage-hazelcast@2.0-beta1
 - pkg:maven/net.morimekta.providence/providence-storage-hazelcast@2.0-beta1?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-storage-hazelcast@2.0-beta4
+- pkg:maven/net.morimekta.providence/providence-storage-hazelcast@2.0-beta4?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-storage-hazelcast@2.0-beta3
+- pkg:maven/net.morimekta.providence/providence-storage-hazelcast@2.0-beta3?classifier=sources

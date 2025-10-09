@@ -10,3 +10,5 @@
 - pkg:maven/io.prestosql/presto-cassandra@309?classifier=sources
 - pkg:maven/io.prestosql/presto-cassandra@310?classifier=sources
 - pkg:maven/io.prestosql/presto-cassandra@311?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@313?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@312?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/io.prestosql/presto-cli@310?classifier=sources
 - pkg:maven/io.prestosql/presto-cli@311
 - pkg:maven/io.prestosql/presto-cli@311?classifier=sources
+- pkg:maven/io.prestosql/presto-cli@313
+- pkg:maven/io.prestosql/presto-cli@313?classifier=sources
+- pkg:maven/io.prestosql/presto-cli@312
+- pkg:maven/io.prestosql/presto-cli@312?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/io.prestosql/presto-geospatial-toolkit@310?classifier=sources
 - pkg:maven/io.prestosql/presto-geospatial-toolkit@311
 - pkg:maven/io.prestosql/presto-geospatial-toolkit@311?classifier=sources
+- pkg:maven/io.prestosql/presto-geospatial-toolkit@313
+- pkg:maven/io.prestosql/presto-geospatial-toolkit@313?classifier=sources
+- pkg:maven/io.prestosql/presto-geospatial-toolkit@312
+- pkg:maven/io.prestosql/presto-geospatial-toolkit@312?classifier=sources

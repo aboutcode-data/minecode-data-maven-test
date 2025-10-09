@@ -8,3 +8,5 @@
 - pkg:maven/io.prestosql/presto-elasticsearch@309?classifier=sources
 - pkg:maven/io.prestosql/presto-elasticsearch@310?classifier=sources
 - pkg:maven/io.prestosql/presto-elasticsearch@311?classifier=sources
+- pkg:maven/io.prestosql/presto-elasticsearch@313?classifier=sources
+- pkg:maven/io.prestosql/presto-elasticsearch@312?classifier=sources

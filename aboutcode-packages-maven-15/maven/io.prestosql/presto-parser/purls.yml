@@ -22,3 +22,7 @@
 - pkg:maven/io.prestosql/presto-parser@310?classifier=sources
 - pkg:maven/io.prestosql/presto-parser@311
 - pkg:maven/io.prestosql/presto-parser@311?classifier=sources
+- pkg:maven/io.prestosql/presto-parser@313
+- pkg:maven/io.prestosql/presto-parser@313?classifier=sources
+- pkg:maven/io.prestosql/presto-parser@312
+- pkg:maven/io.prestosql/presto-parser@312?classifier=sources
