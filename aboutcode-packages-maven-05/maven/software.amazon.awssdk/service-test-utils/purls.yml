@@ -362,3 +362,4 @@
 - pkg:maven/software.amazon.awssdk/service-test-utils@2.9.6?classifier=sources
 - pkg:maven/software.amazon.awssdk/service-test-utils@2.9.5
 - pkg:maven/software.amazon.awssdk/service-test-utils@2.9.5?classifier=sources
+- pkg:maven/software.amazon.awssdk/service-test-utils@2.9.14

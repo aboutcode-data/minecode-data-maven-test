@@ -10,3 +10,5 @@
 - pkg:maven/au.com.dius/pact-specification-test@4.0.0-beta.5?classifier=sources
 - pkg:maven/au.com.dius/pact-specification-test@4.0.0-beta.6
 - pkg:maven/au.com.dius/pact-specification-test@4.0.0-beta.6?classifier=sources
+- pkg:maven/au.com.dius/pact-specification-test@4.0.0
+- pkg:maven/au.com.dius/pact-specification-test@4.0.0?classifier=sources

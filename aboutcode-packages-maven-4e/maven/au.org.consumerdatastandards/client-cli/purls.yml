@@ -1,2 +1,4 @@
 - pkg:maven/au.org.consumerdatastandards/client-cli@0.9.6
 - pkg:maven/au.org.consumerdatastandards/client-cli@0.9.6?classifier=sources
+- pkg:maven/au.org.consumerdatastandards/client-cli@1.0.0-RC1
+- pkg:maven/au.org.consumerdatastandards/client-cli@1.0.0-RC1?classifier=sources

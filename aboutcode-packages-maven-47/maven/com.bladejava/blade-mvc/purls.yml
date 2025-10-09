@@ -138,3 +138,5 @@
 - pkg:maven/com.bladejava/blade-mvc@2.0.13.RELEASE?classifier=sources
 - pkg:maven/com.bladejava/blade-mvc@2.0.15.ALPHA
 - pkg:maven/com.bladejava/blade-mvc@2.0.15.ALPHA?classifier=sources
+- pkg:maven/com.bladejava/blade-mvc@2.0.15.BETA
+- pkg:maven/com.bladejava/blade-mvc@2.0.15.BETA?classifier=sources

@@ -100,3 +100,7 @@
 - pkg:maven/software.amazon.jsii/jsii-runtime@0.15.2?classifier=sources
 - pkg:maven/software.amazon.jsii/jsii-runtime@0.17.0
 - pkg:maven/software.amazon.jsii/jsii-runtime@0.17.0?classifier=sources
+- pkg:maven/software.amazon.jsii/jsii-runtime@0.18.0
+- pkg:maven/software.amazon.jsii/jsii-runtime@0.18.0?classifier=sources
+- pkg:maven/software.amazon.jsii/jsii-runtime@0.17.1
+- pkg:maven/software.amazon.jsii/jsii-runtime@0.17.1?classifier=sources
