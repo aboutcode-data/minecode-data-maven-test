@@ -38,3 +38,7 @@
 - pkg:maven/io.virtdata/metagen-lib-curves@1.0.20?classifier=sources
 - pkg:maven/io.virtdata/metagen-lib-curves@1.0.23
 - pkg:maven/io.virtdata/metagen-lib-curves@1.0.23?classifier=sources
+- pkg:maven/io.virtdata/metagen-lib-curves@jshook
+- pkg:maven/io.virtdata/metagen-lib-curves@jshook?classifier=sources
+- pkg:maven/io.virtdata/metagen-lib-curves@1.0.25
+- pkg:maven/io.virtdata/metagen-lib-curves@1.0.25?classifier=sources

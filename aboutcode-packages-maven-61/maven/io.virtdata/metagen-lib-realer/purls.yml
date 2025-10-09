@@ -14,3 +14,7 @@
 - pkg:maven/io.virtdata/metagen-lib-realer@1.0.20?classifier=sources
 - pkg:maven/io.virtdata/metagen-lib-realer@1.0.23
 - pkg:maven/io.virtdata/metagen-lib-realer@1.0.23?classifier=sources
+- pkg:maven/io.virtdata/metagen-lib-realer@jshook
+- pkg:maven/io.virtdata/metagen-lib-realer@jshook?classifier=sources
+- pkg:maven/io.virtdata/metagen-lib-realer@1.0.25
+- pkg:maven/io.virtdata/metagen-lib-realer@1.0.25?classifier=sources
