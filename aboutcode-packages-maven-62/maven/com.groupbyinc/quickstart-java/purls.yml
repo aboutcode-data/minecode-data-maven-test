@@ -48,3 +48,13 @@
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.12?classifier=sources
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.11?type=war
 - pkg:maven/com.groupbyinc/quickstart-java@2.2.11?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.21?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.21?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.20?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.20?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.19?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.19?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.18?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.18?classifier=sources
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.17?type=war
+- pkg:maven/com.groupbyinc/quickstart-java@2.2.17?classifier=sources

@@ -60,3 +60,7 @@
 - pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0-rc.38?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0-rc.37
 - pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0-rc.37?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0-rc.39
+- pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0-rc.39?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0
+- pkg:maven/com.netflix.archaius/archaius2-persisted2@2.0.0?classifier=sources

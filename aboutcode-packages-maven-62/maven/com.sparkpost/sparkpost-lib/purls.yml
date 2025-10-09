@@ -2,3 +2,5 @@
 - pkg:maven/com.sparkpost/sparkpost-lib@0.8?classifier=sources
 - pkg:maven/com.sparkpost/sparkpost-lib@0.9
 - pkg:maven/com.sparkpost/sparkpost-lib@0.9?classifier=sources
+- pkg:maven/com.sparkpost/sparkpost-lib@0.10
+- pkg:maven/com.sparkpost/sparkpost-lib@0.10?classifier=sources

@@ -97,3 +97,5 @@
 - pkg:maven/com.twitter/scrooge-maven-plugin@4.2.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-maven-plugin@4.3.0
 - pkg:maven/com.twitter/scrooge-maven-plugin@4.3.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-maven-plugin@4.5.0
+- pkg:maven/com.twitter/scrooge-maven-plugin@4.5.0?classifier=sources
