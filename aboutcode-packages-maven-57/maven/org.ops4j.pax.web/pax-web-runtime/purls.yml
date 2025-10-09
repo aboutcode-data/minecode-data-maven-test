@@ -188,3 +188,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-runtime@3.2.9?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-runtime@4.2.7
 - pkg:maven/org.ops4j.pax.web/pax-web-runtime@4.2.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-runtime@4.2.8
+- pkg:maven/org.ops4j.pax.web/pax-web-runtime@4.2.8?classifier=sources
