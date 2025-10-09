@@ -358,3 +358,5 @@
 - pkg:maven/io.zipkin.java/zipkin-server@2.11.6?classifier=sources
 - pkg:maven/io.zipkin.java/zipkin-server@2.11.7
 - pkg:maven/io.zipkin.java/zipkin-server@2.11.7?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-server@2.11.8
+- pkg:maven/io.zipkin.java/zipkin-server@2.11.8?classifier=sources
