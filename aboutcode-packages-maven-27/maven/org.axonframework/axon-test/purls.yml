@@ -190,3 +190,5 @@
 - pkg:maven/org.axonframework/axon-test@4.0.4?classifier=sources
 - pkg:maven/org.axonframework/axon-test@3.4.3
 - pkg:maven/org.axonframework/axon-test@3.4.3?classifier=sources
+- pkg:maven/org.axonframework/axon-test@4.1.1
+- pkg:maven/org.axonframework/axon-test@4.1.1?classifier=sources

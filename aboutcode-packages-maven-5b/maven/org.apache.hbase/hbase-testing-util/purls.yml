@@ -262,3 +262,7 @@
 - pkg:maven/org.apache.hbase/hbase-testing-util@2.1.3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-testing-util@1.2.11
 - pkg:maven/org.apache.hbase/hbase-testing-util@1.2.11?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-testing-util@2.1.4
+- pkg:maven/org.apache.hbase/hbase-testing-util@2.1.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-testing-util@2.0.5
+- pkg:maven/org.apache.hbase/hbase-testing-util@2.0.5?classifier=sources
