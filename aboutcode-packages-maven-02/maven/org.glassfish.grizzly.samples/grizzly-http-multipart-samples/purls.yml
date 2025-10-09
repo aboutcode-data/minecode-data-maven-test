@@ -207,3 +207,6 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-http-multipart-samples@2.3.34
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-http-multipart-samples@2.3.34?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-http-multipart-samples@2.4.3
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-http-multipart-samples@2.4.3?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-http-multipart-samples@2.3.35
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-http-multipart-samples@2.3.35?classifier=sources

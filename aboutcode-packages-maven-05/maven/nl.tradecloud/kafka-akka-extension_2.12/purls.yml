@@ -64,3 +64,7 @@
 - pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.41?classifier=sources
 - pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.40
 - pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.40?classifier=sources
+- pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.44
+- pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.44?classifier=sources
+- pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.43
+- pkg:maven/nl.tradecloud/kafka-akka-extension_2.12@0.43?classifier=sources

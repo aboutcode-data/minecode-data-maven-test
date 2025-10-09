@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.nifi/nifi-runtime@0.7.4?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-runtime@1.4.0
 - pkg:maven/org.apache.nifi/nifi-runtime@1.4.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-runtime@1.5.0
+- pkg:maven/org.apache.nifi/nifi-runtime@1.5.0?classifier=sources

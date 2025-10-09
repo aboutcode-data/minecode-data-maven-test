@@ -10,3 +10,7 @@
 - pkg:maven/org.bitbucket.frankmonza/kustomdashboard@0.4?classifier=sources
 - pkg:maven/org.bitbucket.frankmonza/kustomdashboard@0.8?type=aar
 - pkg:maven/org.bitbucket.frankmonza/kustomdashboard@0.8?classifier=sources
+- pkg:maven/org.bitbucket.frankmonza/kustomdashboard@1.0?type=aar
+- pkg:maven/org.bitbucket.frankmonza/kustomdashboard@1.0?classifier=sources
+- pkg:maven/org.bitbucket.frankmonza/kustomdashboard@0.9?type=aar
+- pkg:maven/org.bitbucket.frankmonza/kustomdashboard@0.9?classifier=sources

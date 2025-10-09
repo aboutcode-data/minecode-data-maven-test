@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.nifi/nifi-web-optimistic-locking@0.7.4?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-web-optimistic-locking@1.4.0
 - pkg:maven/org.apache.nifi/nifi-web-optimistic-locking@1.4.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-web-optimistic-locking@1.5.0
+- pkg:maven/org.apache.nifi/nifi-web-optimistic-locking@1.5.0?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.nifi/nifi-ambari-reporting-task@0.7.4?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-ambari-reporting-task@1.4.0
 - pkg:maven/org.apache.nifi/nifi-ambari-reporting-task@1.4.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-ambari-reporting-task@1.5.0
+- pkg:maven/org.apache.nifi/nifi-ambari-reporting-task@1.5.0?classifier=sources

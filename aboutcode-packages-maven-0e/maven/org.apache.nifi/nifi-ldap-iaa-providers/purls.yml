@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.nifi/nifi-ldap-iaa-providers@0.7.4?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-ldap-iaa-providers@1.4.0
 - pkg:maven/org.apache.nifi/nifi-ldap-iaa-providers@1.4.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-ldap-iaa-providers@1.5.0
+- pkg:maven/org.apache.nifi/nifi-ldap-iaa-providers@1.5.0?classifier=sources
