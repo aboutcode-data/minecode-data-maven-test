@@ -12,3 +12,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-ion@2.9.0.pr4?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-ion@2.8.9
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-ion@2.8.9?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-ion@2.9.0
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-ion@2.9.0?classifier=sources
