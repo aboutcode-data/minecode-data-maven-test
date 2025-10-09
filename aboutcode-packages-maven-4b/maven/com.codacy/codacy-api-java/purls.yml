@@ -12,3 +12,5 @@
 - pkg:maven/com.codacy/codacy-api-java@1.8?classifier=sources
 - pkg:maven/com.codacy/codacy-api-java@1.10
 - pkg:maven/com.codacy/codacy-api-java@1.10?classifier=sources
+- pkg:maven/com.codacy/codacy-api-java@0.1.0-circlepublish.6af9f76
+- pkg:maven/com.codacy/codacy-api-java@0.1.0-circlepublish.6af9f76?classifier=sources
