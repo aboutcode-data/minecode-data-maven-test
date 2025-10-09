@@ -30,3 +30,5 @@
 - pkg:maven/org.opensingular/singular-wicket-utils@1.6.9-RC2?classifier=sources
 - pkg:maven/org.opensingular/singular-wicket-utils@1.6.9-RC3
 - pkg:maven/org.opensingular/singular-wicket-utils@1.6.9-RC3?classifier=sources
+- pkg:maven/org.opensingular/singular-wicket-utils@1.6.9
+- pkg:maven/org.opensingular/singular-wicket-utils@1.6.9?classifier=sources

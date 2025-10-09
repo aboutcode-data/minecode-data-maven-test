@@ -64,3 +64,5 @@
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-18?classifier=sources
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.54
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.54?classifier=sources
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-66
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-66?classifier=sources

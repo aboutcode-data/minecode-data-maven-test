@@ -8,3 +8,5 @@
 - pkg:maven/org.minijax/minijax-liquibase@0.0.12?classifier=sources
 - pkg:maven/org.minijax/minijax-liquibase@0.0.20
 - pkg:maven/org.minijax/minijax-liquibase@0.0.20?classifier=sources
+- pkg:maven/org.minijax/minijax-liquibase@0.0.22
+- pkg:maven/org.minijax/minijax-liquibase@0.0.22?classifier=sources

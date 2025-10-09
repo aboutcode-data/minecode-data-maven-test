@@ -124,3 +124,5 @@
 - pkg:maven/org.onosproject/onos-core-common@1.10.9?classifier=sources
 - pkg:maven/org.onosproject/onos-core-common@1.10.8
 - pkg:maven/org.onosproject/onos-core-common@1.10.8?classifier=sources
+- pkg:maven/org.onosproject/onos-core-common@1.12.0-b2
+- pkg:maven/org.onosproject/onos-core-common@1.12.0-b2?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.scalatra/scalatra-slf4j_2.11@2.5.3?classifier=sources
 - pkg:maven/org.scalatra/scalatra-slf4j_2.11@2.5.2
 - pkg:maven/org.scalatra/scalatra-slf4j_2.11@2.5.2?classifier=sources
+- pkg:maven/org.scalatra/scalatra-slf4j_2.11@2.5.4
+- pkg:maven/org.scalatra/scalatra-slf4j_2.11@2.5.4?classifier=sources
