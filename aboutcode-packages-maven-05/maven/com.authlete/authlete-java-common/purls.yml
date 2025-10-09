@@ -82,3 +82,5 @@
 - pkg:maven/com.authlete/authlete-java-common@1.40?classifier=sources
 - pkg:maven/com.authlete/authlete-java-common@1.39
 - pkg:maven/com.authlete/authlete-java-common@1.39?classifier=sources
+- pkg:maven/com.authlete/authlete-java-common@2.0
+- pkg:maven/com.authlete/authlete-java-common@2.0?classifier=sources

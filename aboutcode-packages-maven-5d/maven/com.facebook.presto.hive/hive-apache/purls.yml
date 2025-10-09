@@ -36,3 +36,5 @@
 - pkg:maven/com.facebook.presto.hive/hive-apache@0.21?classifier=sources
 - pkg:maven/com.facebook.presto.hive/hive-apache@0.20
 - pkg:maven/com.facebook.presto.hive/hive-apache@0.20?classifier=sources
+- pkg:maven/com.facebook.presto.hive/hive-apache@1.2.0-1
+- pkg:maven/com.facebook.presto.hive/hive-apache@1.2.0-1?classifier=sources
