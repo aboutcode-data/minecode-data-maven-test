@@ -200,3 +200,5 @@
 - pkg:maven/com.alibaba/fastjson@1.2.34?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.35
 - pkg:maven/com.alibaba/fastjson@1.2.35?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.1.60.android
+- pkg:maven/com.alibaba/fastjson@1.1.60.android?classifier=sources

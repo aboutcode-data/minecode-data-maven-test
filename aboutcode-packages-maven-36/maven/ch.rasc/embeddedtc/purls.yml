@@ -84,3 +84,7 @@
 - pkg:maven/ch.rasc/embeddedtc@1.26?classifier=sources
 - pkg:maven/ch.rasc/embeddedtc@1.27
 - pkg:maven/ch.rasc/embeddedtc@1.27?classifier=sources
+- pkg:maven/ch.rasc/embeddedtc@2.15
+- pkg:maven/ch.rasc/embeddedtc@2.15?classifier=sources
+- pkg:maven/ch.rasc/embeddedtc@1.28
+- pkg:maven/ch.rasc/embeddedtc@1.28?classifier=sources
