@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.openwebbeans.arquillian/owb-arquillian-standalone@1.7.6?classifier=sources
 - pkg:maven/org.apache.openwebbeans.arquillian/owb-arquillian-standalone@2.0.10
 - pkg:maven/org.apache.openwebbeans.arquillian/owb-arquillian-standalone@2.0.10?classifier=sources
+- pkg:maven/org.apache.openwebbeans.arquillian/owb-arquillian-standalone@2.0.11
+- pkg:maven/org.apache.openwebbeans.arquillian/owb-arquillian-standalone@2.0.11?classifier=sources

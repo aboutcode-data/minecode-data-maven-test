@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.xbean/xbean-blueprint@4.12?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-blueprint@4.13
 - pkg:maven/org.apache.xbean/xbean-blueprint@4.13?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-blueprint@4.14
+- pkg:maven/org.apache.xbean/xbean-blueprint@4.14?classifier=sources

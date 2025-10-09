@@ -55,3 +55,4 @@
 - pkg:maven/org.eclipse.che.core/che-core-api-languageserver-shared@6.19.4
 - pkg:maven/org.eclipse.che.core/che-core-api-languageserver-shared@6.19.4?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-api-languageserver-shared@6.19.5
+- pkg:maven/org.eclipse.che.core/che-core-api-languageserver-shared@6.19.5?classifier=sources

@@ -104,3 +104,7 @@
 - pkg:maven/org.apache.wicket/wicket-cdi-1.1@8.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-cdi-1.1@7.13.0
 - pkg:maven/org.apache.wicket/wicket-cdi-1.1@7.13.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-cdi-1.1@8.5.0
+- pkg:maven/org.apache.wicket/wicket-cdi-1.1@8.5.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-cdi-1.1@7.14.0
+- pkg:maven/org.apache.wicket/wicket-cdi-1.1@7.14.0?classifier=sources

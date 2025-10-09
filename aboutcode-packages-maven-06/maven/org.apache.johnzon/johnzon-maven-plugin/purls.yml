@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.11?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.0.2
 - pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.12
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.12?classifier=sources

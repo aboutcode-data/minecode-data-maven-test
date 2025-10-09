@@ -84,3 +84,5 @@
 - pkg:maven/org.apache.lucene/lucene-spatial3d@6.6.6?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial3d@8.1.0
 - pkg:maven/org.apache.lucene/lucene-spatial3d@8.1.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial3d@8.1.1
+- pkg:maven/org.apache.lucene/lucene-spatial3d@8.1.1?classifier=sources
