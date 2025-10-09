@@ -32,3 +32,7 @@
 - pkg:maven/com.twitter/chill-avro_2.10@0.8.4?classifier=sources
 - pkg:maven/com.twitter/chill-avro_2.10@0.7.7
 - pkg:maven/com.twitter/chill-avro_2.10@0.7.7?classifier=sources
+- pkg:maven/com.twitter/chill-avro_2.10@0.9.3
+- pkg:maven/com.twitter/chill-avro_2.10@0.9.3?classifier=sources
+- pkg:maven/com.twitter/chill-avro_2.10@0.8.5
+- pkg:maven/com.twitter/chill-avro_2.10@0.8.5?classifier=sources

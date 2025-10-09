@@ -8,3 +8,5 @@
 - pkg:maven/com.polidea.cockpit/cockpit@1.0.3?classifier=sources
 - pkg:maven/com.polidea.cockpit/cockpit@2.0.0?type=aar
 - pkg:maven/com.polidea.cockpit/cockpit@2.0.0?classifier=sources
+- pkg:maven/com.polidea.cockpit/cockpit@2.1.0?type=aar
+- pkg:maven/com.polidea.cockpit/cockpit@2.1.0?classifier=sources

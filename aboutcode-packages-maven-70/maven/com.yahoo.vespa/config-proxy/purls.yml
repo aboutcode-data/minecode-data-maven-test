@@ -206,3 +206,5 @@
 - pkg:maven/com.yahoo.vespa/config-proxy@6.266.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-proxy@6.265.30
 - pkg:maven/com.yahoo.vespa/config-proxy@6.265.30?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-proxy@6.271.25
+- pkg:maven/com.yahoo.vespa/config-proxy@6.271.25?classifier=sources
