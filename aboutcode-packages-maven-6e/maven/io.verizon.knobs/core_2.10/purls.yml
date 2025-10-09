@@ -32,3 +32,7 @@
 - pkg:maven/io.verizon.knobs/core_2.10@3.12.28a?classifier=sources
 - pkg:maven/io.verizon.knobs/core_2.10@3.12.28
 - pkg:maven/io.verizon.knobs/core_2.10@3.12.28?classifier=sources
+- pkg:maven/io.verizon.knobs/core_2.10@4.0.30-scalaz-7.2
+- pkg:maven/io.verizon.knobs/core_2.10@4.0.30-scalaz-7.2?classifier=sources
+- pkg:maven/io.verizon.knobs/core_2.10@4.0.30-scalaz-7.1
+- pkg:maven/io.verizon.knobs/core_2.10@4.0.30-scalaz-7.1?classifier=sources
