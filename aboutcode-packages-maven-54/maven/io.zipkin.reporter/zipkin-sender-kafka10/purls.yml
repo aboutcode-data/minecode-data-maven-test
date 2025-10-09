@@ -10,3 +10,5 @@
 - pkg:maven/io.zipkin.reporter/zipkin-sender-kafka10@0.10.0?classifier=sources
 - pkg:maven/io.zipkin.reporter/zipkin-sender-kafka10@1.0.0
 - pkg:maven/io.zipkin.reporter/zipkin-sender-kafka10@1.0.0?classifier=sources
+- pkg:maven/io.zipkin.reporter/zipkin-sender-kafka10@1.0.1
+- pkg:maven/io.zipkin.reporter/zipkin-sender-kafka10@1.0.1?classifier=sources
