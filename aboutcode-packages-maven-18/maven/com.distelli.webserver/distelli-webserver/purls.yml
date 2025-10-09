@@ -168,3 +168,5 @@
 - pkg:maven/com.distelli.webserver/distelli-webserver@9.19.1?classifier=sources
 - pkg:maven/com.distelli.webserver/distelli-webserver@9.19.2
 - pkg:maven/com.distelli.webserver/distelli-webserver@9.19.2?classifier=sources
+- pkg:maven/com.distelli.webserver/distelli-webserver@10.0.0
+- pkg:maven/com.distelli.webserver/distelli-webserver@10.0.0?classifier=sources

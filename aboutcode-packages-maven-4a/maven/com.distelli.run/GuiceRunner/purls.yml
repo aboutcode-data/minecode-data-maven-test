@@ -106,3 +106,5 @@
 - pkg:maven/com.distelli.run/GuiceRunner@9.19.1?classifier=sources
 - pkg:maven/com.distelli.run/GuiceRunner@9.19.2
 - pkg:maven/com.distelli.run/GuiceRunner@9.19.2?classifier=sources
+- pkg:maven/com.distelli.run/GuiceRunner@10.0.0
+- pkg:maven/com.distelli.run/GuiceRunner@10.0.0?classifier=sources

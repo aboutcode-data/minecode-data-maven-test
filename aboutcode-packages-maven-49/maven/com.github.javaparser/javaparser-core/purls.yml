@@ -204,3 +204,5 @@
 - pkg:maven/com.github.javaparser/javaparser-core@3.6.27?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-core@3.7.0
 - pkg:maven/com.github.javaparser/javaparser-core@3.7.0?classifier=sources
+- pkg:maven/com.github.javaparser/javaparser-core@3.7.1
+- pkg:maven/com.github.javaparser/javaparser-core@3.7.1?classifier=sources
