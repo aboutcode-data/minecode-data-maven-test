@@ -94,3 +94,5 @@
 - pkg:maven/com.threewks.spring/spring-boot-gae@2.4.0?classifier=sources
 - pkg:maven/com.threewks.spring/spring-boot-gae@2.3.0
 - pkg:maven/com.threewks.spring/spring-boot-gae@2.3.0?classifier=sources
+- pkg:maven/com.threewks.spring/spring-boot-gae@3.0.1
+- pkg:maven/com.threewks.spring/spring-boot-gae@3.0.1?classifier=sources
