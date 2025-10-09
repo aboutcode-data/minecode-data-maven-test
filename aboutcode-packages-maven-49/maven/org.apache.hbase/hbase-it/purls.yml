@@ -278,3 +278,5 @@
 - pkg:maven/org.apache.hbase/hbase-it@1.2.12?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-it@1.3.4
 - pkg:maven/org.apache.hbase/hbase-it@1.3.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-it@2.1.5
+- pkg:maven/org.apache.hbase/hbase-it@2.1.5?classifier=sources
