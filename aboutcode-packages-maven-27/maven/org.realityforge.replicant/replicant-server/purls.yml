@@ -142,3 +142,5 @@
 - pkg:maven/org.realityforge.replicant/replicant-server@6.01?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-server@6.00
 - pkg:maven/org.realityforge.replicant/replicant-server@6.00?classifier=sources
+- pkg:maven/org.realityforge.replicant/replicant-server@6.03
+- pkg:maven/org.realityforge.replicant/replicant-server@6.03?classifier=sources

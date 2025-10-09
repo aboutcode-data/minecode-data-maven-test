@@ -28,3 +28,5 @@
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.0.Beta2?classifier=sources
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.6.Final
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.6.Final?classifier=sources
+- pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.7.Final
+- pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.7.Final?classifier=sources

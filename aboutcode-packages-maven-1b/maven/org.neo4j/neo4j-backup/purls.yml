@@ -440,3 +440,7 @@
 - pkg:maven/org.neo4j/neo4j-backup@3.5.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-backup@3.4.3
 - pkg:maven/org.neo4j/neo4j-backup@3.4.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-backup@3.5.0-alpha04
+- pkg:maven/org.neo4j/neo4j-backup@3.5.0-alpha04?classifier=sources
+- pkg:maven/org.neo4j/neo4j-backup@3.4.4
+- pkg:maven/org.neo4j/neo4j-backup@3.4.4?classifier=sources

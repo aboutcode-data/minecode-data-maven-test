@@ -194,3 +194,7 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.19.17?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.18.21?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.18.21?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.20.0?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.20.0?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.19.19?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.19.19?classifier=sources

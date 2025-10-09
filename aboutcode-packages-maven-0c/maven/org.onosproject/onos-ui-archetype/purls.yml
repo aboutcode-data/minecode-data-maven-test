@@ -80,3 +80,5 @@
 - pkg:maven/org.onosproject/onos-ui-archetype@1.12.1-rc7?classifier=sources
 - pkg:maven/org.onosproject/onos-ui-archetype@1.13.2-rc3?classifier=sources
 - pkg:maven/org.onosproject/onos-ui-archetype@1.13.2-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-ui-archetype@1.13.2?classifier=sources
+- pkg:maven/org.onosproject/onos-ui-archetype@1.12.1?classifier=sources

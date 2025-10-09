@@ -52,3 +52,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.20.3?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.21.4?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.21.4?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.21.5?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.21.5?classifier=sources
