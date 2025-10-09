@@ -16,3 +16,5 @@
 - pkg:maven/com.aol.microservices/micro-logback@0.82?classifier=sources
 - pkg:maven/com.aol.microservices/micro-logback@0.83
 - pkg:maven/com.aol.microservices/micro-logback@0.83?classifier=sources
+- pkg:maven/com.aol.microservices/micro-logback@0.84
+- pkg:maven/com.aol.microservices/micro-logback@0.84?classifier=sources

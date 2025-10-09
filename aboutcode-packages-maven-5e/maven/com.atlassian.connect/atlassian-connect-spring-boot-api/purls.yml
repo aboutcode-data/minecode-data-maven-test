@@ -2,3 +2,7 @@
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@0.9.0-alpha?classifier=sources
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@0.9.1-alpha
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@0.9.1-alpha?classifier=sources
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@1.0.0-beta-2
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@1.0.0-beta-2?classifier=sources
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@1.0.0-beta-1
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@1.0.0-beta-1?classifier=sources
