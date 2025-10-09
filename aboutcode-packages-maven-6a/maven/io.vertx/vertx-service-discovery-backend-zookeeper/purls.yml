@@ -26,3 +26,5 @@
 - pkg:maven/io.vertx/vertx-service-discovery-backend-zookeeper@3.5.3?classifier=sources
 - pkg:maven/io.vertx/vertx-service-discovery-backend-zookeeper@3.5.4
 - pkg:maven/io.vertx/vertx-service-discovery-backend-zookeeper@3.5.4?classifier=sources
+- pkg:maven/io.vertx/vertx-service-discovery-backend-zookeeper@3.6.0.CR1
+- pkg:maven/io.vertx/vertx-service-discovery-backend-zookeeper@3.6.0.CR1?classifier=sources
