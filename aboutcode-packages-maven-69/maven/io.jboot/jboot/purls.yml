@@ -163,3 +163,5 @@
 - pkg:maven/io.jboot/jboot@1.6.7?classifier=sources
 - pkg:maven/io.jboot/jboot@1.6.9
 - pkg:maven/io.jboot/jboot@1.6.9?classifier=sources
+- pkg:maven/io.jboot/jboot@1.7.0
+- pkg:maven/io.jboot/jboot@1.7.0?classifier=sources

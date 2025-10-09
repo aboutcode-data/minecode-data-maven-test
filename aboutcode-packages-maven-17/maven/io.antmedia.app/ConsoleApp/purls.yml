@@ -19,3 +19,5 @@
 - pkg:maven/io.antmedia.app/ConsoleApp@1.4.0?classifier=sources
 - pkg:maven/io.antmedia.app/ConsoleApp@1.5.0?type=war
 - pkg:maven/io.antmedia.app/ConsoleApp@1.5.0?classifier=sources
+- pkg:maven/io.antmedia.app/ConsoleApp@1.5.1?type=war
+- pkg:maven/io.antmedia.app/ConsoleApp@1.5.1?classifier=sources

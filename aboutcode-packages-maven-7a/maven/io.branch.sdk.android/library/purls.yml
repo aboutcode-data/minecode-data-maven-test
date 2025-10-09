@@ -260,3 +260,5 @@
 - pkg:maven/io.branch.sdk.android/library@2.19.3?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@2.19.4?type=aar
 - pkg:maven/io.branch.sdk.android/library@2.19.4?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@2.19.5?type=aar
+- pkg:maven/io.branch.sdk.android/library@2.19.5?classifier=sources
