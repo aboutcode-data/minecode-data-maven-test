@@ -238,3 +238,5 @@
 - pkg:maven/com.google.gerrit/gerrit-extension-api@3.0.0?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-extension-api@2.15.14
 - pkg:maven/com.google.gerrit/gerrit-extension-api@2.15.14?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-extension-api@2.16.9
+- pkg:maven/com.google.gerrit/gerrit-extension-api@2.16.9?classifier=sources

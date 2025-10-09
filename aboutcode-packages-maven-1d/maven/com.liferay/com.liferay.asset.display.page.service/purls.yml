@@ -76,3 +76,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.display.page.service@1.0.19
 - pkg:maven/com.liferay/com.liferay.asset.display.page.service@1.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.page.service@1.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.display.page.service@2.1.8
+- pkg:maven/com.liferay/com.liferay.asset.display.page.service@2.1.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.display.page.service@2.1.8?classifier=sources-commercial

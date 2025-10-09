@@ -8,3 +8,5 @@
 - pkg:maven/com.kurzdigital/keycloak-admin-wrapper@0.9.10?classifier=sources
 - pkg:maven/com.kurzdigital/keycloak-admin-wrapper@0.9.11
 - pkg:maven/com.kurzdigital/keycloak-admin-wrapper@0.9.11?classifier=sources
+- pkg:maven/com.kurzdigital/keycloak-admin-wrapper@0.10.0
+- pkg:maven/com.kurzdigital/keycloak-admin-wrapper@0.10.0?classifier=sources
