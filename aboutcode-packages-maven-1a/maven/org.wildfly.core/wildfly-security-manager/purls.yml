@@ -72,3 +72,5 @@
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Beta25?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Beta24
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Beta24?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Beta27
+- pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Beta27?classifier=sources
