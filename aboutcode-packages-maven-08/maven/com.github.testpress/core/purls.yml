@@ -68,3 +68,5 @@
 - pkg:maven/com.github.testpress/core@1.0.34?classifier=sources
 - pkg:maven/com.github.testpress/core@1.0.33?type=aar
 - pkg:maven/com.github.testpress/core@1.0.33?classifier=sources
+- pkg:maven/com.github.testpress/core@1.0.40?type=aar
+- pkg:maven/com.github.testpress/core@1.0.40?classifier=sources

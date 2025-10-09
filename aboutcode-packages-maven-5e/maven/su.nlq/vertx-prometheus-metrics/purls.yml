@@ -1,2 +1,4 @@
 - pkg:maven/su.nlq/vertx-prometheus-metrics@0.13
 - pkg:maven/su.nlq/vertx-prometheus-metrics@0.13?classifier=sources
+- pkg:maven/su.nlq/vertx-prometheus-metrics@0.13.1
+- pkg:maven/su.nlq/vertx-prometheus-metrics@0.13.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@1.0.1
+- pkg:maven/com.graphql-java/java-dataloader@1.0.1?classifier=sources
