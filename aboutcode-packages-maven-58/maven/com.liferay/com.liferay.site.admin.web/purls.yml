@@ -200,3 +200,6 @@
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.57
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.admin.web@1.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.admin.web@2.0.24?classifier=sources-commercial

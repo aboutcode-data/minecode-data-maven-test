@@ -338,3 +338,5 @@
 - pkg:maven/com.hazelcast/hazelcast-client@3.12-BETA-2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-client@3.12
 - pkg:maven/com.hazelcast/hazelcast-client@3.12?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client@3.11.3
+- pkg:maven/com.hazelcast/hazelcast-client@3.11.3?classifier=sources

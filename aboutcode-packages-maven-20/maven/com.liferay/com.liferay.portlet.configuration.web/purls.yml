@@ -171,3 +171,6 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@1.0.39
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@1.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.33
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.33?classifier=sources-commercial

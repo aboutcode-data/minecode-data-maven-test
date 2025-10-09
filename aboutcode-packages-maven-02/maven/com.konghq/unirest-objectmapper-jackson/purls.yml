@@ -1,2 +1,4 @@
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@2.2.00
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@2.2.00?classifier=sources
+- pkg:maven/com.konghq/unirest-objectmapper-jackson@2.2.01
+- pkg:maven/com.konghq/unirest-objectmapper-jackson@2.2.01?classifier=sources
