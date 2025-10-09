@@ -20,3 +20,5 @@
 - pkg:maven/com.diagnal.engage/engage@1.1.13?classifier=sources
 - pkg:maven/com.diagnal.engage/engage@1.1.12-devrelease?type=aar
 - pkg:maven/com.diagnal.engage/engage@1.1.12-devrelease?classifier=sources
+- pkg:maven/com.diagnal.engage/engage@1.1.14-alpha?type=aar
+- pkg:maven/com.diagnal.engage/engage@1.1.14-alpha?classifier=sources

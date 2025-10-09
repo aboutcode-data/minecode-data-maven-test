@@ -872,3 +872,7 @@
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.515?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.514?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.514?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.522?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.522?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.521?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.521?classifier=sources-commercial

@@ -14,3 +14,5 @@
 - pkg:maven/com.github.derjust/spring-data-dynamodb@4.5.0?classifier=sources
 - pkg:maven/com.github.derjust/spring-data-dynamodb@5.0.0
 - pkg:maven/com.github.derjust/spring-data-dynamodb@5.0.0?classifier=sources
+- pkg:maven/com.github.derjust/spring-data-dynamodb@4.5.1
+- pkg:maven/com.github.derjust/spring-data-dynamodb@4.5.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@1.0.9?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@1.0.10
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@1.0.10?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@2.0.0-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-log4j1_2@2.0.0-BETA?classifier=sources

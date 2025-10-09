@@ -108,3 +108,5 @@
 - pkg:maven/com.datamountaineer/kafka-connect-common@0.8.3.0?classifier=sources
 - pkg:maven/com.datamountaineer/kafka-connect-common@0.9.0
 - pkg:maven/com.datamountaineer/kafka-connect-common@0.9.0?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-connect-common@0.8.3.3
+- pkg:maven/com.datamountaineer/kafka-connect-common@0.8.3.3?classifier=sources

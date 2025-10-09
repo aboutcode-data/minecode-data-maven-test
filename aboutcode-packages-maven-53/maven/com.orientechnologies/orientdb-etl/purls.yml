@@ -178,3 +178,5 @@
 - pkg:maven/com.orientechnologies/orientdb-etl@2.2.30?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-etl@2.2.31
 - pkg:maven/com.orientechnologies/orientdb-etl@2.2.31?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-etl@3.0.0RC1
+- pkg:maven/com.orientechnologies/orientdb-etl@3.0.0RC1?classifier=sources

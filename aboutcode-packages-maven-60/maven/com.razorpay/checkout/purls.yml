@@ -26,3 +26,7 @@
 - pkg:maven/com.razorpay/checkout@1.4.0?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.4.1?type=aar
 - pkg:maven/com.razorpay/checkout@1.4.1?classifier=sources
+- pkg:maven/com.razorpay/checkout@1.4.4?type=aar
+- pkg:maven/com.razorpay/checkout@1.4.4?classifier=sources
+- pkg:maven/com.razorpay/checkout@1.4.3?type=aar
+- pkg:maven/com.razorpay/checkout@1.4.3?classifier=sources

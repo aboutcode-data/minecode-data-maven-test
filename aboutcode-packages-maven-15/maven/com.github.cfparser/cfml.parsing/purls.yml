@@ -64,3 +64,5 @@
 - pkg:maven/com.github.cfparser/cfml.parsing@2.5.4?classifier=sources
 - pkg:maven/com.github.cfparser/cfml.parsing@2.5.6
 - pkg:maven/com.github.cfparser/cfml.parsing@2.5.6?classifier=sources
+- pkg:maven/com.github.cfparser/cfml.parsing@2.6.0
+- pkg:maven/com.github.cfparser/cfml.parsing@2.6.0?classifier=sources
