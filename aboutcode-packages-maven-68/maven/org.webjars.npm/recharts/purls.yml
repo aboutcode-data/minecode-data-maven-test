@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/recharts@0.13.4
 - pkg:maven/org.webjars.npm/recharts@0.13.4?classifier=sources
+- pkg:maven/org.webjars.npm/recharts@0.14.1
+- pkg:maven/org.webjars.npm/recharts@0.14.1?classifier=sources

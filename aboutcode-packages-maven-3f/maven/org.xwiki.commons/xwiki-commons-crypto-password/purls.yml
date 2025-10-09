@@ -156,3 +156,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@8.2.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@8.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@8.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@8.3-milestone-2
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-password@8.3-milestone-2?classifier=sources
