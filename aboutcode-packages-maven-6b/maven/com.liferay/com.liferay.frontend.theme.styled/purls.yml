@@ -232,3 +232,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.styled@4.0.20
 - pkg:maven/com.liferay/com.liferay.frontend.theme.styled@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.styled@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@2.1.16
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@2.1.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.styled@2.1.16?classifier=sources-commercial

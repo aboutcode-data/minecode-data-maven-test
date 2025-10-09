@@ -581,3 +581,12 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.33
 - pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.34
+- pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.service@6.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.service@5.0.69
+- pkg:maven/com.liferay/com.liferay.exportimport.service@5.0.69?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.service@5.0.69?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.service@4.5.1
+- pkg:maven/com.liferay/com.liferay.exportimport.service@4.5.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.service@4.5.1?classifier=sources-commercial

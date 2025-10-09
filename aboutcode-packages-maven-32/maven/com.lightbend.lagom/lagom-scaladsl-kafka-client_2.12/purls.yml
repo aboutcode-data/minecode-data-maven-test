@@ -72,3 +72,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-kafka-client_2.12@1.5.4?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-kafka-client_2.12@1.6.0-M7
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-kafka-client_2.12@1.6.0-M7?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-kafka-client_2.12@1.6.0-RC1
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-kafka-client_2.12@1.6.0-RC1?classifier=sources

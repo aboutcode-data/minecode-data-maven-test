@@ -364,3 +364,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@2.0.53
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@2.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@2.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@3.0.39
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@3.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@3.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@2.0.54
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@2.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.impl@2.0.54?classifier=sources-commercial

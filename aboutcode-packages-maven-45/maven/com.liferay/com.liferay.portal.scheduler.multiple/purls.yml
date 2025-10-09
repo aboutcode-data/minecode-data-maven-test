@@ -108,3 +108,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.13
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@3.0.6
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@3.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.14
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.multiple@2.0.14?classifier=sources-commercial

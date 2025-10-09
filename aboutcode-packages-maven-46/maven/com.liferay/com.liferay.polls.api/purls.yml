@@ -117,3 +117,12 @@
 - pkg:maven/com.liferay/com.liferay.polls.api@6.1.1
 - pkg:maven/com.liferay/com.liferay.polls.api@6.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.api@6.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.api@6.1.2
+- pkg:maven/com.liferay/com.liferay.polls.api@6.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.api@6.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.api@5.0.12
+- pkg:maven/com.liferay/com.liferay.polls.api@5.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.api@5.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.api@4.0.17
+- pkg:maven/com.liferay/com.liferay.polls.api@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.api@4.0.17?classifier=sources-commercial

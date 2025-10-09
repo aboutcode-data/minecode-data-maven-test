@@ -164,3 +164,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.32
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.20
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.20?classifier=sources-commercial

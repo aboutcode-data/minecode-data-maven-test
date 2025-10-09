@@ -145,3 +145,9 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.service@2.0.13
 - pkg:maven/com.liferay/com.liferay.site.navigation.service@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.service@2.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.service@2.0.14
+- pkg:maven/com.liferay/com.liferay.site.navigation.service@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.service@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.service@1.0.39
+- pkg:maven/com.liferay/com.liferay.site.navigation.service@1.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.service@1.0.39?classifier=sources-commercial

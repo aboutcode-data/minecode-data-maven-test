@@ -300,3 +300,12 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.12
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.13
+- pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.31
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@3.0.33
+- pkg:maven/com.liferay/com.liferay.marketplace.service@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@3.0.33?classifier=sources-commercial

@@ -299,3 +299,9 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.service@3.0.26
 - pkg:maven/com.liferay/com.liferay.message.boards.service@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.service@3.0.27
+- pkg:maven/com.liferay/com.liferay.message.boards.service@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@3.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.service@2.0.58
+- pkg:maven/com.liferay/com.liferay.message.boards.service@2.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@2.0.58?classifier=sources-commercial

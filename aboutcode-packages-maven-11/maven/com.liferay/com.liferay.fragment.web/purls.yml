@@ -256,3 +256,12 @@
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.35
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.37
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.36
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@1.0.57
+- pkg:maven/com.liferay/com.liferay.fragment.web@1.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@1.0.57?classifier=sources-commercial

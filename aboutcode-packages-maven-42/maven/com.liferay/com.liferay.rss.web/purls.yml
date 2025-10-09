@@ -229,3 +229,12 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.21
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.19
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.18
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@4.0.23
+- pkg:maven/com.liferay/com.liferay.rss.web@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@4.0.23?classifier=sources-commercial

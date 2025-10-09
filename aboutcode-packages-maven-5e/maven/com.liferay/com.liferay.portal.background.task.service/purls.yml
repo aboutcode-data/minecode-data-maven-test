@@ -308,3 +308,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.background.task.service@5.0.18
 - pkg:maven/com.liferay/com.liferay.portal.background.task.service@5.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.background.task.service@5.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@5.0.19
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@5.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@5.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@4.0.32
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@3.0.41
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@3.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.background.task.service@3.0.41?classifier=sources-commercial

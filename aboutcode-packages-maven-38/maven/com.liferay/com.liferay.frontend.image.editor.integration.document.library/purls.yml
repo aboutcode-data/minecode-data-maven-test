@@ -121,3 +121,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.7
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.8
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.11
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.11?classifier=sources-commercial

@@ -500,3 +500,12 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.23
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.24
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.44
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.20
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.20?classifier=sources-commercial

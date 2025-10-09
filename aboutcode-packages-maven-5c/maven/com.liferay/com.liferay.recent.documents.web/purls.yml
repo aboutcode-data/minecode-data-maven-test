@@ -104,3 +104,9 @@
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.6
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@4.0.11
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@4.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@4.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.7?classifier=sources-commercial
