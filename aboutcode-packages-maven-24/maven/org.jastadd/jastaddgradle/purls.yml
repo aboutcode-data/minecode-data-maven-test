@@ -40,3 +40,5 @@
 - pkg:maven/org.jastadd/jastaddgradle@1.12.3?classifier=sources
 - pkg:maven/org.jastadd/jastaddgradle@1.12.4
 - pkg:maven/org.jastadd/jastaddgradle@1.12.4?classifier=sources
+- pkg:maven/org.jastadd/jastaddgradle@1.13.0
+- pkg:maven/org.jastadd/jastaddgradle@1.13.0?classifier=sources

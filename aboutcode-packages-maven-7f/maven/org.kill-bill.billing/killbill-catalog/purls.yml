@@ -184,3 +184,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-catalog@0.18.19?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-catalog@0.19.7
 - pkg:maven/org.kill-bill.billing/killbill-catalog@0.19.7?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-catalog@0.19.8
+- pkg:maven/org.kill-bill.billing/killbill-catalog@0.19.8?classifier=sources

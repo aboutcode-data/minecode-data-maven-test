@@ -46,3 +46,5 @@
 - pkg:maven/org.neo4j/neo4j-values@3.3.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-values@3.4.0-alpha10
 - pkg:maven/org.neo4j/neo4j-values@3.4.0-alpha10?classifier=sources
+- pkg:maven/org.neo4j/neo4j-values@3.4.0-beta01
+- pkg:maven/org.neo4j/neo4j-values@3.4.0-beta01?classifier=sources
