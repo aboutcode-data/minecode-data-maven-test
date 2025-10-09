@@ -34,3 +34,7 @@
 - pkg:maven/org.webjars.npm/npm@5.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/npm@5.5.1
 - pkg:maven/org.webjars.npm/npm@5.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/npm@5.7.1
+- pkg:maven/org.webjars.npm/npm@5.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/npm@4.4.1
+- pkg:maven/org.webjars.npm/npm@4.4.1?classifier=sources

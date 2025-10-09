@@ -28,3 +28,5 @@
 - pkg:maven/org.snmp4j/snmp4j@2.5.11?classifier=sources
 - pkg:maven/org.snmp4j/snmp4j@2.5.10
 - pkg:maven/org.snmp4j/snmp4j@2.5.10?classifier=sources
+- pkg:maven/org.snmp4j/snmp4j@2.6.0
+- pkg:maven/org.snmp4j/snmp4j@2.6.0?classifier=sources

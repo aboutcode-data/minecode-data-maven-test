@@ -156,3 +156,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.2.13.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.2.13.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@5.0.2.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@5.0.2.RELEASE?classifier=sources
