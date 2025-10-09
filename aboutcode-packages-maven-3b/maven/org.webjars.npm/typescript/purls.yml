@@ -144,3 +144,5 @@
 - pkg:maven/org.webjars.npm/typescript@3.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@3.7.0-dev.20190820
 - pkg:maven/org.webjars.npm/typescript@3.7.0-dev.20190820?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.6.2
+- pkg:maven/org.webjars.npm/typescript@3.6.2?classifier=sources

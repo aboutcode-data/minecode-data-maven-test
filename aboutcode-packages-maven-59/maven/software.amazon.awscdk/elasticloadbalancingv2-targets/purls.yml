@@ -2,3 +2,5 @@
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-targets@1.6.1.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-targets@1.6.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-targets@1.6.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-targets@1.7.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-targets@1.7.0.DEVPREVIEW?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.voltdb/voltdbclient@8.4.3?classifier=sources
 - pkg:maven/org.voltdb/voltdbclient@8.4.2
 - pkg:maven/org.voltdb/voltdbclient@8.4.2?classifier=sources
+- pkg:maven/org.voltdb/voltdbclient@9.1.1
+- pkg:maven/org.voltdb/voltdbclient@9.1.1?classifier=sources

@@ -14,3 +14,11 @@
 - pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.7.33-PREVIEW?classifier=sources
 - pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.7.32-PREVIEW
 - pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.7.32-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.3-PREVIEW
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.3-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.2-PREVIEW
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.2-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.1-PREVIEW
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.1-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.0-PREVIEW
+- pkg:maven/software.amazon.awssdk/dynamodb-enhanced@2.8.0-PREVIEW?classifier=sources

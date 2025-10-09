@@ -48,3 +48,5 @@
 - pkg:maven/org.webjars.npm/async@2.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/async@3.1.0
 - pkg:maven/org.webjars.npm/async@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/async@0.1.22
+- pkg:maven/org.webjars.npm/async@0.1.22?classifier=sources
