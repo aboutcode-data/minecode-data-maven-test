@@ -32,3 +32,5 @@
 - pkg:maven/org.zalando.stups/stups-jaxws-oauth2@1.0.9?classifier=sources
 - pkg:maven/org.zalando.stups/stups-jaxws-oauth2@1.0.10-RC1
 - pkg:maven/org.zalando.stups/stups-jaxws-oauth2@1.0.10-RC1?classifier=sources
+- pkg:maven/org.zalando.stups/stups-jaxws-oauth2@1.0.10
+- pkg:maven/org.zalando.stups/stups-jaxws-oauth2@1.0.10?classifier=sources

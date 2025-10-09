@@ -150,3 +150,5 @@
 - pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.8.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.10.Final
 - pkg:maven/org.wildfly.core/wildfly-process-controller@2.0.10.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-process-controller@2.1.0.CR1
+- pkg:maven/org.wildfly.core/wildfly-process-controller@2.1.0.CR1?classifier=sources
