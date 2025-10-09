@@ -54,3 +54,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.9?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.10?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.10?classifier=sources
