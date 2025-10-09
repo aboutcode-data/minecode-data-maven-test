@@ -22,3 +22,5 @@
 - pkg:maven/org.threadly/litesockets-http-protocol@0.14?classifier=sources
 - pkg:maven/org.threadly/litesockets-http-protocol@0.17
 - pkg:maven/org.threadly/litesockets-http-protocol@0.17?classifier=sources
+- pkg:maven/org.threadly/litesockets-http-protocol@0.18
+- pkg:maven/org.threadly/litesockets-http-protocol@0.18?classifier=sources
