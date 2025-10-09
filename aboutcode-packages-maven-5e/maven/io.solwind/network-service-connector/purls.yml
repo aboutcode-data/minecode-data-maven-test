@@ -8,3 +8,5 @@
 - pkg:maven/io.solwind/network-service-connector@0.0.6?classifier=sources
 - pkg:maven/io.solwind/network-service-connector@0.0.5
 - pkg:maven/io.solwind/network-service-connector@0.0.5?classifier=sources
+- pkg:maven/io.solwind/network-service-connector@1.0.0
+- pkg:maven/io.solwind/network-service-connector@1.0.0?classifier=sources

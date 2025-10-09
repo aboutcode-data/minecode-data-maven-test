@@ -26,3 +26,7 @@
 - pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.9?classifier=sources
 - pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.10
 - pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.10?classifier=sources
+- pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.12
+- pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.12?classifier=sources
+- pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.11
+- pkg:maven/io.fabric8.zipkin/zipkin-starter-mysql@0.1.11?classifier=sources

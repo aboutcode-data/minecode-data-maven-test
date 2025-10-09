@@ -14,3 +14,5 @@
 - pkg:maven/io.joynr.performance/performance-test-jee@0.27.2?classifier=sources
 - pkg:maven/io.joynr.performance/performance-test-jee@0.27.3?type=war
 - pkg:maven/io.joynr.performance/performance-test-jee@0.27.3?classifier=sources
+- pkg:maven/io.joynr.performance/performance-test-jee@0.27.99?type=war
+- pkg:maven/io.joynr.performance/performance-test-jee@0.27.99?classifier=sources
