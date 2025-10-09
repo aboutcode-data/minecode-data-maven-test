@@ -10,3 +10,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.7?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.8
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.8?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.8.1
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac-errorprone@2.8.1?classifier=sources

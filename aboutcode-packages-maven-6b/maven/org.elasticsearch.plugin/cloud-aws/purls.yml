@@ -17,3 +17,4 @@
 - pkg:maven/org.elasticsearch.plugin/cloud-aws@2.3.4?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/cloud-aws@2.3.5?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/cloud-aws@2.4.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/cloud-aws@2.4.1?classifier=sources
