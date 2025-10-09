@@ -81,3 +81,5 @@
 - pkg:maven/org.wildfly.swarm/management@2018.2.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/management@2017.10.2
 - pkg:maven/org.wildfly.swarm/management@2017.10.2?classifier=sources
+- pkg:maven/org.wildfly.swarm/management@2018.3.0
+- pkg:maven/org.wildfly.swarm/management@2018.3.0?classifier=sources

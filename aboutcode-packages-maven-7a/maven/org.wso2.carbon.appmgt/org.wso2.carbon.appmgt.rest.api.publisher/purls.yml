@@ -20,3 +20,5 @@
 - pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.49?classifier=sources
 - pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.48?type=war
 - pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.48?classifier=sources
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.51?type=war
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.51?classifier=sources

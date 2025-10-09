@@ -24,3 +24,5 @@
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update11?classifier=sources
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update12?type=war
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update12?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update13?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update13?classifier=sources
