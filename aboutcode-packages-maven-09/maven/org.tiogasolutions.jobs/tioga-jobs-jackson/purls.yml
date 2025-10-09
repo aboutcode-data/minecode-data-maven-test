@@ -16,3 +16,5 @@
 - pkg:maven/org.tiogasolutions.jobs/tioga-jobs-jackson@4.2.0?classifier=sources
 - pkg:maven/org.tiogasolutions.jobs/tioga-jobs-jackson@4.2.2
 - pkg:maven/org.tiogasolutions.jobs/tioga-jobs-jackson@4.2.2?classifier=sources
+- pkg:maven/org.tiogasolutions.jobs/tioga-jobs-jackson@5.0.0
+- pkg:maven/org.tiogasolutions.jobs/tioga-jobs-jackson@5.0.0?classifier=sources

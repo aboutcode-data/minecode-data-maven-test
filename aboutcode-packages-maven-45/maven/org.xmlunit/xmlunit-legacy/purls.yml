@@ -4,3 +4,5 @@
 - pkg:maven/org.xmlunit/xmlunit-legacy@2.0.0-alpha-03?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-legacy@2.0.0-alpha-04
 - pkg:maven/org.xmlunit/xmlunit-legacy@2.0.0-alpha-04?classifier=sources
+- pkg:maven/org.xmlunit/xmlunit-legacy@2.0.0
+- pkg:maven/org.xmlunit/xmlunit-legacy@2.0.0?classifier=sources

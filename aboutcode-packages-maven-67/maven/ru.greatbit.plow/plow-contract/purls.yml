@@ -1,0 +1,4 @@
+- pkg:maven/ru.greatbit.plow/plow-contract@1.2
+- pkg:maven/ru.greatbit.plow/plow-contract@1.2?classifier=sources
+- pkg:maven/ru.greatbit.plow/plow-contract@1.1
+- pkg:maven/ru.greatbit.plow/plow-contract@1.1?classifier=sources
