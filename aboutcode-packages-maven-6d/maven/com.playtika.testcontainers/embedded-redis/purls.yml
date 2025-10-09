@@ -36,3 +36,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-redis@1.22?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-redis@1.23
 - pkg:maven/com.playtika.testcontainers/embedded-redis@1.23?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-redis@1.24
+- pkg:maven/com.playtika.testcontainers/embedded-redis@1.24?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.oracle.substratevm/graal-hotspot-library@19.0.0?classifier=sources
 - pkg:maven/com.oracle.substratevm/graal-hotspot-library@19.0.2
 - pkg:maven/com.oracle.substratevm/graal-hotspot-library@19.0.2?classifier=sources
+- pkg:maven/com.oracle.substratevm/graal-hotspot-library@19.1.0
+- pkg:maven/com.oracle.substratevm/graal-hotspot-library@19.1.0?classifier=sources
